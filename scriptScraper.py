@@ -11,7 +11,8 @@ season = ['One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'
 driver = webdriver.Firefox()
 
 # Scrape every season
-for s in season:
+for sn, s in enumerate(season):
+    print(f"Scraping season {s}")
     url = f"https://southpark.fandom.com/wiki/Portal:Scripts/Season_{s}"
     driver.get(url)
     time.sleep(1)
@@ -27,11 +28,36 @@ for s in season:
     eps = episodes.find_elements(By.CLASS_NAME, "link-internal")
     # Click every episode.
     for i in range(len(eps)):
+        print(f"Scraping Episode {i}")
         driver.get(url)
         time.sleep(3)
         episodes = driver.find_element(By.XPATH, episodes_xpath)
         eps = episodes.find_elements(By.CLASS_NAME, "link-internal")
         eps[i].click()
-        time.sleep(10)
+        time.sleep(3)
+
+        # Scrapes episode
+        ep_script = ""
+        table = driver.find_element(By.XPATH, table_xpath)
+        for row in table.find_elements(By.TAG_NAME, 'tr'):
+            for k, col in enumerate(row.find_elements(By.TAG_NAME, 'td')):
+                if len(row.find_elements(By.TAG_NAME, 'td')) == 1:
+                    ep_script += col.text + "\n"
+                else:
+                    if k == 0:
+                        if col.text == "":
+                            brackets = True
+                        else:
+                            ep_script += col.text.upper() + "\n"
+                    elif k == 1:
+                        if brackets:
+                            ep_script += f"[{col.text}]\n"
+                            brackets = False
+                        else:
+                            ep_script += col.text + "\n"
+
+        text_file = open(f"S{str(sn+1).zfill(2)}E{str(i+1).zfill(2)}.txt", "w")
+        text_file.write(ep_script)
+        text_file.close()
 
 
