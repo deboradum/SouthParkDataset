@@ -42,7 +42,7 @@ for sn, s in enumerate(season):
         try:
             table = driver.find_element(By.XPATH, table_xpath)
         except Exception as e:
-            print(f"Season {s} episode i failed")
+            print(f"Season {s} episode {i} failed")
             continue
         for row in table.find_elements(By.TAG_NAME, 'tr'):
             for k, col in enumerate(row.find_elements(By.TAG_NAME, 'td')):
