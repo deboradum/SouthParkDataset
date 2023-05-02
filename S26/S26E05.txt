@@ -1,0 +1,6 @@
+DikinBaus Hot Dogs
+
+[Script goes here]
+SCRIPT
+script goes here
+End of DikinBaus Hot Dogs
