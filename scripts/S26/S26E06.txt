@@ -1,6 +1,0 @@
-Spring Break
-
-[Script goes here]
-SCRIPT
-script goes here
-End of Spring Break
