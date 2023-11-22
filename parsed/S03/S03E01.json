@@ -1,0 +1,1326 @@
+[
+  {
+    "input": "",
+    "output": "Rainforest Shmainforest\n\n[South Park Elementary, Garrison's class. A group of visiting kids in yellow G.G.W.K. shirts stands next to Garrison.]\n"
+  },
+  {
+    "input": "Rainforest Shmainforest\n\n[South Park Elementary, Garrison's class. A group of visiting kids in yellow G.G.W.K. shirts stands next to Garrison.]\n",
+    "output": "Okay, children, we have a special guest today, a woman recruiting young people [she walks to the group and smiles] for a national choir tour. Now I know that choir tours are totally stupid and lame [she frowns], but please, give her your full attention. [to her] Go ahead.\n"
+  },
+  {
+    "input": "Okay, children, we have a special guest today, a woman recruiting young people [she walks to the group and smiles] for a national choir tour. Now I know that choir tours are totally stupid and lame [she frowns], but please, give her your full attention. [to her] Go ahead.\n",
+    "output": "Uh. Thank you, Mr. Garrison. [cheerfully] How are we all doing today?! [the kids' eyes wander] I can't hear you! I said, How are we all doing?! [Cartman farts]\n"
+  },
+  {
+    "input": "Uh. Thank you, Mr. Garrison. [cheerfully] How are we all doing today?! [the kids' eyes wander] I can't hear you! I said, How are we all doing?! [Cartman farts]\n",
+    "output": "[angrily] Eric Cartman, you say \u2018\u2019excuse me\u201d!\n"
+  },
+  {
+    "input": "[angrily] Eric Cartman, you say \u2018\u2019excuse me\u201d!\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "[to the choir teacher] Go ahead.\n"
+  },
+  {
+    "input": "[to the choir teacher] Go ahead.\n",
+    "output": "Children, we are a national choir called, \"Getting Gay With Kids!\" We're gonna do a big tour down in Central America to help save the rainforest, and you can be a part of it!\n"
+  },
+  {
+    "input": "Children, we are a national choir called, \"Getting Gay With Kids!\" We're gonna do a big tour down in Central America to help save the rainforest, and you can be a part of it!\n",
+    "output": "(That sounds fucking screwed.) [the others laugh]\n"
+  },
+  {
+    "input": "(That sounds fucking screwed.) [the others laugh]\n",
+    "output": "Kenny McCormick, you speak when you're spoken to!! [to the choir teacher] Go ahead.\n"
+  },
+  {
+    "input": "Kenny McCormick, you speak when you're spoken to!! [to the choir teacher] Go ahead.\n",
+    "output": "You see, we take kids from all over the country and put them in a choir [Pip yawns and Bill notices. Clyde nods off] where we sing and dance to raise awareness about our vanishing rainforest.\n"
+  },
+  {
+    "input": "You see, we take kids from all over the country and put them in a choir [Pip yawns and Bill notices. Clyde nods off] where we sing and dance to raise awareness about our vanishing rainforest.\n",
+    "output": "[steps forward] Did you know over 10,000 acres of rainforest are bulldozed every year?\n"
+  },
+  {
+    "input": "[steps forward] Did you know over 10,000 acres of rainforest are bulldozed every year?\n",
+    "output": "[steps forward] That's right. And over 30% of the world's oxygen [Kenny sees her and begins to swoon] is made in the rainforest. [smiles back at him. Kenny's in love - ahem, distracted. The camera stays on him]\n"
+  },
+  {
+    "input": "[steps forward] That's right. And over 30% of the world's oxygen [Kenny sees her and begins to swoon] is made in the rainforest. [smiles back at him. Kenny's in love - ahem, distracted. The camera stays on him]\n",
+    "output": "So, who wants to join the fun??\n"
+  },
+  {
+    "input": "So, who wants to join the fun??\n",
+    "output": "What if you don't have any rhythm?\n"
+  },
+  {
+    "input": "What if you don't have any rhythm?\n",
+    "output": "Excuse me?\n"
+  },
+  {
+    "input": "Excuse me?\n",
+    "output": "Well, like my friend Kyle. He's Jewish, so he doesn't have any rhythm.\n"
+  },
+  {
+    "input": "Well, like my friend Kyle. He's Jewish, so he doesn't have any rhythm.\n",
+    "output": "Shut up, fatass!\n"
+  },
+  {
+    "input": "Shut up, fatass!\n",
+    "output": "Choirs suck.\n"
+  },
+  {
+    "input": "Choirs suck.\n",
+    "output": "Kyle Broflovski, you watch your language!! Eric Cartman, you be nice to people!! Stan Marsh, you mind your manners!! Kenny McCormick, you pay attention!! [sighs deeply and tells the choir teacher] Go ahead.\n"
+  },
+  {
+    "input": "Kyle Broflovski, you watch your language!! Eric Cartman, you be nice to people!! Stan Marsh, you mind your manners!! Kenny McCormick, you pay attention!! [sighs deeply and tells the choir teacher] Go ahead.\n",
+    "output": "Well, uh, that's all, really. [the girl picks her nose, smiling at Kenny] So, if anyone is interested in seeing the rainforest and joining our choir, I'll leave information packets up front.\n"
+  },
+  {
+    "input": "Well, uh, that's all, really. [the girl picks her nose, smiling at Kenny] So, if anyone is interested in seeing the rainforest and joining our choir, I'll leave information packets up front.\n",
+    "output": "Oh, that's good. We need some more toilet paper. [the other kids laugh]\n"
+  },
+  {
+    "input": "Oh, that's good. We need some more toilet paper. [the other kids laugh]\n",
+    "output": "All right, that does it!!\n[Mr. Mackey's office. Craig isn't sitting on the bench outside, as he usually is.]\n"
+  },
+  {
+    "input": "All right, that does it!!\n[Mr. Mackey's office. Craig isn't sitting on the bench outside, as he usually is.]\n",
+    "output": "[behind the door] I am tired of seeing you in my office, young man! [The camera is now inside] You get sent here every day, Craig!\n"
+  },
+  {
+    "input": "[behind the door] I am tired of seeing you in my office, young man! [The camera is now inside] You get sent here every day, Craig!\n",
+    "output": "I know.\n"
+  },
+  {
+    "input": "I know.\n",
+    "output": "Why can\u2019t you behave?\n"
+  },
+  {
+    "input": "Why can\u2019t you behave?\n",
+    "output": "...I don\u2019t know.\n"
+  },
+  {
+    "input": "...I don\u2019t know.\n",
+    "output": "What do you have to say for yourself?! [nothing] Well, I tell you what, young man. Uh, you're gonna be held back a grade if you don't luh- [Craig sticks his right middle finger up] Did you just flip me off?\n"
+  },
+  {
+    "input": "What do you have to say for yourself?! [nothing] Well, I tell you what, young man. Uh, you're gonna be held back a grade if you don't luh- [Craig sticks his right middle finger up] Did you just flip me off?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "Yes you did, you just flipped me the bird! Now, see? This is exactly what I'm talking about! If you don't shape up, m'kay, and get your head straight, uh- [Craig flips Mr. Mackey off again] There! You just flipped me off again!\n"
+  },
+  {
+    "input": "Yes you did, you just flipped me the bird! Now, see? This is exactly what I'm talking about! If you don't shape up, m'kay, and get your head straight, uh- [Craig flips Mr. Mackey off again] There! You just flipped me off again!\n",
+    "output": "No I didn\u2019t.\n"
+  },
+  {
+    "input": "No I didn\u2019t.\n",
+    "output": "Yes you did! And until you stop flipping people off, you can just go back to the waiting room, m'kay?! Next! [Craig hops off the chair as the door opens. The boys enter.] Well, well, well, if it isn't Stan, Kyle, Kenny, and Eric. [Craig exits]\n"
+  },
+  {
+    "input": "Yes you did! And until you stop flipping people off, you can just go back to the waiting room, m'kay?! Next! [Craig hops off the chair as the door opens. The boys enter.] Well, well, well, if it isn't Stan, Kyle, Kenny, and Eric. [Craig exits]\n",
+    "output": "Hey, Craig.\n"
+  },
+  {
+    "input": "Hey, Craig.\n",
+    "output": "Hey, don't flip me off, you son of a bitch!\n"
+  },
+  {
+    "input": "Hey, don't flip me off, you son of a bitch!\n",
+    "output": "Sit down, boys. Now, let's see. What did Mr. Garrison send you in here for? The boys were being rude while a choir teacher was giving some stupid presentation-\n"
+  },
+  {
+    "input": "Sit down, boys. Now, let's see. What did Mr. Garrison send you in here for? The boys were being rude while a choir teacher was giving some stupid presentation-\n",
+    "output": "It's just some dumb activist kids' choir thing.\n"
+  },
+  {
+    "input": "It's just some dumb activist kids' choir thing.\n",
+    "output": "Uh, young man, \"Getting Gay With Kids\" is not dumb, m'kay? It just so happens that I'm on the board of directors.\n"
+  },
+  {
+    "input": "Uh, young man, \"Getting Gay With Kids\" is not dumb, m'kay? It just so happens that I'm on the board of directors.\n",
+    "output": "Dude! All those choirs are the same. They don't even really sing. They use pre-recorded tapes.\n"
+  },
+  {
+    "input": "Dude! All those choirs are the same. They don't even really sing. They use pre-recorded tapes.\n",
+    "output": "Well, guess what, boys? I think that \"Getting Gay With Kids\" is just what you need. I'm gonna sign up all four of you.\n"
+  },
+  {
+    "input": "Well, guess what, boys? I think that \"Getting Gay With Kids\" is just what you need. I'm gonna sign up all four of you.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "You can't do that! [Cartman's jaw drops]\n"
+  },
+  {
+    "input": "You can't do that! [Cartman's jaw drops]\n",
+    "output": "(Woohoo!) [the boys look at him] (I mean, 'Oh...') [looks down]\n"
+  },
+  {
+    "input": "(Woohoo!) [the boys look at him] (I mean, 'Oh...') [looks down]\n",
+    "output": "I think this will be very good for you [writes their names down]\n"
+  },
+  {
+    "input": "I think this will be very good for you [writes their names down]\n",
+    "output": "But we don't even care about the rainforest.\n"
+  },
+  {
+    "input": "But we don't even care about the rainforest.\n",
+    "output": "And that's exactly why you need to go!\n"
+  },
+  {
+    "input": "And that's exactly why you need to go!\n",
+    "output": "[drops down and pleads] Please, Mr. Mackey, we'll be good. Don't send us to that ole kids' choir. Have mercy, Mr. Mackey.\n[Kyle's house, some days later. The Get Gay With Kids bus pulls up to Kyle's house to pick up Kyle, Cartman, and Stan.]\n"
+  },
+  {
+    "input": "[drops down and pleads] Please, Mr. Mackey, we'll be good. Don't send us to that ole kids' choir. Have mercy, Mr. Mackey.\n[Kyle's house, some days later. The Get Gay With Kids bus pulls up to Kyle's house to pick up Kyle, Cartman, and Stan.]\n",
+    "output": "Be safe, Kyle. Bring me something back from the rainforest.\n"
+  },
+  {
+    "input": "Be safe, Kyle. Bring me something back from the rainforest.\n",
+    "output": "Oh, nonono. The rainforest is very fragile. We must take only pictures and leave only footprints.\n"
+  },
+  {
+    "input": "Oh, nonono. The rainforest is very fragile. We must take only pictures and leave only footprints.\n",
+    "output": "Oh, I didn't realize.\n"
+  },
+  {
+    "input": "Oh, I didn't realize.\n",
+    "output": "Did you know that right now, bulldozers are tearing down thousands of acres of rainforest every day?\n"
+  },
+  {
+    "input": "Did you know that right now, bulldozers are tearing down thousands of acres of rainforest every day?\n",
+    "output": "[as he enters the bus] Aw, man, this is gonna suck donkey balls.\n"
+  },
+  {
+    "input": "[as he enters the bus] Aw, man, this is gonna suck donkey balls.\n",
+    "output": "[As Sharon drags him to the bus] Please don't make me go on a choir tour, Mom, please!\n"
+  },
+  {
+    "input": "[As Sharon drags him to the bus] Please don't make me go on a choir tour, Mom, please!\n",
+    "output": "Stan, you should be excited. I would love to see the rainforest. Besides, your dad and I need some time alone. [tosses him into the bus]\n"
+  },
+  {
+    "input": "Stan, you should be excited. I would love to see the rainforest. Besides, your dad and I need some time alone. [tosses him into the bus]\n",
+    "output": "Nooo-ho! [The door closes and the bus pulls away. Stan and Kyle look out the back window in dismay]\n"
+  },
+  {
+    "input": "Nooo-ho! [The door closes and the bus pulls away. Stan and Kyle look out the back window in dismay]\n",
+    "output": "Okay, children, that's all of us. We're ready to head for the Latin American nation of Costa Rica, a country filled with virgin rainforest.\n"
+  },
+  {
+    "input": "Okay, children, that's all of us. We're ready to head for the Latin American nation of Costa Rica, a country filled with virgin rainforest.\n",
+    "output": "Whoopee.\n"
+  },
+  {
+    "input": "Whoopee.\n",
+    "output": "And you must be Eric Cartman. I've heard about you. You don't respect nature or other cultures.\n"
+  },
+  {
+    "input": "And you must be Eric Cartman. I've heard about you. You don't respect nature or other cultures.\n",
+    "output": "Yeah, pretty much.\n"
+  },
+  {
+    "input": "Yeah, pretty much.\n",
+    "output": "Well, I'm gonna change the way you think, kiddo.\n"
+  },
+  {
+    "input": "Well, I'm gonna change the way you think, kiddo.\n",
+    "output": "[Kenny sits next to her] My name's Kelly.\n"
+  },
+  {
+    "input": "[Kenny sits next to her] My name's Kelly.\n",
+    "output": "(My name\u2019s Kenny.)\n"
+  },
+  {
+    "input": "(My name\u2019s Kenny.)\n",
+    "output": "Lenny?\n"
+  },
+  {
+    "input": "Lenny?\n",
+    "output": "(No, Kenny.)\n"
+  },
+  {
+    "input": "(No, Kenny.)\n",
+    "output": "Johnny?\n"
+  },
+  {
+    "input": "Johnny?\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Oh. [looks away and picks her nose.]\n"
+  },
+  {
+    "input": "Oh. [looks away and picks her nose.]\n",
+    "output": "Now, we've got a looong trip ahead of us, so let's take the opportunity to learn our choreography.\n"
+  },
+  {
+    "input": "Now, we've got a looong trip ahead of us, so let's take the opportunity to learn our choreography.\n",
+    "output": "[hushed] The nightmare begins.\n[The bus rolls along. A map pops up, showing the bus's route, and Latin music plays. It crosses the border at Mexicali, goes down the Baja peninsula, takes a ferry to Mexico and cuts across the North to the Gulf, then snakes down Central America to Costa Rica. They arrive at San Jos\u00e9.]\n"
+  },
+  {
+    "input": "[hushed] The nightmare begins.\n[The bus rolls along. A map pops up, showing the bus's route, and Latin music plays. It crosses the border at Mexicali, goes down the Baja peninsula, takes a ferry to Mexico and cuts across the North to the Gulf, then snakes down Central America to Costa Rica. They arrive at San Jos\u00e9.]\n",
+    "output": "Oh, look, children! I think we're entering San Jos\u00e9, which is the capital of Costa Rica. [the kids move to their windows and look out] Oh! This is so exciting!\n"
+  },
+  {
+    "input": "Oh, look, children! I think we're entering San Jos\u00e9, which is the capital of Costa Rica. [the kids move to their windows and look out] Oh! This is so exciting!\n",
+    "output": "Oh my God! Dude, look at how dirty and crappy everything is!\n"
+  },
+  {
+    "input": "Oh my God! Dude, look at how dirty and crappy everything is!\n",
+    "output": "Eric, Costa Rica is a Third-World country. These people are much poorer than those in the U.S.\n"
+  },
+  {
+    "input": "Eric, Costa Rica is a Third-World country. These people are much poorer than those in the U.S.\n",
+    "output": "Well, why the hell don't they get jobs?! [Throws open his window and yells] Ey! Why don't you people quit slacking off, and get a job! What's wrong with you?! Go to college!\n"
+  },
+  {
+    "input": "Well, why the hell don't they get jobs?! [Throws open his window and yells] Ey! Why don't you people quit slacking off, and get a job! What's wrong with you?! Go to college!\n",
+    "output": "Eric, sit down!\n"
+  },
+  {
+    "input": "Eric, sit down!\n",
+    "output": "[sits] Look, you've gotta be firm with these people or they just slack off and be poor forever. Right, Kenny? [Kenny looks at him angrily] Hey, maybe that's it, Kenny. Maybe you're Costa Rican; that's why your family's so poor.\n"
+  },
+  {
+    "input": "[sits] Look, you've gotta be firm with these people or they just slack off and be poor forever. Right, Kenny? [Kenny looks at him angrily] Hey, maybe that's it, Kenny. Maybe you're Costa Rican; that's why your family's so poor.\n",
+    "output": "[to Kelly] (Argh! That's not true.)\n"
+  },
+  {
+    "input": "[to Kelly] (Argh! That's not true.)\n",
+    "output": "[picks her nose] Your family isn't poor? [picks her nose]\n"
+  },
+  {
+    "input": "[picks her nose] Your family isn't poor? [picks her nose]\n",
+    "output": "Whoa, dude, look over there! [The bus stops. There are three women in front of a shop. A man has just dropped them off, pays them and drives away, and they wave at him.] Wow! Costa Rican prostitutes! Hey, look at the prostitutes, you guys!\n"
+  },
+  {
+    "input": "Whoa, dude, look over there! [The bus stops. There are three women in front of a shop. A man has just dropped them off, pays them and drives away, and they wave at him.] Wow! Costa Rican prostitutes! Hey, look at the prostitutes, you guys!\n",
+    "output": "[with heavy accent] What are chu looking at, man?\n"
+  },
+  {
+    "input": "[with heavy accent] What are chu looking at, man?\n",
+    "output": "Yeah, why don't chu take a peekture?\n"
+  },
+  {
+    "input": "Yeah, why don't chu take a peekture?\n",
+    "output": "Okay. [pretends] Cleek! [grins]\n"
+  },
+  {
+    "input": "Okay. [pretends] Cleek! [grins]\n",
+    "output": "Eric, SIT DOWN!\n[The bus stops at the Centro Nacional de Costa Rica and all exit.]\n"
+  },
+  {
+    "input": "Eric, SIT DOWN!\n[The bus stops at the Centro Nacional de Costa Rica and all exit.]\n",
+    "output": "Kids, this is the Costa Rican Capitol building. This is where all the leaders of the Costa Rican government make their-\n"
+  },
+  {
+    "input": "Kids, this is the Costa Rican Capitol building. This is where all the leaders of the Costa Rican government make their-\n",
+    "output": "[rushing out] Oh my God, [covers his nose] it smells like ass out here.\n"
+  },
+  {
+    "input": "[rushing out] Oh my God, [covers his nose] it smells like ass out here.\n",
+    "output": "Alll right, that does it! [turns Cartman around] Eric Cartman, you respect other cultures this instant!\n"
+  },
+  {
+    "input": "Alll right, that does it! [turns Cartman around] Eric Cartman, you respect other cultures this instant!\n",
+    "output": "[covers his nose again] I wasn't saying anything about their culture, I was just saying their city smells like ass.\n"
+  },
+  {
+    "input": "[covers his nose again] I wasn't saying anything about their culture, I was just saying their city smells like ass.\n",
+    "output": "Wow, seeing a place like this really makes you appreciate living in America, huh?\n"
+  },
+  {
+    "input": "Wow, seeing a place like this really makes you appreciate living in America, huh?\n",
+    "output": "[in bliss] (Uh-huh.) [Kelly picks her nose again]\n"
+  },
+  {
+    "input": "[in bliss] (Uh-huh.) [Kelly picks her nose again]\n",
+    "output": "You may think that making fun of Third-World countries is funny, but let me-\n"
+  },
+  {
+    "input": "You may think that making fun of Third-World countries is funny, but let me-\n",
+    "output": "I don't think it's funny! This place is overcrowded, smelly, and poor! That's not funny, that sucks!\n"
+  },
+  {
+    "input": "I don't think it's funny! This place is overcrowded, smelly, and poor! That's not funny, that sucks!\n",
+    "output": "Eric, will you please, please, just keep your mouth shut while we present ourselves to the Costa Rican President?\n"
+  },
+  {
+    "input": "Eric, will you please, please, just keep your mouth shut while we present ourselves to the Costa Rican President?\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Because I'll buy you some ice cream afterwards if you do.\n"
+  },
+  {
+    "input": "Because I'll buy you some ice cream afterwards if you do.\n",
+    "output": "Eh-heheh!\n[Inside the Capitol. All seem to be facing the President.]\n"
+  },
+  {
+    "input": "Eh-heheh!\n[Inside the Capitol. All seem to be facing the President.]\n",
+    "output": "Well, it was a long trip, but the children are very excited to sing tomorrow.\n"
+  },
+  {
+    "input": "Well, it was a long trip, but the children are very excited to sing tomorrow.\n",
+    "output": "[long pause] \u00bfQu\u00e9?\n"
+  },
+  {
+    "input": "[long pause] \u00bfQu\u00e9?\n",
+    "output": "Uh, we're, uh, we're the choir? That, that was sent from... the United States?\n"
+  },
+  {
+    "input": "Uh, we're, uh, we're the choir? That, that was sent from... the United States?\n",
+    "output": "[long pause] \u00bfQu\u00e9?\n"
+  },
+  {
+    "input": "[long pause] \u00bfQu\u00e9?\n",
+    "output": "We're the group singing for the \"Save The Rainforest\" summit tomorrow? [her head is cocked way to the left by now. El Presidente has no clue. Now the teacher is worried] Oh dear, where's, where's Mr. Mackey? He should have been here by now. [faces the kids] Children, do any of you speak Spanish? [Cartman waves his left arm] Don't you dare! [the main door opens]\n"
+  },
+  {
+    "input": "We're the group singing for the \"Save The Rainforest\" summit tomorrow? [her head is cocked way to the left by now. El Presidente has no clue. Now the teacher is worried] Oh dear, where's, where's Mr. Mackey? He should have been here by now. [faces the kids] Children, do any of you speak Spanish? [Cartman waves his left arm] Don't you dare! [the main door opens]\n",
+    "output": "[rushing in] Sorry I'm late.\n"
+  },
+  {
+    "input": "[rushing in] Sorry I'm late.\n",
+    "output": "Ogh! Thank goodness you're here; I don't speak any Spanish.\n"
+  },
+  {
+    "input": "Ogh! Thank goodness you're here; I don't speak any Spanish.\n",
+    "output": "Oh, no problem. [to El Presidente and his men] Usted es choir de Estados Unidos, mbien?\n"
+  },
+  {
+    "input": "Oh, no problem. [to El Presidente and his men] Usted es choir de Estados Unidos, mbien?\n",
+    "output": "\u00a1O! \u00a1O! Save The Rainforest.\n"
+  },
+  {
+    "input": "\u00a1O! \u00a1O! Save The Rainforest.\n",
+    "output": "Yeess!\n"
+  },
+  {
+    "input": "Yeess!\n",
+    "output": "Pablo los llevar\u00e1 en un tur de la jungla. [Pablo appears]\n"
+  },
+  {
+    "input": "Pablo los llevar\u00e1 en un tur de la jungla. [Pablo appears]\n",
+    "output": "Uh, he says Pablo here will take you on a rainforest tour.\n"
+  },
+  {
+    "input": "Uh, he says Pablo here will take you on a rainforest tour.\n",
+    "output": "Oh boy! Mr. Presidente, round up your subjects outside. We have a special gift for you. The gift... uh-of song. [moves aside]\n"
+  },
+  {
+    "input": "Oh boy! Mr. Presidente, round up your subjects outside. We have a special gift for you. The gift... uh-of song. [moves aside]\n",
+    "output": "[long pause] \u00bfQu\u00e9?\n[On the Capitol steps.]\n"
+  },
+  {
+    "input": "[long pause] \u00bfQu\u00e9?\n[On the Capitol steps.]\n",
+    "output": "All right, children, Let's get in our rows quickly, so we can begin.\n"
+  },
+  {
+    "input": "All right, children, Let's get in our rows quickly, so we can begin.\n",
+    "output": "[walks over to Kenny, her partner] Did you remember all the choreography, Lenny?\n"
+  },
+  {
+    "input": "[walks over to Kenny, her partner] Did you remember all the choreography, Lenny?\n",
+    "output": "(Yeah, I think so.)\n"
+  },
+  {
+    "input": "(Yeah, I think so.)\n",
+    "output": "Hello, everybody. This is just a little rehearsal for tomorrow, so we may be a little rusty. [chuckles and shrugs. The people just look. She presses the play button. The kids begin to dance to the music]\n"
+  },
+  {
+    "input": "Hello, everybody. This is just a little rehearsal for tomorrow, so we may be a little rusty. [chuckles and shrugs. The people just look. She presses the play button. The kids begin to dance to the music]\n",
+    "output": "[Intro] Tootin' tootin' to, tada choo choo wow!\n[Men sing]There's a place that is magical, and full of rain.\n[Women sing] But now it needs help, because it is in pain.\n[Men sing] Cleaning the earth is a mighty big chore\n[All sing] We're spreading awareness like never before!\n[Chorus] Getting Gay With Kids is here! [Kyle is out of step now]\nTo spread the word and bring you cheer\nLet's save the rainforest! What do you say?!\nBeing an activist is totally gay!\n\n[Bridge. Man sings] Someday if we work hard, boys and girls,\n[Woman sings] There'll be nothing but rainforests covering the entire world!\n[Man joins her] World!\n[Chorus. Kids rush into the audience and bring some members back as new partners]\nGetting Gay With Kids is here!\nTo spread the word and bring you cheer. Yeah!\nGetting Gay With Kids is here!\nLet's save the rainforest! It's totally gay!\nIt's totally gay!\n[The kids regroup and Kyle stumbles into place. The tape is stopped and the subjects just walk away]\n"
+  },
+  {
+    "input": "[Intro] Tootin' tootin' to, tada choo choo wow!\n[Men sing]There's a place that is magical, and full of rain.\n[Women sing] But now it needs help, because it is in pain.\n[Men sing] Cleaning the earth is a mighty big chore\n[All sing] We're spreading awareness like never before!\n[Chorus] Getting Gay With Kids is here! [Kyle is out of step now]\nTo spread the word and bring you cheer\nLet's save the rainforest! What do you say?!\nBeing an activist is totally gay!\n\n[Bridge. Man sings] Someday if we work hard, boys and girls,\n[Woman sings] There'll be nothing but rainforests covering the entire world!\n[Man joins her] World!\n[Chorus. Kids rush into the audience and bring some members back as new partners]\nGetting Gay With Kids is here!\nTo spread the word and bring you cheer. Yeah!\nGetting Gay With Kids is here!\nLet's save the rainforest! It's totally gay!\nIt's totally gay!\n[The kids regroup and Kyle stumbles into place. The tape is stopped and the subjects just walk away]\n",
+    "output": "Great job, gang! You were really all over the place, Kyle.\n"
+  },
+  {
+    "input": "Great job, gang! You were really all over the place, Kyle.\n",
+    "output": "Thanks!\n"
+  },
+  {
+    "input": "Thanks!\n",
+    "output": "I told you Jewish people don't have rhythm!\n"
+  },
+  {
+    "input": "I told you Jewish people don't have rhythm!\n",
+    "output": "Fuck off, Cartman!\n"
+  },
+  {
+    "input": "Fuck off, Cartman!\n",
+    "output": "No, dude! I think Cartman might actually be right.\n"
+  },
+  {
+    "input": "No, dude! I think Cartman might actually be right.\n",
+    "output": "[alarmed] No! That's a stereotype.\n"
+  },
+  {
+    "input": "[alarmed] No! That's a stereotype.\n",
+    "output": "Dude! Maybe you really don't have any rhythm. [Camera closes in on a stunned Kyle]\n[Next day, the sun rises over a sea of green, the canopy of the rainforest. The choir teacher and her group are touring with Pablo.]\n"
+  },
+  {
+    "input": "Dude! Maybe you really don't have any rhythm. [Camera closes in on a stunned Kyle]\n[Next day, the sun rises over a sea of green, the canopy of the rainforest. The choir teacher and her group are touring with Pablo.]\n",
+    "output": "This is now secondary rainforest we are entering. Notice the canopy of foliage.\n"
+  },
+  {
+    "input": "This is now secondary rainforest we are entering. Notice the canopy of foliage.\n",
+    "output": "Oh, it's everything I ever dreamed it would be!\n"
+  },
+  {
+    "input": "Oh, it's everything I ever dreamed it would be!\n",
+    "output": "God-damn, it's hot out here!\n"
+  },
+  {
+    "input": "God-damn, it's hot out here!\n",
+    "output": "[sees a branch] Aaah! Snake!\n"
+  },
+  {
+    "input": "[sees a branch] Aaah! Snake!\n",
+    "output": "No, dude. That's a branch.\n"
+  },
+  {
+    "input": "No, dude. That's a branch.\n",
+    "output": "Oh. [sees it again] Aaah! Snake!\n"
+  },
+  {
+    "input": "Oh. [sees it again] Aaah! Snake!\n",
+    "output": "No. That's the same branch again.\n"
+  },
+  {
+    "input": "No. That's the same branch again.\n",
+    "output": "Oh.\n"
+  },
+  {
+    "input": "Oh.\n",
+    "output": "[turns and stops the group] The rainforest is very delicate, and we must take steps to protect it.\n"
+  },
+  {
+    "input": "[turns and stops the group] The rainforest is very delicate, and we must take steps to protect it.\n",
+    "output": "[impatient] Yeah yeah yeah, take steps to protect it, blah blah blah. [Pablo looks at him] We hear this a million times back up in the States.\n"
+  },
+  {
+    "input": "[impatient] Yeah yeah yeah, take steps to protect it, blah blah blah. [Pablo looks at him] We hear this a million times back up in the States.\n",
+    "output": "Here! Look! These are squirrel monkeys. [one sits in a tree, resting] Endangered inhabitants of the rainforest.\n"
+  },
+  {
+    "input": "Here! Look! These are squirrel monkeys. [one sits in a tree, resting] Endangered inhabitants of the rainforest.\n",
+    "output": "Wow! Isn't he neat, Lenny? [takes a picture]\n"
+  },
+  {
+    "input": "Wow! Isn't he neat, Lenny? [takes a picture]\n",
+    "output": "[takes a branch and starts beating the monkey] Bad! Bad monkey! [it screams in pain]\n"
+  },
+  {
+    "input": "[takes a branch and starts beating the monkey] Bad! Bad monkey! [it screams in pain]\n",
+    "output": "Eric, what the heck are you doing?? [the monkey flees]\n"
+  },
+  {
+    "input": "Eric, what the heck are you doing?? [the monkey flees]\n",
+    "output": "[stops] I'm asserting myself. It's tough love. Just like my Mr. Kitty. When he's bad I say, \u201cUh that a bad Mr. Kitty!\u201d and I smack him on the head!\n"
+  },
+  {
+    "input": "[stops] I'm asserting myself. It's tough love. Just like my Mr. Kitty. When he's bad I say, \u201cUh that a bad Mr. Kitty!\u201d and I smack him on the head!\n",
+    "output": "And here is a three-toed sloth. [hangs from a branch with all four legs]\n"
+  },
+  {
+    "input": "And here is a three-toed sloth. [hangs from a branch with all four legs]\n",
+    "output": "[takes the branch and starts beating the sloth] It's bad! It's a bad three-toed sloth!\n"
+  },
+  {
+    "input": "[takes the branch and starts beating the sloth] It's bad! It's a bad three-toed sloth!\n",
+    "output": "[pulls him away] Eric, for God's sake, knock it off!!\n"
+  },
+  {
+    "input": "[pulls him away] Eric, for God's sake, knock it off!!\n",
+    "output": "[throws the branch at the sloth] Re\u2019spect my authoritah!\n"
+  },
+  {
+    "input": "[throws the branch at the sloth] Re\u2019spect my authoritah!\n",
+    "output": "Well, Mr. Pedro, this was a great tour, but I guess we should be getting back. We have a big concert tomorrow, Don't we, kids?!\n"
+  },
+  {
+    "input": "Well, Mr. Pedro, this was a great tour, but I guess we should be getting back. We have a big concert tomorrow, Don't we, kids?!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I wish we could have seen the Yanagopa.\n"
+  },
+  {
+    "input": "I wish we could have seen the Yanagopa.\n",
+    "output": "What's the Yanagopa?\n"
+  },
+  {
+    "input": "What's the Yanagopa?\n",
+    "output": "The Yanagopa are gentle native people that live in the rainforest, but bulldozers are destroying their homes. Soon, they will have nowhere to go. So we must stop bulldozing the rainforest so that they can live-!\n"
+  },
+  {
+    "input": "The Yanagopa are gentle native people that live in the rainforest, but bulldozers are destroying their homes. Soon, they will have nowhere to go. So we must stop bulldozing the rainforest so that they can live-!\n",
+    "output": "[fed up, buries his face in his mitts] Aagh Ghyod, here she goes again!!\n"
+  },
+  {
+    "input": "[fed up, buries his face in his mitts] Aagh Ghyod, here she goes again!!\n",
+    "output": "AAAAAAA! [hides behind a girl]\n"
+  },
+  {
+    "input": "AAAAAAA! [hides behind a girl]\n",
+    "output": "Stanley, what is it?\n"
+  },
+  {
+    "input": "Stanley, what is it?\n",
+    "output": "SNAAAKE! [all see and gasp]\n"
+  },
+  {
+    "input": "SNAAAKE! [all see and gasp]\n",
+    "output": "[standing next to the snake wrapped around a tree trunk] Oh, yes. Uh this is what we call a coral snake. Notice the red markings. Quite an amazing creature.\n"
+  },
+  {
+    "input": "[standing next to the snake wrapped around a tree trunk] Oh, yes. Uh this is what we call a coral snake. Notice the red markings. Quite an amazing creature.\n",
+    "output": "AAAAAAA! [runs farther back]\n"
+  },
+  {
+    "input": "AAAAAAA! [runs farther back]\n",
+    "output": "What's the matter, little boy?\n"
+  },
+  {
+    "input": "What's the matter, little boy?\n",
+    "output": "He's a little wuss, what's it look like? [Stan is hiding behind some foliage]\n"
+  },
+  {
+    "input": "He's a little wuss, what's it look like? [Stan is hiding behind some foliage]\n",
+    "output": "[lifts some away] I'm just a-scared of snakes.\n"
+  },
+  {
+    "input": "[lifts some away] I'm just a-scared of snakes.\n",
+    "output": "Naw, naw. You must remember. This snake is more afraid of us than we are of it. [the snake jumps out of the tree and wraps itself around him, suffocating him] Oh!! [the snake bites him all over the face. Stan looks and drops the foliage so as to hide, and Pablo falls] Agh.\n"
+  },
+  {
+    "input": "Naw, naw. You must remember. This snake is more afraid of us than we are of it. [the snake jumps out of the tree and wraps itself around him, suffocating him] Oh!! [the snake bites him all over the face. Stan looks and drops the foliage so as to hide, and Pablo falls] Agh.\n",
+    "output": "[in horror] Oh my God!! [the snake starts swallowing Pablo]\n"
+  },
+  {
+    "input": "[in horror] Oh my God!! [the snake starts swallowing Pablo]\n",
+    "output": "Yeah, that snake is really scared of us all right!\n"
+  },
+  {
+    "input": "Yeah, that snake is really scared of us all right!\n",
+    "output": "[petrified] Jesus Christ, is he dead?! [Pablo's bones come out of the snake's anus]\n"
+  },
+  {
+    "input": "[petrified] Jesus Christ, is he dead?! [Pablo's bones come out of the snake's anus]\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "My guess would be yes.\n"
+  },
+  {
+    "input": "My guess would be yes.\n",
+    "output": "Oh, no! God, no, no! [spins around] Don't panic, children.\n"
+  },
+  {
+    "input": "Oh, no! God, no, no! [spins around] Don't panic, children.\n",
+    "output": "[beats the snake, which turns and comes at him] Bad! That's a bad snay-ah! [hurries away, and the snake gives chase]\n[The sun sets over the rainforest. The choir teacher now guides the group\u2026]\n"
+  },
+  {
+    "input": "[beats the snake, which turns and comes at him] Bad! That's a bad snay-ah! [hurries away, and the snake gives chase]\n[The sun sets over the rainforest. The choir teacher now guides the group\u2026]\n",
+    "output": "Maybe we came from that way. [points to her left] No, nno. Let's try this way. [points to her right and moves that way]\n"
+  },
+  {
+    "input": "Maybe we came from that way. [points to her left] No, nno. Let's try this way. [points to her right and moves that way]\n",
+    "output": "[walking behind Kenny] Benny? Do you think we're gonna be okay?\n"
+  },
+  {
+    "input": "[walking behind Kenny] Benny? Do you think we're gonna be okay?\n",
+    "output": "[stops] (Yeah. Everything is fine.)\n"
+  },
+  {
+    "input": "[stops] (Yeah. Everything is fine.)\n",
+    "output": "That's good. Can I tell you something?\n"
+  },
+  {
+    "input": "That's good. Can I tell you something?\n",
+    "output": "(Okay.)\n"
+  },
+  {
+    "input": "(Okay.)\n",
+    "output": "I think I like you. [holds his shoulder]\n"
+  },
+  {
+    "input": "I think I like you. [holds his shoulder]\n",
+    "output": "(Really?!)\n"
+  },
+  {
+    "input": "(Really?!)\n",
+    "output": "[releases] Yeah. I mean, I think we communicate really well.\n"
+  },
+  {
+    "input": "[releases] Yeah. I mean, I think we communicate really well.\n",
+    "output": "(Oh, that's great!)\n"
+  },
+  {
+    "input": "(Oh, that's great!)\n",
+    "output": "[looks away] No, that's not good.\n"
+  },
+  {
+    "input": "[looks away] No, that's not good.\n",
+    "output": "(That's not good?)\n"
+  },
+  {
+    "input": "(That's not good?)\n",
+    "output": "No. See, if I start to like you too much, [looks away] I'm only going to get my heart broken. 'Cause we live on opposite ends of the country. [looks at him again] Once this choir tour is over, we'll never see each other again. [grabs him and gets emotional] And that would devastate me. [lets go] So I can't have any feelings for you, I just can't, Lenny! [walks away]\n"
+  },
+  {
+    "input": "No. See, if I start to like you too much, [looks away] I'm only going to get my heart broken. 'Cause we live on opposite ends of the country. [looks at him again] Once this choir tour is over, we'll never see each other again. [grabs him and gets emotional] And that would devastate me. [lets go] So I can't have any feelings for you, I just can't, Lenny! [walks away]\n",
+    "output": "[pissed] (Aaaargh!)\n"
+  },
+  {
+    "input": "[pissed] (Aaaargh!)\n",
+    "output": "Oh, children, the sun is setting. We have to find our way out of here quick!\n[The sun sets and the moon appears over the rainforest. Lightning flashes and the camera slowly drops to ground cover.]\n"
+  },
+  {
+    "input": "Oh, children, the sun is setting. We have to find our way out of here quick!\n[The sun sets and the moon appears over the rainforest. Lightning flashes and the camera slowly drops to ground cover.]\n",
+    "output": "Whoa-kay, okay, everything is just fine, kids. Now it is important that we all stick together. Is everybody still here?\n"
+  },
+  {
+    "input": "Whoa-kay, okay, everything is just fine, kids. Now it is important that we all stick together. Is everybody still here?\n",
+    "output": "I\u2019m not.\n"
+  },
+  {
+    "input": "I\u2019m not.\n",
+    "output": "Who's not?!\n"
+  },
+  {
+    "input": "Who's not?!\n",
+    "output": "Me.\n"
+  },
+  {
+    "input": "Me.\n",
+    "output": "Benny, will you hold my hand? [picks her nose. When she lowers her hand, Kenny grabs it, but she looks away] I don't want to get emotionally attached, though.\n"
+  },
+  {
+    "input": "Benny, will you hold my hand? [picks her nose. When she lowers her hand, Kenny grabs it, but she looks away] I don't want to get emotionally attached, though.\n",
+    "output": "Oh my God, dude!! I just saw Tony Danza!!\n[Lightning flashes and the group is seen sitting in a row on the ground with Tony Danza visible seated in the middle next to the choir teacher.]\n"
+  },
+  {
+    "input": "Oh my God, dude!! I just saw Tony Danza!!\n[Lightning flashes and the group is seen sitting in a row on the ground with Tony Danza visible seated in the middle next to the choir teacher.]\n",
+    "output": "No, you didn't just see Tony Danza, Stanley.\n[Next day. The sun rises over the Centro Nacional. A rooster crows. A massive stage is prepared for the Save the Rain Forest summit. It looks like an amphitheater, with a scaffold holding ten speakers over the stage and bullhorns atop the pillars. Balloons and a Save the Rain Forest banner are also anchored to the scaffold.]\n"
+  },
+  {
+    "input": "No, you didn't just see Tony Danza, Stanley.\n[Next day. The sun rises over the Centro Nacional. A rooster crows. A massive stage is prepared for the Save the Rain Forest summit. It looks like an amphitheater, with a scaffold holding ten speakers over the stage and bullhorns atop the pillars. Balloons and a Save the Rain Forest banner are also anchored to the scaffold.]\n",
+    "output": "[on stage] Bueno, bueno. Pongan el arcoiris al lado de las tortugas muertas. (Put the rainbow next to the picture of dying sea turtles.) [the worker moves along]\n"
+  },
+  {
+    "input": "[on stage] Bueno, bueno. Pongan el arcoiris al lado de las tortugas muertas. (Put the rainbow next to the picture of dying sea turtles.) [the worker moves along]\n",
+    "output": "[approaching] Buenos dias, Se\u00f1or Presidente, \u00bfmbien? (Hello, El Presidente)\n"
+  },
+  {
+    "input": "[approaching] Buenos dias, Se\u00f1or Presidente, \u00bfmbien? (Hello, El Presidente)\n",
+    "output": "\u00bfQu\u00e9 tal? \u00bfEst\u00e1 todo bien? (Oh hello. Is everything going okay?)\n"
+  },
+  {
+    "input": "\u00bfQu\u00e9 tal? \u00bfEst\u00e1 todo bien? (Oh hello. Is everything going okay?)\n",
+    "output": "Uh, muy bien. Se\u00f1or Presidente, um... \u00bfUsted no ha visto el coro, no, mm-hm bien? (Oh fine, fine... You, uh, haven't seen the choir have you?)\n"
+  },
+  {
+    "input": "Uh, muy bien. Se\u00f1or Presidente, um... \u00bfUsted no ha visto el coro, no, mm-hm bien? (Oh fine, fine... You, uh, haven't seen the choir have you?)\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Parece que anoche no regresaron al hotel, hmbien. (Well, they never came back to the hotel last night...)\n"
+  },
+  {
+    "input": "Parece que anoche no regresaron al hotel, hmbien. (Well, they never came back to the hotel last night...)\n",
+    "output": "\u00a1\u00bfEst\u00e1 bromeando, Mackey?! \u00a1\u00a1\u00a1M\u00e1s de cien mil personas atender\u00e1n este evento!!! \u00a1\u00bfY me dice usted que no tendr\u00e9 a mis chiquitos lindos para que les canten?! (You've got to be kidding!! I have over a hundred thousand people coming to this event!!! Are you telling me that I have no darling little kids to sing to them?!)\n"
+  },
+  {
+    "input": "\u00a1\u00bfEst\u00e1 bromeando, Mackey?! \u00a1\u00a1\u00a1M\u00e1s de cien mil personas atender\u00e1n este evento!!! \u00a1\u00bfY me dice usted que no tendr\u00e9 a mis chiquitos lindos para que les canten?! (You've got to be kidding!! I have over a hundred thousand people coming to this event!!! Are you telling me that I have no darling little kids to sing to them?!)\n",
+    "output": "Estoy seguro que-uh-mmm, que-aaah llega- llegar\u00e1n. No se preocupe. Eh, olvidelo, \u00bfyeah-mbien? (I am sure they'll get here. No problem, forget I said anything.)\n[At the same time, in the rainforest, the group rises and marches on.]\n"
+  },
+  {
+    "input": "Estoy seguro que-uh-mmm, que-aaah llega- llegar\u00e1n. No se preocupe. Eh, olvidelo, \u00bfyeah-mbien? (I am sure they'll get here. No problem, forget I said anything.)\n[At the same time, in the rainforest, the group rises and marches on.]\n",
+    "output": "Dude, we're totally lost! We're gonna die out here!\n"
+  },
+  {
+    "input": "Dude, we're totally lost! We're gonna die out here!\n",
+    "output": "We are?\n"
+  },
+  {
+    "input": "We are?\n",
+    "output": "Don't worry, Kelly. We're gonna find our way out of the rainforest and make it back to the concert in time. We just need to respect our mother rainforest so that she will respect us.\n"
+  },
+  {
+    "input": "Don't worry, Kelly. We're gonna find our way out of the rainforest and make it back to the concert in time. We just need to respect our mother rainforest so that she will respect us.\n",
+    "output": "Miss Stevens, you have a bug on your back.\n"
+  },
+  {
+    "input": "Miss Stevens, you have a bug on your back.\n",
+    "output": "Oh, really? Could you brush it off? [shows her backpack, and a huge insect half her size growls on it]\n"
+  },
+  {
+    "input": "Oh, really? Could you brush it off? [shows her backpack, and a huge insect half her size growls on it]\n",
+    "output": "Um, no.\n"
+  },
+  {
+    "input": "Um, no.\n",
+    "output": "[panics] Oh, boy oh!! Oh my God, get it off me!! For the love of God, get it off me!! Oh my God!! [the insect growls and falls silent. Miss Stevens returns] Oh-okay, children. We must understand that the insects of the rainforest help the delicate balance of life here. [sees the insect, still on her back] Oh my God!! [runs off]\n"
+  },
+  {
+    "input": "[panics] Oh, boy oh!! Oh my God, get it off me!! For the love of God, get it off me!! Oh my God!! [the insect growls and falls silent. Miss Stevens returns] Oh-okay, children. We must understand that the insects of the rainforest help the delicate balance of life here. [sees the insect, still on her back] Oh my God!! [runs off]\n",
+    "output": "Rainforests suck! I wanna go home!\n"
+  },
+  {
+    "input": "Rainforests suck! I wanna go home!\n",
+    "output": "Me, too! [the rest start to groan]\n"
+  },
+  {
+    "input": "Me, too! [the rest start to groan]\n",
+    "output": "Shh. Children, okay, let's try to listen to what the rainforest tells us. And if we use our ears she can tell us so many things. Perhaps-\n"
+  },
+  {
+    "input": "Shh. Children, okay, let's try to listen to what the rainforest tells us. And if we use our ears she can tell us so many things. Perhaps-\n",
+    "output": "[Kyle runs into an adult] Aaaaa! There's a dude here! [a soldier holding a shotgun]\n"
+  },
+  {
+    "input": "[Kyle runs into an adult] Aaaaa! There's a dude here! [a soldier holding a shotgun]\n",
+    "output": "Oh, thank goodness! Hello, sir. We are lost. [giggles] Cah heh, can you help us?\n"
+  },
+  {
+    "input": "Oh, thank goodness! Hello, sir. We are lost. [giggles] Cah heh, can you help us?\n",
+    "output": "\u00bfQu\u00e9?\n"
+  },
+  {
+    "input": "\u00bfQu\u00e9?\n",
+    "output": "[moves forward] Let me try, let me try. We are from America. A-me-ri-ca. [the soldier listens] We are lost and verry hungry. Necesito burri-tos. [rubs his belly]\n"
+  },
+  {
+    "input": "[moves forward] Let me try, let me try. We are from America. A-me-ri-ca. [the soldier listens] We are lost and verry hungry. Necesito burri-tos. [rubs his belly]\n",
+    "output": "I don't wanna burrito, I want a taco. Supreme.\n"
+  },
+  {
+    "input": "I don't wanna burrito, I want a taco. Supreme.\n",
+    "output": "Y taco.\n"
+  },
+  {
+    "input": "Y taco.\n",
+    "output": "I want two tostadas and mild sauce.\n"
+  },
+  {
+    "input": "I want two tostadas and mild sauce.\n",
+    "output": "Two tostadas and mih-um enchilito.\n"
+  },
+  {
+    "input": "Two tostadas and mih-um enchilito.\n",
+    "output": "Boys, please. Not every Spanish person eats tacos and burritos. That's a stereotype. [the soldier points a way out with his thumb] Children, he wants us to follow him! Oooh, thank goodness! I think this ordeal is over! [they leave]\n[The group arrives at a military camp deep in the rainforest. Soldiers go about their maneuvers. The kids pass a small barbed-wire bunker.]\n"
+  },
+  {
+    "input": "Boys, please. Not every Spanish person eats tacos and burritos. That's a stereotype. [the soldier points a way out with his thumb] Children, he wants us to follow him! Oooh, thank goodness! I think this ordeal is over! [they leave]\n[The group arrives at a military camp deep in the rainforest. Soldiers go about their maneuvers. The kids pass a small barbed-wire bunker.]\n",
+    "output": "This doesn't look very safe.\n"
+  },
+  {
+    "input": "This doesn't look very safe.\n",
+    "output": "Yeah. I think we should get the hell out of here.\n"
+  },
+  {
+    "input": "Yeah. I think we should get the hell out of here.\n",
+    "output": "Now kids, let's be a bit more open-minded. I read all about this in Newsweek; this is a people's army. They are fighting the fascist policies of their fascist government. [addresses them with a lilt] Oh, hello. Do you speak of English?\n"
+  },
+  {
+    "input": "Now kids, let's be a bit more open-minded. I read all about this in Newsweek; this is a people's army. They are fighting the fascist policies of their fascist government. [addresses them with a lilt] Oh, hello. Do you speak of English?\n",
+    "output": "[crisp] Who are you?!\n"
+  },
+  {
+    "input": "[crisp] Who are you?!\n",
+    "output": "Oh, wonderful! We were lost, and it is such a great coincidence we found you. You see, we're here to protest the government-sanctioned raping of your rainforest. [the soldiers just stare] We are fighters, just like you. Could you help us get back to San Jos\u00e9? [no response] Um... [thinks] Oh, I know! Perhaps you would like a gift. Well, we have o-honly-hee one gift to give. The gift... of song [she moves aside]\n"
+  },
+  {
+    "input": "Oh, wonderful! We were lost, and it is such a great coincidence we found you. You see, we're here to protest the government-sanctioned raping of your rainforest. [the soldiers just stare] We are fighters, just like you. Could you help us get back to San Jos\u00e9? [no response] Um... [thinks] Oh, I know! Perhaps you would like a gift. Well, we have o-honly-hee one gift to give. The gift... of song [she moves aside]\n",
+    "output": "Honh. [she presses the play button, and the song plays. The kids begin to dance]\n"
+  },
+  {
+    "input": "Honh. [she presses the play button, and the song plays. The kids begin to dance]\n",
+    "output": "[through clenched teeth] Kyle, for the love of God, do the right choreography. [as the chorus nears, Kyle is still doing the wrong moves] Oh, Kyle, please! [the kids dance through the first line of the chorus...]\n"
+  },
+  {
+    "input": "[through clenched teeth] Kyle, for the love of God, do the right choreography. [as the chorus nears, Kyle is still doing the wrong moves] Oh, Kyle, please! [the kids dance through the first line of the chorus...]\n",
+    "output": "Enough! [the music stops]\n"
+  },
+  {
+    "input": "Enough! [the music stops]\n",
+    "output": "Well, we hope that our gift of song has warmed your hearts.\n"
+  },
+  {
+    "input": "Well, we hope that our gift of song has warmed your hearts.\n",
+    "output": "We're not getting gay with any kids, okay?\n"
+  },
+  {
+    "input": "We're not getting gay with any kids, okay?\n",
+    "output": "Uh, yah, soooo, do you have a phone we could use?\n"
+  },
+  {
+    "input": "Uh, yah, soooo, do you have a phone we could use?\n",
+    "output": "Heehee yes, we have a phone. It's right over there next to the 12-person jacuzzi. [the other men begin to laugh] Now, get out of here before we kill you!\n"
+  },
+  {
+    "input": "Heehee yes, we have a phone. It's right over there next to the 12-person jacuzzi. [the other men begin to laugh] Now, get out of here before we kill you!\n",
+    "output": "[sullen] Is it because of the little Jewish boy's choreography?\n"
+  },
+  {
+    "input": "[sullen] Is it because of the little Jewish boy's choreography?\n",
+    "output": "Hey!\n"
+  },
+  {
+    "input": "Hey!\n",
+    "output": "[the soldier next to him cocks his shotgun] You white Americans make me sick! [emphasizes his disgust with thumps on the table] You waste food, oil, and everything else because you're so rich, and then you tell the rest of the world to save the rainforest because you like its pretty flowers.\n[Two Costa Rican soldiers can be seen behind the gasoline barrels. They pop up and open fire. The people's army immediately responds, and bullets fly everywhere. The kids scream.]\n"
+  },
+  {
+    "input": "[the soldier next to him cocks his shotgun] You white Americans make me sick! [emphasizes his disgust with thumps on the table] You waste food, oil, and everything else because you're so rich, and then you tell the rest of the world to save the rainforest because you like its pretty flowers.\n[Two Costa Rican soldiers can be seen behind the gasoline barrels. They pop up and open fire. The people's army immediately responds, and bullets fly everywhere. The kids scream.]\n",
+    "output": "[waving the choir away] \u00a1R\u00e1pido, r\u00e1pido! [Kenny steps in front of Kelly to shield her from any shots coming their way]\n"
+  },
+  {
+    "input": "[waving the choir away] \u00a1R\u00e1pido, r\u00e1pido! [Kenny steps in front of Kelly to shield her from any shots coming their way]\n",
+    "output": "Run, children, run! [the choir moves out]\n[Back in San Jos\u00e9.]\n"
+  },
+  {
+    "input": "Run, children, run! [the choir moves out]\n[Back in San Jos\u00e9.]\n",
+    "output": "\u00a1\u00bfD\u00f3nde putos est\u00e1 el coro?! \u00a1El espect\u00e1culo comienza pronto! (Where the hell is our choir?! The show is supposed to start soon!)\n"
+  },
+  {
+    "input": "\u00a1\u00bfD\u00f3nde putos est\u00e1 el coro?! \u00a1El espect\u00e1culo comienza pronto! (Where the hell is our choir?! The show is supposed to start soon!)\n",
+    "output": "No se preocupe, \u00bfmbien? El Presidente, estar\u00e1n aqu\u00ed. Este evento es muy importante para que la maestra del coro se lo pierda. \u00bfM-m-mbien? (Don't worry, El Presidente, they'll be here. This is too important for the choir teacher to miss.)\n[Back in the rainforest. The choir now walks along a riverbank.]\n"
+  },
+  {
+    "input": "No se preocupe, \u00bfmbien? El Presidente, estar\u00e1n aqu\u00ed. Este evento es muy importante para que la maestra del coro se lo pierda. \u00bfM-m-mbien? (Don't worry, El Presidente, they'll be here. This is too important for the choir teacher to miss.)\n[Back in the rainforest. The choir now walks along a riverbank.]\n",
+    "output": "Hello?? Anybody?? Help??\n"
+  },
+  {
+    "input": "Hello?? Anybody?? Help??\n",
+    "output": "Wow, look at the pretty flower. [stops by to touch a huge yellow flower with blue support on a large green stalk]\n"
+  },
+  {
+    "input": "Wow, look at the pretty flower. [stops by to touch a huge yellow flower with blue support on a large green stalk]\n",
+    "output": "Oh nonono, Jake. That fragile flower is very delicate, okay? [before she could finish the sentence, the flower wraps its petals around Jake and pulls him off the floor.]\n"
+  },
+  {
+    "input": "Oh nonono, Jake. That fragile flower is very delicate, okay? [before she could finish the sentence, the flower wraps its petals around Jake and pulls him off the floor.]\n",
+    "output": "Aaaah. Ugh, help!\n"
+  },
+  {
+    "input": "Aaaah. Ugh, help!\n",
+    "output": "[quakes] Ga-ow! [quickly grabs Jake's feet and pulls. The choir walks on]\n"
+  },
+  {
+    "input": "[quakes] Ga-ow! [quickly grabs Jake's feet and pulls. The choir walks on]\n",
+    "output": "[crying and pouting] I wanna go home! [Kenny stops and turns] I hate the rainforest!\n"
+  },
+  {
+    "input": "[crying and pouting] I wanna go home! [Kenny stops and turns] I hate the rainforest!\n",
+    "output": "[walks up and puts his arm around her] (Oh, there, there now. There's nothing to be afraid of, dear.) [comforted, she smiles]\n"
+  },
+  {
+    "input": "[walks up and puts his arm around her] (Oh, there, there now. There's nothing to be afraid of, dear.) [comforted, she smiles]\n",
+    "output": "[gushing] Oh Lenny, hold me. [moves away] No, I can't get attached. [pause, then moves closer] Oh, but I do like you.\n"
+  },
+  {
+    "input": "[gushing] Oh Lenny, hold me. [moves away] No, I can't get attached. [pause, then moves closer] Oh, but I do like you.\n",
+    "output": "(Well, I like you-)\n"
+  },
+  {
+    "input": "(Well, I like you-)\n",
+    "output": "[moves away] Oh, but you're only going to leave me.\n"
+  },
+  {
+    "input": "[moves away] Oh, but you're only going to leave me.\n",
+    "output": "[pissed] (Oh, God damn it!)\n[San Jos\u00e9. The reporters for the telecast have arrived and are in position.]\n"
+  },
+  {
+    "input": "[pissed] (Oh, God damn it!)\n[San Jos\u00e9. The reporters for the telecast have arrived and are in position.]\n",
+    "output": "We're here live in San Jos\u00e9, Costa Rica, where hundreds of rich Americans have gathered for the Save the Rain Forest summit. Everyone is here so they can feel good about themselves, and act like they aren't the ones responsible for the rainforest's peril.\n"
+  },
+  {
+    "input": "We're here live in San Jos\u00e9, Costa Rica, where hundreds of rich Americans have gathered for the Save the Rain Forest summit. Everyone is here so they can feel good about themselves, and act like they aren't the ones responsible for the rainforest's peril.\n",
+    "output": "That's right, Bob, and of course the main attraction today is the darling kids' choir, \"Getting Gay With Kids,\" all of whom must be backstage preparing at this very moment.\n[The rainforest. The terrain looks familiar\u2026]\n"
+  },
+  {
+    "input": "That's right, Bob, and of course the main attraction today is the darling kids' choir, \"Getting Gay With Kids,\" all of whom must be backstage preparing at this very moment.\n[The rainforest. The terrain looks familiar\u2026]\n",
+    "output": "[the problems mount] Oh, there's just no end to this place! I think maybe we're going in circles. Oh, dear God! The summit starts in an hour; I'm gonna lose my job! [another large insect roars behind her backpack, and she jumps] Aaaah!\n"
+  },
+  {
+    "input": "[the problems mount] Oh, there's just no end to this place! I think maybe we're going in circles. Oh, dear God! The summit starts in an hour; I'm gonna lose my job! [another large insect roars behind her backpack, and she jumps] Aaaah!\n",
+    "output": "[turns and walks back the way they came] This is bullcrap! I am not following this stupid hippie around anymore.\n"
+  },
+  {
+    "input": "[turns and walks back the way they came] This is bullcrap! I am not following this stupid hippie around anymore.\n",
+    "output": "Eric, where are you going?\n"
+  },
+  {
+    "input": "Eric, where are you going?\n",
+    "output": "I'm going this way!\n"
+  },
+  {
+    "input": "I'm going this way!\n",
+    "output": "Young man, I am the adult here, and I say you go this way!\n"
+  },
+  {
+    "input": "Young man, I am the adult here, and I say you go this way!\n",
+    "output": "[stops] Look: you can stay over nyah [gestures towards her], but I'm going over nyah. [Gestures away from her]\n"
+  },
+  {
+    "input": "[stops] Look: you can stay over nyah [gestures towards her], but I'm going over nyah. [Gestures away from her]\n",
+    "output": "Young man, I have had it!!\n"
+  },
+  {
+    "input": "Young man, I have had it!!\n",
+    "output": "Nononono! You nyah, me nyah! [gestures forward and backward] Screw you guys, I'ma going home. [walks away]\n"
+  },
+  {
+    "input": "Nononono! You nyah, me nyah! [gestures forward and backward] Screw you guys, I'ma going home. [walks away]\n",
+    "output": "Good! You deserve to die, you little bastard! [the others watch him leave] Eric, we have to stay together!\n[Eric moves through the rainforest.]\n"
+  },
+  {
+    "input": "Good! You deserve to die, you little bastard! [the others watch him leave] Eric, we have to stay together!\n[Eric moves through the rainforest.]\n",
+    "output": "God-damned stupid hippie activist! I should be home nestled in the couch with my Mr. Kitty right now watching Fat Abbot cartoons and eat- [finds himself at a clearing full of bulldozers moving wood around] Yes! I knew it! I'm saved! [rushes in]\n[Back by the river.]\n"
+  },
+  {
+    "input": "God-damned stupid hippie activist! I should be home nestled in the couch with my Mr. Kitty right now watching Fat Abbot cartoons and eat- [finds himself at a clearing full of bulldozers moving wood around] Yes! I knew it! I'm saved! [rushes in]\n[Back by the river.]\n",
+    "output": "Hey. Maybe Cartman was right.\n"
+  },
+  {
+    "input": "Hey. Maybe Cartman was right.\n",
+    "output": "Yeah. It happened once before.\n"
+  },
+  {
+    "input": "Yeah. It happened once before.\n",
+    "output": "No. The Spirit of Maya has told me to go this way.\n[At the clearing.]\n"
+  },
+  {
+    "input": "No. The Spirit of Maya has told me to go this way.\n[At the clearing.]\n",
+    "output": "[reaches the foreman] Mister! You've gotta help me! I'm starving to death!\n"
+  },
+  {
+    "input": "[reaches the foreman] Mister! You've gotta help me! I'm starving to death!\n",
+    "output": "What are you doing here, little boy?\n"
+  },
+  {
+    "input": "What are you doing here, little boy?\n",
+    "output": "I was with my class, and we got all lost in the rainforest, and I need some food. I'm fading fast!\n"
+  },
+  {
+    "input": "I was with my class, and we got all lost in the rainforest, and I need some food. I'm fading fast!\n",
+    "output": "Lost in the rainforest? Oh, my Lord! Where are all the others?\n"
+  },
+  {
+    "input": "Lost in the rainforest? Oh, my Lord! Where are all the others?\n",
+    "output": "Food! I have to have food! [falls on his face]\n"
+  },
+  {
+    "input": "Food! I have to have food! [falls on his face]\n",
+    "output": "Oh my God! Get this child some food, quick!\n"
+  },
+  {
+    "input": "Oh my God! Get this child some food, quick!\n",
+    "output": "[lifts his head] Chicken wings. [drops it]\n"
+  },
+  {
+    "input": "[lifts his head] Chicken wings. [drops it]\n",
+    "output": "Chicken wings!\n"
+  },
+  {
+    "input": "Chicken wings!\n",
+    "output": "[lifts his head] Medium spicy. [drops it]\n[San Jos\u00e9]\n"
+  },
+  {
+    "input": "[lifts his head] Medium spicy. [drops it]\n[San Jos\u00e9]\n",
+    "output": "Start the show! Start the show! Start the show!\n"
+  },
+  {
+    "input": "Start the show! Start the show! Start the show!\n",
+    "output": "La gente est\u00e1 ansiosa. Dentro de poco, se alborotan y empiezan a tirar chorchadas. (The activists are getting anxious. They will start throwing things soon.)\n"
+  },
+  {
+    "input": "La gente est\u00e1 ansiosa. Dentro de poco, se alborotan y empiezan a tirar chorchadas. (The activists are getting anxious. They will start throwing things soon.)\n",
+    "output": "Estoy seguro que llegar\u00e1n. Eh-s\u00f3lo poquito m\u00e1s de tiempo, \u00bfmbien? (I'm sure the choir will be here. We just need a little more time)\n"
+  },
+  {
+    "input": "Estoy seguro que llegar\u00e1n. Eh-s\u00f3lo poquito m\u00e1s de tiempo, \u00bfmbien? (I'm sure the choir will be here. We just need a little more time)\n",
+    "output": "Bueno, voy a entretenerlos con mis chistes de Polacos. [heads for center stage] (Well, I will try and amuse them with my Polish Jokes.)\n"
+  },
+  {
+    "input": "Bueno, voy a entretenerlos con mis chistes de Polacos. [heads for center stage] (Well, I will try and amuse them with my Polish Jokes.)\n",
+    "output": "Mbien.\n"
+  },
+  {
+    "input": "Mbien.\n",
+    "output": "[on the mike] \u00bfA cu\u00e1ntos Polacos les toma a comerse un burrito? [the crowd is silent. He holds up two fingers] Dos. [seeing no reaction, he laughs, then tries again] \u00bfA cu\u00e1ntos Polacos les toma a manejar a Panam\u00e1? (How many Pollacks does it take to eat a burrito? Two. How many Pollacks does it take to drive to Panama?)\n[In the rainforest, the choir keeps walking.]\n"
+  },
+  {
+    "input": "[on the mike] \u00bfA cu\u00e1ntos Polacos les toma a comerse un burrito? [the crowd is silent. He holds up two fingers] Dos. [seeing no reaction, he laughs, then tries again] \u00bfA cu\u00e1ntos Polacos les toma a manejar a Panam\u00e1? (How many Pollacks does it take to eat a burrito? Two. How many Pollacks does it take to drive to Panama?)\n[In the rainforest, the choir keeps walking.]\n",
+    "output": "Oh God, this is a nightmare! We're never going to make the festival!\n"
+  },
+  {
+    "input": "Oh God, this is a nightmare! We're never going to make the festival!\n",
+    "output": "Hey, look over there. Isn't that smoke? [a column of smoke is seen floating above the canopy]\n"
+  },
+  {
+    "input": "Hey, look over there. Isn't that smoke? [a column of smoke is seen floating above the canopy]\n",
+    "output": "Let's go, quickly! [they rush towards the column and find a small campfire]\n"
+  },
+  {
+    "input": "Let's go, quickly! [they rush towards the column and find a small campfire]\n",
+    "output": "Hey, it's a fire. That means there must be people. [the shrubs around them rustle, and they face the shrubs. Some big-lipped dwarves surround them.]\n"
+  },
+  {
+    "input": "Hey, it's a fire. That means there must be people. [the shrubs around them rustle, and they face the shrubs. Some big-lipped dwarves surround them.]\n",
+    "output": "Children, it's the Yanagopa. [to the dwarves] Do not be afraid. We are not here to tear down your rainforest. [the group is surrounded by spear-bearing Yanagopa men.]\n"
+  },
+  {
+    "input": "Children, it's the Yanagopa. [to the dwarves] Do not be afraid. We are not here to tear down your rainforest. [the group is surrounded by spear-bearing Yanagopa men.]\n",
+    "output": "Damtili\u00e9?\n"
+  },
+  {
+    "input": "Damtili\u00e9?\n",
+    "output": "Damtili\u00e9?\n"
+  },
+  {
+    "input": "Damtili\u00e9?\n",
+    "output": "[marveling] Look how they live in peace with all living things. Gentle, noble... [the Yanagopa raise their spears high] Run for your lives, children!\n"
+  },
+  {
+    "input": "[marveling] Look how they live in peace with all living things. Gentle, noble... [the Yanagopa raise their spears high] Run for your lives, children!\n",
+    "output": "Holy crap! [all run]\n"
+  },
+  {
+    "input": "Holy crap! [all run]\n",
+    "output": "[giving chase and throwing spears] Damtili\u00e9! Damtili\u00e9! Damtili\u00e9!\n"
+  },
+  {
+    "input": "[giving chase and throwing spears] Damtili\u00e9! Damtili\u00e9! Damtili\u00e9!\n",
+    "output": "Jesus Christ!\n"
+  },
+  {
+    "input": "Jesus Christ!\n",
+    "output": "Run run ruuun! [A huge insect lands on her backpack and roars. She looks back and the insect flies away] Waaah!\n"
+  },
+  {
+    "input": "Run run ruuun! [A huge insect lands on her backpack and roars. She looks back and the insect flies away] Waaah!\n",
+    "output": "[trips and falls down] Aaaaa! Lenny! [Kenny goes back, helps her up, and they keep running. The choir runs across a puddle of quicksand and begin to sink]\n"
+  },
+  {
+    "input": "[trips and falls down] Aaaaa! Lenny! [Kenny goes back, helps her up, and they keep running. The choir runs across a puddle of quicksand and begin to sink]\n",
+    "output": "What the hell?\n"
+  },
+  {
+    "input": "What the hell?\n",
+    "output": "We're sinking.\n"
+  },
+  {
+    "input": "We're sinking.\n",
+    "output": "It's quicksand, people! [the Yanagopa warriors surround them and leap with excitement, still screaming \"Damtili\u00e9!\"]\n[The Yanagopa village. Heads of unfortunate trespassers hang on poles. An abandoned camera is among them. Further on, the choir is found seated around a campfire... tied up individually.]\n"
+  },
+  {
+    "input": "It's quicksand, people! [the Yanagopa warriors surround them and leap with excitement, still screaming \"Damtili\u00e9!\"]\n[The Yanagopa village. Heads of unfortunate trespassers hang on poles. An abandoned camera is among them. Further on, the choir is found seated around a campfire... tied up individually.]\n",
+    "output": "All we ever heard growing up was, \"Save the rainforest. The rainforest is fragile\"!\n"
+  },
+  {
+    "input": "All we ever heard growing up was, \"Save the rainforest. The rainforest is fragile\"!\n",
+    "output": "Yeah! Fragile my ass!\n"
+  },
+  {
+    "input": "Yeah! Fragile my ass!\n",
+    "output": "Larry, if we make it out of this, I want to be your girlfriend. Even if we do live in different places, I don't care! [snuggles up to him]\n"
+  },
+  {
+    "input": "Larry, if we make it out of this, I want to be your girlfriend. Even if we do live in different places, I don't care! [snuggles up to him]\n",
+    "output": "(Kelly, you said it!) [she tries to pick her nose, but the ropes won't let her]\n[The Yanagopa men are apparently no different than other men. They have dressed Miss Stevens in a skimpy home-made red-and-white cheerleading outfit, complete with pom-poms, then strung her up between two trees. They dance around her, chanting \"Damtili\u00e9\"]\n"
+  },
+  {
+    "input": "(Kelly, you said it!) [she tries to pick her nose, but the ropes won't let her]\n[The Yanagopa men are apparently no different than other men. They have dressed Miss Stevens in a skimpy home-made red-and-white cheerleading outfit, complete with pom-poms, then strung her up between two trees. They dance around her, chanting \"Damtili\u00e9\"]\n",
+    "output": "[put off] Okay. Just what the heck is going on here, people? [a giant Yanagopa rises from the brush and his voice rumbles across the rainforest. She responds] AAAAA!!\n"
+  },
+  {
+    "input": "[put off] Okay. Just what the heck is going on here, people? [a giant Yanagopa rises from the brush and his voice rumbles across the rainforest. She responds] AAAAA!!\n",
+    "output": "Oh no, that big thing is going to make love to Miss Stevens!\n"
+  },
+  {
+    "input": "Oh no, that big thing is going to make love to Miss Stevens!\n",
+    "output": "All right, that does it!! [the men stop dancing] Goddamn stupid-ass rainforest!! This place fucking sucks!! [the giant Yanagopa is shocked] I was wrong!! Fuck the rainforest!! I fucking hate it, I fucking hate it!!\n"
+  },
+  {
+    "input": "All right, that does it!! [the men stop dancing] Goddamn stupid-ass rainforest!! This place fucking sucks!! [the giant Yanagopa is shocked] I was wrong!! Fuck the rainforest!! I fucking hate it, I fucking hate it!!\n",
+    "output": "Oh, now she figures it out.\n[A bulldozer appears, driven by the foreman.]\n"
+  },
+  {
+    "input": "Oh, now she figures it out.\n[A bulldozer appears, driven by the foreman.]\n",
+    "output": "Quick! Everybody help the children!\n[More bulldozers enter and spread out. The workers go after the Yanagopa and chase them away. The children brighten up considerably. One bulldozer scoops up a group of Yanagopa and crushes them against a tree, killing them, then backs up over a coral snake, crushing it to bits, then rolls forward over a large insect, crushing it.]\n"
+  },
+  {
+    "input": "Quick! Everybody help the children!\n[More bulldozers enter and spread out. The workers go after the Yanagopa and chase them away. The children brighten up considerably. One bulldozer scoops up a group of Yanagopa and crushes them against a tree, killing them, then backs up over a coral snake, crushing it to bits, then rolls forward over a large insect, crushing it.]\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "Dude! Bulldozers rule!\n"
+  },
+  {
+    "input": "Dude! Bulldozers rule!\n",
+    "output": "[cutting the ropes off the kids] Come on! Let's get you back to civilization!\n"
+  },
+  {
+    "input": "[cutting the ropes off the kids] Come on! Let's get you back to civilization!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[being cut down by a worker] Hooray, children!\n[Later, Miss Stevens is back in her regular clothes and sits on a gasoline barrel. Kyle sits on another one, and the rest of the kids take positions all over the bulldozer. All sip lemonade.]\n"
+  },
+  {
+    "input": "[being cut down by a worker] Hooray, children!\n[Later, Miss Stevens is back in her regular clothes and sits on a gasoline barrel. Kyle sits on another one, and the rest of the kids take positions all over the bulldozer. All sip lemonade.]\n",
+    "output": "How did you know where we were?\n"
+  },
+  {
+    "input": "How did you know where we were?\n",
+    "output": "Your little friend helped me out.\n"
+  },
+  {
+    "input": "Your little friend helped me out.\n",
+    "output": "Eric?\n"
+  },
+  {
+    "input": "Eric?\n",
+    "output": "[arriving] Who'd you expect? Merv Griffin?\n"
+  },
+  {
+    "input": "[arriving] Who'd you expect? Merv Griffin?\n",
+    "output": "What exactly are you guys doing out here, with all this ...construction equipment?\n"
+  },
+  {
+    "input": "What exactly are you guys doing out here, with all this ...construction equipment?\n",
+    "output": "We're clearing out big sections of the rainforest for a lumberyard.\n"
+  },
+  {
+    "input": "We're clearing out big sections of the rainforest for a lumberyard.\n",
+    "output": "Really? [excited] That's great!!\n"
+  },
+  {
+    "input": "Really? [excited] That's great!!\n",
+    "output": "You mean, you don't mind?\n"
+  },
+  {
+    "input": "You mean, you don't mind?\n",
+    "output": "Nooo, I hate the rainforest! You go right ahead and plow down this whole fucking thing!\n"
+  },
+  {
+    "input": "Nooo, I hate the rainforest! You go right ahead and plow down this whole fucking thing!\n",
+    "output": "That\u2019s swell!\n"
+  },
+  {
+    "input": "That\u2019s swell!\n",
+    "output": "Okay, Benny. So in order for our long-distance relationship to work, we'll have to call each other every other day.\n"
+  },
+  {
+    "input": "Okay, Benny. So in order for our long-distance relationship to work, we'll have to call each other every other day.\n",
+    "output": "(Okay. I can do that.) [lightning strikes him, knocking her away] (Christ!) [he falls, she gets up and goes to him]\n"
+  },
+  {
+    "input": "(Okay. I can do that.) [lightning strikes him, knocking her away] (Christ!) [he falls, she gets up and goes to him]\n",
+    "output": "Aaaah! Lenny! No! [Stan and Kyle rush in]\n"
+  },
+  {
+    "input": "Aaaah! Lenny! No! [Stan and Kyle rush in]\n",
+    "output": "Oh my God! They killed Kenny!\n"
+  },
+  {
+    "input": "Oh my God! They killed Kenny!\n",
+    "output": "You bastards!\n"
+  },
+  {
+    "input": "You bastards!\n",
+    "output": "[turns to face them] Whah?? Who?! Who killed him?!\n"
+  },
+  {
+    "input": "[turns to face them] Whah?? Who?! Who killed him?!\n",
+    "output": "They did.\n"
+  },
+  {
+    "input": "They did.\n",
+    "output": "Who's \"they\"?!\n"
+  },
+  {
+    "input": "Who's \"they\"?!\n",
+    "output": "[pause] You know, \"they.\"\n"
+  },
+  {
+    "input": "[pause] You know, \"they.\"\n",
+    "output": "They're... they're bastards.\n"
+  },
+  {
+    "input": "They're... they're bastards.\n",
+    "output": "Well don't just stand there, help him!!\n"
+  },
+  {
+    "input": "Well don't just stand there, help him!!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Help ...him?\n"
+  },
+  {
+    "input": "Help ...him?\n",
+    "output": "Aaagh! [turns around and pounds on Kenny's chest] Come on, Benny! Breathe! [she tries giving him mouth-to-mouth resuscitation, then pounds on his chest again] Breathe, you son of a bitch! [she picks her nose, then pounds some more. Kenny coughs, and she listens]\n"
+  },
+  {
+    "input": "Aaagh! [turns around and pounds on Kenny's chest] Come on, Benny! Breathe! [she tries giving him mouth-to-mouth resuscitation, then pounds on his chest again] Breathe, you son of a bitch! [she picks her nose, then pounds some more. Kenny coughs, and she listens]\n",
+    "output": "Whoa, dude!\n[San Jos\u00e9. The choir is now at the Save the Rain Forest summit stage.]\n"
+  },
+  {
+    "input": "Whoa, dude!\n[San Jos\u00e9. The choir is now at the Save the Rain Forest summit stage.]\n",
+    "output": "And now, here to teach us about the rainforest is Getting Gay With Kids. [the crowd applauds]\n"
+  },
+  {
+    "input": "And now, here to teach us about the rainforest is Getting Gay With Kids. [the crowd applauds]\n",
+    "output": "Does everybody remember the new lyrics? [the kids nod yes] And\u2026\n"
+  },
+  {
+    "input": "Does everybody remember the new lyrics? [the kids nod yes] And\u2026\n",
+    "output": "[Intro] Tootin' tootin' to, tada choo choo wow!\n[Men sing] There's a place called the rainforest; it truly sucks ass.\n[Women sing] Let's knock it all down and get rid of it fast.\n[Men sing] You say, \"Save the rainforest,\" but what do you know?\n[All sing] You've never been to the rainforest before.\n[Chorus] Getting Gay With Kids is here! [Kyle still can't dance]\nTo tell you things you might not like to hear. [Kenny and Kelly exchange glances]\nYou only fight these causes 'cause caring sells.\nAll you activists can go fuck yourselves!\n"
+  },
+  {
+    "input": "[Intro] Tootin' tootin' to, tada choo choo wow!\n[Men sing] There's a place called the rainforest; it truly sucks ass.\n[Women sing] Let's knock it all down and get rid of it fast.\n[Men sing] You say, \"Save the rainforest,\" but what do you know?\n[All sing] You've never been to the rainforest before.\n[Chorus] Getting Gay With Kids is here! [Kyle still can't dance]\nTo tell you things you might not like to hear. [Kenny and Kelly exchange glances]\nYou only fight these causes 'cause caring sells.\nAll you activists can go fuck yourselves!\n",
+    "output": "That was so inspiring.\n"
+  },
+  {
+    "input": "That was so inspiring.\n",
+    "output": "What a wonderful message.\n"
+  }
+]

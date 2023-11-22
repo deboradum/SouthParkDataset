@@ -1,0 +1,706 @@
+[
+  {
+    "input": "",
+    "output": "The Damned\n\n[Simply Heidi. Her guest is Freja Ollegard]\n"
+  },
+  {
+    "input": "The Damned\n\n[Simply Heidi. Her guest is Freja Ollegard]\n",
+    "output": "We are back again with the brave Olympic gold medalist from Denmark, Freja \u00d8lleng\u00e5rd. Freja, you've talked about being trolled on the Internet and its consequences.\n"
+  },
+  {
+    "input": "We are back again with the brave Olympic gold medalist from Denmark, Freja \u00d8lleng\u00e5rd. Freja, you've talked about being trolled on the Internet and its consequences.\n",
+    "output": "Yes, Heidi. I believe trolling has a tragic effect on innocent people.\n"
+  },
+  {
+    "input": "Yes, Heidi. I believe trolling has a tragic effect on innocent people.\n",
+    "output": "You have been the victim of horrific degrading attacks, spearheaded by a troll called [puts on her glasses] skankhunt42.\n"
+  },
+  {
+    "input": "You have been the victim of horrific degrading attacks, spearheaded by a troll called [puts on her glasses] skankhunt42.\n",
+    "output": "[watching on his computer, holding a glass of wine] Nice.\n"
+  },
+  {
+    "input": "[watching on his computer, holding a glass of wine] Nice.\n",
+    "output": "I've tried to just ignore the trolls, but that only seems to make them attack me more.\n"
+  },
+  {
+    "input": "I've tried to just ignore the trolls, but that only seems to make them attack me more.\n",
+    "output": "It must be so awful for you to create a Web site for women like yourself who are breat-cancer survivors and these... monsters get on and somehow make light of it. Even going as far as... ridiculing masdectomies.\n"
+  },
+  {
+    "input": "It must be so awful for you to create a Web site for women like yourself who are breat-cancer survivors and these... monsters get on and somehow make light of it. Even going as far as... ridiculing masdectomies.\n",
+    "output": "Yes, it's very disgusting, but I still try very hard to believe in the goodness of humanity. [cheers from the studio audience.]\n"
+  },
+  {
+    "input": "Yes, it's very disgusting, but I still try very hard to believe in the goodness of humanity. [cheers from the studio audience.]\n",
+    "output": "I can tell you that the support for you on our Web site has been overwhelming. We'd like to share some comments we've received, many from doctors who believe your Web site is saving lives. The first is a comment from a physician in Spain: \"You go girl. You are doing great things. Don't let trolling stop you.\" And that is from Dr. Juerdior Titsgo [Freja is alarmed at the name], in Spain.\n"
+  },
+  {
+    "input": "I can tell you that the support for you on our Web site has been overwhelming. We'd like to share some comments we've received, many from doctors who believe your Web site is saving lives. The first is a comment from a physician in Spain: \"You go girl. You are doing great things. Don't let trolling stop you.\" And that is from Dr. Juerdior Titsgo [Freja is alarmed at the name], in Spain.\n",
+    "output": "[exults at his coup] He shoots, he scores! [Freja knows she's been trolled again and puts her face in her palm]\n"
+  },
+  {
+    "input": "[exults at his coup] He shoots, he scores! [Freja knows she's been trolled again and puts her face in her palm]\n",
+    "output": "And there's this one: \"Believe in yourself and don't listen to the haters. You're an inspiration.\" That's from Hungarian physician Dr. Cootsier Boobsoff.\n"
+  },
+  {
+    "input": "And there's this one: \"Believe in yourself and don't listen to the haters. You're an inspiration.\" That's from Hungarian physician Dr. Cootsier Boobsoff.\n",
+    "output": "Oh no...\n"
+  },
+  {
+    "input": "Oh no...\n",
+    "output": "HA! [throws an air ball] From the three-point line!\n"
+  },
+  {
+    "input": "HA! [throws an air ball] From the three-point line!\n",
+    "output": "I'm sorry, am I missing something?\n[The Broflovski house, day. Police cars are in front and a couple of officers are at the door. Officer Barkley rings the bell]\n"
+  },
+  {
+    "input": "I'm sorry, am I missing something?\n[The Broflovski house, day. Police cars are in front and a couple of officers are at the door. Officer Barkley rings the bell]\n",
+    "output": "Oh! Police! [sheepishly] Yes?\n"
+  },
+  {
+    "input": "Oh! Police! [sheepishly] Yes?\n",
+    "output": "Hello, sir, we're conducting an investigation.\n"
+  },
+  {
+    "input": "Hello, sir, we're conducting an investigation.\n",
+    "output": "Uh... regarding... uh regarding what?\n"
+  },
+  {
+    "input": "Uh... regarding... uh regarding what?\n",
+    "output": "Do you happen to know this child? [shows him Cartman's picture from Photo Day]\n"
+  },
+  {
+    "input": "Do you happen to know this child? [shows him Cartman's picture from Photo Day]\n",
+    "output": "[relieved] Hoooh. Sure, that's one of my son's friends.\n"
+  },
+  {
+    "input": "[relieved] Hoooh. Sure, that's one of my son's friends.\n",
+    "output": "Well, I'm afraid he's... quit Twitter.\n"
+  },
+  {
+    "input": "Well, I'm afraid he's... quit Twitter.\n",
+    "output": "Hooo... another one, huh?\n"
+  },
+  {
+    "input": "Hooo... another one, huh?\n",
+    "output": "Yeah, but this one's different. The events surrounding his quitting Twitter were very suspicious. Most people that quit Twitter leave at least three paragraphs stating that they're quitting Twitter before they quit Twitter. This child just stopped using it.\n"
+  },
+  {
+    "input": "Yeah, but this one's different. The events surrounding his quitting Twitter were very suspicious. Most people that quit Twitter leave at least three paragraphs stating that they're quitting Twitter before they quit Twitter. This child just stopped using it.\n",
+    "output": "Kyle! [looks up the stairs]\n"
+  },
+  {
+    "input": "Kyle! [looks up the stairs]\n",
+    "output": "We're simply trying to gather information on whether this was a Twitter suicide or a Twitter homicide. [Kyle appears at the top of the stairs]\n"
+  },
+  {
+    "input": "We're simply trying to gather information on whether this was a Twitter suicide or a Twitter homicide. [Kyle appears at the top of the stairs]\n",
+    "output": "Kyle, have you seen your friend Eric online?\n"
+  },
+  {
+    "input": "Kyle, have you seen your friend Eric online?\n",
+    "output": "[panics a bit] No. Uh, he quit.\n"
+  },
+  {
+    "input": "[panics a bit] No. Uh, he quit.\n",
+    "output": "D'ya happen to know why, son?\n"
+  },
+  {
+    "input": "D'ya happen to know why, son?\n",
+    "output": "He probably got fed up with all the negativity and decided to end it. [shrugs] I don't know.\n"
+  },
+  {
+    "input": "He probably got fed up with all the negativity and decided to end it. [shrugs] I don't know.\n",
+    "output": "Without tweeting a goodbye? People don't just quit social media. They post long drawn-out messages on social media, explaining why they're leaving social media.\n"
+  },
+  {
+    "input": "Without tweeting a goodbye? People don't just quit social media. They post long drawn-out messages on social media, explaining why they're leaving social media.\n",
+    "output": "Look, officers, why don't you just go ask him why he quit Twitter?\n"
+  },
+  {
+    "input": "Look, officers, why don't you just go ask him why he quit Twitter?\n",
+    "output": "At where, sir? At where?\n[Kyle's room, moments later. Kyle runs in and closes the door frantically, then whips out his phone to talk to some people]\n"
+  },
+  {
+    "input": "At where, sir? At where?\n[Kyle's room, moments later. Kyle runs in and closes the door frantically, then whips out his phone to talk to some people]\n",
+    "output": "Okay, that was the cops! The cops were here!\n"
+  },
+  {
+    "input": "Okay, that was the cops! The cops were here!\n",
+    "output": "The cops? For what?\n"
+  },
+  {
+    "input": "The cops? For what?\n",
+    "output": "You know for what! You know what we did to Cartman! [he's video-chatting with the other boys on his computer, in several windows]\n"
+  },
+  {
+    "input": "You know for what! You know what we did to Cartman! [he's video-chatting with the other boys on his computer, in several windows]\n",
+    "output": "We did what we had to do.\n"
+  },
+  {
+    "input": "We did what we had to do.\n",
+    "output": "But we were wrong!\n"
+  },
+  {
+    "input": "But we were wrong!\n",
+    "output": "[under his bed covers] It's not the police we have to worry about, it's Eric. He's gonna get us.\n"
+  },
+  {
+    "input": "[under his bed covers] It's not the police we have to worry about, it's Eric. He's gonna get us.\n",
+    "output": "Hey. W-we all just have to stay cool, okay?\n"
+  },
+  {
+    "input": "Hey. W-we all just have to stay cool, okay?\n",
+    "output": "It doesn't matter. He's comin'. He's comin' to get us.\n[Stan's room. He's not part of the conversation. He sits on his bed looking at selfies of Wendy on his phone. Wendy on her bed reading a book and smiling at the camera. Another selfie of her in the sun. A selfie of her sitting at a counter. A selfie of her at a beach making a victory sign with her right index and middle fingers. A picture of Cartman licking the ass of a life-sized picture of him. That picture has him looking at a phone which has a picture of him looking at a phone...]\n"
+  },
+  {
+    "input": "It doesn't matter. He's comin'. He's comin' to get us.\n[Stan's room. He's not part of the conversation. He sits on his bed looking at selfies of Wendy on his phone. Wendy on her bed reading a book and smiling at the camera. Another selfie of her in the sun. A selfie of her sitting at a counter. A selfie of her at a beach making a victory sign with her right index and middle fingers. A picture of Cartman licking the ass of a life-sized picture of him. That picture has him looking at a phone which has a picture of him looking at a phone...]\n",
+    "output": "Stan? [Stan's door is open, so Randy walks in] You can't just stay in your room all day.\n"
+  },
+  {
+    "input": "Stan? [Stan's door is open, so Randy walks in] You can't just stay in your room all day.\n",
+    "output": "What happened, Dad? [Randy walks up to the bed] Everything's upside down. [Randy sits] Everyone's taking sides and splitting into groups. [thoughtfully] Everything sucks.\n"
+  },
+  {
+    "input": "What happened, Dad? [Randy walks up to the bed] Everything's upside down. [Randy sits] Everyone's taking sides and splitting into groups. [thoughtfully] Everything sucks.\n",
+    "output": "[rubs the back of his neck] Yeah, everything sucks. [lowers his hand] Everyone's divided. Nobody's getting along. And there's people like your MOTHER who are thinking of voting for a DOUCHE because she doesn't have a BRAIN.\n"
+  },
+  {
+    "input": "[rubs the back of his neck] Yeah, everything sucks. [lowers his hand] Everyone's divided. Nobody's getting along. And there's people like your MOTHER who are thinking of voting for a DOUCHE because she doesn't have a BRAIN.\n",
+    "output": "[off screen] Go to hell, Randy!\n"
+  },
+  {
+    "input": "[off screen] Go to hell, Randy!\n",
+    "output": "I don't know what's wrong with people in this town. More and more are agreeing with your mother. I tried getting on community message boards and swaying people's minds but... it always ends up with some asshole talking about vaginas and photoshopping a dick in my mouth. That's where we're at today. Everything sucks.\n[Clinton campaign headquarters. She and her staff prepare for the debate]\n"
+  },
+  {
+    "input": "I don't know what's wrong with people in this town. More and more are agreeing with your mother. I tried getting on community message boards and swaying people's minds but... it always ends up with some asshole talking about vaginas and photoshopping a dick in my mouth. That's where we're at today. Everything sucks.\n[Clinton campaign headquarters. She and her staff prepare for the debate]\n",
+    "output": "Here's everything to prepare you for the debates, ma'am. Just try and stay focused no matter what your opponent says.\n"
+  },
+  {
+    "input": "Here's everything to prepare you for the debates, ma'am. Just try and stay focused no matter what your opponent says.\n",
+    "output": "Don't let him rattle you. He's gonna do whatever he can to try and mess with your head. Don't buy into it. Whatever he says, just respond with \"My opponent is a liar, and he cannot be trusted.\"\n"
+  },
+  {
+    "input": "Don't let him rattle you. He's gonna do whatever he can to try and mess with your head. Don't buy into it. Whatever he says, just respond with \"My opponent is a liar, and he cannot be trusted.\"\n",
+    "output": "Got it.\n[The Presidential Debate]\n"
+  },
+  {
+    "input": "Got it.\n[The Presidential Debate]\n",
+    "output": "Decision 2016. The first Presidential debate, with moderator Lester Holt.\n"
+  },
+  {
+    "input": "Decision 2016. The first Presidential debate, with moderator Lester Holt.\n",
+    "output": "Okay, let's get right into it. Our first question is for you, sir. How will you deal with ground troops in Syria?\n"
+  },
+  {
+    "input": "Okay, let's get right into it. Our first question is for you, sir. How will you deal with ground troops in Syria?\n",
+    "output": "Everyone, I need to just speak from the heart here. Uhm, I don't know what the fuck I'm doing. I've gotta come clean. Uh, I had no idea I would get this far, [Holt looks confused] but the fact of the matter is, I should not be President. Okay? [Clinton's aides watch from a back room] I will fuck this country up beyond repair. [Clinton's aides smile at this admission] I'm a sick, angry little man. Please, if you care at all about the future of our country, vote for her. Okay? She's the one who at least has some experience. She, she's not as bad as you think, I promise. And unlike me, she's actually capable of running this country.\n"
+  },
+  {
+    "input": "Everyone, I need to just speak from the heart here. Uhm, I don't know what the fuck I'm doing. I've gotta come clean. Uh, I had no idea I would get this far, [Holt looks confused] but the fact of the matter is, I should not be President. Okay? [Clinton's aides watch from a back room] I will fuck this country up beyond repair. [Clinton's aides smile at this admission] I'm a sick, angry little man. Please, if you care at all about the future of our country, vote for her. Okay? She's the one who at least has some experience. She, she's not as bad as you think, I promise. And unlike me, she's actually capable of running this country.\n",
+    "output": "...My opponent is a liar and he cannot be trusted.\n"
+  },
+  {
+    "input": "...My opponent is a liar and he cannot be trusted.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Oh my God, she's such a turd sandwich.\n"
+  },
+  {
+    "input": "Oh my God, she's such a turd sandwich.\n",
+    "output": "What he is saying is simply not true. Do not... believe it.\n"
+  },
+  {
+    "input": "What he is saying is simply not true. Do not... believe it.\n",
+    "output": "[throws his hands up and then faces Clinton] I am giving you this, lady. I AM GIVING you this! What the fuck are you doing?! [faces the audience again] Okay, look, look, just, vote for her, she... she knows politics. She really wants to put this country first.\n"
+  },
+  {
+    "input": "[throws his hands up and then faces Clinton] I am giving you this, lady. I AM GIVING you this! What the fuck are you doing?! [faces the audience again] Okay, look, look, just, vote for her, she... she knows politics. She really wants to put this country first.\n",
+    "output": "My opponent is a liar-\n"
+  },
+  {
+    "input": "My opponent is a liar-\n",
+    "output": "Would you just please shut up?\n"
+  },
+  {
+    "input": "Would you just please shut up?\n",
+    "output": "-And he cannot be-\n"
+  },
+  {
+    "input": "-And he cannot be-\n",
+    "output": "Get out of your own way.\n"
+  },
+  {
+    "input": "Get out of your own way.\n",
+    "output": "-cannot be trusted.\n"
+  },
+  {
+    "input": "-cannot be trusted.\n",
+    "output": "[in exasperation] Okay, okay, look. [stands up again] She doesn't mean what she's saying. She just doesn't know how to take this because... it's very weird and her advisers probably t-\n"
+  },
+  {
+    "input": "[in exasperation] Okay, okay, look. [stands up again] She doesn't mean what she's saying. She just doesn't know how to take this because... it's very weird and her advisers probably t-\n",
+    "output": "My opponent is a liar and he cannot be trusted. [as she says this, he throws his hands up and turns his back to the camera]\n"
+  },
+  {
+    "input": "My opponent is a liar and he cannot be trusted. [as she says this, he throws his hands up and turns his back to the camera]\n",
+    "output": "Fuck, oh fuck, why the fuck does it have to be her? I am so fucked.\n[South Park Elementary, day. Four of the seven boys who destroyed Cartman's electronics are in PC Principal's office.]\n"
+  },
+  {
+    "input": "Fuck, oh fuck, why the fuck does it have to be her? I am so fucked.\n[South Park Elementary, day. Four of the seven boys who destroyed Cartman's electronics are in PC Principal's office.]\n",
+    "output": "Alright boys, I've had just about enough of playing games. [before him are Kyle, Stan, Butters, and Tolkien] The four of you were good friends with Eric Cartman, and yet none of you seem to know why he left social media. [Butters fidgets a bit] Nobody's got anything to say? Well I have a theory. I think... that Eric Cartman... was somehow forced to leave social media as a retaliation for Heidi Turner quitting social media! Now, because of the actions of one sexist, bigoted, racist troll! [sweeps his hand across his desk and knocks a stack of papers to the floor]\n"
+  },
+  {
+    "input": "Alright boys, I've had just about enough of playing games. [before him are Kyle, Stan, Butters, and Tolkien] The four of you were good friends with Eric Cartman, and yet none of you seem to know why he left social media. [Butters fidgets a bit] Nobody's got anything to say? Well I have a theory. I think... that Eric Cartman... was somehow forced to leave social media as a retaliation for Heidi Turner quitting social media! Now, because of the actions of one sexist, bigoted, racist troll! [sweeps his hand across his desk and knocks a stack of papers to the floor]\n",
+    "output": "[lets out a] Eeeaaaahhhh!\n"
+  },
+  {
+    "input": "[lets out a] Eeeaaaahhhh!\n",
+    "output": "We have a gender war on our hands! Make no mistake, gentlemen! Our community is under attack! And if we don't get to the bottom of it... there's gonna be more students like Eric Cartman... wandering the hallways with no connection to the rest of the world.\n[The school hallways, later. Cartman walks down the hallway dejected. The kids around him are looking at their phones or talking on them as they go about their usual business. Cartman sees Kevin on his phone and sighs, then continues walking.]\n"
+  },
+  {
+    "input": "We have a gender war on our hands! Make no mistake, gentlemen! Our community is under attack! And if we don't get to the bottom of it... there's gonna be more students like Eric Cartman... wandering the hallways with no connection to the rest of the world.\n[The school hallways, later. Cartman walks down the hallway dejected. The kids around him are looking at their phones or talking on them as they go about their usual business. Cartman sees Kevin on his phone and sighs, then continues walking.]\n",
+    "output": "[gruff whisper] Eric. [he looks up. By some exit doors is Heidi]\n"
+  },
+  {
+    "input": "[gruff whisper] Eric. [he looks up. By some exit doors is Heidi]\n",
+    "output": "Heidi? Heidi Turner?\n"
+  },
+  {
+    "input": "Heidi? Heidi Turner?\n",
+    "output": "Come with me.\n"
+  },
+  {
+    "input": "Come with me.\n",
+    "output": "Where? [she turns and walks off to her left]\n[The neighborhood streets. Heidi walks, then stops and waits for Cartman.]\n"
+  },
+  {
+    "input": "Where? [she turns and walks off to her left]\n[The neighborhood streets. Heidi walks, then stops and waits for Cartman.]\n",
+    "output": "Join us. [points to a park] Here.\n"
+  },
+  {
+    "input": "Join us. [points to a park] Here.\n",
+    "output": "The park?\n"
+  },
+  {
+    "input": "The park?\n",
+    "output": "I know how you feel, Eric. I know how hard it is when school gets out. With no phone, no human contact.\n"
+  },
+  {
+    "input": "I know how you feel, Eric. I know how hard it is when school gets out. With no phone, no human contact.\n",
+    "output": "[begins to cry] I miss my stuff.\n"
+  },
+  {
+    "input": "[begins to cry] I miss my stuff.\n",
+    "output": "Come on. There are others like us here. [guides him into the park. A car appears and slows down]\n"
+  },
+  {
+    "input": "Come on. There are others like us here. [guides him into the park. A car appears and slows down]\n",
+    "output": "Look at them, Martha. Do you see them?\n"
+  },
+  {
+    "input": "Look at them, Martha. Do you see them?\n",
+    "output": "What are they?\n"
+  },
+  {
+    "input": "What are they?\n",
+    "output": "Lost souls who have quit Twitter. Damned to just wander the earth and hang out and stuff.\n"
+  },
+  {
+    "input": "Lost souls who have quit Twitter. Damned to just wander the earth and hang out and stuff.\n",
+    "output": "They seem so lonely. [they both look at their phones]\n[Skeeter's Wine Bar, night. The doors open and Randy rushes in]\n"
+  },
+  {
+    "input": "They seem so lonely. [they both look at their phones]\n[Skeeter's Wine Bar, night. The doors open and Randy rushes in]\n",
+    "output": "Okay, what?! The fuck?! Is wrong with you people?! I just saw a new poll that says more and more of you are thinking about voting for that douche!\n"
+  },
+  {
+    "input": "Okay, what?! The fuck?! Is wrong with you people?! I just saw a new poll that says more and more of you are thinking about voting for that douche!\n",
+    "output": "Some are. A lot of people like what he has to say, alright?\n"
+  },
+  {
+    "input": "Some are. A lot of people like what he has to say, alright?\n",
+    "output": "You're tellin' me that after that debate, you still wanna vote for that guy?!\n"
+  },
+  {
+    "input": "You're tellin' me that after that debate, you still wanna vote for that guy?!\n",
+    "output": "More than ever.\n"
+  },
+  {
+    "input": "More than ever.\n",
+    "output": "Yyyup.\n"
+  },
+  {
+    "input": "Yyyup.\n",
+    "output": "Did you see the same debate I saw?!\n"
+  },
+  {
+    "input": "Did you see the same debate I saw?!\n",
+    "output": "Don't you get it, Randy? There's people in this country who are sick and tired. Tired of hearing all the rhetoric. Tired of Washington failing us while they pat their own backs. Finally someone comes along and says what he feels. That's why people like him. You can say what you want, at least he doesn't sound like another politician.\n[Douche 2016 campaign rally at Pepsi Center. Garrison is speaking]\n"
+  },
+  {
+    "input": "Don't you get it, Randy? There's people in this country who are sick and tired. Tired of hearing all the rhetoric. Tired of Washington failing us while they pat their own backs. Finally someone comes along and says what he feels. That's why people like him. You can say what you want, at least he doesn't sound like another politician.\n[Douche 2016 campaign rally at Pepsi Center. Garrison is speaking]\n",
+    "output": "America, please listen to me. I have no idea how to be President. I am a complete jackass, and I have made a giant mistake here. [the crowd cheers his honesty, which stuns him] Nononono, nononono, why are you clapping? I'm not a good person for the White House. I am not a good person, period.\n"
+  },
+  {
+    "input": "America, please listen to me. I have no idea how to be President. I am a complete jackass, and I have made a giant mistake here. [the crowd cheers his honesty, which stuns him] Nononono, nononono, why are you clapping? I'm not a good person for the White House. I am not a good person, period.\n",
+    "output": "Finally, someone who doesn't talk like a politician.\n"
+  },
+  {
+    "input": "Finally, someone who doesn't talk like a politician.\n",
+    "output": "I am peeing my pants... at the thought of being President, okay? [more cheers go up] No! Shut up! Listen to me! [the crowd quiets down] You don't want a guy like me in the White House! You don't even wanna know the shit I've done!\n"
+  },
+  {
+    "input": "I am peeing my pants... at the thought of being President, okay? [more cheers go up] No! Shut up! Listen to me! [the crowd quiets down] You don't want a guy like me in the White House! You don't even wanna know the shit I've done!\n",
+    "output": "Wooohooo!\n"
+  },
+  {
+    "input": "Wooohooo!\n",
+    "output": "I have scissored with another woman when I had a sex change!\n"
+  },
+  {
+    "input": "I have scissored with another woman when I had a sex change!\n",
+    "output": "He's so honest!\n"
+  },
+  {
+    "input": "He's so honest!\n",
+    "output": "No, no! I'm not the guy you want going to Russia to negotiate with Putin. I'll probably end up gettin' drunk and tryin' to suck his dick. [more cheering. He turns away from the mic] OHHHH JEEEZ\n[Ike's room, day. Gerald peeks in and sees him at the computer.]\n"
+  },
+  {
+    "input": "No, no! I'm not the guy you want going to Russia to negotiate with Putin. I'll probably end up gettin' drunk and tryin' to suck his dick. [more cheering. He turns away from the mic] OHHHH JEEEZ\n[Ike's room, day. Gerald peeks in and sees him at the computer.]\n",
+    "output": "Ike, got a minute? [enters and sits on Ike's bed] Let's talk, buddy. [Ike pauses his game and goes to his bed] You know, the school really wants us to keep talking to our kids about trolling on the Internet and how serious it is. I guess the troll from the school message boards is now harassing a famous Olympic athlete from Denmark, heh. Have you seen this? Have you heard about this? Yeah well, she kinda called him out and said he could never get her to quit social media, and you know, you might say she's askin' for it. But uh, now this troll is being copied by other trolls who are all dog piling to see if they can get her to quit and, well God only knows what they're gonna do tonight. Well, goodnight, pal. You be sure to let your mom know we talked more about the horrific consequences of trolling. [steps outside, then leans back and smiles at Ike, then leaves and closes the door]\n[The park, day. Heidi and Cartman are sitting on a bench while a duck stands on the ground before them.]\n"
+  },
+  {
+    "input": "Ike, got a minute? [enters and sits on Ike's bed] Let's talk, buddy. [Ike pauses his game and goes to his bed] You know, the school really wants us to keep talking to our kids about trolling on the Internet and how serious it is. I guess the troll from the school message boards is now harassing a famous Olympic athlete from Denmark, heh. Have you seen this? Have you heard about this? Yeah well, she kinda called him out and said he could never get her to quit social media, and you know, you might say she's askin' for it. But uh, now this troll is being copied by other trolls who are all dog piling to see if they can get her to quit and, well God only knows what they're gonna do tonight. Well, goodnight, pal. You be sure to let your mom know we talked more about the horrific consequences of trolling. [steps outside, then leans back and smiles at Ike, then leaves and closes the door]\n[The park, day. Heidi and Cartman are sitting on a bench while a duck stands on the ground before them.]\n",
+    "output": "I want to tell you... that I'm sorry.\n"
+  },
+  {
+    "input": "I want to tell you... that I'm sorry.\n",
+    "output": "For what?\n"
+  },
+  {
+    "input": "For what?\n",
+    "output": "When women first started getting trolled on the school message boards. I was sure it was you. I was wrong.\n"
+  },
+  {
+    "input": "When women first started getting trolled on the school message boards. I was sure it was you. I was wrong.\n",
+    "output": "You weren't the only one. I guess I didn't deserve a second chance. I really tried to make changes. I really tried to become a better person. To sh-show that I was trying to listen.\n"
+  },
+  {
+    "input": "You weren't the only one. I guess I didn't deserve a second chance. I really tried to make changes. I really tried to become a better person. To sh-show that I was trying to listen.\n",
+    "output": "So when you held the assembly that woman were just as funny as men, you... you weren't being sarcastic?\n"
+  },
+  {
+    "input": "So when you held the assembly that woman were just as funny as men, you... you weren't being sarcastic?\n",
+    "output": "[earnestly] Women are funny, Heidi. Get over it. Every time Amy Schumer talks about her vagina, I lose my fuckin' mind.\n"
+  },
+  {
+    "input": "[earnestly] Women are funny, Heidi. Get over it. Every time Amy Schumer talks about her vagina, I lose my fuckin' mind.\n",
+    "output": "Do you miss your friends?\n"
+  },
+  {
+    "input": "Do you miss your friends?\n",
+    "output": "I don't have any friends. I don't know if I ever did.\n"
+  },
+  {
+    "input": "I don't have any friends. I don't know if I ever did.\n",
+    "output": "You do now. [smiles at him]\n"
+  },
+  {
+    "input": "You do now. [smiles at him]\n",
+    "output": "Kewl.\n[Douche 2016 campaign rally at Pepsi Center. Garrison is speaking]\n"
+  },
+  {
+    "input": "Kewl.\n[Douche 2016 campaign rally at Pepsi Center. Garrison is speaking]\n",
+    "output": "Hello Florida! Please put your hands together and welcome the next President of the United States! [makes way for Mr. Garrison]\n"
+  },
+  {
+    "input": "Hello Florida! Please put your hands together and welcome the next President of the United States! [makes way for Mr. Garrison]\n",
+    "output": "I hate all of you so much.\n"
+  },
+  {
+    "input": "I hate all of you so much.\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "I seriously hold so much contempt for each and every one of you pieces of shit. [cheers] If you vote me in as President I'll seriously throw up and have lost all faith in humanity. [more cheers]\n"
+  },
+  {
+    "input": "I seriously hold so much contempt for each and every one of you pieces of shit. [cheers] If you vote me in as President I'll seriously throw up and have lost all faith in humanity. [more cheers]\n",
+    "output": "[watching on TV] I agree.\n"
+  },
+  {
+    "input": "[watching on TV] I agree.\n",
+    "output": "I don't wanna be here. Please just let me go. I don't know what I'm doing. I don't know anything. I'm scared. I'm completely clueless how to proceed. I just... spew bullshit and cry myself to sleep at night. Stop thinking that I'm anything more than a douche in over his head. For fuck's sake, please.\n"
+  },
+  {
+    "input": "I don't wanna be here. Please just let me go. I don't know what I'm doing. I don't know anything. I'm scared. I'm completely clueless how to proceed. I just... spew bullshit and cry myself to sleep at night. Stop thinking that I'm anything more than a douche in over his head. For fuck's sake, please.\n",
+    "output": "Shit, I'm startin' to really like this guy.\n[Skeeter's Wine Bar, day.]\n"
+  },
+  {
+    "input": "Shit, I'm startin' to really like this guy.\n[Skeeter's Wine Bar, day.]\n",
+    "output": "And after stating that he was not fit to be President, Secretary Clinton responded with \"My opponent is a liar and he cannot be trusted.\"\n"
+  },
+  {
+    "input": "And after stating that he was not fit to be President, Secretary Clinton responded with \"My opponent is a liar and he cannot be trusted.\"\n",
+    "output": "I am so confused.\n"
+  },
+  {
+    "input": "I am so confused.\n",
+    "output": "In other news tonight, Danish gold medalist Freja \u00d8lleng\u00e5rd is the apparent victim of extreme trolling once again. [Gerald walks into the bar and watches the report]\n"
+  },
+  {
+    "input": "In other news tonight, Danish gold medalist Freja \u00d8lleng\u00e5rd is the apparent victim of extreme trolling once again. [Gerald walks into the bar and watches the report]\n",
+    "output": "Oh. Eh hey, can you turn that up?\n"
+  },
+  {
+    "input": "Oh. Eh hey, can you turn that up?\n",
+    "output": "The athlete from Denmark has been the target of relentless online attacks that began with the troll skankhunt42. [Gerald smiles and looks around to see if anyone has figured out it was him who's the troll] Last night the trolling took a vicious turn when Freja \u00d8lleng\u00e5rd finally succumbed to the pressure and committed suicide. [Gerald's smile vanishes.]\n"
+  },
+  {
+    "input": "The athlete from Denmark has been the target of relentless online attacks that began with the troll skankhunt42. [Gerald smiles and looks around to see if anyone has figured out it was him who's the troll] Last night the trolling took a vicious turn when Freja \u00d8lleng\u00e5rd finally succumbed to the pressure and committed suicide. [Gerald's smile vanishes.]\n",
+    "output": "Paul, Danish women's volleyball champion Freja \u00d8lleng\u00e5rd has been pronounced dead outside her apartment in Copenhagen. [there's fear in Gerald's face] The four-time girls' medal winner took her own life after jumping 17 floors off the balcony of her building. [footage is shown of her doing this, with a klieg light focused on her all the way down. She lands on a car and shatters, blood going all over the place. The car's alarm turns on]\n"
+  },
+  {
+    "input": "Paul, Danish women's volleyball champion Freja \u00d8lleng\u00e5rd has been pronounced dead outside her apartment in Copenhagen. [there's fear in Gerald's face] The four-time girls' medal winner took her own life after jumping 17 floors off the balcony of her building. [footage is shown of her doing this, with a klieg light focused on her all the way down. She lands on a car and shatters, blood going all over the place. The car's alarm turns on]\n",
+    "output": "Freja \u00d8lleng\u00e5rd, dead at the age of 38. [Quickly, Gerald runs to the restroom and into a stall. A patron watches him enter and continues doing so until the scene ends]\n"
+  },
+  {
+    "input": "Freja \u00d8lleng\u00e5rd, dead at the age of 38. [Quickly, Gerald runs to the restroom and into a stall. A patron watches him enter and continues doing so until the scene ends]\n",
+    "output": "[on the toilet seat] Oh my God! Oh shit! Oh shit oh my God! Oh God oh no-oohh!\n[The Stotch house. Someone knocks on the door and Stephen goes to answer it.]\n"
+  },
+  {
+    "input": "[on the toilet seat] Oh my God! Oh shit! Oh shit oh my God! Oh God oh no-oohh!\n[The Stotch house. Someone knocks on the door and Stephen goes to answer it.]\n",
+    "output": "I was wrong, Stephen, I'm votin' for your guy.\n"
+  },
+  {
+    "input": "I was wrong, Stephen, I'm votin' for your guy.\n",
+    "output": "[surprised] What?\n"
+  },
+  {
+    "input": "[surprised] What?\n",
+    "output": "It's just... [walks in] I see what you mean. He talks like an ordinary person. And he has a lot of the same emotions I do, you know? He's got my vote.\n"
+  },
+  {
+    "input": "It's just... [walks in] I see what you mean. He talks like an ordinary person. And he has a lot of the same emotions I do, you know? He's got my vote.\n",
+    "output": "Are you out of your fuckin' mind?\n"
+  },
+  {
+    "input": "Are you out of your fuckin' mind?\n",
+    "output": "[turns around] What?\n"
+  },
+  {
+    "input": "[turns around] What?\n",
+    "output": "You wanna vote for that douche?! He'll ruin this country!\n"
+  },
+  {
+    "input": "You wanna vote for that douche?! He'll ruin this country!\n",
+    "output": "You were just voting for him yesterday!\n"
+  },
+  {
+    "input": "You were just voting for him yesterday!\n",
+    "output": "Yeah, but not anymore!\n"
+  },
+  {
+    "input": "Yeah, but not anymore!\n",
+    "output": "What happened??\n"
+  },
+  {
+    "input": "What happened??\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "What the hell is wrong with people?! You just don't flip back and forth like that?!\n"
+  },
+  {
+    "input": "What the hell is wrong with people?! You just don't flip back and forth like that?!\n",
+    "output": "You just did.\n"
+  },
+  {
+    "input": "You just did.\n",
+    "output": "[processes that reply] ...I did. What's going on, Stephen? Why does everything suck this hard?\n"
+  },
+  {
+    "input": "[processes that reply] ...I did. What's going on, Stephen? Why does everything suck this hard?\n",
+    "output": "I don't know. Nobody knows what to think anymore.\n"
+  },
+  {
+    "input": "I don't know. Nobody knows what to think anymore.\n",
+    "output": "But how did we get here? Completely confused and with shit for choices? It's like... it's like there are other forces at work.\n"
+  },
+  {
+    "input": "But how did we get here? Completely confused and with shit for choices? It's like... it's like there are other forces at work.\n",
+    "output": "I'm just tired of thinkin' about it. Come on, let's relax and' have some member berry pie.\n"
+  },
+  {
+    "input": "I'm just tired of thinkin' about it. Come on, let's relax and' have some member berry pie.\n",
+    "output": "[thinks a moment] Member berry pie... [drops the thought] Okay, I love member berries. [follows Stephen to the dining room table]\n[At the table. Randy has served himself a slice of member berry pie.]\n"
+  },
+  {
+    "input": "[thinks a moment] Member berry pie... [drops the thought] Okay, I love member berries. [follows Stephen to the dining room table]\n[At the table. Randy has served himself a slice of member berry pie.]\n",
+    "output": "'Member Tattooine? 'Member the torture droid? I 'member? Hi, 'member Goonies? I loooved Goonies. 'Member Chunk? 'Member? 'Member the trash compactor? Oh, the trash compactor.\n"
+  },
+  {
+    "input": "'Member Tattooine? 'Member the torture droid? I 'member? Hi, 'member Goonies? I loooved Goonies. 'Member Chunk? 'Member? 'Member the trash compactor? Oh, the trash compactor.\n",
+    "output": "[picks some berries up with a spoon, but stops] Wait a minute... [a camera pans away from the Stotch house into space, then moves east to Europe, then zooms in on Denmark.]\n[Copenhagen, Denmark, at Rosenborg Park. Someone speaks over loudspeakers at Freja \u00d8lleng\u00e5rd's funeral outside the cathedral.]\n"
+  },
+  {
+    "input": "[picks some berries up with a spoon, but stops] Wait a minute... [a camera pans away from the Stotch house into space, then moves east to Europe, then zooms in on Denmark.]\n[Copenhagen, Denmark, at Rosenborg Park. Someone speaks over loudspeakers at Freja \u00d8lleng\u00e5rd's funeral outside the cathedral.]\n",
+    "output": "[in a Danish accent] Citizens of Denmark, we are under attack. As our ancestors did in days long ago, we must rise to defend our families. [Freja's casket is slowly brought to the altar outside the cathedral] A troll has come into our village and taken from us a beloved princess. He then returned to his secret hiding place, crawled back to his little cave, thinking the Danes would simply cry and run. [a mourner sobs] No. What this troll doesn't realize is that we have been planning our own attack. I'm announcing here and to the world that a plan to destroy the troll is underway. For in Denmark there is one thing we have known for centuries. To get the troll to come out of hiding, you must say its name.\n[Community park in South Park, day. Heidi sits on the bench alone, waiting. Cartman walks up and sits next to her]\n"
+  },
+  {
+    "input": "[in a Danish accent] Citizens of Denmark, we are under attack. As our ancestors did in days long ago, we must rise to defend our families. [Freja's casket is slowly brought to the altar outside the cathedral] A troll has come into our village and taken from us a beloved princess. He then returned to his secret hiding place, crawled back to his little cave, thinking the Danes would simply cry and run. [a mourner sobs] No. What this troll doesn't realize is that we have been planning our own attack. I'm announcing here and to the world that a plan to destroy the troll is underway. For in Denmark there is one thing we have known for centuries. To get the troll to come out of hiding, you must say its name.\n[Community park in South Park, day. Heidi sits on the bench alone, waiting. Cartman walks up and sits next to her]\n",
+    "output": "Hey.\n"
+  },
+  {
+    "input": "Hey.\n",
+    "output": "Hey. [long pause] I was thinking again. About how women are just as funny as men. And then I realized... that the only way to really be sure is to see if African-Americans think they're funny.\n"
+  },
+  {
+    "input": "Hey. [long pause] I was thinking again. About how women are just as funny as men. And then I realized... that the only way to really be sure is to see if African-Americans think they're funny.\n",
+    "output": "Why is that?\n"
+  },
+  {
+    "input": "Why is that?\n",
+    "output": "Because, black laughs matter.\n"
+  },
+  {
+    "input": "Because, black laughs matter.\n",
+    "output": "...Is that a joke?\n"
+  },
+  {
+    "input": "...Is that a joke?\n",
+    "output": "Yes, it is.\n"
+  },
+  {
+    "input": "Yes, it is.\n",
+    "output": "I don't get it.\n"
+  },
+  {
+    "input": "I don't get it.\n",
+    "output": "Yes, you do. [Heidi just looks downward] Heidi, does it ever get any easier? Living in this world?\n"
+  },
+  {
+    "input": "Yes, you do. [Heidi just looks downward] Heidi, does it ever get any easier? Living in this world?\n",
+    "output": "The hardest part is not having any followers. I used to go places just to show them where I was.\n"
+  },
+  {
+    "input": "The hardest part is not having any followers. I used to go places just to show them where I was.\n",
+    "output": "You wanna go somewhere? I'll follow you. [Heidi smiles]\n[Hillvale Farm, day. Organic fruits and vegetable. Pick your own! YES! We Have Member Berries! Randy drives in and reaches the farm house, then steps out of the car.]\n"
+  },
+  {
+    "input": "You wanna go somewhere? I'll follow you. [Heidi smiles]\n[Hillvale Farm, day. Organic fruits and vegetable. Pick your own! YES! We Have Member Berries! Randy drives in and reaches the farm house, then steps out of the car.]\n",
+    "output": "Mornin'. How can I help ya?\n"
+  },
+  {
+    "input": "Mornin'. How can I help ya?\n",
+    "output": "Yeah, I have some questions about uh member berries?\n"
+  },
+  {
+    "input": "Yeah, I have some questions about uh member berries?\n",
+    "output": "Yeah'. Everyone wants member berries these days. [turns left and walks off] Right over heah. [Randy joins him] Don't know what makes them so popular. I've had to get rid of all mah pumpkins, mah onions and mah peppahs, just to make room for more membah berries. [the voices of member berries get louder as they approach the berry grove. There are berries as far as the eye can see.]\n"
+  },
+  {
+    "input": "Yeah'. Everyone wants member berries these days. [turns left and walks off] Right over heah. [Randy joins him] Don't know what makes them so popular. I've had to get rid of all mah pumpkins, mah onions and mah peppahs, just to make room for more membah berries. [the voices of member berries get louder as they approach the berry grove. There are berries as far as the eye can see.]\n",
+    "output": "Oh my God, there's this many?\n"
+  },
+  {
+    "input": "Oh my God, there's this many?\n",
+    "output": "'Member the 80s? Oh, 'member the 90s? Yeah yeah, but 'member the 80s though? Nonono, 'member the 90s?\n[The supermarket, which is not a Whole Foods Market, day. Gerald walks out with his groceries looking at his phone. He approaches his car, which has a note under a windshield wiper. Gerald notices is, takes it from the wiper, and reads it. \"Gerald Broflovski.\" He opens it, and reads the message inside, written in red marker: \"I know who you are.\" Panicked, Gerald looks around and gets paranoid. He gets into his car quickly.]\n"
+  },
+  {
+    "input": "'Member the 80s? Oh, 'member the 90s? Yeah yeah, but 'member the 80s though? Nonono, 'member the 90s?\n[The supermarket, which is not a Whole Foods Market, day. Gerald walks out with his groceries looking at his phone. He approaches his car, which has a note under a windshield wiper. Gerald notices is, takes it from the wiper, and reads it. \"Gerald Broflovski.\" He opens it, and reads the message inside, written in red marker: \"I know who you are.\" Panicked, Gerald looks around and gets paranoid. He gets into his car quickly.]\n",
+    "output": "Oh God! Oh God! Oh God! Oh God! Oh God! Protocol Zero. No evidence, clear history. E-mails! delete, delete, delete, erase, erase, trash, trash. [reaches into his glove compartment and pulls out a hammer called \"Protocol Zero.\" He leaves the car with phone and hammer in tow. An elderly woman draw near as he smashes the phone to bits on the roof of his car. Once he's destroyed the phone, he gets into his car and peels out. He rushes home and runs up to his office. He turns on his computer and begins to delete stuff in the Gerald folder he has on there. After that he opens up the computer and pulls out the hard drive. He takes the computer apart, puts it all in a duffel bag and drives to Stark's Pond, where he sets up a portable foot-operated catapult and launches the duffel bag into the pond. He quickly rushes home again and sites next to Sheila on the couch. Sheila just glances at him]\n"
+  },
+  {
+    "input": "Oh God! Oh God! Oh God! Oh God! Oh God! Protocol Zero. No evidence, clear history. E-mails! delete, delete, delete, erase, erase, trash, trash. [reaches into his glove compartment and pulls out a hammer called \"Protocol Zero.\" He leaves the car with phone and hammer in tow. An elderly woman draw near as he smashes the phone to bits on the roof of his car. Once he's destroyed the phone, he gets into his car and peels out. He rushes home and runs up to his office. He turns on his computer and begins to delete stuff in the Gerald folder he has on there. After that he opens up the computer and pulls out the hard drive. He takes the computer apart, puts it all in a duffel bag and drives to Stark's Pond, where he sets up a portable foot-operated catapult and launches the duffel bag into the pond. He quickly rushes home again and sites next to Sheila on the couch. Sheila just glances at him]\n",
+    "output": "I saw Nancy Morris today. She has a different hair color. Again. I swear she doesn't think anyone even notices. Her natural hair color must be clear.\n"
+  },
+  {
+    "input": "I saw Nancy Morris today. She has a different hair color. Again. I swear she doesn't think anyone even notices. Her natural hair color must be clear.\n",
+    "output": "[rushed] Our computer's broke.\n"
+  },
+  {
+    "input": "[rushed] Our computer's broke.\n",
+    "output": "...What?\n"
+  },
+  {
+    "input": "...What?\n",
+    "output": "It broke and I had to throw it away.\n"
+  },
+  {
+    "input": "It broke and I had to throw it away.\n",
+    "output": "I thought if a computer isn't working, you try and get it fixed.\n"
+  },
+  {
+    "input": "I thought if a computer isn't working, you try and get it fixed.\n",
+    "output": "No now you just throw it away.\n"
+  },
+  {
+    "input": "No now you just throw it away.\n",
+    "output": "You had all my recipes on that FileMaker program on your computer.\n"
+  },
+  {
+    "input": "You had all my recipes on that FileMaker program on your computer.\n",
+    "output": "I'll get us a new computer tomorrow. Then I can see if we can pull your recipes up from Ike's computer, and that way we- Ike's computer! Shit! [runs upstairs]\n[Ike's room, moments later. Gerald runs in and towards the computer]\n"
+  },
+  {
+    "input": "I'll get us a new computer tomorrow. Then I can see if we can pull your recipes up from Ike's computer, and that way we- Ike's computer! Shit! [runs upstairs]\n[Ike's room, moments later. Gerald runs in and towards the computer]\n",
+    "output": "Move move move! [pushes Ike out of the way and gets to work] My computer is off the network, and, and this computer didn't mirror that computer, but they did share the same Time Machine schedule, so then, would any of my files be accessible? No, because they didn't know each other's IP addresses. What if you can access my e-mail account from this computer through iCloud? If I go to iCloud, my e-mails are deleted. Good. Except there's a new e-mail. [It's from unknown] That shouldn't have come in. Why would an e-mail to me have come in if I deleted everything? [he reads the e-mail. It says the same thing the note did] \"I know who you are.\" [spins around and points at Ike] You? Do you know who I am? Do you know who I am, Ike?\n"
+  },
+  {
+    "input": "Move move move! [pushes Ike out of the way and gets to work] My computer is off the network, and, and this computer didn't mirror that computer, but they did share the same Time Machine schedule, so then, would any of my files be accessible? No, because they didn't know each other's IP addresses. What if you can access my e-mail account from this computer through iCloud? If I go to iCloud, my e-mails are deleted. Good. Except there's a new e-mail. [It's from unknown] That shouldn't have come in. Why would an e-mail to me have come in if I deleted everything? [he reads the e-mail. It says the same thing the note did] \"I know who you are.\" [spins around and points at Ike] You? Do you know who I am? Do you know who I am, Ike?\n",
+    "output": "No, but I want to, Dad.\n"
+  },
+  {
+    "input": "No, but I want to, Dad.\n",
+    "output": "[thinks of the Biblical sense] Not like that, smartass! [turns back to the computer and works on his account] Delete! Delete the account, not the e-mails! [gets an e-mail: \"You have a Google alert!\" He clicks OK and reads] \"meet me under the freemont bridge. 9 am tomorrow.\" [panics] Oh God...\n[M burgers, day. Cartman and Heidi are eating lunch there.]\n"
+  },
+  {
+    "input": "[thinks of the Biblical sense] Not like that, smartass! [turns back to the computer and works on his account] Delete! Delete the account, not the e-mails! [gets an e-mail: \"You have a Google alert!\" He clicks OK and reads] \"meet me under the freemont bridge. 9 am tomorrow.\" [panics] Oh God...\n[M burgers, day. Cartman and Heidi are eating lunch there.]\n",
+    "output": "You dip your French fries in the sweet & sour sauce?\n"
+  },
+  {
+    "input": "You dip your French fries in the sweet & sour sauce?\n",
+    "output": "Yeah. It's the best, dude. Try it.\n"
+  },
+  {
+    "input": "Yeah. It's the best, dude. Try it.\n",
+    "output": "[tries it and eats] Wow, that's really good. I'm starting to feel like life isn't gonna be so bad.\n"
+  },
+  {
+    "input": "[tries it and eats] Wow, that's really good. I'm starting to feel like life isn't gonna be so bad.\n",
+    "output": "Yeah. I think I am too. Heidi, can I ask you something?\n"
+  },
+  {
+    "input": "Yeah. I think I am too. Heidi, can I ask you something?\n",
+    "output": "Yeah, of course.\n"
+  },
+  {
+    "input": "Yeah, of course.\n",
+    "output": "Do girls... not have balls?\n"
+  },
+  {
+    "input": "Do girls... not have balls?\n",
+    "output": "Girls do not have balls, no\n"
+  },
+  {
+    "input": "Girls do not have balls, no\n",
+    "output": "So when a girl goes to scratch her balls, how does that work? [she wonders why he's asking] I just don't understand what's at the bottom of a vagina.\n"
+  },
+  {
+    "input": "So when a girl goes to scratch her balls, how does that work? [she wonders why he's asking] I just don't understand what's at the bottom of a vagina.\n",
+    "output": "[munches on a fry] Do you want me to show you?\n"
+  }
+]

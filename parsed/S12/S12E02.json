@@ -1,0 +1,894 @@
+[
+  {
+    "input": "",
+    "output": "Britney's New Look\n\n[A TV screen showing animated graphics: Decision 2008 Debate, on Fox 31]\n"
+  },
+  {
+    "input": "Britney's New Look\n\n[A TV screen showing animated graphics: Decision 2008 Debate, on Fox 31]\n",
+    "output": "Live, from Chicago, Illinois, it's Decision 2008.\n"
+  },
+  {
+    "input": "Live, from Chicago, Illinois, it's Decision 2008.\n",
+    "output": "[in a droning voice] Good evening and welcome to the political debate between Hillary Rodham Clinton and Barack Obama. [turns to them] First question: How do you see yourself as different from your opponent?\n[Stan's house. Randy has the four boys seated on the couch as they all watch TV together. Randy has a beer in his left hand. Butters is passed out while the other three boys are half asleep.]\n"
+  },
+  {
+    "input": "[in a droning voice] Good evening and welcome to the political debate between Hillary Rodham Clinton and Barack Obama. [turns to them] First question: How do you see yourself as different from your opponent?\n[Stan's house. Randy has the four boys seated on the couch as they all watch TV together. Randy has a beer in his left hand. Butters is passed out while the other three boys are half asleep.]\n",
+    "output": "Ugh, Dad, can we please not watch this?\n"
+  },
+  {
+    "input": "Ugh, Dad, can we please not watch this?\n",
+    "output": "This is important, Stanley! [the boys look at him] You boys should care about this stuff.\n"
+  },
+  {
+    "input": "This is important, Stanley! [the boys look at him] You boys should care about this stuff.\n",
+    "output": "Yeah, but we totally don't.\n"
+  },
+  {
+    "input": "Yeah, but we totally don't.\n",
+    "output": "Well you boys are gonna sit and watch this! This is what really matters!\n"
+  },
+  {
+    "input": "Well you boys are gonna sit and watch this! This is what really matters!\n",
+    "output": "And so, Mr. Obama, why don't you tell us your stance on military spending?\n"
+  },
+  {
+    "input": "And so, Mr. Obama, why don't you tell us your stance on military spending?\n",
+    "output": "Well, my opinion is that-\n[Emergency New Bulletin]\n"
+  },
+  {
+    "input": "Well, my opinion is that-\n[Emergency New Bulletin]\n",
+    "output": "We interrupt this debate for an emergency news bulletin! It's... Britney Watch! [a montage of Britney pictures is stamped with a stamp saying \"Britney Watch\" inside it. Dramatic background music starts up] Keeping you up-to-date with all your Britney Spears news!\n"
+  },
+  {
+    "input": "We interrupt this debate for an emergency news bulletin! It's... Britney Watch! [a montage of Britney pictures is stamped with a stamp saying \"Britney Watch\" inside it. Dramatic background music starts up] Keeping you up-to-date with all your Britney Spears news!\n",
+    "output": "[wakes up and looks at the screen] Man...\n"
+  },
+  {
+    "input": "[wakes up and looks at the screen] Man...\n",
+    "output": "[getting excited, leans forward] Oh-oh boy, what's she done now?\n"
+  },
+  {
+    "input": "[getting excited, leans forward] Oh-oh boy, what's she done now?\n",
+    "output": "Britney Spears has been spotted camping in the Colorado mountains, and one report claims that she has taken a piss... in the forest. Robert Pooner has more.\n"
+  },
+  {
+    "input": "Britney Spears has been spotted camping in the Colorado mountains, and one report claims that she has taken a piss... in the forest. Robert Pooner has more.\n",
+    "output": "Ron, I'm standing in South Park, Colorado, where Britney Spears has apparently been trying to get away from it all. [the boys react to the news]\n"
+  },
+  {
+    "input": "Ron, I'm standing in South Park, Colorado, where Britney Spears has apparently been trying to get away from it all. [the boys react to the news]\n",
+    "output": "Aw dude, that's our town!\n"
+  },
+  {
+    "input": "Aw dude, that's our town!\n",
+    "output": "Ms. Spears was spotted at a mountain campground [shots of her pitching a tent and relaxing in a chair after the tent is up], and you won't believe what she did, Ron. The troubled diva took a piss. Right on a ladybug. We've blurred out parts of the photo so that it doesn't offend. [a shot of her squatting and pissing on the ladybug. The blurred area is her face]\n"
+  },
+  {
+    "input": "Ms. Spears was spotted at a mountain campground [shots of her pitching a tent and relaxing in a chair after the tent is up], and you won't believe what she did, Ron. The troubled diva took a piss. Right on a ladybug. We've blurred out parts of the photo so that it doesn't offend. [a shot of her squatting and pissing on the ladybug. The blurred area is her face]\n",
+    "output": "She's such a train wreck!\n"
+  },
+  {
+    "input": "She's such a train wreck!\n",
+    "output": "When the photo is enhanced, Ron, you can see the poor little ladybug getting doused. [extreme closeup of the piss hitting the ladybug]\n"
+  },
+  {
+    "input": "When the photo is enhanced, Ron, you can see the poor little ladybug getting doused. [extreme closeup of the piss hitting the ladybug]\n",
+    "output": "[the anchorman] This must be very embarrassing for Britney that this photo got out, Bob, and, and she looks like she's gained weight.\n"
+  },
+  {
+    "input": "[the anchorman] This must be very embarrassing for Britney that this photo got out, Bob, and, and she looks like she's gained weight.\n",
+    "output": "That's right, Ron, she really chubbed up. And if you zoom in on her face, you can see that she's got some zits! [a closeup of her chin shows two zits]\n"
+  },
+  {
+    "input": "That's right, Ron, she really chubbed up. And if you zoom in on her face, you can see that she's got some zits! [a closeup of her chin shows two zits]\n",
+    "output": "Aw, poor girl.\n"
+  },
+  {
+    "input": "Aw, poor girl.\n",
+    "output": "[rising from his armchair] Hey Sharon, Britney peed on a ladybug. [heads towards the kitchen]\n"
+  },
+  {
+    "input": "[rising from his armchair] Hey Sharon, Britney peed on a ladybug. [heads towards the kitchen]\n",
+    "output": "The photograph was taken by Brian Willis of Bailey, Colorado [a photo of Brian Willis holding lots of bricks of money appears], who sold it to 31 News for a hundred thousand dollars.\n"
+  },
+  {
+    "input": "The photograph was taken by Brian Willis of Bailey, Colorado [a photo of Brian Willis holding lots of bricks of money appears], who sold it to 31 News for a hundred thousand dollars.\n",
+    "output": "A hundred thousand dollars?\n"
+  },
+  {
+    "input": "A hundred thousand dollars?\n",
+    "output": "That's enough to buy slaves!\n"
+  },
+  {
+    "input": "That's enough to buy slaves!\n",
+    "output": "Britney is said to be now hiding out in a South Park motel. Aand now back to the stupid Democratic debates.\n"
+  },
+  {
+    "input": "Britney is said to be now hiding out in a South Park motel. Aand now back to the stupid Democratic debates.\n",
+    "output": "...and spearchuckers.\n"
+  },
+  {
+    "input": "...and spearchuckers.\n",
+    "output": "[gets off the sofa] Did you guys hear that?! A hundred thousand dollars for a picture of Britney.\n"
+  },
+  {
+    "input": "[gets off the sofa] Did you guys hear that?! A hundred thousand dollars for a picture of Britney.\n",
+    "output": "[gets off the sofa] And she's at a hotel in our town. [Cartman gets up as well and gets restless]\n"
+  },
+  {
+    "input": "[gets off the sofa] And she's at a hotel in our town. [Cartman gets up as well and gets restless]\n",
+    "output": "It's gotta be the Komfort Inn. It's the nicest hotel in South Park. Cartman, go get your camera.\n"
+  },
+  {
+    "input": "It's gotta be the Komfort Inn. It's the nicest hotel in South Park. Cartman, go get your camera.\n",
+    "output": "[runs off] Sweet!\n"
+  },
+  {
+    "input": "[runs off] Sweet!\n",
+    "output": "[finally gets up] Hey, hanguh, hang on, fellas, don't you think Britney's been through enough? I mean, maybe it's finally time for us all to just leave her alone.\n"
+  },
+  {
+    "input": "[finally gets up] Hey, hanguh, hang on, fellas, don't you think Britney's been through enough? I mean, maybe it's finally time for us all to just leave her alone.\n",
+    "output": "[thinks a bit, then] Butters, don't be such a pussy.\n"
+  },
+  {
+    "input": "[thinks a bit, then] Butters, don't be such a pussy.\n",
+    "output": "[looks at Stan, then at Kyle] Hokay. [smiles]\n[The sidewalk. Stan, Kyle, and Cartman walk along, Cartman has his camera with him]\n"
+  },
+  {
+    "input": "[looks at Stan, then at Kyle] Hokay. [smiles]\n[The sidewalk. Stan, Kyle, and Cartman walk along, Cartman has his camera with him]\n",
+    "output": "A hundred thousand for a picture of Britney peeing on a ladybug. Imagine what a photo of her crapping on a squirrel is worth!\n"
+  },
+  {
+    "input": "A hundred thousand for a picture of Britney peeing on a ladybug. Imagine what a photo of her crapping on a squirrel is worth!\n",
+    "output": "[hidden, comes to the front] Well this costume was supposed to be for the Easter musical, fellas, not for tryin' to make an easy buck! [something stops them in their tracks]\n"
+  },
+  {
+    "input": "[hidden, comes to the front] Well this costume was supposed to be for the Easter musical, fellas, not for tryin' to make an easy buck! [something stops them in their tracks]\n",
+    "output": "Oh no.\n[Before them is the Komfort Inn, with a crowd of paparazzi standing in front of it. The boys walk up to the crowd]\n"
+  },
+  {
+    "input": "Oh no.\n[Before them is the Komfort Inn, with a crowd of paparazzi standing in front of it. The boys walk up to the crowd]\n",
+    "output": "Excuse us, we're trying to get a picture of Britney Spears!\n"
+  },
+  {
+    "input": "Excuse us, we're trying to get a picture of Britney Spears!\n",
+    "output": "Join the club.\n"
+  },
+  {
+    "input": "Join the club.\n",
+    "output": "Yeah, all you amateur photographers are makin' this tougher on the professionals!\n"
+  },
+  {
+    "input": "Yeah, all you amateur photographers are makin' this tougher on the professionals!\n",
+    "output": "We're professionals too, you fuckin' butthole! [the boys make it through the crowd and approach a set of stairs. A security guard stops them]\n"
+  },
+  {
+    "input": "We're professionals too, you fuckin' butthole! [the boys make it through the crowd and approach a set of stairs. A security guard stops them]\n",
+    "output": "Ah ah, nobody goes upstairs.\n"
+  },
+  {
+    "input": "Ah ah, nobody goes upstairs.\n",
+    "output": "[stammers] We uh, we have special permission?\n"
+  },
+  {
+    "input": "[stammers] We uh, we have special permission?\n",
+    "output": "Yeah, don't you recognize us? We're Britney Spears' kids.\n"
+  },
+  {
+    "input": "Yeah, don't you recognize us? We're Britney Spears' kids.\n",
+    "output": "You are?\n"
+  },
+  {
+    "input": "You are?\n",
+    "output": "[not amused] Not me! I'm a squirrel!\n[A hotel room. Britney is painting her toenails on a low table while on the phone with someone]\n"
+  },
+  {
+    "input": "[not amused] Not me! I'm a squirrel!\n[A hotel room. Britney is painting her toenails on a low table while on the phone with someone]\n",
+    "output": "But now everybody thinks I hate ladybugs. I didn't even know it was there. I can't take it anymore. I'm just sooo- [several knocks are heard at her door]\n"
+  },
+  {
+    "input": "But now everybody thinks I hate ladybugs. I didn't even know it was there. I can't take it anymore. I'm just sooo- [several knocks are heard at her door]\n",
+    "output": "Excuse me, Ms. Spears, but your kids are here and they've brought you a squirrel.\n"
+  },
+  {
+    "input": "Excuse me, Ms. Spears, but your kids are here and they've brought you a squirrel.\n",
+    "output": "My boys? Really? Send them in. [to the caller] It's okay. My kids are here. I feel better now. [hangs up. Stan and the others enter the room]\n"
+  },
+  {
+    "input": "My boys? Really? Send them in. [to the caller] It's okay. My kids are here. I feel better now. [hangs up. Stan and the others enter the room]\n",
+    "output": "We did it guys!\n"
+  },
+  {
+    "input": "We did it guys!\n",
+    "output": "I told you that would work!\n"
+  },
+  {
+    "input": "I told you that would work!\n",
+    "output": "Yehehahah, all right!\n"
+  },
+  {
+    "input": "Yehehahah, all right!\n",
+    "output": "Ahall right!\n"
+  },
+  {
+    "input": "Ahall right!\n",
+    "output": "[walks up to them] You mean, it was just a joke? My kids ain't here?\n"
+  },
+  {
+    "input": "[walks up to them] You mean, it was just a joke? My kids ain't here?\n",
+    "output": "All right. Butters, go get next to her.\n"
+  },
+  {
+    "input": "All right. Butters, go get next to her.\n",
+    "output": "I ain't doin' it! We tricked her and it wasn't nice!\n"
+  },
+  {
+    "input": "I ain't doin' it! We tricked her and it wasn't nice!\n",
+    "output": "Butters, do you want your share of the hundred thousand dollars or not?\n"
+  },
+  {
+    "input": "Butters, do you want your share of the hundred thousand dollars or not?\n",
+    "output": "[walks back to the table] You're never gonna leave me alone, are you?\n"
+  },
+  {
+    "input": "[walks back to the table] You're never gonna leave me alone, are you?\n",
+    "output": "It ain't right to take advantage of somebody no matter who they are! [Britney opens a drawer and pulls something out]\n"
+  },
+  {
+    "input": "It ain't right to take advantage of somebody no matter who they are! [Britney opens a drawer and pulls something out]\n",
+    "output": "All right, fine! We don't need you, Butters!\n"
+  },
+  {
+    "input": "All right, fine! We don't need you, Butters!\n",
+    "output": "Yeah, we'll just get a picture of her doing something else.\n"
+  },
+  {
+    "input": "Yeah, we'll just get a picture of her doing something else.\n",
+    "output": "[aims his camera] All right lady, just flash us your crotch or somethin'.\n"
+  },
+  {
+    "input": "[aims his camera] All right lady, just flash us your crotch or somethin'.\n",
+    "output": "I've got a better idea.\n"
+  },
+  {
+    "input": "I've got a better idea.\n",
+    "output": "You do?\n"
+  },
+  {
+    "input": "You do?\n",
+    "output": "Yeah. [whips out a big shotgun, shoves the nozzle into her mouth, and pulls the trigger]\n"
+  },
+  {
+    "input": "Yeah. [whips out a big shotgun, shoves the nozzle into her mouth, and pulls the trigger]\n",
+    "output": "NO! [the gun goes off and she falls to the ground. The gun falls away from her. All four boys stand there all petrified. Cartman does not take any pictures. After a bit, Cartman turns and runs out. Butters looks at Stan and Kyle, then heads for the door]\n"
+  },
+  {
+    "input": "NO! [the gun goes off and she falls to the ground. The gun falls away from her. All four boys stand there all petrified. Cartman does not take any pictures. After a bit, Cartman turns and runs out. Butters looks at Stan and Kyle, then heads for the door]\n",
+    "output": "[stops and looks back] You killed her! [leaves]\n"
+  },
+  {
+    "input": "[stops and looks back] You killed her! [leaves]\n",
+    "output": "Hey, everything all right u-. Oh.\n[A hospital. Not Hell's Pass. Stan and Kyle sit on chairs outside a room, waiting for word on Britney's condition.]\n"
+  },
+  {
+    "input": "Hey, everything all right u-. Oh.\n[A hospital. Not Hell's Pass. Stan and Kyle sit on chairs outside a room, waiting for word on Britney's condition.]\n",
+    "output": "[over the PA system] Paging Dr. Bender? Paging Dr. Bender, please? [another nurse wheels an elderly patient across the hall]\n"
+  },
+  {
+    "input": "[over the PA system] Paging Dr. Bender? Paging Dr. Bender, please? [another nurse wheels an elderly patient across the hall]\n",
+    "output": "We should have just left her alone. But we just had to push her.\n"
+  },
+  {
+    "input": "We should have just left her alone. But we just had to push her.\n",
+    "output": "How could we know she would... Aw we suck so hard.\n"
+  },
+  {
+    "input": "How could we know she would... Aw we suck so hard.\n",
+    "output": "[walks up to Stan and Kyle and faces them] She's... alive.\n"
+  },
+  {
+    "input": "[walks up to Stan and Kyle and faces them] She's... alive.\n",
+    "output": "Whew.\n"
+  },
+  {
+    "input": "Whew.\n",
+    "output": "Oh, thank God.\n"
+  },
+  {
+    "input": "Oh, thank God.\n",
+    "output": "But, we almost lost her. Why couldn't you boys just leave her alone?\n"
+  },
+  {
+    "input": "But, we almost lost her. Why couldn't you boys just leave her alone?\n",
+    "output": "Doctor, could we talk to her for a minute?\n"
+  },
+  {
+    "input": "Doctor, could we talk to her for a minute?\n",
+    "output": "I don't want you making her upset.\n"
+  },
+  {
+    "input": "I don't want you making her upset.\n",
+    "output": "We don't wanna upset her, we just want to tell her that we're sorry.\n"
+  },
+  {
+    "input": "We don't wanna upset her, we just want to tell her that we're sorry.\n",
+    "output": "[sighs] All right.\n[Britney's recovery room]\n"
+  },
+  {
+    "input": "[sighs] All right.\n[Britney's recovery room]\n",
+    "output": "[enters with Stan and Kyle] Ms. Spears, these boys wanted to say something. [Britney gargles something. Only her lower jaw and the base of her skull remain of her head]\n"
+  },
+  {
+    "input": "[enters with Stan and Kyle] Ms. Spears, these boys wanted to say something. [Britney gargles something. Only her lower jaw and the base of her skull remain of her head]\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "Oh no!\n"
+  },
+  {
+    "input": "Oh no!\n",
+    "output": "[by Britney's side] The boys are just shocked at how good you look, Britney. [glares at Stan and Kyle] Right, boys?!\n"
+  },
+  {
+    "input": "[by Britney's side] The boys are just shocked at how good you look, Britney. [glares at Stan and Kyle] Right, boys?!\n",
+    "output": "Oh, yeah. Yeh-yeah. It's a-it's not even noticeable. [Britney gargles something back. The boys join the doctor at her side]\n"
+  },
+  {
+    "input": "Oh, yeah. Yeh-yeah. It's a-it's not even noticeable. [Britney gargles something back. The boys join the doctor at her side]\n",
+    "output": "Well, I'll let you boys have your say. [walks off. Britney gargles something]\n"
+  },
+  {
+    "input": "Well, I'll let you boys have your say. [walks off. Britney gargles something]\n",
+    "output": "[his voice shaking] Ms. Spears, uh... we're... really... sorry for making you want to kill yourself.\n"
+  },
+  {
+    "input": "[his voice shaking] Ms. Spears, uh... we're... really... sorry for making you want to kill yourself.\n",
+    "output": "Oh, God, what have we done?!\n[Britney Watch returns, complete with montage and music]\n"
+  },
+  {
+    "input": "Oh, God, what have we done?!\n[Britney Watch returns, complete with montage and music]\n",
+    "output": "It's Britney Watch! Keeping you up-to-date with all your Britney Spears news!\n"
+  },
+  {
+    "input": "It's Britney Watch! Keeping you up-to-date with all your Britney Spears news!\n",
+    "output": "[outside Denver Medical Center, with photographers swarming the area] You won't believe what Britney's done now. The troubled pop star has just been spotted with a crazy \"no top part of my head\" look. This video [shown as he speaks] was taken just hours ago as Britney was wheeled into the hospital for some reason. And if we zoom in on the footage, right, ri-right here [the camera zooms in on the left breast], you can also definitely see a boob job scar. No doubt now that she's had plastic surgery in the past.\n"
+  },
+  {
+    "input": "[outside Denver Medical Center, with photographers swarming the area] You won't believe what Britney's done now. The troubled pop star has just been spotted with a crazy \"no top part of my head\" look. This video [shown as he speaks] was taken just hours ago as Britney was wheeled into the hospital for some reason. And if we zoom in on the footage, right, ri-right here [the camera zooms in on the left breast], you can also definitely see a boob job scar. No doubt now that she's had plastic surgery in the past.\n",
+    "output": "O ho ho, oh houch, that's gotta be embarrassing. Chris, any word on why Ms. Spears went for this radical \"no top of the head\" look?\n"
+  },
+  {
+    "input": "O ho ho, oh houch, that's gotta be embarrassing. Chris, any word on why Ms. Spears went for this radical \"no top of the head\" look?\n",
+    "output": "No word yet, Tom, but it could be over the embarrassment of the boob job scar video we showed just, just now. Uh, even though the timing doesn't quite work out.\n[Denver Medical Center, Britney's recovery room. The window begins to crowd with photographers and flash bulbs begin to go off. Stan and Kyle look back at the window. The photographers begin to clamor for Britney's attention]\n"
+  },
+  {
+    "input": "No word yet, Tom, but it could be over the embarrassment of the boob job scar video we showed just, just now. Uh, even though the timing doesn't quite work out.\n[Denver Medical Center, Britney's recovery room. The window begins to crowd with photographers and flash bulbs begin to go off. Stan and Kyle look back at the window. The photographers begin to clamor for Britney's attention]\n",
+    "output": "[he and Stan are blinded by the flash] Dude! [the doctor reaches the curtains and closes them, but the flashes don't stop going off]\n"
+  },
+  {
+    "input": "[he and Stan are blinded by the flash] Dude! [the doctor reaches the curtains and closes them, but the flashes don't stop going off]\n",
+    "output": "Damn it, she can't handle any stress right now!\n"
+  },
+  {
+    "input": "Damn it, she can't handle any stress right now!\n",
+    "output": "Excuse me, I'm Britney Spears' manager. [sees her in bed] Oh, jeez, Britney! Britney, what were ya thinkin'? First you shave your head and now this.\n"
+  },
+  {
+    "input": "Excuse me, I'm Britney Spears' manager. [sees her in bed] Oh, jeez, Britney! Britney, what were ya thinkin'? First you shave your head and now this.\n",
+    "output": "Guglo.\n"
+  },
+  {
+    "input": "Guglo.\n",
+    "output": "Well, it's a ballsy new look, I'll give you that.\n"
+  },
+  {
+    "input": "Well, it's a ballsy new look, I'll give you that.\n",
+    "output": "Brit! Over here, Brit. One for Star Weekly. [Britney instinctively raises her left arm to shield her eyes from the camera, though she has no eyes now]\n"
+  },
+  {
+    "input": "Brit! Over here, Brit. One for Star Weekly. [Britney instinctively raises her left arm to shield her eyes from the camera, though she has no eyes now]\n",
+    "output": "Damn it you have to take her out of here; she can't be around all this right now.\n"
+  },
+  {
+    "input": "Damn it you have to take her out of here; she can't be around all this right now.\n",
+    "output": "Right. We need to take her home. Boys, can you give me a hand with her?\n"
+  },
+  {
+    "input": "Right. We need to take her home. Boys, can you give me a hand with her?\n",
+    "output": "Yeah, of course. [begins to help out]\n[A side entrance. The manager opens the door and looks around for any photographers]\n"
+  },
+  {
+    "input": "Yeah, of course. [begins to help out]\n[A side entrance. The manager opens the door and looks around for any photographers]\n",
+    "output": "[softly] Okay, come on! [leads the boys and Britney out] My car is right here. [opens the door and gets in. The photographers are within earshot...]\n"
+  },
+  {
+    "input": "[softly] Okay, come on! [leads the boys and Britney out] My car is right here. [opens the door and gets in. The photographers are within earshot...]\n",
+    "output": "Hey look!\n"
+  },
+  {
+    "input": "Hey look!\n",
+    "output": "There she is! [A photographer points and his face becomes distorted. The photographers rush the car before the manager can leave]\n"
+  },
+  {
+    "input": "There she is! [A photographer points and his face becomes distorted. The photographers rush the car before the manager can leave]\n",
+    "output": "Oh crap! [the photographers again clamor for Britney's attention, and one of them asks about her choice of shoes]\n"
+  },
+  {
+    "input": "Oh crap! [the photographers again clamor for Britney's attention, and one of them asks about her choice of shoes]\n",
+    "output": "Jesus Christ!\n"
+  },
+  {
+    "input": "Jesus Christ!\n",
+    "output": "Yeah yeah, it's like this all the time. [to the photographers] Thank you! Yes, thanks. [drives out of the crowd and peels away. The paparazzi look on and then pursue the car on foot]\n"
+  },
+  {
+    "input": "Yeah yeah, it's like this all the time. [to the photographers] Thank you! Yes, thanks. [drives out of the crowd and peels away. The paparazzi look on and then pursue the car on foot]\n",
+    "output": "Look, uh, we feel really bad, and, and we wanna help Britney however we can.\n"
+  },
+  {
+    "input": "Look, uh, we feel really bad, and, and we wanna help Britney however we can.\n",
+    "output": "That's great, boys. Britney seems to have really taken a liking to you. And don't worry: Britney is a queen at reinventing herself. We just need to get her into the recording studio right away.\n"
+  },
+  {
+    "input": "That's great, boys. Britney seems to have really taken a liking to you. And don't worry: Britney is a queen at reinventing herself. We just need to get her into the recording studio right away.\n",
+    "output": "What?!\n[Britney's recording studio. Stan and Kyle are there with the manager and the studio crew, and they're outraged at the way Britney is being treated.]\n"
+  },
+  {
+    "input": "What?!\n[Britney's recording studio. Stan and Kyle are there with the manager and the studio crew, and they're outraged at the way Britney is being treated.]\n",
+    "output": "All right, Britney, let's take it from the top. Remember to bring that sexiness to it.\n"
+  },
+  {
+    "input": "All right, Britney, let's take it from the top. Remember to bring that sexiness to it.\n",
+    "output": "Excuse me, is this really what you think she should be doing right now?\n"
+  },
+  {
+    "input": "Excuse me, is this really what you think she should be doing right now?\n",
+    "output": "All right, Brit, let's try it from the top. [a studio hand gives her some headphones to work with, and she holds them up against what would be her right ear. She gargles intermittently]\n"
+  },
+  {
+    "input": "All right, Brit, let's try it from the top. [a studio hand gives her some headphones to work with, and she holds them up against what would be her right ear. She gargles intermittently]\n",
+    "output": "God, what a train wreck.\n"
+  },
+  {
+    "input": "God, what a train wreck.\n",
+    "output": "She must be stoned again. [Britney continues to gargle more often and longer]\n"
+  },
+  {
+    "input": "She must be stoned again. [Britney continues to gargle more often and longer]\n",
+    "output": "Would you put a stop to this, please? This is only gonna make things worse.\n"
+  },
+  {
+    "input": "Would you put a stop to this, please? This is only gonna make things worse.\n",
+    "output": "Whattaya mean? She sounds great. [suddenly stops the music] Ah, Britney, that last lyric is supposed to be \"love elation\". Sounds more like you're saying \"love creation\".\n"
+  },
+  {
+    "input": "Whattaya mean? She sounds great. [suddenly stops the music] Ah, Britney, that last lyric is supposed to be \"love elation\". Sounds more like you're saying \"love creation\".\n",
+    "output": "Gogehah.\n"
+  },
+  {
+    "input": "Gogehah.\n",
+    "output": "E-la-tion. Really enunciate the L.\n"
+  },
+  {
+    "input": "E-la-tion. Really enunciate the L.\n",
+    "output": "Egeul-gageol\n"
+  },
+  {
+    "input": "Egeul-gageol\n",
+    "output": "Gah, she's so stupid.\n"
+  },
+  {
+    "input": "Gah, she's so stupid.\n",
+    "output": "What do you expect?! Look at her! She doesn't have most of her brain!\n"
+  },
+  {
+    "input": "What do you expect?! Look at her! She doesn't have most of her brain!\n",
+    "output": "I know. She's really dumb, huh? [smiles]\n"
+  },
+  {
+    "input": "I know. She's really dumb, huh? [smiles]\n",
+    "output": "No, I mean, she literally doesn't have most of her brain! Her head is gone!\n"
+  },
+  {
+    "input": "No, I mean, she literally doesn't have most of her brain! Her head is gone!\n",
+    "output": "[cups his hands like he's grabbing Britney] Yeah. And she's all fat, too.\n"
+  },
+  {
+    "input": "[cups his hands like he's grabbing Britney] Yeah. And she's all fat, too.\n",
+    "output": "Okel?\n[MTV Video Music Awards 2007]\n"
+  },
+  {
+    "input": "Okel?\n[MTV Video Music Awards 2007]\n",
+    "output": "Live, from Las Vegas, it's the MTV Video Music Awards\n"
+  },
+  {
+    "input": "Live, from Las Vegas, it's the MTV Video Music Awards\n",
+    "output": "What's up, y'all? It's the MTV Awards and we are kickin' it off right. Here to perform her new song is the one, and only, Britney Spears! [two stage hands walk Britney out on stage]\n"
+  },
+  {
+    "input": "What's up, y'all? It's the MTV Awards and we are kickin' it off right. Here to perform her new song is the one, and only, Britney Spears! [two stage hands walk Britney out on stage]\n",
+    "output": "Aw come on now, people! [the manager is pleased with the performance]\n"
+  },
+  {
+    "input": "Aw come on now, people! [the manager is pleased with the performance]\n",
+    "output": "Oh my God, she's really gotten chubby. [the song begins: \"It's Britney, bitch!\" Britney is waiting for her cue as dancers swirl around her. She begins to warble, and it echoes. She walks and immediately a dancer keeps her from falling.]\n"
+  },
+  {
+    "input": "Oh my God, she's really gotten chubby. [the song begins: \"It's Britney, bitch!\" Britney is waiting for her cue as dancers swirl around her. She begins to warble, and it echoes. She walks and immediately a dancer keeps her from falling.]\n",
+    "output": "The way she fee-els. [Britney leans over, and another dancer stands her up again. She warbles some more] Love inside.\n"
+  },
+  {
+    "input": "The way she fee-els. [Britney leans over, and another dancer stands her up again. She warbles some more] Love inside.\n",
+    "output": "Oh man, she's totally lip-syncing.\n"
+  },
+  {
+    "input": "Oh man, she's totally lip-syncing.\n",
+    "output": "[annoyed] She doesn't have any lips!\n"
+  },
+  {
+    "input": "[annoyed] She doesn't have any lips!\n",
+    "output": "Temporary. [Britney warbles some more. Two male dancers come by and turn her around so the camera can focus on her ass] So hot! [a few moments she gets a solo segment and four male dancers fawn over her]\n[Post-Awards report]\n"
+  },
+  {
+    "input": "Temporary. [Britney warbles some more. Two male dancers come by and turn her around so the camera can focus on her ass] So hot! [a few moments she gets a solo segment and four male dancers fawn over her]\n[Post-Awards report]\n",
+    "output": "Disaster at the MTV awards. People are ridiculing Britney Spears. Her performance was awful, Tom. She looked tired, she looked fat, she didn't have a head. It was just completely phoned in. No doubt, Tom, that girl has major issues.\n[A green room. Britney, her manager, and the boys are watching the news report]\n"
+  },
+  {
+    "input": "Disaster at the MTV awards. People are ridiculing Britney Spears. Her performance was awful, Tom. She looked tired, she looked fat, she didn't have a head. It was just completely phoned in. No doubt, Tom, that girl has major issues.\n[A green room. Britney, her manager, and the boys are watching the news report]\n",
+    "output": "Don't listen to 'em, Brit! They're all just jealous. And we can put you on SlimFast tomorrow. [walks over to the door and opens it. The paparazzi is there, piled on from floor to ceiling] Hang on, hang on, she'll be out in a minute. [leaves, closing the door. No paparazzi get in. Once the place is silent, she sits back on her armchair and relaxes with a sigh. Stan and Kyle can only look on]\n"
+  },
+  {
+    "input": "Don't listen to 'em, Brit! They're all just jealous. And we can put you on SlimFast tomorrow. [walks over to the door and opens it. The paparazzi is there, piled on from floor to ceiling] Hang on, hang on, she'll be out in a minute. [leaves, closing the door. No paparazzi get in. Once the place is silent, she sits back on her armchair and relaxes with a sigh. Stan and Kyle can only look on]\n",
+    "output": "We have to get her away from all this, dude. People just aren't gonna let up. We have to take her somewhere to just be at peace.\n"
+  },
+  {
+    "input": "We have to get her away from all this, dude. People just aren't gonna let up. We have to take her somewhere to just be at peace.\n",
+    "output": "Dude, where in the world can Britney Spears go where nobody will bother her?\n"
+  },
+  {
+    "input": "Dude, where in the world can Britney Spears go where nobody will bother her?\n",
+    "output": "[strokes his chin and takes a few steps forward] I know where.\n[TransTrak station: \"Travel by Train.\" It's 2:24 in the afternoon when Stan pops up at the window]\n"
+  },
+  {
+    "input": "[strokes his chin and takes a few steps forward] I know where.\n[TransTrak station: \"Travel by Train.\" It's 2:24 in the afternoon when Stan pops up at the window]\n",
+    "output": "We want three tickets to the North Pole. [the clerk stops what he's doing and looks around]\n"
+  },
+  {
+    "input": "We want three tickets to the North Pole. [the clerk stops what he's doing and looks around]\n",
+    "output": "The North Pole? [leaves his chair and walks to the window] Who the hell goes to the North Pole?\n"
+  },
+  {
+    "input": "The North Pole? [leaves his chair and walks to the window] Who the hell goes to the North Pole?\n",
+    "output": "We do. Me, my friend, and his aunt. [Kyle and Britney stand behind him. Britney is wearing a wig, sunglasses, and hat as a disguise]\n[Britney Watch returns...]\n"
+  },
+  {
+    "input": "We do. Me, my friend, and his aunt. [Kyle and Britney stand behind him. Britney is wearing a wig, sunglasses, and hat as a disguise]\n[Britney Watch returns...]\n",
+    "output": "[breathless] It's Britney Wowtch!\n"
+  },
+  {
+    "input": "[breathless] It's Britney Wowtch!\n",
+    "output": "A distraught Britney Spears has apparently disappeared and abandoned all those close to her. A local housewife caught a photo of Britney running away in this disguise! [a shot of Stan and Kyle leading Britney down the street]\n"
+  },
+  {
+    "input": "A distraught Britney Spears has apparently disappeared and abandoned all those close to her. A local housewife caught a photo of Britney running away in this disguise! [a shot of Stan and Kyle leading Britney down the street]\n",
+    "output": "Britney is obviously very upset about her MTV performance, Ron, and so she's become desperate. Most troubling for her is the fact that her disguise has total camel toe. [the camera zooms in on her crotch to show what looks like a camel's toe under her shorts]\n"
+  },
+  {
+    "input": "Britney is obviously very upset about her MTV performance, Ron, and so she's become desperate. Most troubling for her is the fact that her disguise has total camel toe. [the camera zooms in on her crotch to show what looks like a camel's toe under her shorts]\n",
+    "output": "Oooooh, ouch!\n"
+  },
+  {
+    "input": "Oooooh, ouch!\n",
+    "output": "Oh boy, now, Leslie, this seems like a really bad camel toe offense.\n"
+  },
+  {
+    "input": "Oh boy, now, Leslie, this seems like a really bad camel toe offense.\n",
+    "output": "Absolutely major camel toe, Tracy. Britney just seems oblivious. She was bound to get noticed: you walk around with that kind of cam toe and you're gonna turn heads.\n"
+  },
+  {
+    "input": "Absolutely major camel toe, Tracy. Britney just seems oblivious. She was bound to get noticed: you walk around with that kind of cam toe and you're gonna turn heads.\n",
+    "output": "[grunts a little] Eh, David, any idea as to how big the camel toe actually was? [a shot of Britney and a camel toe together]\n"
+  },
+  {
+    "input": "[grunts a little] Eh, David, any idea as to how big the camel toe actually was? [a shot of Britney and a camel toe together]\n",
+    "output": "She was sportin' toe like never before, Brian. I, I don't know what's wrong with that girl, but, it's a slap in the face to camels all over the planet.\n"
+  },
+  {
+    "input": "She was sportin' toe like never before, Brian. I, I don't know what's wrong with that girl, but, it's a slap in the face to camels all over the planet.\n",
+    "output": "Those close to Britney say they are very worried and want to bring her home safe. And now back to the local news.\n"
+  },
+  {
+    "input": "Those close to Britney say they are very worried and want to bring her home safe. And now back to the local news.\n",
+    "output": "[a picture of Butters being dragged towards an animal control truck] The giant squirrel which was picked up last week by animal control apparently now thinks it's a person. Colorado officials have taken the squirrel to Johns-Hopkins for psychiatric evaluation.\n"
+  },
+  {
+    "input": "[a picture of Butters being dragged towards an animal control truck] The giant squirrel which was picked up last week by animal control apparently now thinks it's a person. Colorado officials have taken the squirrel to Johns-Hopkins for psychiatric evaluation.\n",
+    "output": "Hm, that squirrel is obviously nuts.\n[The platform at TransTrak.]\n"
+  },
+  {
+    "input": "Hm, that squirrel is obviously nuts.\n[The platform at TransTrak.]\n",
+    "output": "Platform 4F. Uhhh, it must be on the other side of the station.\n"
+  },
+  {
+    "input": "Platform 4F. Uhhh, it must be on the other side of the station.\n",
+    "output": "[behind the boys] There she is! It's Britney! [more photographers show up and begin to take pictures]\n"
+  },
+  {
+    "input": "[behind the boys] There she is! It's Britney! [more photographers show up and begin to take pictures]\n",
+    "output": "Oh no. [he and Kyle quickly whisk Britney away, the photographers hot on their tails. They pass a room whose door is slightly open. Seconds later they return to it, go in, and shut the door]\n"
+  },
+  {
+    "input": "Oh no. [he and Kyle quickly whisk Britney away, the photographers hot on their tails. They pass a room whose door is slightly open. Seconds later they return to it, go in, and shut the door]\n",
+    "output": "Dude, they're never gonna let us through.\n"
+  },
+  {
+    "input": "Dude, they're never gonna let us through.\n",
+    "output": "Yes they are! I have an idea.\n"
+  },
+  {
+    "input": "Yes they are! I have an idea.\n",
+    "output": "Britney? Where'd she go?\n"
+  },
+  {
+    "input": "Britney? Where'd she go?\n",
+    "output": "There she is! [Kyle appears wearing Britney's disguise. He turns to look at the paparazzi, then runs away. The paparazzi start taking pictures and following him. He runs down the street, the paparazzi pursue him]\n[Inside the train. Stan leads Britney to a couple of seats by a window. Britney is wearing Kyle's hat]\n"
+  },
+  {
+    "input": "There she is! [Kyle appears wearing Britney's disguise. He turns to look at the paparazzi, then runs away. The paparazzi start taking pictures and following him. He runs down the street, the paparazzi pursue him]\n[Inside the train. Stan leads Britney to a couple of seats by a window. Britney is wearing Kyle's hat]\n",
+    "output": "It's okay, you'll be in the North Pole soon. [Britney gargles something]\n[The streets. Kyle continues to lead the paparazzi away from Britney and tries to lose them at the same time]\n"
+  },
+  {
+    "input": "It's okay, you'll be in the North Pole soon. [Britney gargles something]\n[The streets. Kyle continues to lead the paparazzi away from Britney and tries to lose them at the same time]\n",
+    "output": "There she is. Hey Britney, it's me. [Kyle ignores him and keeps running. He joins the paparazzi in chasing \"Britney\" down. Kyle runs through a park; they're right behnd him. Kyle runs into a garden full of statues, stops, and turns around] Britney. It's over. What were you runnin' for anyway?\n"
+  },
+  {
+    "input": "There she is. Hey Britney, it's me. [Kyle ignores him and keeps running. He joins the paparazzi in chasing \"Britney\" down. Kyle runs through a park; they're right behnd him. Kyle runs into a garden full of statues, stops, and turns around] Britney. It's over. What were you runnin' for anyway?\n",
+    "output": "Hey, wait a minute. Where's her camel toe?!\n"
+  },
+  {
+    "input": "Hey, wait a minute. Where's her camel toe?!\n",
+    "output": "[takes off the sunglasses] I'm not Britney Spears, all right?!\n"
+  },
+  {
+    "input": "[takes off the sunglasses] I'm not Britney Spears, all right?!\n",
+    "output": "Ooo, psych!\n"
+  },
+  {
+    "input": "Ooo, psych!\n",
+    "output": "She must be back at the train station; come on! [they turn around and go back]\n"
+  },
+  {
+    "input": "She must be back at the train station; come on! [they turn around and go back]\n",
+    "output": "Now, wait a minute! Everyone just stop for one minute! [the group turns around. Kyle drops the sunglasses] Look, you guys are gonna end up killing her. Can't you see that Britney isn't in any condition to handle this crap anymore? I know watching celebrities go down can be fun. Me and my friends are just as guilty as all of you, but maybe, we'll just, maybe, ...it's time to let this one go. Just this one time, let's, let's all stop before it's too late, huh?\n"
+  },
+  {
+    "input": "Now, wait a minute! Everyone just stop for one minute! [the group turns around. Kyle drops the sunglasses] Look, you guys are gonna end up killing her. Can't you see that Britney isn't in any condition to handle this crap anymore? I know watching celebrities go down can be fun. Me and my friends are just as guilty as all of you, but maybe, we'll just, maybe, ...it's time to let this one go. Just this one time, let's, let's all stop before it's too late, huh?\n",
+    "output": "[steps forward] Son, you don't seem to understand. Britney Spears... has to die.\n"
+  },
+  {
+    "input": "[steps forward] Son, you don't seem to understand. Britney Spears... has to die.\n",
+    "output": "[quizzically] Huh? [thunder starts rolling in the distance]\n"
+  },
+  {
+    "input": "[quizzically] Huh? [thunder starts rolling in the distance]\n",
+    "output": "What do you think all this effort has been for?\n"
+  },
+  {
+    "input": "What do you think all this effort has been for?\n",
+    "output": "[a sinister smile crosses his face] It cannot be stopped. The purpose is too great.\n"
+  },
+  {
+    "input": "[a sinister smile crosses his face] It cannot be stopped. The purpose is too great.\n",
+    "output": "It's not just the press. Everyone agrees. She must... die.\n"
+  },
+  {
+    "input": "It's not just the press. Everyone agrees. She must... die.\n",
+    "output": "Hetus. Alte omnebus. [the photographers begins to join in] Virtu e poquebus. [other adults join in this nonsensical Latin chant]\n[The TransTrak train heads north through the Rockies]\n"
+  },
+  {
+    "input": "Hetus. Alte omnebus. [the photographers begins to join in] Virtu e poquebus. [other adults join in this nonsensical Latin chant]\n[The TransTrak train heads north through the Rockies]\n",
+    "output": "Little Stanley was tired and hungry. But he knew that for Britney Spears to be safe, he had to get her to the North Pole.\n"
+  },
+  {
+    "input": "Little Stanley was tired and hungry. But he knew that for Britney Spears to be safe, he had to get her to the North Pole.\n",
+    "output": "You doing okay, Ms. Spears? [she gargles. From the train's cab, the conductor looks back at Britney and Stan through the cab door's window]\n"
+  },
+  {
+    "input": "You doing okay, Ms. Spears? [she gargles. From the train's cab, the conductor looks back at Britney and Stan through the cab door's window]\n",
+    "output": "[on the phone] It's her. Um no, I'm sure it's Britney Spears; [looks at a photo] it looks just like the picture. [the photo he holds is that of a camel's toe, not of Britney] You want me to, to what? Yes, I understand. [begins chanting] Rectus. Hoc honebus\n[A small town. A car stops and its passengers empty out: Britney's manager, two cameramen, and Kyle. The manager walks up to an elderly man and shakes hands with him]\n"
+  },
+  {
+    "input": "[on the phone] It's her. Um no, I'm sure it's Britney Spears; [looks at a photo] it looks just like the picture. [the photo he holds is that of a camel's toe, not of Britney] You want me to, to what? Yes, I understand. [begins chanting] Rectus. Hoc honebus\n[A small town. A car stops and its passengers empty out: Britney's manager, two cameramen, and Kyle. The manager walks up to an elderly man and shakes hands with him]\n",
+    "output": "Hello, I'm Bob Summers, so happy you picked our little town.\n"
+  },
+  {
+    "input": "Hello, I'm Bob Summers, so happy you picked our little town.\n",
+    "output": "What is going on?! Why do you want Britney Spears to die?!\n"
+  },
+  {
+    "input": "What is going on?! Why do you want Britney Spears to die?!\n",
+    "output": "Well nobody wants her to die, little boy. We all simply... need her to. Do you understand?\n"
+  },
+  {
+    "input": "Well nobody wants her to die, little boy. We all simply... need her to. Do you understand?\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Look, kid, throughout history people have found it necessary to engage in... human sacrifice.\n"
+  },
+  {
+    "input": "Look, kid, throughout history people have found it necessary to engage in... human sacrifice.\n",
+    "output": "In ancient times, humans would commonly pick one lovely girl, adorn her with jewels, treat her like a goddess, and then... watch her die.\n"
+  },
+  {
+    "input": "In ancient times, humans would commonly pick one lovely girl, adorn her with jewels, treat her like a goddess, and then... watch her die.\n",
+    "output": "We like to think we're more civilized now, but the truth is our lust for torture and death is no different than it was in gladiator times.\n"
+  },
+  {
+    "input": "We like to think we're more civilized now, but the truth is our lust for torture and death is no different than it was in gladiator times.\n",
+    "output": "Only difference is that now we like to watch people put to death through magazines and photographs.\n"
+  },
+  {
+    "input": "Only difference is that now we like to watch people put to death through magazines and photographs.\n",
+    "output": "It's a damn shame too. Old ways were bettah. Used to be we just picked someone by lottery an' then stoned them to death.\n"
+  },
+  {
+    "input": "It's a damn shame too. Old ways were bettah. Used to be we just picked someone by lottery an' then stoned them to death.\n",
+    "output": "Stonin' to death was too violent. Rather have the sacrifice kill itself.\n"
+  },
+  {
+    "input": "Stonin' to death was too violent. Rather have the sacrifice kill itself.\n",
+    "output": "You mean everyone has been wanting Britney Spears to kill herself?\n"
+  },
+  {
+    "input": "You mean everyone has been wanting Britney Spears to kill herself?\n",
+    "output": "Britney was chosen a long time ago, to be built up and adored, and then sacrificed. For harvest.\n"
+  },
+  {
+    "input": "Britney was chosen a long time ago, to be built up and adored, and then sacrificed. For harvest.\n",
+    "output": "All right, everyone's about here.\n"
+  },
+  {
+    "input": "All right, everyone's about here.\n",
+    "output": "[bewildered] Who's everyone?! Who all is in on this?!\n[The TransTrak train. Everyone is sleeping when the train comes to a sudden stop and the whistle blows. They wake up.]\n"
+  },
+  {
+    "input": "[bewildered] Who's everyone?! Who all is in on this?!\n[The TransTrak train. Everyone is sleeping when the train comes to a sudden stop and the whistle blows. They wake up.]\n",
+    "output": "Hey, where are we? This isn't right. [Stan looks out the window quickly. Outside is an empty field, but a horde of photographers race through it and reach the train, clamoring for her attention and ready to take pictures]\n"
+  },
+  {
+    "input": "Hey, where are we? This isn't right. [Stan looks out the window quickly. Outside is an empty field, but a horde of photographers race through it and reach the train, clamoring for her attention and ready to take pictures]\n",
+    "output": "Oh no!\n"
+  },
+  {
+    "input": "Oh no!\n",
+    "output": "Ohhh thoooo!\n"
+  },
+  {
+    "input": "Ohhh thoooo!\n",
+    "output": "[hops down and grabs Britney's hand] Come on, Britney! [pulls her out the opposite side and into the field] Come on, come on! [as they run, Kyle's hat falls away. They reach the end of the field and enter a clearing. They look around and find themselves surrounded. All sorts of people are there, not just paparazzi. The escape route they just used is closed off by more spectators. Stan looks around and some faces are recognizable, like Irene. Sheila and Gerald show up]\n"
+  },
+  {
+    "input": "[hops down and grabs Britney's hand] Come on, Britney! [pulls her out the opposite side and into the field] Come on, come on! [as they run, Kyle's hat falls away. They reach the end of the field and enter a clearing. They look around and find themselves surrounded. All sorts of people are there, not just paparazzi. The escape route they just used is closed off by more spectators. Stan looks around and some faces are recognizable, like Irene. Sheila and Gerald show up]\n",
+    "output": "Mom, Dad! [runs up to them] They're gonna kill her! They're going to in-. Wait, what are you doing here?\n"
+  },
+  {
+    "input": "Mom, Dad! [runs up to them] They're gonna kill her! They're going to in-. Wait, what are you doing here?\n",
+    "output": "It's okay, Kyle. Just... be a good boy.\n"
+  },
+  {
+    "input": "It's okay, Kyle. Just... be a good boy.\n",
+    "output": "Be a good boy? You know all about this?\n"
+  },
+  {
+    "input": "Be a good boy? You know all about this?\n",
+    "output": "Kyle, what the fuck is going on now?\n"
+  },
+  {
+    "input": "Kyle, what the fuck is going on now?\n",
+    "output": "She's been built up to be sacrificed, Stan!\n"
+  },
+  {
+    "input": "She's been built up to be sacrificed, Stan!\n",
+    "output": "Sacrificed? For what?\n"
+  },
+  {
+    "input": "Sacrificed? For what?\n",
+    "output": "For harvest, Stanley. Same reason we've always done it.\n"
+  },
+  {
+    "input": "For harvest, Stanley. Same reason we've always done it.\n",
+    "output": "Sacrifice in March, corn have plenty starch.\n"
+  },
+  {
+    "input": "Sacrifice in March, corn have plenty starch.\n",
+    "output": "Corn harvest!\n"
+  },
+  {
+    "input": "Corn harvest!\n",
+    "output": "We haven't told you about it, Stanley, because we, we like to wait until kids are a little older to talk to them about things like condoms and ritualistic human sacrifice for harvest.\n"
+  },
+  {
+    "input": "We haven't told you about it, Stanley, because we, we like to wait until kids are a little older to talk to them about things like condoms and ritualistic human sacrifice for harvest.\n",
+    "output": "All right, enough already! This has all gone on long enough!\n"
+  },
+  {
+    "input": "All right, enough already! This has all gone on long enough!\n",
+    "output": "The kid is right. This has gone on too long.\n"
+  },
+  {
+    "input": "The kid is right. This has gone on too long.\n",
+    "output": "Yeah. She was supposed to have killed herself a long time ago.\n"
+  },
+  {
+    "input": "Yeah. She was supposed to have killed herself a long time ago.\n",
+    "output": "And harvest is coming soon.\n"
+  },
+  {
+    "input": "And harvest is coming soon.\n",
+    "output": "All right, folks, let's finish this quickly. [everyone whips out a camera and starts taking pictures, closing in on Britney all the while]\n"
+  },
+  {
+    "input": "All right, folks, let's finish this quickly. [everyone whips out a camera and starts taking pictures, closing in on Britney all the while]\n",
+    "output": "No wait. [Britney groans. People get close, take pictures, then make way for more people]\n"
+  },
+  {
+    "input": "No wait. [Britney groans. People get close, take pictures, then make way for more people]\n",
+    "output": "Come on, hurry up.\n"
+  },
+  {
+    "input": "Come on, hurry up.\n",
+    "output": "[obese] I can't run. You go ahead, I'll catch up with ya. [the barrage of picture-taking continues. The McCormicks come up to take pictures. Britney drops to the ground, sort of pleading to be left alone]\n"
+  },
+  {
+    "input": "[obese] I can't run. You go ahead, I'll catch up with ya. [the barrage of picture-taking continues. The McCormicks come up to take pictures. Britney drops to the ground, sort of pleading to be left alone]\n",
+    "output": "Here Davey. [hands a camera to her son. The barrage continues, with Randy, Liane, other familiar faces... Britney wilts under the lights and finally lies down completely]\n"
+  },
+  {
+    "input": "Here Davey. [hands a camera to her son. The barrage continues, with Randy, Liane, other familiar faces... Britney wilts under the lights and finally lies down completely]\n",
+    "output": "[throws out his arms] Hold on. [a doctor walks up and checks for vital signs]\n"
+  },
+  {
+    "input": "[throws out his arms] Hold on. [a doctor walks up and checks for vital signs]\n",
+    "output": "She's dead.\n"
+  },
+  {
+    "input": "She's dead.\n",
+    "output": "Well, I think it's time for us to leave the poor girl alone. [everyone turns and goes off in different directions under a windy and thunderous sky. Stan is left alone staring at Britney's corpse. Kyle is a little further away, but he too looks at the corpse]\n[Harvest time, dawn. The corn fields are shown, their stalks tall and full of corn. Three men are harvesting corn by hand nearby, and a motorized harvester takes care of corn in the distance]\n[The town, late morning. A farmer's market is up. Two men are shown close-up in a booth stocked with yellow and white corn]\n"
+  },
+  {
+    "input": "Well, I think it's time for us to leave the poor girl alone. [everyone turns and goes off in different directions under a windy and thunderous sky. Stan is left alone staring at Britney's corpse. Kyle is a little further away, but he too looks at the corpse]\n[Harvest time, dawn. The corn fields are shown, their stalks tall and full of corn. Three men are harvesting corn by hand nearby, and a motorized harvester takes care of corn in the distance]\n[The town, late morning. A farmer's market is up. Two men are shown close-up in a booth stocked with yellow and white corn]\n",
+    "output": "Mornin' Bill.\n"
+  },
+  {
+    "input": "Mornin' Bill.\n",
+    "output": "Mornin' Gil.\n"
+  },
+  {
+    "input": "Mornin' Gil.\n",
+    "output": "[inspecting some yellow corn] Nice-lookin' corn.\n[South Park Market, day. Randy and Sharon check out the corn. Sheila passes.]\n"
+  },
+  {
+    "input": "[inspecting some yellow corn] Nice-lookin' corn.\n[South Park Market, day. Randy and Sharon check out the corn. Sheila passes.]\n",
+    "output": "Hey Sharon, Randy, great harvest, huh? [begins to check out the corn as well. Sharon puts some corn into her shopping cart]\n"
+  },
+  {
+    "input": "Hey Sharon, Randy, great harvest, huh? [begins to check out the corn as well. Sharon puts some corn into her shopping cart]\n",
+    "output": "An incredible harvest. Some of the best corn I've seen in years.\n"
+  },
+  {
+    "input": "An incredible harvest. Some of the best corn I've seen in years.\n",
+    "output": "[on TV screens throughout the store] She's the daughter of a country singer, and the young girl has really taken the country by storm. Hannah Montana's Miley Cyrus, though only fifteen years old, is already on her way to being a major superstar.\n"
+  },
+  {
+    "input": "[on TV screens throughout the store] She's the daughter of a country singer, and the young girl has really taken the country by storm. Hannah Montana's Miley Cyrus, though only fifteen years old, is already on her way to being a major superstar.\n",
+    "output": "[near the beginning of the report] Hey, check it out! [the report ends and ominous music begins]\n"
+  }
+]

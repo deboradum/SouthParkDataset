@@ -1,0 +1,1006 @@
+[
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "\n[Kyle's house, day. Kyle runs home excitedly with something in his hand. He opens the front door and goes in. Gerald spots him]\n"
+  },
+  {
+    "input": "\n[Kyle's house, day. Kyle runs home excitedly with something in his hand. He opens the front door and goes in. Gerald spots him]\n",
+    "output": "There you are, Kyle. I was gonna see if you and your brother wanted to go down to the bowling alley.\n"
+  },
+  {
+    "input": "There you are, Kyle. I was gonna see if you and your brother wanted to go down to the bowling alley.\n",
+    "output": "Nono Dad, please. I just got Call Of Duty: Advanced Warfare. Me and Ike are going to play it together.\n"
+  },
+  {
+    "input": "Nono Dad, please. I just got Call Of Duty: Advanced Warfare. Me and Ike are going to play it together.\n",
+    "output": "It's your day off. You boys really wanna spend it inside in front of the TV?\n"
+  },
+  {
+    "input": "It's your day off. You boys really wanna spend it inside in front of the TV?\n",
+    "output": "Please Dad, I've been looking forward to this all week. Aaand it's me and Ike's bonding time. Really. This is good for our relationship.\n"
+  },
+  {
+    "input": "Please Dad, I've been looking forward to this all week. Aaand it's me and Ike's bonding time. Really. This is good for our relationship.\n",
+    "output": "All right. [Kyle smiles, Gerald heads back to the kitchen] I swear I'll never understand you kids these days.\n"
+  },
+  {
+    "input": "All right. [Kyle smiles, Gerald heads back to the kitchen] I swear I'll never understand you kids these days.\n",
+    "output": "Yes! [runs upstairs smiling.]\n[Ike's room. Ike is at his computer eating Cheetos. Kyle knocks, then goes into the room]\n"
+  },
+  {
+    "input": "Yes! [runs upstairs smiling.]\n[Ike's room. Ike is at his computer eating Cheetos. Kyle knocks, then goes into the room]\n",
+    "output": "Heeey Ike! Look what I got. [Ike looks over his shoulder] The new Call Of Duty! Do you wanna go downstairs and play?\n"
+  },
+  {
+    "input": "Heeey Ike! Look what I got. [Ike looks over his shoulder] The new Call Of Duty! Do you wanna go downstairs and play?\n",
+    "output": "[on the monitor] Aww, look at all the bright colors.\n"
+  },
+  {
+    "input": "[on the monitor] Aww, look at all the bright colors.\n",
+    "output": "...Meh. [goes back to watching the monitor and eating his Cheetos]\n"
+  },
+  {
+    "input": "...Meh. [goes back to watching the monitor and eating his Cheetos]\n",
+    "output": "Meh? Ike, we have a whole day to play XBox! Mom and Dad are leaving!\n"
+  },
+  {
+    "input": "Meh? Ike, we have a whole day to play XBox! Mom and Dad are leaving!\n",
+    "output": "Maybe later, 'kay?\n"
+  },
+  {
+    "input": "Maybe later, 'kay?\n",
+    "output": "[walks up to Ike] Well what are you watching?\n"
+  },
+  {
+    "input": "[walks up to Ike] Well what are you watching?\n",
+    "output": "How's it goin' bros? My name's PewDiePie. I'm playing Call Of Duty: Advanced Warfare. Here we go. [breaks through a door and is met with gunfire] Agh! People are shooting at me, bros!\n"
+  },
+  {
+    "input": "How's it goin' bros? My name's PewDiePie. I'm playing Call Of Duty: Advanced Warfare. Here we go. [breaks through a door and is met with gunfire] Agh! People are shooting at me, bros!\n",
+    "output": "You're watching someone play Call Of Duty and talk about it?\n"
+  },
+  {
+    "input": "You're watching someone play Call Of Duty and talk about it?\n",
+    "output": "[claps] PewDiePie!\n"
+  },
+  {
+    "input": "[claps] PewDiePie!\n",
+    "output": "There's lots of bullet! And I've gotta run! RUN FOR THE BUNKER! RUUUUN!\n"
+  },
+  {
+    "input": "There's lots of bullet! And I've gotta run! RUN FOR THE BUNKER! RUUUUN!\n",
+    "output": "Ike, we could go play the game downstairs. Isn't that better than watching some guy on YouTube playing it?\n"
+  },
+  {
+    "input": "Ike, we could go play the game downstairs. Isn't that better than watching some guy on YouTube playing it?\n",
+    "output": "Alright, I hope that's enough.\n"
+  },
+  {
+    "input": "Alright, I hope that's enough.\n",
+    "output": "Meh.\n"
+  },
+  {
+    "input": "Meh.\n",
+    "output": "Uh, like I said, um... Look at this. Look at this. Ooohhh, gigrrig! [fires away at will]\n[South Park Elementary Cafeteria, lunchtime]\n"
+  },
+  {
+    "input": "Uh, like I said, um... Look at this. Look at this. Ooohhh, gigrrig! [fires away at will]\n[South Park Elementary Cafeteria, lunchtime]\n",
+    "output": "Dude, I'm telling you. It's crazy. All my little brother wants to do is sit on YouTube watching this PewDiePie play video games. I swear, I don't understand kids these days.\n"
+  },
+  {
+    "input": "Dude, I'm telling you. It's crazy. All my little brother wants to do is sit on YouTube watching this PewDiePie play video games. I swear, I don't understand kids these days.\n",
+    "output": "What's a PewDiePie do?\n"
+  },
+  {
+    "input": "What's a PewDiePie do?\n",
+    "output": "Google him. He's this guy from Sweden who has over 30 million YouTube subscribers. We didn't even know, but he's a bigger celebrity to kids than anyone. It just seems so lame.\n"
+  },
+  {
+    "input": "Google him. He's this guy from Sweden who has over 30 million YouTube subscribers. We didn't even know, but he's a bigger celebrity to kids than anyone. It just seems so lame.\n",
+    "output": "He plays video games and makes millions of dollars, and it's lame how?\n"
+  },
+  {
+    "input": "He plays video games and makes millions of dollars, and it's lame how?\n",
+    "output": "Because- because that's not even entertainment! I mean, it's just, just, rehashing shit, isn't it?? It's like everything these kids are into these days, you know, it's just... rehashed shit!\n[Commercial for an upcoming concert]\n"
+  },
+  {
+    "input": "Because- because that's not even entertainment! I mean, it's just, just, rehashing shit, isn't it?? It's like everything these kids are into these days, you know, it's just... rehashed shit!\n[Commercial for an upcoming concert]\n",
+    "output": "This Saturday, at the Pepsi Center, it's Women of Rock! Miley Cyrus, Iggy Azalea, Nicki Minaj, and Lorde! [Randy] All on one stage, on one night! With a special appearance by Michael Jackson's Hologram!\n"
+  },
+  {
+    "input": "This Saturday, at the Pepsi Center, it's Women of Rock! Miley Cyrus, Iggy Azalea, Nicki Minaj, and Lorde! [Randy] All on one stage, on one night! With a special appearance by Michael Jackson's Hologram!\n",
+    "output": "Hee hee!\n"
+  },
+  {
+    "input": "Hee hee!\n",
+    "output": "Ticket proceeds help fight the gluten crisis in West Africa! It's a night of pure, pure estrogen! Tickets on sale now! [TeleChargeIt and TicketMastering info go up]\n[Randy's garage, night. Randy runs inside to call someone in private]\n"
+  },
+  {
+    "input": "Ticket proceeds help fight the gluten crisis in West Africa! It's a night of pure, pure estrogen! Tickets on sale now! [TeleChargeIt and TicketMastering info go up]\n[Randy's garage, night. Randy runs inside to call someone in private]\n",
+    "output": "Yeah, it's me. I told you I can't play the concert!\n"
+  },
+  {
+    "input": "Yeah, it's me. I told you I can't play the concert!\n",
+    "output": "Come on, this is a great lineup.\n"
+  },
+  {
+    "input": "Come on, this is a great lineup.\n",
+    "output": "Look, I do a lot of post-production enhancements to make my music sound the way it does, okay? I feel like if I play live I'm... really gonna disappoint people. I'm sorry, but the answer is no.\n"
+  },
+  {
+    "input": "Look, I do a lot of post-production enhancements to make my music sound the way it does, okay? I feel like if I play live I'm... really gonna disappoint people. I'm sorry, but the answer is no.\n",
+    "output": "I don't think you're really in a position to turn down this kind of gig.\n"
+  },
+  {
+    "input": "I don't think you're really in a position to turn down this kind of gig.\n",
+    "output": "What is that supposed to mean?\n"
+  },
+  {
+    "input": "What is that supposed to mean?\n",
+    "output": "I understand your son gave all your savings to Canada.\n"
+  },
+  {
+    "input": "I understand your son gave all your savings to Canada.\n",
+    "output": "Yes, Freemium gaming.\n"
+  },
+  {
+    "input": "Yes, Freemium gaming.\n",
+    "output": "I'm sorry. Freemium gaming destroys lives. I lost my father to Candy Crush. [Randy sighs] You need this, Lorde. And the girls out there need you. You've got till tomorrow to think it over. [hangs up. Randy ends the call]\n"
+  },
+  {
+    "input": "I'm sorry. Freemium gaming destroys lives. I lost my father to Candy Crush. [Randy sighs] You need this, Lorde. And the girls out there need you. You've got till tomorrow to think it over. [hangs up. Randy ends the call]\n",
+    "output": "I love Candy Crush.\n[The bus stop, day. The boys are there waiting for the bus]\n"
+  },
+  {
+    "input": "I love Candy Crush.\n[The bus stop, day. The boys are there waiting for the bus]\n",
+    "output": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n"
+  },
+  {
+    "input": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n",
+    "output": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n"
+  },
+  {
+    "input": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n",
+    "output": "I know! But that doesn't matter any more! These kids don't wanna play the game, they just wanna watch people on YouTube play it. And you know why? Commentary.\n"
+  },
+  {
+    "input": "I know! But that doesn't matter any more! These kids don't wanna play the game, they just wanna watch people on YouTube play it. And you know why? Commentary.\n",
+    "output": "(Commentary?)\n"
+  },
+  {
+    "input": "(Commentary?)\n",
+    "output": "Yeah. You used to sit in the living room with family and friends to hear their commentary on things. Now you can get it with a little guy in a window on the screen. Someone who just comments on stuff. I mean, really? Who would even WANT to do that?! [Cartman eyes his phone with Stan and Kenny look at Kyle]\n[Cartman's room, later. He's set up a YouTube channel and is now broadcasting on it]\n"
+  },
+  {
+    "input": "Yeah. You used to sit in the living room with family and friends to hear their commentary on things. Now you can get it with a little guy in a window on the screen. Someone who just comments on stuff. I mean, really? Who would even WANT to do that?! [Cartman eyes his phone with Stan and Kenny look at Kyle]\n[Cartman's room, later. He's set up a YouTube channel and is now broadcasting on it]\n",
+    "output": "Hey bros, what's going on? This is CartmaaanBrah! Be sure to subscribe to my channel if you haven't already, 'cause subscribing makes you feel good! Uhh, so today I'm gonna comment on Call Of Duty. More specifically, I'm going to comment on my friends commenting on Call Of Duty, so let's start. [a recording of the earlier conversation plays]\n"
+  },
+  {
+    "input": "Hey bros, what's going on? This is CartmaaanBrah! Be sure to subscribe to my channel if you haven't already, 'cause subscribing makes you feel good! Uhh, so today I'm gonna comment on Call Of Duty. More specifically, I'm going to comment on my friends commenting on Call Of Duty, so let's start. [a recording of the earlier conversation plays]\n",
+    "output": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n"
+  },
+  {
+    "input": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n",
+    "output": "That's Kyle the Jew again, talking about Call Of Duty to Stan.\n"
+  },
+  {
+    "input": "That's Kyle the Jew again, talking about Call Of Duty to Stan.\n",
+    "output": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n"
+  },
+  {
+    "input": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n",
+    "output": "[reaches for some chips and eat them, chuckles, then] Stan is such a douchebag. He just agrees with Kyle no matter what.\n"
+  },
+  {
+    "input": "[reaches for some chips and eat them, chuckles, then] Stan is such a douchebag. He just agrees with Kyle no matter what.\n",
+    "output": "I know! But that doesn't matter any more! These kids don't wanna play the game, they just wanna watch people on YouTube play it.\n"
+  },
+  {
+    "input": "I know! But that doesn't matter any more! These kids don't wanna play the game, they just wanna watch people on YouTube play it.\n",
+    "output": "(Commentary?)\n"
+  },
+  {
+    "input": "(Commentary?)\n",
+    "output": "There's Kenny commenting on Call of Duty. Kenny! Kenny! SPEAK UP!! SPEAK THROUGH THE HOOD KENNY!\n"
+  },
+  {
+    "input": "There's Kenny commenting on Call of Duty. Kenny! Kenny! SPEAK UP!! SPEAK THROUGH THE HOOD KENNY!\n",
+    "output": "Yeah. You used to sit in the living room with family and friends to hear their commentary on things. Now you can get it with a l-\n[The Marsh house, kitchen. Sharon is washing, Randy is drying, Shelly walks in excitedly]\n"
+  },
+  {
+    "input": "Yeah. You used to sit in the living room with family and friends to hear their commentary on things. Now you can get it with a l-\n[The Marsh house, kitchen. Sharon is washing, Randy is drying, Shelly walks in excitedly]\n",
+    "output": "Mom, Dad, Kelly and Stacy are going to the Women of Rock concert! Can I go with them?! [anxiously waits for an answer]\n"
+  },
+  {
+    "input": "Mom, Dad, Kelly and Stacy are going to the Women of Rock concert! Can I go with them?! [anxiously waits for an answer]\n",
+    "output": "I don't know, Shelly.\n"
+  },
+  {
+    "input": "I don't know, Shelly.\n",
+    "output": "But Mom, Lorde is playing! You can't not let me go or I'll hate you forever! [Randy and Sharon turn around]\n"
+  },
+  {
+    "input": "But Mom, Lorde is playing! You can't not let me go or I'll hate you forever! [Randy and Sharon turn around]\n",
+    "output": "Shelly, there's a good chance Lorde isn't goin' to show up.\n"
+  },
+  {
+    "input": "Shelly, there's a good chance Lorde isn't goin' to show up.\n",
+    "output": "She will too! She has to show up, and if I don't get to see her I'm gonna kill myself!\n"
+  },
+  {
+    "input": "She will too! She has to show up, and if I don't get to see her I'm gonna kill myself!\n",
+    "output": "And what if you go and Lorde doesn't sound that great in person?\n"
+  },
+  {
+    "input": "And what if you go and Lorde doesn't sound that great in person?\n",
+    "output": "That doesn't matter, Dad! We love Lorde because she's real! Gosh, you guys don't understand anything!\n"
+  },
+  {
+    "input": "That doesn't matter, Dad! We love Lorde because she's real! Gosh, you guys don't understand anything!\n",
+    "output": "You know, I think Lorde is going to play tomorrow.\n"
+  },
+  {
+    "input": "You know, I think Lorde is going to play tomorrow.\n",
+    "output": "So can I go or not?!\n"
+  },
+  {
+    "input": "So can I go or not?!\n",
+    "output": "If she means that much to you.\n"
+  },
+  {
+    "input": "If she means that much to you.\n",
+    "output": "Okay, yay, thanks, love you guys. [smiles and walks away]\n"
+  },
+  {
+    "input": "Okay, yay, thanks, love you guys. [smiles and walks away]\n",
+    "output": "Sooo you're doing it? [smiles]\n"
+  },
+  {
+    "input": "Sooo you're doing it? [smiles]\n",
+    "output": "How can I let her down? Do you mind finishing up here? I think I should practice a little.\n"
+  },
+  {
+    "input": "How can I let her down? Do you mind finishing up here? I think I should practice a little.\n",
+    "output": "Of course not. [Randy walks away and out of earshot] Anything to keep you away from cock magic.\n[Ike's room, later. Ike is still at his computer eating Cheetos]\n"
+  },
+  {
+    "input": "Of course not. [Randy walks away and out of earshot] Anything to keep you away from cock magic.\n[Ike's room, later. Ike is still at his computer eating Cheetos]\n",
+    "output": "Uhh, so today I'm gonna comment on Call Of Duty.\n"
+  },
+  {
+    "input": "Uhh, so today I'm gonna comment on Call Of Duty.\n",
+    "output": "[goes into the room] Hey Ike, you wanna come watch TV with me?\n"
+  },
+  {
+    "input": "[goes into the room] Hey Ike, you wanna come watch TV with me?\n",
+    "output": "More specifically, I'm going to comment on my friends commenting on Call Of Duty, so let's start.\n"
+  },
+  {
+    "input": "More specifically, I'm going to comment on my friends commenting on Call Of Duty, so let's start.\n",
+    "output": "Oh no! No, Ike! You are not watching him comment on things!\n"
+  },
+  {
+    "input": "Oh no! No, Ike! You are not watching him comment on things!\n",
+    "output": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n"
+  },
+  {
+    "input": "All I wanted was to play one level of Call of Duty and you know what Ike told me? He said the living room was for old people.\n",
+    "output": "That's Kyle the Jew again, talking about Call Of Duty to Stan.\n"
+  },
+  {
+    "input": "That's Kyle the Jew again, talking about Call Of Duty to Stan.\n",
+    "output": "[approaches the monitor] What the fuck?!\n"
+  },
+  {
+    "input": "[approaches the monitor] What the fuck?!\n",
+    "output": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n"
+  },
+  {
+    "input": "I don't get it. The whole fun of Call of Duty is that you get to do the shooting.\n",
+    "output": "[reaches for some chips and eat them, chuckles, then] Stan is such a douchebag. He just agrees with Kyle no matter what.\n"
+  },
+  {
+    "input": "[reaches for some chips and eat them, chuckles, then] Stan is such a douchebag. He just agrees with Kyle no matter what.\n",
+    "output": "Ike, that is enough! If you're interested in Call of Duty, go play it downstairs in the living room!\n"
+  },
+  {
+    "input": "Ike, that is enough! If you're interested in Call of Duty, go play it downstairs in the living room!\n",
+    "output": "God these guys are so annoying, aren't they? CartmaaanBrah!\n"
+  },
+  {
+    "input": "God these guys are so annoying, aren't they? CartmaaanBrah!\n",
+    "output": "But that's all that matter now! It's just all ... and the new celebrity?\n"
+  },
+  {
+    "input": "But that's all that matter now! It's just all ... and the new celebrity?\n",
+    "output": "CartmaaanBrah!\n[The neighborhood park, basketball court, day. Cartman, Stan, and Kenny are playing a game. Cartman has the ball. Kyle runs up, angry]\n"
+  },
+  {
+    "input": "CartmaaanBrah!\n[The neighborhood park, basketball court, day. Cartman, Stan, and Kenny are playing a game. Cartman has the ball. Kyle runs up, angry]\n",
+    "output": "What do you think you're doing?!\n"
+  },
+  {
+    "input": "What do you think you're doing?!\n",
+    "output": "Shooting for a D in a game of Horsedick.\n"
+  },
+  {
+    "input": "Shooting for a D in a game of Horsedick.\n",
+    "output": "You know what I mean! Why is my little brother watching you talking about us talking about him?!\n"
+  },
+  {
+    "input": "You know what I mean! Why is my little brother watching you talking about us talking about him?!\n",
+    "output": "I have a YouTube blog where I comment on video games. Big whoop.\n"
+  },
+  {
+    "input": "I have a YouTube blog where I comment on video games. Big whoop.\n",
+    "output": "I don't need Ike listening to you comment on anything!\n"
+  },
+  {
+    "input": "I don't need Ike listening to you comment on anything!\n",
+    "output": "What are you talking about?\n"
+  },
+  {
+    "input": "What are you talking about?\n",
+    "output": "This fat fuck thinks he's PewDiePie! Because of him I can't get Ike to come out of his room!\n"
+  },
+  {
+    "input": "This fat fuck thinks he's PewDiePie! Because of him I can't get Ike to come out of his room!\n",
+    "output": "Because of me?! I'm pretty sure I'm not the person who invented \"Let's Plays\", Kyle.\n"
+  },
+  {
+    "input": "Because of me?! I'm pretty sure I'm not the person who invented \"Let's Plays\", Kyle.\n",
+    "output": "\"Let's Plays\"?\n"
+  },
+  {
+    "input": "\"Let's Plays\"?\n",
+    "output": "That's what they're called, dude. Get with the times. [turns to the basket and takes his shot. Kyle looks away and down]\n[The Women of Rock concert at the Pepsi Center, night. Miley Cyrus is performing]\n"
+  },
+  {
+    "input": "That's what they're called, dude. Get with the times. [turns to the basket and takes his shot. Kyle looks away and down]\n[The Women of Rock concert at the Pepsi Center, night. Miley Cyrus is performing]\n",
+    "output": "There's a party going on and it's all right here, yehhhehehah!\nThrow my hands in the air while I'm twerkin' this chair\nThere's a party going on and it's all right here, yehhhehehah!\nAnd I'm movin' my hands while I'm shakin' my tits.\n"
+  },
+  {
+    "input": "There's a party going on and it's all right here, yehhhehehah!\nThrow my hands in the air while I'm twerkin' this chair\nThere's a party going on and it's all right here, yehhhehehah!\nAnd I'm movin' my hands while I'm shakin' my tits.\n",
+    "output": "Alright guys, uh, Miley's about to finish up her set. So next we'll need you, Nicki Minaj, then Iggy Azalea who'll be performing with a hologram of Michael Jackson, and then finally you, Lorde. [walks out of the dressing room backwards] Have a great show, ladies.\n"
+  },
+  {
+    "input": "Alright guys, uh, Miley's about to finish up her set. So next we'll need you, Nicki Minaj, then Iggy Azalea who'll be performing with a hologram of Michael Jackson, and then finally you, Lorde. [walks out of the dressing room backwards] Have a great show, ladies.\n",
+    "output": "Hey uh, listen, I, I thought I could do this, but it's not gonna work.\n"
+  },
+  {
+    "input": "Hey uh, listen, I, I thought I could do this, but it's not gonna work.\n",
+    "output": "You're nervous, it's understandable.\n"
+  },
+  {
+    "input": "You're nervous, it's understandable.\n",
+    "output": "No I'm eh... I know for a fact that I don't sound the same live.\n"
+  },
+  {
+    "input": "No I'm eh... I know for a fact that I don't sound the same live.\n",
+    "output": "You think those people out there care what you sound like? You're just another female pop star. Just go out there, pump your hips and rub your clit.\n"
+  },
+  {
+    "input": "You think those people out there care what you sound like? You're just another female pop star. Just go out there, pump your hips and rub your clit.\n",
+    "output": "Hey! That's not what my music is about! I'm not reducing myself to that!\n"
+  },
+  {
+    "input": "Hey! That's not what my music is about! I'm not reducing myself to that!\n",
+    "output": "Oh fuck you, Lorde! You think you're so much better than everyone!\n"
+  },
+  {
+    "input": "Oh fuck you, Lorde! You think you're so much better than everyone!\n",
+    "output": "No, I don't, Iggy. I just think that our younger girl fans need something a little more positive as role models.\n"
+  },
+  {
+    "input": "No, I don't, Iggy. I just think that our younger girl fans need something a little more positive as role models.\n",
+    "output": "That's easy for you to say because YOU don't have a nice body! Is that why you're so high and mighty, Lorde?! Because you're jealous of this booty?!\n"
+  },
+  {
+    "input": "That's easy for you to say because YOU don't have a nice body! Is that why you're so high and mighty, Lorde?! Because you're jealous of this booty?!\n",
+    "output": "Iggs, I really don't care to go through this again with you.\n"
+  },
+  {
+    "input": "Iggs, I really don't care to go through this again with you.\n",
+    "output": "'Cause let's face it! You got legs that look like a horse!\n"
+  },
+  {
+    "input": "'Cause let's face it! You got legs that look like a horse!\n",
+    "output": "Fuck you! [they start fighting and break through a table full of finger food and drinks]\n"
+  },
+  {
+    "input": "Fuck you! [they start fighting and break through a table full of finger food and drinks]\n",
+    "output": "Alright that's enough! [breaks up the scuffle and separates the two artists] Look at yourselves!\n"
+  },
+  {
+    "input": "Alright that's enough! [breaks up the scuffle and separates the two artists] Look at yourselves!\n",
+    "output": "You're an internet bullshit artist, Lorde!\n[Kyle's house, night. The doorbell rings and Kyle answers it. Stan comes in]\n"
+  },
+  {
+    "input": "You're an internet bullshit artist, Lorde!\n[Kyle's house, night. The doorbell rings and Kyle answers it. Stan comes in]\n",
+    "output": "Hey, what's up?\n"
+  },
+  {
+    "input": "Hey, what's up?\n",
+    "output": "You're not gonna believe this.\n"
+  },
+  {
+    "input": "You're not gonna believe this.\n",
+    "output": "Oh no, what now?\n"
+  },
+  {
+    "input": "Oh no, what now?\n",
+    "output": "I wanted to get Ike out of his room, so I invited all his friends over for a slumber party to play Dragon Age: Inquisition.\n"
+  },
+  {
+    "input": "I wanted to get Ike out of his room, so I invited all his friends over for a slumber party to play Dragon Age: Inquisition.\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "Come on! [leads Stan upstairs]\n[Ike's room. There are five other kids beside Ike in his room, and each one is using a tablet or a laptop, so no one is talking. Ike is watching PewDiePie on his monitor]\n"
+  },
+  {
+    "input": "Come on! [leads Stan upstairs]\n[Ike's room. There are five other kids beside Ike in his room, and each one is using a tablet or a laptop, so no one is talking. Ike is watching PewDiePie on his monitor]\n",
+    "output": "[giggling] He's just laying there.\n"
+  },
+  {
+    "input": "[giggling] He's just laying there.\n",
+    "output": "See? Look at this. Ike has all his friends over and they're just sitting around on their own computers barely talking to each other. Ike is watching PewDiePie play Dragon Age.\n"
+  },
+  {
+    "input": "See? Look at this. Ike has all his friends over and they're just sitting around on their own computers barely talking to each other. Ike is watching PewDiePie play Dragon Age.\n",
+    "output": "I'm going \"Dun dun dadadun dun dadadun.\"\n"
+  },
+  {
+    "input": "I'm going \"Dun dun dadadun dun dadadun.\"\n",
+    "output": "[in unison] PewDiePie!\n"
+  },
+  {
+    "input": "[in unison] PewDiePie!\n",
+    "output": "And this kid is watching Cartman commenting on people commenting on Dragon Age.\n"
+  },
+  {
+    "input": "And this kid is watching Cartman commenting on people commenting on Dragon Age.\n",
+    "output": "Well it's a really great game. The characters are so rich.\n"
+  },
+  {
+    "input": "Well it's a really great game. The characters are so rich.\n",
+    "output": "Butters is such a butthole, oh my God! CartmaaanBrah!\n"
+  },
+  {
+    "input": "Butters is such a butthole, oh my God! CartmaaanBrah!\n",
+    "output": "CartmanBrah!\n"
+  },
+  {
+    "input": "CartmanBrah!\n",
+    "output": "Dude, video games are meant to be played in a living room, not something to watch people comment on!\n"
+  },
+  {
+    "input": "Dude, video games are meant to be played in a living room, not something to watch people comment on!\n",
+    "output": "Okay Grandpa, we'll be sure to keep that in mind. [the kids laugh]\n"
+  },
+  {
+    "input": "Okay Grandpa, we'll be sure to keep that in mind. [the kids laugh]\n",
+    "output": "Grandpa?\n"
+  },
+  {
+    "input": "Grandpa?\n",
+    "output": "This is how they talk to us! [to Conner] You'd better watch your mouth, kid!\n"
+  },
+  {
+    "input": "This is how they talk to us! [to Conner] You'd better watch your mouth, kid!\n",
+    "output": "Yeah Conner, we're supposed to respect our elders, remember?\n"
+  },
+  {
+    "input": "Yeah Conner, we're supposed to respect our elders, remember?\n",
+    "output": "It's best to just make old people think they matter.\n"
+  },
+  {
+    "input": "It's best to just make old people think they matter.\n",
+    "output": "Oh, is that right?! Do you even know how to multiply?!\n"
+  },
+  {
+    "input": "Oh, is that right?! Do you even know how to multiply?!\n",
+    "output": "No sir. Thank goodness we have you to do that. [Ike laughs at PewDiePie's gameplay]\n"
+  },
+  {
+    "input": "No sir. Thank goodness we have you to do that. [Ike laughs at PewDiePie's gameplay]\n",
+    "output": "We're not being grandpas! Your guys's stuff is just seriously lame! Our generation's stuff is cool!\n"
+  },
+  {
+    "input": "We're not being grandpas! Your guys's stuff is just seriously lame! Our generation's stuff is cool!\n",
+    "output": "Oh my God I killed him!\n[Back at the Pepsi Center, Iggy Azalea is performing.]\n"
+  },
+  {
+    "input": "Oh my God I killed him!\n[Back at the Pepsi Center, Iggy Azalea is performing.]\n",
+    "output": "Missy who who?\nThat's all I do is rip off Missy.\nMissy who?\nMissy who? Missy who? Missy who, who? Missy who, who?\nAlright bitches and hos, via hologram and shit, Michael Jackson! [two men from the Syntech Hologram Company get ready]\n"
+  },
+  {
+    "input": "Missy who who?\nThat's all I do is rip off Missy.\nMissy who?\nMissy who? Missy who? Missy who, who? Missy who, who?\nAlright bitches and hos, via hologram and shit, Michael Jackson! [two men from the Syntech Hologram Company get ready]\n",
+    "output": "And, cue the hologram! [a bunch of special lights come on and produce the hologram, and the hologram performs Michael's signature moves. The crowd goes wild as Michael's music plays. The hologram moonwalks like Michael did]\n"
+  },
+  {
+    "input": "And, cue the hologram! [a bunch of special lights come on and produce the hologram, and the hologram performs Michael's signature moves. The crowd goes wild as Michael's music plays. The hologram moonwalks like Michael did]\n",
+    "output": "Hee hee. [as the crowd roars, Iggy starts twerking to the hologram]\n"
+  },
+  {
+    "input": "Hee hee. [as the crowd roars, Iggy starts twerking to the hologram]\n",
+    "output": "They shouldn't rehash dead people. It's so wrong.\n"
+  },
+  {
+    "input": "They shouldn't rehash dead people. It's so wrong.\n",
+    "output": "Oh Lorde, you're such a purist.\n"
+  },
+  {
+    "input": "Oh Lorde, you're such a purist.\n",
+    "output": "Can't help it, Nick. Can't help feeling like... we're losing something.\n[Wendy: The Wendy Williams Show, now on air. Wendy comes out in a blue dress and black jacket]\n"
+  },
+  {
+    "input": "Can't help it, Nick. Can't help feeling like... we're losing something.\n[Wendy: The Wendy Williams Show, now on air. Wendy comes out in a blue dress and black jacket]\n",
+    "output": "Hi everybody. I love you!\n"
+  },
+  {
+    "input": "Hi everybody. I love you!\n",
+    "output": "Thanks for loving me. I love you too.\n"
+  },
+  {
+    "input": "Thanks for loving me. I love you too.\n",
+    "output": "So I guess there's this new trend with young people where the celebrities they look up to most are YouTube commentators. Just ordinary people who sit in front of a mic and blab their opinions about everything while their mindless loyal followers cheer them on. Isn't that crazy?? [the audience cheers in agreement] Well let's meet one of these stars of the internet. Please welcome CartmanBrah! [Instead of Cartman himself appearing on the couch, Cartman's commenter window pops up - he's doing this via satellite]\n"
+  },
+  {
+    "input": "So I guess there's this new trend with young people where the celebrities they look up to most are YouTube commentators. Just ordinary people who sit in front of a mic and blab their opinions about everything while their mindless loyal followers cheer them on. Isn't that crazy?? [the audience cheers in agreement] Well let's meet one of these stars of the internet. Please welcome CartmanBrah! [Instead of Cartman himself appearing on the couch, Cartman's commenter window pops up - he's doing this via satellite]\n",
+    "output": "CartmaaanBrah!\n"
+  },
+  {
+    "input": "CartmaaanBrah!\n",
+    "output": "So can you explain to our audience members over the age of five what it is that you DO?\n"
+  },
+  {
+    "input": "So can you explain to our audience members over the age of five what it is that you DO?\n",
+    "output": "Well, Wendy, I started by talking about people talking about video games, but now I'm branching out into talking about people talking about music and the arts as well.\n"
+  },
+  {
+    "input": "Well, Wendy, I started by talking about people talking about video games, but now I'm branching out into talking about people talking about music and the arts as well.\n",
+    "output": "And why do you think young people-?\n"
+  },
+  {
+    "input": "And why do you think young people-?\n",
+    "output": "CartmaaanBrah!\n"
+  },
+  {
+    "input": "CartmaaanBrah!\n",
+    "output": "...Why do you think young people are responding to this? [Cartman mocks the question by asking it back in nonsense syllables] I'm asking you a question! [Cartman continues with the nonsense replies]\n"
+  },
+  {
+    "input": "...Why do you think young people are responding to this? [Cartman mocks the question by asking it back in nonsense syllables] I'm asking you a question! [Cartman continues with the nonsense replies]\n",
+    "output": "CartmaaanBrah! CartmanBrah! Be sure to subscribe to my channel, brahs.\n[Back at the Pepsi Center, the MC is about to introduce Lorde. The crowd cheers loudly]\n"
+  },
+  {
+    "input": "CartmaaanBrah! CartmanBrah! Be sure to subscribe to my channel, brahs.\n[Back at the Pepsi Center, the MC is about to introduce Lorde. The crowd cheers loudly]\n",
+    "output": "And now, give it up for the girl from New Zealand, LORDE!\n"
+  },
+  {
+    "input": "And now, give it up for the girl from New Zealand, LORDE!\n",
+    "output": "Thank you! Thanks a lot! This is for all the royals out there! [begins playing an acoustic guitar. Shelly is in the audience with Kelly and Stacy] Lorde Looorde. I'm Lorde, ya ya ya-a-a. Sittin' on the toilet thinkin' 'bout how I'm not as rich as other people, ya ya ya. [the cheering dies down] Yaa ya ya ya, I'll never be, I'll never by royalty. Ya ya ya. But that'd be nice 'cause that'd be a nice fantaasy. [the mood of the audience begins to change] Women's bathrooms smell so nice, ya ya ya. Ya ya ya. [the audience begins to boo] And we'll never be- Lorde Lorde Lor- Lorde flushing- Lordy Lordy Lorde. Lor-uh, okay, uh. [turns right and the mic falls to the ground] Oh God. Sorry. [bends over to pick up the mic...] Uh hold on.[...but drops the guitar instead. The boos intensify] Hang on, uh. [to bail Lorde out of this mess, the technicians bring Michael's hologram back to the stage]\n"
+  },
+  {
+    "input": "Thank you! Thanks a lot! This is for all the royals out there! [begins playing an acoustic guitar. Shelly is in the audience with Kelly and Stacy] Lorde Looorde. I'm Lorde, ya ya ya-a-a. Sittin' on the toilet thinkin' 'bout how I'm not as rich as other people, ya ya ya. [the cheering dies down] Yaa ya ya ya, I'll never be, I'll never by royalty. Ya ya ya. But that'd be nice 'cause that'd be a nice fantaasy. [the mood of the audience begins to change] Women's bathrooms smell so nice, ya ya ya. Ya ya ya. [the audience begins to boo] And we'll never be- Lorde Lorde Lor- Lorde flushing- Lordy Lordy Lorde. Lor-uh, okay, uh. [turns right and the mic falls to the ground] Oh God. Sorry. [bends over to pick up the mic...] Uh hold on.[...but drops the guitar instead. The boos intensify] Hang on, uh. [to bail Lorde out of this mess, the technicians bring Michael's hologram back to the stage]\n",
+    "output": "Hee hee. [the hologram runs through the audience] I'm free! I'm free!\n"
+  },
+  {
+    "input": "Hee hee. [the hologram runs through the audience] I'm free! I'm free!\n",
+    "output": "[dusts himself off] Sorry folks, just one second here.\n[The Pepsi Center entrance. Michael's hologram runs through the metal detector and begins to dance. Security guards are hot on his tail]\n"
+  },
+  {
+    "input": "[dusts himself off] Sorry folks, just one second here.\n[The Pepsi Center entrance. Michael's hologram runs through the metal detector and begins to dance. Security guards are hot on his tail]\n",
+    "output": "Hee hee. Dah dadit dat ja!\n"
+  },
+  {
+    "input": "Hee hee. Dah dadit dat ja!\n",
+    "output": "Stop him. [another guard tries to grab the hologram, but realizes it can't be done. The hologram leaves the Center. The guards run out after it, and a guard guard gets on his walkie-talkie]\n"
+  },
+  {
+    "input": "Stop him. [another guard tries to grab the hologram, but realizes it can't be done. The hologram leaves the Center. The guards run out after it, and a guard guard gets on his walkie-talkie]\n",
+    "output": "Michael Jackson's hologram is on the loose!\n"
+  },
+  {
+    "input": "Michael Jackson's hologram is on the loose!\n",
+    "output": "[leaving the parking area] Hee hee!\n[The Pepsi Center stage. Lorde is still on stage getting booed.]\n"
+  },
+  {
+    "input": "[leaving the parking area] Hee hee!\n[The Pepsi Center stage. Lorde is still on stage getting booed.]\n",
+    "output": "Ah ya ya. Okay, uh. Ah ya ya ya ya-a-a-a. [the boos don't stop, and Randy's vision becomes prismatic] Okay, uh, uh... [steps aside and begins to simulate rubbing his \"clit\"] Oooo![hops onto the car on stage and continues the simulation] Oh yeah! Oh my clit! Oh yeah! Oooo yeah, flick that bean, yeah! [the boos are replaced by disgust. Shelly and friends are disappointed]\n"
+  },
+  {
+    "input": "Ah ya ya. Okay, uh. Ah ya ya ya ya-a-a-a. [the boos don't stop, and Randy's vision becomes prismatic] Okay, uh, uh... [steps aside and begins to simulate rubbing his \"clit\"] Oooo![hops onto the car on stage and continues the simulation] Oh yeah! Oh my clit! Oh yeah! Oooo yeah, flick that bean, yeah! [the boos are replaced by disgust. Shelly and friends are disappointed]\n",
+    "output": "Ogh! Lorde, ewww!\n"
+  },
+  {
+    "input": "Ogh! Lorde, ewww!\n",
+    "output": "Oh, I'm so horny, yeah! Ooo, fuck, my clit's so big! Oooo! [fans begin to walk out of the concert]\n[The Marsh house, dining room. Sharon, Randy, and Stan are having dinner]\n"
+  },
+  {
+    "input": "Oh, I'm so horny, yeah! Ooo, fuck, my clit's so big! Oooo! [fans begin to walk out of the concert]\n[The Marsh house, dining room. Sharon, Randy, and Stan are having dinner]\n",
+    "output": "Could you um, pass the potatoes, Stan? [Stan reaches to his left and passes the potatoes to Randy] Great, thanks. [serves himself some potatoes] Well, nobody's talking. Does anyone have anything to talk about?\n"
+  },
+  {
+    "input": "Could you um, pass the potatoes, Stan? [Stan reaches to his left and passes the potatoes to Randy] Great, thanks. [serves himself some potatoes] Well, nobody's talking. Does anyone have anything to talk about?\n",
+    "output": "Why'd you have to rub your clit on stage, Dad?\n"
+  },
+  {
+    "input": "Why'd you have to rub your clit on stage, Dad?\n",
+    "output": "I was told to!\n"
+  },
+  {
+    "input": "I was told to!\n",
+    "output": "You were told to walk out in front of a hundred thousand people including little girls who look up to you, and start rubbing your clit.\n"
+  },
+  {
+    "input": "You were told to walk out in front of a hundred thousand people including little girls who look up to you, and start rubbing your clit.\n",
+    "output": "Okay, hold on! A, I don't have a clit, so technically, I wasn't rubbing anything! And B, I didn't want to even perform tonight, but Stanley gave all our money to Canada through a freemium game, so if anyone rubbed their clit, it was him! [Stan hisses and leaves the table. Sharon just leaves. Some time later, Randy drops in on Shelly in her room and sees her crying on her bed, face down. He then notices that the Lorde poster on the wall is in tatters and ripped in half. Randy leaves and closes the door softly]\n[Kyle's house, day. Kyle walks around a darkened living room, rubbing his left hand along the coffee table, then along the TV, and he finds them dusty]\n"
+  },
+  {
+    "input": "Okay, hold on! A, I don't have a clit, so technically, I wasn't rubbing anything! And B, I didn't want to even perform tonight, but Stanley gave all our money to Canada through a freemium game, so if anyone rubbed their clit, it was him! [Stan hisses and leaves the table. Sharon just leaves. Some time later, Randy drops in on Shelly in her room and sees her crying on her bed, face down. He then notices that the Lorde poster on the wall is in tatters and ripped in half. Randy leaves and closes the door softly]\n[Kyle's house, day. Kyle walks around a darkened living room, rubbing his left hand along the coffee table, then along the TV, and he finds them dusty]\n",
+    "output": "It's dying. The living room is... dying.\n[Randy's garage, night. Randy enters to talk to the record producer on the phone in private]\n"
+  },
+  {
+    "input": "It's dying. The living room is... dying.\n[Randy's garage, night. Randy enters to talk to the record producer on the phone in private]\n",
+    "output": "Yeah, it's me. I need to fix this. How can I undo the clit-rubbing?\n"
+  },
+  {
+    "input": "Yeah, it's me. I need to fix this. How can I undo the clit-rubbing?\n",
+    "output": "What are you talking about? It's great! You're the most commented-on artist in the world right now! You're blowing up twitter and you're trending on CartmanBrah. #clitnubbin\n"
+  },
+  {
+    "input": "What are you talking about? It's great! You're the most commented-on artist in the world right now! You're blowing up twitter and you're trending on CartmanBrah. #clitnubbin\n",
+    "output": "Look, this isn't what I want! My music is supposed to be-\n"
+  },
+  {
+    "input": "Look, this isn't what I want! My music is supposed to be-\n",
+    "output": "It's not about the music, Lorde! It never was. It's about comments! And sister, you've got 'em!\n"
+  },
+  {
+    "input": "It's not about the music, Lorde! It never was. It's about comments! And sister, you've got 'em!\n",
+    "output": "This ends now. I'm gonna tell people the truth.\n[The Rockies, day. A South Park City Transit bus is going to town, and Michael's hologram is in it. Everyone is on their iPhones or iPads]\n"
+  },
+  {
+    "input": "This ends now. I'm gonna tell people the truth.\n[The Rockies, day. A South Park City Transit bus is going to town, and Michael's hologram is in it. Everyone is on their iPhones or iPads]\n",
+    "output": "Will you look at that? Everyone on their cell phones, nobody sayin' a word to each other. Call me a grandpa, but I still like commenting face to face with folks. You know what I mean, buddy?\n"
+  },
+  {
+    "input": "Will you look at that? Everyone on their cell phones, nobody sayin' a word to each other. Call me a grandpa, but I still like commenting face to face with folks. You know what I mean, buddy?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "You're headin' up to the mountains too, huh? Gonna do some skiin'?\n"
+  },
+  {
+    "input": "You're headin' up to the mountains too, huh? Gonna do some skiin'?\n",
+    "output": "No, I just need to... take care of some im-, important business.\n"
+  },
+  {
+    "input": "No, I just need to... take care of some im-, important business.\n",
+    "output": "Oh, what kind of business? Oh are you a fisherman?\n"
+  },
+  {
+    "input": "Oh, what kind of business? Oh are you a fisherman?\n",
+    "output": "Yes. I mean, yes, that's all. I'm, I'm just gonna fish and hunt.\n"
+  },
+  {
+    "input": "Yes. I mean, yes, that's all. I'm, I'm just gonna fish and hunt.\n",
+    "output": "Oh, you're a hunter? What do you prey upon?\n"
+  },
+  {
+    "input": "Oh, you're a hunter? What do you prey upon?\n",
+    "output": "[stands up] Nobody! That's ignorant!\n"
+  },
+  {
+    "input": "[stands up] Nobody! That's ignorant!\n",
+    "output": "Well, you must have a favorite kind of prey?\n"
+  },
+  {
+    "input": "Well, you must have a favorite kind of prey?\n",
+    "output": "Allegedly! Allegedly! That's ignorant!\n"
+  },
+  {
+    "input": "Allegedly! Allegedly! That's ignorant!\n",
+    "output": "You know, excuse me for saying so, but you seem kind of... transparent.\n"
+  },
+  {
+    "input": "You know, excuse me for saying so, but you seem kind of... transparent.\n",
+    "output": "...That's ignorant. I'm just cold.\n"
+  },
+  {
+    "input": "...That's ignorant. I'm just cold.\n",
+    "output": "I'm saying it must make it easier to sneak up on your prey.\n"
+  },
+  {
+    "input": "I'm saying it must make it easier to sneak up on your prey.\n",
+    "output": "Allegedly! I'm weary of this conversation! Can we please stop talking, please?! Ignorant!\n"
+  },
+  {
+    "input": "Allegedly! I'm weary of this conversation! Can we please stop talking, please?! Ignorant!\n",
+    "output": "[looks him over] Well, whatever it is you're after, I hope you get it.\n"
+  },
+  {
+    "input": "[looks him over] Well, whatever it is you're after, I hope you get it.\n",
+    "output": "Oh I will. Trust me, I will. [The bus enters South Park.]\n[The Syntech Hologram Company, day. The record producer is with the tech working on the hologram problem]\n"
+  },
+  {
+    "input": "Oh I will. Trust me, I will. [The bus enters South Park.]\n[The Syntech Hologram Company, day. The record producer is with the tech working on the hologram problem]\n",
+    "output": "Ah, we've lost any ability to track the hologram's location. Ih...it looks like it reprogrammed its guidance systems.\n"
+  },
+  {
+    "input": "Ah, we've lost any ability to track the hologram's location. Ih...it looks like it reprogrammed its guidance systems.\n",
+    "output": "We paid a lot of money for that hologram. You'd better find a way to get it back!\n"
+  },
+  {
+    "input": "We paid a lot of money for that hologram. You'd better find a way to get it back!\n",
+    "output": "Project Alpha?\n"
+  },
+  {
+    "input": "Project Alpha?\n",
+    "output": "Yes. That might be our only option.\n"
+  },
+  {
+    "input": "Yes. That might be our only option.\n",
+    "output": "What is Project Alpha?\n"
+  },
+  {
+    "input": "What is Project Alpha?\n",
+    "output": "The first hologram we ever created to appear on stage. It was a prototype. But perhaps the best thing to stop a hologram-\n"
+  },
+  {
+    "input": "The first hologram we ever created to appear on stage. It was a prototype. But perhaps the best thing to stop a hologram-\n",
+    "output": "Is another hologram. Bring up Project Alpha!\n"
+  },
+  {
+    "input": "Is another hologram. Bring up Project Alpha!\n",
+    "output": "Sir, are you sure that we wanna-?\n"
+  },
+  {
+    "input": "Sir, are you sure that we wanna-?\n",
+    "output": "Bring it up! [Tech 2 gets to work. Everyone turns around and watches as the hologram is assembled]\n"
+  },
+  {
+    "input": "Bring it up! [Tech 2 gets to work. Everyone turns around and watches as the hologram is assembled]\n",
+    "output": "What is that?\n"
+  },
+  {
+    "input": "What is that?\n",
+    "output": "Tupac.\n"
+  },
+  {
+    "input": "Tupac.\n",
+    "output": "[approaches the hologram] Tupac? [the hologram is activated] Yo. The hologram of Michael Jackson is on the loose. We need you to \"take care of the situation.\" [the hologram takes out a Glock hologram and cocks it, then he walks forward, then turns left and walks out]\n"
+  },
+  {
+    "input": "[approaches the hologram] Tupac? [the hologram is activated] Yo. The hologram of Michael Jackson is on the loose. We need you to \"take care of the situation.\" [the hologram takes out a Glock hologram and cocks it, then he walks forward, then turns left and walks out]\n",
+    "output": "Godspeed, Tupac.\n[The Syntech Hologram Company, outside. Tupac crosses the street and a car almost runs him down. The couple inside is in shock]\n"
+  },
+  {
+    "input": "Godspeed, Tupac.\n[The Syntech Hologram Company, outside. Tupac crosses the street and a car almost runs him down. The couple inside is in shock]\n",
+    "output": "Oh my gosh, honey look it's Tupac! I told you them homies didn't cap his ass! [Tupac opens the driver's door, pulls the driver out and throws him to the ground, then gets into the driver's seat and takes off with the car and driver's wife. The driver gets up and pulls out his phone] Oh, this is going on Instagram! [takes the picture]\n[The bus stop, day. Cartman's commenter window is there in his place]\n"
+  },
+  {
+    "input": "Oh my gosh, honey look it's Tupac! I told you them homies didn't cap his ass! [Tupac opens the driver's door, pulls the driver out and throws him to the ground, then gets into the driver's seat and takes off with the car and driver's wife. The driver gets up and pulls out his phone] Oh, this is going on Instagram! [takes the picture]\n[The bus stop, day. Cartman's commenter window is there in his place]\n",
+    "output": "Hey hey, how's it going, bros? This is CartmanBrah. CartmaaanBrah. And uhh, we are, it looks like we are at the bus stop now. [the other three boys walk into view] Yep, there's Kyle, Stan and Kenny looking stupid as ever.\n"
+  },
+  {
+    "input": "Hey hey, how's it going, bros? This is CartmanBrah. CartmaaanBrah. And uhh, we are, it looks like we are at the bus stop now. [the other three boys walk into view] Yep, there's Kyle, Stan and Kenny looking stupid as ever.\n",
+    "output": "I don't know what the hell to do. The whole world's gone crazy.\n"
+  },
+  {
+    "input": "I don't know what the hell to do. The whole world's gone crazy.\n",
+    "output": "Tell me about it.\n"
+  },
+  {
+    "input": "Tell me about it.\n",
+    "output": "Uh oh, it looks like Kyle is taking issue with something again. Kyle's got a pro-blem. CartmanBrah!\n"
+  },
+  {
+    "input": "Uh oh, it looks like Kyle is taking issue with something again. Kyle's got a pro-blem. CartmanBrah!\n",
+    "output": "You know, you used to sit in the living room with your friends and family, and THEY were the ones commenting on whatever was on TV.\n"
+  },
+  {
+    "input": "You know, you used to sit in the living room with your friends and family, and THEY were the ones commenting on whatever was on TV.\n",
+    "output": "[exasperated] Oh God.\n"
+  },
+  {
+    "input": "[exasperated] Oh God.\n",
+    "output": "[notices the commenter window above the bus stop sign] Do you mind?!\n"
+  },
+  {
+    "input": "[notices the commenter window above the bus stop sign] Do you mind?!\n",
+    "output": "Oh, looks like Kyle is commenting on my commenter window, bras! Be sure to comment on that. #kyleisgettingfrustrated\n"
+  },
+  {
+    "input": "Oh, looks like Kyle is commenting on my commenter window, bras! Be sure to comment on that. #kyleisgettingfrustrated\n",
+    "output": "Dude! Nobody wants to hear you commenting on things!\n"
+  },
+  {
+    "input": "Dude! Nobody wants to hear you commenting on things!\n",
+    "output": "Oh really. Ten thousand subscribers and counting, brah!\n[Buca de Faggoncini, day. Randy goes inside. The record producer is waiting for him at a table. Randy approaches, but doesn't sit down.]\n"
+  },
+  {
+    "input": "Oh really. Ten thousand subscribers and counting, brah!\n[Buca de Faggoncini, day. Randy goes inside. The record producer is waiting for him at a table. Randy approaches, but doesn't sit down.]\n",
+    "output": "Thanks for seeing me. I've got my speech written. I'm ready to let the world know the truth. [the producer puts down his fork and wipes his lips off with a napkin.]\n"
+  },
+  {
+    "input": "Thanks for seeing me. I've got my speech written. I'm ready to let the world know the truth. [the producer puts down his fork and wipes his lips off with a napkin.]\n",
+    "output": "Sit down, Lorde.\n"
+  },
+  {
+    "input": "Sit down, Lorde.\n",
+    "output": "I'm not interested in being talked out of ending this. It's the right thing to do.\n"
+  },
+  {
+    "input": "I'm not interested in being talked out of ending this. It's the right thing to do.\n",
+    "output": "[stands up and walks to a nearby bar] Do you know what an artist is now, Lorde? An artist is a conversation piece, nothing more. [pours himself a drink] Like a vase, or a kitschy side table. Just something for people to comment on. [turns around] The old ways are dying. We're not making money off records, we're making money off tweets. And you've taken it to a whole new level.\n"
+  },
+  {
+    "input": "[stands up and walks to a nearby bar] Do you know what an artist is now, Lorde? An artist is a conversation piece, nothing more. [pours himself a drink] Like a vase, or a kitschy side table. Just something for people to comment on. [turns around] The old ways are dying. We're not making money off records, we're making money off tweets. And you've taken it to a whole new level.\n",
+    "output": "Well that's not a world Lorde ever wanted to be a part of.\n"
+  },
+  {
+    "input": "Well that's not a world Lorde ever wanted to be a part of.\n",
+    "output": "On the contrary. Lorde is going on the Jimmy Fallon show tonight and exposing her asshole for everyone to freak out about.\n"
+  },
+  {
+    "input": "On the contrary. Lorde is going on the Jimmy Fallon show tonight and exposing her asshole for everyone to freak out about.\n",
+    "output": "I'll do no such thing!\n"
+  },
+  {
+    "input": "I'll do no such thing!\n",
+    "output": "Who said anything about you? [whips out a small remote control and presses a button on it. Some lasers turn on and assemble a new hologram. It's Lorde's hologram. It walks up to the producer and stands beside him. Randy is frightened and takes several steps back. Two bodyguards appear behind him, and he notices. The producer closes the blinds]\n"
+  },
+  {
+    "input": "Who said anything about you? [whips out a small remote control and presses a button on it. Some lasers turn on and assemble a new hologram. It's Lorde's hologram. It walks up to the producer and stands beside him. Randy is frightened and takes several steps back. Two bodyguards appear behind him, and he notices. The producer closes the blinds]\n",
+    "output": "You can't just replace artists with holograms. Who will make the content?\n"
+  },
+  {
+    "input": "You can't just replace artists with holograms. Who will make the content?\n",
+    "output": "Today, commentary IS the content. And you, I'm afraid, are just in the way. [the bodyguards quickly escort him out]\n[South Park Elementary, day. Mr. Garrison wipes off the previous night's work from the blackboard.]\n"
+  },
+  {
+    "input": "Today, commentary IS the content. And you, I'm afraid, are just in the way. [the bodyguards quickly escort him out]\n[South Park Elementary, day. Mr. Garrison wipes off the previous night's work from the blackboard.]\n",
+    "output": "Okay children, let's take our seats. Before we get started, Kyle has asked to say a few words. Go ahead, Kyle.\n"
+  },
+  {
+    "input": "Okay children, let's take our seats. Before we get started, Kyle has asked to say a few words. Go ahead, Kyle.\n",
+    "output": "[walks up to the front of the class and turns around. He reads from a sheet of paper] What is happening to our living rooms? There is a crisis in America, and-\n"
+  },
+  {
+    "input": "[walks up to the front of the class and turns around. He reads from a sheet of paper] What is happening to our living rooms? There is a crisis in America, and-\n",
+    "output": "[his commenter window pops up] Looks like we're in the school now. Check out Wendy, she's flat as a pancake.\n"
+  },
+  {
+    "input": "[his commenter window pops up] Looks like we're in the school now. Check out Wendy, she's flat as a pancake.\n",
+    "output": "What the hell is that?\n"
+  },
+  {
+    "input": "What the hell is that?\n",
+    "output": "It's Cartman's stupid online persona!\n"
+  },
+  {
+    "input": "It's Cartman's stupid online persona!\n",
+    "output": "Oh my dick's gettin hard again! It's protrudin' out my paaaaants!\n"
+  },
+  {
+    "input": "Oh my dick's gettin hard again! It's protrudin' out my paaaaants!\n",
+    "output": "What the hell?\n"
+  },
+  {
+    "input": "What the hell?\n",
+    "output": "This is the way of the future, Mr. Garrison.\n"
+  },
+  {
+    "input": "This is the way of the future, Mr. Garrison.\n",
+    "output": "It's true!\n"
+  },
+  {
+    "input": "It's true!\n",
+    "output": "Heh that's right, Butters will back me up on anything. He's such a bitch.\n"
+  },
+  {
+    "input": "Heh that's right, Butters will back me up on anything. He's such a bitch.\n",
+    "output": "Heheyehah.\n"
+  },
+  {
+    "input": "Heheyehah.\n",
+    "output": "There is a crisis in America! As families grow further and further apart-\n"
+  },
+  {
+    "input": "There is a crisis in America! As families grow further and further apart-\n",
+    "output": "[mocking] There is a crisis in America. and we have to save our living rooms. Our living rooms are dying.\n"
+  },
+  {
+    "input": "[mocking] There is a crisis in America. and we have to save our living rooms. Our living rooms are dying.\n",
+    "output": "Mr. Garrison, will you make him stop!\n"
+  },
+  {
+    "input": "Mr. Garrison, will you make him stop!\n",
+    "output": "I don't- I don't even understand what's happening.\n"
+  },
+  {
+    "input": "I don't- I don't even understand what's happening.\n",
+    "output": "THIS is the reason why our living rooms are dying!\n"
+  },
+  {
+    "input": "THIS is the reason why our living rooms are dying!\n",
+    "output": "[mocking] This is the reason why our living rooms are dying, so we've got to do something.\n"
+  },
+  {
+    "input": "[mocking] This is the reason why our living rooms are dying, so we've got to do something.\n",
+    "output": "Eric Cartman's commenter window to the principal's office, please? Eric Cartman's commenter window to the principal's office!\n"
+  },
+  {
+    "input": "Eric Cartman's commenter window to the principal's office, please? Eric Cartman's commenter window to the principal's office!\n",
+    "output": "What the hell did I do?\n[Principal Victoria's office, later.]\n"
+  },
+  {
+    "input": "What the hell did I do?\n[Principal Victoria's office, later.]\n",
+    "output": "Eric, I've had a lot of complaints that your online persona is becoming a distraction.\n"
+  },
+  {
+    "input": "Eric, I've had a lot of complaints that your online persona is becoming a distraction.\n",
+    "output": "Well this sucks. Looks like I'm in the principal's office for just commenting on things.\n"
+  },
+  {
+    "input": "Well this sucks. Looks like I'm in the principal's office for just commenting on things.\n",
+    "output": "Eric, I am talking to YOU!\n"
+  },
+  {
+    "input": "Eric, I am talking to YOU!\n",
+    "output": "Adults so don't get what's cool anymore.\n[The Marsh house. Randy rushes in through the front door]\n"
+  },
+  {
+    "input": "Adults so don't get what's cool anymore.\n[The Marsh house. Randy rushes in through the front door]\n",
+    "output": "Sharon? Sharon!\n"
+  },
+  {
+    "input": "Sharon? Sharon!\n",
+    "output": "[comes down the stairs in her bath robe] Randy? What's going on?\n"
+  },
+  {
+    "input": "[comes down the stairs in her bath robe] Randy? What's going on?\n",
+    "output": "They made a hologram of me, Sharon! They don't care about the music! They're REPLACING us!\n"
+  },
+  {
+    "input": "They made a hologram of me, Sharon! They don't care about the music! They're REPLACING us!\n",
+    "output": "Oh my God! You mean, I just slept with a hologram?\n"
+  },
+  {
+    "input": "Oh my God! You mean, I just slept with a hologram?\n",
+    "output": "The hologram's in our bedroom?\n"
+  },
+  {
+    "input": "The hologram's in our bedroom?\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "I've gotta be leavin' now, Sharon. I would leave you my number but I'm just a hologram 'n shit.\n"
+  },
+  {
+    "input": "I've gotta be leavin' now, Sharon. I would leave you my number but I'm just a hologram 'n shit.\n",
+    "output": "You slept with Tupac?! SHARON!\n[The record producer's limousine, back seat. Cartman's commenter window is there with the record producer]\n"
+  },
+  {
+    "input": "You slept with Tupac?! SHARON!\n[The record producer's limousine, back seat. Cartman's commenter window is there with the record producer]\n",
+    "output": "It's a brave new world, starting much sooner than we thought. What we need is someone who truly gets the changing of the guard. We have an army of holograms poised to start the next chapter in American culture. How would you like to be in charge of it all?\n"
+  },
+  {
+    "input": "It's a brave new world, starting much sooner than we thought. What we need is someone who truly gets the changing of the guard. We have an army of holograms poised to start the next chapter in American culture. How would you like to be in charge of it all?\n",
+    "output": "[in his commenter window] Ohohoh, totally, brah! So sweet. Being in charge of stuff rules! CartmaaanBrah!\n"
+  },
+  {
+    "input": "[in his commenter window] Ohohoh, totally, brah! So sweet. Being in charge of stuff rules! CartmaaanBrah!\n",
+    "output": "Glad you feel that way. We have a lot to do together. We're about to take this to a whole new level.\n"
+  }
+]

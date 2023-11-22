@@ -1,0 +1,1034 @@
+[
+  {
+    "input": "",
+    "output": "Trapped in the Closet\n\n[South Park, day, a mini-mall. Komik Factory is shown. The boys walk out the front doors.]\n"
+  },
+  {
+    "input": "Trapped in the Closet\n\n[South Park, day, a mini-mall. Komik Factory is shown. The boys walk out the front doors.]\n",
+    "output": "Oh dude, check it out. I got a Jake Plummer.\n"
+  },
+  {
+    "input": "Oh dude, check it out. I got a Jake Plummer.\n",
+    "output": "Aw man, I got a crappy AJ Feeley again!\n"
+  },
+  {
+    "input": "Aw man, I got a crappy AJ Feeley again!\n",
+    "output": "How come you didn't buy any cards, Stan?\n"
+  },
+  {
+    "input": "How come you didn't buy any cards, Stan?\n",
+    "output": "I can't spend any money. I'm saving up for that bike I want.\n"
+  },
+  {
+    "input": "I can't spend any money. I'm saving up for that bike I want.\n",
+    "output": "HA! Saving money, duhhh! [turns left and walks. The others follow. Kenny moves the card in his left hand to his right hand]\n"
+  },
+  {
+    "input": "HA! Saving money, duhhh! [turns left and walks. The others follow. Kenny moves the card in his left hand to his right hand]\n",
+    "output": "So what should we do now? It's Saturday and we have to have as much fun as possible.\n"
+  },
+  {
+    "input": "So what should we do now? It's Saturday and we have to have as much fun as possible.\n",
+    "output": "Hey, I know! Let's go play laser tag at FunPlex.\n"
+  },
+  {
+    "input": "Hey, I know! Let's go play laser tag at FunPlex.\n",
+    "output": "(Hey yeah!)\n"
+  },
+  {
+    "input": "(Hey yeah!)\n",
+    "output": "[stops] No, I don't wanna spend any money, you guys. [the others stop and he catches up] Let's just do something fun that's free.\n"
+  },
+  {
+    "input": "[stops] No, I don't wanna spend any money, you guys. [the others stop and he catches up] Let's just do something fun that's free.\n",
+    "output": "Stan, don't you know the first law of physics? Anything that's fun costs at least eight dollars.\n"
+  },
+  {
+    "input": "Stan, don't you know the first law of physics? Anything that's fun costs at least eight dollars.\n",
+    "output": "Yeah dude, nothing fun is free.\n"
+  },
+  {
+    "input": "Yeah dude, nothing fun is free.\n",
+    "output": "Well I can't spend any money.\n"
+  },
+  {
+    "input": "Well I can't spend any money.\n",
+    "output": "Okay, be a Jew. We're gonna go play laser tag. [he, Kenny and Kyle walk off]\n"
+  },
+  {
+    "input": "Okay, be a Jew. We're gonna go play laser tag. [he, Kenny and Kyle walk off]\n",
+    "output": "Yeah. See ya. [Stan moves on down the sidewalk and passes a Scientology center. In front are a table with two people seated behind it, waiting for prospects]\n"
+  },
+  {
+    "input": "Yeah. See ya. [Stan moves on down the sidewalk and passes a Scientology center. In front are a table with two people seated behind it, waiting for prospects]\n",
+    "output": "Hello, would you like to take a personality test? It's fun and it's free.\n"
+  },
+  {
+    "input": "Hello, would you like to take a personality test? It's fun and it's free.\n",
+    "output": "[stops, thinks, and looks] Excuse me?\n"
+  },
+  {
+    "input": "[stops, thinks, and looks] Excuse me?\n",
+    "output": "We're doing free personality tests today.\n"
+  },
+  {
+    "input": "We're doing free personality tests today.\n",
+    "output": "Uh what do I have to do?\n"
+  },
+  {
+    "input": "Uh what do I have to do?\n",
+    "output": "Have you heard of Scientology? It's all based on the book, Dianetics. A lot of really cool people are Scientologists, like Tom Cruise and John Travolta. Why don't you come on in and we'll get your fun free personality test started. [leads him in and walks by one closed door after another] Let's just find an empty room here, lots of people getting free tests today. [finds an open door and looks in] Hey Brian.\n"
+  },
+  {
+    "input": "Have you heard of Scientology? It's all based on the book, Dianetics. A lot of really cool people are Scientologists, like Tom Cruise and John Travolta. Why don't you come on in and we'll get your fun free personality test started. [leads him in and walks by one closed door after another] Let's just find an empty room here, lots of people getting free tests today. [finds an open door and looks in] Hey Brian.\n",
+    "output": "[seated at his desk, rises and walks to the door] Hey Kelly. How's it going?\n"
+  },
+  {
+    "input": "[seated at his desk, rises and walks to the door] Hey Kelly. How's it going?\n",
+    "output": "Great! I want you to meet my new friend, Stan.\n"
+  },
+  {
+    "input": "Great! I want you to meet my new friend, Stan.\n",
+    "output": "Hey there! How are you?\n"
+  },
+  {
+    "input": "Hey there! How are you?\n",
+    "output": "Fine.\n"
+  },
+  {
+    "input": "Fine.\n",
+    "output": "Brian's gonna give you your personality test and then let you know some things about Scientology.\n"
+  },
+  {
+    "input": "Brian's gonna give you your personality test and then let you know some things about Scientology.\n",
+    "output": "Good times, good times!\n"
+  },
+  {
+    "input": "Good times, good times!\n",
+    "output": "L-look, is this a religion? Because my family is like, Catholic or something.\n"
+  },
+  {
+    "input": "L-look, is this a religion? Because my family is like, Catholic or something.\n",
+    "output": "Ho, that's not a problem at all. Scientology is more like an alternative to psychology than a religion.\n"
+  },
+  {
+    "input": "Ho, that's not a problem at all. Scientology is more like an alternative to psychology than a religion.\n",
+    "output": "Then how come that sign says \"Church of Scientology\"?\n"
+  },
+  {
+    "input": "Then how come that sign says \"Church of Scientology\"?\n",
+    "output": "Oho, that's just this thing: What's the Denver Broncos' record now? Six and two?\n"
+  },
+  {
+    "input": "Oho, that's just this thing: What's the Denver Broncos' record now? Six and two?\n",
+    "output": "Seven and two.\n"
+  },
+  {
+    "input": "Seven and two.\n",
+    "output": "Wow! That's great! All right, come on in and take a seat; we're gonna have some fun! [he and Stam enter the room and he changes the sign on his door so it says \"Test In Progress.\" Inside, Brian and Stan take their seats] All right now, I'm just gonna ask you a few questions. Just answer these questions as truthfully as you can, alright? [picks up a notepad and starts noting Stan's answers] Okay. Number 1: Do you ever make remarks... which you later regret?\n"
+  },
+  {
+    "input": "Wow! That's great! All right, come on in and take a seat; we're gonna have some fun! [he and Stam enter the room and he changes the sign on his door so it says \"Test In Progress.\" Inside, Brian and Stan take their seats] All right now, I'm just gonna ask you a few questions. Just answer these questions as truthfully as you can, alright? [picks up a notepad and starts noting Stan's answers] Okay. Number 1: Do you ever make remarks... which you later regret?\n",
+    "output": "Uhhh, sh-sure?\n"
+  },
+  {
+    "input": "Uhhh, sh-sure?\n",
+    "output": "Uh huh. Would you rather give orders... than take them?\n"
+  },
+  {
+    "input": "Uh huh. Would you rather give orders... than take them?\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "Do you ever whistle... just for the fun of it. [The wall clock reads 11:35, then 12:20, and the camera pans down to Brian and Stan.] Okay, and finally, does life sometimes feel vague and confusing to you?\n"
+  },
+  {
+    "input": "Do you ever whistle... just for the fun of it. [The wall clock reads 11:35, then 12:20, and the camera pans down to Brian and Stan.] Okay, and finally, does life sometimes feel vague and confusing to you?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "Okay, Stan. Well, that's it. That's the end of the personality test.\n"
+  },
+  {
+    "input": "Okay, Stan. Well, that's it. That's the end of the personality test.\n",
+    "output": "So how did I do?\n"
+  },
+  {
+    "input": "So how did I do?\n",
+    "output": "Well, I hate to tell you this, Stan, but... you are one messed-up kid.\n"
+  },
+  {
+    "input": "Well, I hate to tell you this, Stan, but... you are one messed-up kid.\n",
+    "output": "...Huh??\n"
+  },
+  {
+    "input": "...Huh??\n",
+    "output": "Yeah, I'm afraid that you are completely miserable and totally depressed.\n"
+  },
+  {
+    "input": "Yeah, I'm afraid that you are completely miserable and totally depressed.\n",
+    "output": "I am?? I didn't know that!\n"
+  },
+  {
+    "input": "I am?? I didn't know that!\n",
+    "output": "Well there's certainly no question that you are a perfect candidate for Scientology. I think it can really make you happy again.\n"
+  },
+  {
+    "input": "Well there's certainly no question that you are a perfect candidate for Scientology. I think it can really make you happy again.\n",
+    "output": "What what do I do?\n"
+  },
+  {
+    "input": "What what do I do?\n",
+    "output": "It's very simple. We just need two hundred and forty dollars.\n[Stan's house, dinnertime. Grandpa is still around, at the head of the table. Randy and Shelly are seated to Grandpa's right, Stan and Sharon are seated to Grandpa's left. Stan rests his head on his left arm.]\n"
+  },
+  {
+    "input": "It's very simple. We just need two hundred and forty dollars.\n[Stan's house, dinnertime. Grandpa is still around, at the head of the table. Randy and Shelly are seated to Grandpa's right, Stan and Sharon are seated to Grandpa's left. Stan rests his head on his left arm.]\n",
+    "output": "Stanley, you haven't touched your food. What's the matter with you?\n"
+  },
+  {
+    "input": "Stanley, you haven't touched your food. What's the matter with you?\n",
+    "output": "I'm totally depressed.\n"
+  },
+  {
+    "input": "I'm totally depressed.\n",
+    "output": "What? Why?\n"
+  },
+  {
+    "input": "What? Why?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Well how long have you been feeling this way?\n"
+  },
+  {
+    "input": "Well how long have you been feeling this way?\n",
+    "output": "I'm not sure. But... I need two hundred and forty dollars.\n"
+  },
+  {
+    "input": "I'm not sure. But... I need two hundred and forty dollars.\n",
+    "output": "Two hundred and forty dollars?! What'd you do, break something?!\n"
+  },
+  {
+    "input": "Two hundred and forty dollars?! What'd you do, break something?!\n",
+    "output": "No, I found a self-help program that can cure me.\n"
+  },
+  {
+    "input": "No, I found a self-help program that can cure me.\n",
+    "output": "Oh Jesus, the answer is no, Stanley.\n"
+  },
+  {
+    "input": "Oh Jesus, the answer is no, Stanley.\n",
+    "output": "But I'm completely miserable and these people can help!\n"
+  },
+  {
+    "input": "But I'm completely miserable and these people can help!\n",
+    "output": "Stanley, I didn't know you were miserable.\n"
+  },
+  {
+    "input": "Stanley, I didn't know you were miserable.\n",
+    "output": "Neither did I!\n"
+  },
+  {
+    "input": "Neither did I!\n",
+    "output": "Stanley, do you have any concept of money at all? Money doesn't grow on trees, you know?\n"
+  },
+  {
+    "input": "Stanley, do you have any concept of money at all? Money doesn't grow on trees, you know?\n",
+    "output": "Don't you care that I'm depressed?! What if I become suicidal, or, or become an alcoholic like Grandpa??\n"
+  },
+  {
+    "input": "Don't you care that I'm depressed?! What if I become suicidal, or, or become an alcoholic like Grandpa??\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Well, if you really think your life is so bad, Stan, why don't you take what you have out of your bicycle savings?!\n"
+  },
+  {
+    "input": "Well, if you really think your life is so bad, Stan, why don't you take what you have out of your bicycle savings?!\n",
+    "output": "[looking real sad] ...well but... but that's my money.\n"
+  },
+  {
+    "input": "[looking real sad] ...well but... but that's my money.\n",
+    "output": "Yeah, well just like the rest of us, you have to make choices with your money. Do you want a bike, or do you not want to be depressed?\n[The Scientology Center, Sunday. Stan returns.]\n"
+  },
+  {
+    "input": "Yeah, well just like the rest of us, you have to make choices with your money. Do you want a bike, or do you not want to be depressed?\n[The Scientology Center, Sunday. Stan returns.]\n",
+    "output": "Michelle, our friend Stan wants to have auditing.\n"
+  },
+  {
+    "input": "Michelle, our friend Stan wants to have auditing.\n",
+    "output": "Oho good, you're going to be so happy.\n"
+  },
+  {
+    "input": "Oho good, you're going to be so happy.\n",
+    "output": "I hope so.\n"
+  },
+  {
+    "input": "I hope so.\n",
+    "output": "It's the beginning of a whole new life for you, Stan. See ya afterwards.\n"
+  },
+  {
+    "input": "It's the beginning of a whole new life for you, Stan. See ya afterwards.\n",
+    "output": "Great, so do you have the two hundred and forty dollars. [Stan pulls out the bills and hands them over to Michelle] Perfect! We're on our way! [puts the money in a secure drawer and escorts Stan...] Come on over here and I'll fill you in on how the Church of Scientology works. [...down a hallway] You see, Stan, Scientology was founded by a great man named L. Ron Hubbard. [a portrait of him is shown] Mr. Hubbard discovered that negative emotions are actually caused by things called \"body thetans.\"\n"
+  },
+  {
+    "input": "Great, so do you have the two hundred and forty dollars. [Stan pulls out the bills and hands them over to Michelle] Perfect! We're on our way! [puts the money in a secure drawer and escorts Stan...] Come on over here and I'll fill you in on how the Church of Scientology works. [...down a hallway] You see, Stan, Scientology was founded by a great man named L. Ron Hubbard. [a portrait of him is shown] Mr. Hubbard discovered that negative emotions are actually caused by things called \"body thetans.\"\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yes! And being the genius that he was, Mr. Hubbard invented a way to get rid of those bad thetans. [stops by a picture of a portable blue machine with two cylindrical grips plugged into the back] This is called an E-meter. It's the main tool of Scientology. You just grab a hold of these handles as I talk you through past experiences in your life. I'll be taking readings here, and we'll be able to determine your thetan levels.\n"
+  },
+  {
+    "input": "Yes! And being the genius that he was, Mr. Hubbard invented a way to get rid of those bad thetans. [stops by a picture of a portable blue machine with two cylindrical grips plugged into the back] This is called an E-meter. It's the main tool of Scientology. You just grab a hold of these handles as I talk you through past experiences in your life. I'll be taking readings here, and we'll be able to determine your thetan levels.\n",
+    "output": "Thetan levels...\n"
+  },
+  {
+    "input": "Thetan levels...\n",
+    "output": "Come on in the auditing room and I'll show you how it works. [moments later they are in the auditing room. They walk by a row of booths, each with a tester and a testee] All these people are just like you, Stan, auditing with E-meters to get rid of their negative emotions. [she reaches an empty booth and sits behind the controls as Stan takes his seat] All right, Stan, I want you to just relax and take hold of the E-meter handles. [Stan grabs them and draws them close]\n"
+  },
+  {
+    "input": "Come on in the auditing room and I'll show you how it works. [moments later they are in the auditing room. They walk by a row of booths, each with a tester and a testee] All these people are just like you, Stan, auditing with E-meters to get rid of their negative emotions. [she reaches an empty booth and sits behind the controls as Stan takes his seat] All right, Stan, I want you to just relax and take hold of the E-meter handles. [Stan grabs them and draws them close]\n",
+    "output": "So, this is gonna make me happy?\n"
+  },
+  {
+    "input": "So, this is gonna make me happy?\n",
+    "output": "Just take a few deep breaths, and I'll just get a base reading of your thetan levels. [Stan takes a deep breath and exhales, not quite sure why, then Michelle turns on the machine to take the reading. It reaches a 9.15] Huh, that's, that's strange.\n"
+  },
+  {
+    "input": "Just take a few deep breaths, and I'll just get a base reading of your thetan levels. [Stan takes a deep breath and exhales, not quite sure why, then Michelle turns on the machine to take the reading. It reaches a 9.15] Huh, that's, that's strange.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Somethin-, [soft giggle] something's wrong. Brian, could you come over here a second?\n"
+  },
+  {
+    "input": "Somethin-, [soft giggle] something's wrong. Brian, could you come over here a second?\n",
+    "output": "[appears next to her] Yep- Oh hey there, Greg!\n"
+  },
+  {
+    "input": "[appears next to her] Yep- Oh hey there, Greg!\n",
+    "output": "Stan.\n"
+  },
+  {
+    "input": "Stan.\n",
+    "output": "Will you... look at his thetan levels?\n"
+  },
+  {
+    "input": "Will you... look at his thetan levels?\n",
+    "output": "Huh, well. We'll get another E-meter - this one's obviously broken. Sorry about this, Greg.\n[The lobby. Mr. Mackey has entered to take his own personality test.]\n"
+  },
+  {
+    "input": "Huh, well. We'll get another E-meter - this one's obviously broken. Sorry about this, Greg.\n[The lobby. Mr. Mackey has entered to take his own personality test.]\n",
+    "output": "And so we just try to analyze your personality, and if it seems like you need some help, then you can have an audit counseling for a nominal fee.\n"
+  },
+  {
+    "input": "And so we just try to analyze your personality, and if it seems like you need some help, then you can have an audit counseling for a nominal fee.\n",
+    "output": "Well, that sounds pretty reasonable, m'kay. [Brian comes out of the auditing room nervously]\n"
+  },
+  {
+    "input": "Well, that sounds pretty reasonable, m'kay. [Brian comes out of the auditing room nervously]\n",
+    "output": "Mike, I need to talk to you!\n"
+  },
+  {
+    "input": "Mike, I need to talk to you!\n",
+    "output": "Excuse me, sir, I'll be right back. [he and Brian go into the hallway] Are you all right? You're sweating!\n"
+  },
+  {
+    "input": "Excuse me, sir, I'll be right back. [he and Brian go into the hallway] Are you all right? You're sweating!\n",
+    "output": "[shows him Stan's E-meter results] Take a look at this.\n"
+  },
+  {
+    "input": "[shows him Stan's E-meter results] Take a look at this.\n",
+    "output": "[looks] What is it?\n"
+  },
+  {
+    "input": "[looks] What is it?\n",
+    "output": "The E-meter results from the little boy in Room D\n"
+  },
+  {
+    "input": "The E-meter results from the little boy in Room D\n",
+    "output": "[leafing through the results] This... this can't be right. [scans faster]\n"
+  },
+  {
+    "input": "[leafing through the results] This... this can't be right. [scans faster]\n",
+    "output": "We ran the tests four times! We used four different E-meters!\n"
+  },
+  {
+    "input": "We ran the tests four times! We used four different E-meters!\n",
+    "output": "Fax these results to the head office in Los Angeles. The President has to see thus right away. Go! [slaps Brian across the back] Now! [Brian leaves]\n[L. Ron Hubbard's Scientology Celebrity Center, day.]\n"
+  },
+  {
+    "input": "Fax these results to the head office in Los Angeles. The President has to see thus right away. Go! [slaps Brian across the back] Now! [Brian leaves]\n[L. Ron Hubbard's Scientology Celebrity Center, day.]\n",
+    "output": "The boy is from a small mountain town in Colorado, sir.\n"
+  },
+  {
+    "input": "The boy is from a small mountain town in Colorado, sir.\n",
+    "output": "Sir, how can it be that a first timer scores that kind of thetan level?? He registered OT9! I'm only OT7 and I've been in the church all my life!\n"
+  },
+  {
+    "input": "Sir, how can it be that a first timer scores that kind of thetan level?? He registered OT9! I'm only OT7 and I've been in the church all my life!\n",
+    "output": "I've waited... forty-two years... for this day.\n"
+  },
+  {
+    "input": "I've waited... forty-two years... for this day.\n",
+    "output": "Sir?\n"
+  },
+  {
+    "input": "Sir?\n",
+    "output": "Don't you all see what this means? There was only one person who EVER registered OT9 in the history of our church. [looks at something. The others gather to look with him. They look at a framed portrait of L. Ron Hubbard] L. Ron Hubbard said he had lived past lives. That when he died his thetan would show itself again. Our prophet has returned. [removes Stan's picture from the report and holds it up against the portrait.]\n[The Marsh house, kitchen, night.]\n"
+  },
+  {
+    "input": "Don't you all see what this means? There was only one person who EVER registered OT9 in the history of our church. [looks at something. The others gather to look with him. They look at a framed portrait of L. Ron Hubbard] L. Ron Hubbard said he had lived past lives. That when he died his thetan would show itself again. Our prophet has returned. [removes Stan's picture from the report and holds it up against the portrait.]\n[The Marsh house, kitchen, night.]\n",
+    "output": "Uh, Stanley, take the garbage out before you go to bed.\n"
+  },
+  {
+    "input": "Uh, Stanley, take the garbage out before you go to bed.\n",
+    "output": "I took out the garbage yesterday.\n"
+  },
+  {
+    "input": "I took out the garbage yesterday.\n",
+    "output": "Right now, Stan!\n"
+  },
+  {
+    "input": "Right now, Stan!\n",
+    "output": "Aagh! [hauls the garbage bag out of the garbage can and drags it across the living room] Stupid dumb garbage! [opens the front door and steps out.]\n[The Marsh house, outside, night.]\n"
+  },
+  {
+    "input": "Aagh! [hauls the garbage bag out of the garbage can and drags it across the living room] Stupid dumb garbage! [opens the front door and steps out.]\n[The Marsh house, outside, night.]\n",
+    "output": "[offscreen] There he is! [Stan's anger changes to surprise]\n"
+  },
+  {
+    "input": "[offscreen] There he is! [Stan's anger changes to surprise]\n",
+    "output": "Thank you for returning!\n"
+  },
+  {
+    "input": "Thank you for returning!\n",
+    "output": "He's wonderful. [cries] He's wonderful.\n"
+  },
+  {
+    "input": "He's wonderful. [cries] He's wonderful.\n",
+    "output": "[the rest of the family joins Stan at the door] Stan! What the hell did you do?!\n"
+  },
+  {
+    "input": "[the rest of the family joins Stan at the door] Stan! What the hell did you do?!\n",
+    "output": "I don't know! [a Scientology helicopter lands on the lawn and some officials open the door for the church's president, who exits, walks over to Stan, and kneels down]\n"
+  },
+  {
+    "input": "I don't know! [a Scientology helicopter lands on the lawn and some officials open the door for the church's president, who exits, walks over to Stan, and kneels down]\n",
+    "output": "Hello young man. I'm the head of Scientology. It is... [with great emotion, bows his head] a great honor to meet you!\n[The Marsh living room. The officials and the family have entered.]\n"
+  },
+  {
+    "input": "Hello young man. I'm the head of Scientology. It is... [with great emotion, bows his head] a great honor to meet you!\n[The Marsh living room. The officials and the family have entered.]\n",
+    "output": "All right, what the hell is going on here?!\n"
+  },
+  {
+    "input": "All right, what the hell is going on here?!\n",
+    "output": "We've been looking for your son for a long time, Mr. Marsh. He is the reincarnation of our church's most famous prophet.\n"
+  },
+  {
+    "input": "We've been looking for your son for a long time, Mr. Marsh. He is the reincarnation of our church's most famous prophet.\n",
+    "output": "Wwhat??\n"
+  },
+  {
+    "input": "Wwhat??\n",
+    "output": "Scientologists the world over are simply rejoicing at his second coming.\n"
+  },
+  {
+    "input": "Scientologists the world over are simply rejoicing at his second coming.\n",
+    "output": "Look, we don't want our son to join your group, okay?\n"
+  },
+  {
+    "input": "Look, we don't want our son to join your group, okay?\n",
+    "output": "We're not asking him to join us, we're asking him... to lead us.\n"
+  },
+  {
+    "input": "We're not asking him to join us, we're asking him... to lead us.\n",
+    "output": "Oh my God, it's John Travolta! [Sharon and Randy go to investigate]\n"
+  },
+  {
+    "input": "Oh my God, it's John Travolta! [Sharon and Randy go to investigate]\n",
+    "output": "[using an odd voice as he makes his way through the crowd] Is this where he lives? Is this where L. Ron Hubbard is? Oh my god!\n"
+  },
+  {
+    "input": "[using an odd voice as he makes his way through the crowd] Is this where he lives? Is this where L. Ron Hubbard is? Oh my god!\n",
+    "output": "Yes, John Travolta and Tom Cruise are big Scientologists. Do you believe me nooow? [kneels next to Stan] Young man, I know you don't remember it,but... your name was L. Ron Hubbard. You revealed the secret that began the whole Church of Scientology.\n"
+  },
+  {
+    "input": "Yes, John Travolta and Tom Cruise are big Scientologists. Do you believe me nooow? [kneels next to Stan] Young man, I know you don't remember it,but... your name was L. Ron Hubbard. You revealed the secret that began the whole Church of Scientology.\n",
+    "output": "Okay, Stan, it's late, go up to your room and get ready for bed! Let Mommy and Daddy handle this. [Stan walks up the stairs, not sure what's going on]\n"
+  },
+  {
+    "input": "Okay, Stan, it's late, go up to your room and get ready for bed! Let Mommy and Daddy handle this. [Stan walks up the stairs, not sure what's going on]\n",
+    "output": "[enters his room] Jesus Christ...\n"
+  },
+  {
+    "input": "[enters his room] Jesus Christ...\n",
+    "output": "[suddenly appears in his room] L. Ron? [runs up and kneels before Stan] L. Ron! It really is you! [puts his hands over his heart] Oh, this is the greatest day of my life!\n"
+  },
+  {
+    "input": "[suddenly appears in his room] L. Ron? [runs up and kneels before Stan] L. Ron! It really is you! [puts his hands over his heart] Oh, this is the greatest day of my life!\n",
+    "output": "Aw dude, I need to go to bed.\n"
+  },
+  {
+    "input": "Aw dude, I need to go to bed.\n",
+    "output": "Don't you understand, L. Ron? It's me! Tom Cruise!\n"
+  },
+  {
+    "input": "Don't you understand, L. Ron? It's me! Tom Cruise!\n",
+    "output": "Yeah, I know who you are.\n"
+  },
+  {
+    "input": "Yeah, I know who you are.\n",
+    "output": "Ha-haven't I done well, L. Ron? Haven't you enjoyed my acting? Which film did you like best?\n"
+  },
+  {
+    "input": "Ha-haven't I done well, L. Ron? Haven't you enjoyed my acting? Which film did you like best?\n",
+    "output": "Well-h. I mean, you're not... you're not like as good as Leonardo DiCaprio, but you're okay, I guess.\n"
+  },
+  {
+    "input": "Well-h. I mean, you're not... you're not like as good as Leonardo DiCaprio, but you're okay, I guess.\n",
+    "output": "...What?\n"
+  },
+  {
+    "input": "...What?\n",
+    "output": "I mean, you're not Gene Hackman or that guy who played Napoleon Dynamite, but you're okay.\n"
+  },
+  {
+    "input": "I mean, you're not Gene Hackman or that guy who played Napoleon Dynamite, but you're okay.\n",
+    "output": "[buries his face in his hands] I'm nothing. [lifts his head again] I'm a failure in the eyes of the Prophet! AAAH! [runs into Stan's closet and closes the door]\n"
+  },
+  {
+    "input": "[buries his face in his hands] I'm nothing. [lifts his head again] I'm a failure in the eyes of the Prophet! AAAH! [runs into Stan's closet and closes the door]\n",
+    "output": "Hey! [walks over to the closet] Dude, I'm sorry. I didn't mean it.\n"
+  },
+  {
+    "input": "Hey! [walks over to the closet] Dude, I'm sorry. I didn't mean it.\n",
+    "output": "Go away!\n"
+  },
+  {
+    "input": "Go away!\n",
+    "output": "Dude, this is my room!\n"
+  },
+  {
+    "input": "Dude, this is my room!\n",
+    "output": "Go away, I said!\n"
+  },
+  {
+    "input": "Go away, I said!\n",
+    "output": "[walks out into the hall] Dad! Tom Cruise won't come out of the closet!\n"
+  },
+  {
+    "input": "[walks out into the hall] Dad! Tom Cruise won't come out of the closet!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Tom Cruise locked himself in my closet and he won't come out. [Randy enters the room and tries to open the closet door, then knocks. Stan looks on]\n"
+  },
+  {
+    "input": "Tom Cruise locked himself in my closet and he won't come out. [Randy enters the room and tries to open the closet door, then knocks. Stan looks on]\n",
+    "output": "Mr. Cruise? Mr. Cruise, come out of the closet.\n"
+  },
+  {
+    "input": "Mr. Cruise? Mr. Cruise, come out of the closet.\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "Come on, Mr. Cruise, this is ridiculous.\n"
+  },
+  {
+    "input": "Come on, Mr. Cruise, this is ridiculous.\n",
+    "output": "I'm never coming out!\n"
+  },
+  {
+    "input": "I'm never coming out!\n",
+    "output": "[to Stan] What did you say to him?\n"
+  },
+  {
+    "input": "[to Stan] What did you say to him?\n",
+    "output": "I just told him I thought the Napoleon Dynamite guy is a better actor than he is.\n"
+  },
+  {
+    "input": "I just told him I thought the Napoleon Dynamite guy is a better actor than he is.\n",
+    "output": "Oh boy. [knocks on the door again] Mr. Cruise, you can't just stay in the closet, alright? You need to come out.\n"
+  },
+  {
+    "input": "Oh boy. [knocks on the door again] Mr. Cruise, you can't just stay in the closet, alright? You need to come out.\n",
+    "output": "What's going on?\n"
+  },
+  {
+    "input": "What's going on?\n",
+    "output": "Tom Cruise won't come out of the closet.\n"
+  },
+  {
+    "input": "Tom Cruise won't come out of the closet.\n",
+    "output": "What??\n"
+  },
+  {
+    "input": "What??\n",
+    "output": "Just leave me alone!\n"
+  },
+  {
+    "input": "Just leave me alone!\n",
+    "output": "Well, we CAN'T leave you alone because YOU won't come out of the closet!\n[Channel 4 Network News - South Park Evening News.]\n"
+  },
+  {
+    "input": "Well, we CAN'T leave you alone because YOU won't come out of the closet!\n[Channel 4 Network News - South Park Evening News.]\n",
+    "output": "It's been four hours now, and Tom Cruise still will not come out of the closet. Hundreds of onlookers here have gathered here in hopes that the celebrity will finally give in.\n"
+  },
+  {
+    "input": "It's been four hours now, and Tom Cruise still will not come out of the closet. Hundreds of onlookers here have gathered here in hopes that the celebrity will finally give in.\n",
+    "output": "Tom Cruise, this is Park County police! Please come out of the closet. [the house is shown] Everybody here just wants you to come out of the closet, Tom. [someone takes a picture. The house is shown again] Nobody's gonna be mad, everything's gonna be all right. Just come out of the closet.\n"
+  },
+  {
+    "input": "Tom Cruise, this is Park County police! Please come out of the closet. [the house is shown] Everybody here just wants you to come out of the closet, Tom. [someone takes a picture. The house is shown again] Nobody's gonna be mad, everything's gonna be all right. Just come out of the closet.\n",
+    "output": "We're still not exactly sure why Tom Cruise is in the closet, but I'm being joined now by famous singer/songwriter R. Kelly.\n"
+  },
+  {
+    "input": "We're still not exactly sure why Tom Cruise is in the closet, but I'm being joined now by famous singer/songwriter R. Kelly.\n",
+    "output": "Well I was just standing here, and Tom Cruise locked himself in the closet I asked myself why won't Tom Cruise just come out the closet? Nobody has no answers, and so I pull out my gun! [The crowd screams and run] Tell me why Tom Cruise in the closet or else I am gonna shoot someone!\n[Stan's house, kitchen. The church leaders talk to.]\n"
+  },
+  {
+    "input": "Well I was just standing here, and Tom Cruise locked himself in the closet I asked myself why won't Tom Cruise just come out the closet? Nobody has no answers, and so I pull out my gun! [The crowd screams and run] Tell me why Tom Cruise in the closet or else I am gonna shoot someone!\n[Stan's house, kitchen. The church leaders talk to.]\n",
+    "output": "Please, understand, we just want what is best for your son. The reincarnation of L. Ron Hubbard must be taken care of. He had many enemies.\n"
+  },
+  {
+    "input": "Please, understand, we just want what is best for your son. The reincarnation of L. Ron Hubbard must be taken care of. He had many enemies.\n",
+    "output": "Wasn't L. Ron Hubbard a science-fiction writer?\n"
+  },
+  {
+    "input": "Wasn't L. Ron Hubbard a science-fiction writer?\n",
+    "output": "Yes. But he was also a prophet... who knew the secret truth about the nature of life.\n"
+  },
+  {
+    "input": "Yes. But he was also a prophet... who knew the secret truth about the nature of life.\n",
+    "output": "This is just too much.\n"
+  },
+  {
+    "input": "This is just too much.\n",
+    "output": "We want to reveal to Stan the great secret of life behind our church. The safely-guarded Scientology doctrine. Please, your son deserves to be enlightened.\n"
+  },
+  {
+    "input": "We want to reveal to Stan the great secret of life behind our church. The safely-guarded Scientology doctrine. Please, your son deserves to be enlightened.\n",
+    "output": "Stan, do you want to hear the great secret doctrine of life behind Scientology?\n"
+  },
+  {
+    "input": "Stan, do you want to hear the great secret doctrine of life behind Scientology?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "All right, go ahead and tell him.\n"
+  },
+  {
+    "input": "All right, go ahead and tell him.\n",
+    "output": "Would you excuse us, please? This is highly classified church information.\n"
+  },
+  {
+    "input": "Would you excuse us, please? This is highly classified church information.\n",
+    "output": "Aw rats. [he and Sharon leave]\n"
+  },
+  {
+    "input": "Aw rats. [he and Sharon leave]\n",
+    "output": "Usually, to hear the secret doctrine, you have to be in the church for several years, Stan. [leans in] Are you ready to hear the truth?\n"
+  },
+  {
+    "input": "Usually, to hear the secret doctrine, you have to be in the church for several years, Stan. [leans in] Are you ready to hear the truth?\n",
+    "output": "I, I guess.\n"
+  },
+  {
+    "input": "I, I guess.\n",
+    "output": "You see, Stan, there is a reason for people feeling sad and depressed. [leans in] An alien reason. It all began 75 million years ago. Back then there was a galactinc federation of planets which was ruled over by the evil Lord Xenu.\n"
+  },
+  {
+    "input": "You see, Stan, there is a reason for people feeling sad and depressed. [leans in] An alien reason. It all began 75 million years ago. Back then there was a galactinc federation of planets which was ruled over by the evil Lord Xenu.\n",
+    "output": "Ho ho ho ho ho ho.\n"
+  },
+  {
+    "input": "Ho ho ho ho ho ho.\n",
+    "output": "Xenu thought his galaxy was overpopulated, [Xenu gives his orders] and so he rounded up countless aliens from all different planets, [the roundup is shown] and then had those aliens frozen. [one by one, the aliens are frozen]\n"
+  },
+  {
+    "input": "Xenu thought his galaxy was overpopulated, [Xenu gives his orders] and so he rounded up countless aliens from all different planets, [the roundup is shown] and then had those aliens frozen. [one by one, the aliens are frozen]\n",
+    "output": "[laughing over his plan] Wa ha ha ha!\n"
+  },
+  {
+    "input": "[laughing over his plan] Wa ha ha ha!\n",
+    "output": "The frozen alien bodies were loaded onto Xenu's galactic cruisers, which looked like DC-8s, except with rocket engines. The cruisers then took the frozen alien bodies to our planet, to Earth, and dumped them into the volcanoes of Hawaii. [a shot of the frozen aliens encased in ice being dropped from the orange cruisers] The aliens were no longer frozen, they were dead. The souls of those aliens, however, lived on, and all floated up towards the sky. But the evil Lord Xenu had prepared for this.\n"
+  },
+  {
+    "input": "The frozen alien bodies were loaded onto Xenu's galactic cruisers, which looked like DC-8s, except with rocket engines. The cruisers then took the frozen alien bodies to our planet, to Earth, and dumped them into the volcanoes of Hawaii. [a shot of the frozen aliens encased in ice being dropped from the orange cruisers] The aliens were no longer frozen, they were dead. The souls of those aliens, however, lived on, and all floated up towards the sky. But the evil Lord Xenu had prepared for this.\n",
+    "output": "Wa ha ha ha!\n"
+  },
+  {
+    "input": "Wa ha ha ha!\n",
+    "output": "Xenu didn't want their souls to return! And so he built giant soul-catchers in the sky! [the soul-catchers are shown] The souls were taken to a huge soul brain-washing facility, which Xenu had ALSO built on Earth. [the souls are watching a movie screen with 3D glasses] There the souls were forced to watch days of brainwashing material [Egyptian gods, Jesus carrying the Cross, and a bronze Buddha statue are shown] which tricked them into believing a false reality. Xenu then released the alien souls, which roamed the earth aimlessly in a fog of confusion. At the dawn of man, the souls finally found bodies which they can grab onto. They attached themselves to all mankind, which still to this day causes all our fears, our confusions, and our problems. [Stan looks at the president, a bit awed] L. Ron Hubbard did an amazing thing telling the world this incredible truth. Now all we're asking you to do... [hands Stan a pen and some paper] is pick up where he left off.\n"
+  },
+  {
+    "input": "Xenu didn't want their souls to return! And so he built giant soul-catchers in the sky! [the soul-catchers are shown] The souls were taken to a huge soul brain-washing facility, which Xenu had ALSO built on Earth. [the souls are watching a movie screen with 3D glasses] There the souls were forced to watch days of brainwashing material [Egyptian gods, Jesus carrying the Cross, and a bronze Buddha statue are shown] which tricked them into believing a false reality. Xenu then released the alien souls, which roamed the earth aimlessly in a fog of confusion. At the dawn of man, the souls finally found bodies which they can grab onto. They attached themselves to all mankind, which still to this day causes all our fears, our confusions, and our problems. [Stan looks at the president, a bit awed] L. Ron Hubbard did an amazing thing telling the world this incredible truth. Now all we're asking you to do... [hands Stan a pen and some paper] is pick up where he left off.\n",
+    "output": "But I don't know any of this stuff.\n"
+  },
+  {
+    "input": "But I don't know any of this stuff.\n",
+    "output": "Neither did L. Ron when he started. He said he just closed his eyes, and wrote down whatever came to mind. You can do the same. Just let it flow.\n"
+  },
+  {
+    "input": "Neither did L. Ron when he started. He said he just closed his eyes, and wrote down whatever came to mind. You can do the same. Just let it flow.\n",
+    "output": "Okay, I'll try. I just wish I could write in my room, but Tom Cruise won't come out of the closet.\n"
+  },
+  {
+    "input": "Okay, I'll try. I just wish I could write in my room, but Tom Cruise won't come out of the closet.\n",
+    "output": "I know. We've sent Nicole Kidman up there to see if she can help.\n[Stan's bedroom. The sergeant, a photographer, the Marshes, and a few other people wait by the bedroom door.]\n"
+  },
+  {
+    "input": "I know. We've sent Nicole Kidman up there to see if she can help.\n[Stan's bedroom. The sergeant, a photographer, the Marshes, and a few other people wait by the bedroom door.]\n",
+    "output": "[knocks on the closet door] Tom? Tom, It's Nicole.\n"
+  },
+  {
+    "input": "[knocks on the closet door] Tom? Tom, It's Nicole.\n",
+    "output": "Ah hi Nicole.\n"
+  },
+  {
+    "input": "Ah hi Nicole.\n",
+    "output": "Tom, don't you think this has gone on long enough? It's time for you to come out of the closet.\n"
+  },
+  {
+    "input": "Tom, don't you think this has gone on long enough? It's time for you to come out of the closet.\n",
+    "output": "...I'm not, I'm not in the closet.\n"
+  },
+  {
+    "input": "...I'm not, I'm not in the closet.\n",
+    "output": "Yes you are, Tom. And you need to just end this and come out. [silence] I'm not gonna think any differently of you. Katie's not gonna think any differently of you. You don't need to be in that closet anymore, Tom.\n"
+  },
+  {
+    "input": "Yes you are, Tom. And you need to just end this and come out. [silence] I'm not gonna think any differently of you. Katie's not gonna think any differently of you. You don't need to be in that closet anymore, Tom.\n",
+    "output": "I'm not in here, though.\n"
+  },
+  {
+    "input": "I'm not in here, though.\n",
+    "output": "Yes, you are.\n"
+  },
+  {
+    "input": "Yes, you are.\n",
+    "output": "I'm not, ...I'm not in the closet.\n"
+  },
+  {
+    "input": "I'm not, ...I'm not in the closet.\n",
+    "output": "Then how am I talking to you, Tom? [silence] Tom, you can't hide forever just because the reincarnation of L. Ron Hubbard doesn't like your acting. Come out of the closet, Tom. You're not fooling anyone.\n"
+  },
+  {
+    "input": "Then how am I talking to you, Tom? [silence] Tom, you can't hide forever just because the reincarnation of L. Ron Hubbard doesn't like your acting. Come out of the closet, Tom. You're not fooling anyone.\n",
+    "output": "I'm, I'm not, I'm not in here.\n[Stan's house, kitchen. Stan is at the breakfast table writing and rewriting. Wads of paper litter the table.]\n"
+  },
+  {
+    "input": "I'm, I'm not, I'm not in here.\n[Stan's house, kitchen. Stan is at the breakfast table writing and rewriting. Wads of paper litter the table.]\n",
+    "output": "[gets an idea] Yeah, yeah!\n"
+  },
+  {
+    "input": "[gets an idea] Yeah, yeah!\n",
+    "output": "Hey Stan, we're gonna go to the movies.\n"
+  },
+  {
+    "input": "Hey Stan, we're gonna go to the movies.\n",
+    "output": "I can't. I'm writing a new sacred doctrine for my church.\n"
+  },
+  {
+    "input": "I can't. I'm writing a new sacred doctrine for my church.\n",
+    "output": "Look, Stan, we're really getting concerned about this cult that you're getting into.\n"
+  },
+  {
+    "input": "Look, Stan, we're really getting concerned about this cult that you're getting into.\n",
+    "output": "Cult? Scientology isn't a cult, Kyle. I've read all this stuff and it's based on fact.\n"
+  },
+  {
+    "input": "Cult? Scientology isn't a cult, Kyle. I've read all this stuff and it's based on fact.\n",
+    "output": "Dude, L. Ron Hubbard was a science-fiction writer. He lived on a boat with only young boys and got busted by the feds numerous times.\n"
+  },
+  {
+    "input": "Dude, L. Ron Hubbard was a science-fiction writer. He lived on a boat with only young boys and got busted by the feds numerous times.\n",
+    "output": "I did not! Those are rumors put out by people who are afraid because they don't know the secret truth.\n"
+  },
+  {
+    "input": "I did not! Those are rumors put out by people who are afraid because they don't know the secret truth.\n",
+    "output": "What secret truth??\n"
+  },
+  {
+    "input": "What secret truth??\n",
+    "output": "I can't tell you unless you pay for a few years of audit counseling! All I know is that I was depressed before, and now I found meaning!\n"
+  },
+  {
+    "input": "I can't tell you unless you pay for a few years of audit counseling! All I know is that I was depressed before, and now I found meaning!\n",
+    "output": "I didn't know you were depressed.\n"
+  },
+  {
+    "input": "I didn't know you were depressed.\n",
+    "output": "Neither did I! But now, if you guys can't accept this great thing I belong to, then I suppose we're no longer friends! [Kyle and Kenny leave]\n"
+  },
+  {
+    "input": "Neither did I! But now, if you guys can't accept this great thing I belong to, then I suppose we're no longer friends! [Kyle and Kenny leave]\n",
+    "output": "Stan, I just want you to know that I still hate Kyle more than you. [leaves]\n[Stan's house, later, outside shot. Upstairs, John Travolta has joined the effort to get Cruise out of the closet.]\n"
+  },
+  {
+    "input": "Stan, I just want you to know that I still hate Kyle more than you. [leaves]\n[Stan's house, later, outside shot. Upstairs, John Travolta has joined the effort to get Cruise out of the closet.]\n",
+    "output": "Tom! Hey Tom, it's John Travolta.\n"
+  },
+  {
+    "input": "Tom! Hey Tom, it's John Travolta.\n",
+    "output": "Oh hey John.\n"
+  },
+  {
+    "input": "Oh hey John.\n",
+    "output": "Tom, you've gotta come out of the closet. Oh my God.\n"
+  },
+  {
+    "input": "Tom, you've gotta come out of the closet. Oh my God.\n",
+    "output": "L. Ron Hubbard doesn't think I'm a great actor.\n"
+  },
+  {
+    "input": "L. Ron Hubbard doesn't think I'm a great actor.\n",
+    "output": "Mm-maybe you took what he said out of context. Okay, 's like, if you don't come out, can I at least come in and talk to you?\n"
+  },
+  {
+    "input": "Mm-maybe you took what he said out of context. Okay, 's like, if you don't come out, can I at least come in and talk to you?\n",
+    "output": "Oh... Okay, but no tricks.\n"
+  },
+  {
+    "input": "Oh... Okay, but no tricks.\n",
+    "output": "No tricks. [gives the group standing out in the hall a thumbs-up. The door opens and John goes into the closet.] Hey, it's really nice n here.\n"
+  },
+  {
+    "input": "No tricks. [gives the group standing out in the hall a thumbs-up. The door opens and John goes into the closet.] Hey, it's really nice n here.\n",
+    "output": "Yeah, see?\n"
+  },
+  {
+    "input": "Yeah, see?\n",
+    "output": "I feel really safe. Oh my god.\n"
+  },
+  {
+    "input": "I feel really safe. Oh my god.\n",
+    "output": "[knocks] Hello? [tries to force the door open] Hey, come out of there!\n[Stan's house, outside shot.]\n"
+  },
+  {
+    "input": "[knocks] Hello? [tries to force the door open] Hey, come out of there!\n[Stan's house, outside shot.]\n",
+    "output": "Tom, it now appears that John Travolta is also in the closet, and he refuses to come out. Here with more details once again, is R. Kelly.\n"
+  },
+  {
+    "input": "Tom, it now appears that John Travolta is also in the closet, and he refuses to come out. Here with more details once again, is R. Kelly.\n",
+    "output": "I was just standing here. Tom Cruise locked himself in the closet Then John Travolta come and now, John Travolta in the closet too. Please Tom Cruise and John Travolta come out the closet! But then I calm myself down, and I pull out my gun! [The crowd screams again and runs away]\n"
+  },
+  {
+    "input": "I was just standing here. Tom Cruise locked himself in the closet Then John Travolta come and now, John Travolta in the closet too. Please Tom Cruise and John Travolta come out the closet! But then I calm myself down, and I pull out my gun! [The crowd screams again and runs away]\n",
+    "output": "Oh geez, here we go with the gun again.\n"
+  },
+  {
+    "input": "Oh geez, here we go with the gun again.\n",
+    "output": "[Grabs a lady and holds her at gunpoint] If Tom Cruise and John Travolta don't come out of the closet I'm gonna cap this bitch!\n[Stan's house, kitchen. The president of the church is reviewing Stan's work.]\n"
+  },
+  {
+    "input": "[Grabs a lady and holds her at gunpoint] If Tom Cruise and John Travolta don't come out of the closet I'm gonna cap this bitch!\n[Stan's house, kitchen. The president of the church is reviewing Stan's work.]\n",
+    "output": "Yes... Yes, oh this is great, Stan!\n"
+  },
+  {
+    "input": "Yes... Yes, oh this is great, Stan!\n",
+    "output": "I wrote that um, our followers shouldn't fly in DC-8s anymore because they're too much like Xenu's evil cruisers.\n"
+  },
+  {
+    "input": "I wrote that um, our followers shouldn't fly in DC-8s anymore because they're too much like Xenu's evil cruisers.\n",
+    "output": "Yes, of course! So wonderful!\n"
+  },
+  {
+    "input": "Yes, of course! So wonderful!\n",
+    "output": "And I wrote that the evil Lord Xenu was recently broken out of galactic jail.\n"
+  },
+  {
+    "input": "And I wrote that the evil Lord Xenu was recently broken out of galactic jail.\n",
+    "output": "Yes, of course!\n"
+  },
+  {
+    "input": "Yes, of course!\n",
+    "output": "And best of all, I wrote that all the Scientologists should no longer have to pay money to belong.\n"
+  },
+  {
+    "input": "And best of all, I wrote that all the Scientologists should no longer have to pay money to belong.\n",
+    "output": "[his joy disappears] What?\n"
+  },
+  {
+    "input": "[his joy disappears] What?\n",
+    "output": "I I realize that to really be a church, we can't charge people for help.\n"
+  },
+  {
+    "input": "I I realize that to really be a church, we can't charge people for help.\n",
+    "output": "[turns around] What are you, stupid?! Then how do we make money from those people?!\n"
+  },
+  {
+    "input": "[turns around] What are you, stupid?! Then how do we make money from those people?!\n",
+    "output": "... Well, it's not about the money, it's about the message, right?\n"
+  },
+  {
+    "input": "... Well, it's not about the money, it's about the message, right?\n",
+    "output": "Wait a minute, whoa, whoa! You don't actually believe this crap, do you?? Dummy! Brainwashed alien souls?? E-meters and thetan levels?? Those people out there buy that crap and I thought YOU were smart enough to see what was really going on!\n"
+  },
+  {
+    "input": "Wait a minute, whoa, whoa! You don't actually believe this crap, do you?? Dummy! Brainwashed alien souls?? E-meters and thetan levels?? Those people out there buy that crap and I thought YOU were smart enough to see what was really going on!\n",
+    "output": "But you said that there were-\n"
+  },
+  {
+    "input": "But you said that there were-\n",
+    "output": "What's better than telling people a stupid story and having them believe you?! [Stan draws a blank] Having them PAY you for it, stupid!\n"
+  },
+  {
+    "input": "What's better than telling people a stupid story and having them believe you?! [Stan draws a blank] Having them PAY you for it, stupid!\n",
+    "output": "But then, why me? Why do you need me to write something so badly?\n"
+  },
+  {
+    "input": "But then, why me? Why do you need me to write something so badly?\n",
+    "output": "Because if those people all think you're the reincarnation of L. Ron Hubbard, then they'll all buy your new writings, and you and I together will make three million dollars!\n"
+  },
+  {
+    "input": "Because if those people all think you're the reincarnation of L. Ron Hubbard, then they'll all buy your new writings, and you and I together will make three million dollars!\n",
+    "output": "Three million dollars?\n"
+  },
+  {
+    "input": "Three million dollars?\n",
+    "output": "That's how the scam works! But this is a scam on a global scale! Do you fucking get me now?! [leans in a bit]\n"
+  },
+  {
+    "input": "That's how the scam works! But this is a scam on a global scale! Do you fucking get me now?! [leans in a bit]\n",
+    "output": "Yeah. Yeah, I get you.\n"
+  },
+  {
+    "input": "Yeah. Yeah, I get you.\n",
+    "output": "Then keep writing, L. Ron! Your people are waiting.\n[Stan's house, outside. A news brief.]\n"
+  },
+  {
+    "input": "Then keep writing, L. Ron! Your people are waiting.\n[Stan's house, outside. A news brief.]\n",
+    "output": "Breaking news here in South Park. Tom Cruise and John Travolta still... will not come out of the closet. Park County police have decided to try a new method.\n[Stan's room. R. Kelly is there awaiting instructions. The police signal him towards the closet.]\n"
+  },
+  {
+    "input": "Breaking news here in South Park. Tom Cruise and John Travolta still... will not come out of the closet. Park County police have decided to try a new method.\n[Stan's room. R. Kelly is there awaiting instructions. The police signal him towards the closet.]\n",
+    "output": "Now I've been asked to come up here, get you both out of the closet Man, this is some crazy shit. Why won't you both just come out the closet? And they said...\n"
+  },
+  {
+    "input": "Now I've been asked to come up here, get you both out of the closet Man, this is some crazy shit. Why won't you both just come out the closet? And they said...\n",
+    "output": "We're not comin' out the closet, so you can just go away.\n"
+  },
+  {
+    "input": "We're not comin' out the closet, so you can just go away.\n",
+    "output": "But everyone wants you out the closet.\n"
+  },
+  {
+    "input": "But everyone wants you out the closet.\n",
+    "output": "That doesn't matter 'cause we're gonna stay.\n"
+  },
+  {
+    "input": "That doesn't matter 'cause we're gonna stay.\n",
+    "output": "Now I'm startin' to get angry, so I pull out my gun! [The group screams and runs away] I'm gonna give you count of three to open this closet door. One, I'm gonna shoot you both. Two, I'm gonna cap some bitch. Three... [Closet door opens. R. Kelly walks up to the closet door slowly. Then he goes inside, the closet door closes.] Now I'm in the closet. Now I'm in the closet too.\n[Stan's house, the next day.]\n"
+  },
+  {
+    "input": "Now I'm startin' to get angry, so I pull out my gun! [The group screams and runs away] I'm gonna give you count of three to open this closet door. One, I'm gonna shoot you both. Two, I'm gonna cap some bitch. Three... [Closet door opens. R. Kelly walks up to the closet door slowly. Then he goes inside, the closet door closes.] Now I'm in the closet. Now I'm in the closet too.\n[Stan's house, the next day.]\n",
+    "output": "My fellow Scientologists! Our prophet has finished his new doctrine, and will now read some passages before making it available to you all for a nominal fee. [the crowd cheers] I give you... the reincarnation of L. Ron Hubbard! [two officials bow and then spread roses before Stan's feet as he walks down a red carpet towards a marble stand with \"SCIENTOLOGY\" engraved along the front. Stan is dressed in toga and laurel. The crowd cheers wildly]\n"
+  },
+  {
+    "input": "My fellow Scientologists! Our prophet has finished his new doctrine, and will now read some passages before making it available to you all for a nominal fee. [the crowd cheers] I give you... the reincarnation of L. Ron Hubbard! [two officials bow and then spread roses before Stan's feet as he walks down a red carpet towards a marble stand with \"SCIENTOLOGY\" engraved along the front. Stan is dressed in toga and laurel. The crowd cheers wildly]\n",
+    "output": "Uh, thanks. So, first of all, I've written that the brainwashed alien ghosts are actually from a galaxy called Nubanon.\n"
+  },
+  {
+    "input": "Uh, thanks. So, first of all, I've written that the brainwashed alien ghosts are actually from a galaxy called Nubanon.\n",
+    "output": "Ohhhh.\n"
+  },
+  {
+    "input": "Ohhhh.\n",
+    "output": "Nubanon.\n"
+  },
+  {
+    "input": "Nubanon.\n",
+    "output": "And uh, oh, [hopeful faces look back at him] ...I ...I can't do this.\n"
+  },
+  {
+    "input": "And uh, oh, [hopeful faces look back at him] ...I ...I can't do this.\n",
+    "output": "Huh, what?\n"
+  },
+  {
+    "input": "Huh, what?\n",
+    "output": "Look, everybody, we're all looking for answer, you know. We all want to understand who we are and where we come from, but... sometimes we want to know the answers so badly that we... believe just about anything.\n"
+  },
+  {
+    "input": "Look, everybody, we're all looking for answer, you know. We all want to understand who we are and where we come from, but... sometimes we want to know the answers so badly that we... believe just about anything.\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[takes off his laurel] I'm not the reincarnation of L. Ron Hubbard. And... Scientology is just a big fat global scam.\n"
+  },
+  {
+    "input": "[takes off his laurel] I'm not the reincarnation of L. Ron Hubbard. And... Scientology is just a big fat global scam.\n",
+    "output": "Oh! We are gonna sue you!\n"
+  },
+  {
+    "input": "Oh! We are gonna sue you!\n",
+    "output": "What??\n"
+  },
+  {
+    "input": "What??\n",
+    "output": "Yeah, you think you can say our religion is a lie?! We'll sue you, buddy!\n"
+  },
+  {
+    "input": "Yeah, you think you can say our religion is a lie?! We'll sue you, buddy!\n",
+    "output": "YOU told me it was a lie!\n"
+  },
+  {
+    "input": "YOU told me it was a lie!\n",
+    "output": "Ho, now you're puttin' words in MY mouth! You are so sued!\n"
+  },
+  {
+    "input": "Ho, now you're puttin' words in MY mouth! You are so sued!\n",
+    "output": "You can't make fun of Scientology, kid! We are gonna sue your ass AND your balls!\n"
+  },
+  {
+    "input": "You can't make fun of Scientology, kid! We are gonna sue your ass AND your balls!\n",
+    "output": "Yeah, that's right!\n"
+  },
+  {
+    "input": "Yeah, that's right!\n",
+    "output": "How dare you mock our faith, you little punk?! You'll be hearing from our lawyers tomorrow!\n"
+  },
+  {
+    "input": "How dare you mock our faith, you little punk?! You'll be hearing from our lawyers tomorrow!\n",
+    "output": "We've just had an incredible development here, Mitch. Tom Cruise, John Travolta, and R. Kelly, have all come out of the closet! [The three of them come out the front door and Cruise releases R. Kelly, who moves off and out of view.]\n"
+  },
+  {
+    "input": "We've just had an incredible development here, Mitch. Tom Cruise, John Travolta, and R. Kelly, have all come out of the closet! [The three of them come out the front door and Cruise releases R. Kelly, who moves off and out of view.]\n",
+    "output": "[approaches Stan] So you're NOT the prophet, huh?! You made me look stupid! I'm gonna sue you too!\n"
+  },
+  {
+    "input": "[approaches Stan] So you're NOT the prophet, huh?! You made me look stupid! I'm gonna sue you too!\n",
+    "output": "Well fine! Go ahead and sue me!\n"
+  },
+  {
+    "input": "Well fine! Go ahead and sue me!\n",
+    "output": "I will! I'll sue you in England!\n"
+  },
+  {
+    "input": "I will! I'll sue you in England!\n",
+    "output": "You are so sued, kid!\n"
+  },
+  {
+    "input": "You are so sued, kid!\n",
+    "output": "Well go on, then! Sue me!\n"
+  },
+  {
+    "input": "Well go on, then! Sue me!\n",
+    "output": "We're going to!\n"
+  }
+]

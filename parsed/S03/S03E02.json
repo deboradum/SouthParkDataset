@@ -1,0 +1,1502 @@
+[
+  {
+    "input": "",
+    "output": "Spontaneous Combustion\n\n[General Store. The boys are shopping\u2026]\n"
+  },
+  {
+    "input": "Spontaneous Combustion\n\n[General Store. The boys are shopping\u2026]\n",
+    "output": "[with an air pump] Is this what you're looking for, Kyle?\n"
+  },
+  {
+    "input": "[with an air pump] Is this what you're looking for, Kyle?\n",
+    "output": "No, I don't think so.\n"
+  },
+  {
+    "input": "No, I don't think so.\n",
+    "output": "[bringing a hair dryer] (How about this?)\n"
+  },
+  {
+    "input": "[bringing a hair dryer] (How about this?)\n",
+    "output": "No, that's a hair dryer!\n"
+  },
+  {
+    "input": "No, that's a hair dryer!\n",
+    "output": "May I help you find something?\n"
+  },
+  {
+    "input": "May I help you find something?\n",
+    "output": "Yeah. Do you have any \"nurections\"?\n"
+  },
+  {
+    "input": "Yeah. Do you have any \"nurections\"?\n",
+    "output": "Any what?\n"
+  },
+  {
+    "input": "Any what?\n",
+    "output": "I need to get a nurection for my dad.\n"
+  },
+  {
+    "input": "I need to get a nurection for my dad.\n",
+    "output": "Very funny, boys. Go on, beat it. [gestures to the exit with his thumb]\n"
+  },
+  {
+    "input": "Very funny, boys. Go on, beat it. [gestures to the exit with his thumb]\n",
+    "output": "Why is that funny?\n"
+  },
+  {
+    "input": "Why is that funny?\n",
+    "output": "Dude, my mom and dad keep fighting all the time. And both of them say it's because my dad doesn't have a nurection. So I want to get him one. [the boys are suddenly outside, with the door slamming shut behind them] Damn it! What the hell is wrong with everybody? [the boys walk away]\n"
+  },
+  {
+    "input": "Dude, my mom and dad keep fighting all the time. And both of them say it's because my dad doesn't have a nurection. So I want to get him one. [the boys are suddenly outside, with the door slamming shut behind them] Damn it! What the hell is wrong with everybody? [the boys walk away]\n",
+    "output": "That's the fifth store we've been kicked out of. Why is it so hard to get a nurection?\n"
+  },
+  {
+    "input": "That's the fifth store we've been kicked out of. Why is it so hard to get a nurection?\n",
+    "output": "(I know, fucking seriously!)\n"
+  },
+  {
+    "input": "(I know, fucking seriously!)\n",
+    "output": "I just want a nurection so I can give it to my mom.\n"
+  },
+  {
+    "input": "I just want a nurection so I can give it to my mom.\n",
+    "output": "[walks by with his lady] What?\n"
+  },
+  {
+    "input": "[walks by with his lady] What?\n",
+    "output": "(Well, see you guys. I gotta go take the bus out of town.)\n"
+  },
+  {
+    "input": "(Well, see you guys. I gotta go take the bus out of town.)\n",
+    "output": "Oh, where are you gonna go, Kenny? You gonna see your little girlfriend again?\n"
+  },
+  {
+    "input": "Oh, where are you gonna go, Kenny? You gonna see your little girlfriend again?\n",
+    "output": "(Yeah, dude. She saved me.)\n"
+  },
+  {
+    "input": "(Yeah, dude. She saved me.)\n",
+    "output": "Dude, you spend way too much time with that girl. If you don't-\n"
+  },
+  {
+    "input": "Dude, you spend way too much time with that girl. If you don't-\n",
+    "output": "(Ach.) [Poof. Stan and Kyle turn. All three are left looking at a charred body]\n"
+  },
+  {
+    "input": "(Ach.) [Poof. Stan and Kyle turn. All three are left looking at a charred body]\n",
+    "output": "Oh my God, they killed Kenny!\n"
+  },
+  {
+    "input": "Oh my God, they killed Kenny!\n",
+    "output": "You bastards!\n"
+  },
+  {
+    "input": "You bastards!\n",
+    "output": "What the hell happened to him?\n"
+  },
+  {
+    "input": "What the hell happened to him?\n",
+    "output": "He just... ignited.\n"
+  },
+  {
+    "input": "He just... ignited.\n",
+    "output": "[rushing up] What happened?\n"
+  },
+  {
+    "input": "[rushing up] What happened?\n",
+    "output": "[rushing up] I saw it from across the street. He just caught on fire. [Barbrady drives up and screeches to a halt]\n"
+  },
+  {
+    "input": "[rushing up] I saw it from across the street. He just caught on fire. [Barbrady drives up and screeches to a halt]\n",
+    "output": "[rushes up to the boys] Okay people, stand back. Give the little burnt boy some breathing room.\n"
+  },
+  {
+    "input": "[rushes up to the boys] Okay people, stand back. Give the little burnt boy some breathing room.\n",
+    "output": "I've heard about this. This is... spontaneous combustion. But it usually only happens to fat people near open flames.\n"
+  },
+  {
+    "input": "I've heard about this. This is... spontaneous combustion. But it usually only happens to fat people near open flames.\n",
+    "output": "Is it contagious?\n"
+  },
+  {
+    "input": "Is it contagious?\n",
+    "output": "Am I going to spontaneously combust?\n"
+  },
+  {
+    "input": "Am I going to spontaneously combust?\n",
+    "output": "I hope it doesn't happen to me.\n"
+  },
+  {
+    "input": "I hope it doesn't happen to me.\n",
+    "output": "This is very scary.\n[City Hall,the Mayor's office. The Mayor is talking with someone.]\n"
+  },
+  {
+    "input": "This is very scary.\n[City Hall,the Mayor's office. The Mayor is talking with someone.]\n",
+    "output": "The people are panicking about spontaneous combustion. That's why I've assembled this crack team of scientists to find out the cause of the phenomenon. You are the best scientific mind South Park has to offer.\n"
+  },
+  {
+    "input": "The people are panicking about spontaneous combustion. That's why I've assembled this crack team of scientists to find out the cause of the phenomenon. You are the best scientific mind South Park has to offer.\n",
+    "output": "...Uuuh. Mayor, I'm a geologist.\n"
+  },
+  {
+    "input": "...Uuuh. Mayor, I'm a geologist.\n",
+    "output": "Right.\n"
+  },
+  {
+    "input": "Right.\n",
+    "output": "Well, uh I don't study human biology, I study the earth.\n"
+  },
+  {
+    "input": "Well, uh I don't study human biology, I study the earth.\n",
+    "output": "Look, you're the only scientist that lives in this town. You have to find an answer before more people combust. You do that, and you'll be the most beloved man in South Park. [Randy begins to daydream]\n[The Most Beloved Man In South Park. Hands move him over the crowd.]\n"
+  },
+  {
+    "input": "Look, you're the only scientist that lives in this town. You have to find an answer before more people combust. You do that, and you'll be the most beloved man in South Park. [Randy begins to daydream]\n[The Most Beloved Man In South Park. Hands move him over the crowd.]\n",
+    "output": "Randy! Randy! Randy! Randy!\n"
+  },
+  {
+    "input": "Randy! Randy! Randy! Randy!\n",
+    "output": "We love you, Randy.\n"
+  },
+  {
+    "input": "We love you, Randy.\n",
+    "output": "[rushing up] Make love to me, Randy. Please!\n[Returns.]\n"
+  },
+  {
+    "input": "[rushing up] Make love to me, Randy. Please!\n[Returns.]\n",
+    "output": "Wow.\n"
+  },
+  {
+    "input": "Wow.\n",
+    "output": "Marsh, I'm not asking you, I'm telling you! Find the cause of spontaneous combustion, or else!\n"
+  },
+  {
+    "input": "Marsh, I'm not asking you, I'm telling you! Find the cause of spontaneous combustion, or else!\n",
+    "output": "Or else what?\n"
+  },
+  {
+    "input": "Or else what?\n",
+    "output": "[pounds on her desk] Exactly!\n[First Church of South Park. The organ is heard as people gather for Kenny's funeral. Inside, Stan and Kyle hop up to the bier the coffin is on. Cartman tries a couple of times and finally makes it.]\n"
+  },
+  {
+    "input": "[pounds on her desk] Exactly!\n[First Church of South Park. The organ is heard as people gather for Kenny's funeral. Inside, Stan and Kyle hop up to the bier the coffin is on. Cartman tries a couple of times and finally makes it.]\n",
+    "output": "Dude, he looks so peaceful without his little orange coat on.\n"
+  },
+  {
+    "input": "Dude, he looks so peaceful without his little orange coat on.\n",
+    "output": "Yeah. [The boys hop off the bier and move to the front row for the service as Priest Maxi approaches the coffin. He opens the Bible and reads]\n"
+  },
+  {
+    "input": "Yeah. [The boys hop off the bier and move to the front row for the service as Priest Maxi approaches the coffin. He opens the Bible and reads]\n",
+    "output": "The Lord giveth and the Lord taketh away. Sometimes the giveth seems a little disproportionate to the taketh. There seems to be a lot more takething going on, but there it is. Perhaps if more of you attended church on Sundays [Kevin falls asleep, Stuart reads Gazongas magazine and checks out its centerfold while his wife sniffs], the Lord would not have felt it necessary to punish us by takething this little boy\u2026\n"
+  },
+  {
+    "input": "The Lord giveth and the Lord taketh away. Sometimes the giveth seems a little disproportionate to the taketh. There seems to be a lot more takething going on, but there it is. Perhaps if more of you attended church on Sundays [Kevin falls asleep, Stuart reads Gazongas magazine and checks out its centerfold while his wife sniffs], the Lord would not have felt it necessary to punish us by takething this little boy\u2026\n",
+    "output": "[to man to his left] Oh, here comes the guilt trip again.\n"
+  },
+  {
+    "input": "[to man to his left] Oh, here comes the guilt trip again.\n",
+    "output": "Now, let us pray. [all close their eyes and bow their heads] Lord, though we have lost Neil Smith to free agency and Steve Atwater to the Jets, still, we hope our beloved Broncos can bring home another Super Bowl championship, and once again bathe in the glory of your light. Amen.\n"
+  },
+  {
+    "input": "Now, let us pray. [all close their eyes and bow their heads] Lord, though we have lost Neil Smith to free agency and Steve Atwater to the Jets, still, we hope our beloved Broncos can bring home another Super Bowl championship, and once again bathe in the glory of your light. Amen.\n",
+    "output": "Amen.\n"
+  },
+  {
+    "input": "Amen.\n",
+    "output": "[raises left arm and fist] Let's go-\n"
+  },
+  {
+    "input": "[raises left arm and fist] Let's go-\n",
+    "output": "Let\u2019s go\n"
+  },
+  {
+    "input": "Let\u2019s go\n",
+    "output": "Broncos\n"
+  },
+  {
+    "input": "Broncos\n",
+    "output": "Broncos\n"
+  },
+  {
+    "input": "Broncos\n",
+    "output": "Let\u2019s go Broncos\n"
+  },
+  {
+    "input": "Let\u2019s go Broncos\n",
+    "output": "Broncos, let's go! [The priest extends the fist and all rise and exit. Three men carry the coffin out]\n"
+  },
+  {
+    "input": "Broncos, let's go! [The priest extends the fist and all rise and exit. Three men carry the coffin out]\n",
+    "output": "Wow, that was short. [Priest Maxi stops them as they leave the pew]\n"
+  },
+  {
+    "input": "Wow, that was short. [Priest Maxi stops them as they leave the pew]\n",
+    "output": "Boys, I haven't seen you in church lately.\n"
+  },
+  {
+    "input": "Boys, I haven't seen you in church lately.\n",
+    "output": "Well, I'm Jewish.\n"
+  },
+  {
+    "input": "Well, I'm Jewish.\n",
+    "output": "You're not too Jewish to worship Jesus, are you?\n"
+  },
+  {
+    "input": "You're not too Jewish to worship Jesus, are you?\n",
+    "output": "I guess not.\n"
+  },
+  {
+    "input": "I guess not.\n",
+    "output": "Good. Boys, how would you like to perform the Stations of the Cross this Friday night?\n"
+  },
+  {
+    "input": "Good. Boys, how would you like to perform the Stations of the Cross this Friday night?\n",
+    "output": "The what?\n"
+  },
+  {
+    "input": "The what?\n",
+    "output": "It's like a skit, where you reenact the death and glorious resurrection of Jesus Christ.\n"
+  },
+  {
+    "input": "It's like a skit, where you reenact the death and glorious resurrection of Jesus Christ.\n",
+    "output": "Hey, resurrection! That's what my dad needs!\n"
+  },
+  {
+    "input": "Hey, resurrection! That's what my dad needs!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "We'll do it! We'll do it!\n"
+  },
+  {
+    "input": "We'll do it! We'll do it!\n",
+    "output": "Wonderful. Here's a book on how to perform it. Don't let me down, boys. [hands it to Kyle and walks away. The cover shows two excited kids under a radiant cross]\n"
+  },
+  {
+    "input": "Wonderful. Here's a book on how to perform it. Don't let me down, boys. [hands it to Kyle and walks away. The cover shows two excited kids under a radiant cross]\n",
+    "output": "Dude, this is great! You know all the Stations of the Cross, right, Stan?\n"
+  },
+  {
+    "input": "Dude, this is great! You know all the Stations of the Cross, right, Stan?\n",
+    "output": "I don't know, dude. I'm gonna have to go look in the Bible.\n[Outside, some of the churchgoers are still around.]\n"
+  },
+  {
+    "input": "I don't know, dude. I'm gonna have to go look in the Bible.\n[Outside, some of the churchgoers are still around.]\n",
+    "output": "Good night, Jerry.\n"
+  },
+  {
+    "input": "Good night, Jerry.\n",
+    "output": "See ya, Tom. Bye, Helen.\n"
+  },
+  {
+    "input": "See ya, Tom. Bye, Helen.\n",
+    "output": "Bye, Jer- aaa! [poof. Now she combusted]\n"
+  },
+  {
+    "input": "Bye, Jer- aaa! [poof. Now she combusted]\n",
+    "output": "Oh my God, another one.\n"
+  },
+  {
+    "input": "Oh my God, another one.\n",
+    "output": "Helen, no!\n"
+  },
+  {
+    "input": "Helen, no!\n",
+    "output": "What happened?\n"
+  },
+  {
+    "input": "What happened?\n",
+    "output": "[consoling Tom] God must be very angry with us. But why? [looks to the heavens] How have we angered you, Lord?\n[Stan's house. Randy's in the basement doing preliminary work. He's working on some chemical reactions when the boys come down.]\n"
+  },
+  {
+    "input": "[consoling Tom] God must be very angry with us. But why? [looks to the heavens] How have we angered you, Lord?\n[Stan's house. Randy's in the basement doing preliminary work. He's working on some chemical reactions when the boys come down.]\n",
+    "output": "[to himself] Well, let's see. If they combust... no. Could be from the... no.\n"
+  },
+  {
+    "input": "[to himself] Well, let's see. If they combust... no. Could be from the... no.\n",
+    "output": "Dad, where's our Bible?\n"
+  },
+  {
+    "input": "Dad, where's our Bible?\n",
+    "output": "Not now, Stan. I have to find out what causes spontaneous combustion. Or else.\n"
+  },
+  {
+    "input": "Not now, Stan. I have to find out what causes spontaneous combustion. Or else.\n",
+    "output": "Or else what?\n"
+  },
+  {
+    "input": "Or else what?\n",
+    "output": "Exactly.\n"
+  },
+  {
+    "input": "Exactly.\n",
+    "output": "...What?\n"
+  },
+  {
+    "input": "...What?\n",
+    "output": "Right.\n"
+  },
+  {
+    "input": "Right.\n",
+    "output": "[after a long pause] Where's our Bible?\n"
+  },
+  {
+    "input": "[after a long pause] Where's our Bible?\n",
+    "output": "It's in the attic with the old LP's. [the boys start up the stairs...] Boys, did you notice anything uuuh strange about Kenny in the weeks leading up to his combustion? Ooh, what did he spend his time doing?\n"
+  },
+  {
+    "input": "It's in the attic with the old LP's. [the boys start up the stairs...] Boys, did you notice anything uuuh strange about Kenny in the weeks leading up to his combustion? Ooh, what did he spend his time doing?\n",
+    "output": "He didn't do anything. He was always with his new girlfriend.\n"
+  },
+  {
+    "input": "He didn't do anything. He was always with his new girlfriend.\n",
+    "output": "New girlfriend?\n"
+  },
+  {
+    "input": "New girlfriend?\n",
+    "output": "Yeah, he started seeing this girl and he spent a lot of time taking the bus to go visit her. What does that have to do with his death?\n"
+  },
+  {
+    "input": "Yeah, he started seeing this girl and he spent a lot of time taking the bus to go visit her. What does that have to do with his death?\n",
+    "output": "Maybe nothing... [close up] maybe everything.\n"
+  },
+  {
+    "input": "Maybe nothing... [close up] maybe everything.\n",
+    "output": "...Well, we're gonna go work on getting Kyle's dad a nurection. [the boys go up the stairs and exit]\n"
+  },
+  {
+    "input": "...Well, we're gonna go work on getting Kyle's dad a nurection. [the boys go up the stairs and exit]\n",
+    "output": "[resumes the reactions] Yes, yes, of course. I've got work to do. [the door closes] What?!\n[Stan's room. Stan reads from the Stations of the Cross booklet while Kyle reads from the Bible.]\n"
+  },
+  {
+    "input": "[resumes the reactions] Yes, yes, of course. I've got work to do. [the door closes] What?!\n[Stan's room. Stan reads from the Stations of the Cross booklet while Kyle reads from the Bible.]\n",
+    "output": "Let's see: Jesus got crucified, then he died, then three days later he had his urection. Let's see, there's fourteen Stations of the Cross. Now, it says we can makes costumes out of sheets.\n"
+  },
+  {
+    "input": "Let's see: Jesus got crucified, then he died, then three days later he had his urection. Let's see, there's fourteen Stations of the Cross. Now, it says we can makes costumes out of sheets.\n",
+    "output": "This is gonna be fun.\n"
+  },
+  {
+    "input": "This is gonna be fun.\n",
+    "output": "I'm gonna be Jesus!\n"
+  },
+  {
+    "input": "I'm gonna be Jesus!\n",
+    "output": "You're too fat to be Jesus!\n"
+  },
+  {
+    "input": "You're too fat to be Jesus!\n",
+    "output": "Oh, and like you're gonna do it, Jew?!\n"
+  },
+  {
+    "input": "Oh, and like you're gonna do it, Jew?!\n",
+    "output": "Stan should be Jesus.\n"
+  },
+  {
+    "input": "Stan should be Jesus.\n",
+    "output": "Either I'm Jesus, or else, screw you guys, I'm going home! [gestures his intent.]\n"
+  },
+  {
+    "input": "Either I'm Jesus, or else, screw you guys, I'm going home! [gestures his intent.]\n",
+    "output": "You're such a fat baby!\n"
+  },
+  {
+    "input": "You're such a fat baby!\n",
+    "output": "Well, I guess you guys can do the Stations of the Cross by yourselves. [gestures again, and again]\n"
+  },
+  {
+    "input": "Well, I guess you guys can do the Stations of the Cross by yourselves. [gestures again, and again]\n",
+    "output": "All right, all right, you could be Jesus, you tubby cry-baby!\n"
+  },
+  {
+    "input": "All right, all right, you could be Jesus, you tubby cry-baby!\n",
+    "output": "[retorts] Stick and stones may break my bones, but I'm Jesus and you aren't.\n[Back in the basement\u2026]\n"
+  },
+  {
+    "input": "[retorts] Stick and stones may break my bones, but I'm Jesus and you aren't.\n[Back in the basement\u2026]\n",
+    "output": "All right, all right, let's try it again. Kenny was standing here. Stan, Kyle and Cartman were walking around him. [four men dressed as the boys stand before him] Now, walk. [the men move around] Do you feel hot?\n"
+  },
+  {
+    "input": "All right, all right, let's try it again. Kenny was standing here. Stan, Kyle and Cartman were walking around him. [four men dressed as the boys stand before him] Now, walk. [the men move around] Do you feel hot?\n",
+    "output": "Uh, no.\n"
+  },
+  {
+    "input": "Uh, no.\n",
+    "output": "Damn it! How come you're not combusting? [throws down his clipboard]\n"
+  },
+  {
+    "input": "Damn it! How come you're not combusting? [throws down his clipboard]\n",
+    "output": "Come on, Randy. You said we were gonna drink beer and watch the fight.\n"
+  },
+  {
+    "input": "Come on, Randy. You said we were gonna drink beer and watch the fight.\n",
+    "output": "[rushing in with several other people] Another one! Another one combusted! [pours out the ashes for Randy to see]\n"
+  },
+  {
+    "input": "[rushing in with several other people] Another one! Another one combusted! [pours out the ashes for Randy to see]\n",
+    "output": "No! Has she been doing anything odd?\n"
+  },
+  {
+    "input": "No! Has she been doing anything odd?\n",
+    "output": "No, she was just on her way to her new boyfriend's house.\n"
+  },
+  {
+    "input": "No, she was just on her way to her new boyfriend's house.\n",
+    "output": "Boyfriend. And they said Kenny had a new girlfriend.\n"
+  },
+  {
+    "input": "Boyfriend. And they said Kenny had a new girlfriend.\n",
+    "output": "This is stupid. Screw you guys, I'm going home. [walks off]\n"
+  },
+  {
+    "input": "This is stupid. Screw you guys, I'm going home. [walks off]\n",
+    "output": "No! I think I might have it.\n[The First Church of South Park, night of Good Friday.]\n"
+  },
+  {
+    "input": "No! I think I might have it.\n[The First Church of South Park, night of Good Friday.]\n",
+    "output": "Well, well, well. A lot of you came to church. Looks like we're a little \"nervous\" about this spontaneous combustion thing, huh?\n"
+  },
+  {
+    "input": "Well, well, well. A lot of you came to church. Looks like we're a little \"nervous\" about this spontaneous combustion thing, huh?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Well, on this blessed Friday let us give thanks for stuff, and things. [all bow their heads] Lord, is it so much to ask that you not let us suddenly burst into flame for no apparent reason? I mean, come on! Amen. [Stan and Kyle approach the pulpit, followed by Cartman] And now, some of our darling local children are going to perform the Stations of the Cross. [leaves, and Stan takes over]\n"
+  },
+  {
+    "input": "Well, on this blessed Friday let us give thanks for stuff, and things. [all bow their heads] Lord, is it so much to ask that you not let us suddenly burst into flame for no apparent reason? I mean, come on! Amen. [Stan and Kyle approach the pulpit, followed by Cartman] And now, some of our darling local children are going to perform the Stations of the Cross. [leaves, and Stan takes over]\n",
+    "output": "Awww.\n"
+  },
+  {
+    "input": "Awww.\n",
+    "output": "Station One: Jesus is condemned to death by Pilate.\n"
+  },
+  {
+    "input": "Station One: Jesus is condemned to death by Pilate.\n",
+    "output": "Die! [hits Cartman, dressed as Jesus, with a stick]\n"
+  },
+  {
+    "input": "Die! [hits Cartman, dressed as Jesus, with a stick]\n",
+    "output": "Ow! You can do what you will, but I am the Lamb of God.\n"
+  },
+  {
+    "input": "Ow! You can do what you will, but I am the Lamb of God.\n",
+    "output": "Awww.\n"
+  },
+  {
+    "input": "Awww.\n",
+    "output": "Phew.\n"
+  },
+  {
+    "input": "Phew.\n",
+    "output": "Station Two: Jesus takes his cross.\n"
+  },
+  {
+    "input": "Station Two: Jesus takes his cross.\n",
+    "output": "[now carrying the cross] This cross is seriously heavy. Oh man, this is totally weak.\n"
+  },
+  {
+    "input": "[now carrying the cross] This cross is seriously heavy. Oh man, this is totally weak.\n",
+    "output": "And then Jesus' disciple, Peter, denies he knows him. [this is not part of the Stations]\n"
+  },
+  {
+    "input": "And then Jesus' disciple, Peter, denies he knows him. [this is not part of the Stations]\n",
+    "output": "Peter!\n"
+  },
+  {
+    "input": "Peter!\n",
+    "output": "I don't know you, dude.\n"
+  },
+  {
+    "input": "I don't know you, dude.\n",
+    "output": "Oh, Peter. Weak, Peter. Lame. But I'm Jesus, so I'll forgive you, I guess.\n[Night, the Mayor's office. She's wearing a mud mask in bed and reading Gazongas. The phone rings.]\n"
+  },
+  {
+    "input": "Oh, Peter. Weak, Peter. Lame. But I'm Jesus, so I'll forgive you, I guess.\n[Night, the Mayor's office. She's wearing a mud mask in bed and reading Gazongas. The phone rings.]\n",
+    "output": "Mayor.\n"
+  },
+  {
+    "input": "Mayor.\n",
+    "output": "[calling from his lab] Mayor, I have it. I found out why people spontaneously combust.\n"
+  },
+  {
+    "input": "[calling from his lab] Mayor, I have it. I found out why people spontaneously combust.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Uh, it's too complicated to explain over the phone. [his clipboard indicates].\nGirlfriend --> DEAD\nBoyfriend --> DEAD\nCall a town meeting tomorrow\n"
+  },
+  {
+    "input": "Uh, it's too complicated to explain over the phone. [his clipboard indicates].\nGirlfriend --> DEAD\nBoyfriend --> DEAD\nCall a town meeting tomorrow\n",
+    "output": "Okay. If you're right about this, Marsh, you're going to be the most popular man in South Park.\n[The Most Popular Man In South Park. Hands move him over the crowd.]\n"
+  },
+  {
+    "input": "Okay. If you're right about this, Marsh, you're going to be the most popular man in South Park.\n[The Most Popular Man In South Park. Hands move him over the crowd.]\n",
+    "output": "Randy! Randy! Randy! Randy!\n"
+  },
+  {
+    "input": "Randy! Randy! Randy! Randy!\n",
+    "output": "We love you, Randy.\n"
+  },
+  {
+    "input": "We love you, Randy.\n",
+    "output": "[rushing up] Make love to me, Randy. Please!\n[Returns.]\n"
+  },
+  {
+    "input": "[rushing up] Make love to me, Randy. Please!\n[Returns.]\n",
+    "output": "Wow. [hangs up the phone]\n"
+  },
+  {
+    "input": "Wow. [hangs up the phone]\n",
+    "output": "[hangs up the phone] Shmuck!\n[At the church, Stan continues the Stations. Cartman is stripped to his underwear.]\n"
+  },
+  {
+    "input": "[hangs up the phone] Shmuck!\n[At the church, Stan continues the Stations. Cartman is stripped to his underwear.]\n",
+    "output": "Station Eleven: Jesus is nailed to the cross. [Kyle has tied Cartman to it]\n"
+  },
+  {
+    "input": "Station Eleven: Jesus is nailed to the cross. [Kyle has tied Cartman to it]\n",
+    "output": "Oh! This has gone from weak to superweak! Things cannot get any more weak for me.\n"
+  },
+  {
+    "input": "Oh! This has gone from weak to superweak! Things cannot get any more weak for me.\n",
+    "output": "[produces a crown of thorns] Then a crown of thorns was placed on Jesus's head, and Jesus was all like, \"Thanks.\"\n"
+  },
+  {
+    "input": "[produces a crown of thorns] Then a crown of thorns was placed on Jesus's head, and Jesus was all like, \"Thanks.\"\n",
+    "output": "Well, this sucks that I have to die, but if I die, everyone's sins will be forgiven. [Stan replaces Cartman's cap with the crown] So I guess it's cool. [Stan returns to the pulpit]\n"
+  },
+  {
+    "input": "Well, this sucks that I have to die, but if I die, everyone's sins will be forgiven. [Stan replaces Cartman's cap with the crown] So I guess it's cool. [Stan returns to the pulpit]\n",
+    "output": "And then Jesus was lead away [Kyle leads Cartman out] to Mount Sinai, where he dies, and has a resurrection three days later.\n"
+  },
+  {
+    "input": "And then Jesus was lead away [Kyle leads Cartman out] to Mount Sinai, where he dies, and has a resurrection three days later.\n",
+    "output": "[on his way out the door] Hi, mom. [Stan leaves the pulpit and the priest returns]\n"
+  },
+  {
+    "input": "[on his way out the door] Hi, mom. [Stan leaves the pulpit and the priest returns]\n",
+    "output": "Thank you, boys. Blessed be the name of Jesus!\n"
+  },
+  {
+    "input": "Thank you, boys. Blessed be the name of Jesus!\n",
+    "output": "It's a great name, isn't it? [Stan exits]\n[Stan and Kyle now carry Cartman on the cross and are headed towards a hill. Kyle has the heavier end.]\n"
+  },
+  {
+    "input": "It's a great name, isn't it? [Stan exits]\n[Stan and Kyle now carry Cartman on the cross and are headed towards a hill. Kyle has the heavier end.]\n",
+    "output": "Hey, that went really well. They really liked it.\n"
+  },
+  {
+    "input": "Hey, that went really well. They really liked it.\n",
+    "output": "Yeah. I told you I'd be a sweet Jesus, you guys.\n"
+  },
+  {
+    "input": "Yeah. I told you I'd be a sweet Jesus, you guys.\n",
+    "output": "Aw man, at least the real Jesus didn't weigh 400 pounds!\n"
+  },
+  {
+    "input": "Aw man, at least the real Jesus didn't weigh 400 pounds!\n",
+    "output": "Up your ass with broken glass!\n"
+  },
+  {
+    "input": "Up your ass with broken glass!\n",
+    "output": "This spot looks good. [they drop the foot of the cross into the spot and lift the rest of the cross upright, then leave]\n"
+  },
+  {
+    "input": "This spot looks good. [they drop the foot of the cross into the spot and lift the rest of the cross upright, then leave]\n",
+    "output": "Yeah. That looks pretty good.\n"
+  },
+  {
+    "input": "Yeah. That looks pretty good.\n",
+    "output": "Okay, cool. See you, Cartman.\n"
+  },
+  {
+    "input": "Okay, cool. See you, Cartman.\n",
+    "output": "Hey, wait! Where the hell are you going?! [they stop and turn]\n"
+  },
+  {
+    "input": "Hey, wait! Where the hell are you going?! [they stop and turn]\n",
+    "output": "Huh I don't know. I'm going home, I guess.\n"
+  },
+  {
+    "input": "Huh I don't know. I'm going home, I guess.\n",
+    "output": "Yeah, me too.\n"
+  },
+  {
+    "input": "Yeah, me too.\n",
+    "output": "Well, get me down from here!\n"
+  },
+  {
+    "input": "Well, get me down from here!\n",
+    "output": "Cartman, how stupid are you?! Didn't you read the Bible? We have to leave you up there until you die, and then you come back to life in three days.\n"
+  },
+  {
+    "input": "Cartman, how stupid are you?! Didn't you read the Bible? We have to leave you up there until you die, and then you come back to life in three days.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Yeah, dummy, you have to get a nurection.\n"
+  },
+  {
+    "input": "Yeah, dummy, you have to get a nurection.\n",
+    "output": "Then I can give it to my dad. [both turn and leave]\n"
+  },
+  {
+    "input": "Then I can give it to my dad. [both turn and leave]\n",
+    "output": "Hey, uh I don't wanna be Jesus anymore! Don't leave me here, you guys! ...All right, that does it! Screw you guys, I'm going home! [looks around] Okay, I'm getting pissed now! [struggles to get loose, but doesn't get anywhere] God!\n[City Hall, the next day. Stan and Kyle are present for the Mayor's announcement, along with much of the town.]\n"
+  },
+  {
+    "input": "Hey, uh I don't wanna be Jesus anymore! Don't leave me here, you guys! ...All right, that does it! Screw you guys, I'm going home! [looks around] Okay, I'm getting pissed now! [struggles to get loose, but doesn't get anywhere] God!\n[City Hall, the next day. Stan and Kyle are present for the Mayor's announcement, along with much of the town.]\n",
+    "output": "All right, people. Scientist Marsh and I have been working very hard on the problem of spontaneous combustion, and we have finally come up with a solution. Mr. Marsh?\n"
+  },
+  {
+    "input": "All right, people. Scientist Marsh and I have been working very hard on the problem of spontaneous combustion, and we have finally come up with a solution. Mr. Marsh?\n",
+    "output": "[approaches with a large book] The little boy combusted because he had a new girlfriend. It wasn't the girl that caused him to combust, it was the fact that Kenny did not want to pass gas in front of her. [displays a diagram of the digestive system] You see, as food is digested the natural processes give off a byproduct known as methane gas. [the next page is a diagram of the stomach, showing how food produces methane]\n"
+  },
+  {
+    "input": "[approaches with a large book] The little boy combusted because he had a new girlfriend. It wasn't the girl that caused him to combust, it was the fact that Kenny did not want to pass gas in front of her. [displays a diagram of the digestive system] You see, as food is digested the natural processes give off a byproduct known as methane gas. [the next page is a diagram of the stomach, showing how food produces methane]\n",
+    "output": "The methane gathers here in the bowel area [shows the intestines, or the bowels], where it causes pressure. Normally a person would expel this byproduct in the form of a pleasant fart. [shows the colon, where the gas collects and moves out] Should the gas not be expelled, [shows the gas trapped in the bowels] the methane can build up and then ignite, [shows the bowels exploding] leading to... disaster. [shows picture of Jocelyn Wildenstein, then closes the book] Kenny combusted because he held his farts in for too long.\n"
+  },
+  {
+    "input": "The methane gathers here in the bowel area [shows the intestines, or the bowels], where it causes pressure. Normally a person would expel this byproduct in the form of a pleasant fart. [shows the colon, where the gas collects and moves out] Should the gas not be expelled, [shows the gas trapped in the bowels] the methane can build up and then ignite, [shows the bowels exploding] leading to... disaster. [shows picture of Jocelyn Wildenstein, then closes the book] Kenny combusted because he held his farts in for too long.\n",
+    "output": "You mean, all we have to do is fart and we won't explode?\n"
+  },
+  {
+    "input": "You mean, all we have to do is fart and we won't explode?\n",
+    "output": "Exactly. [after a while, a fart is heard, then more farts follow as the townsfolk release their gases]\n"
+  },
+  {
+    "input": "Exactly. [after a while, a fart is heard, then more farts follow as the townsfolk release their gases]\n",
+    "output": "So, from this day forward, everyone in South Park will be required to fart on a regular basis to insure that nobody else spontaneously explodes.\n"
+  },
+  {
+    "input": "So, from this day forward, everyone in South Park will be required to fart on a regular basis to insure that nobody else spontaneously explodes.\n",
+    "output": "Randy! Randy! Randy! Randy! [Randy waves back gratefully]\n"
+  },
+  {
+    "input": "Randy! Randy! Randy! Randy! [Randy waves back gratefully]\n",
+    "output": "We love you, Randy.\n"
+  },
+  {
+    "input": "We love you, Randy.\n",
+    "output": "[in a wheelchair] Make love to me, Randy. Please!\n"
+  },
+  {
+    "input": "[in a wheelchair] Make love to me, Randy. Please!\n",
+    "output": "Whoa, dude, my dad's famous.\n"
+  },
+  {
+    "input": "Whoa, dude, my dad's famous.\n",
+    "output": "Come on. Let's go see how Cartman is doing with his uh, urection.\n[The boys go to the hill on which they left Cartman on the cross.]\n"
+  },
+  {
+    "input": "Come on. Let's go see how Cartman is doing with his uh, urection.\n[The boys go to the hill on which they left Cartman on the cross.]\n",
+    "output": "Wow, he died.\n"
+  },
+  {
+    "input": "Wow, he died.\n",
+    "output": "Now we just gotta wait for his urection, and I can give it to my dad.\n"
+  },
+  {
+    "input": "Now we just gotta wait for his urection, and I can give it to my dad.\n",
+    "output": "[wakes up] Hey, there you guys are!\n"
+  },
+  {
+    "input": "[wakes up] Hey, there you guys are!\n",
+    "output": "Cartman??\n"
+  },
+  {
+    "input": "Cartman??\n",
+    "output": "You guys are in big trouble! Now get me down from here!\n"
+  },
+  {
+    "input": "You guys are in big trouble! Now get me down from here!\n",
+    "output": "How come you're not dead yet, Cartman?!\n"
+  },
+  {
+    "input": "How come you're not dead yet, Cartman?!\n",
+    "output": "You guys, I mean, seriously! Get me down!\n"
+  },
+  {
+    "input": "You guys, I mean, seriously! Get me down!\n",
+    "output": "Look, fatass: after you die and get resurrurected, you'll have all kinds of superpowers, just like Jesus.\n"
+  },
+  {
+    "input": "Look, fatass: after you die and get resurrurected, you'll have all kinds of superpowers, just like Jesus.\n",
+    "output": "...Really?\n"
+  },
+  {
+    "input": "...Really?\n",
+    "output": "Yeah. So hurry up and die, you piece of crap! [he and Stan leave]\n"
+  },
+  {
+    "input": "Yeah. So hurry up and die, you piece of crap! [he and Stan leave]\n",
+    "output": "[watches them leave] ...When I get all my superpowers, I'm gonna use them to smote you two assholes right off the planet! [to himself] Dude, superpowers are sweet.\n[The boys are back in town, and they run across Mr. Mackey.]\n"
+  },
+  {
+    "input": "[watches them leave] ...When I get all my superpowers, I'm gonna use them to smote you two assholes right off the planet! [to himself] Dude, superpowers are sweet.\n[The boys are back in town, and they run across Mr. Mackey.]\n",
+    "output": "Hi, boys.\n"
+  },
+  {
+    "input": "Hi, boys.\n",
+    "output": "[imitating him] Hi, Mr. Mackey.\n"
+  },
+  {
+    "input": "[imitating him] Hi, Mr. Mackey.\n",
+    "output": "Have you guys been sure to pass gas regularly so you don't spontaneously combust?\n"
+  },
+  {
+    "input": "Have you guys been sure to pass gas regularly so you don't spontaneously combust?\n",
+    "output": "We know how to fart, Mr. Mackey!\n"
+  },
+  {
+    "input": "We know how to fart, Mr. Mackey!\n",
+    "output": "Well, let me show you, just to be sure, m'kay? [moves his bowels as he hums,] Hmm, come on. Be good, now. [slaps his butt and lets loose]\n"
+  },
+  {
+    "input": "Well, let me show you, just to be sure, m'kay? [moves his bowels as he hums,] Hmm, come on. Be good, now. [slaps his butt and lets loose]\n",
+    "output": "Jesus Christ! [the boys cover their noses with their jackets]\n"
+  },
+  {
+    "input": "Jesus Christ! [the boys cover their noses with their jackets]\n",
+    "output": "Sick, dude!\n"
+  },
+  {
+    "input": "Sick, dude!\n",
+    "output": "I had a steak wrapped with bacon last night. [laughs]\n"
+  },
+  {
+    "input": "I had a steak wrapped with bacon last night. [laughs]\n",
+    "output": "Dude, I think you pooed a lot.\n"
+  },
+  {
+    "input": "Dude, I think you pooed a lot.\n",
+    "output": "So, you boys understand you have to do that regularly, oh-mkay? [laughs]\n"
+  },
+  {
+    "input": "So, you boys understand you have to do that regularly, oh-mkay? [laughs]\n",
+    "output": "Okay, okay, just go away! [Mr. Mackey leaves laughing, and the boys walk on]\n"
+  },
+  {
+    "input": "Okay, okay, just go away! [Mr. Mackey leaves laughing, and the boys walk on]\n",
+    "output": "God, that was not cool at all, dude!\n"
+  },
+  {
+    "input": "God, that was not cool at all, dude!\n",
+    "output": "Oh, hello boys. Have you seen Eric around anywhere?\n"
+  },
+  {
+    "input": "Oh, hello boys. Have you seen Eric around anywhere?\n",
+    "output": "Uh. We've been taking care of him.\n"
+  },
+  {
+    "input": "Uh. We've been taking care of him.\n",
+    "output": "Yeah. We're having him resurrurected.\n"
+  },
+  {
+    "input": "Yeah. We're having him resurrurected.\n",
+    "output": "Oh, all right. I was just at the store buying some apples.\n"
+  },
+  {
+    "input": "Oh, all right. I was just at the store buying some apples.\n",
+    "output": "Apples?\n"
+  },
+  {
+    "input": "Apples?\n",
+    "output": "Yes. Apples. [farts] Ahapples, get it? [the boys cover their noses again]\n"
+  },
+  {
+    "input": "Yes. Apples. [farts] Ahapples, get it? [the boys cover their noses again]\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "Sick!\n"
+  },
+  {
+    "input": "Sick!\n",
+    "output": "Stinky apples. See you, boys. [leaves]\n"
+  },
+  {
+    "input": "Stinky apples. See you, boys. [leaves]\n",
+    "output": "I don't think I like this new law.\n"
+  },
+  {
+    "input": "I don't think I like this new law.\n",
+    "output": "[returns] Squeaker! [farts, then leaves]\n[The boys return to City Hall to see the rest of the ceremony. The people in the crowd all have their noses covered. A covered statue stands next to Randy.]\n"
+  },
+  {
+    "input": "[returns] Squeaker! [farts, then leaves]\n[The boys return to City Hall to see the rest of the ceremony. The people in the crowd all have their noses covered. A covered statue stands next to Randy.]\n",
+    "output": "And so I declare today Randy Marsh Day, where we shall remember forever how he freed us all from the threat of spontaneous combustion. Gentlemen? [her aides unveil a nicely muscled concrete statue of Randy]\n"
+  },
+  {
+    "input": "And so I declare today Randy Marsh Day, where we shall remember forever how he freed us all from the threat of spontaneous combustion. Gentlemen? [her aides unveil a nicely muscled concrete statue of Randy]\n",
+    "output": "You're the best, Randy!\n"
+  },
+  {
+    "input": "You're the best, Randy!\n",
+    "output": "I am? I am, huh? I never knew the depth of my scientific genius until now.\n"
+  },
+  {
+    "input": "I am? I am, huh? I never knew the depth of my scientific genius until now.\n",
+    "output": "It's too bad Cartman can't be here to enjoy this.\n"
+  },
+  {
+    "input": "It's too bad Cartman can't be here to enjoy this.\n",
+    "output": "Yeah.\n[Back on the cross...]\n"
+  },
+  {
+    "input": "Yeah.\n[Back on the cross...]\n",
+    "output": "[vultures hover above him] You guys, seriously! somebody get me down from here!\n"
+  },
+  {
+    "input": "[vultures hover above him] You guys, seriously! somebody get me down from here!\n",
+    "output": "[strolling] Nur nunur nunur nunur nunur nunur-\n"
+  },
+  {
+    "input": "[strolling] Nur nunur nunur nunur nunur nunur-\n",
+    "output": "Officer Barbrady! [Barbrady looks up to see Cartman on the cross and says nothing for a while]\n"
+  },
+  {
+    "input": "Officer Barbrady! [Barbrady looks up to see Cartman on the cross and says nothing for a while]\n",
+    "output": "[taps his chin] T. T is for turtle. [turns and walks away] Nur nunur nunur nunur nunur nunur\u2026\n"
+  },
+  {
+    "input": "[taps his chin] T. T is for turtle. [turns and walks away] Nur nunur nunur nunur nunur nunur\u2026\n",
+    "output": "Ey! Help me, you son of a bitch! [to himself] Huh, I'm gonna die up here.\n[The Nobel Prize Awards. Looks like the Oscars...]\n"
+  },
+  {
+    "input": "Ey! Help me, you son of a bitch! [to himself] Huh, I'm gonna die up here.\n[The Nobel Prize Awards. Looks like the Oscars...]\n",
+    "output": "We now return to the 42nd Annual Nobel Prize Awards. Here again your host, Whoopi Goldberg. [the audience applauds]\n"
+  },
+  {
+    "input": "We now return to the 42nd Annual Nobel Prize Awards. Here again your host, Whoopi Goldberg. [the audience applauds]\n",
+    "output": "[In elaborate dress and geisha hairdo] Republicans are so stupid. [the crowd laughs] I hate Republicans. [the audience laughs] Republicans are so stupid. [the audience laughs] And now, here to present the Nobel Prize for Science is Nick Nolte [fanfare. The audience applauds and Nick steps up]\n"
+  },
+  {
+    "input": "[In elaborate dress and geisha hairdo] Republicans are so stupid. [the crowd laughs] I hate Republicans. [the audience laughs] Republicans are so stupid. [the audience laughs] And now, here to present the Nobel Prize for Science is Nick Nolte [fanfare. The audience applauds and Nick steps up]\n",
+    "output": "Science is good. Science is very important. This year's nominees are: [the candidates are shown as their names are mentioned]\nHerald R. Pinkerton, for his further development of the grand unified theory of physics.\nRandy Marsh, for his formulated break-wind theory of spontaneous combustion.\nAnd Alphonse Mephesto for his seven-assed Galapagos turtle.\n\nAnd the Nobel Prize goes to: [opens the envelope] Randy Marsh, for the theory of spontaneous fart things. [the audience applauds wildly]\n"
+  },
+  {
+    "input": "Science is good. Science is very important. This year's nominees are: [the candidates are shown as their names are mentioned]\nHerald R. Pinkerton, for his further development of the grand unified theory of physics.\nRandy Marsh, for his formulated break-wind theory of spontaneous combustion.\nAnd Alphonse Mephesto for his seven-assed Galapagos turtle.\n\nAnd the Nobel Prize goes to: [opens the envelope] Randy Marsh, for the theory of spontaneous fart things. [the audience applauds wildly]\n",
+    "output": "[in the audience] No! No, this can't be!\n"
+  },
+  {
+    "input": "[in the audience] No! No, this can't be!\n",
+    "output": "[at the podium, very excited] Whoa hoho, whoa! [grabs his head] Oh wow, oh, ah, I'm the best! Yeah! Yeah! Ah, it's just so amazing to be told that you're the best. I, I thought I was just a normal person like all of you, but... Yeah! Well, thank you for showing me otherwise! Yeah! I kick ass, yeah!\n"
+  },
+  {
+    "input": "[at the podium, very excited] Whoa hoho, whoa! [grabs his head] Oh wow, oh, ah, I'm the best! Yeah! Yeah! Ah, it's just so amazing to be told that you're the best. I, I thought I was just a normal person like all of you, but... Yeah! Well, thank you for showing me otherwise! Yeah! I kick ass, yeah!\n",
+    "output": "Fixed! Fixed! That was supposed to be my award, Kevin. I'll get him for this. Mark my words.\n[Back in South Park, Stan and Kyle are on Kyle's couch watching the show.]\n"
+  },
+  {
+    "input": "Fixed! Fixed! That was supposed to be my award, Kevin. I'll get him for this. Mark my words.\n[Back in South Park, Stan and Kyle are on Kyle's couch watching the show.]\n",
+    "output": "Wow, my dad's the best! All other dads suck compared to my dad!\n"
+  },
+  {
+    "input": "Wow, my dad's the best! All other dads suck compared to my dad!\n",
+    "output": "Hey! My dad's pretty cool, too.\n[In the master bedroom Gerald and Sheila look at Gerald's penis, to see if it'll rise.]\n"
+  },
+  {
+    "input": "Hey! My dad's pretty cool, too.\n[In the master bedroom Gerald and Sheila look at Gerald's penis, to see if it'll rise.]\n",
+    "output": "I'm sorry, honey.\n"
+  },
+  {
+    "input": "I'm sorry, honey.\n",
+    "output": "It's okay, [picks up the phone] I'll just call some 20-year old and have him come over.\n"
+  },
+  {
+    "input": "It's okay, [picks up the phone] I'll just call some 20-year old and have him come over.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "[hands up] I'm just kidding.\n"
+  },
+  {
+    "input": "[hands up] I'm just kidding.\n",
+    "output": "Kidding? Well, that's not funny! That hurt my feelings!\n"
+  },
+  {
+    "input": "Kidding? Well, that's not funny! That hurt my feelings!\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Why?! [the door opens]\n"
+  },
+  {
+    "input": "Why?! [the door opens]\n",
+    "output": "Kyle. [Gerald see him, too]\n"
+  },
+  {
+    "input": "Kyle. [Gerald see him, too]\n",
+    "output": "Don't worry, guys. I'm getting a nurection as we speak.\n"
+  },
+  {
+    "input": "Don't worry, guys. I'm getting a nurection as we speak.\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Well, actually, Cartman's getting a nurection. But then, we're gonna give it you. Sooo, buck up! [his parents just look at him. He grins and walks away]\n"
+  },
+  {
+    "input": "Well, actually, Cartman's getting a nurection. But then, we're gonna give it you. Sooo, buck up! [his parents just look at him. He grins and walks away]\n",
+    "output": "We have a very strange little boy, Gerald.\n[Next day, Cartman on the cross. Stan and Kyle arrive to check up on Cartman.]\n"
+  },
+  {
+    "input": "We have a very strange little boy, Gerald.\n[Next day, Cartman on the cross. Stan and Kyle arrive to check up on Cartman.]\n",
+    "output": "Dude, he's still not dead.\n"
+  },
+  {
+    "input": "Dude, he's still not dead.\n",
+    "output": "You guys, my mom is totally worried about me. You'd better let me down.\n"
+  },
+  {
+    "input": "You guys, my mom is totally worried about me. You'd better let me down.\n",
+    "output": "She's not worried about you.\n"
+  },
+  {
+    "input": "She's not worried about you.\n",
+    "output": "Yes she is! I've been hearing her all day! Listen! Listen. [prepares for a bit of ventriloquism] Eric? Eric, where are you? I miss you very much.\n"
+  },
+  {
+    "input": "Yes she is! I've been hearing her all day! Listen! Listen. [prepares for a bit of ventriloquism] Eric? Eric, where are you? I miss you very much.\n",
+    "output": "That's not your mom calling!\n"
+  },
+  {
+    "input": "That's not your mom calling!\n",
+    "output": "[still in falsetto] Yes it is, you guys. I'm serious now. This is Eric's mom and I want him home right now.\n"
+  },
+  {
+    "input": "[still in falsetto] Yes it is, you guys. I'm serious now. This is Eric's mom and I want him home right now.\n",
+    "output": "How stupid do you think we are?! Now you die on that cross and get resurrurected before I kick your ass!\n"
+  },
+  {
+    "input": "How stupid do you think we are?! Now you die on that cross and get resurrurected before I kick your ass!\n",
+    "output": "You guys, it's too hot out here! I can't do this!\n"
+  },
+  {
+    "input": "You guys, it's too hot out here! I can't do this!\n",
+    "output": "He is right. It has been getting really hot lately.\n"
+  },
+  {
+    "input": "He is right. It has been getting really hot lately.\n",
+    "output": "Yeah, I noticed that too. Let's go get some ice-cold lemonade.\n"
+  },
+  {
+    "input": "Yeah, I noticed that too. Let's go get some ice-cold lemonade.\n",
+    "output": "Hey, yeah! [they turn and walk away]\n"
+  },
+  {
+    "input": "Hey, yeah! [they turn and walk away]\n",
+    "output": "Oh! God-damnit! Urh! You guys! You guys wanna hear my \"I hate Stan and Kyle\" song?! Ahem.\n"
+  },
+  {
+    "input": "Oh! God-damnit! Urh! You guys! You guys wanna hear my \"I hate Stan and Kyle\" song?! Ahem.\n",
+    "output": "I hate Stan and Kyle\nI seriously hate Stan and Kyle...\n[City Hall. The Mayor and her aides are in shorts and T's.]\n"
+  },
+  {
+    "input": "I hate Stan and Kyle\nI seriously hate Stan and Kyle...\n[City Hall. The Mayor and her aides are in shorts and T's.]\n",
+    "output": "My God, it's burning up in here! Can't we crank the AC up some more?\n"
+  },
+  {
+    "input": "My God, it's burning up in here! Can't we crank the AC up some more?\n",
+    "output": "It's already on full.\n"
+  },
+  {
+    "input": "It's already on full.\n",
+    "output": "[entering, wearing his Nobel medal] You wanted to see me, Mayor?\n"
+  },
+  {
+    "input": "[entering, wearing his Nobel medal] You wanted to see me, Mayor?\n",
+    "output": "Yes, Marsh. We have a new problem, and I think only you can solve it.\n"
+  },
+  {
+    "input": "Yes, Marsh. We have a new problem, and I think only you can solve it.\n",
+    "output": "I suspect you're talking about the dramatic heat wave.\n"
+  },
+  {
+    "input": "I suspect you're talking about the dramatic heat wave.\n",
+    "output": "Yes. The temperature is steadily rising every day. I want you to find out why.\n"
+  },
+  {
+    "input": "Yes. The temperature is steadily rising every day. I want you to find out why.\n",
+    "output": "Mayor, I think I'm a little overqualified for this. My scientific mind is best used on global problems.\n"
+  },
+  {
+    "input": "Mayor, I think I'm a little overqualified for this. My scientific mind is best used on global problems.\n",
+    "output": "All right, all right. Name your price.\n"
+  },
+  {
+    "input": "All right, all right. Name your price.\n",
+    "output": "Ten thousand. I have to protect my talent.\n"
+  },
+  {
+    "input": "Ten thousand. I have to protect my talent.\n",
+    "output": "Done. Just find out what's happening.\n"
+  },
+  {
+    "input": "Done. Just find out what's happening.\n",
+    "output": "Don't worry, Mayor. I'll find the cause. Or else. Or else what? Exactly. [they just look at him]\n[Another night on the cross. The Last Temptation of Cartman.]\n"
+  },
+  {
+    "input": "Don't worry, Mayor. I'll find the cause. Or else. Or else what? Exactly. [they just look at him]\n[Another night on the cross. The Last Temptation of Cartman.]\n",
+    "output": "[whispering, hoping...] Hey you guys. Seriously. [Chef walks into view]\n"
+  },
+  {
+    "input": "[whispering, hoping...] Hey you guys. Seriously. [Chef walks into view]\n",
+    "output": "[startled] What the-? [sees Cartman on the cross with his head down] Oh, what now?!\n"
+  },
+  {
+    "input": "[startled] What the-? [sees Cartman on the cross with his head down] Oh, what now?!\n",
+    "output": "Chef! Chef!\n"
+  },
+  {
+    "input": "Chef! Chef!\n",
+    "output": "[rushes up to him] Children, what the hell are you doin'?\n"
+  },
+  {
+    "input": "[rushes up to him] Children, what the hell are you doin'?\n",
+    "output": "Just get me down from here! [Chef does] Oh, finally! My arms are killing me!\n"
+  },
+  {
+    "input": "Just get me down from here! [Chef does] Oh, finally! My arms are killing me!\n",
+    "output": "You children shouldn't be crucifying yourselves in this heat.\n[Chef drives him into town.]\n"
+  },
+  {
+    "input": "You children shouldn't be crucifying yourselves in this heat.\n[Chef drives him into town.]\n",
+    "output": "Sweet. Now, I'm gonna go kill those guys!\n"
+  },
+  {
+    "input": "Sweet. Now, I'm gonna go kill those guys!\n",
+    "output": "Eric, I have to tell you something, and it's really gonna bum you out.\n"
+  },
+  {
+    "input": "Eric, I have to tell you something, and it's really gonna bum you out.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "It's really gonna piss you off.\n"
+  },
+  {
+    "input": "It's really gonna piss you off.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "This is just a dream. You're still up on that cross.\n"
+  },
+  {
+    "input": "This is just a dream. You're still up on that cross.\n",
+    "output": "[waking up] Oh, damnit!\n[Stan's house, basement. A Cheesy Poofs commercial ends as Stan comes down the steps.]\n"
+  },
+  {
+    "input": "[waking up] Oh, damnit!\n[Stan's house, basement. A Cheesy Poofs commercial ends as Stan comes down the steps.]\n",
+    "output": "Dad, where's the phone book?\n"
+  },
+  {
+    "input": "Dad, where's the phone book?\n",
+    "output": "Not now, Stanley. Without my scientific genius, the town is doomed. [Stan goes back up the stairs and exits. Randy mumbles] Let's see now, when exactly did the temperature start to go up?\n[Jesus and Pals comes on.]\n"
+  },
+  {
+    "input": "Not now, Stanley. Without my scientific genius, the town is doomed. [Stan goes back up the stairs and exits. Randy mumbles] Let's see now, when exactly did the temperature start to go up?\n[Jesus and Pals comes on.]\n",
+    "output": "Our topic tonight is the rising temperatures in South Park. Let's go to the phones. [beep] Caller, you're on the air.\n"
+  },
+  {
+    "input": "Our topic tonight is the rising temperatures in South Park. Let's go to the phones. [beep] Caller, you're on the air.\n",
+    "output": "Yeah, um, Jesus, after you got crucified, how long did it take you to die and resurrect?\n"
+  },
+  {
+    "input": "Yeah, um, Jesus, after you got crucified, how long did it take you to die and resurrect?\n",
+    "output": "Stan?\n"
+  },
+  {
+    "input": "Stan?\n",
+    "output": "That's not the topic tonight. The topic is global warming.\n"
+  },
+  {
+    "input": "That's not the topic tonight. The topic is global warming.\n",
+    "output": "Oh.\n"
+  },
+  {
+    "input": "Oh.\n",
+    "output": "Do you have an opinion on global warming?\n"
+  },
+  {
+    "input": "Do you have an opinion on global warming?\n",
+    "output": "Uh, it... sucks ass.\n"
+  },
+  {
+    "input": "Uh, it... sucks ass.\n",
+    "output": "Okay! Thank you caller. Well, let's go to our first guest, Dr. Alphonse Mephesto. [Mephesto appears and sits] Thank you for coming. You claim to know the cause of global warming in South Park.\n"
+  },
+  {
+    "input": "Okay! Thank you caller. Well, let's go to our first guest, Dr. Alphonse Mephesto. [Mephesto appears and sits] Thank you for coming. You claim to know the cause of global warming in South Park.\n",
+    "output": "I most certainly do! The cause of global warming is [brings out a picture of a man, with horns, mustache, and angry eyebrows drawn on] Randy Marsh! [Randy is stunned] It was Marsh's theory on spontaneous combustion that told everyone to fart all they want. Now all the methane from all those farts has ripped a hole in our ozone layer. We are all doomed to die!\n"
+  },
+  {
+    "input": "I most certainly do! The cause of global warming is [brings out a picture of a man, with horns, mustache, and angry eyebrows drawn on] Randy Marsh! [Randy is stunned] It was Marsh's theory on spontaneous combustion that told everyone to fart all they want. Now all the methane from all those farts has ripped a hole in our ozone layer. We are all doomed to die!\n",
+    "output": "Awww crap.\n[City Hall, the next day. The town is gathered clamoring for Randy to come out.]\n"
+  },
+  {
+    "input": "Awww crap.\n[City Hall, the next day. The town is gathered clamoring for Randy to come out.]\n",
+    "output": "Go get him!\n"
+  },
+  {
+    "input": "Go get him!\n",
+    "output": "We want answers!\n"
+  },
+  {
+    "input": "We want answers!\n",
+    "output": "You've killed us all!\n"
+  },
+  {
+    "input": "You've killed us all!\n",
+    "output": "Someone's got to pay!\n"
+  },
+  {
+    "input": "Someone's got to pay!\n",
+    "output": "It's out of control.\n[inside the Mayor's office.]\n"
+  },
+  {
+    "input": "It's out of control.\n[inside the Mayor's office.]\n",
+    "output": "Boy, they're really pissed.\n"
+  },
+  {
+    "input": "Boy, they're really pissed.\n",
+    "output": "Well, they're right. We should have known that all that methane could adversely affect the atmosphere.\n"
+  },
+  {
+    "input": "Well, they're right. We should have known that all that methane could adversely affect the atmosphere.\n",
+    "output": "Well, let's go talk to them. Stick by me. [turns and walks to the door. Randy follows. She shows him out and quickly closes the door]\n"
+  },
+  {
+    "input": "Well, let's go talk to them. Stick by me. [turns and walks to the door. Randy follows. She shows him out and quickly closes the door]\n",
+    "output": "[turns to the door] Hey!\n"
+  },
+  {
+    "input": "[turns to the door] Hey!\n",
+    "output": "You killed us all!\n"
+  },
+  {
+    "input": "You killed us all!\n",
+    "output": "Shove that Nobel prize up your ass! [Stan and Kyle approach]\n"
+  },
+  {
+    "input": "Shove that Nobel prize up your ass! [Stan and Kyle approach]\n",
+    "output": "Oh my God, what's going on?\n"
+  },
+  {
+    "input": "Oh my God, what's going on?\n",
+    "output": "Now we either hold in our farts and spontaneously combust, o-o-or we let our farts out and kill our entire planet. Well I, for one, am not farting anymore! [he combusts and others gasp]\n"
+  },
+  {
+    "input": "Now we either hold in our farts and spontaneously combust, o-o-or we let our farts out and kill our entire planet. Well I, for one, am not farting anymore! [he combusts and others gasp]\n",
+    "output": "Uuuh, I- I'll try to find a solution.\n"
+  },
+  {
+    "input": "Uuuh, I- I'll try to find a solution.\n",
+    "output": "We don't want your solutions, phony!\n"
+  },
+  {
+    "input": "We don't want your solutions, phony!\n",
+    "output": "Give me that! [rips the Nobel medallion from Randy's neck, leaving the strap] Yeah!\n"
+  },
+  {
+    "input": "Give me that! [rips the Nobel medallion from Randy's neck, leaving the strap] Yeah!\n",
+    "output": "Damn you Marsh! Get out of town!\n"
+  },
+  {
+    "input": "Damn you Marsh! Get out of town!\n",
+    "output": "You fraud! [two of the townsmen throw the statue onto Randy, who drags it away on his back. The crowd begins to stone him]\n"
+  },
+  {
+    "input": "You fraud! [two of the townsmen throw the statue onto Randy, who drags it away on his back. The crowd begins to stone him]\n",
+    "output": "[struggling] Mr. Garrison, help me!\n"
+  },
+  {
+    "input": "[struggling] Mr. Garrison, help me!\n",
+    "output": "[keeping Randy at arm's length] I, I do not know you, sir.\n"
+  },
+  {
+    "input": "[keeping Randy at arm's length] I, I do not know you, sir.\n",
+    "output": "Up your-\n"
+  },
+  {
+    "input": "Up your-\n",
+    "output": "Arrn!\n"
+  },
+  {
+    "input": "Arrn!\n",
+    "output": "[throws a stone] Yeah, take that!\n"
+  },
+  {
+    "input": "[throws a stone] Yeah, take that!\n",
+    "output": "Dude, that's my dad!\n"
+  },
+  {
+    "input": "Dude, that's my dad!\n",
+    "output": "...Oh, yeah. Sorry.\n[News 4 Special Report.]\n"
+  },
+  {
+    "input": "...Oh, yeah. Sorry.\n[News 4 Special Report.]\n",
+    "output": "The spontaneous combustion problem escalates as more and more people go back to holding in all their farts. [a man combusts in front of his wife and child as he deposits a letter in a mailbox. A milk delivery man combusts after setting down a four-pack of milk. A boy combusts as he rides a bicycle] Meanwhile, the ozone layer continues to deplete as others refuse to hold in their farts for fear of combustion. As we all know, the cause for all of this is Randy Marsh, the son of a bitch who calls himself a scientist. We caught up with Mr. Marsh earlier today and he had this to say:\n"
+  },
+  {
+    "input": "The spontaneous combustion problem escalates as more and more people go back to holding in all their farts. [a man combusts in front of his wife and child as he deposits a letter in a mailbox. A milk delivery man combusts after setting down a four-pack of milk. A boy combusts as he rides a bicycle] Meanwhile, the ozone layer continues to deplete as others refuse to hold in their farts for fear of combustion. As we all know, the cause for all of this is Randy Marsh, the son of a bitch who calls himself a scientist. We caught up with Mr. Marsh earlier today and he had this to say:\n",
+    "output": "I-I don't know what to say.\n"
+  },
+  {
+    "input": "I-I don't know what to say.\n",
+    "output": "What an asshole! I hate that guy, and so do you. And now, on to the weather. It's fucking hot, thanks to Randy Marsh, son of a bitch!\n[Everyone has gone to the Marsh house. Stan and Kyle look out from the living room window as the crowd clamors outside with torches. A man knocks down the trashcan next to the garage.]\n"
+  },
+  {
+    "input": "What an asshole! I hate that guy, and so do you. And now, on to the weather. It's fucking hot, thanks to Randy Marsh, son of a bitch!\n[Everyone has gone to the Marsh house. Stan and Kyle look out from the living room window as the crowd clamors outside with torches. A man knocks down the trashcan next to the garage.]\n",
+    "output": "Dude, those people are pissed!\n"
+  },
+  {
+    "input": "Dude, those people are pissed!\n",
+    "output": "I know, huh?\n"
+  },
+  {
+    "input": "I know, huh?\n",
+    "output": "Where's your dad?\n"
+  },
+  {
+    "input": "Where's your dad?\n",
+    "output": "He's hiding down in the basement. I I don't know what to do.\n"
+  },
+  {
+    "input": "He's hiding down in the basement. I I don't know what to do.\n",
+    "output": "Well, you have to help him, just like I have to help my dad.\n[Cartman is still on the cross.]\n[Gerald's law firm. The sign reads \"Brovlofski & Jackson,\" so he's got a partner. Gerald sits at his desk looking over papers.]\n"
+  },
+  {
+    "input": "Well, you have to help him, just like I have to help my dad.\n[Cartman is still on the cross.]\n[Gerald's law firm. The sign reads \"Brovlofski & Jackson,\" so he's got a partner. Gerald sits at his desk looking over papers.]\n",
+    "output": "Still more up next from the heat wave caused by Randy Marsh. A giant glacier is melting above South Park and the entire town is doomed. And now, these messages.\n"
+  },
+  {
+    "input": "Still more up next from the heat wave caused by Randy Marsh. A giant glacier is melting above South Park and the entire town is doomed. And now, these messages.\n",
+    "output": "Having a hard time with male potency? [Gerald sits up and listens] Well, I don't, and I'm Bob Dole. What's wrong with you? Christ, I'm Bob Dole and I can get it up. [upset, he turns off the radio. The door opens and three prostitutes enter]\n"
+  },
+  {
+    "input": "Having a hard time with male potency? [Gerald sits up and listens] Well, I don't, and I'm Bob Dole. What's wrong with you? Christ, I'm Bob Dole and I can get it up. [upset, he turns off the radio. The door opens and three prostitutes enter]\n",
+    "output": "Are you a lawyer?\n"
+  },
+  {
+    "input": "Are you a lawyer?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "We want to sue Randy Marsh.\n"
+  },
+  {
+    "input": "We want to sue Randy Marsh.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "He gave us skin cancer.\n"
+  },
+  {
+    "input": "He gave us skin cancer.\n",
+    "output": "Yeah. He put the hole in the ozone, and now we have skin cancer all over our hot bodies. Look. [she takes off her clothes and stands before Gerald dressed in thong panties. The other does the same, and he is in shock]\n[The Marsh house. Stan and Kyle go to the basement. Randy cowers in a corner wrapped in a blanket.]\n"
+  },
+  {
+    "input": "Yeah. He put the hole in the ozone, and now we have skin cancer all over our hot bodies. Look. [she takes off her clothes and stands before Gerald dressed in thong panties. The other does the same, and he is in shock]\n[The Marsh house. Stan and Kyle go to the basement. Randy cowers in a corner wrapped in a blanket.]\n",
+    "output": "What are you doing, dad?\n"
+  },
+  {
+    "input": "What are you doing, dad?\n",
+    "output": "Stanley, I think its best you live with Kyle from now on. His dad is better than me.\n"
+  },
+  {
+    "input": "Stanley, I think its best you live with Kyle from now on. His dad is better than me.\n",
+    "output": "No, he's not. He can't even get an erection.\n"
+  },
+  {
+    "input": "No, he's not. He can't even get an erection.\n",
+    "output": "Hm. Really?\n"
+  },
+  {
+    "input": "Hm. Really?\n",
+    "output": "Dad, you've got to work! People are dying, dad. You've got to come up with a solution!\n"
+  },
+  {
+    "input": "Dad, you've got to work! People are dying, dad. You've got to come up with a solution!\n",
+    "output": "Not me. I'm not a scientist, I'm a hack. Even if I found a solution, those people would still all hate me.\n"
+  },
+  {
+    "input": "Not me. I'm not a scientist, I'm a hack. Even if I found a solution, those people would still all hate me.\n",
+    "output": "Well, that doesn't matter! I learned something from the Stations of the Cross.\n"
+  },
+  {
+    "input": "Well, that doesn't matter! I learned something from the Stations of the Cross.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "See, at first, Jesus was all like, \"Why me?\" And he was all pissed off and stuff. But then he saw that what mattered most was everybody else. So he stopped thinking about his own misery, and did what had to be done. Right as Jesus was dying, [performs a Vulcan greeting] he raised his hand and said, \"The needs of the many outweigh the needs of the few.\"\n"
+  },
+  {
+    "input": "See, at first, Jesus was all like, \"Why me?\" And he was all pissed off and stuff. But then he saw that what mattered most was everybody else. So he stopped thinking about his own misery, and did what had to be done. Right as Jesus was dying, [performs a Vulcan greeting] he raised his hand and said, \"The needs of the many outweigh the needs of the few.\"\n",
+    "output": "You're right, Stanley. You're absolutely right. [gets up and the boys go to the stairs] Hey, that Bible sounds like kind of a good book.\n"
+  },
+  {
+    "input": "You're right, Stanley. You're absolutely right. [gets up and the boys go to the stairs] Hey, that Bible sounds like kind of a good book.\n",
+    "output": "It ain't bad. You should try reading it sometime. [Randy returns to his work]\n"
+  },
+  {
+    "input": "It ain't bad. You should try reading it sometime. [Randy returns to his work]\n",
+    "output": "Dude, that was Star Trek again.\n"
+  },
+  {
+    "input": "Dude, that was Star Trek again.\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "\"The needs of the many outweigh the needs of the few?\" That was Wrath of Khan.\n"
+  },
+  {
+    "input": "\"The needs of the many outweigh the needs of the few?\" That was Wrath of Khan.\n",
+    "output": "Uh, well, Bible, Wrath of Khan, what's the difference?\n"
+  },
+  {
+    "input": "Uh, well, Bible, Wrath of Khan, what's the difference?\n",
+    "output": "All right. Now, let's get to work.\n"
+  },
+  {
+    "input": "All right. Now, let's get to work.\n",
+    "output": "[Intro. Randy mixes some chemicals, then writes some formulas on the chalkboard]\n[Randy explains the hold in the ozone layer] I've been telling everybody that you're my girl\n[Randy set off a reaction that boils over] Cause I'm not one to be shy\n[Randy looks into a microscope] You don't have to go with me if you don't want to, just\n[the boys approve] Tell everybody I'm your guy\n[Monster chases Randy and the boys all over the house] You and me, girl, it's forever\nSha la la la la laaa\nI've been telling everybody that you're my girl,\nCause I'm not one to be shy\n[Randy and the boys as a band] I've been telling everybody that you're my girl,\nCause I'm not one to be shy\n[Randy and the boys in hearts on moir\u00e9] You don't have to go with me if you don't want to, just\nTell everybody I'm your guy\n[Randy and the boys floating up through clouds] You and me, girl, it's forever\nSha la la la la laaa\n[Randy and the boys play, and a monster appears]\nYou and me, girl, forever and ever\nYou and me, girl, forever and ever\nYou and me, girl, forever and ever... [fade. Randy's humming]\n"
+  },
+  {
+    "input": "[Intro. Randy mixes some chemicals, then writes some formulas on the chalkboard]\n[Randy explains the hold in the ozone layer] I've been telling everybody that you're my girl\n[Randy set off a reaction that boils over] Cause I'm not one to be shy\n[Randy looks into a microscope] You don't have to go with me if you don't want to, just\n[the boys approve] Tell everybody I'm your guy\n[Monster chases Randy and the boys all over the house] You and me, girl, it's forever\nSha la la la la laaa\nI've been telling everybody that you're my girl,\nCause I'm not one to be shy\n[Randy and the boys as a band] I've been telling everybody that you're my girl,\nCause I'm not one to be shy\n[Randy and the boys in hearts on moir\u00e9] You don't have to go with me if you don't want to, just\nTell everybody I'm your guy\n[Randy and the boys floating up through clouds] You and me, girl, it's forever\nSha la la la la laaa\n[Randy and the boys play, and a monster appears]\nYou and me, girl, forever and ever\nYou and me, girl, forever and ever\nYou and me, girl, forever and ever... [fade. Randy's humming]\n",
+    "output": "Dad. Dad! [Randy slowly comes out of his daydream]\n"
+  },
+  {
+    "input": "Dad. Dad! [Randy slowly comes out of his daydream]\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "Dad, what are you doin?! You have to get started!\n"
+  },
+  {
+    "input": "Dad, what are you doin?! You have to get started!\n",
+    "output": "[looks at Stan] ...Right, right right.\n[The Broflovski house. Kyle watches TV and Ike plays on the floor. The front door opens.]\n"
+  },
+  {
+    "input": "[looks at Stan] ...Right, right right.\n[The Broflovski house. Kyle watches TV and Ike plays on the floor. The front door opens.]\n",
+    "output": "Kyle, where's your mother?\n"
+  },
+  {
+    "input": "Kyle, where's your mother?\n",
+    "output": "She's upstairs.\n"
+  },
+  {
+    "input": "She's upstairs.\n",
+    "output": "Well, I have something to give to her! [runs by with a big erection in his pants] Don't worry, Kyle. Everything's gonna be okay between me and your mom.\n"
+  },
+  {
+    "input": "Well, I have something to give to her! [runs by with a big erection in his pants] Don't worry, Kyle. Everything's gonna be okay between me and your mom.\n",
+    "output": "Really? Great! I don't have to worry about that anymore. [Ike hops onto the armchair next to Kyle]\n[Another night on the cross.]\n"
+  },
+  {
+    "input": "Really? Great! I don't have to worry about that anymore. [Ike hops onto the armchair next to Kyle]\n[Another night on the cross.]\n",
+    "output": "Hello-o.\n[The Marsh house. The crowd is still clamoring outside.]\n"
+  },
+  {
+    "input": "Hello-o.\n[The Marsh house. The crowd is still clamoring outside.]\n",
+    "output": "Look! There he is!\n"
+  },
+  {
+    "input": "Look! There he is!\n",
+    "output": "Get him!\n"
+  },
+  {
+    "input": "Get him!\n",
+    "output": "Uh. Please, everyone- [the crowd closes in and stones him]\n"
+  },
+  {
+    "input": "Uh. Please, everyone- [the crowd closes in and stones him]\n",
+    "output": "You're a dead man, Marsh!\n"
+  },
+  {
+    "input": "You're a dead man, Marsh!\n",
+    "output": "[shielding himself from the stones] Please, just listen to me. I think I found the answer.\n"
+  },
+  {
+    "input": "[shielding himself from the stones] Please, just listen to me. I think I found the answer.\n",
+    "output": "[to Townsman 15] Could I borrow one of your rocks?\n"
+  },
+  {
+    "input": "[to Townsman 15] Could I borrow one of your rocks?\n",
+    "output": "It's all about moderation. If you never fart, you combust, but if you always fart, you deplete the ozone. So we must fart only at appropriate times or when it's really, really funny.\n"
+  },
+  {
+    "input": "It's all about moderation. If you never fart, you combust, but if you always fart, you deplete the ozone. So we must fart only at appropriate times or when it's really, really funny.\n",
+    "output": "Huh? [the people hold their fire]\n"
+  },
+  {
+    "input": "Huh? [the people hold their fire]\n",
+    "output": "I know you all hate me, but please, for your own sake, fart in moderation. You can keep stoning me now, if you want. [most of the people drop their rocks, and Stan smiles through the window. A man throws one last rock] Ow.\n[City Hall, three weeks later.]\n"
+  },
+  {
+    "input": "I know you all hate me, but please, for your own sake, fart in moderation. You can keep stoning me now, if you want. [most of the people drop their rocks, and Stan smiles through the window. A man throws one last rock] Ow.\n[City Hall, three weeks later.]\n",
+    "output": "And so we salute Randy Marsh and his unified theory of moderation that has saved us all. [the Nobel medallion has been repaired and is back around Randy's neck.]\n"
+  },
+  {
+    "input": "And so we salute Randy Marsh and his unified theory of moderation that has saved us all. [the Nobel medallion has been repaired and is back around Randy's neck.]\n",
+    "output": "[to Kyle] See? My dad is the coolest after all.\n"
+  },
+  {
+    "input": "[to Kyle] See? My dad is the coolest after all.\n",
+    "output": "Well, my dad is, too.\n"
+  },
+  {
+    "input": "Well, my dad is, too.\n",
+    "output": "Cartman!\n"
+  },
+  {
+    "input": "Cartman!\n",
+    "output": "I forgot all about him. [they leave]\n[The boys are not at the foot of the cross.]\n"
+  },
+  {
+    "input": "I forgot all about him. [they leave]\n[The boys are not at the foot of the cross.]\n",
+    "output": "He's been up there for like, three weeks.\n"
+  },
+  {
+    "input": "He's been up there for like, three weeks.\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "That's amazing!\n"
+  },
+  {
+    "input": "That's amazing!\n",
+    "output": "[in a slight falsetto] Hey you guys, I am really pissed off now.\n"
+  },
+  {
+    "input": "[in a slight falsetto] Hey you guys, I am really pissed off now.\n",
+    "output": "Dude! You're still alive, Cartman?\n"
+  },
+  {
+    "input": "Dude! You're still alive, Cartman?\n",
+    "output": "Get me down from here!\n"
+  },
+  {
+    "input": "Get me down from here!\n",
+    "output": "Dude, you survived all this time on the fat stored up in your body?\n"
+  }
+]

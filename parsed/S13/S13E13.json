@@ -1,0 +1,826 @@
+[
+  {
+    "input": "",
+    "output": "Dances with Smurfs\n\n[South Park Elementary, start of the school day. The chimes play as the fourth grader class pays attention. The following is all voice-over:]\n"
+  },
+  {
+    "input": "Dances with Smurfs\n\n[South Park Elementary, start of the school day. The chimes play as the fourth grader class pays attention. The following is all voice-over:]\n",
+    "output": "Good morning South Park Elementary. These are the morning announcements, Parent-teacher conferences begin next Thursday. If you have not yet done so, please turn in your parents' requested time sheets by the end of fifth period today. [Kindergarten class is shown, with a female teacher] Lunch today will be a choice of chicken tostadas or spaghetti with a marninara sauce and side salad. [Fourth grade class is shown again.] Attention fourth graders: the fall registration for glee club starts tomorrow. Any interested students should fill out a- [a door is heard being kicked in] Whoa, what's going on?\n"
+  },
+  {
+    "input": "Good morning South Park Elementary. These are the morning announcements, Parent-teacher conferences begin next Thursday. If you have not yet done so, please turn in your parents' requested time sheets by the end of fifth period today. [Kindergarten class is shown, with a female teacher] Lunch today will be a choice of chicken tostadas or spaghetti with a marninara sauce and side salad. [Fourth grade class is shown again.] Attention fourth graders: the fall registration for glee club starts tomorrow. Any interested students should fill out a- [a door is heard being kicked in] Whoa, what's going on?\n",
+    "output": "I'll killl you! [the class pays closer attention] I swear to God I'll kill you!\n"
+  },
+  {
+    "input": "I'll killl you! [the class pays closer attention] I swear to God I'll kill you!\n",
+    "output": "Who are you?!\n"
+  },
+  {
+    "input": "Who are you?!\n",
+    "output": "I'm the man who's gonna put a bullet between your eyes!\n"
+  },
+  {
+    "input": "I'm the man who's gonna put a bullet between your eyes!\n",
+    "output": "Hey! He's got a gun!\n"
+  },
+  {
+    "input": "Hey! He's got a gun!\n",
+    "output": "You little bastard! You fucked my wife! You think I wouldn't find out?!\n"
+  },
+  {
+    "input": "You little bastard! You fucked my wife! You think I wouldn't find out?!\n",
+    "output": "Sir, please, I don't know you.\n"
+  },
+  {
+    "input": "Sir, please, I don't know you.\n",
+    "output": "Yeah, right!\n"
+  },
+  {
+    "input": "Yeah, right!\n",
+    "output": "All right, what the hell is going on around here? You sir need to leave this area- [two gun shots are heard and the man is heard falling with a thud]\n"
+  },
+  {
+    "input": "All right, what the hell is going on around here? You sir need to leave this area- [two gun shots are heard and the man is heard falling with a thud]\n",
+    "output": "Oh God, he shot him!\n"
+  },
+  {
+    "input": "Oh God, he shot him!\n",
+    "output": "Ya had to push me, didn't ya?! NOW YOU!\n"
+  },
+  {
+    "input": "Ya had to push me, didn't ya?! NOW YOU!\n",
+    "output": "HAAAAAAAAAA! Sir, I truly don't know- [Gunshot] th-AAAAA! AAAA!\n"
+  },
+  {
+    "input": "HAAAAAAAAAA! Sir, I truly don't know- [Gunshot] th-AAAAA! AAAA!\n",
+    "output": "There! How's it feel, huh?!\n"
+  },
+  {
+    "input": "There! How's it feel, huh?!\n",
+    "output": "[shrieking] Please, I don't know you! Uughuh!\n"
+  },
+  {
+    "input": "[shrieking] Please, I don't know you! Uughuh!\n",
+    "output": "You're Gordon Saltski, right?! Truck driver from Chicago?!\n"
+  },
+  {
+    "input": "You're Gordon Saltski, right?! Truck driver from Chicago?!\n",
+    "output": "No, I'm Gordon Stoltski, third grader who reads the morning announcements!\n"
+  },
+  {
+    "input": "No, I'm Gordon Stoltski, third grader who reads the morning announcements!\n",
+    "output": "Yeah, right! We'll see if that's true. Go on, read the morning announcements!\n"
+  },
+  {
+    "input": "Yeah, right! We'll see if that's true. Go on, read the morning announcements!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I SAID DO IT! [smack]\n"
+  },
+  {
+    "input": "I SAID DO IT! [smack]\n",
+    "output": "AAAAA! AAAAA! AAAAAAAAAA! AAA! Any, any interested students should fill out an applicant survey-- [smack] WAA! WAAAAAAAAAA!\n"
+  },
+  {
+    "input": "AAAAA! AAAAA! AAAAAAAAAA! AAA! Any, any interested students should fill out an applicant survey-- [smack] WAA! WAAAAAAAAAA!\n",
+    "output": "I knew you were lyin'! That was terrible! Now put your mouth over the barrel of this gun!\n"
+  },
+  {
+    "input": "I knew you were lyin'! That was terrible! Now put your mouth over the barrel of this gun!\n",
+    "output": "No please! I'm so scared! [more softly] I'm so scared!\n"
+  },
+  {
+    "input": "No please! I'm so scared! [more softly] I'm so scared!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[freakout] Please! I'll duh, I'll do whatever you say! Here! Here I see! Here! [his voice gets muffled] I got my mouth on the ba- [the gun goes off and Gordon falls on the floor]\n"
+  },
+  {
+    "input": "[freakout] Please! I'll duh, I'll do whatever you say! Here! Here I see! Here! [his voice gets muffled] I got my mouth on the ba- [the gun goes off and Gordon falls on the floor]\n",
+    "output": "Look at you now. We're all dead. [shoots himself]\n[His memorial service in the school gymnasium, day. Mr. Mackey presides over it.]\n"
+  },
+  {
+    "input": "Look at you now. We're all dead. [shoots himself]\n[His memorial service in the school gymnasium, day. Mr. Mackey presides over it.]\n",
+    "output": "We will always remember the way that Gordon bravely read the announcements every morning, led us in the Pledge of Allegiance, m'kay, and touched many kids' lives here at the school. And even though we now know the shooter had him confused with a forty-year-old truck driver who happened to have a similar name, I know this has been ...pretty traumatizing, m'kay. But now we must decide who will pick up where little Gordon left off. Who will take his place reading the morning announcements? It's a big responsibility, because it will be your voice the entire school listens to, m'kay? And although Gordon Stoltski can never be replaced, m'kay, there must be a student out there who has the drive and the passion to... have his or her voice heard every morning.\n"
+  },
+  {
+    "input": "We will always remember the way that Gordon bravely read the announcements every morning, led us in the Pledge of Allegiance, m'kay, and touched many kids' lives here at the school. And even though we now know the shooter had him confused with a forty-year-old truck driver who happened to have a similar name, I know this has been ...pretty traumatizing, m'kay. But now we must decide who will pick up where little Gordon left off. Who will take his place reading the morning announcements? It's a big responsibility, because it will be your voice the entire school listens to, m'kay? And although Gordon Stoltski can never be replaced, m'kay, there must be a student out there who has the drive and the passion to... have his or her voice heard every morning.\n",
+    "output": "Oh. My. Goodddd.\n[Mr. Mackey's office, day. A sign on the door reads \"Morning Announcement Tryouts\" Cartman and another kid wait on chairs next to the door.]\n"
+  },
+  {
+    "input": "Oh. My. Goodddd.\n[Mr. Mackey's office, day. A sign on the door reads \"Morning Announcement Tryouts\" Cartman and another kid wait on chairs next to the door.]\n",
+    "output": "Soo, you're uuh, trying out to be the morning announcement person as well?\n"
+  },
+  {
+    "input": "Soo, you're uuh, trying out to be the morning announcement person as well?\n",
+    "output": "Yeah, I think it would be really fu-fu-fu-fun, and ru-ru-ru-rurrraise my self es-es-esesesteem.\n"
+  },
+  {
+    "input": "Yeah, I think it would be really fu-fu-fu-fun, and ru-ru-ru-rurrraise my self es-es-esesesteem.\n",
+    "output": "[cracks the door open and looks out] Oh, this is it, huh? Okay, uhhh Mike, why don't we have you try out first, ituh m'kay. [Mike gets off the chair and enters the office.]\n"
+  },
+  {
+    "input": "[cracks the door open and looks out] Oh, this is it, huh? Okay, uhhh Mike, why don't we have you try out first, ituh m'kay. [Mike gets off the chair and enters the office.]\n",
+    "output": "[cackles] He stutters like a bitch! I've got this job in the bag! [another boy walks up and sits in the chair to Cartman's right. Cartman notices immediately: the boy is well-dressed] Who are you?\n"
+  },
+  {
+    "input": "[cackles] He stutters like a bitch! I've got this job in the bag! [another boy walks up and sits in the chair to Cartman's right. Cartman notices immediately: the boy is well-dressed] Who are you?\n",
+    "output": "My name is Casey Miller, and I'm in the third grade. [Cartman is awed] Ever since I can remember people have told me I should read their morning announcements. My friends always said to me, \"Dear Casey, your voice is like butter to our ears. Could you please find a way to get that audible chocolate on the airwaves?\" Well, here I am, and hopefully I'll be the kid with the job. [Cartman is mad now and gives him a hard look]\n"
+  },
+  {
+    "input": "My name is Casey Miller, and I'm in the third grade. [Cartman is awed] Ever since I can remember people have told me I should read their morning announcements. My friends always said to me, \"Dear Casey, your voice is like butter to our ears. Could you please find a way to get that audible chocolate on the airwaves?\" Well, here I am, and hopefully I'll be the kid with the job. [Cartman is mad now and gives him a hard look]\n",
+    "output": "M'kay, really nice, Mike, uh, maybe next time you can get past the first word. Oh, Casey Miller, good, you're trying out too?\n"
+  },
+  {
+    "input": "M'kay, really nice, Mike, uh, maybe next time you can get past the first word. Oh, Casey Miller, good, you're trying out too?\n",
+    "output": "I'm tryin' out and dryin' out in the sultry summer sun that is my voice.\n"
+  },
+  {
+    "input": "I'm tryin' out and dryin' out in the sultry summer sun that is my voice.\n",
+    "output": "M'kay. Eric, you wanna go next? [Cartman gets off his chair and walks into the office, keeping his eyes on Casey until the door closes]\n[Mr. Mackey's office, inside. Mr. Mackey and Cartman sit on two chairs opposite each other.]\n"
+  },
+  {
+    "input": "M'kay. Eric, you wanna go next? [Cartman gets off his chair and walks into the office, keeping his eyes on Casey until the door closes]\n[Mr. Mackey's office, inside. Mr. Mackey and Cartman sit on two chairs opposite each other.]\n",
+    "output": "M'kay Eric, I'm just gonna have you read this piece of paper.\n"
+  },
+  {
+    "input": "M'kay Eric, I'm just gonna have you read this piece of paper.\n",
+    "output": "Mr. Mackey, what's a moronic jizzrag?\n"
+  },
+  {
+    "input": "Mr. Mackey, what's a moronic jizzrag?\n",
+    "output": "What? What on earth are you askin' me that for?!\n"
+  },
+  {
+    "input": "What? What on earth are you askin' me that for?!\n",
+    "output": "Well it's just that... that's what that Casey kid said about your hairpiece? [Mr. Mackey opens his office door to yell at Casey]\n"
+  },
+  {
+    "input": "Well it's just that... that's what that Casey kid said about your hairpiece? [Mr. Mackey opens his office door to yell at Casey]\n",
+    "output": "Get lost, you little dirtball!\n"
+  },
+  {
+    "input": "Get lost, you little dirtball!\n",
+    "output": "Excuse me?\n"
+  },
+  {
+    "input": "Excuse me?\n",
+    "output": "I said take a hike!\n"
+  },
+  {
+    "input": "I said take a hike!\n",
+    "output": "I don't understand... what I did wrong.\n"
+  },
+  {
+    "input": "I don't understand... what I did wrong.\n",
+    "output": "Beat it, you're not gettin' the job! [Casey gets off his chair and walks away]\n[South Park Elementary, morning. The fourth grade class is shown as the intercom comes on.]\n"
+  },
+  {
+    "input": "Beat it, you're not gettin' the job! [Casey gets off his chair and walks away]\n[South Park Elementary, morning. The fourth grade class is shown as the intercom comes on.]\n",
+    "output": "Good morning South Park Elementary. These are the morning announcements. And I, am Eric Cartman. All forms for the school book drive must be handed in to Mr. Davis in the library by the end of the school day today. Hm, doesn't seem like they gave us a lot of notice on that, uh, 'kay. Oh well. [reads the next announcement] For lunch today, the cafeteria will be serving a selection of cold sandwiches. Cold sandwiches. Oh well, thank you so much! Remember when we used to be served hot food? I mean, what has happened to our school? This school is transforming into something very bad, and why? Because we have leadership that doesn't care! I'm talking of course about our student body president, Wendy Testaburger! [Wendy's mouth drops open] Ever since Wendy was elected student body president, this school has started a rapid decline towards some socialist regime where students no longer have a voice! The music room will be closed off today due to painting. All students in band and choir will meet in the gymnasium instead. Oh oh, so now, so now the school is using money to paint the music room. How old and outdated is our playground equipment? What other school has a fifteen-year-old merry-go-round on it? Our school president is turning this whole place into Communist Russia! [Clyde has gone to sleep, half the class is getting sleepy, Stan buries his head in his arms] It's not a coincidence that once Wendy took office this school started coming apart at the seams! Your teachers don't wanna tell you, but they are scared, and they should be, because the very fabric of this elementary school is tearing from all corners.\n"
+  },
+  {
+    "input": "Good morning South Park Elementary. These are the morning announcements. And I, am Eric Cartman. All forms for the school book drive must be handed in to Mr. Davis in the library by the end of the school day today. Hm, doesn't seem like they gave us a lot of notice on that, uh, 'kay. Oh well. [reads the next announcement] For lunch today, the cafeteria will be serving a selection of cold sandwiches. Cold sandwiches. Oh well, thank you so much! Remember when we used to be served hot food? I mean, what has happened to our school? This school is transforming into something very bad, and why? Because we have leadership that doesn't care! I'm talking of course about our student body president, Wendy Testaburger! [Wendy's mouth drops open] Ever since Wendy was elected student body president, this school has started a rapid decline towards some socialist regime where students no longer have a voice! The music room will be closed off today due to painting. All students in band and choir will meet in the gymnasium instead. Oh oh, so now, so now the school is using money to paint the music room. How old and outdated is our playground equipment? What other school has a fifteen-year-old merry-go-round on it? Our school president is turning this whole place into Communist Russia! [Clyde has gone to sleep, half the class is getting sleepy, Stan buries his head in his arms] It's not a coincidence that once Wendy took office this school started coming apart at the seams! Your teachers don't wanna tell you, but they are scared, and they should be, because the very fabric of this elementary school is tearing from all corners.\n",
+    "output": "Oh jeez!\n"
+  },
+  {
+    "input": "Oh jeez!\n",
+    "output": "But hey, I'm just a normal kid, like you, except that I ask questions. And because I'm brave enough to ask questions, I come under scrutinies. Is Wendy using your lunch money to buy heroin? Probably not, but how can we know? I don't want my lunch money going to drugs! Who's taking these drugs? What would be the point? I'm asking questions!\n"
+  },
+  {
+    "input": "But hey, I'm just a normal kid, like you, except that I ask questions. And because I'm brave enough to ask questions, I come under scrutinies. Is Wendy using your lunch money to buy heroin? Probably not, but how can we know? I don't want my lunch money going to drugs! Who's taking these drugs? What would be the point? I'm asking questions!\n",
+    "output": "Will somebody shut him up?\n[The principal's office, after the announcements. Cartman walks into the office. Mr. Mackey stands to Principal Victoria's left.]\n"
+  },
+  {
+    "input": "Will somebody shut him up?\n[The principal's office, after the announcements. Cartman walks into the office. Mr. Mackey stands to Principal Victoria's left.]\n",
+    "output": "You wanted to see me, Principal Victoria?\n"
+  },
+  {
+    "input": "You wanted to see me, Principal Victoria?\n",
+    "output": "The job is to read what is written on the paper, Eric, not to embellish the way you do.\n"
+  },
+  {
+    "input": "The job is to read what is written on the paper, Eric, not to embellish the way you do.\n",
+    "output": "Oohhhh I get it. You're trying to silence me! You're scared that somebody is standing up to this school and its president for once!\n"
+  },
+  {
+    "input": "Oohhhh I get it. You're trying to silence me! You're scared that somebody is standing up to this school and its president for once!\n",
+    "output": "No, it's just that the announcements need to be quick so the students can get on with their work.\n"
+  },
+  {
+    "input": "No, it's just that the announcements need to be quick so the students can get on with their work.\n",
+    "output": "Oh really?! Then how come Gordon Stoltski got to go on for like five minutes that one day?!\n"
+  },
+  {
+    "input": "Oh really?! Then how come Gordon Stoltski got to go on for like five minutes that one day?!\n",
+    "output": "Well, because he was being murdered.\n"
+  },
+  {
+    "input": "Well, because he was being murdered.\n",
+    "output": "You just want somebody to read what's in front of them like a brain-washed zombie, is that it Mr. Mackey? I am not Gordon Stoltski, okay?! I'm not some dog on a leash that just blindly says what he's told, until he's killed!\n"
+  },
+  {
+    "input": "You just want somebody to read what's in front of them like a brain-washed zombie, is that it Mr. Mackey? I am not Gordon Stoltski, okay?! I'm not some dog on a leash that just blindly says what he's told, until he's killed!\n",
+    "output": "All we ask is you keep it shorter.\n"
+  },
+  {
+    "input": "All we ask is you keep it shorter.\n",
+    "output": "Oh I will! And maybe I'll also have a word with the ACLU, tell them that a student is being told not to speak out against his school! I'm sure they'll find that very interesting!\n[South Park Elementary, morning. Cartman is back at the announcement desk. He's smiling, and clears his throat. Principal Victoria, Mr. Mackey, and two school district officials look on.]\n"
+  },
+  {
+    "input": "Oh I will! And maybe I'll also have a word with the ACLU, tell them that a student is being told not to speak out against his school! I'm sure they'll find that very interesting!\n[South Park Elementary, morning. Cartman is back at the announcement desk. He's smiling, and clears his throat. Principal Victoria, Mr. Mackey, and two school district officials look on.]\n",
+    "output": "Well. Goood morning South Park Elementary. These are the morning announcements. Tryouts for the soccer team are on Friday afternoon. That is of course if our student body president does something about our abysmal soccer field. [The first or second grade class is shown] I have a question. What does Wendy Testaburger actually do? She is supposed to be the president, right? What is her agenda? She's lying to everyone? Or is she? Let's ask these questions. [next day] Today I wanna talk briefly about the state of our school's economy. The bake sale last week was a complete failure. And in the school- [next day] And besides that, who actually voted for Wendy Testaburger? I know I didn't. And everyone who did is now scratching their heads and goin' \"Whoops. Guess I shouldn't have done that.\" [next day] I'm not in the student council, I'm just a normal kid like all of you. And like all of you, I want to know what has happened... to my school.\n[Cartman leads the school in reciting the Pledge of Allegiance.]\n"
+  },
+  {
+    "input": "Well. Goood morning South Park Elementary. These are the morning announcements. Tryouts for the soccer team are on Friday afternoon. That is of course if our student body president does something about our abysmal soccer field. [The first or second grade class is shown] I have a question. What does Wendy Testaburger actually do? She is supposed to be the president, right? What is her agenda? She's lying to everyone? Or is she? Let's ask these questions. [next day] Today I wanna talk briefly about the state of our school's economy. The bake sale last week was a complete failure. And in the school- [next day] And besides that, who actually voted for Wendy Testaburger? I know I didn't. And everyone who did is now scratching their heads and goin' \"Whoops. Guess I shouldn't have done that.\" [next day] I'm not in the student council, I'm just a normal kid like all of you. And like all of you, I want to know what has happened... to my school.\n[Cartman leads the school in reciting the Pledge of Allegiance.]\n",
+    "output": "I pledge allegiance to the fag -\n"
+  },
+  {
+    "input": "I pledge allegiance to the fag -\n",
+    "output": "- of the United States of America. OUR United States, not the one Wendy Testaburger would have, a socialist dunghole -\n"
+  },
+  {
+    "input": "- of the United States of America. OUR United States, not the one Wendy Testaburger would have, a socialist dunghole -\n",
+    "output": "- a socialist dunghole...\n[South Park Elementary, morning. Cartman is back at the announcement desk.]\n"
+  },
+  {
+    "input": "- a socialist dunghole...\n[South Park Elementary, morning. Cartman is back at the announcement desk.]\n",
+    "output": "Good morning students. These are the morning announcements. If you'll direct your attention to the new video monitors at the head of your class, [The lights go down and a monitor is shown above Mr. Garrison's desk] you will see that the announcements are now being done in video.\n"
+  },
+  {
+    "input": "Good morning students. These are the morning announcements. If you'll direct your attention to the new video monitors at the head of your class, [The lights go down and a monitor is shown above Mr. Garrison's desk] you will see that the announcements are now being done in video.\n",
+    "output": "Oh God, no! [Cartman has made his own graphic introduction full of poses]\n"
+  },
+  {
+    "input": "Oh God, no! [Cartman has made his own graphic introduction full of poses]\n",
+    "output": "Lunch today is going to be pizza. Again. [exhales forcefully] Friends, our school is dying and you know it. You feel it. You're like, you're like me; you wanna change it. But ohhh no, Wendy Testaburger's not gonna let that happen! This is not the school we grew up in, and ...and I don't know if we can get it back. [leaves his desk and walks over to a mobile blackboard] So let's take a look at exactly what our school president wants. You know, what is she trying to achieve? Let's just take a look at these Keywords here: Wendy's made it clear she wants our school to be a more Integrated Leftist and Liberal place! But you see what then happens, what we get is a Socialist, Modern, Utopian, Reformed, Farce of a School. So when you look closely it becomes very obvious what Wendy wants. K I L L S M U R F S. Our school president ...wants to kill Smurfs.\n"
+  },
+  {
+    "input": "Lunch today is going to be pizza. Again. [exhales forcefully] Friends, our school is dying and you know it. You feel it. You're like, you're like me; you wanna change it. But ohhh no, Wendy Testaburger's not gonna let that happen! This is not the school we grew up in, and ...and I don't know if we can get it back. [leaves his desk and walks over to a mobile blackboard] So let's take a look at exactly what our school president wants. You know, what is she trying to achieve? Let's just take a look at these Keywords here: Wendy's made it clear she wants our school to be a more Integrated Leftist and Liberal place! But you see what then happens, what we get is a Socialist, Modern, Utopian, Reformed, Farce of a School. So when you look closely it becomes very obvious what Wendy wants. K I L L S M U R F S. Our school president ...wants to kill Smurfs.\n",
+    "output": "[upset to the fact] NOOO!\n"
+  },
+  {
+    "input": "[upset to the fact] NOOO!\n",
+    "output": "I don't know if we're turning into a Smurf-hating school or what we're turning into, but unless you ask why [writes Y on the board], we're gonna transform into something.\n[South Park Elementary, school hallway, day. Wendy is at her locker when Butters approaches with a group of friends. We'll call them Melvins, after the group he formed with Dougie and Pip back in Season 3.]\n"
+  },
+  {
+    "input": "I don't know if we're turning into a Smurf-hating school or what we're turning into, but unless you ask why [writes Y on the board], we're gonna transform into something.\n[South Park Elementary, school hallway, day. Wendy is at her locker when Butters approaches with a group of friends. We'll call them Melvins, after the group he formed with Dougie and Pip back in Season 3.]\n",
+    "output": "Hey Wendy! Wendy! Is it true?\n"
+  },
+  {
+    "input": "Hey Wendy! Wendy! Is it true?\n",
+    "output": "Is what true?\n"
+  },
+  {
+    "input": "Is what true?\n",
+    "output": "That you hate Smurfs?\n"
+  },
+  {
+    "input": "That you hate Smurfs?\n",
+    "output": "I don't have time for this.\n"
+  },
+  {
+    "input": "I don't have time for this.\n",
+    "output": "Hey now! Me and us fellers were just asking questions!\n"
+  },
+  {
+    "input": "Hey now! Me and us fellers were just asking questions!\n",
+    "output": "Yeah, that's right. We can ask. [Casey is among them]\n"
+  },
+  {
+    "input": "Yeah, that's right. We can ask. [Casey is among them]\n",
+    "output": "Try to understand this: all I do is try to help run student council. I don't give a crap about Smurfs!\n"
+  },
+  {
+    "input": "Try to understand this: all I do is try to help run student council. I don't give a crap about Smurfs!\n",
+    "output": "[gasps and points] It is true!\n"
+  },
+  {
+    "input": "[gasps and points] It is true!\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "Yeah, bemememe!\n"
+  },
+  {
+    "input": "Yeah, bemememe!\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "Maybe you guys should check into what student council actually does, before you just blindly listen to what some idiot with a microphone tells you! [storms off]\n"
+  },
+  {
+    "input": "Maybe you guys should check into what student council actually does, before you just blindly listen to what some idiot with a microphone tells you! [storms off]\n",
+    "output": "What did the Smurfs ever do to you! Ya bitch! I just called the president a bitch.\n"
+  },
+  {
+    "input": "What did the Smurfs ever do to you! Ya bitch! I just called the president a bitch.\n",
+    "output": "Hyeah.\n"
+  },
+  {
+    "input": "Hyeah.\n",
+    "output": "That was cool.\n"
+  },
+  {
+    "input": "That was cool.\n",
+    "output": "Awesome.\n"
+  },
+  {
+    "input": "Awesome.\n",
+    "output": "Yeah, that was cool.\n"
+  },
+  {
+    "input": "Yeah, that was cool.\n",
+    "output": "Yeah, great job.\n[The cafeteria entrance, day. To one side is a huge poster on the wall and a smaller sign near a desk at which sits Cartman signing copies of his new book, \"What Happened To My School?\"]\n"
+  },
+  {
+    "input": "Yeah, great job.\n[The cafeteria entrance, day. To one side is a huge poster on the wall and a smaller sign near a desk at which sits Cartman signing copies of his new book, \"What Happened To My School?\"]\n",
+    "output": "\"Thank you\" and this is to..?\n"
+  },
+  {
+    "input": "\"Thank you\" and this is to..?\n",
+    "output": "Douglas.\n"
+  },
+  {
+    "input": "Douglas.\n",
+    "output": "[signs a copy] \"To Douglas.\" There you go. [gives it to him] Book signing today everyone, be sure to pick up your copy.\n"
+  },
+  {
+    "input": "[signs a copy] \"To Douglas.\" There you go. [gives it to him] Book signing today everyone, be sure to pick up your copy.\n",
+    "output": "Hey Eric!\n"
+  },
+  {
+    "input": "Hey Eric!\n",
+    "output": "Well hello. Another person who [looks to his right and tries to get the other kids' attention as they stream into the cafeteria] cares about the future of our school.\n"
+  },
+  {
+    "input": "Well hello. Another person who [looks to his right and tries to get the other kids' attention as they stream into the cafeteria] cares about the future of our school.\n",
+    "output": "Oh you bet! I love all the stuff you said about how our school president never does anything, and how she's changing everything.\n"
+  },
+  {
+    "input": "Oh you bet! I love all the stuff you said about how our school president never does anything, and how she's changing everything.\n",
+    "output": "Yes, well now you can read about all those things I've said, Butters. Take this copy of my book.\n"
+  },
+  {
+    "input": "Yes, well now you can read about all those things I've said, Butters. Take this copy of my book.\n",
+    "output": "Cool, thanks.\n"
+  },
+  {
+    "input": "Cool, thanks.\n",
+    "output": "That'll be five dollars.\n"
+  },
+  {
+    "input": "That'll be five dollars.\n",
+    "output": "[a bit disappointed] Oh, okay. [hands him a five-dollar bill]\n"
+  },
+  {
+    "input": "[a bit disappointed] Oh, okay. [hands him a five-dollar bill]\n",
+    "output": "What the hell do you think you're doing?!\n"
+  },
+  {
+    "input": "What the hell do you think you're doing?!\n",
+    "output": "A book signing.\n"
+  },
+  {
+    "input": "A book signing.\n",
+    "output": "I looked through your stupid book! It's five hundred and forty pages of ripping on Wendy and calling her a slut!\n"
+  },
+  {
+    "input": "I looked through your stupid book! It's five hundred and forty pages of ripping on Wendy and calling her a slut!\n",
+    "output": "I do not directly say she's a slut!\n"
+  },
+  {
+    "input": "I do not directly say she's a slut!\n",
+    "output": "\"Wendy Testaburger has proven time and time again that she will do anything to pleasure her vagina. Whether it is the school football team or the janitors on their break, Wendy spends her time as president on her knees or on her back taking the old in-out for hours on end\".\n"
+  },
+  {
+    "input": "\"Wendy Testaburger has proven time and time again that she will do anything to pleasure her vagina. Whether it is the school football team or the janitors on their break, Wendy spends her time as president on her knees or on her back taking the old in-out for hours on end\".\n",
+    "output": "[leans over the table and points something out to him] You didn't read the rest, dude.\n"
+  },
+  {
+    "input": "[leans over the table and points something out to him] You didn't read the rest, dude.\n",
+    "output": "\"Or does she?\"\n"
+  },
+  {
+    "input": "\"Or does she?\"\n",
+    "output": "\"Or does she?\" See, that's a question. I'm asking questions, Stan! I've called for Wendy to come on my show and defend herself, but she won't do it!\n"
+  },
+  {
+    "input": "\"Or does she?\" See, that's a question. I'm asking questions, Stan! I've called for Wendy to come on my show and defend herself, but she won't do it!\n",
+    "output": "[showing up with his Melvins] Yeah, and she hates Smurfs!\n[Some younger boys are reading the book.]\n"
+  },
+  {
+    "input": "[showing up with his Melvins] Yeah, and she hates Smurfs!\n[Some younger boys are reading the book.]\n",
+    "output": "\"Shouldn't we be worried if our school president is a girl who would rather get her tits licked than go to student council meetings?\" [the other boys react to that passage]\n"
+  },
+  {
+    "input": "\"Shouldn't we be worried if our school president is a girl who would rather get her tits licked than go to student council meetings?\" [the other boys react to that passage]\n",
+    "output": "Hey hey, stop reading that!\n"
+  },
+  {
+    "input": "Hey hey, stop reading that!\n",
+    "output": "Wull what do you mean?\n"
+  },
+  {
+    "input": "Wull what do you mean?\n",
+    "output": "Listen, just because a guy's voice is on the intercom and his words are in a book, doesn't mean he has any idea what he's talking about!\n"
+  },
+  {
+    "input": "Listen, just because a guy's voice is on the intercom and his words are in a book, doesn't mean he has any idea what he's talking about!\n",
+    "output": "Yes it does!\n"
+  },
+  {
+    "input": "Yes it does!\n",
+    "output": "Eric Cartman is simply making it so that all kids take responsibility to question their school leaders. We should all ask if our president is a penis-hungry hooker with a huge vagina. I'm Casey Miller. [Stan turns and walks away. He sees Wendy at her locker and approaches her.]\n"
+  },
+  {
+    "input": "Eric Cartman is simply making it so that all kids take responsibility to question their school leaders. We should all ask if our president is a penis-hungry hooker with a huge vagina. I'm Casey Miller. [Stan turns and walks away. He sees Wendy at her locker and approaches her.]\n",
+    "output": "Wendy, did you see the stuff Cartman is saying about you now?\n"
+  },
+  {
+    "input": "Wendy, did you see the stuff Cartman is saying about you now?\n",
+    "output": "I really don't care, Stan.\n"
+  },
+  {
+    "input": "I really don't care, Stan.\n",
+    "output": "Well don't you think you should go on his show and defend yourself?! Everyone is starting to think you're a crappy president.\n"
+  },
+  {
+    "input": "Well don't you think you should go on his show and defend yourself?! Everyone is starting to think you're a crappy president.\n",
+    "output": "I'm not giving Eric Fartman one minute of my time, you got that?! I'm not acknowledging his stupid questions. If you want him dealt with, you'll have to do it yourself! [takes up her backpack and storms off]\n[The principal's office, after the announcements. Cartman walks into the office. Mr. Mackey stands to Principal Victoria's left.]\n"
+  },
+  {
+    "input": "I'm not giving Eric Fartman one minute of my time, you got that?! I'm not acknowledging his stupid questions. If you want him dealt with, you'll have to do it yourself! [takes up her backpack and storms off]\n[The principal's office, after the announcements. Cartman walks into the office. Mr. Mackey stands to Principal Victoria's left.]\n",
+    "output": "You wanted to see me again, Principal Victoria?\n"
+  },
+  {
+    "input": "You wanted to see me again, Principal Victoria?\n",
+    "output": "Eric, we've been informed by a concerned student that you are writing naughty books about one of the girls here at the school.\n"
+  },
+  {
+    "input": "Eric, we've been informed by a concerned student that you are writing naughty books about one of the girls here at the school.\n",
+    "output": "Oh, Wendy came and told on me?! So what? Because she's president she can't be written about?\n"
+  },
+  {
+    "input": "Oh, Wendy came and told on me?! So what? Because she's president she can't be written about?\n",
+    "output": "Eric, apparently you wrote that Wendy's private parts are big enough to fly an airplane through, m'kay?\n"
+  },
+  {
+    "input": "Eric, apparently you wrote that Wendy's private parts are big enough to fly an airplane through, m'kay?\n",
+    "output": "And what if they are?! You'll stop me from asking just because Wendy forces you to?!\n"
+  },
+  {
+    "input": "And what if they are?! You'll stop me from asking just because Wendy forces you to?!\n",
+    "output": "Eric, the student body president really doesn't have the kind of power that you-\n"
+  },
+  {
+    "input": "Eric, the student body president really doesn't have the kind of power that you-\n",
+    "output": "Just enough power to force you to stop me from selling my book! Face it, you're a lackey, Mackey!\n"
+  },
+  {
+    "input": "Just enough power to force you to stop me from selling my book! Face it, you're a lackey, Mackey!\n",
+    "output": "[stands up] Eric, I've had enough! You cannot and you will not sell your books on school grounds! Do I make myself clear?!\n"
+  },
+  {
+    "input": "[stands up] Eric, I've had enough! You cannot and you will not sell your books on school grounds! Do I make myself clear?!\n",
+    "output": "Clear as summer rain! Clear as a flavorless bottle of vitamin water! This school has finally transformed to the socialist whoreland where a student isn't free! Well I'm not gonna be a part of it, do you understand?! I'm leaving this... hypocritical Communist school! I'm walking out and I'm never coming back! [turns and storms out of the office.]\n[South Park Elementary, next morning. The students are entering the school. Later...]\n"
+  },
+  {
+    "input": "Clear as summer rain! Clear as a flavorless bottle of vitamin water! This school has finally transformed to the socialist whoreland where a student isn't free! Well I'm not gonna be a part of it, do you understand?! I'm leaving this... hypocritical Communist school! I'm walking out and I'm never coming back! [turns and storms out of the office.]\n[South Park Elementary, next morning. The students are entering the school. Later...]\n",
+    "output": "[an adult male] Live, from the principal's office, these are the morning announcements. Here, is Eric Cartman.\n"
+  },
+  {
+    "input": "[an adult male] Live, from the principal's office, these are the morning announcements. Here, is Eric Cartman.\n",
+    "output": "Yesterday, as most of you know, I walked out on this program, and on our school. I was so... fed up with our president's hypocrisies, me not being allowed to sell my book. I wanted to live in a place where my values were still upheld. And so I decided to leave it all behind and instead just go and live with the Smurfs. [an animated sequence begins. Smurf Village is shown] I simply observed the gentle Smurfs at first. I wanted to understand how they could live such simple and decent lives. They were wary of me in the beginning, but slowly I began to earn their trust. [one day he steps up, and they gather round him] It wasn't long before the gentle Smurfs accepted me as one of their own. [they bring him a cap big enough to fit his head, he puts it on and grins. The camera pans up and the title of his animation appears: Dances with Smurfs]\n"
+  },
+  {
+    "input": "Yesterday, as most of you know, I walked out on this program, and on our school. I was so... fed up with our president's hypocrisies, me not being allowed to sell my book. I wanted to live in a place where my values were still upheld. And so I decided to leave it all behind and instead just go and live with the Smurfs. [an animated sequence begins. Smurf Village is shown] I simply observed the gentle Smurfs at first. I wanted to understand how they could live such simple and decent lives. They were wary of me in the beginning, but slowly I began to earn their trust. [one day he steps up, and they gather round him] It wasn't long before the gentle Smurfs accepted me as one of their own. [they bring him a cap big enough to fit his head, he puts it on and grins. The camera pans up and the title of his animation appears: Dances with Smurfs]\n",
+    "output": "Whoa... [this time Kyle is the one who has his head in his arms]\n"
+  },
+  {
+    "input": "Whoa... [this time Kyle is the one who has his head in his arms]\n",
+    "output": "The smurfs and I grew to understand each other. [Cartman is now dressed as a Smurf, but only his face is painted blue. He's harvesting berries with the Smurfs] They shared with me their art of picking Smurfberries, and I shared with them stories of my country's forefathers. Of course, it wasn't long before ...I fell in love with Smurfette. [He and the diminutive Smurfette sit on a log watching the sun set] We're from two different worlds and yet we spoke the common language of passion.\n"
+  },
+  {
+    "input": "The smurfs and I grew to understand each other. [Cartman is now dressed as a Smurf, but only his face is painted blue. He's harvesting berries with the Smurfs] They shared with me their art of picking Smurfberries, and I shared with them stories of my country's forefathers. Of course, it wasn't long before ...I fell in love with Smurfette. [He and the diminutive Smurfette sit on a log watching the sun set] We're from two different worlds and yet we spoke the common language of passion.\n",
+    "output": "\"These, are the morning announcements.\" [Butters shushes him and he buries his face in his arms again.]\n"
+  },
+  {
+    "input": "\"These, are the morning announcements.\" [Butters shushes him and he buries his face in his arms again.]\n",
+    "output": "Papa Smurf was displeased at first, [Cartman tries to catch up to Smurfette as her father takes her into their mushroom house] He told Smurfette I wasn't a real Smurf and we could never be happy. But I eventually proved myself to Papa Smurf by picking more Smurfberries than any Smurf had ever Smurfed before. Finally, all was right with the world. But then, a crisis. Clumsy Smurf burst into the Smurf ceremony to say that humans had come to destroy all of Smurfland.\n"
+  },
+  {
+    "input": "Papa Smurf was displeased at first, [Cartman tries to catch up to Smurfette as her father takes her into their mushroom house] He told Smurfette I wasn't a real Smurf and we could never be happy. But I eventually proved myself to Papa Smurf by picking more Smurfberries than any Smurf had ever Smurfed before. Finally, all was right with the world. But then, a crisis. Clumsy Smurf burst into the Smurf ceremony to say that humans had come to destroy all of Smurfland.\n",
+    "output": "No! No, you must leave the noble Smurfs alone! Who's behind all this?! [gasps at the sight of lots of bulldozers ready to raze Smurfland, and at their forewoman] I should have known. Wendy!\n"
+  },
+  {
+    "input": "No! No, you must leave the noble Smurfs alone! Who's behind all this?! [gasps at the sight of lots of bulldozers ready to raze Smurfland, and at their forewoman] I should have known. Wendy!\n",
+    "output": "[just Cartman dressed as Wendy] Out of my way! [this Wendy has padding to make her appear to have breasts]\n"
+  },
+  {
+    "input": "[just Cartman dressed as Wendy] Out of my way! [this Wendy has padding to make her appear to have breasts]\n",
+    "output": "Wendy, what are you doing here?!\n"
+  },
+  {
+    "input": "Wendy, what are you doing here?!\n",
+    "output": "Smurfberries are worth a lot of money. With all those Smurfberries I can power the school for the entire year.\n"
+  },
+  {
+    "input": "Smurfberries are worth a lot of money. With all those Smurfberries I can power the school for the entire year.\n",
+    "output": "Wendy, I know you're president of our school, but you can't just dig up the Smurfs' land!\n"
+  },
+  {
+    "input": "Wendy, I know you're president of our school, but you can't just dig up the Smurfs' land!\n",
+    "output": "Fuck the Smurfs! They can suck my fat tits! [she climbs onto one of the bulldozers, Cartman stands in front of it]\n"
+  },
+  {
+    "input": "Fuck the Smurfs! They can suck my fat tits! [she climbs onto one of the bulldozers, Cartman stands in front of it]\n",
+    "output": "How many Smurfberries is enough, Wendy?!\n"
+  },
+  {
+    "input": "How many Smurfberries is enough, Wendy?!\n",
+    "output": "You can suck my fat tits too! [steps on the gas and the bulldozer begins to move. She rolls over the land, mowing down trees, mushroom houses, and smurfs, killing them by the tens. Blood and guts splatter everywhere]\n"
+  },
+  {
+    "input": "You can suck my fat tits too! [steps on the gas and the bulldozer begins to move. She rolls over the land, mowing down trees, mushroom houses, and smurfs, killing them by the tens. Blood and guts splatter everywhere]\n",
+    "output": "Smurfette noooo!\n"
+  },
+  {
+    "input": "Smurfette noooo!\n",
+    "output": "Suck mah fat tits!\n"
+  },
+  {
+    "input": "Suck mah fat tits!\n",
+    "output": "And so now our school has plenty of precious unattainable Smurfberries. Yeah well big deal. At what cost did our school president get it? Every Smurf is dead. Wiped out and we will never see them again! Go on, look outside! You won't see any Smurfs! [Butters sobs] Of course, since I'm being silenced, I'm not allowed time to show you the entire movie. And so please buy Dances with Smurfs available now on DVD. [holds up the DVD case] The question now is, What happened to morals? What happened to dignity? What happened to my schooool?\n[South Park Elementary hallway, later. Butters is pacing the ground before a group of Melvins.]\n"
+  },
+  {
+    "input": "And so now our school has plenty of precious unattainable Smurfberries. Yeah well big deal. At what cost did our school president get it? Every Smurf is dead. Wiped out and we will never see them again! Go on, look outside! You won't see any Smurfs! [Butters sobs] Of course, since I'm being silenced, I'm not allowed time to show you the entire movie. And so please buy Dances with Smurfs available now on DVD. [holds up the DVD case] The question now is, What happened to morals? What happened to dignity? What happened to my schooool?\n[South Park Elementary hallway, later. Butters is pacing the ground before a group of Melvins.]\n",
+    "output": "That does it! Our student council is corrupt and has to be dealt with!\n"
+  },
+  {
+    "input": "That does it! Our student council is corrupt and has to be dealt with!\n",
+    "output": "I can no longer stand idly by.\n"
+  },
+  {
+    "input": "I can no longer stand idly by.\n",
+    "output": "We need to get all the kids together who wanna fight back and tell them to meet after school! We will forever remember this day, the day we finally stood up to Wendy Testaburger!\n"
+  },
+  {
+    "input": "We need to get all the kids together who wanna fight back and tell them to meet after school! We will forever remember this day, the day we finally stood up to Wendy Testaburger!\n",
+    "output": "It is time for that slutty Smurf-killing bitch to get what's comin' to 'er.\n"
+  },
+  {
+    "input": "It is time for that slutty Smurf-killing bitch to get what's comin' to 'er.\n",
+    "output": "Yeah!\n[Butters' house, after school. He's at the back patio talking to the Melvins over a megaphone. All of them are wearing shirts Cartman had made: \"I ask questions!\" with a picture of Cartman's head underneath.]\n"
+  },
+  {
+    "input": "Yeah!\n[Butters' house, after school. He's at the back patio talking to the Melvins over a megaphone. All of them are wearing shirts Cartman had made: \"I ask questions!\" with a picture of Cartman's head underneath.]\n",
+    "output": "I don't know about all of you, but I have had enough! We've been sitting back and watching as our school slowly goes into the toilet! But today, we do something about it! [the Melvins cheer] So let's march right over there to Wendy's house and do what we know needs to be done! [the Melvins cheer again, and follow him out the side gate and on to Wendy's house]\n[Butters stops his posse outside Wendy's house, on the sidewalk.]\n"
+  },
+  {
+    "input": "I don't know about all of you, but I have had enough! We've been sitting back and watching as our school slowly goes into the toilet! But today, we do something about it! [the Melvins cheer] So let's march right over there to Wendy's house and do what we know needs to be done! [the Melvins cheer again, and follow him out the side gate and on to Wendy's house]\n[Butters stops his posse outside Wendy's house, on the sidewalk.]\n",
+    "output": "Let us not forget what happens this day!\n"
+  },
+  {
+    "input": "Let us not forget what happens this day!\n",
+    "output": "Do it!\n"
+  },
+  {
+    "input": "Do it!\n",
+    "output": "We are here, Wendy Testaburger! [walks up to her front door, drops his pants and briefs, and pees on the front door.]\n"
+  },
+  {
+    "input": "We are here, Wendy Testaburger! [walks up to her front door, drops his pants and briefs, and pees on the front door.]\n",
+    "output": "Take that, school president!\n"
+  },
+  {
+    "input": "Take that, school president!\n",
+    "output": "Get her good!\n"
+  },
+  {
+    "input": "Get her good!\n",
+    "output": "I am.\n"
+  },
+  {
+    "input": "I am.\n",
+    "output": "[opens her window] Hey, what are you doing?\n"
+  },
+  {
+    "input": "[opens her window] Hey, what are you doing?\n",
+    "output": "The students want answerrrrs! Go on the Morning Announcements if you've got nothing to hide!\n"
+  },
+  {
+    "input": "The students want answerrrrs! Go on the Morning Announcements if you've got nothing to hide!\n",
+    "output": "[opens the front door and looks down] What the hell? [Butters stops peeing and looks up]\n"
+  },
+  {
+    "input": "[opens the front door and looks down] What the hell? [Butters stops peeing and looks up]\n",
+    "output": "Wah! [turns and waddles down the steps without pulling his pants up, then across the front yard] Smurfkiller! [runs down the street with the other Melvins] Answer for your crimes on the Morning Announcements!\n"
+  },
+  {
+    "input": "Wah! [turns and waddles down the steps without pulling his pants up, then across the front yard] Smurfkiller! [runs down the street with the other Melvins] Answer for your crimes on the Morning Announcements!\n",
+    "output": "Wendy, did a boy just pee on our door because the Smurfs were murdered? [Wendy plants her hands on her face, then removes them]\n"
+  },
+  {
+    "input": "Wendy, did a boy just pee on our door because the Smurfs were murdered? [Wendy plants her hands on her face, then removes them]\n",
+    "output": "It's okay Dad, I'll take care of it.\n[The Principal's office, next morning. Wendy and Cartman are on Cartman's set as his make-up people prepare him for the Announcements. One of them is Esther. They frost the lower part of his hair to give him a distinguished elderly look.]\n"
+  },
+  {
+    "input": "It's okay Dad, I'll take care of it.\n[The Principal's office, next morning. Wendy and Cartman are on Cartman's set as his make-up people prepare him for the Announcements. One of them is Esther. They frost the lower part of his hair to give him a distinguished elderly look.]\n",
+    "output": "Thank you so much for finally coming on my show, Wendy.\n"
+  },
+  {
+    "input": "Thank you so much for finally coming on my show, Wendy.\n",
+    "output": "Yeah, well, Butters peed on my house.\n"
+  },
+  {
+    "input": "Yeah, well, Butters peed on my house.\n",
+    "output": "People are riled up. Hopefully we can clear the air here this morning.\n"
+  },
+  {
+    "input": "People are riled up. Hopefully we can clear the air here this morning.\n",
+    "output": "If we could just keep it to questions about Student Council?\n"
+  },
+  {
+    "input": "If we could just keep it to questions about Student Council?\n",
+    "output": "Of course. That's why we're here.\n"
+  },
+  {
+    "input": "Of course. That's why we're here.\n",
+    "output": "Five seconds. [the make-up people move out as Cartman stands up]\n"
+  },
+  {
+    "input": "Five seconds. [the make-up people move out as Cartman stands up]\n",
+    "output": "Don't worry, I won't go too hard on you. [sits down and gets his notes ready as the chimes come in] Good morning South Park Elementary, these are the morning announcements. Rehearsals for the school play are cancelled this afternoon. For lunch the cafeteria will be serving meat loaf or veggie pasta. My guest today is the student body president of South Park Elementary, Wendy Testaburger. Wendy, thank you for coming on the show.\n"
+  },
+  {
+    "input": "Don't worry, I won't go too hard on you. [sits down and gets his notes ready as the chimes come in] Good morning South Park Elementary, these are the morning announcements. Rehearsals for the school play are cancelled this afternoon. For lunch the cafeteria will be serving meat loaf or veggie pasta. My guest today is the student body president of South Park Elementary, Wendy Testaburger. Wendy, thank you for coming on the show.\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "Wendy, I wanna start by asking a pretty straightforward question, and I hope you don't take offense to it.\n"
+  },
+  {
+    "input": "Wendy, I wanna start by asking a pretty straightforward question, and I hope you don't take offense to it.\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "How many Smurfberries is the life of each Smurf worth? [Wendy doesn't answer, and Cartman studies her reaction]\n"
+  },
+  {
+    "input": "How many Smurfberries is the life of each Smurf worth? [Wendy doesn't answer, and Cartman studies her reaction]\n",
+    "output": "I don't, I, I have no idea what-\n"
+  },
+  {
+    "input": "I don't, I, I have no idea what-\n",
+    "output": "You don't know how many Smurfberries the life of each Smurf is worth.\n[The Audio Video Department room. Butters and the Melvins are watching the announcements there.]\n"
+  },
+  {
+    "input": "You don't know how many Smurfberries the life of each Smurf is worth.\n[The Audio Video Department room. Butters and the Melvins are watching the announcements there.]\n",
+    "output": "Ohhh, he's got her now!\n[The Fourth Grade classroom. Kyle again has his face in his arms.]\n"
+  },
+  {
+    "input": "Ohhh, he's got her now!\n[The Fourth Grade classroom. Kyle again has his face in his arms.]\n",
+    "output": "Would you agree that the school is in a crisis right now?\n"
+  },
+  {
+    "input": "Would you agree that the school is in a crisis right now?\n",
+    "output": "I believe there is a ...few things wrong with the school, but-\n"
+  },
+  {
+    "input": "I believe there is a ...few things wrong with the school, but-\n",
+    "output": "If a Smurf dies and no one is around to hear it, does it still scream? [Wendy doesn't answer]\n[The Audio Video Department room.]\n"
+  },
+  {
+    "input": "If a Smurf dies and no one is around to hear it, does it still scream? [Wendy doesn't answer]\n[The Audio Video Department room.]\n",
+    "output": "She's speechless!\n"
+  },
+  {
+    "input": "She's speechless!\n",
+    "output": "You are the president of the school. Can you see why many students think you're an ineffective slut? Are you denying that the Smurf holocaust ever happened? Is that what you're suggesting?\n"
+  },
+  {
+    "input": "You are the president of the school. Can you see why many students think you're an ineffective slut? Are you denying that the Smurf holocaust ever happened? Is that what you're suggesting?\n",
+    "output": "Look, Eric, you have to understand. The Smurfberries were our school government's only option.\n"
+  },
+  {
+    "input": "Look, Eric, you have to understand. The Smurfberries were our school government's only option.\n",
+    "output": "Yes, and that makes- whoa whoa what?\n"
+  },
+  {
+    "input": "Yes, and that makes- whoa whoa what?\n",
+    "output": "What was I supposed to do? The school was running out of power. We tried relocating the Smurfs at first, but they wouldn't budge! So we decided to get somebody on the inside. A member of the school who could act like one of the Smurfs and learn their secrets. But of course you know that, don't you?\n"
+  },
+  {
+    "input": "What was I supposed to do? The school was running out of power. We tried relocating the Smurfs at first, but they wouldn't budge! So we decided to get somebody on the inside. A member of the school who could act like one of the Smurfs and learn their secrets. But of course you know that, don't you?\n",
+    "output": "What? What do you mean I know that?\n"
+  },
+  {
+    "input": "What? What do you mean I know that?\n",
+    "output": "I'm just asking a question. We all knew you were sent in to live with the Smurfs, but did you know they would be wiped out?\n"
+  },
+  {
+    "input": "I'm just asking a question. We all knew you were sent in to live with the Smurfs, but did you know they would be wiped out?\n",
+    "output": "No! You wiped them all out!\n"
+  },
+  {
+    "input": "No! You wiped them all out!\n",
+    "output": "[gets off her chair and walks around a bit] Nobody expected you to fall in love with Smurfette. You went to learn from them, but instead you became one of them, right? Fought against your own kind when you knew we'd stop at nothing! Do you know that one Smurfberry can power the school for two months? One Smurfberry!\n"
+  },
+  {
+    "input": "[gets off her chair and walks around a bit] Nobody expected you to fall in love with Smurfette. You went to learn from them, but instead you became one of them, right? Fought against your own kind when you knew we'd stop at nothing! Do you know that one Smurfberry can power the school for two months? One Smurfberry!\n",
+    "output": "Wait, hold on, can we take a break?\n"
+  },
+  {
+    "input": "Wait, hold on, can we take a break?\n",
+    "output": "No, it's okay! It's all out in the open now. I wouldn't have had to kill the Smurfs if they would have simply moved on. But you gave them the will to stay, and I guess... you can't be blamed for that.\n[Mr. Garrison's classroom.]\n"
+  },
+  {
+    "input": "No, it's okay! It's all out in the open now. I wouldn't have had to kill the Smurfs if they would have simply moved on. But you gave them the will to stay, and I guess... you can't be blamed for that.\n[Mr. Garrison's classroom.]\n",
+    "output": "What?!\n[The Principal's office.]\n"
+  },
+  {
+    "input": "What?!\n[The Principal's office.]\n",
+    "output": "And that is why... I'm stepping down. You were right all along, Cartman. And I am hereby making you the student body president.\n[The AV Department room.]\n"
+  },
+  {
+    "input": "And that is why... I'm stepping down. You were right all along, Cartman. And I am hereby making you the student body president.\n[The AV Department room.]\n",
+    "output": "All right! Cartman's president. We did it.\n"
+  },
+  {
+    "input": "All right! Cartman's president. We did it.\n",
+    "output": "I'm confused.\n[The Principal's office.]\n"
+  },
+  {
+    "input": "I'm confused.\n[The Principal's office.]\n",
+    "output": "Dude, you can't take my Dances with Smurfs idea and turn it into your own thing-\n"
+  },
+  {
+    "input": "Dude, you can't take my Dances with Smurfs idea and turn it into your own thing-\n",
+    "output": "No, you're right. The students all deserve to know the truth. And so I have answered what really happened in my new book, Going Rogue on the Smurfs.\n"
+  },
+  {
+    "input": "No, you're right. The students all deserve to know the truth. And so I have answered what really happened in my new book, Going Rogue on the Smurfs.\n",
+    "output": "No! No, dude! You don't just take one person's story and then add a couple of things and call it yours!\n"
+  },
+  {
+    "input": "No! No, dude! You don't just take one person's story and then add a couple of things and call it yours!\n",
+    "output": "Luckily with the money I made selling the movie rights to my book, I'll be okay.\n"
+  },
+  {
+    "input": "Luckily with the money I made selling the movie rights to my book, I'll be okay.\n",
+    "output": "You sold the movie rights to who?!\n"
+  },
+  {
+    "input": "You sold the movie rights to who?!\n",
+    "output": "James Cameron. Go look. The movie came out already.\n"
+  },
+  {
+    "input": "James Cameron. Go look. The movie came out already.\n",
+    "output": "Theh- They can't do that! I'm student body president!\n[The Bijou. Playing there now is Avatar, James Cameron's latest movie. Cartman comes out of the 4:30 showing really pissed off.]\n"
+  },
+  {
+    "input": "Theh- They can't do that! I'm student body president!\n[The Bijou. Playing there now is Avatar, James Cameron's latest movie. Cartman comes out of the 4:30 showing really pissed off.]\n",
+    "output": "[crossing the street] Oh God damn it! Son of a bitch idea-stealing assholes! [turns around and rants at the theater] You sons of bitches! Dances with Smurfs was MY idea! MY IDEA! [gives the theater two middle fingers three times] You can't just take Dances with Smurfs and call it something else! [gives the theater two middle fingers three more times]\n[South Park Elementary, next morning. The fourth graders take their seats. Cartman comes in and takes his seat, still angry.]\n"
+  },
+  {
+    "input": "[crossing the street] Oh God damn it! Son of a bitch idea-stealing assholes! [turns around and rants at the theater] You sons of bitches! Dances with Smurfs was MY idea! MY IDEA! [gives the theater two middle fingers three times] You can't just take Dances with Smurfs and call it something else! [gives the theater two middle fingers three more times]\n[South Park Elementary, next morning. The fourth graders take their seats. Cartman comes in and takes his seat, still angry.]\n",
+    "output": "Huh!\n"
+  },
+  {
+    "input": "Huh!\n",
+    "output": "Dude, what happened? You're not doing the morning announcements anymore?\n"
+  },
+  {
+    "input": "Dude, what happened? You're not doing the morning announcements anymore?\n",
+    "output": "No, because it turns out that by rule, the student body president can't also be the morning announcement reader!\n"
+  },
+  {
+    "input": "No, because it turns out that by rule, the student body president can't also be the morning announcement reader!\n",
+    "output": "Oh well, at least as president you can run the school the way you want.\n"
+  },
+  {
+    "input": "Oh well, at least as president you can run the school the way you want.\n",
+    "output": "I can't do jack! I went to my first student council meeting; all we did was talk about what colors to make the stupid Sadie Hawkins dance! Student council's retarded! [the chimes come on]\n"
+  },
+  {
+    "input": "I can't do jack! I went to my first student council meeting; all we did was talk about what colors to make the stupid Sadie Hawkins dance! Student council's retarded! [the chimes come on]\n",
+    "output": "The sun is up and the birds are chirping. I'm Casey Miller and these, are the morning announcements. I have a letter from second-grade student Brian Falner. Brian writes, \"Dear Casey, why is our school president such a fat stupid dickhead? My desk is broken, and so far Eric Cartman has done nothing about it. Will you please let that walking bowl of anus pus know that we are not happy?\" Well Brian, I couldn't agree more. Our asshole president is a fat smelly douchebag milkshake.\n"
+  }
+]

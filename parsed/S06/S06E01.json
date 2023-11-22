@@ -1,0 +1,1430 @@
+[
+  {
+    "input": "",
+    "output": "Jared Has Aides\n\n[Cartman's house, living room, day. Cartman, Stan, and Kyle are on the sofa laughing as Cartman does some prank calls.]\n"
+  },
+  {
+    "input": "Jared Has Aides\n\n[Cartman's house, living room, day. Cartman, Stan, and Kyle are on the sofa laughing as Cartman does some prank calls.]\n",
+    "output": "[dialing] Shu- shut up you guys, shut up you guys. [the boys quiet down and cover their mouths as the call goes through to City Wok, a Chinese restaurant.]\n"
+  },
+  {
+    "input": "[dialing] Shu- shut up you guys, shut up you guys. [the boys quiet down and cover their mouths as the call goes through to City Wok, a Chinese restaurant.]\n",
+    "output": "Herro, Shitty Wok, take your order prease.\n"
+  },
+  {
+    "input": "Herro, Shitty Wok, take your order prease.\n",
+    "output": "[the boys giggle] Hello, is this City Wok?\n"
+  },
+  {
+    "input": "[the boys giggle] Hello, is this City Wok?\n",
+    "output": "Yes, this Shitty Wok\n"
+  },
+  {
+    "input": "Yes, this Shitty Wok\n",
+    "output": "[the boys giggle harder] Uh, yes, we'd like one order of the City Beef.\n"
+  },
+  {
+    "input": "[the boys giggle harder] Uh, yes, we'd like one order of the City Beef.\n",
+    "output": "[writing] Shitty Beef...\n"
+  },
+  {
+    "input": "[writing] Shitty Beef...\n",
+    "output": "Aha, and I'll have the City Chicken.\n"
+  },
+  {
+    "input": "Aha, and I'll have the City Chicken.\n",
+    "output": "[writing] Shitty Chicken... [the boys bursts in laughter. Cartman rolls back on the sofa]\n"
+  },
+  {
+    "input": "[writing] Shitty Chicken... [the boys bursts in laughter. Cartman rolls back on the sofa]\n",
+    "output": "Oh, dude, look! [the others look up and the phone falls off Cartman's lap to the floor] It's that commercial with the guy that lost 400 pounds eating at Subway Sandwiches!\n[Commercial. The first thing on the screen is a submarine sandwich. It pans across the screen.]\n"
+  },
+  {
+    "input": "Oh, dude, look! [the others look up and the phone falls off Cartman's lap to the floor] It's that commercial with the guy that lost 400 pounds eating at Subway Sandwiches!\n[Commercial. The first thing on the screen is a submarine sandwich. It pans across the screen.]\n",
+    "output": "He's still lookin' good!\n[a man appears eating a footlong subway sandwich. The name \"JARED FOGLE\" appears on the screen near the bottom]\nHis name is Jared\n[he struts down a sidewalk. \"LOST 262 LBS.\" appears on the screen]\nHis name is Jared and he likes to eat the sandwiches...\n[a side shot of Jared walking smoothly behind a white picket fence in Downtown, then of slices of a party sub, then of the first sandwich]\n[Cartman living room. Butters walks in.]\n"
+  },
+  {
+    "input": "He's still lookin' good!\n[a man appears eating a footlong subway sandwich. The name \"JARED FOGLE\" appears on the screen near the bottom]\nHis name is Jared\n[he struts down a sidewalk. \"LOST 262 LBS.\" appears on the screen]\nHis name is Jared and he likes to eat the sandwiches...\n[a side shot of Jared walking smoothly behind a white picket fence in Downtown, then of slices of a party sub, then of the first sandwich]\n[Cartman living room. Butters walks in.]\n",
+    "output": "Uh, hey, fellas.\n"
+  },
+  {
+    "input": "Uh, hey, fellas.\n",
+    "output": "Hey Kenny.\n"
+  },
+  {
+    "input": "Hey Kenny.\n",
+    "output": "[upset] Now gosh darnit, my name's not Kenny! Kenny's dead, and you're all gonna have to learn to deal with it!\n"
+  },
+  {
+    "input": "[upset] Now gosh darnit, my name's not Kenny! Kenny's dead, and you're all gonna have to learn to deal with it!\n",
+    "output": "Okay, Not-Kenny.\n[Commercial continues.]\n"
+  },
+  {
+    "input": "Okay, Not-Kenny.\n[Commercial continues.]\n",
+    "output": "Hey South Park! [camera switches to the TV. Jared is shown munching away on a sub sandwich behind splash bubbles saying \"JARED LIVE\" \"FREE SUBS\" and \"LOSE WEIGHT\" and \"MEET JARED\" \"SOUTH PARK, COLORADO\"] You can meet Jared IN PERSON March 6 at the Kenny McCormick Memorial Town Square!\n"
+  },
+  {
+    "input": "Hey South Park! [camera switches to the TV. Jared is shown munching away on a sub sandwich behind splash bubbles saying \"JARED LIVE\" \"FREE SUBS\" and \"LOSE WEIGHT\" and \"MEET JARED\" \"SOUTH PARK, COLORADO\"] You can meet Jared IN PERSON March 6 at the Kenny McCormick Memorial Town Square!\n",
+    "output": "[excited] Woh, boy! Jared's comin' to town!\n"
+  },
+  {
+    "input": "[excited] Woh, boy! Jared's comin' to town!\n",
+    "output": "Dude! That's today!\n"
+  },
+  {
+    "input": "Dude! That's today!\n",
+    "output": "We've gotta get down there! Come on, Not-Kenny! [Stan and Kyle hop off the sofa and head for the front door]\n"
+  },
+  {
+    "input": "We've gotta get down there! Come on, Not-Kenny! [Stan and Kyle hop off the sofa and head for the front door]\n",
+    "output": "[angered] Now gosh darnit, my name's not Not-Kenny!\n"
+  },
+  {
+    "input": "[angered] Now gosh darnit, my name's not Not-Kenny!\n",
+    "output": "[hops off and follows Stan and Kyle] Okay, come on, Not-Not-Kenny.\n"
+  },
+  {
+    "input": "[hops off and follows Stan and Kyle] Okay, come on, Not-Not-Kenny.\n",
+    "output": "Wo-ah I'm getting steamed now. [follows the other three. The phone remains on the floor]\n"
+  },
+  {
+    "input": "Wo-ah I'm getting steamed now. [follows the other three. The phone remains on the floor]\n",
+    "output": "[the receiver rattles with his voice] Hello! City Wok! City Wok, I take your order prease!\n[Kenny McCormick Memorial Town Square, moments later. A crowd is in front of the stage waiting for Jared, with people holding up signs saying \"We Love Jared\" \"We Love You Jared!!\" \"Jared for President\", etc. The boys walk up to Herbert Garrison. Kyle taps him.]\n"
+  },
+  {
+    "input": "[the receiver rattles with his voice] Hello! City Wok! City Wok, I take your order prease!\n[Kenny McCormick Memorial Town Square, moments later. A crowd is in front of the stage waiting for Jared, with people holding up signs saying \"We Love Jared\" \"We Love You Jared!!\" \"Jared for President\", etc. The boys walk up to Herbert Garrison. Kyle taps him.]\n",
+    "output": "Excuse me? Could we get through here?\n"
+  },
+  {
+    "input": "Excuse me? Could we get through here?\n",
+    "output": "[turns around] Hell no! I've been savin' this spot for six hours! [begins to dance]\nHis name is Garrison, Mr. Garrison. He lost ten pounds takin' Jared's lead-\n"
+  },
+  {
+    "input": "[turns around] Hell no! I've been savin' this spot for six hours! [begins to dance]\nHis name is Garrison, Mr. Garrison. He lost ten pounds takin' Jared's lead-\n",
+    "output": "Here he comes! [the crowd turns left as one and starts clamoring. Jared struts towards the crowd as his theme song comes up]\n"
+  },
+  {
+    "input": "Here he comes! [the crowd turns left as one and starts clamoring. Jared struts towards the crowd as his theme song comes up]\n",
+    "output": "He's still lookin' good, with all those... sub sandwiches... [Jared walks up on stage and takes the podium]\n"
+  },
+  {
+    "input": "He's still lookin' good, with all those... sub sandwiches... [Jared walks up on stage and takes the podium]\n",
+    "output": "Thank you all so much. You know what? After a year of eating delicious sub sandwiches, I've proven weight loss is easy! [the crowd cheers] And I promise you, I will always be your faithful leader in easy weight loss!\n"
+  },
+  {
+    "input": "Thank you all so much. You know what? After a year of eating delicious sub sandwiches, I've proven weight loss is easy! [the crowd cheers] And I promise you, I will always be your faithful leader in easy weight loss!\n",
+    "output": "Alright! [more cheering]\n"
+  },
+  {
+    "input": "Alright! [more cheering]\n",
+    "output": "That guy ate all the sandwiches he wanted and lost weight. He is so cool.\n[South Park, later. A knock is heard and a door opens. Jared is seen eating a sub at a desk. A worker peaks in.]\n"
+  },
+  {
+    "input": "That guy ate all the sandwiches he wanted and lost weight. He is so cool.\n[South Park, later. A knock is heard and a door opens. Jared is seen eating a sub at a desk. A worker peaks in.]\n",
+    "output": "Mr. Fogle, some fans wanted to see if you'd sign their sandwich?\n"
+  },
+  {
+    "input": "Mr. Fogle, some fans wanted to see if you'd sign their sandwich?\n",
+    "output": "Sure, let 'em in. [the worker lets the boys in and Jared spins around to face them] Hi kids. [the room Jared is in is a dressing room]\n"
+  },
+  {
+    "input": "Sure, let 'em in. [the worker lets the boys in and Jared spins around to face them] Hi kids. [the room Jared is in is a dressing room]\n",
+    "output": "Wow, Jared!\n"
+  },
+  {
+    "input": "Wow, Jared!\n",
+    "output": "Dude! Did you really lose all that weight eating nothing but sub sandwiches?\n"
+  },
+  {
+    "input": "Dude! Did you really lose all that weight eating nothing but sub sandwiches?\n",
+    "output": "I sure did! And- Well- Well I, I also had a little help on the side.\n"
+  },
+  {
+    "input": "I sure did! And- Well- Well I, I also had a little help on the side.\n",
+    "output": "What kind of help?\n"
+  },
+  {
+    "input": "What kind of help?\n",
+    "output": "Well, eating sub sandwiches was a big part of it. But the way that I lost so much weight was that I got aides.\n"
+  },
+  {
+    "input": "Well, eating sub sandwiches was a big part of it. But the way that I lost so much weight was that I got aides.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "That's right. I got aides about two years ago and I've been losing weight ever since. It's amazing how slim you can get with aides.\n"
+  },
+  {
+    "input": "That's right. I got aides about two years ago and I've been losing weight ever since. It's amazing how slim you can get with aides.\n",
+    "output": "I'll bet you can.\n"
+  },
+  {
+    "input": "I'll bet you can.\n",
+    "output": "Would you like to meet them?\n"
+  },
+  {
+    "input": "Would you like to meet them?\n",
+    "output": "[steps backwards] Them?\n"
+  },
+  {
+    "input": "[steps backwards] Them?\n",
+    "output": "My aides. Scott! Tyler! [moves to the door. The two aides come in and Jared stands behind them. Then he looks at the blond to his left] Scott is my personal trainer [looks at the light brunet to his right] and Tyler is my dietitian.\n"
+  },
+  {
+    "input": "My aides. Scott! Tyler! [moves to the door. The two aides come in and Jared stands behind them. Then he looks at the blond to his left] Scott is my personal trainer [looks at the light brunet to his right] and Tyler is my dietitian.\n",
+    "output": "Hello.\n"
+  },
+  {
+    "input": "Hello.\n",
+    "output": "Oh, \"A I D E S,\" aides.\n"
+  },
+  {
+    "input": "Oh, \"A I D E S,\" aides.\n",
+    "output": "Yep. Hooray for aides!\n"
+  },
+  {
+    "input": "Yep. Hooray for aides!\n",
+    "output": "Well, that's not really what you say in the commercial.\n"
+  },
+  {
+    "input": "Well, that's not really what you say in the commercial.\n",
+    "output": "I know. You kinda have to read the fine print at the bottom of the screen. It says I only ate a half-sized lean turkey sandwich with no mustard or mayo or anything like that and then had proper diet and exercise aides.\n"
+  },
+  {
+    "input": "I know. You kinda have to read the fine print at the bottom of the screen. It says I only ate a half-sized lean turkey sandwich with no mustard or mayo or anything like that and then had proper diet and exercise aides.\n",
+    "output": "But you're lying to people. If they knew that you didn't eat just all the sandwiches you want, you might not be so popular.\n"
+  },
+  {
+    "input": "But you're lying to people. If they knew that you didn't eat just all the sandwiches you want, you might not be so popular.\n",
+    "output": "Y- you think so. Well, why... should it matter?\n"
+  },
+  {
+    "input": "Y- you think so. Well, why... should it matter?\n",
+    "output": "It matters, dude. [Jared begins to think...]\n"
+  },
+  {
+    "input": "It matters, dude. [Jared begins to think...]\n",
+    "output": "Hmmm.\n[Main Street, moments later. The boys walk along...]\n"
+  },
+  {
+    "input": "Hmmm.\n[Main Street, moments later. The boys walk along...]\n",
+    "output": "That penisbutt didn't lose weight eating sub sandwiches. He lost weight because he ate less of them and exercised.\n"
+  },
+  {
+    "input": "That penisbutt didn't lose weight eating sub sandwiches. He lost weight because he ate less of them and exercised.\n",
+    "output": "Yeah, it's only in America that somebody can become famous just because they go from being a big fatass to not being a big fatass.\n"
+  },
+  {
+    "input": "Yeah, it's only in America that somebody can become famous just because they go from being a big fatass to not being a big fatass.\n",
+    "output": "Oh-my-god! [turns around] You guys! I think I'm having a genius moment. Yes. Yes! Its coming to me now.\n"
+  },
+  {
+    "input": "Oh-my-god! [turns around] You guys! I think I'm having a genius moment. Yes. Yes! Its coming to me now.\n",
+    "output": "Tha- that's diarrhea.\n"
+  },
+  {
+    "input": "Tha- that's diarrhea.\n",
+    "output": "Noo. Don't you see what this all means? Anybody could do what he did. What's to stop someone else from going to say, City Wok, and cutting a deal with them? Say they'll eat nothing but their Chinese food, but then eat only a little tiny bit of it and exercise.\n"
+  },
+  {
+    "input": "Noo. Don't you see what this all means? Anybody could do what he did. What's to stop someone else from going to say, City Wok, and cutting a deal with them? Say they'll eat nothing but their Chinese food, but then eat only a little tiny bit of it and exercise.\n",
+    "output": "[following] Then City Wok could say their food makes them lose weight.\n"
+  },
+  {
+    "input": "[following] Then City Wok could say their food makes them lose weight.\n",
+    "output": "[softly] That's right Stan. [bolder] It's a cash cow, I tell you.\n"
+  },
+  {
+    "input": "[softly] That's right Stan. [bolder] It's a cash cow, I tell you.\n",
+    "output": "That's a great idea!\n"
+  },
+  {
+    "input": "That's a great idea!\n",
+    "output": "Lose weight and make money... I tell you this is gonna be the greatest thing that Butters has ever done.\n"
+  },
+  {
+    "input": "Lose weight and make money... I tell you this is gonna be the greatest thing that Butters has ever done.\n",
+    "output": "[surprised, steps backwards] Me?!\n"
+  },
+  {
+    "input": "[surprised, steps backwards] Me?!\n",
+    "output": "Weh- who do you think I'm talkin' about, Butters? Joyce de Witt?\n"
+  },
+  {
+    "input": "Weh- who do you think I'm talkin' about, Butters? Joyce de Witt?\n",
+    "output": "Oh, no, I thought you meant you. Eh, you're the fat one.\n"
+  },
+  {
+    "input": "Oh, no, I thought you meant you. Eh, you're the fat one.\n",
+    "output": "I can't lose weight, Butters, 'cause I'm not fat. I'm big-boned. You can't slim down bones, stupid!\n"
+  },
+  {
+    "input": "I can't lose weight, Butters, 'cause I'm not fat. I'm big-boned. You can't slim down bones, stupid!\n",
+    "output": "But Butters isn't fat.\n"
+  },
+  {
+    "input": "But Butters isn't fat.\n",
+    "output": "That's my whole point. First we fatten him up, then we make the deal with City Wok, then take the weight back off.\n"
+  },
+  {
+    "input": "That's my whole point. First we fatten him up, then we make the deal with City Wok, then take the weight back off.\n",
+    "output": "He's right. If Butters is naturally skinny, he'll be able to take the weight off faster.\n"
+  },
+  {
+    "input": "He's right. If Butters is naturally skinny, he'll be able to take the weight off faster.\n",
+    "output": "But fellas, if I get fat my parents will ground me.\n"
+  },
+  {
+    "input": "But fellas, if I get fat my parents will ground me.\n",
+    "output": "Oh, come on! Just think about how famous you'll be!\n"
+  },
+  {
+    "input": "Oh, come on! Just think about how famous you'll be!\n",
+    "output": "You mean like Jared?\n"
+  },
+  {
+    "input": "You mean like Jared?\n",
+    "output": "Yeah dude! You'll be just like Jared!\n"
+  },
+  {
+    "input": "Yeah dude! You'll be just like Jared!\n",
+    "output": "[angrily] Well the heck with that! You said Jared was a penis-butt!\n"
+  },
+  {
+    "input": "[angrily] Well the heck with that! You said Jared was a penis-butt!\n",
+    "output": "You wouldn't be a penis-butt, Butters, you'd be famous. Just think about all those people following you around, singing songs to you just because you lost some weight...\nHis name is Butters, it's Butters. [the boys begin to sway for each line]\n"
+  },
+  {
+    "input": "You wouldn't be a penis-butt, Butters, you'd be famous. Just think about all those people following you around, singing songs to you just because you lost some weight...\nHis name is Butters, it's Butters. [the boys begin to sway for each line]\n",
+    "output": "He used to be fat but not no more [Butters brightens up]\n"
+  },
+  {
+    "input": "He used to be fat but not no more [Butters brightens up]\n",
+    "output": "City Wok brought him down to a size 4.\n"
+  },
+  {
+    "input": "City Wok brought him down to a size 4.\n",
+    "output": "Now, he's got lots of moneys and girls.\n"
+  },
+  {
+    "input": "Now, he's got lots of moneys and girls.\n",
+    "output": "[slowing] and a lifetime of free food at City Wok.\n"
+  },
+  {
+    "input": "[slowing] and a lifetime of free food at City Wok.\n",
+    "output": "[beaming] Wow.\n[Le Place Restaurant, night. Jared is dining with a woman inside.]\n"
+  },
+  {
+    "input": "[beaming] Wow.\n[Le Place Restaurant, night. Jared is dining with a woman inside.]\n",
+    "output": "Christine, you know I love you very much, and I, I can't wait for the wedding.\n"
+  },
+  {
+    "input": "Christine, you know I love you very much, and I, I can't wait for the wedding.\n",
+    "output": "I love you too, Jared. You've changed my whole life.\nHer name is Jonez, Christine Jonez\nShe lost forty pounds when she met Jared-\n"
+  },
+  {
+    "input": "I love you too, Jared. You've changed my whole life.\nHer name is Jonez, Christine Jonez\nShe lost forty pounds when she met Jared-\n",
+    "output": "Yeh, I know I know, I know. But uh... some young boys were talkin' to me earlier, and... it made me think that people might not be so proud of my weight loss if they knew something.\n"
+  },
+  {
+    "input": "Yeh, I know I know, I know. But uh... some young boys were talkin' to me earlier, and... it made me think that people might not be so proud of my weight loss if they knew something.\n",
+    "output": "Jared, what's this all about?\n"
+  },
+  {
+    "input": "Jared, what's this all about?\n",
+    "output": "Uh, Christine, this isn't probably gonna matter to you at all, but... I have aides.\n"
+  },
+  {
+    "input": "Uh, Christine, this isn't probably gonna matter to you at all, but... I have aides.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Yeah, I have aides. I've had aides since before we were together. [Christine's jaw drops] What, what are you thinking? Are you bummed?\n"
+  },
+  {
+    "input": "Yeah, I have aides. I've had aides since before we were together. [Christine's jaw drops] What, what are you thinking? Are you bummed?\n",
+    "output": "Am I bummed?! [moves her chair away from Jared and faces him] You've had AIDS all this time and you knew it?!\n"
+  },
+  {
+    "input": "Am I bummed?! [moves her chair away from Jared and faces him] You've had AIDS all this time and you knew it?!\n",
+    "output": "Well of course I knew it.\n"
+  },
+  {
+    "input": "Well of course I knew it.\n",
+    "output": "Why the hell wouldn't you tell me?!\n"
+  },
+  {
+    "input": "Why the hell wouldn't you tell me?!\n",
+    "output": "I didn't think it was that big of a deal.\n"
+  },
+  {
+    "input": "I didn't think it was that big of a deal.\n",
+    "output": "Not that big of a deal?! I slept with you!\n"
+  },
+  {
+    "input": "Not that big of a deal?! I slept with you!\n",
+    "output": "Aren't you overreacting a little bit?\n"
+  },
+  {
+    "input": "Aren't you overreacting a little bit?\n",
+    "output": "Well, Jesus Christ! We're supposed to get married!\n"
+  },
+  {
+    "input": "Well, Jesus Christ! We're supposed to get married!\n",
+    "output": "We can still get married Christine, I mean, sure, they're my aides now, but after we get married... they'll be our aides [Christine sobs] You'll love having aides, Christine, you really will. And when we have children, they'll have aides. It'll make things so simple! [Christine throws up her arms, rises from her chair, and runs out of the restaurant sobbing] Christine! [rises and moves to follow Christine, but stops to think] Jeez, those boys were right. People really don't like aides. I'd better tell everyone the truth.\n[South Park Elementary, next day. The boys enter the kitchen to get their meals.]\n"
+  },
+  {
+    "input": "We can still get married Christine, I mean, sure, they're my aides now, but after we get married... they'll be our aides [Christine sobs] You'll love having aides, Christine, you really will. And when we have children, they'll have aides. It'll make things so simple! [Christine throws up her arms, rises from her chair, and runs out of the restaurant sobbing] Christine! [rises and moves to follow Christine, but stops to think] Jeez, those boys were right. People really don't like aides. I'd better tell everyone the truth.\n[South Park Elementary, next day. The boys enter the kitchen to get their meals.]\n",
+    "output": "Hello there, children.\n"
+  },
+  {
+    "input": "Hello there, children.\n",
+    "output": "Chef, we need Butters to gain about fifty pounds fast.\n"
+  },
+  {
+    "input": "Chef, we need Butters to gain about fifty pounds fast.\n",
+    "output": "Fifty pounds? Why?\n"
+  },
+  {
+    "input": "Fifty pounds? Why?\n",
+    "output": "Uuuh, school project.\n"
+  },
+  {
+    "input": "Uuuh, school project.\n",
+    "output": "Well, if you want him to get really fat as fast as possible, one of you will have to marry him.\n"
+  },
+  {
+    "input": "Well, if you want him to get really fat as fast as possible, one of you will have to marry him.\n",
+    "output": "Marry him?\n"
+  },
+  {
+    "input": "Marry him?\n",
+    "output": "It definitely worked for every woman I ever met.\n"
+  },
+  {
+    "input": "It definitely worked for every woman I ever met.\n",
+    "output": "Oh, no, no, no! I ain't gettin' married; my parents will ground me!\n"
+  },
+  {
+    "input": "Oh, no, no, no! I ain't gettin' married; my parents will ground me!\n",
+    "output": "Yeah, none of us wanna marry Butters.\n"
+  },
+  {
+    "input": "Yeah, none of us wanna marry Butters.\n",
+    "output": "[self-conscious] Well, uh, how come? What's wrong with me?\n"
+  },
+  {
+    "input": "[self-conscious] Well, uh, how come? What's wrong with me?\n",
+    "output": "Well, I guess we're gonna have to do this the old-fashioned way. Come on back, children. [all of them move away from the counter and towards the back]\n[The kitchen, food preparation area. The camera pans across the table showing pots, pans, and dishes with food all over the place. It rests on Butters trying to finish off a plate, but struggling.]\n"
+  },
+  {
+    "input": "Well, I guess we're gonna have to do this the old-fashioned way. Come on back, children. [all of them move away from the counter and towards the back]\n[The kitchen, food preparation area. The camera pans across the table showing pots, pans, and dishes with food all over the place. It rests on Butters trying to finish off a plate, but struggling.]\n",
+    "output": "Ugh. [sets his plate down] Wuh, wuh, I can't eat no more.\n"
+  },
+  {
+    "input": "Ugh. [sets his plate down] Wuh, wuh, I can't eat no more.\n",
+    "output": "You have to! Here, have some more mayonnaise. [scoops out a tablespoon and hands it to Butters, but Butters doesn't take it. Chef enters and Butters begins to throw up]\n"
+  },
+  {
+    "input": "You have to! Here, have some more mayonnaise. [scoops out a tablespoon and hands it to Butters, but Butters doesn't take it. Chef enters and Butters begins to throw up]\n",
+    "output": "[notices] Chef, we need more food.\n"
+  },
+  {
+    "input": "[notices] Chef, we need more food.\n",
+    "output": "I'm runnin' out, children. [leaves. Butters vomits some more]\n"
+  },
+  {
+    "input": "I'm runnin' out, children. [leaves. Butters vomits some more]\n",
+    "output": "Damnit Butters! Keep eating or I'll kick you till you're deader than Kenny!\n"
+  },
+  {
+    "input": "Damnit Butters! Keep eating or I'll kick you till you're deader than Kenny!\n",
+    "output": "[soberly] Dude, that isn't cool. You shouldn't joke about Kenny being dead. Enough time hasn't passed.\n"
+  },
+  {
+    "input": "[soberly] Dude, that isn't cool. You shouldn't joke about Kenny being dead. Enough time hasn't passed.\n",
+    "output": "So how long until we can joke about it?\n"
+  },
+  {
+    "input": "So how long until we can joke about it?\n",
+    "output": "Twenty-two point three years. That's how long it takes for something tragic to become funny.\n"
+  },
+  {
+    "input": "Twenty-two point three years. That's how long it takes for something tragic to become funny.\n",
+    "output": "Wugh, that's a long time to wait.\n"
+  },
+  {
+    "input": "Wugh, that's a long time to wait.\n",
+    "output": "Wull I can't eat no more. I-I just keep pukin' it up.\n"
+  },
+  {
+    "input": "Wull I can't eat no more. I-I just keep pukin' it up.\n",
+    "output": "Then eat your puke.\n"
+  },
+  {
+    "input": "Then eat your puke.\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "Oh, come on! Japanese girls do it. [Butters looks at Cartman, then at his puke. Reluctantly he scoops it up and eats it.]\n[Kenny McCormick Memorial Town Square, later.]\n"
+  },
+  {
+    "input": "Oh, come on! Japanese girls do it. [Butters looks at Cartman, then at his puke. Reluctantly he scoops it up and eats it.]\n[Kenny McCormick Memorial Town Square, later.]\n",
+    "output": "Ladies and gentlemen, we at Subway are happy to inform you that Jared has elected to stay in South Park in order to speak to you once again! [the crowd oohs and aaha]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, we at Subway are happy to inform you that Jared has elected to stay in South Park in order to speak to you once again! [the crowd oohs and aaha]\n",
+    "output": "He's going to speak with us once again!\n"
+  },
+  {
+    "input": "He's going to speak with us once again!\n",
+    "output": "So, here he is, Jared! [the crowd cheers, and Jared is again walking towards them, grinning]\n"
+  },
+  {
+    "input": "So, here he is, Jared! [the crowd cheers, and Jared is again walking towards them, grinning]\n",
+    "output": "He's still lookin' good, eatin' them sandwiches all the time...[Jared walks up on stage and takes the podium]\n"
+  },
+  {
+    "input": "He's still lookin' good, eatin' them sandwiches all the time...[Jared walks up on stage and takes the podium]\n",
+    "output": "Thank you-hoo, thank you all. Subway is a healthy way to eat fast food and lose weight!\n"
+  },
+  {
+    "input": "Thank you-hoo, thank you all. Subway is a healthy way to eat fast food and lose weight!\n",
+    "output": "All right! [pumps his arm as the crowd reacts]\n"
+  },
+  {
+    "input": "All right! [pumps his arm as the crowd reacts]\n",
+    "output": "But, [the crowd quiets down] I feel like I need to come a little clean about something, uh-... it wasn't just Subway sandwiches that made me thin.\n"
+  },
+  {
+    "input": "But, [the crowd quiets down] I feel like I need to come a little clean about something, uh-... it wasn't just Subway sandwiches that made me thin.\n",
+    "output": "...Huh?\n"
+  },
+  {
+    "input": "...Huh?\n",
+    "output": "The reason I was able to lose so much weight so quickly was that I got aides. [grins with relief. The rep's jaw drops.]\n"
+  },
+  {
+    "input": "The reason I was able to lose so much weight so quickly was that I got aides. [grins with relief. The rep's jaw drops.]\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Did he say AIDS?\n"
+  },
+  {
+    "input": "Did he say AIDS?\n",
+    "output": "But I still wanna be the leader in a fitter America, and so I'm here to tell you, that you should ALL go out and get aides! [the crowd immediately begins to disperse]\n"
+  },
+  {
+    "input": "But I still wanna be the leader in a fitter America, and so I'm here to tell you, that you should ALL go out and get aides! [the crowd immediately begins to disperse]\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "Is he serious?\n"
+  },
+  {
+    "input": "Is he serious?\n",
+    "output": "Having aides - is - awesome! With aides you can literally watch the fat melt away! And with the proper mix of aides and Subway sandwiches, anything is possible! [the rep, looking on in dismay, has had enough and pushes Jared out of the way to take the mic]\n"
+  },
+  {
+    "input": "Having aides - is - awesome! With aides you can literally watch the fat melt away! And with the proper mix of aides and Subway sandwiches, anything is possible! [the rep, looking on in dismay, has had enough and pushes Jared out of the way to take the mic]\n",
+    "output": "Uh, the opinions expressed by Mr. Fogle are not necessarily those of the Subway Company. [Jared soothes his left arm a bit]\n[Cartman's living room, some days later. Stan is measuring Butters' girth and grins at the result. Camera zooms out.]\n"
+  },
+  {
+    "input": "Uh, the opinions expressed by Mr. Fogle are not necessarily those of the Subway Company. [Jared soothes his left arm a bit]\n[Cartman's living room, some days later. Stan is measuring Butters' girth and grins at the result. Camera zooms out.]\n",
+    "output": "Wow! He looks great!\n"
+  },
+  {
+    "input": "Wow! He looks great!\n",
+    "output": "How do you feel, Butters?\n"
+  },
+  {
+    "input": "How do you feel, Butters?\n",
+    "output": "W-well, k-kinda like Cartman. [Cartman slaps Butters and shakes him] Aw!\n"
+  },
+  {
+    "input": "W-well, k-kinda like Cartman. [Cartman slaps Butters and shakes him] Aw!\n",
+    "output": "Get a hold of yourself, man!\n"
+  },
+  {
+    "input": "Get a hold of yourself, man!\n",
+    "output": "Alright, now it's time for phase 2.\n[City Wok, moments later. The boys walk towards it and enter. The owner greets them.]\n"
+  },
+  {
+    "input": "Alright, now it's time for phase 2.\n[City Wok, moments later. The boys walk towards it and enter. The owner greets them.]\n",
+    "output": "Welcome to Shitty Wok. You rike to try Shitty Chicken today?\n"
+  },
+  {
+    "input": "Welcome to Shitty Wok. You rike to try Shitty Chicken today?\n",
+    "output": "Sir, we have come to offer you the business deal of a lifetime.\n"
+  },
+  {
+    "input": "Sir, we have come to offer you the business deal of a lifetime.\n",
+    "output": "You want the Shitty Beef?\n"
+  },
+  {
+    "input": "You want the Shitty Beef?\n",
+    "output": "Nope. We wanna show the world how healthy your food is. Our fat friend here is going to lose forty pounds eating at Shitty Wok.\n"
+  },
+  {
+    "input": "Nope. We wanna show the world how healthy your food is. Our fat friend here is going to lose forty pounds eating at Shitty Wok.\n",
+    "output": "Which one? I see two fat friends.\n"
+  },
+  {
+    "input": "Which one? I see two fat friends.\n",
+    "output": "[pointing to Butters] The fat one!\n"
+  },
+  {
+    "input": "[pointing to Butters] The fat one!\n",
+    "output": "We're gonna take before and after photos, and then, when he gets skinny from eating your food, we'll show the world.\n"
+  },
+  {
+    "input": "We're gonna take before and after photos, and then, when he gets skinny from eating your food, we'll show the world.\n",
+    "output": "...Why?\n"
+  },
+  {
+    "input": "...Why?\n",
+    "output": "Because then you can pay us to use our friend in commercials.\n"
+  },
+  {
+    "input": "Because then you can pay us to use our friend in commercials.\n",
+    "output": "Oh! You mean like-a Jared?!\n"
+  },
+  {
+    "input": "Oh! You mean like-a Jared?!\n",
+    "output": "Just like Jared.\n"
+  },
+  {
+    "input": "Just like Jared.\n",
+    "output": "His name is Jared, he lose some weight. Shitty Wok food sure is great. Yeah, okay. That sound good. Saw if he lose weight eating Shitty Wok, I pay use to use him in commercial.\n"
+  },
+  {
+    "input": "His name is Jared, he lose some weight. Shitty Wok food sure is great. Yeah, okay. That sound good. Saw if he lose weight eating Shitty Wok, I pay use to use him in commercial.\n",
+    "output": "All right!\n"
+  },
+  {
+    "input": "All right!\n",
+    "output": "Sir, we are in business!\n[Subway company boardroom, day. Jared has been called in to see the board.]\n"
+  },
+  {
+    "input": "Sir, we are in business!\n[Subway company boardroom, day. Jared has been called in to see the board.]\n",
+    "output": "[second from left] Jared, first of all we want to say that all of us here at Subway appreciate everything you've done for our company.\n"
+  },
+  {
+    "input": "[second from left] Jared, first of all we want to say that all of us here at Subway appreciate everything you've done for our company.\n",
+    "output": "[happily] Well, I appreciate your company doing everything it's done for me.\n"
+  },
+  {
+    "input": "[happily] Well, I appreciate your company doing everything it's done for me.\n",
+    "output": "[second from right] Yes, well, it is now the opinion of all of us that perhaps it would be best for you to take your... strange theories on weight loss elsewhere.\n"
+  },
+  {
+    "input": "[second from right] Yes, well, it is now the opinion of all of us that perhaps it would be best for you to take your... strange theories on weight loss elsewhere.\n",
+    "output": "[crestfallen] ...'Scuse me... am I being fired?\n"
+  },
+  {
+    "input": "[crestfallen] ...'Scuse me... am I being fired?\n",
+    "output": "[center] Jared, it's just that your new take on weight loss is contrary to our commitment to good health.\n"
+  },
+  {
+    "input": "[center] Jared, it's just that your new take on weight loss is contrary to our commitment to good health.\n",
+    "output": "How so?\n"
+  },
+  {
+    "input": "How so?\n",
+    "output": "Well, your new slogan, for instance. [clears his throat] \"When it comes to fitness, Subway goes hand in hand with aides.\"\n"
+  },
+  {
+    "input": "Well, your new slogan, for instance. [clears his throat] \"When it comes to fitness, Subway goes hand in hand with aides.\"\n",
+    "output": "[softly] Ah-hah. [he rises and leaves the \"SANDWICH MARKETING\" building with hands in pockets. He closes the door and walks away dejectedly. He passes a basketball court where a few people are shooting baskets. He looks at them as he passes by. Then he stops, looks at the camera, sighs, and]\n"
+  },
+  {
+    "input": "[softly] Ah-hah. [he rises and leaves the \"SANDWICH MARKETING\" building with hands in pockets. He closes the door and walks away dejectedly. He passes a basketball court where a few people are shooting baskets. He looks at them as he passes by. Then he stops, looks at the camera, sighs, and]\n",
+    "output": "His name is Jared. Jared lost weight eating Subway, now he's cold and alone and with no place to call his home. He liked sandwiches with Philadelphia cream cheese.\n[Flex Gym Fitness Club, day.]\n"
+  },
+  {
+    "input": "His name is Jared. Jared lost weight eating Subway, now he's cold and alone and with no place to call his home. He liked sandwiches with Philadelphia cream cheese.\n[Flex Gym Fitness Club, day.]\n",
+    "output": "[heard from the outside] Come on, Butters, you gotta get skinny again! [the camera goes inside. People are exercising on all sorts of equipment. A woman runs by on a track on the second floor. Butters is pulling at a rowing machine as Cartman spots him. Cartman is eating Cheesy Poofs and barking orders] You are such a flabby hunk of crap! Look at those jelly rolls! Jelly rolls I tell ya!! You still got seven chins, boah! You'll never be thin!! Nobody loves you!\n"
+  },
+  {
+    "input": "[heard from the outside] Come on, Butters, you gotta get skinny again! [the camera goes inside. People are exercising on all sorts of equipment. A woman runs by on a track on the second floor. Butters is pulling at a rowing machine as Cartman spots him. Cartman is eating Cheesy Poofs and barking orders] You are such a flabby hunk of crap! Look at those jelly rolls! Jelly rolls I tell ya!! You still got seven chins, boah! You'll never be thin!! Nobody loves you!\n",
+    "output": "[looks at Cartman] Wuh hey now, they do too! Uh, my mom and dad - love me even if I am fat.\n"
+  },
+  {
+    "input": "[looks at Cartman] Wuh hey now, they do too! Uh, my mom and dad - love me even if I am fat.\n",
+    "output": "[normal] Butters, I'm just trying to offer some motivational help here.\n"
+  },
+  {
+    "input": "[normal] Butters, I'm just trying to offer some motivational help here.\n",
+    "output": "Well alright then.\n"
+  },
+  {
+    "input": "Well alright then.\n",
+    "output": "[barking] Row you fat bitch! Look at those jelly rolls! Nobody loves you! You're not even a person!\n[Jared's dressing room, day. Jared paces the room eating a sub sandwich.]\n"
+  },
+  {
+    "input": "[barking] Row you fat bitch! Look at those jelly rolls! Nobody loves you! You're not even a person!\n[Jared's dressing room, day. Jared paces the room eating a sub sandwich.]\n",
+    "output": "I never asked to be famous; now everyone hates me! I almost wish I had never gotten aides! [his aides come in]\n"
+  },
+  {
+    "input": "I never asked to be famous; now everyone hates me! I almost wish I had never gotten aides! [his aides come in]\n",
+    "output": "Hey now, come on. What kind of talk is that?\n"
+  },
+  {
+    "input": "Hey now, come on. What kind of talk is that?\n",
+    "output": "I'm sorry, guys, but I...I think I wanna be aides-free for a while.\n"
+  },
+  {
+    "input": "I'm sorry, guys, but I...I think I wanna be aides-free for a while.\n",
+    "output": "Come on, Jared, lighten up! People don't hate you.\n"
+  },
+  {
+    "input": "Come on, Jared, lighten up! People don't hate you.\n",
+    "output": "Yeah. Maybe they're all just jealous that they can't afford to hire their own aides.\n"
+  },
+  {
+    "input": "Yeah. Maybe they're all just jealous that they can't afford to hire their own aides.\n",
+    "output": "[brightening] Wait a minute... you're right! [moves towards the camera] Yeah! I think I know how to be a celebrity again! [heads for the door]\n[City Wok, outside, later. Cartman and Kyle wait on Stan as he arrives.]\n"
+  },
+  {
+    "input": "[brightening] Wait a minute... you're right! [moves towards the camera] Yeah! I think I know how to be a celebrity again! [heads for the door]\n[City Wok, outside, later. Cartman and Kyle wait on Stan as he arrives.]\n",
+    "output": "Did you bring the camera?\n"
+  },
+  {
+    "input": "Did you bring the camera?\n",
+    "output": "Yeah, we're all set.\n"
+  },
+  {
+    "input": "Yeah, we're all set.\n",
+    "output": "[steps in between them] Guys, I think this might be a good time to discuss some business.\n"
+  },
+  {
+    "input": "[steps in between them] Guys, I think this might be a good time to discuss some business.\n",
+    "output": "Well, what do you mean?\n"
+  },
+  {
+    "input": "Well, what do you mean?\n",
+    "output": "Well, when City Wok sees how skinny Butters is, they're not gonna want him to just make one commercial, they're gonna want several.\n"
+  },
+  {
+    "input": "Well, when City Wok sees how skinny Butters is, they're not gonna want him to just make one commercial, they're gonna want several.\n",
+    "output": "That's true. Jared did like a hundred for Subway Sandwiches.\n"
+  },
+  {
+    "input": "That's true. Jared did like a hundred for Subway Sandwiches.\n",
+    "output": "I think we're looking at a non-exclusive two-year fifty-picture deal here. My calculations put that at about four million dollars.\n"
+  },
+  {
+    "input": "I think we're looking at a non-exclusive two-year fifty-picture deal here. My calculations put that at about four million dollars.\n",
+    "output": "Wow! [he and Stan are awed]\n"
+  },
+  {
+    "input": "Wow! [he and Stan are awed]\n",
+    "output": "Now, I think the four million should be split evenly among the three of us, except that I should get a twenty percent per negation fee off the gross for having come up with the idea.\n"
+  },
+  {
+    "input": "Now, I think the four million should be split evenly among the three of us, except that I should get a twenty percent per negation fee off the gross for having come up with the idea.\n",
+    "output": "[arrives as Cartman speaks] Hey fellas.\n"
+  },
+  {
+    "input": "[arrives as Cartman speaks] Hey fellas.\n",
+    "output": "Butters?! What the hell are you doing?!\n"
+  },
+  {
+    "input": "Butters?! What the hell are you doing?!\n",
+    "output": "Yeah, you're still fat!\n"
+  },
+  {
+    "input": "Yeah, you're still fat!\n",
+    "output": "Well, I know, ah I can't seem to lose it.\n"
+  },
+  {
+    "input": "Well, I know, ah I can't seem to lose it.\n",
+    "output": "Well we're supposed to shoot your commercial today, you fat piece of crap!\n"
+  },
+  {
+    "input": "Well we're supposed to shoot your commercial today, you fat piece of crap!\n",
+    "output": "Well ah I don't know what to tell ya. Losin' weight is harder than puttin' it on.\n"
+  },
+  {
+    "input": "Well ah I don't know what to tell ya. Losin' weight is harder than puttin' it on.\n",
+    "output": "No it isn't, stupid blubberbutt!\n"
+  },
+  {
+    "input": "No it isn't, stupid blubberbutt!\n",
+    "output": "[Kyle finally produces the camera] Did you eat only one ounce of City Wok like we told you?!\n"
+  },
+  {
+    "input": "[Kyle finally produces the camera] Did you eat only one ounce of City Wok like we told you?!\n",
+    "output": "Well uh yeah, but ah, I don't know...\n"
+  },
+  {
+    "input": "Well uh yeah, but ah, I don't know...\n",
+    "output": "Why are you doing this to us?!\n[Butters' house, later. The boys have prepared a makeshift operating table on the coffee table in the living room. Kyle reads from a medical book, Cartman has a suction tube and pail, and Stan is overseeing the operation.]\n"
+  },
+  {
+    "input": "Why are you doing this to us?!\n[Butters' house, later. The boys have prepared a makeshift operating table on the coffee table in the living room. Kyle reads from a medical book, Cartman has a suction tube and pail, and Stan is overseeing the operation.]\n",
+    "output": "All prepared for liposuction surgery?\n"
+  },
+  {
+    "input": "All prepared for liposuction surgery?\n",
+    "output": "Check.\n"
+  },
+  {
+    "input": "Check.\n",
+    "output": "Uh, I don't know about this, fellas.\n"
+  },
+  {
+    "input": "Uh, I don't know about this, fellas.\n",
+    "output": "[shoots back] Hey, you're the one who screwed us by not losing weight, Butters. [Cartman makes sure the scalpel is sharp]\n"
+  },
+  {
+    "input": "[shoots back] Hey, you're the one who screwed us by not losing weight, Butters. [Cartman makes sure the scalpel is sharp]\n",
+    "output": "[faces Stan] Okay, it says here the operation begins with a one-inch incision in the ab-do-men on the left side just above the hip.\n"
+  },
+  {
+    "input": "[faces Stan] Okay, it says here the operation begins with a one-inch incision in the ab-do-men on the left side just above the hip.\n",
+    "output": "That should blah [babbles a bit] ah- here. [cuts into Butters' abdomen]\n"
+  },
+  {
+    "input": "That should blah [babbles a bit] ah- here. [cuts into Butters' abdomen]\n",
+    "output": "[reacts] Woahhh!\n"
+  },
+  {
+    "input": "[reacts] Woahhh!\n",
+    "output": "Oh stop your bitchin' Butters! Kenny woulda took it like a man!\n"
+  },
+  {
+    "input": "Oh stop your bitchin' Butters! Kenny woulda took it like a man!\n",
+    "output": "Okay, now put one end of the tube a half an inch into the incision. [Cartman picks up one end of the tube and inserts it into the incision]\n"
+  },
+  {
+    "input": "Okay, now put one end of the tube a half an inch into the incision. [Cartman picks up one end of the tube and inserts it into the incision]\n",
+    "output": "Alrighty.\n"
+  },
+  {
+    "input": "Alrighty.\n",
+    "output": "Whoa. I think this is a bad idea, fellas. I feel woozy.\n"
+  },
+  {
+    "input": "Whoa. I think this is a bad idea, fellas. I feel woozy.\n",
+    "output": "Alright, I think it's in. [turns around]\n"
+  },
+  {
+    "input": "Alright, I think it's in. [turns around]\n",
+    "output": "The liposuction is a process of siphoning out the excess fat. [Cartman stalls, then picks up the other end and starts sucking the fat out]\n"
+  },
+  {
+    "input": "The liposuction is a process of siphoning out the excess fat. [Cartman stalls, then picks up the other end and starts sucking the fat out]\n",
+    "output": "[spits out the hose as soon as the fat hits his lips] Bohogh, egh. [puts the hose into the pail for the fat to collect]\n"
+  },
+  {
+    "input": "[spits out the hose as soon as the fat hits his lips] Bohogh, egh. [puts the hose into the pail for the fat to collect]\n",
+    "output": "Waaaahh!\n"
+  },
+  {
+    "input": "Waaaahh!\n",
+    "output": "There it goes.\n"
+  },
+  {
+    "input": "There it goes.\n",
+    "output": "Alright, it's working!\n"
+  },
+  {
+    "input": "Alright, it's working!\n",
+    "output": "[wipes away a bit of fat remaining on his lips] Aw man, it tastes like that, um, you know that cream-chipped-beef stuff that Chef makes sometimes.\n"
+  },
+  {
+    "input": "[wipes away a bit of fat remaining on his lips] Aw man, it tastes like that, um, you know that cream-chipped-beef stuff that Chef makes sometimes.\n",
+    "output": "Aahh heh ahh, I don't feel very good.\n"
+  },
+  {
+    "input": "Aahh heh ahh, I don't feel very good.\n",
+    "output": "Shut up, Butters, it's your own damned fault.\n"
+  },
+  {
+    "input": "Shut up, Butters, it's your own damned fault.\n",
+    "output": "Everything's getting dark...\n"
+  },
+  {
+    "input": "Everything's getting dark...\n",
+    "output": "We've gotta hurry this up. [moves behind the coffee table to Butter's belly and starts pounding on it. The fat begins flowing out faster]\n"
+  },
+  {
+    "input": "We've gotta hurry this up. [moves behind the coffee table to Butter's belly and starts pounding on it. The fat begins flowing out faster]\n",
+    "output": "[looks at the fat flowing out] Oh yeah, keep doing that. That's working good.\n"
+  },
+  {
+    "input": "[looks at the fat flowing out] Oh yeah, keep doing that. That's working good.\n",
+    "output": "He's losing weight. [Kyle smiles]\n"
+  },
+  {
+    "input": "He's losing weight. [Kyle smiles]\n",
+    "output": "Oh, whoa. Whoa! [the fat rushes out so quickly the tube begins to buck, splattering fat and blood all over the place]\n"
+  },
+  {
+    "input": "Oh, whoa. Whoa! [the fat rushes out so quickly the tube begins to buck, splattering fat and blood all over the place]\n",
+    "output": "It's out of control! [Stan has stopped pounding, but the fat is pulsing out and Cartman can't control it.. Butters gets thinner by the second and headed for shock]\n"
+  },
+  {
+    "input": "It's out of control! [Stan has stopped pounding, but the fat is pulsing out and Cartman can't control it.. Butters gets thinner by the second and headed for shock]\n",
+    "output": "Whoa, everything's getting sparkly. [the sound of a car pulling up is heard]\n"
+  },
+  {
+    "input": "Whoa, everything's getting sparkly. [the sound of a car pulling up is heard]\n",
+    "output": "Oh no, dude, Butters' parents are home.\n"
+  },
+  {
+    "input": "Oh no, dude, Butters' parents are home.\n",
+    "output": "Oh, crap!\n"
+  },
+  {
+    "input": "Oh, crap!\n",
+    "output": "Dude, bail! [the three boys rush out the back door, then the front door opens and Butter's parents walk in. The living room is a mess]\n"
+  },
+  {
+    "input": "Dude, bail! [the three boys rush out the back door, then the front door opens and Butter's parents walk in. The living room is a mess]\n",
+    "output": "Butters? Butters?!\n"
+  },
+  {
+    "input": "Butters? Butters?!\n",
+    "output": "[listlessly] Mom. Dad.\n"
+  },
+  {
+    "input": "[listlessly] Mom. Dad.\n",
+    "output": "Butters. Are you having liposuction surgery? Tell me the truth!\n"
+  },
+  {
+    "input": "Butters. Are you having liposuction surgery? Tell me the truth!\n",
+    "output": "Yes sir.\n"
+  },
+  {
+    "input": "Yes sir.\n",
+    "output": "This is unbelievable! How many times have we told you not to have self-perform liposuction surgery in our house?!\n"
+  },
+  {
+    "input": "This is unbelievable! How many times have we told you not to have self-perform liposuction surgery in our house?!\n",
+    "output": "Four times, mom.\n"
+  },
+  {
+    "input": "Four times, mom.\n",
+    "output": "Well, I guess that wasn't enough! You get up to your room right now, mister!\n"
+  },
+  {
+    "input": "Well, I guess that wasn't enough! You get up to your room right now, mister!\n",
+    "output": "Yes, sir. [rises and... struggles. He falls off the coffee table to the floor. Stephen isn't fazed, but Linda is affected]\n"
+  },
+  {
+    "input": "Yes, sir. [rises and... struggles. He falls off the coffee table to the floor. Stephen isn't fazed, but Linda is affected]\n",
+    "output": "Oh, huh- Don't you give us that look young man! You're gonna get it!\n[News 4 News, day. A field reporter stands in front of the Mayor's office. The mayor and her aides are present.]\n"
+  },
+  {
+    "input": "Oh, huh- Don't you give us that look young man! You're gonna get it!\n[News 4 News, day. A field reporter stands in front of the Mayor's office. The mayor and her aides are present.]\n",
+    "output": "Tom, I'm standing out in front of the Mayor's office, where the big liar, Jared, is once again about to speak. Apparently, Jared hopes to regain his celebrity hero status, which was lost when he announced that it was AIDS, not sub sandwiches, that caused him to lose weight. Let's listen in.\n[The podium. Jared stands behind it.]\n"
+  },
+  {
+    "input": "Tom, I'm standing out in front of the Mayor's office, where the big liar, Jared, is once again about to speak. Apparently, Jared hopes to regain his celebrity hero status, which was lost when he announced that it was AIDS, not sub sandwiches, that caused him to lose weight. Let's listen in.\n[The podium. Jared stands behind it.]\n",
+    "output": "Ladies and gentlemen, a-at first I didn't understand why you felt betrayed by the fact that my aides helped me to lose weight, but now I understand that it isn't fair that- I had aides and most of you don't. And so, with all the money I've made from commercials, I have decided to start the Aides for Everyone Foundation!\n"
+  },
+  {
+    "input": "Ladies and gentlemen, a-at first I didn't understand why you felt betrayed by the fact that my aides helped me to lose weight, but now I understand that it isn't fair that- I had aides and most of you don't. And so, with all the money I've made from commercials, I have decided to start the Aides for Everyone Foundation!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "I am going to personally see to it that each and every one of you gets aides! [a long silence follows as the audience just looks at Jared]\n"
+  },
+  {
+    "input": "I am going to personally see to it that each and every one of you gets aides! [a long silence follows as the audience just looks at Jared]\n",
+    "output": "This guy's insane.\n"
+  },
+  {
+    "input": "This guy's insane.\n",
+    "output": "But I won't stop there. I'm gonna seek out all the underprivileged and hungry children of the world, and I'm going to give them aides myself!\n"
+  },
+  {
+    "input": "But I won't stop there. I'm gonna seek out all the underprivileged and hungry children of the world, and I'm going to give them aides myself!\n",
+    "output": "You're gonna give children AIDS?!\n"
+  },
+  {
+    "input": "You're gonna give children AIDS?!\n",
+    "output": "Yes, it is my hope that every beautiful child on this earth has aides by next month! Aides for everyone! [another long silence]\n"
+  },
+  {
+    "input": "Yes, it is my hope that every beautiful child on this earth has aides by next month! Aides for everyone! [another long silence]\n",
+    "output": "Get him! [the crowd begins to move forward angrily and Jared leaves the podium]\n[Butters' house, some days later. Stan, Kyle, and Cartman show up at the front door, and Cartman rings the bell.]\n"
+  },
+  {
+    "input": "Get him! [the crowd begins to move forward angrily and Jared leaves the podium]\n[Butters' house, some days later. Stan, Kyle, and Cartman show up at the front door, and Cartman rings the bell.]\n",
+    "output": "Come on, Butters. Time to go.\n"
+  },
+  {
+    "input": "Come on, Butters. Time to go.\n",
+    "output": "Uh- go where?\n"
+  },
+  {
+    "input": "Uh- go where?\n",
+    "output": "To City Wok so we can make our money. God!\n"
+  },
+  {
+    "input": "To City Wok so we can make our money. God!\n",
+    "output": "I can't go anywhere, fellas. I've been grounded for havin' liposuction... surgery. [lifts his shorts to show the bandage over the scar]\n"
+  },
+  {
+    "input": "I can't go anywhere, fellas. I've been grounded for havin' liposuction... surgery. [lifts his shorts to show the bandage over the scar]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Wuh well I told you my parents would be sore, and they said for... havin' liposuction surgery, I can't play outside for five days.\n"
+  },
+  {
+    "input": "Wuh well I told you my parents would be sore, and they said for... havin' liposuction surgery, I can't play outside for five days.\n",
+    "output": "Dude, we just need you to come down to City Wok real quick so they can see how skinny you are!\n"
+  },
+  {
+    "input": "Dude, we just need you to come down to City Wok real quick so they can see how skinny you are!\n",
+    "output": "[counts off] Well you guys have already got me in Dutch for gettin' fat, and then I got in double-Dutch for... havin' liposuction, and now you're askin' me to be in triple Dutch?! [moves his hands palms down to wash his hands of any more trouble] Huh-uh! I'll never be that Dutch!\n"
+  },
+  {
+    "input": "[counts off] Well you guys have already got me in Dutch for gettin' fat, and then I got in double-Dutch for... havin' liposuction, and now you're askin' me to be in triple Dutch?! [moves his hands palms down to wash his hands of any more trouble] Huh-uh! I'll never be that Dutch!\n",
+    "output": "...Kenny would have done it.\n"
+  },
+  {
+    "input": "...Kenny would have done it.\n",
+    "output": "Yep.\n"
+  },
+  {
+    "input": "Yep.\n",
+    "output": "Do you guys remember what a cool friend Kenny was? [whispers] God. [normally] He was always up for helpin' us out; man, he was the best friend ever.\n"
+  },
+  {
+    "input": "Do you guys remember what a cool friend Kenny was? [whispers] God. [normally] He was always up for helpin' us out; man, he was the best friend ever.\n",
+    "output": "Look, fellas, I can't do it! My mom and dad call in every hour from work to make sure I am here. If I don't answer the ph-phone, it'll know I'm- I'm up to no good!\n"
+  },
+  {
+    "input": "Look, fellas, I can't do it! My mom and dad call in every hour from work to make sure I am here. If I don't answer the ph-phone, it'll know I'm- I'm up to no good!\n",
+    "output": "Alright alright, I'll stay here and answer the phone for you.\n"
+  },
+  {
+    "input": "Alright alright, I'll stay here and answer the phone for you.\n",
+    "output": "No- but you don't sound like me.\n"
+  },
+  {
+    "input": "No- but you don't sound like me.\n",
+    "output": "[begins sounding something like Butters. Kyle looks on] Well, you don't sound like me. My name is Butters and I'm a little pussy who won't help his friends make money.\n"
+  },
+  {
+    "input": "[begins sounding something like Butters. Kyle looks on] Well, you don't sound like me. My name is Butters and I'm a little pussy who won't help his friends make money.\n",
+    "output": "Wow, that was pretty good.\n"
+  },
+  {
+    "input": "Wow, that was pretty good.\n",
+    "output": "Alright, it's settled. Come on, Butters. [pulls Butters out the door. Cartman enters the house]\n"
+  },
+  {
+    "input": "Alright, it's settled. Come on, Butters. [pulls Butters out the door. Cartman enters the house]\n",
+    "output": "Don't forget, a third of that four million dollars is mine! [the others leave and he closes the door]\n[Stotch living room, inside. Cartman moves to the sofa.]\n"
+  },
+  {
+    "input": "Don't forget, a third of that four million dollars is mine! [the others leave and he closes the door]\n[Stotch living room, inside. Cartman moves to the sofa.]\n",
+    "output": "Eh. [makes himself comfortable on the sofa and turns on the TV. He grunts a bit] Eh. Yeah. [the phone rings; he answers] Well hello?\n"
+  },
+  {
+    "input": "Eh. [makes himself comfortable on the sofa and turns on the TV. He grunts a bit] Eh. Yeah. [the phone rings; he answers] Well hello?\n",
+    "output": "[at an office full of cubicles] I'm just checking in on you, Butters. [a woman walks down the aisle behind him] Uh, do I hear the television? We told you no television while you're grounded!\n"
+  },
+  {
+    "input": "[at an office full of cubicles] I'm just checking in on you, Butters. [a woman walks down the aisle behind him] Uh, do I hear the television? We told you no television while you're grounded!\n",
+    "output": "Oh, gee whiz, I'm not.. watchin' television, Dad, I'm just... layin' around jackin' it.\n"
+  },
+  {
+    "input": "Oh, gee whiz, I'm not.. watchin' television, Dad, I'm just... layin' around jackin' it.\n",
+    "output": "Jacking it? Jacking what?\n"
+  },
+  {
+    "input": "Jacking it? Jacking what?\n",
+    "output": "Well my hot spicy boner, of course, Dad.\n"
+  },
+  {
+    "input": "Well my hot spicy boner, of course, Dad.\n",
+    "output": "WHAT?! Are you trying to get yourself in more trouble with that kind of language?!\n"
+  },
+  {
+    "input": "WHAT?! Are you trying to get yourself in more trouble with that kind of language?!\n",
+    "output": "Ah, loosen up, you bloody vaginal belch.\n"
+  },
+  {
+    "input": "Ah, loosen up, you bloody vaginal belch.\n",
+    "output": "Oh, you're gonna get it, mister! Just wait until I get home!\n"
+  },
+  {
+    "input": "Oh, you're gonna get it, mister! Just wait until I get home!\n",
+    "output": "Bring it on, queer bait. [hangs up] Aaaahhhh, yes! [puts his arms behind his head, quite satisfied with himself]\n[Day, somewhere. Jared has a bat and is beating the hell out of something...]\n"
+  },
+  {
+    "input": "Bring it on, queer bait. [hangs up] Aaaahhhh, yes! [puts his arms behind his head, quite satisfied with himself]\n[Day, somewhere. Jared has a bat and is beating the hell out of something...]\n",
+    "output": "...I tell my [paf] girlfriend I have aides and she leaves, I tell the [paf] world to get aides and they think I'm crazy, I offer to give aides to kids and everyone wants me [paf] dead! [the camera pulls back and the thing Jared is beating is a dead horse. Literally] What's wrong with [paf] aides?! Why doesn't anyone want me to give them [paf] aides?! [the crowd arrives with torches, charging noisily]\n"
+  },
+  {
+    "input": "...I tell my [paf] girlfriend I have aides and she leaves, I tell the [paf] world to get aides and they think I'm crazy, I offer to give aides to kids and everyone wants me [paf] dead! [the camera pulls back and the thing Jared is beating is a dead horse. Literally] What's wrong with [paf] aides?! Why doesn't anyone want me to give them [paf] aides?! [the crowd arrives with torches, charging noisily]\n",
+    "output": "There he is, beatin' that dead horse!\n"
+  },
+  {
+    "input": "There he is, beatin' that dead horse!\n",
+    "output": "Alright!\n"
+  },
+  {
+    "input": "Alright!\n",
+    "output": "Let's get him! [the crowd charges forward and Jared runs away again]\n"
+  },
+  {
+    "input": "Let's get him! [the crowd charges forward and Jared runs away again]\n",
+    "output": "Aahhh!\n[City Wok. Stan, Kyle, and Butters arrive and enter.]\n"
+  },
+  {
+    "input": "Aahhh!\n[City Wok. Stan, Kyle, and Butters arrive and enter.]\n",
+    "output": "Welcome ta Shitty Wok. Take your order prease.\n"
+  },
+  {
+    "input": "Welcome ta Shitty Wok. Take your order prease.\n",
+    "output": "We have great news! Our friend has lost forty pounds eating your City Wok food. Here's the before and after photos.\n"
+  },
+  {
+    "input": "We have great news! Our friend has lost forty pounds eating your City Wok food. Here's the before and after photos.\n",
+    "output": "He lose weight eating Shitty Wok?\n"
+  },
+  {
+    "input": "He lose weight eating Shitty Wok?\n",
+    "output": "That's right! So now you can pay us to use him in your commercials and you'll have your very own Jared!\n"
+  },
+  {
+    "input": "That's right! So now you can pay us to use him in your commercials and you'll have your very own Jared!\n",
+    "output": "Oh no, no way! I not putting no Jared in my Shitty Wok commercial!\n"
+  },
+  {
+    "input": "Oh no, no way! I not putting no Jared in my Shitty Wok commercial!\n",
+    "output": "Uh, why not?\n"
+  },
+  {
+    "input": "Uh, why not?\n",
+    "output": "Don't you know? Everybody hate Jared. He want everyone in world to have AIDS. He sick in the head.\n"
+  },
+  {
+    "input": "Don't you know? Everybody hate Jared. He want everyone in world to have AIDS. He sick in the head.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "I don't want Shitty Wok have nothing to do with Jared land his AIDS.\n"
+  },
+  {
+    "input": "I don't want Shitty Wok have nothing to do with Jared land his AIDS.\n",
+    "output": "Wait. Everyone hates Jared now?\n"
+  },
+  {
+    "input": "Wait. Everyone hates Jared now?\n",
+    "output": "Yah they, they gonna kill him. They gonna kill Jared downtown right now.\n"
+  },
+  {
+    "input": "Yah they, they gonna kill him. They gonna kill Jared downtown right now.\n",
+    "output": "Ugh, come on guys, we gotta sort this out. [the boys exit the store]\n[Butters' house, living room. Cartman has eaten quite a bit of food (soda, milk, candy, Cheesy Poofs) and is watching TV - a Terrance & Phillip episode. Only their voices are heard.]\n"
+  },
+  {
+    "input": "Ugh, come on guys, we gotta sort this out. [the boys exit the store]\n[Butters' house, living room. Cartman has eaten quite a bit of food (soda, milk, candy, Cheesy Poofs) and is watching TV - a Terrance & Phillip episode. Only their voices are heard.]\n",
+    "output": "Here's a man's fart for ya. [farts, laughs]\n"
+  },
+  {
+    "input": "Here's a man's fart for ya. [farts, laughs]\n",
+    "output": "God no! [laughs again, and Cartman joins in. The phone rings] Oh, Phillip, your anthrax has given me colon cancer!\n"
+  },
+  {
+    "input": "God no! [laughs again, and Cartman joins in. The phone rings] Oh, Phillip, your anthrax has given me colon cancer!\n",
+    "output": "[answering] Hello?\n"
+  },
+  {
+    "input": "[answering] Hello?\n",
+    "output": "[calling in from her office] Butters, your father called and said you made him very upset!\n"
+  },
+  {
+    "input": "[calling in from her office] Butters, your father called and said you made him very upset!\n",
+    "output": "Yeah, well, Dad's being a little pussy, Mom.\n"
+  },
+  {
+    "input": "Yeah, well, Dad's being a little pussy, Mom.\n",
+    "output": "[stunned, then] Butters, where did you get that kind of smart mouth?!\n"
+  },
+  {
+    "input": "[stunned, then] Butters, where did you get that kind of smart mouth?!\n",
+    "output": "Uh not from you dumbasses, that's for sure.\n"
+  },
+  {
+    "input": "Uh not from you dumbasses, that's for sure.\n",
+    "output": "OH, you just WAIT until I get home, mister!\n"
+  },
+  {
+    "input": "OH, you just WAIT until I get home, mister!\n",
+    "output": "Oh, I'll be waiting with horse bells on, you old... horse-bangin' skank. [hangs up] Eh. [resumes eating]\n"
+  },
+  {
+    "input": "Oh, I'll be waiting with horse bells on, you old... horse-bangin' skank. [hangs up] Eh. [resumes eating]\n",
+    "output": "Ey! There's some anthrax over there! [farts, then roars with laughter]\n"
+  },
+  {
+    "input": "Ey! There's some anthrax over there! [farts, then roars with laughter]\n",
+    "output": "Oh no, hahahahahahaha.\n[Downtown, Mayor's office, outside, day. The crowd has captured Jared and taken him back downtown. A gallows is set up and Jared has had the noose placed around his neck. Two men finish and walk off. The Mayor stands off to one side with her aides.]\n"
+  },
+  {
+    "input": "Oh no, hahahahahahaha.\n[Downtown, Mayor's office, outside, day. The crowd has captured Jared and taken him back downtown. A gallows is set up and Jared has had the noose placed around his neck. Two men finish and walk off. The Mayor stands off to one side with her aides.]\n",
+    "output": "Why did I ever do those stupid commercials?\n"
+  },
+  {
+    "input": "Why did I ever do those stupid commercials?\n",
+    "output": "Alright, Jared, you sick pervert! Do you have anything to say before you die?!\n"
+  },
+  {
+    "input": "Alright, Jared, you sick pervert! Do you have anything to say before you die?!\n",
+    "output": "[offscreen] Wait! [the boys run up to the gallows platform] You're all making a mistake!\n"
+  },
+  {
+    "input": "[offscreen] Wait! [the boys run up to the gallows platform] You're all making a mistake!\n",
+    "output": "Stand back, children! Jared wants to give you AIDS!\n"
+  },
+  {
+    "input": "Stand back, children! Jared wants to give you AIDS!\n",
+    "output": "No, you don't understand. Jared doesn't have \"AIDS,\" AIDS, he has assistants. Two guys that help him lose weight that he calls his aides.\n"
+  },
+  {
+    "input": "No, you don't understand. Jared doesn't have \"AIDS,\" AIDS, he has assistants. Two guys that help him lose weight that he calls his aides.\n",
+    "output": "[softly] Oh.\n"
+  },
+  {
+    "input": "[softly] Oh.\n",
+    "output": "You mean, Jared's aides are like my aides?\n"
+  },
+  {
+    "input": "You mean, Jared's aides are like my aides?\n",
+    "output": "Yes. ...Y-you mean you all thought...? Oh my Gosh!\n"
+  },
+  {
+    "input": "Yes. ...Y-you mean you all thought...? Oh my Gosh!\n",
+    "output": "Oh boy, do I feel stupid.\n"
+  },
+  {
+    "input": "Oh boy, do I feel stupid.\n",
+    "output": "Oh we're so sorry, Jared.\n"
+  },
+  {
+    "input": "Oh we're so sorry, Jared.\n",
+    "output": "No no, hey it was my fault. I can't believe I- I, I didn't think of what I was saying! [giggles]\n"
+  },
+  {
+    "input": "No no, hey it was my fault. I can't believe I- I, I didn't think of what I was saying! [giggles]\n",
+    "output": "Eh so he was saying, children should have help like he had! [laughs]\n"
+  },
+  {
+    "input": "Eh so he was saying, children should have help like he had! [laughs]\n",
+    "output": "Yeah! That has got to be about the biggest misunderstanding ever! [several people laugh]\n"
+  },
+  {
+    "input": "Yeah! That has got to be about the biggest misunderstanding ever! [several people laugh]\n",
+    "output": "[laughing] Oh my God! I told my girlfriend I wanted her to share my aides - oh, no wonder she left!\n"
+  },
+  {
+    "input": "[laughing] Oh my God! I told my girlfriend I wanted her to share my aides - oh, no wonder she left!\n",
+    "output": "[laughing] Cuh-can you imagine what we thought when you said, \"Aides for Everyone Foundation?\"\n"
+  },
+  {
+    "input": "[laughing] Cuh-can you imagine what we thought when you said, \"Aides for Everyone Foundation?\"\n",
+    "output": "Oh, brother!\n"
+  },
+  {
+    "input": "Oh, brother!\n",
+    "output": "Aha- [stops and realizes something] ...Hey. We're all laughing. [everyone stops and listens]\n"
+  },
+  {
+    "input": "Aha- [stops and realizes something] ...Hey. We're all laughing. [everyone stops and listens]\n",
+    "output": "Uh hey, yeah. We, we woulda never laughed about this before.\n"
+  },
+  {
+    "input": "Uh hey, yeah. We, we woulda never laughed about this before.\n",
+    "output": "Well don't you see what this means? It's been 22.3 years, so... AIDS is finally funny!\n"
+  },
+  {
+    "input": "Well don't you see what this means? It's been 22.3 years, so... AIDS is finally funny!\n",
+    "output": "Ooo.\n"
+  },
+  {
+    "input": "Ooo.\n",
+    "output": "He's right. It happened!\n"
+  },
+  {
+    "input": "He's right. It happened!\n",
+    "output": "Hey everybody! AIDS is finally funny!\n"
+  },
+  {
+    "input": "Hey everybody! AIDS is finally funny!\n",
+    "output": "Alright! Yay! Woohoo! [fireworks come up out of nowhere] Hooray!\n"
+  },
+  {
+    "input": "Alright! Yay! Woohoo! [fireworks come up out of nowhere] Hooray!\n",
+    "output": "I knew it would be funny someday! [laughs] AIDS!\n"
+  },
+  {
+    "input": "I knew it would be funny someday! [laughs] AIDS!\n",
+    "output": "Then it's time... We can undo the banner! [fanfare comes up, and a man pulls a curtain away to reveal a huge golden plaque reading \"AIDS IS FINALLY FUNNY\" Ooohs and aaahs follow.]\n[Cut to Times Square, where the crawl reads \"3-06-02 AIDS HAS BEEN OFFICIALLY DECLARED FUNNY\"]\n"
+  },
+  {
+    "input": "Then it's time... We can undo the banner! [fanfare comes up, and a man pulls a curtain away to reveal a huge golden plaque reading \"AIDS IS FINALLY FUNNY\" Ooohs and aaahs follow.]\n[Cut to Times Square, where the crawl reads \"3-06-02 AIDS HAS BEEN OFFICIALLY DECLARED FUNNY\"]\n",
+    "output": "Hooray!\n[Cut to Mayor's office, outside. Everyone now has party hats on and are celebrating. The field reporter resumes reporting.]\n"
+  },
+  {
+    "input": "Hooray!\n[Cut to Mayor's office, outside. Everyone now has party hats on and are celebrating. The field reporter resumes reporting.]\n",
+    "output": "Tom, I'm standing in the town square where just moments ago it was declared that AIDS... can finally be joked about. What a great day for humanity.\n"
+  },
+  {
+    "input": "Tom, I'm standing in the town square where just moments ago it was declared that AIDS... can finally be joked about. What a great day for humanity.\n",
+    "output": "[laughs, then] \"AIDS quilt\" [resumes laughing. The crowd disperses and Tuong Lu Kim finds the boys]\n"
+  },
+  {
+    "input": "[laughs, then] \"AIDS quilt\" [resumes laughing. The crowd disperses and Tuong Lu Kim finds the boys]\n",
+    "output": "Oh boy, this is fantastic! I so grad AIDS is funny now.\n"
+  },
+  {
+    "input": "Oh boy, this is fantastic! I so grad AIDS is funny now.\n",
+    "output": "Okay, so now, do you wanna use our friend in your commercials?\n"
+  },
+  {
+    "input": "Okay, so now, do you wanna use our friend in your commercials?\n",
+    "output": "Sure 'kay. I pay you fifteen dowlars.\n"
+  },
+  {
+    "input": "Sure 'kay. I pay you fifteen dowlars.\n",
+    "output": "Fifteen dowlar? But... Jared got millions!\n"
+  },
+  {
+    "input": "Fifteen dowlar? But... Jared got millions!\n",
+    "output": "Hey, I'm not a-Subway, I Shitty Wok. Shitty Wok don't have... million dollars.\n"
+  },
+  {
+    "input": "Hey, I'm not a-Subway, I Shitty Wok. Shitty Wok don't have... million dollars.\n",
+    "output": "[takes off his hat and throws it on the ground] Oh God-damnit!\n"
+  },
+  {
+    "input": "[takes off his hat and throws it on the ground] Oh God-damnit!\n",
+    "output": "Aw, just forget the whole thing then!\n"
+  },
+  {
+    "input": "Aw, just forget the whole thing then!\n",
+    "output": "Okay. [walks off, returns] Hey, you kids know why chicken cross the road?\n"
+  },
+  {
+    "input": "Okay. [walks off, returns] Hey, you kids know why chicken cross the road?\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "'Cause it has AIDS. [laughs. The boys just look at him oddly] AIDS so funny! [walks away laughing]\n"
+  },
+  {
+    "input": "'Cause it has AIDS. [laughs. The boys just look at him oddly] AIDS so funny! [walks away laughing]\n",
+    "output": "Well, so much for our money.\n"
+  },
+  {
+    "input": "Well, so much for our money.\n",
+    "output": "Yeah, but you know, I've learned something today. It would have been wrong to exploit Butters' weight loss. Because then lots of fat people would have believed it. And then gone and eaten a ton of Chinese food instead of dieting properly. They'd still be fat and, we'd be responsible for their shattered dreams.\n"
+  },
+  {
+    "input": "Yeah, but you know, I've learned something today. It would have been wrong to exploit Butters' weight loss. Because then lots of fat people would have believed it. And then gone and eaten a ton of Chinese food instead of dieting properly. They'd still be fat and, we'd be responsible for their shattered dreams.\n",
+    "output": "Yeah, I don't like shattering fat peoples' dreams. Besides, I'd get grounded. [gasps] Oh, Jesus! I'm supposed to be grounded! [rushes away]\n[Butters' house, minutes later. Butters rushes to the front door.]\n"
+  },
+  {
+    "input": "Yeah, I don't like shattering fat peoples' dreams. Besides, I'd get grounded. [gasps] Oh, Jesus! I'm supposed to be grounded! [rushes away]\n[Butters' house, minutes later. Butters rushes to the front door.]\n",
+    "output": "Huh. Huh, uh, uh.\n"
+  },
+  {
+    "input": "Huh. Huh, uh, uh.\n",
+    "output": "[opens the door in anticipation] There you are, Butters!\n"
+  },
+  {
+    "input": "[opens the door in anticipation] There you are, Butters!\n",
+    "output": "[nervous] Wuh-are my... mom and dad back home yet?\n"
+  },
+  {
+    "input": "[nervous] Wuh-are my... mom and dad back home yet?\n",
+    "output": "No, but they're due home any minute. Come on, you're just in time!\n"
+  },
+  {
+    "input": "No, but they're due home any minute. Come on, you're just in time!\n",
+    "output": "Hoh boy! Mom and Dad didn't... find out I... left the house, did they?\n"
+  },
+  {
+    "input": "Hoh boy! Mom and Dad didn't... find out I... left the house, did they?\n",
+    "output": "No, I totally covered for you. They completely believed I was you on the phone!\n"
+  },
+  {
+    "input": "No, I totally covered for you. They completely believed I was you on the phone!\n",
+    "output": "Hu-oh! Goody!\n"
+  },
+  {
+    "input": "Hu-oh! Goody!\n",
+    "output": "Here you go. [hands Butters some drawings] I drew some pictures with crayons so it looks like you were here all day. And I ate a little food so it looks like you ate, and I fed your cat.\n"
+  },
+  {
+    "input": "Here you go. [hands Butters some drawings] I drew some pictures with crayons so it looks like you were here all day. And I ate a little food so it looks like you ate, and I fed your cat.\n",
+    "output": "Uh- perfect.\n"
+  },
+  {
+    "input": "Uh- perfect.\n",
+    "output": "Alright I'd better get out of here before they get back. [makes his way to the door]\n"
+  },
+  {
+    "input": "Alright I'd better get out of here before they get back. [makes his way to the door]\n",
+    "output": "Uh hey, uh Eric? [Cartman turns around] Uh- thanks for coverin' for me. You're a real pal.\n"
+  },
+  {
+    "input": "Uh hey, uh Eric? [Cartman turns around] Uh- thanks for coverin' for me. You're a real pal.\n",
+    "output": "Butters, it was my pleasure. [pulls out his mittens and opens the door, then puts them on. He heads for the sidewalk humming a late night theme song, then turns around to frame the house with his fingers, then walks away]\n[Butters' house, outside. Cartman, still humming, returns with a beach chair, some popcorn, and soda, and sets them up on the front lawn. He then sits down to watch the coming show. Two cars pull up; it's Butters' parents rushing home. They exit their cars and angrily head for the door. They enter...]\n"
+  },
+  {
+    "input": "Butters, it was my pleasure. [pulls out his mittens and opens the door, then puts them on. He heads for the sidewalk humming a late night theme song, then turns around to frame the house with his fingers, then walks away]\n[Butters' house, outside. Cartman, still humming, returns with a beach chair, some popcorn, and soda, and sets them up on the front lawn. He then sits down to watch the coming show. Two cars pull up; it's Butters' parents rushing home. They exit their cars and angrily head for the door. They enter...]\n",
+    "output": "Hi, Mom and Dad!\n"
+  },
+  {
+    "input": "Hi, Mom and Dad!\n",
+    "output": "Don't you \"Hi, Mom and Dad\" us, you little punk!!! [Punch]\n"
+  },
+  {
+    "input": "Don't you \"Hi, Mom and Dad\" us, you little punk!!! [Punch]\n",
+    "output": "Ow! Dad?\n"
+  },
+  {
+    "input": "Ow! Dad?\n",
+    "output": "You don't even know the trouble you're in, mister!! [Punch]\n"
+  },
+  {
+    "input": "You don't even know the trouble you're in, mister!! [Punch]\n",
+    "output": "Ah! What did I do?! What did I do?!\n"
+  },
+  {
+    "input": "Ah! What did I do?! What did I do?!\n",
+    "output": "You think you're tough now!!? Answer me!!! [a belt is heard coming off and whipping Butters]\n"
+  },
+  {
+    "input": "You think you're tough now!!? Answer me!!! [a belt is heard coming off and whipping Butters]\n",
+    "output": "Aaaa!!! [the beating continues]\n"
+  }
+]

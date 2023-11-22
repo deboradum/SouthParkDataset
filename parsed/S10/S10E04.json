@@ -1,0 +1,962 @@
+[
+  {
+    "input": "",
+    "output": "Cartoon Wars Part II\n\n[\"Previously on South Park...\" SNN News is on the air...]\n"
+  },
+  {
+    "input": "Cartoon Wars Part II\n\n[\"Previously on South Park...\" SNN News is on the air...]\n",
+    "output": "Previously on South Park...\n"
+  },
+  {
+    "input": "Previously on South Park...\n",
+    "output": "The popular cartoon, Family Guy, is going to show the image of Mohammad uncensored!\n[a shot of the town hall, where the town has gathered to listen to emergency plans on dealing with Family Guy]\n"
+  },
+  {
+    "input": "The popular cartoon, Family Guy, is going to show the image of Mohammad uncensored!\n[a shot of the town hall, where the town has gathered to listen to emergency plans on dealing with Family Guy]\n",
+    "output": "If we all bury our heads in sand, [a shot of the townsfolk with their heads in the sand] we can avoid being any part of this.\n[a shot of the four boys in front of the school, before Cartman heads off to L.A.]\n"
+  },
+  {
+    "input": "If we all bury our heads in sand, [a shot of the townsfolk with their heads in the sand] we can avoid being any part of this.\n[a shot of the four boys in front of the school, before Cartman heads off to L.A.]\n",
+    "output": "I'm gonna do whatever I can... to get that episode pulled before this gets out of hand.\n[a shot of Kyle in the desert when he learns of Cartman's true intentions]\n"
+  },
+  {
+    "input": "I'm gonna do whatever I can... to get that episode pulled before this gets out of hand.\n[a shot of Kyle in the desert when he learns of Cartman's true intentions]\n",
+    "output": "You just want Family Guy off the air...\n[Kyle messes with Cartman's Big Wheels to slow him down. Cartman fishtails.]\n"
+  },
+  {
+    "input": "You just want Family Guy off the air...\n[Kyle messes with Cartman's Big Wheels to slow him down. Cartman fishtails.]\n",
+    "output": "Kyle, stop it!\n[A shot of both of them after Kyle loses his Big Wheels]\n"
+  },
+  {
+    "input": "Kyle, stop it!\n[A shot of both of them after Kyle loses his Big Wheels]\n",
+    "output": "So long, Kyle!\n"
+  },
+  {
+    "input": "So long, Kyle!\n",
+    "output": "You son of a bitch! I won't let you win!\n[A shot of President Bush and of the FOX President]\n"
+  },
+  {
+    "input": "You son of a bitch! I won't let you win!\n[A shot of President Bush and of the FOX President]\n",
+    "output": "Mr. President, there's something about the Family Guy writing staff I think you should know. [a close-up of Bush looking perplexed.]\n"
+  },
+  {
+    "input": "Mr. President, there's something about the Family Guy writing staff I think you should know. [a close-up of Bush looking perplexed.]\n",
+    "output": "And now, the thrilling conclusion of... Cartoon Wars... will not be seen tonight! [\"Special Presentation\"] so that we can bring you this Terrance & Phillip Television Special [tooot! Terrance & Phillip... in... Mystery at the Lazy \"J\" Ranch. Terrance and Phillip are shown catching a blackhat in action]\n[Lazy \"J\" Ranch, day. Terrance and Phillip ride their horses]\n"
+  },
+  {
+    "input": "And now, the thrilling conclusion of... Cartoon Wars... will not be seen tonight! [\"Special Presentation\"] so that we can bring you this Terrance & Phillip Television Special [tooot! Terrance & Phillip... in... Mystery at the Lazy \"J\" Ranch. Terrance and Phillip are shown catching a blackhat in action]\n[Lazy \"J\" Ranch, day. Terrance and Phillip ride their horses]\n",
+    "output": "Say Terrance, isn't it wonderful having a holiday here at the Lazy \"J\" Ranch?\n"
+  },
+  {
+    "input": "Say Terrance, isn't it wonderful having a holiday here at the Lazy \"J\" Ranch?\n",
+    "output": "It sure is, Phillip. But I do believe this steer I'm riding has the farts. [the horse farts and its tail goes up like a flag. They both laugh.]\n"
+  },
+  {
+    "input": "It sure is, Phillip. But I do believe this steer I'm riding has the farts. [the horse farts and its tail goes up like a flag. They both laugh.]\n",
+    "output": "Oh, look who's coming! Isn't that Mohammad, the holy prophet of the Muslim religion? [Mohammad, covered with a \"CENSORED BY CBC\" box, rides up to them]\n"
+  },
+  {
+    "input": "Oh, look who's coming! Isn't that Mohammad, the holy prophet of the Muslim religion? [Mohammad, covered with a \"CENSORED BY CBC\" box, rides up to them]\n",
+    "output": "Hey guys, how's it going?\n"
+  },
+  {
+    "input": "Hey guys, how's it going?\n",
+    "output": "Hello Mohammad, we've read all aboat you in the Koran.\n"
+  },
+  {
+    "input": "Hello Mohammad, we've read all aboat you in the Koran.\n",
+    "output": "I'm here to investigate a murder.\n[Canadian Broadcasting Company, day. Terrance and Phillip stands to the opposite of the Network President in his office.]\n"
+  },
+  {
+    "input": "I'm here to investigate a murder.\n[Canadian Broadcasting Company, day. Terrance and Phillip stands to the opposite of the Network President in his office.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "You censored out the image of Mohammad in our television special!!\n"
+  },
+  {
+    "input": "You censored out the image of Mohammad in our television special!!\n",
+    "output": "Ey! You guys know the rules! Nobody can show the image of Mohammad anymore. It's dangerous.\n"
+  },
+  {
+    "input": "Ey! You guys know the rules! Nobody can show the image of Mohammad anymore. It's dangerous.\n",
+    "output": "But you ruined the whole show!\n"
+  },
+  {
+    "input": "But you ruined the whole show!\n",
+    "output": "Look, I'm not gonna risk the lives of the people at this network. Let's just forget aboat it, okay guys? [farts and laughs. Terrance and Phillip look hard at him, their arms crossed] Aw, come on guys, give me a break.\n"
+  },
+  {
+    "input": "Look, I'm not gonna risk the lives of the people at this network. Let's just forget aboat it, okay guys? [farts and laughs. Terrance and Phillip look hard at him, their arms crossed] Aw, come on guys, give me a break.\n",
+    "output": "We demand you rerun Mystery at the Lazy \"J\" Ranch with Mohammad uncensored!\n"
+  },
+  {
+    "input": "We demand you rerun Mystery at the Lazy \"J\" Ranch with Mohammad uncensored!\n",
+    "output": "Ey! I run this network, not you guys! And if you ask me, your show has become so preachy and full of messages that you've forgotten how to be funny! NO Mohammad!\n"
+  },
+  {
+    "input": "Ey! I run this network, not you guys! And if you ask me, your show has become so preachy and full of messages that you've forgotten how to be funny! NO Mohammad!\n",
+    "output": "But Family Guy is going to show Mohammad on an episode that airs tonight!\n"
+  },
+  {
+    "input": "But Family Guy is going to show Mohammad on an episode that airs tonight!\n",
+    "output": "I doubt it! I'll bet that right now, somebody is on their way to FOX Network to demand that that episode be pulled.\n[FOX Studios, day. An entrance to the Studios is shown, with guards at heightened secuity. Cartman rides right into the studios with no one noticing him. Cartman enters the main building and approaches a receptionist]\n"
+  },
+  {
+    "input": "I doubt it! I'll bet that right now, somebody is on their way to FOX Network to demand that that episode be pulled.\n[FOX Studios, day. An entrance to the Studios is shown, with guards at heightened secuity. Cartman rides right into the studios with no one noticing him. Cartman enters the main building and approaches a receptionist]\n",
+    "output": "Ma'am, I need to speak to the president of this network right away.\n"
+  },
+  {
+    "input": "Ma'am, I need to speak to the president of this network right away.\n",
+    "output": "What is it regarding?\n"
+  },
+  {
+    "input": "What is it regarding?\n",
+    "output": "It's regarding Family Guy. I demand that the Mohammad episode be pulled before it airs tonight! It's incendiary, it's offensive to Muslims, and people can get hurt! It's wrong! It's WROOONG!\n"
+  },
+  {
+    "input": "It's regarding Family Guy. I demand that the Mohammad episode be pulled before it airs tonight! It's incendiary, it's offensive to Muslims, and people can get hurt! It's wrong! It's WROOONG!\n",
+    "output": "O...kay, but if you've got a problem with Family Guy, you'll have to wait in line. [points to her right. Cartman looks over and then back at the receptionist] That little boy over there has an appointment to try and get Family Guy off the air altogether. [Cartman walks over and sees Bart Simpson seated in a chair, his skateboard leaning on it]\n"
+  },
+  {
+    "input": "O...kay, but if you've got a problem with Family Guy, you'll have to wait in line. [points to her right. Cartman looks over and then back at the receptionist] That little boy over there has an appointment to try and get Family Guy off the air altogether. [Cartman walks over and sees Bart Simpson seated in a chair, his skateboard leaning on it]\n",
+    "output": "Dude, can I go before you?\n"
+  },
+  {
+    "input": "Dude, can I go before you?\n",
+    "output": "Eat my shorts!\n[The highway, dawn. Kyle, still nursing his shoulder, arrives at a truck stop and his eyes open wide]\n"
+  },
+  {
+    "input": "Eat my shorts!\n[The highway, dawn. Kyle, still nursing his shoulder, arrives at a truck stop and his eyes open wide]\n",
+    "output": "What the hell is going on? [everyone there has his or her head buried in sand. Kyle walks among them] Hello? [stops next to someone in a red sweater] Excuse me, I need to get to Los Angeles. [tugs at the pants. The person waves. Kyle looks around and goes into the diner] Hello?! [a TV in the store is tuned to SNN]\n"
+  },
+  {
+    "input": "What the hell is going on? [everyone there has his or her head buried in sand. Kyle walks among them] Hello? [stops next to someone in a red sweater] Excuse me, I need to get to Los Angeles. [tugs at the pants. The person waves. Kyle looks around and goes into the diner] Hello?! [a TV in the store is tuned to SNN]\n",
+    "output": "...starting in a small town in central Colorado. The idea has now spread all over America. [a helicopter shot of buried heads everywhere] Muslims continue to riot in the Middle East, demanding that Family Guy not air tonight's episode. [more live footage is shown. Kyle gets close to the TV] Amd Muslim terrorists continue to make threats.\n"
+  },
+  {
+    "input": "...starting in a small town in central Colorado. The idea has now spread all over America. [a helicopter shot of buried heads everywhere] Muslims continue to riot in the Middle East, demanding that Family Guy not air tonight's episode. [more live footage is shown. Kyle gets close to the TV] Amd Muslim terrorists continue to make threats.\n",
+    "output": "[translated text reads] \"Family Guy\" better not show Mohammad tonight. I'm serious. \"Family Guy\" isn't funny.\n"
+  },
+  {
+    "input": "[translated text reads] \"Family Guy\" better not show Mohammad tonight. I'm serious. \"Family Guy\" isn't funny.\n",
+    "output": "Osama bin Laden had this to say:\n"
+  },
+  {
+    "input": "Osama bin Laden had this to say:\n",
+    "output": "[translated text reads] If you look closely at the writing in \"Family Guy\", you will see that the jokes never derive from the plot, and I think that's totally gay.\n"
+  },
+  {
+    "input": "[translated text reads] If you look closely at the writing in \"Family Guy\", you will see that the jokes never derive from the plot, and I think that's totally gay.\n",
+    "output": "Bin Laden went on to say that if Family Guy shows the image of Mohammad as planned, the terrorist retaliation will be immediate. [a rifle appears next to him and a hand cocks it]\n"
+  },
+  {
+    "input": "Bin Laden went on to say that if Family Guy shows the image of Mohammad as planned, the terrorist retaliation will be immediate. [a rifle appears next to him and a hand cocks it]\n",
+    "output": "[with rifle trained on Kyle] You one of them?\n"
+  },
+  {
+    "input": "[with rifle trained on Kyle] You one of them?\n",
+    "output": "Who?\n"
+  },
+  {
+    "input": "Who?\n",
+    "output": "How come your head ain't in the sand? [Kyle is confused]\n[FOX Studios. Cartman is seated two chairs away from Bart. Muzak is playing in the background]\n"
+  },
+  {
+    "input": "How come your head ain't in the sand? [Kyle is confused]\n[FOX Studios. Cartman is seated two chairs away from Bart. Muzak is playing in the background]\n",
+    "output": "So... you don't like Family Guy either, huh?\n"
+  },
+  {
+    "input": "So... you don't like Family Guy either, huh?\n",
+    "output": "I hate Family Guy.\n"
+  },
+  {
+    "input": "I hate Family Guy.\n",
+    "output": "So what's your plan? You're gonna ask the president of the network nicely to take it off the air?\n"
+  },
+  {
+    "input": "So what's your plan? You're gonna ask the president of the network nicely to take it off the air?\n",
+    "output": "Not nicely.\n"
+  },
+  {
+    "input": "Not nicely.\n",
+    "output": "Look, kid, if you hate a TV show, all you have to do is get an episode pulled. Pretty soon the show is compromised and it goes off the air.\n"
+  },
+  {
+    "input": "Look, kid, if you hate a TV show, all you have to do is get an episode pulled. Pretty soon the show is compromised and it goes off the air.\n",
+    "output": "Cool, man.\n"
+  },
+  {
+    "input": "Cool, man.\n",
+    "output": "Yes. So my plan is to use this whole Mohammad thing as a way to scare the network into pulling tonight's show. I'm going to use fear to get them to do what I want.\n"
+  },
+  {
+    "input": "Yes. So my plan is to use this whole Mohammad thing as a way to scare the network into pulling tonight's show. I'm going to use fear to get them to do what I want.\n",
+    "output": "Isn't that like, terrorism?\n"
+  },
+  {
+    "input": "Isn't that like, terrorism?\n",
+    "output": "...No, it isn't like terrorism. It IS terrorism.\n"
+  },
+  {
+    "input": "...No, it isn't like terrorism. It IS terrorism.\n",
+    "output": "I could do that.\n"
+  },
+  {
+    "input": "I could do that.\n",
+    "output": "This is manipulation at its highest level; you should let me handle this.\n"
+  },
+  {
+    "input": "This is manipulation at its highest level; you should let me handle this.\n",
+    "output": "I'm a pretty bad kid.\n"
+  },
+  {
+    "input": "I'm a pretty bad kid.\n",
+    "output": "Really? What's the worst thing you've ever done?\n"
+  },
+  {
+    "input": "Really? What's the worst thing you've ever done?\n",
+    "output": "I stole the head off a statue once.\n"
+  },
+  {
+    "input": "I stole the head off a statue once.\n",
+    "output": "Wow, that's pretty hardcore. Geez. That's like this one time, when I didn't like a kid, so I ground his parents up into chili and fed it to him.\n"
+  },
+  {
+    "input": "Wow, that's pretty hardcore. Geez. That's like this one time, when I didn't like a kid, so I ground his parents up into chili and fed it to him.\n",
+    "output": "[compares the two acts in his mind...] You got it, man. You got it. [hops onto his skateboard and skates off]\n"
+  },
+  {
+    "input": "[compares the two acts in his mind...] You got it, man. You got it. [hops onto his skateboard and skates off]\n",
+    "output": "Seeya.\n[The White House, day. President Bush is addressing the White House press corps in the press room]\n"
+  },
+  {
+    "input": "Seeya.\n[The White House, day. President Bush is addressing the White House press corps in the press room]\n",
+    "output": "I want to assure the American people that as President, I have exhausted every possible solution. Unfortunately, Mohammad will appear uncensored on Family Guy tonight at seven.\n"
+  },
+  {
+    "input": "I want to assure the American people that as President, I have exhausted every possible solution. Unfortunately, Mohammad will appear uncensored on Family Guy tonight at seven.\n",
+    "output": "[clamoring] Mr. President!\n"
+  },
+  {
+    "input": "[clamoring] Mr. President!\n",
+    "output": "[rises] Mr. President, can't the writers of the show be reasoned with? Don't they know they're putting the country in danger? [sits]\n"
+  },
+  {
+    "input": "[rises] Mr. President, can't the writers of the show be reasoned with? Don't they know they're putting the country in danger? [sits]\n",
+    "output": "I have come to... understand something about the Family Guy writing staff. Suffice it to say that they will not be persuaded by the possibility of violence.\n"
+  },
+  {
+    "input": "I have come to... understand something about the Family Guy writing staff. Suffice it to say that they will not be persuaded by the possibility of violence.\n",
+    "output": "[clamoring] Mr. President!\n"
+  },
+  {
+    "input": "[clamoring] Mr. President!\n",
+    "output": "[same one as before] What exactly did you learn about the Family Guy writing staff, Mr. President?\n"
+  },
+  {
+    "input": "[same one as before] What exactly did you learn about the Family Guy writing staff, Mr. President?\n",
+    "output": "[thinks a moment, then leans into the mic and says in a low voice] I'm afraid that information is classified.\n"
+  },
+  {
+    "input": "[thinks a moment, then leans into the mic and says in a low voice] I'm afraid that information is classified.\n",
+    "output": "[in unison] AWWW!!! [then clamoring] Mr. President!\n"
+  },
+  {
+    "input": "[in unison] AWWW!!! [then clamoring] Mr. President!\n",
+    "output": "[rises] Mr. President, can't you force the Family Guy writing staff not to write anything about Mohammad? [sits]\n"
+  },
+  {
+    "input": "[rises] Mr. President, can't you force the Family Guy writing staff not to write anything about Mohammad? [sits]\n",
+    "output": "[rises] Couldn't you throw them in prison? [sits]\n"
+  },
+  {
+    "input": "[rises] Couldn't you throw them in prison? [sits]\n",
+    "output": "Look! The fact of the matter is the Family Guy writing staff is protected by something called the First Amendment!\n"
+  },
+  {
+    "input": "Look! The fact of the matter is the Family Guy writing staff is protected by something called the First Amendment!\n",
+    "output": "And what exactly is this First Amendment, Mr. President?\n"
+  },
+  {
+    "input": "And what exactly is this First Amendment, Mr. President?\n",
+    "output": "[beat] Uh you know, the right to free speech.\n"
+  },
+  {
+    "input": "[beat] Uh you know, the right to free speech.\n",
+    "output": "[in unison] AWWW!!! [they begin to fight furiously and clamor amongst themselves]\n"
+  },
+  {
+    "input": "[in unison] AWWW!!! [they begin to fight furiously and clamor amongst themselves]\n",
+    "output": "[rises] Mr. President, when your administration came up with this \"First Amendment,\" did it not foresee a problem like this might happen? [sits]\n"
+  },
+  {
+    "input": "[rises] Mr. President, when your administration came up with this \"First Amendment,\" did it not foresee a problem like this might happen? [sits]\n",
+    "output": "[beat] Well... We didn't come up with the First Amendment. It was already in place.\n"
+  },
+  {
+    "input": "[beat] Well... We didn't come up with the First Amendment. It was already in place.\n",
+    "output": "[rises] What do you intend to do about this \"First Amendment,\" Mr. President? [sits]\n"
+  },
+  {
+    "input": "[rises] What do you intend to do about this \"First Amendment,\" Mr. President? [sits]\n",
+    "output": "[rises] Forgive me, Mr. President, but this \"First Amendment\" sounds like a lot of bureaucratic jibbery-joob? [sits]\n"
+  },
+  {
+    "input": "[rises] Forgive me, Mr. President, but this \"First Amendment\" sounds like a lot of bureaucratic jibbery-joob? [sits]\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "That's right!\n[FOX Studios, day, the President's office. The FOX President is discussing schedules with the department staff]\n"
+  },
+  {
+    "input": "That's right!\n[FOX Studios, day, the President's office. The FOX President is discussing schedules with the department staff]\n",
+    "output": "Okay, let's discuss the fall lineup.\n"
+  },
+  {
+    "input": "Okay, let's discuss the fall lineup.\n",
+    "output": "[enters] Sir, there's still one little boy out here who wants to speak with you about pulling the Family Guy episode\n"
+  },
+  {
+    "input": "[enters] Sir, there's still one little boy out here who wants to speak with you about pulling the Family Guy episode\n",
+    "output": "All right, let's get this over with. [Cartman enters the room leaning on a crutch]\n"
+  },
+  {
+    "input": "All right, let's get this over with. [Cartman enters the room leaning on a crutch]\n",
+    "output": "[removes his cap] Hello, gentlemen, ladies. My name is little Danny Pocket. And I won't take much of your time. Please excuse my tiny crutch; it's the only way I can get around these days. Ow...\n"
+  },
+  {
+    "input": "[removes his cap] Hello, gentlemen, ladies. My name is little Danny Pocket. And I won't take much of your time. Please excuse my tiny crutch; it's the only way I can get around these days. Ow...\n",
+    "output": "Oh, poor kid.\n"
+  },
+  {
+    "input": "Oh, poor kid.\n",
+    "output": "You see, my father worked for a newspaper in my native country of Denmark. His newspaper showed an image of Mohammad and, two days later, terrorists suicides bombed his building. I was in the lobby when it happened. [shocked looks on the faces of the staff] First one terrorist suicide bombed us and, then dozens more. They just kept coming. Suicide bombers running in the building and blowing up one after another! They were like Mexican jumping beans. I just don't wanna see people here at your studio getting hurt, because... that would be, of course, your responsibility. [coughs] Ow..\n"
+  },
+  {
+    "input": "You see, my father worked for a newspaper in my native country of Denmark. His newspaper showed an image of Mohammad and, two days later, terrorists suicides bombed his building. I was in the lobby when it happened. [shocked looks on the faces of the staff] First one terrorist suicide bombed us and, then dozens more. They just kept coming. Suicide bombers running in the building and blowing up one after another! They were like Mexican jumping beans. I just don't wanna see people here at your studio getting hurt, because... that would be, of course, your responsibility. [coughs] Ow..\n",
+    "output": "I feel terrible. It's so easy to put terrorism out of mind until one of its victims is staring you in the face.\n"
+  },
+  {
+    "input": "I feel terrible. It's so easy to put terrorism out of mind until one of its victims is staring you in the face.\n",
+    "output": "Sir, if we pull the episode, the Family Guy writing staff will refuse to work again.\n"
+  },
+  {
+    "input": "Sir, if we pull the episode, the Family Guy writing staff will refuse to work again.\n",
+    "output": "Little boy, will you talk to the Family Guy writing staff? If your story touches their hearts like it has ours, perhaps they'll back down from demanding we air the episode.\n"
+  },
+  {
+    "input": "Little boy, will you talk to the Family Guy writing staff? If your story touches their hearts like it has ours, perhaps they'll back down from demanding we air the episode.\n",
+    "output": "I'll certainly do my best. [coughs] Ow.\n"
+  },
+  {
+    "input": "I'll certainly do my best. [coughs] Ow.\n",
+    "output": "Take this noble child over to the Family Guy offices. If he can scare them like he has us, maybe we can pull the Mohammad episode after all.\n"
+  },
+  {
+    "input": "Take this noble child over to the Family Guy offices. If he can scare them like he has us, maybe we can pull the Mohammad episode after all.\n",
+    "output": "[turns and walks out, and says softly with an evil smile] Yes, and then Family Guy is as good as dead.\n"
+  },
+  {
+    "input": "[turns and walks out, and says softly with an evil smile] Yes, and then Family Guy is as good as dead.\n",
+    "output": "What was that?\n"
+  },
+  {
+    "input": "What was that?\n",
+    "output": "[stops and turns] I I said \"thank you.\" Thank you for listening. [walks out again]\n[FOX Studios, outside. A truck pulls up to the curb and the passenger door opens. Kyle steps out of the truck and closes the door]\n"
+  },
+  {
+    "input": "[stops and turns] I I said \"thank you.\" Thank you for listening. [walks out again]\n[FOX Studios, outside. A truck pulls up to the curb and the passenger door opens. Kyle steps out of the truck and closes the door]\n",
+    "output": "Thanks a lot for the ride.\n"
+  },
+  {
+    "input": "Thanks a lot for the ride.\n",
+    "output": "Ey, it's the least I could do. I hope you succeed, kid. I really don't wanna see Family Guy go off the air. I love that show!\n"
+  },
+  {
+    "input": "Ey, it's the least I could do. I hope you succeed, kid. I really don't wanna see Family Guy go off the air. I love that show!\n",
+    "output": "I'll do everything I can.\n"
+  },
+  {
+    "input": "I'll do everything I can.\n",
+    "output": "I mean, I know it's just joke after joke, but I like that. At least it doesn't get all preachy and up its own ass with messages, you know? [drives off]\n[FOX Studios, exterior studio wall. Bart is writing \"I HATE FAMILY GUY\" repeatedly on the wall, much as he'd do in the opening credits of The Simpsons. His skateboard is leaning on the wall]\n"
+  },
+  {
+    "input": "I mean, I know it's just joke after joke, but I like that. At least it doesn't get all preachy and up its own ass with messages, you know? [drives off]\n[FOX Studios, exterior studio wall. Bart is writing \"I HATE FAMILY GUY\" repeatedly on the wall, much as he'd do in the opening credits of The Simpsons. His skateboard is leaning on the wall]\n",
+    "output": "[noticing Bart writing, but doesn't see the actual text] Excuse me. [Bart stops writing and approaches Kyle] Do you know which way the network president's office is?\n"
+  },
+  {
+    "input": "[noticing Bart writing, but doesn't see the actual text] Excuse me. [Bart stops writing and approaches Kyle] Do you know which way the network president's office is?\n",
+    "output": "Who wants to know?!\n"
+  },
+  {
+    "input": "Who wants to know?!\n",
+    "output": "Look, my fat bastard friend is trying to trick the network into getting Family Guy off the air.\n"
+  },
+  {
+    "input": "Look, my fat bastard friend is trying to trick the network into getting Family Guy off the air.\n",
+    "output": "[eyes narrowing] The network president's office is in there! [points to his right, to a small red building labeled \"154 c\"]\n"
+  },
+  {
+    "input": "[eyes narrowing] The network president's office is in there! [points to his right, to a small red building labeled \"154 c\"]\n",
+    "output": "Oh thanks, dude.\n"
+  },
+  {
+    "input": "Oh thanks, dude.\n",
+    "output": "No problem, man. [smiles, knowing Kyle isn't going to the right building]\n[A storage room. This is the building Bart pointed to. Kyle opens the door and enters]\n"
+  },
+  {
+    "input": "No problem, man. [smiles, knowing Kyle isn't going to the right building]\n[A storage room. This is the building Bart pointed to. Kyle opens the door and enters]\n",
+    "output": "[looks around] Hello? This can't be right, I- [Bart whacks him from behind with a skateboard, and he falls forward] Ow!\n"
+  },
+  {
+    "input": "[looks around] Hello? This can't be right, I- [Bart whacks him from behind with a skateboard, and he falls forward] Ow!\n",
+    "output": "Cowabunga, motherfucker!\n[The Family Guy offices. The receptionist shows Cartman in]\n"
+  },
+  {
+    "input": "Cowabunga, motherfucker!\n[The Family Guy offices. The receptionist shows Cartman in]\n",
+    "output": "[behind a desk] Hello Mitchell.\n"
+  },
+  {
+    "input": "[behind a desk] Hello Mitchell.\n",
+    "output": "Oh hi, Miss Travis.\n"
+  },
+  {
+    "input": "Oh hi, Miss Travis.\n",
+    "output": "The president has asked that little Danny Pocket here speak with the Family Guy writing staff.\n"
+  },
+  {
+    "input": "The president has asked that little Danny Pocket here speak with the Family Guy writing staff.\n",
+    "output": "[rises and walks forth] Are you... sure? They're working on a new episode right now.\n"
+  },
+  {
+    "input": "[rises and walks forth] Are you... sure? They're working on a new episode right now.\n",
+    "output": "It won't take long, sir. [coughs with more energy] Ow...\n"
+  },
+  {
+    "input": "It won't take long, sir. [coughs with more energy] Ow...\n",
+    "output": "All right, I'll take him back. Follow me, little Danny. [walks back to the writing area. Cartman follows.] You must be excited. Not many people get to meet our writing staff.\n"
+  },
+  {
+    "input": "All right, I'll take him back. Follow me, little Danny. [walks back to the writing area. Cartman follows.] You must be excited. Not many people get to meet our writing staff.\n",
+    "output": "[removes his cap] Yes, I'm totally excited. Family Guy is so funny.\n[The Family Guy writing room. Mitchell and Cartman enter and walk by the cubicles]\n"
+  },
+  {
+    "input": "[removes his cap] Yes, I'm totally excited. Family Guy is so funny.\n[The Family Guy writing room. Mitchell and Cartman enter and walk by the cubicles]\n",
+    "output": "Well, here we are. Danny, the Family Guy writing staff.\n"
+  },
+  {
+    "input": "Well, here we are. Danny, the Family Guy writing staff.\n",
+    "output": "[stops and stares] Wha? [before him is a wall tank the height of the writing room. Manatees are swimming slowly within, and a huge pile of plastic balls sits at one end of the tank. Some of them are snacking on small fish] What are they?\n"
+  },
+  {
+    "input": "[stops and stares] Wha? [before him is a wall tank the height of the writing room. Manatees are swimming slowly within, and a huge pile of plastic balls sits at one end of the tank. Some of them are snacking on small fish] What are they?\n",
+    "output": "They're manatees. [gray manatees] Gretchen and Flubber are from the Gulf of Mexico. Tinker, Pete and Lucy are from the Caribbean Sea.\n"
+  },
+  {
+    "input": "They're manatees. [gray manatees] Gretchen and Flubber are from the Gulf of Mexico. Tinker, Pete and Lucy are from the Caribbean Sea.\n",
+    "output": "Family Guy is written by manatees? [rethinks] Of course, it all makes sense now.\n"
+  },
+  {
+    "input": "Family Guy is written by manatees? [rethinks] Of course, it all makes sense now.\n",
+    "output": "They really are brilliant creatures. [the camera focuses on the ball pile] You see, the right side of the tank is filled with idea balls. [the camera zooms in and pans across] Each ball has a verb, noun, or pop culture reference written on it. There's millions of them. [A manatee swims to the left side of the tank balancing a ball on its nose] The manatees choose an idea ball and swim it over to the joke combine on the other side of the tank. [another manatee swims into the pile] Uh there goes Gretchen! She's comin' up with an idea. Oh, she came up with Gary Coleman. [another manatee reaches the combine and drops a ball in] The idea balls drop into the joke combine and form part of the new script. [the ball reads \"Mexico\" as it goes down the pipe into the sorter] Laundry Date Winning Mexico Gary Coleman. A perfect Family Guy joke! I can see it now!\n[The imagined joke]\n"
+  },
+  {
+    "input": "They really are brilliant creatures. [the camera focuses on the ball pile] You see, the right side of the tank is filled with idea balls. [the camera zooms in and pans across] Each ball has a verb, noun, or pop culture reference written on it. There's millions of them. [A manatee swims to the left side of the tank balancing a ball on its nose] The manatees choose an idea ball and swim it over to the joke combine on the other side of the tank. [another manatee swims into the pile] Uh there goes Gretchen! She's comin' up with an idea. Oh, she came up with Gary Coleman. [another manatee reaches the combine and drops a ball in] The idea balls drop into the joke combine and form part of the new script. [the ball reads \"Mexico\" as it goes down the pipe into the sorter] Laundry Date Winning Mexico Gary Coleman. A perfect Family Guy joke! I can see it now!\n[The imagined joke]\n",
+    "output": "Peter, you didn't do the laundry today.\n"
+  },
+  {
+    "input": "Peter, you didn't do the laundry today.\n",
+    "output": "You think that's bad? Remember the time I won a date to Mexico with Gary Coleman?\n[Pedro's, somewhere in Mexi]\n"
+  },
+  {
+    "input": "You think that's bad? Remember the time I won a date to Mexico with Gary Coleman?\n[Pedro's, somewhere in Mexi]\n",
+    "output": "\u00bfQu\u00e9 pasa, se\u00f1ores?\n"
+  },
+  {
+    "input": "\u00bfQu\u00e9 pasa, se\u00f1ores?\n",
+    "output": "Whatchoo talkin' 'bout, Willis?\n[Back to the Family Guy offices]\n"
+  },
+  {
+    "input": "Whatchoo talkin' 'bout, Willis?\n[Back to the Family Guy offices]\n",
+    "output": "Waitwaitaminute waitaminute. These... manatees demanded that Mohammad be shown? How? Manatees don't talk!\n"
+  },
+  {
+    "input": "Waitwaitaminute waitaminute. These... manatees demanded that Mohammad be shown? How? Manatees don't talk!\n",
+    "output": "When FOX censored the image of Mohammad last week, it also meant that the Mohammad ball had to come out of the idea tank. It made the manatees very upset. Pull just one idea ball out of the idea tank, and the manatees stop working. He-here, I'll show you. [looks up] Keith? [Keith, seated at the top of the tank, reaches in and pulls out a green RIVERDANCE ball. The manatees stop in their tracks and slowly drop down as the balls they're carrying slip away from them] All right all right, put it back in! [Keith drops it back in. The manatees respond quickly and resume work] Manatees are very ethical writers. Either everything's okay to write about, or nothing is. Anyway, the president of the network wanted you to ...speak with the manatees.\n"
+  },
+  {
+    "input": "When FOX censored the image of Mohammad last week, it also meant that the Mohammad ball had to come out of the idea tank. It made the manatees very upset. Pull just one idea ball out of the idea tank, and the manatees stop working. He-here, I'll show you. [looks up] Keith? [Keith, seated at the top of the tank, reaches in and pulls out a green RIVERDANCE ball. The manatees stop in their tracks and slowly drop down as the balls they're carrying slip away from them] All right all right, put it back in! [Keith drops it back in. The manatees respond quickly and resume work] Manatees are very ethical writers. Either everything's okay to write about, or nothing is. Anyway, the president of the network wanted you to ...speak with the manatees.\n",
+    "output": "Oh... yes, yes. Um [clears his throat and talks to the tank] hello, manatees. I, I think you should allow the network to pull your episode with Mohammad. See, I'm the victim of a, a terrorist attack and... terrorists might come after you if you-\n"
+  },
+  {
+    "input": "Oh... yes, yes. Um [clears his throat and talks to the tank] hello, manatees. I, I think you should allow the network to pull your episode with Mohammad. See, I'm the victim of a, a terrorist attack and... terrorists might come after you if you-\n",
+    "output": "That isn't gonna work on them.\n"
+  },
+  {
+    "input": "That isn't gonna work on them.\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "Don't you know anything about manatees? They're the only mammals that are completely unmoved by terrorist threats.\n"
+  },
+  {
+    "input": "Don't you know anything about manatees? They're the only mammals that are completely unmoved by terrorist threats.\n",
+    "output": "[softly] Son of a bitch.\n[The storage room. Kyle is now dangling from the ceiling, enveloped in a rope trap. He struggles to get out]\n"
+  },
+  {
+    "input": "[softly] Son of a bitch.\n[The storage room. Kyle is now dangling from the ceiling, enveloped in a rope trap. He struggles to get out]\n",
+    "output": "[calling to Bart] Let me out of here, kid! Why are you doing this?\n"
+  },
+  {
+    "input": "[calling to Bart] Let me out of here, kid! Why are you doing this?\n",
+    "output": "[voice] Well well well! [now shown walking up to Bart, who's keeping watch while leaning on his skateboard. Cartman has a mean air of satisfaction on him]\n"
+  },
+  {
+    "input": "[voice] Well well well! [now shown walking up to Bart, who's keeping watch while leaning on his skateboard. Cartman has a mean air of satisfaction on him]\n",
+    "output": "Cartman!\n"
+  },
+  {
+    "input": "Cartman!\n",
+    "output": "Hello, Kyle. Looks like you've run into a little snag in your plan as well.\n"
+  },
+  {
+    "input": "Hello, Kyle. Looks like you've run into a little snag in your plan as well.\n",
+    "output": "You fat son of a bitch!\n"
+  },
+  {
+    "input": "You fat son of a bitch!\n",
+    "output": "You came so close to stopping me, didn't you, Kyle. There was just one thing you didn't count on: that more people besides me hate Family Guy.\n"
+  },
+  {
+    "input": "You came so close to stopping me, didn't you, Kyle. There was just one thing you didn't count on: that more people besides me hate Family Guy.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Well, a lot of people like Family Guy too! Who are you to decide it shouldn't be on the air?!\n"
+  },
+  {
+    "input": "Well, a lot of people like Family Guy too! Who are you to decide it shouldn't be on the air?!\n",
+    "output": "Shut up! [points to Kyle] You shut your fucking face, man! [to Cartman] Did it work? Did you scare the network into pulling the episode?\n"
+  },
+  {
+    "input": "Shut up! [points to Kyle] You shut your fucking face, man! [to Cartman] Did it work? Did you scare the network into pulling the episode?\n",
+    "output": "Not yet! But I've come up with a new plan. I've learned how to make the Family Guy writing staff stop working! As soon as everyone goes on their lunch break, I can sneak back in.\n"
+  },
+  {
+    "input": "Not yet! But I've come up with a new plan. I've learned how to make the Family Guy writing staff stop working! As soon as everyone goes on their lunch break, I can sneak back in.\n",
+    "output": "Cool man!\n"
+  },
+  {
+    "input": "Cool man!\n",
+    "output": "Cartman, let me out of this stupid net!!\n"
+  },
+  {
+    "input": "Cartman, let me out of this stupid net!!\n",
+    "output": "Good, Kyle! That's good anger you're showin' there! See that?! That's emotional character development based on what's happening in the storyline! Not at all like Family Guy. Now, if you'll excuse me, Kyle, [turns and walks away] I've got some idea balls to remove from a manatee tank.\n"
+  },
+  {
+    "input": "Good, Kyle! That's good anger you're showin' there! See that?! That's emotional character development based on what's happening in the storyline! Not at all like Family Guy. Now, if you'll excuse me, Kyle, [turns and walks away] I've got some idea balls to remove from a manatee tank.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Family Guy offices, later. The FOX President looks at the manatee tank along with the rest of the staff]\n"
+  },
+  {
+    "input": "[Family Guy offices, later. The FOX President looks at the manatee tank along with the rest of the staff]\n",
+    "output": "I don't understand it. What's wrong with them? [the manatees are floating aimlessly]\n"
+  },
+  {
+    "input": "I don't understand it. What's wrong with them? [the manatees are floating aimlessly]\n",
+    "output": "We don't know, Mr. President. They just stopped working.\n"
+  },
+  {
+    "input": "We don't know, Mr. President. They just stopped working.\n",
+    "output": "[concerned] But, nobody took any idea balls out of the tank, did they?\n"
+  },
+  {
+    "input": "[concerned] But, nobody took any idea balls out of the tank, did they?\n",
+    "output": "No sir, none of us did. [Cartman smiles and looks around at the results of his handiwork]\n"
+  },
+  {
+    "input": "No sir, none of us did. [Cartman smiles and looks around at the results of his handiwork]\n",
+    "output": "Then why are they refusing to write? I agreed to show Mohammad uncensored! I did what you asked! WHAT DO YOU WANT FROM ME??!!\n"
+  },
+  {
+    "input": "Then why are they refusing to write? I agreed to show Mohammad uncensored! I did what you asked! WHAT DO YOU WANT FROM ME??!!\n",
+    "output": "[hobbles up to him] Sir! Sir! [faces him] If you don't my saying, I think you asked for this. You gave in to the manatees last week. Now they know all they have to do is refuse to work and they can get whatever they want. You spoiled them by caving in. Now they thnk they can walk all over you. [they both turn to face the tank] Sir, you are in charge of this network, not them. Maybe it's time you showed them who's in charge.\n"
+  },
+  {
+    "input": "[hobbles up to him] Sir! Sir! [faces him] If you don't my saying, I think you asked for this. You gave in to the manatees last week. Now they know all they have to do is refuse to work and they can get whatever they want. You spoiled them by caving in. Now they thnk they can walk all over you. [they both turn to face the tank] Sir, you are in charge of this network, not them. Maybe it's time you showed them who's in charge.\n",
+    "output": "You're right. It's time I stop letting these primadonna manatees tell me what to do! I'm pulling the Mohammad episode, you got that?! And if you all don't want to work tomorrow, you can just find other jobs!! [faces the staff] How long before Family Guy's supposed to air?!\n"
+  },
+  {
+    "input": "You're right. It's time I stop letting these primadonna manatees tell me what to do! I'm pulling the Mohammad episode, you got that?! And if you all don't want to work tomorrow, you can just find other jobs!! [faces the staff] How long before Family Guy's supposed to air?!\n",
+    "output": "Twenty-five minutes.\n"
+  },
+  {
+    "input": "Twenty-five minutes.\n",
+    "output": "I gotta hurry! [rushes off]\n"
+  },
+  {
+    "input": "I gotta hurry! [rushes off]\n",
+    "output": "I did it. I... AM... GOD!!!\n[FOX Studios, outside. Cartman has left the offices and dances down a street]\n"
+  },
+  {
+    "input": "I did it. I... AM... GOD!!!\n[FOX Studios, outside. Cartman has left the offices and dances down a street]\n",
+    "output": "Family Guy is going off the air! No more Family Guy for me, mon fr\u00e8re!\n"
+  },
+  {
+    "input": "Family Guy is going off the air! No more Family Guy for me, mon fr\u00e8re!\n",
+    "output": "[appears in the shadows] Cartmaaaan!!! [Cartman stops in his tracks] You fucking fatass!\n"
+  },
+  {
+    "input": "[appears in the shadows] Cartmaaaan!!! [Cartman stops in his tracks] You fucking fatass!\n",
+    "output": "How the hell did you get out?\n"
+  },
+  {
+    "input": "How the hell did you get out?\n",
+    "output": "That kid and I had a long talk! I told him he was on a slippery slope to becoming a monster like you!\n"
+  },
+  {
+    "input": "That kid and I had a long talk! I told him he was on a slippery slope to becoming a monster like you!\n",
+    "output": "Aw, God damnit, you gave him one of your gay little speeches, didn't you?!\n"
+  },
+  {
+    "input": "Aw, God damnit, you gave him one of your gay little speeches, didn't you?!\n",
+    "output": "[seething in anger] You are not. Killing. Family Guy!\n"
+  },
+  {
+    "input": "[seething in anger] You are not. Killing. Family Guy!\n",
+    "output": "You're too late, Kyle! The president of the network is pulling the episode! Family Guy is as good as dead!\n"
+  },
+  {
+    "input": "You're too late, Kyle! The president of the network is pulling the episode! Family Guy is as good as dead!\n",
+    "output": "[checks his watch] There's still time to tell the network president you're full of crap!! [runs off]\n"
+  },
+  {
+    "input": "[checks his watch] There's still time to tell the network president you're full of crap!! [runs off]\n",
+    "output": "[runs ahead and cuts him off] I can't let you do that!\n"
+  },
+  {
+    "input": "[runs ahead and cuts him off] I can't let you do that!\n",
+    "output": "Get out of my way or I'll kick your ass!\n"
+  },
+  {
+    "input": "Get out of my way or I'll kick your ass!\n",
+    "output": "[takes off his mittens] Fine, Kyle. I guess it was inevitable. [Kyle removes his left mitten with his teeth and spits it away] Let this be our final battle. [they put on their battle faces and begin fighting, which is shown dispassionately. It's all a long series of slaps] Ow. OW! Stop it! Kyle, that's too hard! Ah! [they begin to move along a sidewalk] Ugh. Kyle! Stop it!\n"
+  },
+  {
+    "input": "[takes off his mittens] Fine, Kyle. I guess it was inevitable. [Kyle removes his left mitten with his teeth and spits it away] Let this be our final battle. [they put on their battle faces and begin fighting, which is shown dispassionately. It's all a long series of slaps] Ow. OW! Stop it! Kyle, that's too hard! Ah! [they begin to move along a sidewalk] Ugh. Kyle! Stop it!\n",
+    "output": "Ow. Quit it!\n"
+  },
+  {
+    "input": "Ow. Quit it!\n",
+    "output": "Ow. Quit it, Kyle! Bleh. Kyle! [throws him up against a wall. They slap each other some more and Kyle throws Cartman up against the wall. Some more fighting and Cartman throws Kyle up against a window, but they both crash through it into the King of the Hill offices.]\n[King of the Hill offices. The boys continue fighting through the offices, Kyle having the upper hand]\n"
+  },
+  {
+    "input": "Ow. Quit it, Kyle! Bleh. Kyle! [throws him up against a wall. They slap each other some more and Kyle throws Cartman up against the wall. Some more fighting and Cartman throws Kyle up against a window, but they both crash through it into the King of the Hill offices.]\n[King of the Hill offices. The boys continue fighting through the offices, Kyle having the upper hand]\n",
+    "output": "Stop it!\n"
+  },
+  {
+    "input": "Stop it!\n",
+    "output": "Ow. Quit it!\n"
+  },
+  {
+    "input": "Ow. Quit it!\n",
+    "output": "Ow. Quit it, Kyle! Leh- Kyle! Let go- Okay okay come on, time out. Kyle, time out! Time out! Time out. [Kyle stops his attack and a few seconds of silence follow. Then] Time in! [slaps Kyle hard. Kyle waits for a writer to stop staring, then resumes his attack] I d-ow! Uh. Ah. Sh-gah. Okay. Okay. Time out! Kyle t-time out! Time out! Time out! Time out! Time out!\n"
+  },
+  {
+    "input": "Ow. Quit it, Kyle! Leh- Kyle! Let go- Okay okay come on, time out. Kyle, time out! Time out! Time out. [Kyle stops his attack and a few seconds of silence follow. Then] Time in! [slaps Kyle hard. Kyle waits for a writer to stop staring, then resumes his attack] I d-ow! Uh. Ah. Sh-gah. Okay. Okay. Time out! Kyle t-time out! Time out! Time out! Time out! Time out!\n",
+    "output": "No more timeouts, fatass!\n"
+  },
+  {
+    "input": "No more timeouts, fatass!\n",
+    "output": "Time out! Time out! Time out, Kyle! Ay! Ay!\n[King of the Hill offices, outside at the other end. The doors fly open and the boys fall out, get up, and resume their fighting. They are getting tired though.]\n"
+  },
+  {
+    "input": "Time out! Time out! Time out, Kyle! Ay! Ay!\n[King of the Hill offices, outside at the other end. The doors fly open and the boys fall out, get up, and resume their fighting. They are getting tired though.]\n",
+    "output": "Kyle! Kyle! Get the... Get the- Kyle! Kyle, dude, that was- that was in the balls! Dude, serious- seriously! That was in the balls! No hitting- No hitting in the balls! [throws Kyle off, but they resume fighting] Kyle! [Kyle finally gets Cartman in a reverse headlock. A few seconds later, he begins punching Cartman on the ribs] Quit it, Kyle. Give it up, Kyle! [gets out of the headlock, but the fighting resumes] Okay... Okay! Okay okay! [the fighting stops, and they're both panting] You win! You win. I give up. [kicks Kyle square in the nuts. Kyle doubles over in pain, coughing, and Cartman grins] Hahaha! I had my fingers crossed. [Kyle is still immobile, but a skateboard whacks Cartman from behind. Cartman falls over and Bart is there]\n"
+  },
+  {
+    "input": "Kyle! Kyle! Get the... Get the- Kyle! Kyle, dude, that was- that was in the balls! Dude, serious- seriously! That was in the balls! No hitting- No hitting in the balls! [throws Kyle off, but they resume fighting] Kyle! [Kyle finally gets Cartman in a reverse headlock. A few seconds later, he begins punching Cartman on the ribs] Quit it, Kyle. Give it up, Kyle! [gets out of the headlock, but the fighting resumes] Okay... Okay! Okay okay! [the fighting stops, and they're both panting] You win! You win. I give up. [kicks Kyle square in the nuts. Kyle doubles over in pain, coughing, and Cartman grins] Hahaha! I had my fingers crossed. [Kyle is still immobile, but a skateboard whacks Cartman from behind. Cartman falls over and Bart is there]\n",
+    "output": "[coughs] Thanks, kid.\n[The Office of the FOX President. He is on the phone]\n"
+  },
+  {
+    "input": "[coughs] Thanks, kid.\n[The Office of the FOX President. He is on the phone]\n",
+    "output": "Network Control! This is the President! I want you to pull the episode.\n"
+  },
+  {
+    "input": "Network Control! This is the President! I want you to pull the episode.\n",
+    "output": "[whispers] What? [in normal tone] Mr. President, are you sure? [the other programmers look at her]\n"
+  },
+  {
+    "input": "[whispers] What? [in normal tone] Mr. President, are you sure? [the other programmers look at her]\n",
+    "output": "I'm sure. Begin episode jettison sequence 0 2 900. [two programmers raise their access keys and insert them into corresponding locks in their desks, then turn the keys. Between their desks is a big red \"PULL EPISODE\" button. Its lid pops up and it begins flashing]\n"
+  },
+  {
+    "input": "I'm sure. Begin episode jettison sequence 0 2 900. [two programmers raise their access keys and insert them into corresponding locks in their desks, then turn the keys. Between their desks is a big red \"PULL EPISODE\" button. Its lid pops up and it begins flashing]\n",
+    "output": "Abort System initiated.\n"
+  },
+  {
+    "input": "Abort System initiated.\n",
+    "output": "Awaiting confirmation.\n"
+  },
+  {
+    "input": "Awaiting confirmation.\n",
+    "output": "Mr. President, we need your final approval code.\n"
+  },
+  {
+    "input": "Mr. President, we need your final approval code.\n",
+    "output": "President approval code [Kyle runs past the office, but notices and comes back] 0-0-destruct-\n"
+  },
+  {
+    "input": "President approval code [Kyle runs past the office, but notices and comes back] 0-0-destruct-\n",
+    "output": "[runs in and interrupts] Sir! Mister television executive! Stop!\n"
+  },
+  {
+    "input": "[runs in and interrupts] Sir! Mister television executive! Stop!\n",
+    "output": "Who are you?\n"
+  },
+  {
+    "input": "Who are you?\n",
+    "output": "Listen to me: the little boy who convinced you to pull the episode is a bastard child. He only wants you to pull it because he knows it will be the end of Family Guy forever!\n"
+  },
+  {
+    "input": "Listen to me: the little boy who convinced you to pull the episode is a bastard child. He only wants you to pull it because he knows it will be the end of Family Guy forever!\n",
+    "output": "The end of Family Guy?\n"
+  },
+  {
+    "input": "The end of Family Guy?\n",
+    "output": "Mr. President, we need final authorization!\n"
+  },
+  {
+    "input": "Mr. President, we need final authorization!\n",
+    "output": "Hold on, Julie! [covers the transmitter] What are you talking about, kid?\n"
+  },
+  {
+    "input": "Hold on, Julie! [covers the transmitter] What are you talking about, kid?\n",
+    "output": "Pulling an episode because someone is offended starts a chain reaction. You'll have to pull more and more episodes until the show goes off the air completely. It's what happened to Laverne & Shirley.\n"
+  },
+  {
+    "input": "Pulling an episode because someone is offended starts a chain reaction. You'll have to pull more and more episodes until the show goes off the air completely. It's what happened to Laverne & Shirley.\n",
+    "output": "You mean... the manatees aren't trying to run the network?\n"
+  },
+  {
+    "input": "You mean... the manatees aren't trying to run the network?\n",
+    "output": "What manatees??!! [a fist knocks him away and Cartman steps in]\n"
+  },
+  {
+    "input": "What manatees??!! [a fist knocks him away and Cartman steps in]\n",
+    "output": "Go ahead, Mr. President! Continue what you were doing!\n"
+  },
+  {
+    "input": "Go ahead, Mr. President! Continue what you were doing!\n",
+    "output": "[quickly rises] No! You have to show Mohammad, Mr. President!\n"
+  },
+  {
+    "input": "[quickly rises] No! You have to show Mohammad, Mr. President!\n",
+    "output": "Mr. President, we're awaiting your orders!\n"
+  },
+  {
+    "input": "Mr. President, we're awaiting your orders!\n",
+    "output": "Sir, just think about what you're doing to free speech!\n"
+  },
+  {
+    "input": "Sir, just think about what you're doing to free speech!\n",
+    "output": "No! Think about the people who could get hurt!\n"
+  },
+  {
+    "input": "No! Think about the people who could get hurt!\n",
+    "output": "Ah... I don't know who to listen to!\n"
+  },
+  {
+    "input": "Ah... I don't know who to listen to!\n",
+    "output": "Okay, I'll make it easy for you. [pulls out a gun and aims it at the president] Pull the Mohammad episode, now!\n"
+  },
+  {
+    "input": "Okay, I'll make it easy for you. [pulls out a gun and aims it at the president] Pull the Mohammad episode, now!\n",
+    "output": "Okay, I'll listen to you. [gets back to the phone] Julie?\n"
+  },
+  {
+    "input": "Okay, I'll listen to you. [gets back to the phone] Julie?\n",
+    "output": "Noo! Wait! You can't listen to him! He's a lying deceitful monster who only wants Family Guy off the air!\n"
+  },
+  {
+    "input": "Noo! Wait! You can't listen to him! He's a lying deceitful monster who only wants Family Guy off the air!\n",
+    "output": "But he has a gun.\n"
+  },
+  {
+    "input": "But he has a gun.\n",
+    "output": "You can't do what he wants just because he's the one threatening you with violence!\n"
+  },
+  {
+    "input": "You can't do what he wants just because he's the one threatening you with violence!\n",
+    "output": "Shut up, Kyle!\n"
+  },
+  {
+    "input": "Shut up, Kyle!\n",
+    "output": "I can't be responsible for people getting hurt. Especially me.\n"
+  },
+  {
+    "input": "I can't be responsible for people getting hurt. Especially me.\n",
+    "output": "Yes, people can get hurt. That's how terrorism works. But if you give into that, Doug, you're allowing terrorism to work. Do the right thing here.\n"
+  },
+  {
+    "input": "Yes, people can get hurt. That's how terrorism works. But if you give into that, Doug, you're allowing terrorism to work. Do the right thing here.\n",
+    "output": "Give the orders to pull the episode, Mr. President!\n"
+  },
+  {
+    "input": "Give the orders to pull the episode, Mr. President!\n",
+    "output": "I shouldn't even be in the office still. It's supposed to be half-day Friday.\n"
+  },
+  {
+    "input": "I shouldn't even be in the office still. It's supposed to be half-day Friday.\n",
+    "output": "Mr. President, thirty seconds to airtime. What do you want us to do?!\n"
+  },
+  {
+    "input": "Mr. President, thirty seconds to airtime. What do you want us to do?!\n",
+    "output": "Do the right thing, Mr. President.\n"
+  },
+  {
+    "input": "Do the right thing, Mr. President.\n",
+    "output": "How about I allow the episode to air but, just censor out the image of Mohammad again.\n"
+  },
+  {
+    "input": "How about I allow the episode to air but, just censor out the image of Mohammad again.\n",
+    "output": "I wish that was good enough, but if you censor out Mohammad, then soon you'll have to censor out more.\n"
+  },
+  {
+    "input": "I wish that was good enough, but if you censor out Mohammad, then soon you'll have to censor out more.\n",
+    "output": "No gay speeches, Kyle!\n"
+  },
+  {
+    "input": "No gay speeches, Kyle!\n",
+    "output": "If you don't show Mohammad, then you've made a distinction what is okay to poke fun at, and what isn't. Either it's all okay, or none of it is.\n"
+  },
+  {
+    "input": "If you don't show Mohammad, then you've made a distinction what is okay to poke fun at, and what isn't. Either it's all okay, or none of it is.\n",
+    "output": "Five seconds, Mr. President! [the programmer J. Walker has his finger hovering on the button]\n"
+  },
+  {
+    "input": "Five seconds, Mr. President! [the programmer J. Walker has his finger hovering on the button]\n",
+    "output": "[softly] Do the right thing. Show Mohammad. [Cartman still has his gun on the president] Do. The right. Thing.\n"
+  },
+  {
+    "input": "[softly] Do the right thing. Show Mohammad. [Cartman still has his gun on the president] Do. The right. Thing.\n",
+    "output": "Mr. President, we need a decision now!\n"
+  },
+  {
+    "input": "Mr. President, we need a decision now!\n",
+    "output": "Family Guy goes on air as planned. Uncensored.\n"
+  },
+  {
+    "input": "Family Guy goes on air as planned. Uncensored.\n",
+    "output": "Yes! [dances]\n"
+  },
+  {
+    "input": "Yes! [dances]\n",
+    "output": "No! No, I hate Family Guy!! [tries to fire the gun, but it seems to be empty. No bullets come out. He throws it down.]\n"
+  },
+  {
+    "input": "No! No, I hate Family Guy!! [tries to fire the gun, but it seems to be empty. No bullets come out. He throws it down.]\n",
+    "output": "Air it! [a different programmer gives his thumbs up and then turns to press the \"AIR EPISODE\" button. The credits come up and the self-destruct programmers remove their keys and sigh in relief. The \"PULL EPISODE\" lid comes down]\n[The episode]\n"
+  },
+  {
+    "input": "Air it! [a different programmer gives his thumbs up and then turns to press the \"AIR EPISODE\" button. The credits come up and the self-destruct programmers remove their keys and sigh in relief. The \"PULL EPISODE\" lid comes down]\n[The episode]\n",
+    "output": "Peter! You got a pink slip at work?\n"
+  },
+  {
+    "input": "Peter! You got a pink slip at work?\n",
+    "output": "You think that's bad? Remember the time I got a salmon helmet from Mohammad while wearing a toga?\n[The flashback. The doorbell rings]\n"
+  },
+  {
+    "input": "You think that's bad? Remember the time I got a salmon helmet from Mohammad while wearing a toga?\n[The flashback. The doorbell rings]\n",
+    "output": "[dressed in a toga, answers the door] Coming Mohammad. [opens the door. A salmon helmet appears and he reaches out to grab it]\n[In this shot, Mohammad hands a football helmet to Family Guy.]\n[Comedy Central has refused to broadcast an image of Mohammad on their network.]\n"
+  },
+  {
+    "input": "[dressed in a toga, answers the door] Coming Mohammad. [opens the door. A salmon helmet appears and he reaches out to grab it]\n[In this shot, Mohammad hands a football helmet to Family Guy.]\n[Comedy Central has refused to broadcast an image of Mohammad on their network.]\n",
+    "output": "Wow, a salmon helmet! Thanks! [closes the door and goes back to the sofa]\n[back to the episode]\n"
+  },
+  {
+    "input": "Wow, a salmon helmet! Thanks! [closes the door and goes back to the sofa]\n[back to the episode]\n",
+    "output": "Anyway, what were we talking about?\n[The White House. President Bush and his staff watch the episode.]\n"
+  },
+  {
+    "input": "Anyway, what were we talking about?\n[The White House. President Bush and his staff watch the episode.]\n",
+    "output": "Oh yeah, my pink slip.\n"
+  },
+  {
+    "input": "Oh yeah, my pink slip.\n",
+    "output": "Hey, that wasn't bad at all. They just showed Mohammad standin' there, lookin' normal.\n"
+  },
+  {
+    "input": "Hey, that wasn't bad at all. They just showed Mohammad standin' there, lookin' normal.\n",
+    "output": "Mr. President, the terrorists are retaliating!\n"
+  },
+  {
+    "input": "Mr. President, the terrorists are retaliating!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Or the time I- [click. SNN shows up onscreen]\n"
+  },
+  {
+    "input": "Or the time I- [click. SNN shows up onscreen]\n",
+    "output": "As soon as the image of Mohammad appeared, terrorist leader al-Zawahri announced the retaliation!\n"
+  },
+  {
+    "input": "As soon as the image of Mohammad appeared, terrorist leader al-Zawahri announced the retaliation!\n",
+    "output": "[translated] We warned you not to show Mohammad- But \"Family Guy\" did it anyways. So now, here is our retaliation on America!!!\n[Osama bin Laden & al-Zawahri present\nan Al Qaeda Films Production]\n[three houses appear against a backdrop of skyscrapers. Each house has a dollar sign on its roof, indicating the wealth of the West]\n"
+  },
+  {
+    "input": "[translated] We warned you not to show Mohammad- But \"Family Guy\" did it anyways. So now, here is our retaliation on America!!!\n[Osama bin Laden & al-Zawahri present\nan Al Qaeda Films Production]\n[three houses appear against a backdrop of skyscrapers. Each house has a dollar sign on its roof, indicating the wealth of the West]\n",
+    "output": "[walks in] Hello, I am American.\n"
+  },
+  {
+    "input": "[walks in] Hello, I am American.\n",
+    "output": "[walks in] I'm American too.\n"
+  },
+  {
+    "input": "[walks in] I'm American too.\n",
+    "output": "We like to crap own each other. [the men take turns crapping on each other]\n"
+  },
+  {
+    "input": "We like to crap own each other. [the men take turns crapping on each other]\n",
+    "output": "[walks in] Hello, I am the President Bush. I will crap on both of you. [craps on both of them]\n"
+  },
+  {
+    "input": "[walks in] Hello, I am the President Bush. I will crap on both of you. [craps on both of them]\n",
+    "output": "Ugh! We love to crap!\n"
+  },
+  {
+    "input": "Ugh! We love to crap!\n",
+    "output": "[walks in] I'm American. I'm pregnant with a baby, but I'm not married.\n"
+  },
+  {
+    "input": "[walks in] I'm American. I'm pregnant with a baby, but I'm not married.\n",
+    "output": "[walks in] Let's crap. [all five of them begin crapping on each other and Jesus enters the picture]\n"
+  },
+  {
+    "input": "[walks in] Let's crap. [all five of them begin crapping on each other and Jesus enters the picture]\n",
+    "output": "Look at me! I'm Jesus! Would you like me to crap on you, Mr. Bush? [craps on Bush. More Americans walk in and start crapping]\n"
+  },
+  {
+    "input": "Look at me! I'm Jesus! Would you like me to crap on you, Mr. Bush? [craps on Bush. More Americans walk in and start crapping]\n",
+    "output": "Mmm, yummy yummy crap. [more people crap, and an American flag appears under them, being crapped on]\n"
+  },
+  {
+    "input": "Mmm, yummy yummy crap. [more people crap, and an American flag appears under them, being crapped on]\n",
+    "output": "[?]\n"
+  }
+]

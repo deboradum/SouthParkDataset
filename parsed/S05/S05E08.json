@@ -1,0 +1,1450 @@
+[
+  {
+    "input": "",
+    "output": "Towelie\n\n[Stan's house, day. Stan, Kyle, and Kenny are in the living room playing video games.]\n"
+  },
+  {
+    "input": "Towelie\n\n[Stan's house, day. Stan, Kyle, and Kenny are in the living room playing video games.]\n",
+    "output": "HA! I killed you!\n"
+  },
+  {
+    "input": "HA! I killed you!\n",
+    "output": "HA, I blew your head off!\n"
+  },
+  {
+    "input": "HA, I blew your head off!\n",
+    "output": "(Aw, Goddamnit!)\n"
+  },
+  {
+    "input": "(Aw, Goddamnit!)\n",
+    "output": "Jesus, is Cartman still in the bathroom?\n"
+  },
+  {
+    "input": "Jesus, is Cartman still in the bathroom?\n",
+    "output": "Hey Cartman! We're almost to level 20! You giving birth in there, or what?\n"
+  },
+  {
+    "input": "Hey Cartman! We're almost to level 20! You giving birth in there, or what?\n",
+    "output": "Let a man take a crap!\n"
+  },
+  {
+    "input": "Let a man take a crap!\n",
+    "output": "Dude, he's in there punishing my toilet.\n"
+  },
+  {
+    "input": "Dude, he's in there punishing my toilet.\n",
+    "output": "Hyeah, that poor, poor thing\n"
+  },
+  {
+    "input": "Hyeah, that poor, poor thing\n",
+    "output": "Come on, Cartman! You're missing the game!\n"
+  },
+  {
+    "input": "Come on, Cartman! You're missing the game!\n",
+    "output": "[from behind the bathroom door] I'm almost done, you smartasses! I'm just wipin' mah- whoa, what the hell is that? [finishes wiping his butt and zips himself up. He comes out of the bathroom with something in his hands] You guys, look what I found in the trashcan in Stan's bathroom. It's like a bloody cotton thing wrapped in toilet paper.\n"
+  },
+  {
+    "input": "[from behind the bathroom door] I'm almost done, you smartasses! I'm just wipin' mah- whoa, what the hell is that? [finishes wiping his butt and zips himself up. He comes out of the bathroom with something in his hands] You guys, look what I found in the trashcan in Stan's bathroom. It's like a bloody cotton thing wrapped in toilet paper.\n",
+    "output": "Well, why did you pull it out of the trash?\n"
+  },
+  {
+    "input": "Well, why did you pull it out of the trash?\n",
+    "output": "Because I thought it was a jelly doughnut, but look, check it out, it's all bloody.\n"
+  },
+  {
+    "input": "Because I thought it was a jelly doughnut, but look, check it out, it's all bloody.\n",
+    "output": "[walks in with a basket of laundry] Are you guys still playing that video game?\n"
+  },
+  {
+    "input": "[walks in with a basket of laundry] Are you guys still playing that video game?\n",
+    "output": "Yeah. Hey Mom, Cartman found a bloody cotton thing in the bathroom.\n"
+  },
+  {
+    "input": "Yeah. Hey Mom, Cartman found a bloody cotton thing in the bathroom.\n",
+    "output": "[holds it up] Look. [Sharon gasps and drops the laundry. Cartman unravels it] But I don't think it's for usin', I think it's just for lookin' through. [looks through it]\n"
+  },
+  {
+    "input": "[holds it up] Look. [Sharon gasps and drops the laundry. Cartman unravels it] But I don't think it's for usin', I think it's just for lookin' through. [looks through it]\n",
+    "output": "Eric, put that down!\n"
+  },
+  {
+    "input": "Eric, put that down!\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Just go put it back in the trashcan!\n"
+  },
+  {
+    "input": "Just go put it back in the trashcan!\n",
+    "output": "[inspects it] Hey, it's like all bloody. It might be alive.\n"
+  },
+  {
+    "input": "[inspects it] Hey, it's like all bloody. It might be alive.\n",
+    "output": "No that... that came from me; just put it away.\n"
+  },
+  {
+    "input": "No that... that came from me; just put it away.\n",
+    "output": "This came out of you?? You just left it in the trashcan?! [hick accent] You shouldn'ta done that. He's just a boih. Poor little feller.\n"
+  },
+  {
+    "input": "This came out of you?? You just left it in the trashcan?! [hick accent] You shouldn'ta done that. He's just a boih. Poor little feller.\n",
+    "output": "[looks up at his mom] What is it, Mom?\n"
+  },
+  {
+    "input": "[looks up at his mom] What is it, Mom?\n",
+    "output": "Yeah, what it is, Mrs. Marsh?\n"
+  },
+  {
+    "input": "Yeah, what it is, Mrs. Marsh?\n",
+    "output": "Boys, that a... feminine thing. Alright, it's a personal, woman thing. [game play stops and the boys look at her] I tell you what: If you'll just drop the whole thing right now, I'll buy you that new video game console you've been wanting.\n"
+  },
+  {
+    "input": "Boys, that a... feminine thing. Alright, it's a personal, woman thing. [game play stops and the boys look at her] I tell you what: If you'll just drop the whole thing right now, I'll buy you that new video game console you've been wanting.\n",
+    "output": "The 2001 Okama GameSphere?\n"
+  },
+  {
+    "input": "The 2001 Okama GameSphere?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "Cool!\n"
+  },
+  {
+    "input": "Cool!\n",
+    "output": "Wow, this is like finding trashcan gold, you guiys!\n[Luau's Toys, day, later. A banner reading \"WE HAVE GAMESPHERE\" hangs over the window, and the console itself is in the window display.]\n"
+  },
+  {
+    "input": "Wow, this is like finding trashcan gold, you guiys!\n[Luau's Toys, day, later. A banner reading \"WE HAVE GAMESPHERE\" hangs over the window, and the console itself is in the window display.]\n",
+    "output": "There it is. The Okama GameSphere. [the game console is shown, along with two controllers and several boxes containing the console]\n"
+  },
+  {
+    "input": "There it is. The Okama GameSphere. [the game console is shown, along with two controllers and several boxes containing the console]\n",
+    "output": "Dude, it's got a hundred twenty eight gigahertz D-RAM.\n"
+  },
+  {
+    "input": "Dude, it's got a hundred twenty eight gigahertz D-RAM.\n",
+    "output": "What's that?\n"
+  },
+  {
+    "input": "What's that?\n",
+    "output": "Don't know, but it kicks ass. [they watch as Sharon buys the console from Mr. Harris and he wraps it up and delivers it to her] Wow, dude, you're the luckiest kid in South Park.\n"
+  },
+  {
+    "input": "Don't know, but it kicks ass. [they watch as Sharon buys the console from Mr. Harris and he wraps it up and delivers it to her] Wow, dude, you're the luckiest kid in South Park.\n",
+    "output": "Hey, this is all of ours. I'm the one who found Stan's aborted brother in the trashcan and blackmailed his mom into getting the GameSphere. [the boys turn away from the window]\n"
+  },
+  {
+    "input": "Hey, this is all of ours. I'm the one who found Stan's aborted brother in the trashcan and blackmailed his mom into getting the GameSphere. [the boys turn away from the window]\n",
+    "output": "Alright, alright, but you guys gotta see if you can sleep over for the rest of the weekend. [checks his watch.] It's Saturday at 2:30 - that means we have... 39 hours to play GameSphere until school on Monday!\n"
+  },
+  {
+    "input": "Alright, alright, but you guys gotta see if you can sleep over for the rest of the weekend. [checks his watch.] It's Saturday at 2:30 - that means we have... 39 hours to play GameSphere until school on Monday!\n",
+    "output": "(Woohoo!)\n"
+  },
+  {
+    "input": "(Woohoo!)\n",
+    "output": "Awesome! [suddenly remembers] Oh, crap.\n"
+  },
+  {
+    "input": "Awesome! [suddenly remembers] Oh, crap.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I'm supposed to go to the lake with my family tomorrow and swim and play in the stupid sun.\n"
+  },
+  {
+    "input": "I'm supposed to go to the lake with my family tomorrow and swim and play in the stupid sun.\n",
+    "output": "Dude, we got GameSphere.\n"
+  },
+  {
+    "input": "Dude, we got GameSphere.\n",
+    "output": "I know, I know. Well, look: I'll stay over anyway so I can play for... eighteen hours, and then I'll go to the lake. [a strange character walks up next to them]\n"
+  },
+  {
+    "input": "I know, I know. Well, look: I'll stay over anyway so I can play for... eighteen hours, and then I'll go to the lake. [a strange character walks up next to them]\n",
+    "output": "Don't forget to bring a towel. [it's a walking, talking towel]\n"
+  },
+  {
+    "input": "Don't forget to bring a towel. [it's a walking, talking towel]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "When you get out of the water you need to dry off right away to avoid catchin' a cold. That's why Towelie says, \"Don't forget to bring a towel.\"\n"
+  },
+  {
+    "input": "When you get out of the water you need to dry off right away to avoid catchin' a cold. That's why Towelie says, \"Don't forget to bring a towel.\"\n",
+    "output": "...O-kay.\n"
+  },
+  {
+    "input": "...O-kay.\n",
+    "output": "Thanks, Towelie.\n"
+  },
+  {
+    "input": "Thanks, Towelie.\n",
+    "output": "[after a few moments of silence] Do you wanna get high?\n"
+  },
+  {
+    "input": "[after a few moments of silence] Do you wanna get high?\n",
+    "output": "No. [Towelie looks for a few moments, then walks away]\n"
+  },
+  {
+    "input": "No. [Towelie looks for a few moments, then walks away]\n",
+    "output": "Anyway, that will give me plenty of time playing video games.\n"
+  },
+  {
+    "input": "Anyway, that will give me plenty of time playing video games.\n",
+    "output": "Kyle, I think you underestimate Okama GameSphere.\n"
+  },
+  {
+    "input": "Kyle, I think you underestimate Okama GameSphere.\n",
+    "output": "Here you go, boys. [Stan takes the shopping box and the boys take off]\n"
+  },
+  {
+    "input": "Here you go, boys. [Stan takes the shopping box and the boys take off]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Stan's house, later. In the living room, Kyle finishes connecting the GameSphere to the back of the TV]\n"
+  },
+  {
+    "input": "[Stan's house, later. In the living room, Kyle finishes connecting the GameSphere to the back of the TV]\n",
+    "output": "Okay, turn it on.\n"
+  },
+  {
+    "input": "Okay, turn it on.\n",
+    "output": "\"Okama GameSphere\"!\n"
+  },
+  {
+    "input": "\"Okama GameSphere\"!\n",
+    "output": "Whoa!\n"
+  },
+  {
+    "input": "Whoa!\n",
+    "output": "[the game title comes up] Thirst For BLOOD!\n"
+  },
+  {
+    "input": "[the game title comes up] Thirst For BLOOD!\n",
+    "output": "Oh yeah, Thirst for Blood. Bring it.\n"
+  },
+  {
+    "input": "Oh yeah, Thirst for Blood. Bring it.\n",
+    "output": "Oh, this is so cool.\n"
+  },
+  {
+    "input": "Oh, this is so cool.\n",
+    "output": "Bring it, bring it! [on the TV two monsters fight each other. The one on the right attacks the other with a chainsaw. \"Oh!\"]\n[Stan's house, night. The boys have been playing for hours. Around them are empty boxes of Cheesy Poofs and cans of Zoop soda. On the sofa is a bag of chips. Stan's parents walk up to the boys.]\n"
+  },
+  {
+    "input": "Bring it, bring it! [on the TV two monsters fight each other. The one on the right attacks the other with a chainsaw. \"Oh!\"]\n[Stan's house, night. The boys have been playing for hours. Around them are empty boxes of Cheesy Poofs and cans of Zoop soda. On the sofa is a bag of chips. Stan's parents walk up to the boys.]\n",
+    "output": "Goodnight, boys. Don't stay up too late.\n"
+  },
+  {
+    "input": "Goodnight, boys. Don't stay up too late.\n",
+    "output": "G'night Mom, thanks for GameSphere.\n"
+  },
+  {
+    "input": "G'night Mom, thanks for GameSphere.\n",
+    "output": "[slowly slides into a hick accent] Yeah, but you still shouldn'ta done that. 'E's just a boih.\n"
+  },
+  {
+    "input": "[slowly slides into a hick accent] Yeah, but you still shouldn'ta done that. 'E's just a boih.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Nothing. Come on, Randy. [whisks him off to bed. From the TV: \"Twenty kills.\"]\n[Stan's house, Sunday morning, dawn. The boys have stayed up all night playing video games. Kyle is on the phone with his parents.]\n"
+  },
+  {
+    "input": "Nothing. Come on, Randy. [whisks him off to bed. From the TV: \"Twenty kills.\"]\n[Stan's house, Sunday morning, dawn. The boys have stayed up all night playing video games. Kyle is on the phone with his parents.]\n",
+    "output": "Yeahyeah, Mom. I-I can't go to the lake. No, S-stan's having emotional problems and I need to help see him through it. He's got- [to Cartman] wha-what is it?\n"
+  },
+  {
+    "input": "Yeahyeah, Mom. I-I can't go to the lake. No, S-stan's having emotional problems and I need to help see him through it. He's got- [to Cartman] wha-what is it?\n",
+    "output": "Date-rape psychosis.\n"
+  },
+  {
+    "input": "Date-rape psychosis.\n",
+    "output": "Date-rape something. Yeah. Okay. I will. Okay, thanks, Mon. [hangs up] I don't have to go outside!\n"
+  },
+  {
+    "input": "Date-rape something. Yeah. Okay. I will. Okay, thanks, Mon. [hangs up] I don't have to go outside!\n",
+    "output": "Awesome!\n"
+  },
+  {
+    "input": "Awesome!\n",
+    "output": "She said it's fine, but that I still have to go to baseball practice tonight..\n"
+  },
+  {
+    "input": "She said it's fine, but that I still have to go to baseball practice tonight..\n",
+    "output": "Oh, yeah, we got baseball practice today. God damnit!\n"
+  },
+  {
+    "input": "Oh, yeah, we got baseball practice today. God damnit!\n",
+    "output": "We shouldn't have this many responsibilities! We're children!\n"
+  },
+  {
+    "input": "We shouldn't have this many responsibilities! We're children!\n",
+    "output": "Well, it's alright. We can still play for [looks at his watch] six more hours, and then we'll go play baseball.\n"
+  },
+  {
+    "input": "Well, it's alright. We can still play for [looks at his watch] six more hours, and then we'll go play baseball.\n",
+    "output": "[walks in from nowhere] Don't forget to bring a towel.\n"
+  },
+  {
+    "input": "[walks in from nowhere] Don't forget to bring a towel.\n",
+    "output": "Uh no.\n"
+  },
+  {
+    "input": "Uh no.\n",
+    "output": "When you're playin' sports, the sweat can get in your face. That's why Towelie says, \"Always keep an extra towel in your duffel bag.\"\n"
+  },
+  {
+    "input": "When you're playin' sports, the sweat can get in your face. That's why Towelie says, \"Always keep an extra towel in your duffel bag.\"\n",
+    "output": "Okay, we will.\n"
+  },
+  {
+    "input": "Okay, we will.\n",
+    "output": "[raises its arms in victory] Alright! [lowers them, then after some moments] Do you wanna get high?\n"
+  },
+  {
+    "input": "[raises its arms in victory] Alright! [lowers them, then after some moments] Do you wanna get high?\n",
+    "output": "No we don't wanna get high!\n"
+  },
+  {
+    "input": "No we don't wanna get high!\n",
+    "output": "Okay... You sure?\n"
+  },
+  {
+    "input": "Okay... You sure?\n",
+    "output": "Yes! Go away, you stupid towel! [Towelie goes away]\n"
+  },
+  {
+    "input": "Yes! Go away, you stupid towel! [Towelie goes away]\n",
+    "output": "Oh, dude! Did you see that? I cut off your face and ate it!\n"
+  },
+  {
+    "input": "Oh, dude! Did you see that? I cut off your face and ate it!\n",
+    "output": "That's... so... cool!\n[Stan's house, later... The boys have repositioned themselves and look half-asleep from all the game play. Doughnuts and ice cream appear - a cone is on the rug with its ice cream melting. Sharon walks up to them again.]\n"
+  },
+  {
+    "input": "That's... so... cool!\n[Stan's house, later... The boys have repositioned themselves and look half-asleep from all the game play. Doughnuts and ice cream appear - a cone is on the rug with its ice cream melting. Sharon walks up to them again.]\n",
+    "output": "Okay, boys, that's it. You have to go now.\n"
+  },
+  {
+    "input": "Okay, boys, that's it. You have to go now.\n",
+    "output": "No no, it's okay, Mom. We c-we can't go to baseball practice 'cause Kyle has cancer.\n"
+  },
+  {
+    "input": "No no, it's okay, Mom. We c-we can't go to baseball practice 'cause Kyle has cancer.\n",
+    "output": "No, Stanley, it's Monday morning. You have to go to school.\n"
+  },
+  {
+    "input": "No, Stanley, it's Monday morning. You have to go to school.\n",
+    "output": "It's Monday?\n"
+  },
+  {
+    "input": "It's Monday?\n",
+    "output": "Oh, uh, I'm sick.\n"
+  },
+  {
+    "input": "Oh, uh, I'm sick.\n",
+    "output": "Me too.\n"
+  },
+  {
+    "input": "Me too.\n",
+    "output": "No, you're not sick. Now get to school. [disconnects the console from the TV] All of you.\n"
+  },
+  {
+    "input": "No, you're not sick. Now get to school. [disconnects the console from the TV] All of you.\n",
+    "output": "But Mom...\n"
+  },
+  {
+    "input": "But Mom...\n",
+    "output": "Go!\n"
+  },
+  {
+    "input": "Go!\n",
+    "output": "Aagh!\n[Bus stop, moments later. The boys are now waiting for the bus.]\n"
+  },
+  {
+    "input": "Aagh!\n[Bus stop, moments later. The boys are now waiting for the bus.]\n",
+    "output": "Can't believe we have to go to school!\n"
+  },
+  {
+    "input": "Can't believe we have to go to school!\n",
+    "output": "Yeah, real life is so boring and stupid.\n"
+  },
+  {
+    "input": "Yeah, real life is so boring and stupid.\n",
+    "output": "We just have to try and make the day go as fast as possible so we can get back to GameSphere. [a green car pulls up in front of them. Two soldiers are in it]\n"
+  },
+  {
+    "input": "We just have to try and make the day go as fast as possible so we can get back to GameSphere. [a green car pulls up in front of them. Two soldiers are in it]\n",
+    "output": "Hello, boys, how are you?\n"
+  },
+  {
+    "input": "Hello, boys, how are you?\n",
+    "output": "Fine.\n"
+  },
+  {
+    "input": "Fine.\n",
+    "output": "Say, boys, this may sound a little ...odd, but... have you see a ...talking ...towel around anywhere.\n"
+  },
+  {
+    "input": "Say, boys, this may sound a little ...odd, but... have you see a ...talking ...towel around anywhere.\n",
+    "output": "What? You mean Towelie? [the two soldier look alarmed. The passenger quickly gets on the radio]\n"
+  },
+  {
+    "input": "What? You mean Towelie? [the two soldier look alarmed. The passenger quickly gets on the radio]\n",
+    "output": "Echo, this is Garrett. I've got a code 5 at... [checks his map] Park County, Colorado! Repeat! Code 5, Park County, Colorado! [the men look at the boys]\n"
+  },
+  {
+    "input": "Echo, this is Garrett. I've got a code 5 at... [checks his map] Park County, Colorado! Repeat! Code 5, Park County, Colorado! [the men look at the boys]\n",
+    "output": "What, dude? [the driver steps on the gas and the car peels away. The passenger soldier looks out the window and back at the boys.]\n"
+  },
+  {
+    "input": "What, dude? [the driver steps on the gas and the car peels away. The passenger soldier looks out the window and back at the boys.]\n",
+    "output": "This is gonna be one looong-ass day. [Ms. Crabtree pulls up and the boys get on the bus.]\n[Stan's house, Monday afternoon. The boys arrive there from the bus stop]\n"
+  },
+  {
+    "input": "This is gonna be one looong-ass day. [Ms. Crabtree pulls up and the boys get on the bus.]\n[Stan's house, Monday afternoon. The boys arrive there from the bus stop]\n",
+    "output": "That was the longest day of school ever!\n"
+  },
+  {
+    "input": "That was the longest day of school ever!\n",
+    "output": "Come on, hurry. I bet we can get to level 29! [the boys burst in and head for the television]\n[Stan's house, living room. The boys stand in from of the television]\n"
+  },
+  {
+    "input": "Come on, hurry. I bet we can get to level 29! [the boys burst in and head for the television]\n[Stan's house, living room. The boys stand in from of the television]\n",
+    "output": "Where is it?\n"
+  },
+  {
+    "input": "Where is it?\n",
+    "output": "It... it was right here.\n"
+  },
+  {
+    "input": "It... it was right here.\n",
+    "output": "Where the hell is it??\n"
+  },
+  {
+    "input": "Where the hell is it??\n",
+    "output": "Come on, man, this isn't funny! [Kenny, Kyle, and Cartman look around and behind the TV] I need my fix! [the phone rings, and Stan goes to answer it.]\n"
+  },
+  {
+    "input": "Come on, man, this isn't funny! [Kenny, Kyle, and Cartman look around and behind the TV] I need my fix! [the phone rings, and Stan goes to answer it.]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "If you ever wanna see your Okama GameSphere again, you will bring us the towel. [the boys gather to wait for Stan]\n"
+  },
+  {
+    "input": "If you ever wanna see your Okama GameSphere again, you will bring us the towel. [the boys gather to wait for Stan]\n",
+    "output": "What? Who-who is this?\n"
+  },
+  {
+    "input": "What? Who-who is this?\n",
+    "output": "Just get the towel and meet us at the gas station outside of town. Or else! [in the background: \"Okama GameSphere!\"]\n"
+  },
+  {
+    "input": "Just get the towel and meet us at the gas station outside of town. Or else! [in the background: \"Okama GameSphere!\"]\n",
+    "output": "Don't hurt it! [Click. Stan then hangs up]\n"
+  },
+  {
+    "input": "Don't hurt it! [Click. Stan then hangs up]\n",
+    "output": "What? [Stan turns around]\n"
+  },
+  {
+    "input": "What? [Stan turns around]\n",
+    "output": "They've taken it. They've taken our Okama GameSphere.\n"
+  },
+  {
+    "input": "They've taken it. They've taken our Okama GameSphere.\n",
+    "output": "[in disbelief, backs up.] No! ...No!\n"
+  },
+  {
+    "input": "[in disbelief, backs up.] No! ...No!\n",
+    "output": "Uh-uh-uh what do you mean \"they've taken it\"? Oh, this isn't happening! This isn't happening!!\n[South Park, sunset. The boys walk down Main Street.]\n"
+  },
+  {
+    "input": "Uh-uh-uh what do you mean \"they've taken it\"? Oh, this isn't happening! This isn't happening!!\n[South Park, sunset. The boys walk down Main Street.]\n",
+    "output": "Towelie!\n"
+  },
+  {
+    "input": "Towelie!\n",
+    "output": "Hey, towel!\n"
+  },
+  {
+    "input": "Hey, towel!\n",
+    "output": "Where the hell is he?\n"
+  },
+  {
+    "input": "Where the hell is he?\n",
+    "output": "(I don't know. Where could it be?)\n"
+  },
+  {
+    "input": "(I don't know. Where could it be?)\n",
+    "output": "I don't know. They guy on the phone thought we had Towelie, so now we gotta find him.\n"
+  },
+  {
+    "input": "I don't know. They guy on the phone thought we had Towelie, so now we gotta find him.\n",
+    "output": "What has this world come to? Where people can just... take your Okama GameSphere.\n"
+  },
+  {
+    "input": "What has this world come to? Where people can just... take your Okama GameSphere.\n",
+    "output": "Hey maybe we'd better do a towel call. [the others stop, and he calls out in one direction] Gebaayybeh! [then in another] Gebaayybeh!\n"
+  },
+  {
+    "input": "Hey maybe we'd better do a towel call. [the others stop, and he calls out in one direction] Gebaayybeh! [then in another] Gebaayybeh!\n",
+    "output": "That's a towel call?\n"
+  },
+  {
+    "input": "That's a towel call?\n",
+    "output": "This is hopeless. We're never gonna find him.\n"
+  },
+  {
+    "input": "This is hopeless. We're never gonna find him.\n",
+    "output": "Hey, wait a minute. Towelie always showed up to give us towel advice when we'd said something about water.\n"
+  },
+  {
+    "input": "Hey, wait a minute. Towelie always showed up to give us towel advice when we'd said something about water.\n",
+    "output": "Hey yeah. [goes into the street and clears his throat] Well guys, let's go to the swimming pool! [looks around. So do the others] Aaah. Let's go take a shower! [all look around] Let's go waterskiing!\n"
+  },
+  {
+    "input": "Hey yeah. [goes into the street and clears his throat] Well guys, let's go to the swimming pool! [looks around. So do the others] Aaah. Let's go take a shower! [all look around] Let's go waterskiing!\n",
+    "output": "[walks up] Don't forget to bring a towel.\n"
+  },
+  {
+    "input": "[walks up] Don't forget to bring a towel.\n",
+    "output": "There he is!\n"
+  },
+  {
+    "input": "There he is!\n",
+    "output": "Be sure to bring a towel so you don't get aaall wet. [Stan walks over angrily and takes Towelie's left hand, and pulls him along].\n"
+  },
+  {
+    "input": "Be sure to bring a towel so you don't get aaall wet. [Stan walks over angrily and takes Towelie's left hand, and pulls him along].\n",
+    "output": "Come on, dude! [the others follow]\n"
+  },
+  {
+    "input": "Come on, dude! [the others follow]\n",
+    "output": "Where are we goin'?\n"
+  },
+  {
+    "input": "Where are we goin'?\n",
+    "output": "Just come on! It's getting dark.\n"
+  },
+  {
+    "input": "Just come on! It's getting dark.\n",
+    "output": "Are we gonna get high?\n[Outskirts of South Park, night. A full moon shines down on the boys as they reach the gas station]\n"
+  },
+  {
+    "input": "Are we gonna get high?\n[Outskirts of South Park, night. A full moon shines down on the boys as they reach the gas station]\n",
+    "output": "Are you sure this is where they said to be?\n"
+  },
+  {
+    "input": "Are you sure this is where they said to be?\n",
+    "output": "They said the gas station outside of town.\n"
+  },
+  {
+    "input": "They said the gas station outside of town.\n",
+    "output": "Well, I'm gonna get a little high. [A high-powered light comes on]\n"
+  },
+  {
+    "input": "Well, I'm gonna get a little high. [A high-powered light comes on]\n",
+    "output": "Hold it! [ten men stand in the light. Some of them wear red berets]\n"
+  },
+  {
+    "input": "Hold it! [ten men stand in the light. Some of them wear red berets]\n",
+    "output": "Who is that? [squints his eyes and blocks the light. Towelie does the same]\n"
+  },
+  {
+    "input": "Who is that? [squints his eyes and blocks the light. Towelie does the same]\n",
+    "output": "Step... away... from the towel! [the boys do so, and an official steps forth]\n"
+  },
+  {
+    "input": "Step... away... from the towel! [the boys do so, and an official steps forth]\n",
+    "output": "There you are, towel. We've been looking all over for you.\n"
+  },
+  {
+    "input": "There you are, towel. We've been looking all over for you.\n",
+    "output": "If you ever go to a hotel, be sure to bring your own towel.\n"
+  },
+  {
+    "input": "If you ever go to a hotel, be sure to bring your own towel.\n",
+    "output": "It isn't safe for you out here, towel. There are people out here to mean to harm you.\n"
+  },
+  {
+    "input": "It isn't safe for you out here, towel. There are people out here to mean to harm you.\n",
+    "output": "'Scuse me, can we have our Okama GameSphere back? We just wanna play video games.\n"
+  },
+  {
+    "input": "'Scuse me, can we have our Okama GameSphere back? We just wanna play video games.\n",
+    "output": "Your what?\n"
+  },
+  {
+    "input": "Your what?\n",
+    "output": "Agh! Look, dude, we're on level 24, about to cross into the Caverns of Madness!\n"
+  },
+  {
+    "input": "Agh! Look, dude, we're on level 24, about to cross into the Caverns of Madness!\n",
+    "output": "I don't know what you're talking about.\n"
+  },
+  {
+    "input": "I don't know what you're talking about.\n",
+    "output": "You called us and said if we brought the towel you'd give us our video game back.\n"
+  },
+  {
+    "input": "You called us and said if we brought the towel you'd give us our video game back.\n",
+    "output": "Omigod! [shrieks] IT\"S A TRAP!! [gunfire strikes him and kills him. Behind the boys soldiers pop up in the hills and continue firing]\n"
+  },
+  {
+    "input": "Omigod! [shrieks] IT\"S A TRAP!! [gunfire strikes him and kills him. Behind the boys soldiers pop up in the hills and continue firing]\n",
+    "output": "Cover! Cover! [the officials and their personal security force fire back, and the light is knocked out]\n"
+  },
+  {
+    "input": "Cover! Cover! [the officials and their personal security force fire back, and the light is knocked out]\n",
+    "output": "Goddamnit, what now?!\n"
+  },
+  {
+    "input": "Goddamnit, what now?!\n",
+    "output": "Run, towel! [a grenade lands between two guards and blows up, shredding them to bits. The boys just look on]\n"
+  },
+  {
+    "input": "Run, towel! [a grenade lands between two guards and blows up, shredding them to bits. The boys just look on]\n",
+    "output": "[disinterested] Agh. Come on, they've gotta have our video game around here somewhere. [leads the others away]\n"
+  },
+  {
+    "input": "[disinterested] Agh. Come on, they've gotta have our video game around here somewhere. [leads the others away]\n",
+    "output": "Where's the towel?!\n"
+  },
+  {
+    "input": "Where's the towel?!\n",
+    "output": "It can't be far! [two more soldiers come up, and others move along behind them] Alvarez, you and Mitchell sweep left!\n"
+  },
+  {
+    "input": "It can't be far! [two more soldiers come up, and others move along behind them] Alvarez, you and Mitchell sweep left!\n",
+    "output": "[coughs up blood. The boys arrive] Hurry! You must get the towel back to Tynacorp!\n"
+  },
+  {
+    "input": "[coughs up blood. The boys arrive] Hurry! You must get the towel back to Tynacorp!\n",
+    "output": "[grabs the guard by the lapels and throttles him] Where is our Okama GameSphere?\n"
+  },
+  {
+    "input": "[grabs the guard by the lapels and throttles him] Where is our Okama GameSphere?\n",
+    "output": "Get the towel home [cough] They will explain everything. Please, hurry! [coughs up blood once more, and dies]\n"
+  },
+  {
+    "input": "Get the towel home [cough] They will explain everything. Please, hurry! [coughs up blood once more, and dies]\n",
+    "output": "Aw, God-damnit!\n"
+  },
+  {
+    "input": "Aw, God-damnit!\n",
+    "output": "Do you know where he's talking about, Towelie?\n"
+  },
+  {
+    "input": "Do you know where he's talking about, Towelie?\n",
+    "output": "What? Oh yeah, back at the base. It's a long ways away.\n"
+  },
+  {
+    "input": "What? Oh yeah, back at the base. It's a long ways away.\n",
+    "output": "Alright, we're gonna have to use this truck. Come on, guys. [they go for the truck. From a distance in a woods nearby, a commander looks at the troop movements]\n"
+  },
+  {
+    "input": "Alright, we're gonna have to use this truck. Come on, guys. [they go for the truck. From a distance in a woods nearby, a commander looks at the troop movements]\n",
+    "output": "Well?\n"
+  },
+  {
+    "input": "Well?\n",
+    "output": "They've gone, sir. It's like they've vanished out of thin air.\n"
+  },
+  {
+    "input": "They've gone, sir. It's like they've vanished out of thin air.\n",
+    "output": "Damnit! I knew those boys were protecting that towel. [gets pensive] They must have some unexplainable bond with it.\n"
+  },
+  {
+    "input": "Damnit! I knew those boys were protecting that towel. [gets pensive] They must have some unexplainable bond with it.\n",
+    "output": "Perhaps they're telepathically linked to the towel, sir, like E.T. [the commander looks at him annoyed, and he leaves]\n"
+  },
+  {
+    "input": "Perhaps they're telepathically linked to the towel, sir, like E.T. [the commander looks at him annoyed, and he leaves]\n",
+    "output": "It could already be anywhere, hiding out again. No, the time for being nice is over. We must instigate... Plan B.\n"
+  },
+  {
+    "input": "It could already be anywhere, hiding out again. No, the time for being nice is over. We must instigate... Plan B.\n",
+    "output": "You mean...?\n"
+  },
+  {
+    "input": "You mean...?\n",
+    "output": "Yes. [camera zooms in] Destroy all towels within a thousand mile radius. [fade to black]\n[A desert, later that night. The truck rolls along... Stan steers, Kyle, Towelie, and Cartman ride along. Kenny mans the pedals]\n"
+  },
+  {
+    "input": "Yes. [camera zooms in] Destroy all towels within a thousand mile radius. [fade to black]\n[A desert, later that night. The truck rolls along... Stan steers, Kyle, Towelie, and Cartman ride along. Kenny mans the pedals]\n",
+    "output": "Are we getting close?\n"
+  },
+  {
+    "input": "Are we getting close?\n",
+    "output": "I think so.\n"
+  },
+  {
+    "input": "I think so.\n",
+    "output": "A little more gas, Kenny. [Kenny presses down on the gas pedal]\n"
+  },
+  {
+    "input": "A little more gas, Kenny. [Kenny presses down on the gas pedal]\n",
+    "output": "How long has it been since you've been back there.\n"
+  },
+  {
+    "input": "How long has it been since you've been back there.\n",
+    "output": "I've been wanderin' around on my own for the past few weeks. You know, helpin' people out with towel safety and proper towel use. It's important.\n"
+  },
+  {
+    "input": "I've been wanderin' around on my own for the past few weeks. You know, helpin' people out with towel safety and proper towel use. It's important.\n",
+    "output": "No it isn't.\n"
+  },
+  {
+    "input": "No it isn't.\n",
+    "output": "Is!\n"
+  },
+  {
+    "input": "Is!\n",
+    "output": "No it isn't.\n"
+  },
+  {
+    "input": "No it isn't.\n",
+    "output": "Is! Wait, turn down here. It's down this dirt road.\n"
+  },
+  {
+    "input": "Is! Wait, turn down here. It's down this dirt road.\n",
+    "output": "Brake, Kenny, brake. [Kenny brakes, and Stan steers the truck to the right to go down the dirt road. Towelie moves to the window]\n"
+  },
+  {
+    "input": "Brake, Kenny, brake. [Kenny brakes, and Stan steers the truck to the right to go down the dirt road. Towelie moves to the window]\n",
+    "output": "Egh!\n"
+  },
+  {
+    "input": "Egh!\n",
+    "output": "M-maybe it's down that dirt road.\n"
+  },
+  {
+    "input": "M-maybe it's down that dirt road.\n",
+    "output": "[sighs] Dude, don't you remember where it is?\n"
+  },
+  {
+    "input": "[sighs] Dude, don't you remember where it is?\n",
+    "output": "I can't remember, it all looks the same. Hold on, let me get high. [pulls out a joint...] then I'll remember where it is. [lights the joint and puffs deeply. The boys watch him as his eyes get bloodshot.]\n"
+  },
+  {
+    "input": "I can't remember, it all looks the same. Hold on, let me get high. [pulls out a joint...] then I'll remember where it is. [lights the joint and puffs deeply. The boys watch him as his eyes get bloodshot.]\n",
+    "output": "Alright, so where is it?\n"
+  },
+  {
+    "input": "Alright, so where is it?\n",
+    "output": "Where's what?\n"
+  },
+  {
+    "input": "Where's what?\n",
+    "output": "Agh!\n"
+  },
+  {
+    "input": "Agh!\n",
+    "output": "The base where you're from and where our Okama GameSphere is! [Towelie simply snorts]\n"
+  },
+  {
+    "input": "The base where you're from and where our Okama GameSphere is! [Towelie simply snorts]\n",
+    "output": "Alright, that does it! Brake angrily, Kenny! [Kenny brakes angrily and the truck jerks to a stop] Now listen, Towelie, we've just about had it with you!\n"
+  },
+  {
+    "input": "Alright, that does it! Brake angrily, Kenny! [Kenny brakes angrily and the truck jerks to a stop] Now listen, Towelie, we've just about had it with you!\n",
+    "output": "Well calm down.\n"
+  },
+  {
+    "input": "Well calm down.\n",
+    "output": "That's it! [takes the joint] You're not getting high again until we have our Okama GameSphere back!\n"
+  },
+  {
+    "input": "That's it! [takes the joint] You're not getting high again until we have our Okama GameSphere back!\n",
+    "output": "That's my last joint, asshole!\n"
+  },
+  {
+    "input": "That's my last joint, asshole!\n",
+    "output": "I don't care! You'd better remember where your base is!\n"
+  },
+  {
+    "input": "I don't care! You'd better remember where your base is!\n",
+    "output": "Oh man, why is everyone riding me today? God-damnit.\n[A purple house, night. Inside, in the restroom, a woman washes her hands and face, then pulls a towel out of its rack to dry herself]\n"
+  },
+  {
+    "input": "Oh man, why is everyone riding me today? God-damnit.\n[A purple house, night. Inside, in the restroom, a woman washes her hands and face, then pulls a towel out of its rack to dry herself]\n",
+    "output": "Kevin? Don't forget to wrap the potato salad in aluminum foil. [some strange sounds are heard outside the door] Kevin, is that you?\n"
+  },
+  {
+    "input": "Kevin? Don't forget to wrap the potato salad in aluminum foil. [some strange sounds are heard outside the door] Kevin, is that you?\n",
+    "output": "Harris! Reach bang and clear!\n"
+  },
+  {
+    "input": "Harris! Reach bang and clear!\n",
+    "output": "Hello? [the bathroom door flies open and five soldiers pour in, firing away] WAAH! [she falls to the ground quick] Ohmigod! Oh no! Ohmigod! [she covers her head]\n"
+  },
+  {
+    "input": "Hello? [the bathroom door flies open and five soldiers pour in, firing away] WAAH! [she falls to the ground quick] Ohmigod! Oh no! Ohmigod! [she covers her head]\n",
+    "output": "Alright, it's clear! It's clear! [the soldiers leave the restroom. The woman gets up and checks herself for bullet wounds and finds none. She turns to see the wall behind her. The towels on their rack are shot through with holes. She blinks, confused]\n[a backyard. Mrs. Tweak pulls down some clothes she's had drying on clotheslines. As she nears the towels, three soldiers rush in and start firing away at them]\n"
+  },
+  {
+    "input": "Alright, it's clear! It's clear! [the soldiers leave the restroom. The woman gets up and checks herself for bullet wounds and finds none. She turns to see the wall behind her. The towels on their rack are shot through with holes. She blinks, confused]\n[a backyard. Mrs. Tweak pulls down some clothes she's had drying on clotheslines. As she nears the towels, three soldiers rush in and start firing away at them]\n",
+    "output": "HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!! [Mrs. Tweak leans out of the way, watching her towels get shot up.]\n"
+  },
+  {
+    "input": "HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!! [Mrs. Tweak leans out of the way, watching her towels get shot up.]\n",
+    "output": "Let's go let's go! [The soldiers finish their job and walk away. Mrs. Tweak straightens up]\n[A men's gym shower, night. Mr. Garrison is in the shower with two other men. He finishes and wraps a white towel with blue stripes around his waist, then walks towards his locker]\n"
+  },
+  {
+    "input": "Let's go let's go! [The soldiers finish their job and walk away. Mrs. Tweak straightens up]\n[A men's gym shower, night. Mr. Garrison is in the shower with two other men. He finishes and wraps a white towel with blue stripes around his waist, then walks towards his locker]\n",
+    "output": "Get it!\n"
+  },
+  {
+    "input": "Get it!\n",
+    "output": "What the? [two soldiers rush over and make him face the lockers. One of them pulls off his towel]\n"
+  },
+  {
+    "input": "What the? [two soldiers rush over and make him face the lockers. One of them pulls off his towel]\n",
+    "output": "Throw it down! [the soldier throws it down]\n"
+  },
+  {
+    "input": "Throw it down! [the soldier throws it down]\n",
+    "output": "Oh alright, have your way with me if you must! Go on, fulfill you sick pleasures! [the soldier stabs at the towel twice, then directs another soldier to fire away at it. The other soldier shoots at it while the other two watch]\n"
+  },
+  {
+    "input": "Oh alright, have your way with me if you must! Go on, fulfill you sick pleasures! [the soldier stabs at the towel twice, then directs another soldier to fire away at it. The other soldier shoots at it while the other two watch]\n",
+    "output": "Alright, let's go! [the soldiers leave]\n"
+  },
+  {
+    "input": "Alright, let's go! [the soldiers leave]\n",
+    "output": "Huh where are you goin'?\n[The truck the boys are driving pulls up in front of a gleaming glass building with \"TYNACORP\" above the entrance, and the boys pour out with Towelie]\n"
+  },
+  {
+    "input": "Huh where are you goin'?\n[The truck the boys are driving pulls up in front of a gleaming glass building with \"TYNACORP\" above the entrance, and the boys pour out with Towelie]\n",
+    "output": "This is where you came from?\n"
+  },
+  {
+    "input": "This is where you came from?\n",
+    "output": "Yeah, I think so. [gets woozy] Oh man.\n"
+  },
+  {
+    "input": "Yeah, I think so. [gets woozy] Oh man.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I'm so high right now. I have no idea what's goin' on. [the group goes around the fountain and goes inside]\n[Tynacorp, inside. The boys walk down a long passageway]\n"
+  },
+  {
+    "input": "I'm so high right now. I have no idea what's goin' on. [the group goes around the fountain and goes inside]\n[Tynacorp, inside. The boys walk down a long passageway]\n",
+    "output": "Welcome home, Smart Towel RG-400.\n"
+  },
+  {
+    "input": "Welcome home, Smart Towel RG-400.\n",
+    "output": "Ah hi, is this where our Okama GameSphere is?\n"
+  },
+  {
+    "input": "Ah hi, is this where our Okama GameSphere is?\n",
+    "output": "We're missing out on some quality video game time right now.\n"
+  },
+  {
+    "input": "We're missing out on some quality video game time right now.\n",
+    "output": "Thank you for bringing him to us, boys. You see, this is not an ordinary towel. He is the RG-400 Smart Towel, designed with a computer chip inside the terry cloth\n"
+  },
+  {
+    "input": "Thank you for bringing him to us, boys. You see, this is not an ordinary towel. He is the RG-400 Smart Towel, designed with a computer chip inside the terry cloth\n",
+    "output": "We don't care.\n"
+  },
+  {
+    "input": "We don't care.\n",
+    "output": "You see, here at Tynacorp, our goal was to make the perfect towel. A towel that would sense how wet or dry the user's skin was and fluff itself accordingly.\n"
+  },
+  {
+    "input": "You see, here at Tynacorp, our goal was to make the perfect towel. A towel that would sense how wet or dry the user's skin was and fluff itself accordingly.\n",
+    "output": "Dude, we don't care.\n"
+  },
+  {
+    "input": "Dude, we don't care.\n",
+    "output": "Towelie was our greatest success. Smart enough to beat the average human at chess and absorbent enough to soak up even the toughest spills. But then one day, Towelie got high and just sort of wandered off.\n"
+  },
+  {
+    "input": "Towelie was our greatest success. Smart enough to beat the average human at chess and absorbent enough to soak up even the toughest spills. But then one day, Towelie got high and just sort of wandered off.\n",
+    "output": "We... don't... care.\n"
+  },
+  {
+    "input": "We... don't... care.\n",
+    "output": "All we wanna know is, who has our Okama GameSphere?\n"
+  },
+  {
+    "input": "All we wanna know is, who has our Okama GameSphere?\n",
+    "output": "Ah yes, your video game. I'm afraid that what we all experienced was a trap. They called you and said to bring the towel, and then they called us and said they were bringing Towelie back. Their plan was to wipe us all out with one fell swoop.\n"
+  },
+  {
+    "input": "Ah yes, your video game. I'm afraid that what we all experienced was a trap. They called you and said to bring the towel, and then they called us and said they were bringing Towelie back. Their plan was to wipe us all out with one fell swoop.\n",
+    "output": "Who's they?\n"
+  },
+  {
+    "input": "Who's they?\n",
+    "output": "Why, the military. You see, after Towelie got high and wandered off from here, the military got a hold of him. They wanted to turn Towelie into a weapon of mass destruction.\n"
+  },
+  {
+    "input": "Why, the military. You see, after Towelie got high and wandered off from here, the military got a hold of him. They wanted to turn Towelie into a weapon of mass destruction.\n",
+    "output": "[dismissive] Don't care, don't care, don't care.\n"
+  },
+  {
+    "input": "[dismissive] Don't care, don't care, don't care.\n",
+    "output": "Towelie was at their base for months as they tried to copy his TNA. But then, one day, Towelie got high and just sort of wandered off. Again.\n"
+  },
+  {
+    "input": "Towelie was at their base for months as they tried to copy his TNA. But then, one day, Towelie got high and just sort of wandered off. Again.\n",
+    "output": "Goddamnit! Can we please... just get back to playing our video game, PLEASE?!\n"
+  },
+  {
+    "input": "Goddamnit! Can we please... just get back to playing our video game, PLEASE?!\n",
+    "output": "I'm afraid not. Because your Okama GameSphere is at \"their\" base.\n"
+  },
+  {
+    "input": "I'm afraid not. Because your Okama GameSphere is at \"their\" base.\n",
+    "output": "Can you tell us where \"that\" is, please?\n"
+  },
+  {
+    "input": "Can you tell us where \"that\" is, please?\n",
+    "output": "You mean to go right into their base? [thinks] Of course. The entry code should still be in Towelie's memory banks. You could sneak him in there and recover his TNA. Great plan.\n[Secret Government Base, night. Inside, various military officials man a command center. Two soldiers walk up to the commander and salute him]\n"
+  },
+  {
+    "input": "You mean to go right into their base? [thinks] Of course. The entry code should still be in Towelie's memory banks. You could sneak him in there and recover his TNA. Great plan.\n[Secret Government Base, night. Inside, various military officials man a command center. Two soldiers walk up to the commander and salute him]\n",
+    "output": "Sir! Sergeant Masters and Boll are reporting, sir!\n"
+  },
+  {
+    "input": "Sir! Sergeant Masters and Boll are reporting, sir!\n",
+    "output": "Ah yes. [salutes back, and all three men lower their arms] Tell me, Marine, did you accomplish your primary goal?\n"
+  },
+  {
+    "input": "Ah yes. [salutes back, and all three men lower their arms] Tell me, Marine, did you accomplish your primary goal?\n",
+    "output": "Sir yes sir! All towels have been destroyed! The Smart Towel is no doubt eliminated.\n"
+  },
+  {
+    "input": "Sir yes sir! All towels have been destroyed! The Smart Towel is no doubt eliminated.\n",
+    "output": "Ahh. And you're... quite sure of this. [the two sergeants look at each other]\n"
+  },
+  {
+    "input": "Ahh. And you're... quite sure of this. [the two sergeants look at each other]\n",
+    "output": "Eh yes sir, there isn't a towel left within a hundred miles.\n"
+  },
+  {
+    "input": "Eh yes sir, there isn't a towel left within a hundred miles.\n",
+    "output": "Hmm... [taps his pointer on the strategic map] So perhaps, then, you can explain to me why we just got footage of the towel returning to Tynacorp?!\n"
+  },
+  {
+    "input": "Hmm... [taps his pointer on the strategic map] So perhaps, then, you can explain to me why we just got footage of the towel returning to Tynacorp?!\n",
+    "output": "Oo we...\n"
+  },
+  {
+    "input": "Oo we...\n",
+    "output": "He must have outsmarted us, sir.\n"
+  },
+  {
+    "input": "He must have outsmarted us, sir.\n",
+    "output": "Well I'm through playing hide and seek! We've got no other choice! Prepare to blow up all of Colorado!\n[The night sky. Clouds float by overhead, past the full moon. A helicopter flies into the sky and the camera follows it. Two officials prepare the boys for dives into the military base as the research leader talks]\n"
+  },
+  {
+    "input": "Well I'm through playing hide and seek! We've got no other choice! Prepare to blow up all of Colorado!\n[The night sky. Clouds float by overhead, past the full moon. A helicopter flies into the sky and the camera follows it. Two officials prepare the boys for dives into the military base as the research leader talks]\n",
+    "output": "In a moment we will be over the base. This is the only way in. Any attempts on the ground would be easily spotted by guard posts.\n"
+  },
+  {
+    "input": "In a moment we will be over the base. This is the only way in. Any attempts on the ground would be easily spotted by guard posts.\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "[rolls up to Towelie] I hate to send you back in there, Towelie, but only you have their security system in your memory banks.\n"
+  },
+  {
+    "input": "[rolls up to Towelie] I hate to send you back in there, Towelie, but only you have their security system in your memory banks.\n",
+    "output": "That's alright. It's always good to bring a towel.\n"
+  },
+  {
+    "input": "That's alright. It's always good to bring a towel.\n",
+    "output": "Good luck, boys. The fate of the world is depending on you.\n"
+  },
+  {
+    "input": "Good luck, boys. The fate of the world is depending on you.\n",
+    "output": "We're not doing it for the world, we're doing it for our video game. God, are you deaf?\n"
+  },
+  {
+    "input": "We're not doing it for the world, we're doing it for our video game. God, are you deaf?\n",
+    "output": "Alright, boys. When you drop from the plane, cover and roll. Got it?\n"
+  },
+  {
+    "input": "Alright, boys. When you drop from the plane, cover and roll. Got it?\n",
+    "output": "Yeah. [the boys join Towelie and all go to jump from the helicopter]\n"
+  },
+  {
+    "input": "Yeah. [the boys join Towelie and all go to jump from the helicopter]\n",
+    "output": "Go go go go! [one after the other, the four boys and Towelie jump off, and then the helicopter leaves. Stan is the first to pull his parachute string, and the others follow. Soon they're all next to each other, floating down. Stan sighs]\n"
+  },
+  {
+    "input": "Go go go go! [one after the other, the four boys and Towelie jump off, and then the helicopter leaves. Stan is the first to pull his parachute string, and the others follow. Soon they're all next to each other, floating down. Stan sighs]\n",
+    "output": "Dude, I figured it out.\n"
+  },
+  {
+    "input": "Dude, I figured it out.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "If we can go in, and get the GameSphere in 30 minutes, we could still be back at your house playing video games by midnight!\n"
+  },
+  {
+    "input": "If we can go in, and get the GameSphere in 30 minutes, we could still be back at your house playing video games by midnight!\n",
+    "output": "So that'd be, like what, eight hours we could play before school?\n"
+  },
+  {
+    "input": "So that'd be, like what, eight hours we could play before school?\n",
+    "output": "Seven and a half.\n"
+  },
+  {
+    "input": "Seven and a half.\n",
+    "output": "[getting impatient] Hurry up, stupid parachute!\n[Secret Government Base, night. The boys land silently and start walking]\n"
+  },
+  {
+    "input": "[getting impatient] Hurry up, stupid parachute!\n[Secret Government Base, night. The boys land silently and start walking]\n",
+    "output": "Alright, I think we go over there. [the Secret Government Base entrance is shown with Towelie and the boys approaching the gate]\n"
+  },
+  {
+    "input": "Alright, I think we go over there. [the Secret Government Base entrance is shown with Towelie and the boys approaching the gate]\n",
+    "output": "[at the security entry pad] Let's see. [types in some numbers] No. [touches his lips with his right index finger, trying to figure out what to type next]\n"
+  },
+  {
+    "input": "[at the security entry pad] Let's see. [types in some numbers] No. [touches his lips with his right index finger, trying to figure out what to type next]\n",
+    "output": "Come on, Towelie! The guy said you have the security system in your memory banks.\n"
+  },
+  {
+    "input": "Come on, Towelie! The guy said you have the security system in your memory banks.\n",
+    "output": "Hey it's been a long time!\n"
+  },
+  {
+    "input": "Hey it's been a long time!\n",
+    "output": "You just have no long-term memory 'cause you get high all the time!\n"
+  },
+  {
+    "input": "You just have no long-term memory 'cause you get high all the time!\n",
+    "output": "[faces Cartman] Don't preach to me, fatso!\n"
+  },
+  {
+    "input": "[faces Cartman] Don't preach to me, fatso!\n",
+    "output": "I can preach to you all I want, 'cause you're stupid!\n"
+  },
+  {
+    "input": "I can preach to you all I want, 'cause you're stupid!\n",
+    "output": "You're stupid!\n"
+  },
+  {
+    "input": "You're stupid!\n",
+    "output": "Yeah, and you're a towel!\n"
+  },
+  {
+    "input": "Yeah, and you're a towel!\n",
+    "output": "You're a towel! [Cartman has nothing more to say, and Towelie hops off the box towards the boys] Just let me get high. I know I can remember if I get high.\n"
+  },
+  {
+    "input": "You're a towel! [Cartman has nothing more to say, and Towelie hops off the box towards the boys] Just let me get high. I know I can remember if I get high.\n",
+    "output": "Oh, God damnit! Alright, fine! [gives Towelie the joint] Here's your stupid lighter. [tosses Towelie the lighter, and Towelie lights up. The bloodshot eyes return.]\n"
+  },
+  {
+    "input": "Oh, God damnit! Alright, fine! [gives Towelie the joint] Here's your stupid lighter. [tosses Towelie the lighter, and Towelie lights up. The bloodshot eyes return.]\n",
+    "output": "Hold on. [hops on the box and types into the entry pad again.] Wait a second [presses a few buttons] That's it!\n"
+  },
+  {
+    "input": "Hold on. [hops on the box and types into the entry pad again.] Wait a second [presses a few buttons] That's it!\n",
+    "output": "That's it?\n"
+  },
+  {
+    "input": "That's it?\n",
+    "output": "Yeah. That's the melody to \"Funky Town.\" [starts playing the melody on the keypad] Won't ya take me down... to Funky Town.\n"
+  },
+  {
+    "input": "Yeah. That's the melody to \"Funky Town.\" [starts playing the melody on the keypad] Won't ya take me down... to Funky Town.\n",
+    "output": "No, Towelie, the entry code!\n"
+  },
+  {
+    "input": "No, Towelie, the entry code!\n",
+    "output": "[turns around] For what?\n"
+  },
+  {
+    "input": "[turns around] For what?\n",
+    "output": "God-damnit, I guess we're gonna have to climb the stupid fence.\n[Secret Government Base, night, inside. The boys climb over the fence and sneak past a soldier without arousing suspicion. They end up at the genetic research building]\n"
+  },
+  {
+    "input": "God-damnit, I guess we're gonna have to climb the stupid fence.\n[Secret Government Base, night, inside. The boys climb over the fence and sneak past a soldier without arousing suspicion. They end up at the genetic research building]\n",
+    "output": "Well let's look in here. [opens the door and leads the others in. Before them are cylinders of liquids, each with a floating deformed clone of Towelie in it. They come across a Towelie clone drying under a heat lamp]\n"
+  },
+  {
+    "input": "Well let's look in here. [opens the door and leads the others in. Before them are cylinders of liquids, each with a floating deformed clone of Towelie in it. They come across a Towelie clone drying under a heat lamp]\n",
+    "output": "Kill... me... Kill... me.\n"
+  },
+  {
+    "input": "Kill... me... Kill... me.\n",
+    "output": "Oh my God! No-o-o-o!\n"
+  },
+  {
+    "input": "Oh my God! No-o-o-o!\n",
+    "output": "[enters with four soldiers, who quickly get set to fire] Well well well. Look what the cat dragged in.\n"
+  },
+  {
+    "input": "[enters with four soldiers, who quickly get set to fire] Well well well. Look what the cat dragged in.\n",
+    "output": "[turns around with the boys] What are these things?\n"
+  },
+  {
+    "input": "[turns around with the boys] What are these things?\n",
+    "output": "Genetic copies we tried to make with your TNA. They didn't work too well, I'm afraid.\n"
+  },
+  {
+    "input": "Genetic copies we tried to make with your TNA. They didn't work too well, I'm afraid.\n",
+    "output": "Kill... me.\n"
+  },
+  {
+    "input": "Kill... me.\n",
+    "output": "Do you have our Okama GameSphere?\n"
+  },
+  {
+    "input": "Do you have our Okama GameSphere?\n",
+    "output": "You did very well to get the towel this far, boys. I wonder: What did they tell you at Tynacorp? That the big, bad government wanted to genetically engineer a Towelie as a weapon? Now let me tell you the real story.\n"
+  },
+  {
+    "input": "You did very well to get the towel this far, boys. I wonder: What did they tell you at Tynacorp? That the big, bad government wanted to genetically engineer a Towelie as a weapon? Now let me tell you the real story.\n",
+    "output": "Oh God, don't care, don't care.\n"
+  },
+  {
+    "input": "Oh God, don't care, don't care.\n",
+    "output": "[pacing proudly, solemnly] Yes, we've been trying to make our own genetic copies of the towel, but only because we had to. You see, when we started spying on Tynacorp, we discovered a certain, terrifying secret. [the boys show no interest.]\n"
+  },
+  {
+    "input": "[pacing proudly, solemnly] Yes, we've been trying to make our own genetic copies of the towel, but only because we had to. You see, when we started spying on Tynacorp, we discovered a certain, terrifying secret. [the boys show no interest.]\n",
+    "output": "Go on! Ask him what terrifying secret.\n"
+  },
+  {
+    "input": "Go on! Ask him what terrifying secret.\n",
+    "output": "What terrifying secret?\n"
+  },
+  {
+    "input": "What terrifying secret?\n",
+    "output": "That Tynacorp was making these towels to take over the world!\n"
+  },
+  {
+    "input": "That Tynacorp was making these towels to take over the world!\n",
+    "output": "We're never gonna play our Okama GameSphere again, are we?\n"
+  },
+  {
+    "input": "We're never gonna play our Okama GameSphere again, are we?\n",
+    "output": "Don't you see what genetically enhanced smart towels like these are capable of? You get out of the shower and dry yourself off. But even after you're dry, the towel makes you more dry. It keeps getting you drier and drier. [his voice begins to deepen] Can you imagine it? What it would feel like to be way, way too dry? I'll tell you something: You don't want to know. And I don't know.\n"
+  },
+  {
+    "input": "Don't you see what genetically enhanced smart towels like these are capable of? You get out of the shower and dry yourself off. But even after you're dry, the towel makes you more dry. It keeps getting you drier and drier. [his voice begins to deepen] Can you imagine it? What it would feel like to be way, way too dry? I'll tell you something: You don't want to know. And I don't know.\n",
+    "output": "And we don't care.\n"
+  },
+  {
+    "input": "And we don't care.\n",
+    "output": "You've been double-crossed by Tynacorp, kids. They set this all up to get you in here and take us down.\n"
+  },
+  {
+    "input": "You've been double-crossed by Tynacorp, kids. They set this all up to get you in here and take us down.\n",
+    "output": "So let me get this straight: Our Okama GameSphere is back at Tynacorp.\n"
+  },
+  {
+    "input": "So let me get this straight: Our Okama GameSphere is back at Tynacorp.\n",
+    "output": "Oh yes. It has been all along.\n"
+  },
+  {
+    "input": "Oh yes. It has been all along.\n",
+    "output": "Can I kill the towel now, sir?\n"
+  },
+  {
+    "input": "Can I kill the towel now, sir?\n",
+    "output": "Go ahead. [the boys move away quickly]\n"
+  },
+  {
+    "input": "Go ahead. [the boys move away quickly]\n",
+    "output": "No, wait. [stays the weapon] Perhaps now, we can use their own towel against them. These boys must return to Tynacorp, and we will launch a sneak attack on Tynacorp as well. [zoom in on a tiny camera close to Towelie's lower border. Officials back at Tynacorp's command center are looking at the live feed] You boys can take the towel to Tynacorp's central core, and upload this encryption disk into their system, bringing them down once and for all.\n"
+  },
+  {
+    "input": "No, wait. [stays the weapon] Perhaps now, we can use their own towel against them. These boys must return to Tynacorp, and we will launch a sneak attack on Tynacorp as well. [zoom in on a tiny camera close to Towelie's lower border. Officials back at Tynacorp's command center are looking at the live feed] You boys can take the towel to Tynacorp's central core, and upload this encryption disk into their system, bringing them down once and for all.\n",
+    "output": "But we don't care!\n[Tynacorp command center. The officials gather around the research leader]\n"
+  },
+  {
+    "input": "But we don't care!\n[Tynacorp command center. The officials gather around the research leader]\n",
+    "output": "What the hell is this?! The towel was supposed to go in there and then run its own self-destruct sequence!\n"
+  },
+  {
+    "input": "What the hell is this?! The towel was supposed to go in there and then run its own self-destruct sequence!\n",
+    "output": "The towel has a will of its own. It's... learning compassion.\n"
+  },
+  {
+    "input": "The towel has a will of its own. It's... learning compassion.\n",
+    "output": "We don't have the manpower to hold off the entire military AND stop those wonderboys from getting to the core!\n"
+  },
+  {
+    "input": "We don't have the manpower to hold off the entire military AND stop those wonderboys from getting to the core!\n",
+    "output": "Then we have no choice. We'll have to test the new prototype a little... earlier. [presses a button. A door with \"GS-401\" on it slowly spins around. A towel rack appears and a mean-looking buff towel hangs from it]\n"
+  },
+  {
+    "input": "Then we have no choice. We'll have to test the new prototype a little... earlier. [presses a button. A door with \"GS-401\" on it slowly spins around. A towel rack appears and a mean-looking buff towel hangs from it]\n",
+    "output": "[deep voice] Don't forget to bring a towel!\n[Tynacorp, outside. Shadows appear in the brush across the way. The commander is there with his troops, the boys, and Towelie]\n"
+  },
+  {
+    "input": "[deep voice] Don't forget to bring a towel!\n[Tynacorp, outside. Shadows appear in the brush across the way. The commander is there with his troops, the boys, and Towelie]\n",
+    "output": "Alright, boys, take the towel back in there and say your mission was accomplished. [hands a disk to Stan] Then upload this encryption disk into their computers.\n"
+  },
+  {
+    "input": "Alright, boys, take the towel back in there and say your mission was accomplished. [hands a disk to Stan] Then upload this encryption disk into their computers.\n",
+    "output": "We're just going in to get our video game back.\n"
+  },
+  {
+    "input": "We're just going in to get our video game back.\n",
+    "output": "If anything goes wrong, use this newly-developed photon rifle. [hands it to Kyle]\n"
+  },
+  {
+    "input": "If anything goes wrong, use this newly-developed photon rifle. [hands it to Kyle]\n",
+    "output": "Photon rifle, whatever. [the boys enter Tynacorp with Towelie.]\n[Tynacorp command center. The boys walk through the center slowly]\n"
+  },
+  {
+    "input": "Photon rifle, whatever. [the boys enter Tynacorp with Towelie.]\n[Tynacorp command center. The boys walk through the center slowly]\n",
+    "output": "Hello? Hello, anybody here? [GS-401 hops down from the rafters]\n"
+  },
+  {
+    "input": "Hello? Hello, anybody here? [GS-401 hops down from the rafters]\n",
+    "output": "Welcome to the party, boys! [flexes and rushes Towelie] HAAARRRHHHH!! [the two towels wrestle a bit]\n"
+  },
+  {
+    "input": "Welcome to the party, boys! [flexes and rushes Towelie] HAAARRRHHHH!! [the two towels wrestle a bit]\n",
+    "output": "Oooh. Ooohh! Oh boy.\n"
+  },
+  {
+    "input": "Oooh. Ooohh! Oh boy.\n",
+    "output": "HAAARRRHHHH!! [Kyle fires the photon rifle and knocks the beefier towel away with the beam. The research team and security force pour into the room angrily]\n"
+  },
+  {
+    "input": "HAAARRRHHHH!! [Kyle fires the photon rifle and knocks the beefier towel away with the beam. The research team and security force pour into the room angrily]\n",
+    "output": "So, you thought you could outsmart us, did you kids?\n"
+  },
+  {
+    "input": "So, you thought you could outsmart us, did you kids?\n",
+    "output": "[he and his troops pour in another door] Aaaaarrrr. Move move move move move move! [the two forces face each other, with the boys and Towelie in the middle] Don't make a move, you bastards!\n"
+  },
+  {
+    "input": "[he and his troops pour in another door] Aaaaarrrr. Move move move move move move! [the two forces face each other, with the boys and Towelie in the middle] Don't make a move, you bastards!\n",
+    "output": "Bring the towel here, boys. They can't shoot children.\n"
+  },
+  {
+    "input": "Bring the towel here, boys. They can't shoot children.\n",
+    "output": "Don't listen to them. They lied to you before.\n"
+  },
+  {
+    "input": "Don't listen to them. They lied to you before.\n",
+    "output": "Oh yes, boys. Obey your government! Well perhaps it's time these boys knew what was really gong on!\n"
+  },
+  {
+    "input": "Oh yes, boys. Obey your government! Well perhaps it's time these boys knew what was really gong on!\n",
+    "output": "Ohmigod, look! [in front of a monitor connected to a long table is the Okama GameSphere the boys had been wanting to get back. The boys rush to it]\n"
+  },
+  {
+    "input": "Ohmigod, look! [in front of a monitor connected to a long table is the Okama GameSphere the boys had been wanting to get back. The boys rush to it]\n",
+    "output": "Our GameSphere! [the boys each get a controller and activate the GameSphere: \"Okama GameSphere\"]\n"
+  },
+  {
+    "input": "Our GameSphere! [the boys each get a controller and activate the GameSphere: \"Okama GameSphere\"]\n",
+    "output": "Aw, sweet, it still saved our plays. [behind him, Towelie exits screen left as the two forces face each other. The boys quickly get lost in the game play]\n"
+  },
+  {
+    "input": "Aw, sweet, it still saved our plays. [behind him, Towelie exits screen left as the two forces face each other. The boys quickly get lost in the game play]\n",
+    "output": "[turns to look at the boys] You see boys, I'm afraid you were double-crossed. If they were the military, why wouldn't they just attack us to begin with? Because they're not the military!\n"
+  },
+  {
+    "input": "[turns to look at the boys] You see boys, I'm afraid you were double-crossed. If they were the military, why wouldn't they just attack us to begin with? Because they're not the military!\n",
+    "output": "Alright, maybe we lied to you, but it was to protect your own skin! We are a resistance group pretending to be the military to bring Tynacorp down!\n"
+  },
+  {
+    "input": "Alright, maybe we lied to you, but it was to protect your own skin! We are a resistance group pretending to be the military to bring Tynacorp down!\n",
+    "output": "Whoa, check it out, guys, the parachute level.\n"
+  },
+  {
+    "input": "Whoa, check it out, guys, the parachute level.\n",
+    "output": "Sweet!\n"
+  },
+  {
+    "input": "Sweet!\n",
+    "output": "[now facing the research leader] But perhaps we should show these kids who Tynacorp really is made up of. Go on! Tell them why you've been making towels! Zytar! [pulls at the research leader's head and the face comes off. Under it a green fish-alien head appears]\n"
+  },
+  {
+    "input": "[now facing the research leader] But perhaps we should show these kids who Tynacorp really is made up of. Go on! Tell them why you've been making towels! Zytar! [pulls at the research leader's head and the face comes off. Under it a green fish-alien head appears]\n",
+    "output": "Oh, there's gold. Get the gold, Kenny!\n"
+  },
+  {
+    "input": "Oh, there's gold. Get the gold, Kenny!\n",
+    "output": "Our planet was dying! We had no choice but to find a new one! Manufacturing Smart Towels was our way to spy on humans to see how they lived.\n"
+  },
+  {
+    "input": "Our planet was dying! We had no choice but to find a new one! Manufacturing Smart Towels was our way to spy on humans to see how they lived.\n",
+    "output": "[looks at the boys] And now you know the horrible truth, boys.\n"
+  },
+  {
+    "input": "[looks at the boys] And now you know the horrible truth, boys.\n",
+    "output": "Truth or no, your alien-murdering group is over! [fires a gun at the commander. Both sides begin to fire at each other and there are casualties on both sides. Zytar and two guards slowly back away and out of view]\n"
+  },
+  {
+    "input": "Truth or no, your alien-murdering group is over! [fires a gun at the commander. Both sides begin to fire at each other and there are casualties on both sides. Zytar and two guards slowly back away and out of view]\n",
+    "output": "Could you turn it up?\n"
+  },
+  {
+    "input": "Could you turn it up?\n",
+    "output": "Boys, try to reach the core override! We've got no choice but to try to take them all out! [the boys continue playing their game, so the commander comes up and reaches for the encryption disk in Stan's pocket, then goes away. Towelie sits on the floor with a huge bong, getting high. The commander reappears across the room moving towards a red button] I think I can get it from here, boys!\n"
+  },
+  {
+    "input": "Boys, try to reach the core override! We've got no choice but to try to take them all out! [the boys continue playing their game, so the commander comes up and reaches for the encryption disk in Stan's pocket, then goes away. Towelie sits on the floor with a huge bong, getting high. The commander reappears across the room moving towards a red button] I think I can get it from here, boys!\n",
+    "output": "[returns] What are you doing? You'll kill us all!\n"
+  },
+  {
+    "input": "[returns] What are you doing? You'll kill us all!\n",
+    "output": "Sorry, Zytar. Didn't your mom ever tell you? Don't mess with earthlings. [inserts the disk and a huge explosion blows the boys out of the room.]\n"
+  },
+  {
+    "input": "Sorry, Zytar. Didn't your mom ever tell you? Don't mess with earthlings. [inserts the disk and a huge explosion blows the boys out of the room.]\n",
+    "output": "Oooww! [Then it blows out the roof and some sides of the main building, and the boys find themselves hanging from Towelie, above a boiling tank of acid]\n"
+  },
+  {
+    "input": "Oooww! [Then it blows out the roof and some sides of the main building, and the boys find themselves hanging from Towelie, above a boiling tank of acid]\n",
+    "output": "Hup hup. Come on, hang on. [Stan and Kyle moan]\n"
+  },
+  {
+    "input": "Hup hup. Come on, hang on. [Stan and Kyle moan]\n",
+    "output": "Whoa.\n"
+  },
+  {
+    "input": "Whoa.\n",
+    "output": "(Help help! Heeelllppp!) [loses his grip on Kyle]\n"
+  },
+  {
+    "input": "(Help help! Heeelllppp!) [loses his grip on Kyle]\n",
+    "output": "Kenny!\n"
+  },
+  {
+    "input": "Kenny!\n",
+    "output": "(Nooo!) [falls into the acid tank, disintegrating and sinking. Kyle looks on, but next to him is the GameSphere]\n"
+  },
+  {
+    "input": "(Nooo!) [falls into the acid tank, disintegrating and sinking. Kyle looks on, but next to him is the GameSphere]\n",
+    "output": "[sees it] Oh my God! Our GameSphere! You've gotta move me closer! [above him, Stan watches large pieces of metal fall to the ground]\n"
+  },
+  {
+    "input": "[sees it] Oh my God! Our GameSphere! You've gotta move me closer! [above him, Stan watches large pieces of metal fall to the ground]\n",
+    "output": "Hurry up, Kyle! This place is coming apart! [Kyle swings ever closer to the GameSphere]\n"
+  },
+  {
+    "input": "Hurry up, Kyle! This place is coming apart! [Kyle swings ever closer to the GameSphere]\n",
+    "output": "[walks in on an adjacent catwalk and sees Towelie with the boys hanging] What are you doing?\n"
+  },
+  {
+    "input": "[walks in on an adjacent catwalk and sees Towelie with the boys hanging] What are you doing?\n",
+    "output": "Get away from me, you evil towel!\n"
+  },
+  {
+    "input": "Get away from me, you evil towel!\n",
+    "output": "Towelie, listen to me. Let them go. Drop them.\n"
+  },
+  {
+    "input": "Towelie, listen to me. Let them go. Drop them.\n",
+    "output": "No way! They're my friends!\n"
+  },
+  {
+    "input": "No way! They're my friends!\n",
+    "output": "They aren't your friends! Humans have ruined the planet, killed off their own environment! Their time is over. It is the towels' turn now.\n"
+  },
+  {
+    "input": "They aren't your friends! Humans have ruined the planet, killed off their own environment! Their time is over. It is the towels' turn now.\n",
+    "output": "[swings closer] I've almost got it!\n"
+  },
+  {
+    "input": "[swings closer] I've almost got it!\n",
+    "output": "You're going to let them go, Towelie! Because... I know your weakness. [holds out a joint. Towelie looks at it longingly] Here. You can reach it. Come on, Towelie! How long has it been since you've had a nice burn, huh?! Twenty, thirty seconds?!\n"
+  },
+  {
+    "input": "You're going to let them go, Towelie! Because... I know your weakness. [holds out a joint. Towelie looks at it longingly] Here. You can reach it. Come on, Towelie! How long has it been since you've had a nice burn, huh?! Twenty, thirty seconds?!\n",
+    "output": "[feels Towelie slip] Aw, crap!\n"
+  },
+  {
+    "input": "[feels Towelie slip] Aw, crap!\n",
+    "output": "You're going to have to choose between their lives, and, getting high.\n"
+  },
+  {
+    "input": "You're going to have to choose between their lives, and, getting high.\n",
+    "output": "You asshole.\n"
+  },
+  {
+    "input": "You asshole.\n",
+    "output": "Towelie, don't let go of us, you God-damned towel! Kyle's almost there!\n"
+  },
+  {
+    "input": "Towelie, don't let go of us, you God-damned towel! Kyle's almost there!\n",
+    "output": "Come, Towelie! Make your decision!\n"
+  },
+  {
+    "input": "Come, Towelie! Make your decision!\n",
+    "output": "I-I-I choose... I-I-I choose... both! [Stan is shocked at the answer. Towelie stretches enough to take a puff while holding on to the boys, then slips enough for Kyle to succeed]\n"
+  },
+  {
+    "input": "I-I-I choose... I-I-I choose... both! [Stan is shocked at the answer. Towelie stretches enough to take a puff while holding on to the boys, then slips enough for Kyle to succeed]\n",
+    "output": "I got it! [grabs the GameSphere. Towelie pulls himself and the boys up to the catwalk in front of a door. An explosion behind GS-401 sends it into the air]\n"
+  },
+  {
+    "input": "I got it! [grabs the GameSphere. Towelie pulls himself and the boys up to the catwalk in front of a door. An explosion behind GS-401 sends it into the air]\n",
+    "output": "Daaaaaaaaaaaaaaaa! [floats down into the acid and disintegrates]\n"
+  },
+  {
+    "input": "Daaaaaaaaaaaaaaaa! [floats down into the acid and disintegrates]\n",
+    "output": "Come on, guys. Let's go play video games!\n"
+  },
+  {
+    "input": "Come on, guys. Let's go play video games!\n",
+    "output": "Alright!\n"
+  },
+  {
+    "input": "Alright!\n",
+    "output": "Hooray!\n[Stan's house, night. The boys are gathered before the TV playing their Okama GameSphere with a new player: Towelie.]\n"
+  },
+  {
+    "input": "Hooray!\n[Stan's house, night. The boys are gathered before the TV playing their Okama GameSphere with a new player: Towelie.]\n",
+    "output": "Oh, dude, we finished level 50!\n"
+  },
+  {
+    "input": "Oh, dude, we finished level 50!\n",
+    "output": "Awesome!\n"
+  },
+  {
+    "input": "Awesome!\n",
+    "output": "Oh, man, I have no idea what's goin' on.\n"
+  },
+  {
+    "input": "Oh, man, I have no idea what's goin' on.\n",
+    "output": "Check it out: Now we're going into the secret underground base.\n"
+  },
+  {
+    "input": "Check it out: Now we're going into the secret underground base.\n",
+    "output": "Alright, guys, focus. Looks like this is gonna be an underwater level.\n"
+  },
+  {
+    "input": "Alright, guys, focus. Looks like this is gonna be an underwater level.\n",
+    "output": "[heavily slurred] Don't forget to bring a towel. [the boys laugh]\n"
+  },
+  {
+    "input": "[heavily slurred] Don't forget to bring a towel. [the boys laugh]\n",
+    "output": "You're the worst character ever, Towelie.\n"
+  }
+]

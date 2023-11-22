@@ -1,0 +1,914 @@
+[
+  {
+    "input": "",
+    "output": "Credigree Weed St. Patrick's Day Special\n\n[Tegridy Farms, kitchen, sunrise. Stan and Shelley are having breakfast, with Stan doing his homework at the same time. Sharon puts an egg for Shelley.]\n"
+  },
+  {
+    "input": "Credigree Weed St. Patrick's Day Special\n\n[Tegridy Farms, kitchen, sunrise. Stan and Shelley are having breakfast, with Stan doing his homework at the same time. Sharon puts an egg for Shelley.]\n",
+    "output": "Eat your breakfast, Stan, you're gonna be late for school.\n"
+  },
+  {
+    "input": "Eat your breakfast, Stan, you're gonna be late for school.\n",
+    "output": "You told me to finish my homework!\n"
+  },
+  {
+    "input": "You told me to finish my homework!\n",
+    "output": "Do both, come on guys, we gotta get going. [suddenly, Randy comes in, with a fake red beard on the face and dressed with a green big hat, green coat and brown shorts]\n"
+  },
+  {
+    "input": "Do both, come on guys, we gotta get going. [suddenly, Randy comes in, with a fake red beard on the face and dressed with a green big hat, green coat and brown shorts]\n",
+    "output": "Hey whoa, whoa. What the fuck is going on?\n"
+  },
+  {
+    "input": "Hey whoa, whoa. What the fuck is going on?\n",
+    "output": "I'm about to take the kids to school, why?\n"
+  },
+  {
+    "input": "I'm about to take the kids to school, why?\n",
+    "output": "Hello?! It's St. Patrick's day.\n"
+  },
+  {
+    "input": "Hello?! It's St. Patrick's day.\n",
+    "output": "I know. I'm wearing green. [he shows a green T-shirt under his jacket]\n"
+  },
+  {
+    "input": "I know. I'm wearing green. [he shows a green T-shirt under his jacket]\n",
+    "output": "You guys this is Tegridy Weed's biggest day of the year. I need help with the St. Patrick's Day Special.\n"
+  },
+  {
+    "input": "You guys this is Tegridy Weed's biggest day of the year. I need help with the St. Patrick's Day Special.\n",
+    "output": "Sorry, Randy, the kids aren't missing school. Come on, guys, let's go. [she leaves with the children]\n"
+  },
+  {
+    "input": "Sorry, Randy, the kids aren't missing school. Come on, guys, let's go. [she leaves with the children]\n",
+    "output": "Okay, yeah, great, don't worry about it, I'll do it all myself. Again. [he picks a box of Tegridy Weed] Top O' the mornin' to ya! [he kicks the backdoor open and heads outside]\n[The camera cuts to the backyard, where Towelie, all green, is smoking with a pipe and sitting near a table with other three boxes of Tegridy Weed.]\n"
+  },
+  {
+    "input": "Okay, yeah, great, don't worry about it, I'll do it all myself. Again. [he picks a box of Tegridy Weed] Top O' the mornin' to ya! [he kicks the backdoor open and heads outside]\n[The camera cuts to the backyard, where Towelie, all green, is smoking with a pipe and sitting near a table with other three boxes of Tegridy Weed.]\n",
+    "output": "This is God damn ridiculous. Piece a shit family.\n"
+  },
+  {
+    "input": "This is God damn ridiculous. Piece a shit family.\n",
+    "output": "How's it going, Randy?\n"
+  },
+  {
+    "input": "How's it going, Randy?\n",
+    "output": "[he puts his box on the table] Ugh, I'm just so stressed out! We have to make a huge profit today or the whole year is fucked. How's the St. Patrick's Day Special?\n"
+  },
+  {
+    "input": "[he puts his box on the table] Ugh, I'm just so stressed out! We have to make a huge profit today or the whole year is fucked. How's the St. Patrick's Day Special?\n",
+    "output": "I think it's better than last year's.\n"
+  },
+  {
+    "input": "I think it's better than last year's.\n",
+    "output": "Lemme see... [he tries the pipe] Oh, wow... Wow... [he tapdances] This is gonna be our best special ever! Come on, let's get the truck loaded up!\n[The frontyard. Randy and Towelie are carrying the weed to their booth.]\n"
+  },
+  {
+    "input": "Lemme see... [he tries the pipe] Oh, wow... Wow... [he tapdances] This is gonna be our best special ever! Come on, let's get the truck loaded up!\n[The frontyard. Randy and Towelie are carrying the weed to their booth.]\n",
+    "output": "Let's sell what we can from our drive up booth, and then later we can hit the Irish bar. What the fuck? [he sees Steve, dressed just like him, setting up his own booth and throws the box he was carrying down in anger] Hey! Excuse me!\n"
+  },
+  {
+    "input": "Let's sell what we can from our drive up booth, and then later we can hit the Irish bar. What the fuck? [he sees Steve, dressed just like him, setting up his own booth and throws the box he was carrying down in anger] Hey! Excuse me!\n",
+    "output": "Oh, good morning, Randy.\n"
+  },
+  {
+    "input": "Oh, good morning, Randy.\n",
+    "output": "What do you think you're doing?\n"
+  },
+  {
+    "input": "What do you think you're doing?\n",
+    "output": "Oh. We're, uh, doing a St. Patrick's Day Special.\n"
+  },
+  {
+    "input": "Oh. We're, uh, doing a St. Patrick's Day Special.\n",
+    "output": "No, you're not.\n"
+  },
+  {
+    "input": "No, you're not.\n",
+    "output": "Uhh, yeah. We are.\n"
+  },
+  {
+    "input": "Uhh, yeah. We are.\n",
+    "output": "So first you steal my idea of selling weed and now you're stealing my idea of doing a St. Patrick's Day Special!\n"
+  },
+  {
+    "input": "So first you steal my idea of selling weed and now you're stealing my idea of doing a St. Patrick's Day Special!\n",
+    "output": "Pretty sure St. Patrick's Day wasn't your idea.\n"
+  },
+  {
+    "input": "Pretty sure St. Patrick's Day wasn't your idea.\n",
+    "output": "Is that right? Okay... Game on, motherfucker. [he heads back inside]\n[Butters' house. In his bedroom, Butters checks his St. Patrick's Day's attire in the mirror.]\n"
+  },
+  {
+    "input": "Is that right? Okay... Game on, motherfucker. [he heads back inside]\n[Butters' house. In his bedroom, Butters checks his St. Patrick's Day's attire in the mirror.]\n",
+    "output": "[singing] Loo loo loo! It's St. Patrick's Day! Looo loo loo! De doot be do!\n"
+  },
+  {
+    "input": "[singing] Loo loo loo! It's St. Patrick's Day! Looo loo loo! De doot be do!\n",
+    "output": "[from downstairs] Come on Butters, time for school!\n"
+  },
+  {
+    "input": "[from downstairs] Come on Butters, time for school!\n",
+    "output": "Okay, mom! [he gets to the living room, where Stephen is reading a newspaper] Ohhh dad, are you wearin' green or are you gonna get a pinch?\n"
+  },
+  {
+    "input": "Okay, mom! [he gets to the living room, where Stephen is reading a newspaper] Ohhh dad, are you wearin' green or are you gonna get a pinch?\n",
+    "output": "Ha ha... I've got a green tie on, you little rascal!\n"
+  },
+  {
+    "input": "Ha ha... I've got a green tie on, you little rascal!\n",
+    "output": "[comes in] And I'm wearing a green scarf!\n"
+  },
+  {
+    "input": "[comes in] And I'm wearing a green scarf!\n",
+    "output": "Okay! Well someone's gettin a pinch today!\n[South Park Elementary. A lot of students wearing green enter the building. Butters walks through the corridor, checking who's wearing green.]\n"
+  },
+  {
+    "input": "Okay! Well someone's gettin a pinch today!\n[South Park Elementary. A lot of students wearing green enter the building. Butters walks through the corridor, checking who's wearing green.]\n",
+    "output": "Hey, Clyde! You got your green on! Hey Jimmy! Nice green pants! Tee-hee! Te hee hee hee! [he walks to the boys, who also are wearing green] Happy St. Patrick's Day, fellas!\n"
+  },
+  {
+    "input": "Hey, Clyde! You got your green on! Hey Jimmy! Nice green pants! Tee-hee! Te hee hee hee! [he walks to the boys, who also are wearing green] Happy St. Patrick's Day, fellas!\n",
+    "output": "Hey, Butters.\n"
+  },
+  {
+    "input": "Hey, Butters.\n",
+    "output": "You guys all look very festive!\n"
+  },
+  {
+    "input": "You guys all look very festive!\n",
+    "output": "[unenthusiastically] Yeah, it's super fun. St. Patrick's Day rules.\n"
+  },
+  {
+    "input": "[unenthusiastically] Yeah, it's super fun. St. Patrick's Day rules.\n",
+    "output": "Oh, I hope they put green food coloring in our milk at lunchtime again like last year! [he notices a girl walking by him, who's apparently not wearing green] Uh-oh! Hey, Kelly-Ann! What's going on?\n"
+  },
+  {
+    "input": "Oh, I hope they put green food coloring in our milk at lunchtime again like last year! [he notices a girl walking by him, who's apparently not wearing green] Uh-oh! Hey, Kelly-Ann! What's going on?\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "Looks like someone forgot what day it was! Ha ha! Pi-i-i-i-nch! [he pinches her]\n[The camera cuts to the outside, where two police cars are parked. Inside, two police officers cuff Butters, with another two and the students watching.]\n"
+  },
+  {
+    "input": "Looks like someone forgot what day it was! Ha ha! Pi-i-i-i-nch! [he pinches her]\n[The camera cuts to the outside, where two police cars are parked. Inside, two police officers cuff Butters, with another two and the students watching.]\n",
+    "output": "I'm sorry! I'm sorry! I didn't mean to do anything wrong, honest!\n"
+  },
+  {
+    "input": "I'm sorry! I'm sorry! I didn't mean to do anything wrong, honest!\n",
+    "output": "Do you know what sexual assault is?\n"
+  },
+  {
+    "input": "Do you know what sexual assault is?\n",
+    "output": "I'm so sorry! Please! It's just... Well, she had it comin' on account of the way she was dressed!\n"
+  },
+  {
+    "input": "I'm so sorry! Please! It's just... Well, she had it comin' on account of the way she was dressed!\n",
+    "output": "[groaning] Ohhh!\n"
+  },
+  {
+    "input": "[groaning] Ohhh!\n",
+    "output": "Wow, kid, wow!\n"
+  },
+  {
+    "input": "Wow, kid, wow!\n",
+    "output": "Alright. Take this shithead to the station and book him for sexual assault of a minor. [the two officers carry Butters outside]\n"
+  },
+  {
+    "input": "Alright. Take this shithead to the station and book him for sexual assault of a minor. [the two officers carry Butters outside]\n",
+    "output": "Oh, jeez, I didn't know Kelly-Ann was a minor! Well, she didn't have a mining helmet or a pick axe or anything!\n[Park County Police Station. Butters is in a cell, shivering.]\n"
+  },
+  {
+    "input": "Oh, jeez, I didn't know Kelly-Ann was a minor! Well, she didn't have a mining helmet or a pick axe or anything!\n[Park County Police Station. Butters is in a cell, shivering.]\n",
+    "output": "[reading a file] Okay, looks like you assaulted a nine year old girl... No prior history... assault took place at an elementary school.\n"
+  },
+  {
+    "input": "[reading a file] Okay, looks like you assaulted a nine year old girl... No prior history... assault took place at an elementary school.\n",
+    "output": "But... But, sir, it's St. Patrick's Day.\n"
+  },
+  {
+    "input": "But... But, sir, it's St. Patrick's Day.\n",
+    "output": "Look, I know! It's St. Patrick's Day, right? If people don't wear green, they get pinched!\n"
+  },
+  {
+    "input": "Look, I know! It's St. Patrick's Day, right? If people don't wear green, they get pinched!\n",
+    "output": "Yes! Right!\n"
+  },
+  {
+    "input": "Yes! Right!\n",
+    "output": "Yeah... Only one problem. The little girl you pinched? Kelly-Ann Barlow? She was wearing green socks. [he shows a picture of Kelly-Ann with a green sock] You're a goddamn sexual predator. Don't let him jack off in here! These types always mess up my jail!\n[Credigree Weed. The place is full of people buying Steve's special.]\n"
+  },
+  {
+    "input": "Yeah... Only one problem. The little girl you pinched? Kelly-Ann Barlow? She was wearing green socks. [he shows a picture of Kelly-Ann with a green sock] You're a goddamn sexual predator. Don't let him jack off in here! These types always mess up my jail!\n[Credigree Weed. The place is full of people buying Steve's special.]\n",
+    "output": "Welcome, everyone, welcome. Thank you for coming to Credigree Farms!\n[Randy, who's hiding behind a bush, comes out and starts playing a flute. Everyone turns their eyes to him, and he hides back.]\n"
+  },
+  {
+    "input": "Welcome, everyone, welcome. Thank you for coming to Credigree Farms!\n[Randy, who's hiding behind a bush, comes out and starts playing a flute. Everyone turns their eyes to him, and he hides back.]\n",
+    "output": "Randy, we all see you behind the bush. [Randy comes out, tries to play a little more and hides again] Everyone sees you. [Randy leaves the bush]\n"
+  },
+  {
+    "input": "Randy, we all see you behind the bush. [Randy comes out, tries to play a little more and hides again] Everyone sees you. [Randy leaves the bush]\n",
+    "output": "[with a fake Irish accent] Oh. Uh... A very happy mornin', everybody! And a foine St. Patrick's Day to all of ye. I don't know if ya noohticed. But, uh, there's a farm across the street selling weed also... And the owner is actually 10 par-cent Irish!\n"
+  },
+  {
+    "input": "[with a fake Irish accent] Oh. Uh... A very happy mornin', everybody! And a foine St. Patrick's Day to all of ye. I don't know if ya noohticed. But, uh, there's a farm across the street selling weed also... And the owner is actually 10 par-cent Irish!\n",
+    "output": "So, obviously, you're upset that you don't seem to have any customers.\n"
+  },
+  {
+    "input": "So, obviously, you're upset that you don't seem to have any customers.\n",
+    "output": "What I'm upset about is a wee little thing called \"cultural appropriation\". Ever heard of it? That's why we can't wear sombreros on Cinco de Mayo. Why we can't dress like Indians on Halloween.\n"
+  },
+  {
+    "input": "What I'm upset about is a wee little thing called \"cultural appropriation\". Ever heard of it? That's why we can't wear sombreros on Cinco de Mayo. Why we can't dress like Indians on Halloween.\n",
+    "output": "What's your point?\n"
+  },
+  {
+    "input": "What's your point?\n",
+    "output": "I'm looking at my point, you racist son of a bitch. You have no right to wear that stuff. It is offensive. Come on, guys! St. Patrick's Day is the one day of the year we have left where we can actually celebrate being white. Any other day that we tried to be proud of our culture, we would get immediately cancelled by Twitter! And yet for some reason, you're all over here, buying your weed from someone who is fine mocking our customs and traditions.\n"
+  },
+  {
+    "input": "I'm looking at my point, you racist son of a bitch. You have no right to wear that stuff. It is offensive. Come on, guys! St. Patrick's Day is the one day of the year we have left where we can actually celebrate being white. Any other day that we tried to be proud of our culture, we would get immediately cancelled by Twitter! And yet for some reason, you're all over here, buying your weed from someone who is fine mocking our customs and traditions.\n",
+    "output": "Maybe they're here because my St. Patrick's Day Special is better than yours. [Randy punches Steve and the two of them begin fighting]\n[Sometime later, two police cars are parked in front of Credigree Weed. Two officers cuff Randy and carry him away.]\n"
+  },
+  {
+    "input": "Maybe they're here because my St. Patrick's Day Special is better than yours. [Randy punches Steve and the two of them begin fighting]\n[Sometime later, two police cars are parked in front of Credigree Weed. Two officers cuff Randy and carry him away.]\n",
+    "output": "Okay, yeah... Yeah, let's arrest the white leprechaun. Cuz, you know, can't have one day for a mostly white culture, right? Don't wanna get cancelled. I guess don't arrest him for cultural appropriations? Guess... Guess that only works one way, huh?\n[Park County Police Station, interrogation room. Butters is cuffed to the table. Suddenly, a buzzer fires and a woman enters the room.]\n"
+  },
+  {
+    "input": "Okay, yeah... Yeah, let's arrest the white leprechaun. Cuz, you know, can't have one day for a mostly white culture, right? Don't wanna get cancelled. I guess don't arrest him for cultural appropriations? Guess... Guess that only works one way, huh?\n[Park County Police Station, interrogation room. Butters is cuffed to the table. Suddenly, a buzzer fires and a woman enters the room.]\n",
+    "output": "Leopold Stotch?\n"
+  },
+  {
+    "input": "Leopold Stotch?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "I'm the public defender that's been assigned to your case.\n"
+  },
+  {
+    "input": "I'm the public defender that's been assigned to your case.\n",
+    "output": "Ugh... Okay... Oh, God...\n"
+  },
+  {
+    "input": "Ugh... Okay... Oh, God...\n",
+    "output": "Is there a problem?\n"
+  },
+  {
+    "input": "Is there a problem?\n",
+    "output": "Wul, it's just... I mean... What you're wearing. You know, it's St. Patrick's Day, you're not wearing any... You don't have any green socks on, do you?\n"
+  },
+  {
+    "input": "Wul, it's just... I mean... What you're wearing. You know, it's St. Patrick's Day, you're not wearing any... You don't have any green socks on, do you?\n",
+    "output": "No, I'm wearing yellow socks. [she shows her socks]\n"
+  },
+  {
+    "input": "No, I'm wearing yellow socks. [she shows her socks]\n",
+    "output": "Ohhhhh God... I wanna pinch you so bad...\n"
+  },
+  {
+    "input": "Ohhhhh God... I wanna pinch you so bad...\n",
+    "output": "I'm here to help you, okay? Now, this woman that you're accused of groping, were you two in any kind of relationship?\n"
+  },
+  {
+    "input": "I'm here to help you, okay? Now, this woman that you're accused of groping, were you two in any kind of relationship?\n",
+    "output": "No, ma'am, could you... Maybe put on some green lipstick or something?\n"
+  },
+  {
+    "input": "No, ma'am, could you... Maybe put on some green lipstick or something?\n",
+    "output": "Before you touched the victim, did she give you any kind of consent?\n"
+  },
+  {
+    "input": "Before you touched the victim, did she give you any kind of consent?\n",
+    "output": "Well, technically, yes! I mean, St. Patrick's Day is a wonderful day where we remember a British Roman man who went to Ireland and converted the whole country to Christianity! And he used a clover to represent the Holy Trinity, so we're supposed to celebrate that by wearing green and if you don't wear green you get a pinch!\n"
+  },
+  {
+    "input": "Well, technically, yes! I mean, St. Patrick's Day is a wonderful day where we remember a British Roman man who went to Ireland and converted the whole country to Christianity! And he used a clover to represent the Holy Trinity, so we're supposed to celebrate that by wearing green and if you don't wear green you get a pinch!\n",
+    "output": "And who is this St. Patrick to you?\n"
+  },
+  {
+    "input": "And who is this St. Patrick to you?\n",
+    "output": "See?! That's the problem! Nobody knows how great he really was.\n"
+  },
+  {
+    "input": "See?! That's the problem! Nobody knows how great he really was.\n",
+    "output": "[angry] Okay... [she walks to Butters] Can you show me where on the body you touched the girl?\n"
+  },
+  {
+    "input": "[angry] Okay... [she walks to Butters] Can you show me where on the body you touched the girl?\n",
+    "output": "Oh, God...\n"
+  },
+  {
+    "input": "Oh, God...\n",
+    "output": "Did you put your fingers inside her?\n"
+  },
+  {
+    "input": "Did you put your fingers inside her?\n",
+    "output": "I didn't finger nothin! I swear it was just a tiny little St. Patrick's Day pinch! It was... It was like this! [he pinches her hand, who slaps him in return] Ohhhg! [she slaps him again] Oh!\n"
+  },
+  {
+    "input": "I didn't finger nothin! I swear it was just a tiny little St. Patrick's Day pinch! It was... It was like this! [he pinches her hand, who slaps him in return] Ohhhg! [she slaps him again] Oh!\n",
+    "output": "I am not representing this fucking animal! [she gets her things and leaves the room, then comes back and slaps Butters again]\n"
+  },
+  {
+    "input": "I am not representing this fucking animal! [she gets her things and leaves the room, then comes back and slaps Butters again]\n",
+    "output": "Ohhgu!\n[The work room. Two officers bring a man and a woman in custody.]\n"
+  },
+  {
+    "input": "Ohhgu!\n[The work room. Two officers bring a man and a woman in custody.]\n",
+    "output": "We got some more St. Patrick's Day offenders.\n"
+  },
+  {
+    "input": "We got some more St. Patrick's Day offenders.\n",
+    "output": "Well, it's 10 a.m. and you people are already wasted, huh?\n"
+  },
+  {
+    "input": "Well, it's 10 a.m. and you people are already wasted, huh?\n",
+    "output": "Yeah, yeah, copper, you got me, big deal.\n[The scene cuts to Butters, who's back in the cell along with six other people. One of them is peeing on the wall, and another one vomits on the floor.]\n"
+  },
+  {
+    "input": "Yeah, yeah, copper, you got me, big deal.\n[The scene cuts to Butters, who's back in the cell along with six other people. One of them is peeing on the wall, and another one vomits on the floor.]\n",
+    "output": "[starts praying] Dear St. Patrick... If you're really up there... I've always done my best to honor you on this most holy day... You went to Ireland, and you got all those pagan worshippers to follow Christ. If there's any way... that you could help me now... just, like, send me a leprechaun or something... I will be forever your dark servant. Amen.\n"
+  },
+  {
+    "input": "[starts praying] Dear St. Patrick... If you're really up there... I've always done my best to honor you on this most holy day... You went to Ireland, and you got all those pagan worshippers to follow Christ. If there's any way... that you could help me now... just, like, send me a leprechaun or something... I will be forever your dark servant. Amen.\n",
+    "output": "[he opens the cell door] Alright, we got us another one! [an officer's shown carrying Randy]\n"
+  },
+  {
+    "input": "[he opens the cell door] Alright, we got us another one! [an officer's shown carrying Randy]\n",
+    "output": "Let's go, buddy.\n"
+  },
+  {
+    "input": "Let's go, buddy.\n",
+    "output": "Yeah yeah, you don't have to push me, copper.\n"
+  },
+  {
+    "input": "Yeah yeah, you don't have to push me, copper.\n",
+    "output": "Whoa...\n"
+  },
+  {
+    "input": "Whoa...\n",
+    "output": "When are you people gonna learn, huh? It's not even lunchtime, for Christ's sake. [the officer pushes Randy inside the cell and Johnson closes the door]\n"
+  },
+  {
+    "input": "When are you people gonna learn, huh? It's not even lunchtime, for Christ's sake. [the officer pushes Randy inside the cell and Johnson closes the door]\n",
+    "output": "I want my phone call.\n"
+  },
+  {
+    "input": "I want my phone call.\n",
+    "output": "Wow wee, are you a real leprechaun?\n"
+  },
+  {
+    "input": "Wow wee, are you a real leprechaun?\n",
+    "output": "Yeah, I'm a real fucking leprechaun!\n"
+  },
+  {
+    "input": "Yeah, I'm a real fucking leprechaun!\n",
+    "output": "Alright! Are we gonna bust outta here or what?\n"
+  },
+  {
+    "input": "Alright! Are we gonna bust outta here or what?\n",
+    "output": "Hell yeah we're gonna bust outta here, what do you have planned?\n[A Jamaican style logo appears on screen. \"The Credigree Weed St. Patrick's Day Special\". An announcer is also heard.]\n"
+  },
+  {
+    "input": "Hell yeah we're gonna bust outta here, what do you have planned?\n[A Jamaican style logo appears on screen. \"The Credigree Weed St. Patrick's Day Special\". An announcer is also heard.]\n",
+    "output": "Awww, yeah... And now back to the Credigree Weed St. Patrick's Day Special.\n[The scene cuts to Credigree Weed, which's still crowded. Steve's selling his special to a customer.]\n"
+  },
+  {
+    "input": "Awww, yeah... And now back to the Credigree Weed St. Patrick's Day Special.\n[The scene cuts to Credigree Weed, which's still crowded. Steve's selling his special to a customer.]\n",
+    "output": "Alright, there you go, happy St. Patrick's Day and thanks for buying Credigree! [the customer leaves and an old man approaches him]\n"
+  },
+  {
+    "input": "Alright, there you go, happy St. Patrick's Day and thanks for buying Credigree! [the customer leaves and an old man approaches him]\n",
+    "output": "Good afternoon, sir! Are you the creator of Credigree Weed?\n"
+  },
+  {
+    "input": "Good afternoon, sir! Are you the creator of Credigree Weed?\n",
+    "output": "I am.\n"
+  },
+  {
+    "input": "I am.\n",
+    "output": "Well, I'm the owner of the Irish bar here in town. Farty O'Cools. We've got thousands of patrons today and I'm looking to score some weed.\n"
+  },
+  {
+    "input": "Well, I'm the owner of the Irish bar here in town. Farty O'Cools. We've got thousands of patrons today and I'm looking to score some weed.\n",
+    "output": "You need marijuana for the Irish bar.\n"
+  },
+  {
+    "input": "You need marijuana for the Irish bar.\n",
+    "output": "Well, everyone's been drinkin' since 9 a.m. But now they need something to take the edge off until they start doing coke at 7:30.\n"
+  },
+  {
+    "input": "Well, everyone's been drinkin' since 9 a.m. But now they need something to take the edge off until they start doing coke at 7:30.\n",
+    "output": "Well, I'm sure we can help you out. How much Credigree are you looking to buy?\n"
+  },
+  {
+    "input": "Well, I'm sure we can help you out. How much Credigree are you looking to buy?\n",
+    "output": "Oh, I'd say we need about... Oh, two and a half tons of yer St. Patrick's Day Special.\n"
+  },
+  {
+    "input": "Oh, I'd say we need about... Oh, two and a half tons of yer St. Patrick's Day Special.\n",
+    "output": "Two and a half tons...\n"
+  },
+  {
+    "input": "Two and a half tons...\n",
+    "output": "Alright! Well, we'll see ya down at Farty O'Cools! [he leaves and Linda Black comes in]\n"
+  },
+  {
+    "input": "Alright! Well, we'll see ya down at Farty O'Cools! [he leaves and Linda Black comes in]\n",
+    "output": "Are you crazy? How are we gonna get that much weed together in time?\n"
+  },
+  {
+    "input": "Are you crazy? How are we gonna get that much weed together in time?\n",
+    "output": "I don't know, babe, but this could really make our whole fiscal year!\n"
+  },
+  {
+    "input": "I don't know, babe, but this could really make our whole fiscal year!\n",
+    "output": "I just hope you're not overdoin' it again.\n"
+  },
+  {
+    "input": "I just hope you're not overdoin' it again.\n",
+    "output": "Don't worry, we're gonna blow everyone's mind with our St. Patrick's Day Special!\n[South Park Elementary, cafeteria, lunchtime. The boys are sitting with Jimmy and Tolkien and eating green hamburgers.]\n"
+  },
+  {
+    "input": "Don't worry, we're gonna blow everyone's mind with our St. Patrick's Day Special!\n[South Park Elementary, cafeteria, lunchtime. The boys are sitting with Jimmy and Tolkien and eating green hamburgers.]\n",
+    "output": "Awesome... green hamburgers... How clever...\n"
+  },
+  {
+    "input": "Awesome... green hamburgers... How clever...\n",
+    "output": "[his phone rings and he answers] Hello?\n"
+  },
+  {
+    "input": "[his phone rings and he answers] Hello?\n",
+    "output": "[an officer is watching him] Uh, yes, this is Randy Marsh, I've been incarcerated. I need to speak with my attorney.\n"
+  },
+  {
+    "input": "[an officer is watching him] Uh, yes, this is Randy Marsh, I've been incarcerated. I need to speak with my attorney.\n",
+    "output": "Dad, it's me. You called the wrong person.\n"
+  },
+  {
+    "input": "Dad, it's me. You called the wrong person.\n",
+    "output": "Yes, I am aware of that. Listen to me carefully. The canary is in the cage.\n"
+  },
+  {
+    "input": "Yes, I am aware of that. Listen to me carefully. The canary is in the cage.\n",
+    "output": "I don't know what the fuck you're talking about.\n"
+  },
+  {
+    "input": "I don't know what the fuck you're talking about.\n",
+    "output": "Oh, a confidential matter? Lawyer client privilege. Uh, you know, there's an officer standing right here, actually. [the officer rolls his eyes and leaves] Oh... Oh it's okay, he's stepping away. [whispering] Stan! They got me locked up, you're gonna have to help me break outta here. We have to stop them.\n"
+  },
+  {
+    "input": "Oh, a confidential matter? Lawyer client privilege. Uh, you know, there's an officer standing right here, actually. [the officer rolls his eyes and leaves] Oh... Oh it's okay, he's stepping away. [whispering] Stan! They got me locked up, you're gonna have to help me break outta here. We have to stop them.\n",
+    "output": "Stop who?\n"
+  },
+  {
+    "input": "Stop who?\n",
+    "output": "Listen to me... is your friend Tolkien there?\n"
+  },
+  {
+    "input": "Listen to me... is your friend Tolkien there?\n",
+    "output": "Yeah, Tol-l-l-kien is sitting right here.\n"
+  },
+  {
+    "input": "Yeah, Tol-l-l-kien is sitting right here.\n",
+    "output": "Yeah, well, his piece a shit dad is trying to take over the St. Patrick's Day Special!\n"
+  },
+  {
+    "input": "Yeah, well, his piece a shit dad is trying to take over the St. Patrick's Day Special!\n",
+    "output": "I don't care.\n"
+  },
+  {
+    "input": "I don't care.\n",
+    "output": "You better care, because if we don't make money today you and sister are gonna starve. Do you understand? And I won't be able to pay the Wi-Fi bill.\n"
+  },
+  {
+    "input": "You better care, because if we don't make money today you and sister are gonna starve. Do you understand? And I won't be able to pay the Wi-Fi bill.\n",
+    "output": "Okay, what do you want me to do?\n"
+  },
+  {
+    "input": "Okay, what do you want me to do?\n",
+    "output": "I need you to leave school, go home, and get a jar of the St. Patrick's Day Special weed and sneak it into the police station.\n"
+  },
+  {
+    "input": "I need you to leave school, go home, and get a jar of the St. Patrick's Day Special weed and sneak it into the police station.\n",
+    "output": "Dad, it's St. Patrick's Day. We're gonna do a scavenger hunt at recess.\n"
+  },
+  {
+    "input": "Dad, it's St. Patrick's Day. We're gonna do a scavenger hunt at recess.\n",
+    "output": "I'm asking you to do one little thing. Ditch school, get weed, sneak into the police station. Do it or no more Wi-Fi, I mean it! [the officer comes back] Piece a shit lawyer! [he hangs up]\n[A stained-glass window of Saint Patrick is shown.]\n"
+  },
+  {
+    "input": "I'm asking you to do one little thing. Ditch school, get weed, sneak into the police station. Do it or no more Wi-Fi, I mean it! [the officer comes back] Piece a shit lawyer! [he hangs up]\n[A stained-glass window of Saint Patrick is shown.]\n",
+    "output": "[narrating] St. Patrick was not Irish. He was a Roman British man who was made a slave by Irish Barbarians. But St. Patrick heard the voice of God... and he used his situation for good, and God told him to be brave! [he's standing on the toilet, telling the story to the other detainees] And that is why... On this one day of the year, we must be like St. Patrick ourselves! [one of them farts] The police don't even care about St. Patrick's Day! Do you see any of them wearing green?! No! If we do St. Patrick's bidding, he will provide for us! [meanwhile, the officer from before brings Randy back to the cell]\n"
+  },
+  {
+    "input": "[narrating] St. Patrick was not Irish. He was a Roman British man who was made a slave by Irish Barbarians. But St. Patrick heard the voice of God... and he used his situation for good, and God told him to be brave! [he's standing on the toilet, telling the story to the other detainees] And that is why... On this one day of the year, we must be like St. Patrick ourselves! [one of them farts] The police don't even care about St. Patrick's Day! Do you see any of them wearing green?! No! If we do St. Patrick's bidding, he will provide for us! [meanwhile, the officer from before brings Randy back to the cell]\n",
+    "output": "Okay, back in you go. [he opens the door, pushes Randy in and closes it again]\n"
+  },
+  {
+    "input": "Okay, back in you go. [he opens the door, pushes Randy in and closes it again]\n",
+    "output": "Pi-i-i-i-nch! [he pinches the officer's leg]\n"
+  },
+  {
+    "input": "Pi-i-i-i-nch! [he pinches the officer's leg]\n",
+    "output": "[screams in panic] Oh my God! Oh my God! [Johnson comes by] He just touched me and he didn't ask for consent or anything.\n"
+  },
+  {
+    "input": "[screams in panic] Oh my God! Oh my God! [Johnson comes by] He just touched me and he didn't ask for consent or anything.\n",
+    "output": "Okay, okay, I'll take care of it... [he tases Butters, who passes out] Is that better?\n"
+  },
+  {
+    "input": "Okay, okay, I'll take care of it... [he tases Butters, who passes out] Is that better?\n",
+    "output": "I just need to take a shower and cry. Oh my God.\n[The reception room. An officer is using his phone. The boys enter the station, with Cartman holding a cake.]\n"
+  },
+  {
+    "input": "I just need to take a shower and cry. Oh my God.\n[The reception room. An officer is using his phone. The boys enter the station, with Cartman holding a cake.]\n",
+    "output": "Can I help you?\n"
+  },
+  {
+    "input": "Can I help you?\n",
+    "output": "Hello, sir, we are with the Clover Club. We try to spread a little St. Patrick's Day cheer by donating baked goods to prison inmates who cannot celebrate this festive time. [the officer accompanies the boys to the cell room]\n"
+  },
+  {
+    "input": "Hello, sir, we are with the Clover Club. We try to spread a little St. Patrick's Day cheer by donating baked goods to prison inmates who cannot celebrate this festive time. [the officer accompanies the boys to the cell room]\n",
+    "output": "Alright, it's your lucky day, folks, some kids brought you some holiday cheer.\n"
+  },
+  {
+    "input": "Alright, it's your lucky day, folks, some kids brought you some holiday cheer.\n",
+    "output": "Wha... Wha... What's happening?! What's happening?\n"
+  },
+  {
+    "input": "Wha... Wha... What's happening?! What's happening?\n",
+    "output": "Hey, there, we brought you a cake.\n"
+  },
+  {
+    "input": "Hey, there, we brought you a cake.\n",
+    "output": "I told you to bring me weed, not a cake!\n"
+  },
+  {
+    "input": "I told you to bring me weed, not a cake!\n",
+    "output": "[he pinches his nose, frustrated] God dammit. You... You should just enjoy the cake.\n"
+  },
+  {
+    "input": "[he pinches his nose, frustrated] God dammit. You... You should just enjoy the cake.\n",
+    "output": "You don't fucking listen to me, do you?! You're incapable of ever doing anything right because-- [he finally takes the hint] Oh, a cake. [he winks] Gooot it. Thank you very much. [the officer opens the cell door and Butters wakes up with the noise]\n"
+  },
+  {
+    "input": "You don't fucking listen to me, do you?! You're incapable of ever doing anything right because-- [he finally takes the hint] Oh, a cake. [he winks] Gooot it. Thank you very much. [the officer opens the cell door and Butters wakes up with the noise]\n",
+    "output": "Whu... Oh, hey, fellas.\n"
+  },
+  {
+    "input": "Whu... Oh, hey, fellas.\n",
+    "output": "How's your St. Patrick's Day going, Butters?\n"
+  },
+  {
+    "input": "How's your St. Patrick's Day going, Butters?\n",
+    "output": "Pretty good.\n"
+  },
+  {
+    "input": "Pretty good.\n",
+    "output": "Awesome.\n"
+  },
+  {
+    "input": "Awesome.\n",
+    "output": "Well, see ya. [the boys leave and Randy takes a jar of his special from inside the cake]\n"
+  },
+  {
+    "input": "Well, see ya. [the boys leave and Randy takes a jar of his special from inside the cake]\n",
+    "output": "What are you gonna do?\n"
+  },
+  {
+    "input": "What are you gonna do?\n",
+    "output": "It's simple... There's always cops looking to make a score. You just gotta find the one willing to trade some drugs for a favor. [he makes a joint with the weed] And once they get a whiff of my St. Patrick's Day Special, they won't be able to resist. [he lights the joint and takes a drag] Oh... Oh, man, that is strong...\n"
+  },
+  {
+    "input": "It's simple... There's always cops looking to make a score. You just gotta find the one willing to trade some drugs for a favor. [he makes a joint with the weed] And once they get a whiff of my St. Patrick's Day Special, they won't be able to resist. [he lights the joint and takes a drag] Oh... Oh, man, that is strong...\n",
+    "output": "I knew St. Patrick would perform a miracle to get us out of here! Just like when he was a slave, he will help us go free!\n"
+  },
+  {
+    "input": "I knew St. Patrick would perform a miracle to get us out of here! Just like when he was a slave, he will help us go free!\n",
+    "output": "White people were slaves in history? Nuh-uh. [he takes another drag] Gah, it's such a good special, it's just such a shame people are trying to ruin it. [he takes another drag, walks to Johnson, who's keeping guard, and blows the smoke on his face] Hey, my bruthuh. You got a second?\n"
+  },
+  {
+    "input": "White people were slaves in history? Nuh-uh. [he takes another drag] Gah, it's such a good special, it's just such a shame people are trying to ruin it. [he takes another drag, walks to Johnson, who's keeping guard, and blows the smoke on his face] Hey, my bruthuh. You got a second?\n",
+    "output": "What do you want?\n"
+  },
+  {
+    "input": "What do you want?\n",
+    "output": "You don't wanna miss out on the only white holiday still allowed, do ya? How'd you like to be able to, uh, celebrate a little?\n"
+  },
+  {
+    "input": "You don't wanna miss out on the only white holiday still allowed, do ya? How'd you like to be able to, uh, celebrate a little?\n",
+    "output": "Yeah, of course I would, but I can't.\n"
+  },
+  {
+    "input": "Yeah, of course I would, but I can't.\n",
+    "output": "Hey guys! How'd you like to be able to celebrate a little?! [he brings in a box of the Credigree Weed St. Patrick's Day Special] Check it out! They're handing out free weed down at Farty O'Cools! It's the Credigree St. Patrick's Day Special! [the other officers join him and start smoking]\n"
+  },
+  {
+    "input": "Hey guys! How'd you like to be able to celebrate a little?! [he brings in a box of the Credigree Weed St. Patrick's Day Special] Check it out! They're handing out free weed down at Farty O'Cools! It's the Credigree St. Patrick's Day Special! [the other officers join him and start smoking]\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "Ooh, hey, I'm in. [he joins them too]\n"
+  },
+  {
+    "input": "Ooh, hey, I'm in. [he joins them too]\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "Ooh da lolly!\n"
+  },
+  {
+    "input": "Ooh da lolly!\n",
+    "output": "St. Patrick's Day! Wow, look at it!\n"
+  },
+  {
+    "input": "St. Patrick's Day! Wow, look at it!\n",
+    "output": "I thought I wouldn't be able to get wasted till later!\n"
+  },
+  {
+    "input": "I thought I wouldn't be able to get wasted till later!\n",
+    "output": "[he sits on the toilet, defeated] That's it. It's over. My plan is done.\n"
+  },
+  {
+    "input": "[he sits on the toilet, defeated] That's it. It's over. My plan is done.\n",
+    "output": "It is not over! What did St. Patrick say when he was taken from his homeland and turned into a slave?! St. Patrick didn't give up! And when the Christians slandered him while he was trying to convert the heathen Irish, did he give up then?! [Randy ignores him and rushes to the bars in anger]\n"
+  },
+  {
+    "input": "It is not over! What did St. Patrick say when he was taken from his homeland and turned into a slave?! St. Patrick didn't give up! And when the Christians slandered him while he was trying to convert the heathen Irish, did he give up then?! [Randy ignores him and rushes to the bars in anger]\n",
+    "output": "Man, that is strong ass shit.\n"
+  },
+  {
+    "input": "Man, that is strong ass shit.\n",
+    "output": "You can taste the Irishness. [Randy gets angrier]\n"
+  },
+  {
+    "input": "You can taste the Irishness. [Randy gets angrier]\n",
+    "output": "This weed is amazing and it has so much cred.\n"
+  },
+  {
+    "input": "This weed is amazing and it has so much cred.\n",
+    "output": "You know, I've never really been a fan of the holiday Specials, but this one is really good. [Randy gets so angry that suddenly sparkles comes from him and he forces the cell door open]\n"
+  },
+  {
+    "input": "You know, I've never really been a fan of the holiday Specials, but this one is really good. [Randy gets so angry that suddenly sparkles comes from him and he forces the cell door open]\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "[they notice Randy] Whoa!\n"
+  },
+  {
+    "input": "[they notice Randy] Whoa!\n",
+    "output": "You see?! The power of St. Patrick compels you! [Randy fires rainbows from his hands, blasting the officers away]\n"
+  },
+  {
+    "input": "You see?! The power of St. Patrick compels you! [Randy fires rainbows from his hands, blasting the officers away]\n",
+    "output": "Oh! Whoa! Aah! Aah!\n"
+  },
+  {
+    "input": "Oh! Whoa! Aah! Aah!\n",
+    "output": "Yes, now use your clover rays! [Randy fires his clover rays on another two officers, sending them spinning away]\n"
+  },
+  {
+    "input": "Yes, now use your clover rays! [Randy fires his clover rays on another two officers, sending them spinning away]\n",
+    "output": "Oh! Ugugghghh! Whoa!\n"
+  },
+  {
+    "input": "Oh! Ugugghghh! Whoa!\n",
+    "output": "Me golden coins of spite! [he tosses golden coins on the remaining officers, knocking them down]\n"
+  },
+  {
+    "input": "Me golden coins of spite! [he tosses golden coins on the remaining officers, knocking them down]\n",
+    "output": "Oh! Oh! [with all the officers down, Randy and Butters exit the station]\n[The Jamaican style logo shows up again. \"The Credigree Weed St. Patrick's Day Special\". And again, the announcer is heard.]\n"
+  },
+  {
+    "input": "Oh! Oh! [with all the officers down, Randy and Butters exit the station]\n[The Jamaican style logo shows up again. \"The Credigree Weed St. Patrick's Day Special\". And again, the announcer is heard.]\n",
+    "output": "And now for the thrilling conclusion of the Credigree St. Patrick's Day Special.\n[The scene cuts to the Farty O'Cool's Irish Pub, nighttime. Irish folk music is playing. There are a lot of people outside and inside, where Steve and Linda are selling their special.]\n"
+  },
+  {
+    "input": "And now for the thrilling conclusion of the Credigree St. Patrick's Day Special.\n[The scene cuts to the Farty O'Cool's Irish Pub, nighttime. Irish folk music is playing. There are a lot of people outside and inside, where Steve and Linda are selling their special.]\n",
+    "output": "My God! I never thought we'd sell this much weed!\n"
+  },
+  {
+    "input": "My God! I never thought we'd sell this much weed!\n",
+    "output": "Keep it up, babe! We've still got a long way to go!\n"
+  },
+  {
+    "input": "Keep it up, babe! We've still got a long way to go!\n",
+    "output": "Hey, everyone! Everyone! Everyone, quiet! Turn up the TV! [everyone stays quiet and Farty O' Cool turns up the TV's volume]\n"
+  },
+  {
+    "input": "Hey, everyone! Everyone! Everyone, quiet! Turn up the TV! [everyone stays quiet and Farty O' Cool turns up the TV's volume]\n",
+    "output": "Once again the town of South Park is on high alert after a sexual predator escaped from custody. Everyone who's out at bars or restaurants for St. Patrick's Day need to be on the lookout for the sexual psychopath. [the scene cuts to Bill]\n"
+  },
+  {
+    "input": "Once again the town of South Park is on high alert after a sexual predator escaped from custody. Everyone who's out at bars or restaurants for St. Patrick's Day need to be on the lookout for the sexual psychopath. [the scene cuts to Bill]\n",
+    "output": "Tom, I'm standing outside the South Park Police Station, where just moments ago a sexual predator broke free. [footage of Randy and Butters escaping the jail is shown, with Butters being highlighted] Surveillance cameras inside the station captured the dramatic escape. [back to Bill] Police claim they tried to stop the felon from escaping, but they were just, \"Way too high.\" Back to you, Tom.\n[Tegridy Farms. Towelie's still by the booth, smoking with the pipe.]\n"
+  },
+  {
+    "input": "Tom, I'm standing outside the South Park Police Station, where just moments ago a sexual predator broke free. [footage of Randy and Butters escaping the jail is shown, with Butters being highlighted] Surveillance cameras inside the station captured the dramatic escape. [back to Bill] Police claim they tried to stop the felon from escaping, but they were just, \"Way too high.\" Back to you, Tom.\n[Tegridy Farms. Towelie's still by the booth, smoking with the pipe.]\n",
+    "output": "[singing] I've been a wild rover for many's the year, I've spent all me money on good weed and beer [suddenly, a police car stops by, and Randy and Butters come out of it]\n"
+  },
+  {
+    "input": "[singing] I've been a wild rover for many's the year, I've spent all me money on good weed and beer [suddenly, a police car stops by, and Randy and Butters come out of it]\n",
+    "output": "Towelie... where is all the St. Patrick's Day Special?\n"
+  },
+  {
+    "input": "Towelie... where is all the St. Patrick's Day Special?\n",
+    "output": "Randy... I... I thought... you were in jail.\n"
+  },
+  {
+    "input": "Randy... I... I thought... you were in jail.\n",
+    "output": "The weed's all gone, does that mean you were able to sell it?\n"
+  },
+  {
+    "input": "The weed's all gone, does that mean you were able to sell it?\n",
+    "output": "Yeah I sort of... sold it... at half price... to Tolkien's dad across the street.\n"
+  },
+  {
+    "input": "Yeah I sort of... sold it... at half price... to Tolkien's dad across the street.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "You were gone! Tolkien's dad said he'd buy all the weed and I figured that's what we should do!\n"
+  },
+  {
+    "input": "You were gone! Tolkien's dad said he'd buy all the weed and I figured that's what we should do!\n",
+    "output": "So you mean that right now everyone down at the Irish bar is enjoying my special and they don't even know it?!\n"
+  },
+  {
+    "input": "So you mean that right now everyone down at the Irish bar is enjoying my special and they don't even know it?!\n",
+    "output": "Randy, I'm sorr-- [Randy grabs Towelie, crumbles him and throws him on the ground]\n"
+  },
+  {
+    "input": "Randy, I'm sorr-- [Randy grabs Towelie, crumbles him and throws him on the ground]\n",
+    "output": "Come on, let's go! [he and Butters go back to the car]\n[The scene cuts again to the Farty O'Cool's Irish Pub, where the Blacks are still selling their special.]\n"
+  },
+  {
+    "input": "Come on, let's go! [he and Butters go back to the car]\n[The scene cuts again to the Farty O'Cool's Irish Pub, where the Blacks are still selling their special.]\n",
+    "output": "Thank you! Thank you! Thanks for choosing Credigree Weed!\n"
+  },
+  {
+    "input": "Thank you! Thank you! Thanks for choosing Credigree Weed!\n",
+    "output": "Stop right there, you piece a shit! [music and chatter stop] Is everyone enjoying the special?!\n"
+  },
+  {
+    "input": "Stop right there, you piece a shit! [music and chatter stop] Is everyone enjoying the special?!\n",
+    "output": "Randy... I-I thought you were in jail.\n"
+  },
+  {
+    "input": "Randy... I-I thought you were in jail.\n",
+    "output": "Oh, yes, so did a lot of people. But you see there's just one thing wrong. [he takes the jar from one of the patrons] This isn't Credigree Weed's special. [he rips off the Credigree Weed label from the jar, revealing his own underneath] It's moine. [everyone gasps]\n"
+  },
+  {
+    "input": "Oh, yes, so did a lot of people. But you see there's just one thing wrong. [he takes the jar from one of the patrons] This isn't Credigree Weed's special. [he rips off the Credigree Weed label from the jar, revealing his own underneath] It's moine. [everyone gasps]\n",
+    "output": "Babe! That's how you got so much weed?!\n"
+  },
+  {
+    "input": "Babe! That's how you got so much weed?!\n",
+    "output": "I used both.\n"
+  },
+  {
+    "input": "I used both.\n",
+    "output": "You see?! This is what happens when you appropriate a culture! It's sort of your special and it's sort of not your special... And nobody knows whose special it is.\n"
+  },
+  {
+    "input": "You see?! This is what happens when you appropriate a culture! It's sort of your special and it's sort of not your special... And nobody knows whose special it is.\n",
+    "output": "I guess I just let the holiday go to my head. But I learned that--\n"
+  },
+  {
+    "input": "I guess I just let the holiday go to my head. But I learned that--\n",
+    "output": "No! No no no no no! You don't get to say what you learned 'cause it's not your special! This holiday is about Tegridy.\n"
+  },
+  {
+    "input": "No! No no no no no! You don't get to say what you learned 'cause it's not your special! This holiday is about Tegridy.\n",
+    "output": "Oh my God! It's him! It's the sexual predator! [Butters gets nervous]\n"
+  },
+  {
+    "input": "Oh my God! It's him! It's the sexual predator! [Butters gets nervous]\n",
+    "output": "[smoking weed] What, what, he's here?!\n"
+  },
+  {
+    "input": "[smoking weed] What, what, he's here?!\n",
+    "output": "Uh oh! [he flees]\n"
+  },
+  {
+    "input": "Uh oh! [he flees]\n",
+    "output": "[he draws his gun] Stop right there!\n[Butters runs outside, screaming. Stevens runs after him and start shooting. Butters runs to the streets, but two police cars close on him and he runs to the opposite direction. Three officers exit from the car and point their guns at him.]\n"
+  },
+  {
+    "input": "[he draws his gun] Stop right there!\n[Butters runs outside, screaming. Stevens runs after him and start shooting. Butters runs to the streets, but two police cars close on him and he runs to the opposite direction. Three officers exit from the car and point their guns at him.]\n",
+    "output": "There he is, get him!\n"
+  },
+  {
+    "input": "There he is, get him!\n",
+    "output": "Wahggh! [he notices other two cars, with Yates and other two officers pointing their guns at him]\n"
+  },
+  {
+    "input": "Wahggh! [he notices other two cars, with Yates and other two officers pointing their guns at him]\n",
+    "output": "[he cocks his gun] Freeze!\n"
+  },
+  {
+    "input": "[he cocks his gun] Freeze!\n",
+    "output": "Ahghggh! [he's now surrounded]\n"
+  },
+  {
+    "input": "Ahghggh! [he's now surrounded]\n",
+    "output": "Don't move, Weinstein, you've got nowhere else to go! [suddenly, a green glows emerges from the sky]\n"
+  },
+  {
+    "input": "Don't move, Weinstein, you've got nowhere else to go! [suddenly, a green glows emerges from the sky]\n",
+    "output": "[from above] Leave the child alone... [everyone looks at the glow descending on the street and taking the form of Saint Patrick]\n"
+  },
+  {
+    "input": "[from above] Leave the child alone... [everyone looks at the glow descending on the street and taking the form of Saint Patrick]\n",
+    "output": "Ohh!\n"
+  },
+  {
+    "input": "Ohh!\n",
+    "output": "Whoa-a-a!\n"
+  },
+  {
+    "input": "Whoa-a-a!\n",
+    "output": "It's him! It's St. Patrick!\n"
+  },
+  {
+    "input": "It's him! It's St. Patrick!\n",
+    "output": "What... exactly is going on here. You've persecuted this little boy for grabbing people? Why, it's ridiculous! You've all besmirched a perfectly good white holiday. Where we all like to get drunk and assault each other! It's St. Patrick's Day! [he pinches a woman's butt] Remember the reason for the season! [he grabs another woman's breast and humps a third woman]\n"
+  },
+  {
+    "input": "What... exactly is going on here. You've persecuted this little boy for grabbing people? Why, it's ridiculous! You've all besmirched a perfectly good white holiday. Where we all like to get drunk and assault each other! It's St. Patrick's Day! [he pinches a woman's butt] Remember the reason for the season! [he grabs another woman's breast and humps a third woman]\n",
+    "output": "Oh, my God!\n"
+  },
+  {
+    "input": "Oh, my God!\n",
+    "output": "Ooh! Hey!\n"
+  },
+  {
+    "input": "Ooh! Hey!\n",
+    "output": "Who wants a pinch? [he grabs another woman's breast] Oh, yes, very nice!\n"
+  },
+  {
+    "input": "Who wants a pinch? [he grabs another woman's breast] Oh, yes, very nice!\n",
+    "output": "Hey, you can't do that, man!\n"
+  },
+  {
+    "input": "Hey, you can't do that, man!\n",
+    "output": "[he fills a cup with booze for himself] What do you mean I can't? Do you know what day it is?! [he approaches a woman wearing a blouse with \"Kiss me I'm Irish\" written on it] Ah, see, here we go. \"Kiss me I'm Irish!\" That's more like it! [he licks her butt, wriggling his tongue]\n"
+  },
+  {
+    "input": "[he fills a cup with booze for himself] What do you mean I can't? Do you know what day it is?! [he approaches a woman wearing a blouse with \"Kiss me I'm Irish\" written on it] Ah, see, here we go. \"Kiss me I'm Irish!\" That's more like it! [he licks her butt, wriggling his tongue]\n",
+    "output": "Oh, my God! [she runs off]\n"
+  },
+  {
+    "input": "Oh, my God! [she runs off]\n",
+    "output": "No, you bought the shirt, bitch! [he approaches two men] Come on, let's have a go! It's me day! Take your dick out. [he puts his hand on one of the men's crotch] Who wants him to take his dick out?\n"
+  },
+  {
+    "input": "No, you bought the shirt, bitch! [he approaches two men] Come on, let's have a go! It's me day! Take your dick out. [he puts his hand on one of the men's crotch] Who wants him to take his dick out?\n",
+    "output": "I will not!\n"
+  },
+  {
+    "input": "I will not!\n",
+    "output": "What is this? Are you people all some kind of Scottish poofters?\n"
+  },
+  {
+    "input": "What is this? Are you people all some kind of Scottish poofters?\n",
+    "output": "Hey, that is a homophobic slur!\n"
+  },
+  {
+    "input": "Hey, that is a homophobic slur!\n",
+    "output": "You're calling me homophobic? Because I will gladly fuck any man here. We celebrate St. Patrick's Day for four simple reasons. I. Love. To. Fuck.\n"
+  },
+  {
+    "input": "You're calling me homophobic? Because I will gladly fuck any man here. We celebrate St. Patrick's Day for four simple reasons. I. Love. To. Fuck.\n",
+    "output": "Wow, St. Patrick, wow. You're a real jerk.\n"
+  },
+  {
+    "input": "Wow, St. Patrick, wow. You're a real jerk.\n",
+    "output": "Yeah, what a creep. Come on girls, let's go. [they leave]\n"
+  },
+  {
+    "input": "Yeah, what a creep. Come on girls, let's go. [they leave]\n",
+    "output": "To hell with him and to hell with this Tegridy Weed St. Patrick's Day Special. [he tosses his Tegridy Weed jar on the ground and leaves, disgusted]\n"
+  },
+  {
+    "input": "To hell with him and to hell with this Tegridy Weed St. Patrick's Day Special. [he tosses his Tegridy Weed jar on the ground and leaves, disgusted]\n",
+    "output": "[everyone else does the same] Aw... Aww!\n"
+  },
+  {
+    "input": "[everyone else does the same] Aw... Aww!\n",
+    "output": "Where is everybody going? This party fucking sucks! Doesn't anybody want a pinch?\n[South Park, daytime. A street sweeper cleans all the mess left by the partying last night. It runs over an unconscious guy as well.]\n"
+  },
+  {
+    "input": "Where is everybody going? This party fucking sucks! Doesn't anybody want a pinch?\n[South Park, daytime. A street sweeper cleans all the mess left by the partying last night. It runs over an unconscious guy as well.]\n",
+    "output": "[narrating] The party is over... A new day has come... [the scene cuts to him] And now... St. Patrick's Day, the only holiday left where white people could celebrate a culture... has been cancelled. And as for the mysterious, sexually charged being who groped and assaulted so many. He... is doing five years community service.\n[The scene cuts to Butters, who's picking trash on the street as part of his community service. He doesn't look happy.]\n"
+  }
+]

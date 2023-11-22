@@ -1,0 +1,1234 @@
+[
+  {
+    "input": "",
+    "output": "Grounded Vindaloop\n\n[South Park Elementary, day. Butters walks down the hallway wearing a fake Oculus headset. He stumbles along as if he's actually in virtual reality. He checks out the other kids, the floor, the surroundings...]\n"
+  },
+  {
+    "input": "Grounded Vindaloop\n\n[South Park Elementary, day. Butters walks down the hallway wearing a fake Oculus headset. He stumbles along as if he's actually in virtual reality. He checks out the other kids, the floor, the surroundings...]\n",
+    "output": "WHOOAA! It's all so real! Uh this is amazing! It's like I'm there! [Craig turns to watch] I see all our friends at school. Oh wow! If I hold up my hands, I can see them too. Whooaa... [He and Stan bump into each other and Butters begins to run his hands over him] Wow, you were right. I can actually feel it.\n"
+  },
+  {
+    "input": "WHOOAA! It's all so real! Uh this is amazing! It's like I'm there! [Craig turns to watch] I see all our friends at school. Oh wow! If I hold up my hands, I can see them too. Whooaa... [He and Stan bump into each other and Butters begins to run his hands over him] Wow, you were right. I can actually feel it.\n",
+    "output": "[holding Butters off] Butters, what the hell are you doing?\n"
+  },
+  {
+    "input": "[holding Butters off] Butters, what the hell are you doing?\n",
+    "output": "I feel Stan! He looks totally real!\n"
+  },
+  {
+    "input": "I feel Stan! He looks totally real!\n",
+    "output": "[hidden around the corner, in front of the camera] That's awesome, Butters. [snickers away from the walkie-talkie] Keep making your way down the hallway. Your vital signs are looking good. What do you see now? [snickers away from the walkie-talkie]\n"
+  },
+  {
+    "input": "[hidden around the corner, in front of the camera] That's awesome, Butters. [snickers away from the walkie-talkie] Keep making your way down the hallway. Your vital signs are looking good. What do you see now? [snickers away from the walkie-talkie]\n",
+    "output": "More of the school. [Clyde talks to Bebe, who then leaves]\n"
+  },
+  {
+    "input": "More of the school. [Clyde talks to Bebe, who then leaves]\n",
+    "output": "What are you doing, Butters?\n"
+  },
+  {
+    "input": "What are you doing, Butters?\n",
+    "output": "The school and all the kids. [Clyde walks away] I still can't hear any sound except for your voice.\n"
+  },
+  {
+    "input": "The school and all the kids. [Clyde walks away] I still can't hear any sound except for your voice.\n",
+    "output": "Yeah, they haven't worked out the audio yet, but I- [mutes the walkie-talkie and whispers] He's so fucking stupid. [un-mutes it] But I'm sure they will soon.\n"
+  },
+  {
+    "input": "Yeah, they haven't worked out the audio yet, but I- [mutes the walkie-talkie and whispers] He's so fucking stupid. [un-mutes it] But I'm sure they will soon.\n",
+    "output": "[beginning to wobble] Ah, okay uh, I think I'm done, Eric. Ah I'm feeling kind of dizzy and uh- [about to take off the fake headset]\n"
+  },
+  {
+    "input": "[beginning to wobble] Ah, okay uh, I think I'm done, Eric. Ah I'm feeling kind of dizzy and uh- [about to take off the fake headset]\n",
+    "output": "[watching him from around the corner] Butters, no! Are you crazy?!\n"
+  },
+  {
+    "input": "[watching him from around the corner] Butters, no! Are you crazy?!\n",
+    "output": "What what what?\n"
+  },
+  {
+    "input": "What what what?\n",
+    "output": "What did I tell you about removing the headset when you're not back in the access hub??\n"
+  },
+  {
+    "input": "What did I tell you about removing the headset when you're not back in the access hub??\n",
+    "output": "[turns so that he's facing away from the camera] Oh yeah, that it would split my neurons and scramble my brains! I forgot!\n"
+  },
+  {
+    "input": "[turns so that he's facing away from the camera] Oh yeah, that it would split my neurons and scramble my brains! I forgot!\n",
+    "output": "You forgot your neurons would be torn apart?! Did you also forget that if you die in virtual reality you die in real life, Butters?!\n"
+  },
+  {
+    "input": "You forgot your neurons would be torn apart?! Did you also forget that if you die in virtual reality you die in real life, Butters?!\n",
+    "output": "I'm sorry!\n"
+  },
+  {
+    "input": "I'm sorry!\n",
+    "output": "You need to find your way back to my room. Can you do that??\n"
+  },
+  {
+    "input": "You need to find your way back to my room. Can you do that??\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "You only have eight minutes before the battery protocol dies, Butters. You have to hurry!\n"
+  },
+  {
+    "input": "You only have eight minutes before the battery protocol dies, Butters. You have to hurry!\n",
+    "output": "[begins to run] Oh Jesus! [Cartman looks on from around the corner]\n[From school to home. Butters comes out the front doors and runs to the sidewalk. He looks both ways and runs off to his left. Next, Cartman's house is shown the Cartman's room. Butters makes it inside, where Cartman has put up fluorescent posters and accents]\n"
+  },
+  {
+    "input": "[begins to run] Oh Jesus! [Cartman looks on from around the corner]\n[From school to home. Butters comes out the front doors and runs to the sidewalk. He looks both ways and runs off to his left. Next, Cartman's house is shown the Cartman's room. Butters makes it inside, where Cartman has put up fluorescent posters and accents]\n",
+    "output": "Okay, I'm back in your room!\n"
+  },
+  {
+    "input": "Okay, I'm back in your room!\n",
+    "output": "Alright Butters, sit down at the computer. [Butters does this] Now drop the suppornity window! We're just gonna make it!\n"
+  },
+  {
+    "input": "Alright Butters, sit down at the computer. [Butters does this] Now drop the suppornity window! We're just gonna make it!\n",
+    "output": "[drops a shield over the glasses] Suppornity window dropped. [Cartman enters his room, locks the door and turns on the lights, then walks over to Butters and removes the fake headset. Butters wipes his eyes]\n"
+  },
+  {
+    "input": "[drops a shield over the glasses] Suppornity window dropped. [Cartman enters his room, locks the door and turns on the lights, then walks over to Butters and removes the fake headset. Butters wipes his eyes]\n",
+    "output": "Welcome back, dude.\n"
+  },
+  {
+    "input": "Welcome back, dude.\n",
+    "output": "Wow! That was cool!\n"
+  },
+  {
+    "input": "Wow! That was cool!\n",
+    "output": "How do you feel? Do you feel okay?\n"
+  },
+  {
+    "input": "How do you feel? Do you feel okay?\n",
+    "output": "I touched Wendy's boob. [smiles]\n[The cafeteria, lunchtime. Cartman is at table with Kyle, Tolkien, Kenny, Stan, and Jimmy. Cartman is laughing his ass off, but soon gets back to his story]\n"
+  },
+  {
+    "input": "I touched Wendy's boob. [smiles]\n[The cafeteria, lunchtime. Cartman is at table with Kyle, Tolkien, Kenny, Stan, and Jimmy. Cartman is laughing his ass off, but soon gets back to his story]\n",
+    "output": "And then, and then he, he took off the shop goggles, and he was all like, \"Whoa, I'm back.\" [pounds his left fist on the table] Damn it if it's not the awesomest thing ever!\n"
+  },
+  {
+    "input": "And then, and then he, he took off the shop goggles, and he was all like, \"Whoa, I'm back.\" [pounds his left fist on the table] Damn it if it's not the awesomest thing ever!\n",
+    "output": "Sound pretty typical to me.\n"
+  },
+  {
+    "input": "Sound pretty typical to me.\n",
+    "output": "Come on, guys! This is the cure de gars of Butters' torture!\n"
+  },
+  {
+    "input": "Come on, guys! This is the cure de gars of Butters' torture!\n",
+    "output": "Coup de grah, Cartman\n"
+  },
+  {
+    "input": "Coup de grah, Cartman\n",
+    "output": "Thank you, Kyle.\n"
+  },
+  {
+    "input": "Thank you, Kyle.\n",
+    "output": "Poor Butters. Can't you just leave him alone?\n"
+  },
+  {
+    "input": "Poor Butters. Can't you just leave him alone?\n",
+    "output": "Dude, Butters is an asshole, and he deserves to be taken down once in a while, okay?!\n"
+  },
+  {
+    "input": "Dude, Butters is an asshole, and he deserves to be taken down once in a while, okay?!\n",
+    "output": "Hey Eric! What'd ya say to the principal for missing first period? [in a knowing voice] Not that we were doing anything interesting. Right Eric? [chuckles]\n"
+  },
+  {
+    "input": "Hey Eric! What'd ya say to the principal for missing first period? [in a knowing voice] Not that we were doing anything interesting. Right Eric? [chuckles]\n",
+    "output": "Yeah, I just told her I was running late and that it won't happen again.\n"
+  },
+  {
+    "input": "Yeah, I just told her I was running late and that it won't happen again.\n",
+    "output": "You know what I said? She asked me why I wasn't in school and I said \"Well, technically I was in school.\" Tee hee. Sorry guys, but Eric and I know a little something you don't. Not that it's anything that cool. Right Eric?\n"
+  },
+  {
+    "input": "You know what I said? She asked me why I wasn't in school and I said \"Well, technically I was in school.\" Tee hee. Sorry guys, but Eric and I know a little something you don't. Not that it's anything that cool. Right Eric?\n",
+    "output": "Right Butters. [softly over his left shoulder] These guys are so dumb, huh?\n"
+  },
+  {
+    "input": "Right Butters. [softly over his left shoulder] These guys are so dumb, huh?\n",
+    "output": "Yeah. [runs off with his food tray]\n"
+  },
+  {
+    "input": "Yeah. [runs off with his food tray]\n",
+    "output": "See? He's an asshole. Fuck him.\n[Cartman's room, night. Butters is at the computer while Cartman holds the fake headset in hand]\n"
+  },
+  {
+    "input": "See? He's an asshole. Fuck him.\n[Cartman's room, night. Butters is at the computer while Cartman holds the fake headset in hand]\n",
+    "output": "Each time you go into the virtual world it becomes more and more dangerous. Are you absolutely sure you want to do this, Butters?\n"
+  },
+  {
+    "input": "Each time you go into the virtual world it becomes more and more dangerous. Are you absolutely sure you want to do this, Butters?\n",
+    "output": "Well, not a hundred percent...\n"
+  },
+  {
+    "input": "Well, not a hundred percent...\n",
+    "output": "Even 10% is good enough. Here you go. [hands him the headset and Butters puts it on.]\n"
+  },
+  {
+    "input": "Even 10% is good enough. Here you go. [hands him the headset and Butters puts it on.]\n",
+    "output": "Okay, subject is ready.\n"
+  },
+  {
+    "input": "Okay, subject is ready.\n",
+    "output": "[picks up the walkie-talkie] Okay, Butters, I'm booting up the core competency now. [presses a few keys on the keyboard] Edifice framework is online. Vital signs appear to be normal. Interim status?\n"
+  },
+  {
+    "input": "[picks up the walkie-talkie] Okay, Butters, I'm booting up the core competency now. [presses a few keys on the keyboard] Edifice framework is online. Vital signs appear to be normal. Interim status?\n",
+    "output": "Interim status is go.\n"
+  },
+  {
+    "input": "Interim status is go.\n",
+    "output": "[turns off the room light so the fluorescent lights stand out] Digital malcontent now at parameter alpha. Prepare for full graphic interfaces on my mark: 5, 4, 3, 2, 1, [raises the shield]Mark. [quickly hides in the closet as Butters gets accustomed to the headset again]\n"
+  },
+  {
+    "input": "[turns off the room light so the fluorescent lights stand out] Digital malcontent now at parameter alpha. Prepare for full graphic interfaces on my mark: 5, 4, 3, 2, 1, [raises the shield]Mark. [quickly hides in the closet as Butters gets accustomed to the headset again]\n",
+    "output": "It worked! I'm back in. All systems normal.\n"
+  },
+  {
+    "input": "It worked! I'm back in. All systems normal.\n",
+    "output": "All right, Butters. Behind you you should see the door. Go through it and head outside.\n"
+  },
+  {
+    "input": "All right, Butters. Behind you you should see the door. Go through it and head outside.\n",
+    "output": "Going now! [bumps into the door frame, then goes downstairs. A second or two later Cartman comes out of the closet, turns on the light, goes to his computer and sits on his chair]\n"
+  },
+  {
+    "input": "Going now! [bumps into the door frame, then goes downstairs. A second or two later Cartman comes out of the closet, turns on the light, goes to his computer and sits on his chair]\n",
+    "output": "Everything looks good, Butters. You're doing great. Let's get to work.\n"
+  },
+  {
+    "input": "Everything looks good, Butters. You're doing great. Let's get to work.\n",
+    "output": "Okay.\n[Stan's room, night. Stan is reading a book when he heats something outside. He sets the book aside and looks out his window. He sees Butters shoveling snow off people's driveways]\n"
+  },
+  {
+    "input": "Okay.\n[Stan's room, night. Stan is reading a book when he heats something outside. He sets the book aside and looks out his window. He sees Butters shoveling snow off people's driveways]\n",
+    "output": "How much more of this am I supposed to clear up?\n"
+  },
+  {
+    "input": "How much more of this am I supposed to clear up?\n",
+    "output": "You're doing great. Almost done with this level Butters. Just make sure you clear the driveway and uh walkway of all the virtual snow.\n"
+  },
+  {
+    "input": "You're doing great. Almost done with this level Butters. Just make sure you clear the driveway and uh walkway of all the virtual snow.\n",
+    "output": "Okay. It's so realistic. [a shot of Stan watching from across the street.] The snow looks kind of fake though. [Stan leaves the window] Alright, I think that's all of it.\n"
+  },
+  {
+    "input": "Okay. It's so realistic. [a shot of Stan watching from across the street.] The snow looks kind of fake though. [Stan leaves the window] Alright, I think that's all of it.\n",
+    "output": "Okay, nice, Butters. Uhhm, now go to the front door and ring the doorbell. This is the part where you collect the money.\n"
+  },
+  {
+    "input": "Okay, nice, Butters. Uhhm, now go to the front door and ring the doorbell. This is the part where you collect the money.\n",
+    "output": "[rings the doorbell. A middle-aged woman answers the door with a dollar bill in her hand] There's an old fat lady here! She's holding out money for me!\n"
+  },
+  {
+    "input": "[rings the doorbell. A middle-aged woman answers the door with a dollar bill in her hand] There's an old fat lady here! She's holding out money for me!\n",
+    "output": "Just take the money, Butters! [Butters reaches for the bill and takes it.]\n"
+  },
+  {
+    "input": "Just take the money, Butters! [Butters reaches for the bill and takes it.]\n",
+    "output": "Okay, I got it!\n"
+  },
+  {
+    "input": "Okay, I got it!\n",
+    "output": "You got the money? [Butters walks down the walkway as the lady closes the front door] Okay great, Butters. Now get back to the access point.\n"
+  },
+  {
+    "input": "You got the money? [Butters walks down the walkway as the lady closes the front door] Okay great, Butters. Now get back to the access point.\n",
+    "output": "Already? Oh no!\n"
+  },
+  {
+    "input": "Already? Oh no!\n",
+    "output": "Yeah, Butters, the discrepancy bars are oscillating. You need to uh, come back. [eats some more chips] Are you heading back Butters? [no reply.] Butters? [Butters goes home] Alright, Butters, you should be heading back to the access point now. You're going off grid.\n"
+  },
+  {
+    "input": "Yeah, Butters, the discrepancy bars are oscillating. You need to uh, come back. [eats some more chips] Are you heading back Butters? [no reply.] Butters? [Butters goes home] Alright, Butters, you should be heading back to the access point now. You're going off grid.\n",
+    "output": "I'm sorry, Eric, but there's just one thing I gotta do real quick. [goes inside, leaving the front door open]\n"
+  },
+  {
+    "input": "I'm sorry, Eric, but there's just one thing I gotta do real quick. [goes inside, leaving the front door open]\n",
+    "output": "There you are, mister! Just what do you think you're doing?!\n"
+  },
+  {
+    "input": "There you are, mister! Just what do you think you're doing?!\n",
+    "output": "Hello, Dad! It's me, Butters!\n"
+  },
+  {
+    "input": "Hello, Dad! It's me, Butters!\n",
+    "output": "I know that! What do you-?\n"
+  },
+  {
+    "input": "I know that! What do you-?\n",
+    "output": "This is for all the times I got grounded! [makes a fist and fires it at Stephen's groin. Stephen doubles over in pain]\n"
+  },
+  {
+    "input": "This is for all the times I got grounded! [makes a fist and fires it at Stephen's groin. Stephen doubles over in pain]\n",
+    "output": "Ohhh! Oooooo! Ohhh!\n"
+  },
+  {
+    "input": "Ohhh! Oooooo! Ohhh!\n",
+    "output": "HA! I can almost feel his balls on my fist! [at the other end of the call, Cartman is shocked] Haha! How do you like that, Dad?!\n"
+  },
+  {
+    "input": "HA! I can almost feel his balls on my fist! [at the other end of the call, Cartman is shocked] Haha! How do you like that, Dad?!\n",
+    "output": "Butters, why?? Oh my God!\n"
+  },
+  {
+    "input": "Butters, why?? Oh my God!\n",
+    "output": "Huh, that was incredible!\n"
+  },
+  {
+    "input": "Huh, that was incredible!\n",
+    "output": "[getting worried] Uh, Butters, uhh, get back to the access point now.\n"
+  },
+  {
+    "input": "[getting worried] Uh, Butters, uhh, get back to the access point now.\n",
+    "output": "I feel amazing! [giggles] I'm back outside now. I'm a baaaaad man! You hear me?! [starts throwing rocks] Eh take that, you stupid cars! [a hit car screeches to a halt]\n"
+  },
+  {
+    "input": "I feel amazing! [giggles] I'm back outside now. I'm a baaaaad man! You hear me?! [starts throwing rocks] Eh take that, you stupid cars! [a hit car screeches to a halt]\n",
+    "output": "[steps out of the car] What the hell are you doing, kid?!\n"
+  },
+  {
+    "input": "[steps out of the car] What the hell are you doing, kid?!\n",
+    "output": "Butters, it's, uhh, time to stop. Get back to my place.\n"
+  },
+  {
+    "input": "Butters, it's, uhh, time to stop. Get back to my place.\n",
+    "output": "[knocks the driver out of the car] Who's the man now?! I'm gonna take his car! This is like Grand Theft Auto!\n"
+  },
+  {
+    "input": "[knocks the driver out of the car] Who's the man now?! I'm gonna take his car! This is like Grand Theft Auto!\n",
+    "output": "Hey! [Butters peels away]\n"
+  },
+  {
+    "input": "Hey! [Butters peels away]\n",
+    "output": "Whoa! I'm in the car now.\n"
+  },
+  {
+    "input": "Whoa! I'm in the car now.\n",
+    "output": "Oh shit! [runs outside] Butters! Butters, where are you now?\n"
+  },
+  {
+    "input": "Oh shit! [runs outside] Butters! Butters, where are you now?\n",
+    "output": "Hahaha, I'm in the bad part of town! I just hit a lamp post! Ah, ah-I'm back on my feet. Oh, oh that's cool. There's a prostitute out here.\n"
+  },
+  {
+    "input": "Hahaha, I'm in the bad part of town! I just hit a lamp post! Ah, ah-I'm back on my feet. Oh, oh that's cool. There's a prostitute out here.\n",
+    "output": "Okay Butters, let's call it good, okay?\n"
+  },
+  {
+    "input": "Okay Butters, let's call it good, okay?\n",
+    "output": "I'm gonna beat her up and take her money!\n"
+  },
+  {
+    "input": "I'm gonna beat her up and take her money!\n",
+    "output": "Wait, hang on Butters!\n"
+  },
+  {
+    "input": "Wait, hang on Butters!\n",
+    "output": "Take that, you dumb hooker!\n"
+  },
+  {
+    "input": "Take that, you dumb hooker!\n",
+    "output": "What you doin' motherfucker?!\n"
+  },
+  {
+    "input": "What you doin' motherfucker?!\n",
+    "output": "I'm taking your money! Ow. Oh she stabbed me. Uh the hooker stabbed me.\n"
+  },
+  {
+    "input": "I'm taking your money! Ow. Oh she stabbed me. Uh the hooker stabbed me.\n",
+    "output": "Butters get back to my room! The veracrosses are destablilzing!\n"
+  },
+  {
+    "input": "Butters get back to my room! The veracrosses are destablilzing!\n",
+    "output": "I can't [wheeze] I can't breathe too good. Eric, I can't see. Are you still there? Oh... I think I overdid it. I have to take this thing off. What the hell? What the hell is that?! AAAH!\n"
+  },
+  {
+    "input": "I can't [wheeze] I can't breathe too good. Eric, I can't see. Are you still there? Oh... I think I overdid it. I have to take this thing off. What the hell? What the hell is that?! AAAH!\n",
+    "output": "Butters?? Butters?? [turns the walkie-talkie off]\n[Hell's Pass Hospital, now bigger, with two new wings and four floors. Moon shadows appear on the facade. Butters is in a room with a doctor and a nurse]\n"
+  },
+  {
+    "input": "Butters?? Butters?? [turns the walkie-talkie off]\n[Hell's Pass Hospital, now bigger, with two new wings and four floors. Moon shadows appear on the facade. Butters is in a room with a doctor and a nurse]\n",
+    "output": "You're very lucky, young man. You've got a couple of hairline fractures, but the knife missed your spleen by half an inch.\n"
+  },
+  {
+    "input": "You're very lucky, young man. You've got a couple of hairline fractures, but the knife missed your spleen by half an inch.\n",
+    "output": "I... I d-didn't think a knife could really hurt me. Ah I thought I was just in a virtual reality.\n"
+  },
+  {
+    "input": "I... I d-didn't think a knife could really hurt me. Ah I thought I was just in a virtual reality.\n",
+    "output": "No, you actually got stabbed by a hooker. We've called your parents and they're on their way. Your dad wanted me to let you know that you're grounded more than you can possibly imagine.\n"
+  },
+  {
+    "input": "No, you actually got stabbed by a hooker. We've called your parents and they're on their way. Your dad wanted me to let you know that you're grounded more than you can possibly imagine.\n",
+    "output": "Aw nuts!\n"
+  },
+  {
+    "input": "Aw nuts!\n",
+    "output": "Try and relax, and when your parents get here we'll sort this all out. [the doctor and nurse leave. The nurse turns off the light]\n"
+  },
+  {
+    "input": "Try and relax, and when your parents get here we'll sort this all out. [the doctor and nurse leave. The nurse turns off the light]\n",
+    "output": "I wonder how long I'm grounded for?\n"
+  },
+  {
+    "input": "I wonder how long I'm grounded for?\n",
+    "output": "Butters. [Butters looks to his right. Dramatic camera pan from Butters to Cartman, who stands on the window sill like Morpheus]\n"
+  },
+  {
+    "input": "Butters. [Butters looks to his right. Dramatic camera pan from Butters to Cartman, who stands on the window sill like Morpheus]\n",
+    "output": "Ahhh!\n"
+  },
+  {
+    "input": "Ahhh!\n",
+    "output": "Are you okay?\n"
+  },
+  {
+    "input": "Are you okay?\n",
+    "output": "Eric! Uh what are you doing here?\n"
+  },
+  {
+    "input": "Eric! Uh what are you doing here?\n",
+    "output": "I'm not here, Butters.\n"
+  },
+  {
+    "input": "I'm not here, Butters.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "This is going to be hard to understand, Butters, [climbs down to the floor] but, you've become trapped in a simulation. None of this... [spreads his arms out] is real.\n"
+  },
+  {
+    "input": "This is going to be hard to understand, Butters, [climbs down to the floor] but, you've become trapped in a simulation. None of this... [spreads his arms out] is real.\n",
+    "output": "[looks around skeptically] Nuh uh!\n"
+  },
+  {
+    "input": "[looks around skeptically] Nuh uh!\n",
+    "output": "Yeahuh huh. I told you never to take the headset off outside the access point, didn't I?! We're actually both in my house right now. You're wearing the headset and I'm talking to you as a computer program. That's why I can... manipulate reality. [pulls off the missing thumb trick.]\n"
+  },
+  {
+    "input": "Yeahuh huh. I told you never to take the headset off outside the access point, didn't I?! We're actually both in my house right now. You're wearing the headset and I'm talking to you as a computer program. That's why I can... manipulate reality. [pulls off the missing thumb trick.]\n",
+    "output": "WHAT?? [Cartman puts on a couple of thumb lights and clicks them on and off in alternate order.]\n"
+  },
+  {
+    "input": "WHAT?? [Cartman puts on a couple of thumb lights and clicks them on and off in alternate order.]\n",
+    "output": "You see, in this world, things aren't... what they seam. [pulls out a wand from his sleeve and produces a bouquet of flowers from it]\n"
+  },
+  {
+    "input": "You see, in this world, things aren't... what they seam. [pulls out a wand from his sleeve and produces a bouquet of flowers from it]\n",
+    "output": "[now on edge] Aghah. Okay, stop! Stooop!\n"
+  },
+  {
+    "input": "[now on edge] Aghah. Okay, stop! Stooop!\n",
+    "output": "Listen to me carefully, Butters. The Oculus Compromise has been streamlined. You can't trust anyone in this reality. Say nothing to no one about the Oculus Rift. If you think they know, they will kill you.\n"
+  },
+  {
+    "input": "Listen to me carefully, Butters. The Oculus Compromise has been streamlined. You can't trust anyone in this reality. Say nothing to no one about the Oculus Rift. If you think they know, they will kill you.\n",
+    "output": "Ah how do you know that?!\n"
+  },
+  {
+    "input": "Ah how do you know that?!\n",
+    "output": "[pressing a buzzer] How would I know that the nurse is about to walk through that door? [hides under the bed]\n"
+  },
+  {
+    "input": "[pressing a buzzer] How would I know that the nurse is about to walk through that door? [hides under the bed]\n",
+    "output": "Everything okay in here?\n"
+  },
+  {
+    "input": "Everything okay in here?\n",
+    "output": "Aaaaah! Yes! Y-yes everything's fine!\n"
+  },
+  {
+    "input": "Aaaaah! Yes! Y-yes everything's fine!\n",
+    "output": "O-kay. [turns around and walks out. Cartman comes out from the window side of the bed]\n"
+  },
+  {
+    "input": "O-kay. [turns around and walks out. Cartman comes out from the window side of the bed]\n",
+    "output": "Butters.\n"
+  },
+  {
+    "input": "Butters.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I'm gonna get you back to reality, Butters. But you have to give me time! I've gotta go. The Orion parameters are embellishing. Just stay quiet! [performs another trick in which he gets a coin inside a glass bottle... and succeeds]\n"
+  },
+  {
+    "input": "I'm gonna get you back to reality, Butters. But you have to give me time! I've gotta go. The Orion parameters are embellishing. Just stay quiet! [performs another trick in which he gets a coin inside a glass bottle... and succeeds]\n",
+    "output": "[thoroughly scared, shuts his eyes] AAAAAAHAHAH! [he opens them moments later and Cartman is gone.]\n[The bus stop, next day. The four boys await the bus. Kyle is angry at Cartman]\n"
+  },
+  {
+    "input": "[thoroughly scared, shuts his eyes] AAAAAAHAHAH! [he opens them moments later and Cartman is gone.]\n[The bus stop, next day. The four boys await the bus. Kyle is angry at Cartman]\n",
+    "output": "Well? Are you happy, Cartman? Butters is completely traumatized!\n"
+  },
+  {
+    "input": "Well? Are you happy, Cartman? Butters is completely traumatized!\n",
+    "output": "I'm happy that I totally got away with it. [gets a call] What's a 911 area code? Hello?\n"
+  },
+  {
+    "input": "I'm happy that I totally got away with it. [gets a call] What's a 911 area code? Hello?\n",
+    "output": "Hello, Eric. My name is Steve from Oculus Customer Service. There seems to be an error with our virtual headsets, and on behalf of the company, I would like to apologize and try to help.\n"
+  },
+  {
+    "input": "Hello, Eric. My name is Steve from Oculus Customer Service. There seems to be an error with our virtual headsets, and on behalf of the company, I would like to apologize and try to help.\n",
+    "output": "With what?\n"
+  },
+  {
+    "input": "With what?\n",
+    "output": "This is going to be very jarring for you, but, there has been a malfunction with the headset you ordered from us. Right now, you're actually in your room at your computer wearing an Oculus headset, but, you're in a coma-like trance, my friend.\n"
+  },
+  {
+    "input": "This is going to be very jarring for you, but, there has been a malfunction with the headset you ordered from us. Right now, you're actually in your room at your computer wearing an Oculus headset, but, you're in a coma-like trance, my friend.\n",
+    "output": "[slowly] Fuck you!\n"
+  },
+  {
+    "input": "[slowly] Fuck you!\n",
+    "output": "I understand your shock, my friend, but you have simply been in the virtual world so long you have forgotten.\n"
+  },
+  {
+    "input": "I understand your shock, my friend, but you have simply been in the virtual world so long you have forgotten.\n",
+    "output": "You should probably listen to him, dude.\n"
+  },
+  {
+    "input": "You should probably listen to him, dude.\n",
+    "output": "Uh huh. 'Cause I thought I was messing with Butters, but I'm actually the one trapped in virtual reality.\n"
+  },
+  {
+    "input": "Uh huh. 'Cause I thought I was messing with Butters, but I'm actually the one trapped in virtual reality.\n",
+    "output": "The people you are talking to are just computer programs, my friend.\n"
+  },
+  {
+    "input": "The people you are talking to are just computer programs, my friend.\n",
+    "output": "Guys, tell him you're not computer programs.\n"
+  },
+  {
+    "input": "Guys, tell him you're not computer programs.\n",
+    "output": "[glances at Stan and Kenny] Maybe we are.\n"
+  },
+  {
+    "input": "[glances at Stan and Kenny] Maybe we are.\n",
+    "output": "[sighs and squeezes his eyes shut for a moment] Kyle, just- don't be a dick right now.\n"
+  },
+  {
+    "input": "[sighs and squeezes his eyes shut for a moment] Kyle, just- don't be a dick right now.\n",
+    "output": "I know this is very hard for you, but we don't have a lot of time.\n"
+  },
+  {
+    "input": "I know this is very hard for you, but we don't have a lot of time.\n",
+    "output": "Do you really think I'm that stupid?! That I believe all of this all along has been me living out some kind of virtual reality fantasy? Fuck you! [Well...]\n[Cartman's room, day. Liane has prepared a glazed burger for Cartman and takes it to his room. She knocks on his door.]\n"
+  },
+  {
+    "input": "Do you really think I'm that stupid?! That I believe all of this all along has been me living out some kind of virtual reality fantasy? Fuck you! [Well...]\n[Cartman's room, day. Liane has prepared a glazed burger for Cartman and takes it to his room. She knocks on his door.]\n",
+    "output": "Eric? Poopsiekins? [hearing no reply, she opens his door and goes in] Eric? [Steve was right. Cartman is at his computer wearing the Oculus headset, in a coma-like trance] Honey, maybe that's enough computer time. It's been about nineteen hours now. [Cartman's left foot twitches] I know you said not to disturb you with your new toy, but Mommy thought maybe you needed to eat? [this time Cartman moves his whole body] All right, I'll just leave it here, hon. [sets the burger next to the computer] I'm turning in for the night. Mommy loves you.[exits and closes the door]\n[Butters' house, next day.]\n"
+  },
+  {
+    "input": "Eric? Poopsiekins? [hearing no reply, she opens his door and goes in] Eric? [Steve was right. Cartman is at his computer wearing the Oculus headset, in a coma-like trance] Honey, maybe that's enough computer time. It's been about nineteen hours now. [Cartman's left foot twitches] I know you said not to disturb you with your new toy, but Mommy thought maybe you needed to eat? [this time Cartman moves his whole body] All right, I'll just leave it here, hon. [sets the burger next to the computer] I'm turning in for the night. Mommy loves you.[exits and closes the door]\n[Butters' house, next day.]\n",
+    "output": "What kind of person did we raise you to be?! You think this world is just there for your amusement?! You are not to leave this room, and you are not allowed to use the phone or the computer!\n"
+  },
+  {
+    "input": "What kind of person did we raise you to be?! You think this world is just there for your amusement?! You are not to leave this room, and you are not allowed to use the phone or the computer!\n",
+    "output": "Please! You can't do that! I have to find a way out of this!\n"
+  },
+  {
+    "input": "Please! You can't do that! I have to find a way out of this!\n",
+    "output": "Oh no, mister. You are GROUNDED! [Butters recoils and Stephen slams the door shut. Butters turns around and goes to sit on the floor beside his bed. The door opens and Cartman enters]\n"
+  },
+  {
+    "input": "Oh no, mister. You are GROUNDED! [Butters recoils and Stephen slams the door shut. Butters turns around and goes to sit on the floor beside his bed. The door opens and Cartman enters]\n",
+    "output": "Are you fucking with me?!\n"
+  },
+  {
+    "input": "Are you fucking with me?!\n",
+    "output": "...What? What do you mean?\n"
+  },
+  {
+    "input": "...What? What do you mean?\n",
+    "output": "Butters, I'm seriously! Are you fucking with me?!\n"
+  },
+  {
+    "input": "Butters, I'm seriously! Are you fucking with me?!\n",
+    "output": "I don't know what you mean.\n"
+  },
+  {
+    "input": "I don't know what you mean.\n",
+    "output": "Because if you are, it's not cool!\n"
+  },
+  {
+    "input": "Because if you are, it's not cool!\n",
+    "output": "Eric, you said you were going to get me out of this virtual world!\n"
+  },
+  {
+    "input": "Eric, you said you were going to get me out of this virtual world!\n",
+    "output": "Butters, I talked to Oculus Customer Service, and they said I'm the one who's wearing a headset and has forgotten he's in virtual reality!\n"
+  },
+  {
+    "input": "Butters, I talked to Oculus Customer Service, and they said I'm the one who's wearing a headset and has forgotten he's in virtual reality!\n",
+    "output": "Oh really? Oh, that's a relief.\n"
+  },
+  {
+    "input": "Oh really? Oh, that's a relief.\n",
+    "output": "Oh it's a relief, huh?! Well guess what, Butters! If I'm the one trapped in virtual reality, that means you're nothing but a computer program!\n"
+  },
+  {
+    "input": "Oh it's a relief, huh?! Well guess what, Butters! If I'm the one trapped in virtual reality, that means you're nothing but a computer program!\n",
+    "output": "Oh gosh!\n"
+  },
+  {
+    "input": "Oh gosh!\n",
+    "output": "That's right!\n"
+  },
+  {
+    "input": "That's right!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "THAT'S RIGHT! And you'd better stop messin' around, Butters, so I can help you out of this! Because you know how I said if you die in virtual reality you die in real life?\n"
+  },
+  {
+    "input": "THAT'S RIGHT! And you'd better stop messin' around, Butters, so I can help you out of this! Because you know how I said if you die in virtual reality you die in real life?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Well if you get grounded in virtual reality, you get grounded in real life too... FOREVER! [Butters is alarmed]\n[The neighborhood park, day. Stan and Kyle are playing tether-ball near the restrooms. Kyle's phone rings]\n"
+  },
+  {
+    "input": "Well if you get grounded in virtual reality, you get grounded in real life too... FOREVER! [Butters is alarmed]\n[The neighborhood park, day. Stan and Kyle are playing tether-ball near the restrooms. Kyle's phone rings]\n",
+    "output": "[answers] Hello?\n"
+  },
+  {
+    "input": "[answers] Hello?\n",
+    "output": "Kyle, it's Butters. I've been grounded!\n"
+  },
+  {
+    "input": "Kyle, it's Butters. I've been grounded!\n",
+    "output": "Again?\n"
+  },
+  {
+    "input": "Again?\n",
+    "output": "No no, you don't understand. This time I've been grounded for no good reason! I didn't do anything, Kyle!\n"
+  },
+  {
+    "input": "No no, you don't understand. This time I've been grounded for no good reason! I didn't do anything, Kyle!\n",
+    "output": "Uh huh.\n"
+  },
+  {
+    "input": "Uh huh.\n",
+    "output": "I think there's somethin' supernatural goin' on. I asked my dad why I was being grounded, and he said that for asking him, that I was more grounded! It doesn't make sense!\n"
+  },
+  {
+    "input": "I think there's somethin' supernatural goin' on. I asked my dad why I was being grounded, and he said that for asking him, that I was more grounded! It doesn't make sense!\n",
+    "output": "Butters, Butters, I'm, I'm kind of super busy right now.\n"
+  },
+  {
+    "input": "Butters, Butters, I'm, I'm kind of super busy right now.\n",
+    "output": "PLEASE! Just go to Cartman's house. I think the answer might be within the-\n"
+  },
+  {
+    "input": "PLEASE! Just go to Cartman's house. I think the answer might be within the-\n",
+    "output": "Butters?! Who is that?!\n"
+  },
+  {
+    "input": "Butters?! Who is that?!\n",
+    "output": "Ahhh! Wuhhhh! Ahhh- [Kyle looks concerned and hangs up]\n"
+  },
+  {
+    "input": "Ahhh! Wuhhhh! Ahhh- [Kyle looks concerned and hangs up]\n",
+    "output": "[runs up to Stan and Kyle, panicked] (You guys! You guys, oh shit, come check this out!)\n[Cartman's room. Kenny leads Stan and Kyle inside over to Cartman, who is still passed out wearing the Oculus headset]\n"
+  },
+  {
+    "input": "[runs up to Stan and Kyle, panicked] (You guys! You guys, oh shit, come check this out!)\n[Cartman's room. Kenny leads Stan and Kyle inside over to Cartman, who is still passed out wearing the Oculus headset]\n",
+    "output": "(You see? Look at all this dried up food. He must have been here for days!)\n"
+  },
+  {
+    "input": "(You see? Look at all this dried up food. He must have been here for days!)\n",
+    "output": "You found Cartman like this and you think he's somehow trapped in virtual reality?\n"
+  },
+  {
+    "input": "You found Cartman like this and you think he's somehow trapped in virtual reality?\n",
+    "output": "(Yeah!)\n"
+  },
+  {
+    "input": "(Yeah!)\n",
+    "output": "[slowly] Fuck you!\n"
+  },
+  {
+    "input": "[slowly] Fuck you!\n",
+    "output": "[taken aback] (What??)\n"
+  },
+  {
+    "input": "[taken aback] (What??)\n",
+    "output": "Get up, Cartman!\n"
+  },
+  {
+    "input": "Get up, Cartman!\n",
+    "output": "[angry] (This isn't a prank, Kyle!)\n"
+  },
+  {
+    "input": "[angry] (This isn't a prank, Kyle!)\n",
+    "output": "Okay, then let's take him to the hospital. You hear that, fatso?! [shakes Cartman's chair] You're goin' to the hospital!\n"
+  },
+  {
+    "input": "Okay, then let's take him to the hospital. You hear that, fatso?! [shakes Cartman's chair] You're goin' to the hospital!\n",
+    "output": "Kyle, maybe this is for real.\n"
+  },
+  {
+    "input": "Kyle, maybe this is for real.\n",
+    "output": "[looks back at Stan, then turns around to face him] Fuck you if you're in on this.\n"
+  },
+  {
+    "input": "[looks back at Stan, then turns around to face him] Fuck you if you're in on this.\n",
+    "output": "In on what? [thinks a moment...] Ohh, [slowly] Fuck you!\n[The customer service center in India]\n"
+  },
+  {
+    "input": "In on what? [thinks a moment...] Ohh, [slowly] Fuck you!\n[The customer service center in India]\n",
+    "output": "Yes, no, sorry, but because you bought two business-class tickets I can NOT refund the fares. [listens to the response] That's right, there is nothing we can do. All right. Have I answered all your customer concerns in a timely, polite manner? Thank you for calling Korean Airlines Customer Service. [clicks to the next caller] El Pollo Loco Customer Service, this is Steve.\n"
+  },
+  {
+    "input": "Yes, no, sorry, but because you bought two business-class tickets I can NOT refund the fares. [listens to the response] That's right, there is nothing we can do. All right. Have I answered all your customer concerns in a timely, polite manner? Thank you for calling Korean Airlines Customer Service. [clicks to the next caller] El Pollo Loco Customer Service, this is Steve.\n",
+    "output": "Oh. Ah, we're trying to reach Oculus Customer Service.\n"
+  },
+  {
+    "input": "Oh. Ah, we're trying to reach Oculus Customer Service.\n",
+    "output": "Oh, yes, ah, yes my friend. [clicks again] Oculus Customer Service, this is Steve.\n"
+  },
+  {
+    "input": "Oh, yes, ah, yes my friend. [clicks again] Oculus Customer Service, this is Steve.\n",
+    "output": "Yeah, our friend has been missing for a few days, so we went and checked on him, and he's in a coma wearing your headset.\n"
+  },
+  {
+    "input": "Yeah, our friend has been missing for a few days, so we went and checked on him, and he's in a coma wearing your headset.\n",
+    "output": "Ohh yehhs, yes. What is your name please?\n"
+  },
+  {
+    "input": "Ohh yehhs, yes. What is your name please?\n",
+    "output": "Kyle.\n"
+  },
+  {
+    "input": "Kyle.\n",
+    "output": "Kyle. I need to advise you that this call may be recorded to help with better customer service in the future. Is that agreeable to you?\n"
+  },
+  {
+    "input": "Kyle. I need to advise you that this call may be recorded to help with better customer service in the future. Is that agreeable to you?\n",
+    "output": "I don't care!\n"
+  },
+  {
+    "input": "I don't care!\n",
+    "output": "He doesn't care! I can continue! All right, listen very carefully my friend. The headsets we sold you are having some minor problems.\n"
+  },
+  {
+    "input": "He doesn't care! I can continue! All right, listen very carefully my friend. The headsets we sold you are having some minor problems.\n",
+    "output": "You mean he's actually stuck in virtual reality?!\n"
+  },
+  {
+    "input": "You mean he's actually stuck in virtual reality?!\n",
+    "output": "Yes. And that is why we are trying to locate all the headsets and do a recall. Do you understand? It is a Total Recall.\n"
+  },
+  {
+    "input": "Yes. And that is why we are trying to locate all the headsets and do a recall. Do you understand? It is a Total Recall.\n",
+    "output": "[rolls his eyes, then slowly] Fuck you!\n"
+  },
+  {
+    "input": "[rolls his eyes, then slowly] Fuck you!\n",
+    "output": "\"Fuck you\" what?\n"
+  },
+  {
+    "input": "\"Fuck you\" what?\n",
+    "output": "He said they're doing a Total Recall.\n"
+  },
+  {
+    "input": "He said they're doing a Total Recall.\n",
+    "output": "Oh fuck you!\n"
+  },
+  {
+    "input": "Oh fuck you!\n",
+    "output": "All right, did I take care of all your customer needs in a timely and satisfactory fashion today?\n"
+  },
+  {
+    "input": "All right, did I take care of all your customer needs in a timely and satisfactory fashion today?\n",
+    "output": "You haven't done anything yet!\n"
+  },
+  {
+    "input": "You haven't done anything yet!\n",
+    "output": "But the customer service - was that reliable? And did I accurately and politely respond to your concerns?\n"
+  },
+  {
+    "input": "But the customer service - was that reliable? And did I accurately and politely respond to your concerns?\n",
+    "output": "We need help! Our friend is in a coma!\n"
+  },
+  {
+    "input": "We need help! Our friend is in a coma!\n",
+    "output": "Uhhh let's see, ah, it looks like... one of you is going to have to put on the Oculus headset and go into the virtual world and convince your friend to get to an access point. Could you try that, my friend? [Kyle looks at his phone, then at the user's manual]\n[South Park, morning. A signal interrupts the scenery twice, but is quickly gone]\n[Cartman's house, living room. Cartman is pacing the living room trying to calm himself]\n"
+  },
+  {
+    "input": "Uhhh let's see, ah, it looks like... one of you is going to have to put on the Oculus headset and go into the virtual world and convince your friend to get to an access point. Could you try that, my friend? [Kyle looks at his phone, then at the user's manual]\n[South Park, morning. A signal interrupts the scenery twice, but is quickly gone]\n[Cartman's house, living room. Cartman is pacing the living room trying to calm himself]\n",
+    "output": "It's okay. Everything is cool. Don't let anyone mess with your head, and it's all going to be fine. You're cool, Eric. You're cool. [the doorbell rings and he answers. It's Kyle.]\n"
+  },
+  {
+    "input": "It's okay. Everything is cool. Don't let anyone mess with your head, and it's all going to be fine. You're cool, Eric. You're cool. [the doorbell rings and he answers. It's Kyle.]\n",
+    "output": "Hey, Cartman, I need to talk to you.\n"
+  },
+  {
+    "input": "Hey, Cartman, I need to talk to you.\n",
+    "output": "I know. Let's go to the backyard. [turns and walks to the backyard. Kyle is quite surprised by Cartman's reaction. Moments later they takes seats at the picnic table out back. A butterfly floats by]\n"
+  },
+  {
+    "input": "I know. Let's go to the backyard. [turns and walks to the backyard. Kyle is quite surprised by Cartman's reaction. Moments later they takes seats at the picnic table out back. A butterfly floats by]\n",
+    "output": "Cartman, I'm going to tell you something, and I need you to believe me, even if it seems impossible.\n"
+  },
+  {
+    "input": "Cartman, I'm going to tell you something, and I need you to believe me, even if it seems impossible.\n",
+    "output": "Okay Kyle.\n"
+  },
+  {
+    "input": "Okay Kyle.\n",
+    "output": "Alright, here it goes. Cartman, you aren't really here.\n"
+  },
+  {
+    "input": "Alright, here it goes. Cartman, you aren't really here.\n",
+    "output": "Mmm. And why do you know that, Kyle?\n"
+  },
+  {
+    "input": "Mmm. And why do you know that, Kyle?\n",
+    "output": "Because I saw you. Okay? In your room, passed out, with a VR headset on. Customer Service said that one of us needed to put on the headset and come get you, and that's why I'm here.\n"
+  },
+  {
+    "input": "Because I saw you. Okay? In your room, passed out, with a VR headset on. Customer Service said that one of us needed to put on the headset and come get you, and that's why I'm here.\n",
+    "output": "[laces his fingers together, with his index fingers making a steeple in front of his lips] Mmmhmm.\n"
+  },
+  {
+    "input": "[laces his fingers together, with his index fingers making a steeple in front of his lips] Mmmhmm.\n",
+    "output": "I know it's hard to believe, but you have to trust me.\n"
+  },
+  {
+    "input": "I know it's hard to believe, but you have to trust me.\n",
+    "output": "And why did the guys send you, Kyle?\n"
+  },
+  {
+    "input": "And why did the guys send you, Kyle?\n",
+    "output": "Www-what do you mean?\n"
+  },
+  {
+    "input": "Www-what do you mean?\n",
+    "output": "Kyle, I want you to brace yourself. This is going to be extremely hard to believe, but you are the one that has been in a coma with a VR headset on.\n"
+  },
+  {
+    "input": "Kyle, I want you to brace yourself. This is going to be extremely hard to believe, but you are the one that has been in a coma with a VR headset on.\n",
+    "output": "Fuck you!\n"
+  },
+  {
+    "input": "Fuck you!\n",
+    "output": "I know it's hard to grasp, Kyle, but I was the one sent by customer service to try and convince you that none of what you've seen is real. You bought the Oculus Rift headset, Kyle.\n"
+  },
+  {
+    "input": "I know it's hard to grasp, Kyle, but I was the one sent by customer service to try and convince you that none of what you've seen is real. You bought the Oculus Rift headset, Kyle.\n",
+    "output": "Don't... do that!\n"
+  },
+  {
+    "input": "Don't... do that!\n",
+    "output": "Calm down.\n"
+  },
+  {
+    "input": "Calm down.\n",
+    "output": "NO! I put your headset on, and came here to-\n"
+  },
+  {
+    "input": "NO! I put your headset on, and came here to-\n",
+    "output": "In virtual reality, yes you did.\n"
+  },
+  {
+    "input": "In virtual reality, yes you did.\n",
+    "output": "No. Then I came into this virtual space.\n"
+  },
+  {
+    "input": "No. Then I came into this virtual space.\n",
+    "output": "You've been in a virtual space all along, Kyle! Think about it: we're arch-rivals! Why would the guys send you in to convince me of anything?!\n"
+  },
+  {
+    "input": "You've been in a virtual space all along, Kyle! Think about it: we're arch-rivals! Why would the guys send you in to convince me of anything?!\n",
+    "output": "Fuck you! Why would they send you in to convince me of anything?!\n"
+  },
+  {
+    "input": "Fuck you! Why would they send you in to convince me of anything?!\n",
+    "output": "[defeated] Fuck!\n[Best Buy, day. A Best Buy rep answers a phone]\n"
+  },
+  {
+    "input": "[defeated] Fuck!\n[Best Buy, day. A Best Buy rep answers a phone]\n",
+    "output": "Thanks for callin' Best Buy. How can I direct your call?\n"
+  },
+  {
+    "input": "Thanks for callin' Best Buy. How can I direct your call?\n",
+    "output": "Yes. My name is Kyle Broflovski. Can you tell me if I purchased an Oculus Rift headset there?\n"
+  },
+  {
+    "input": "Yes. My name is Kyle Broflovski. Can you tell me if I purchased an Oculus Rift headset there?\n",
+    "output": "Or if I did?\n"
+  },
+  {
+    "input": "Or if I did?\n",
+    "output": "Or if you sold one to an \"Eric Cartman\"?\n"
+  },
+  {
+    "input": "Or if you sold one to an \"Eric Cartman\"?\n",
+    "output": "Sir, I'm gonna have to connect you to Customer Service. Hang on a sec. [transfers the call and hangs up. The call now reaches ... Steve!]\n"
+  },
+  {
+    "input": "Sir, I'm gonna have to connect you to Customer Service. Hang on a sec. [transfers the call and hangs up. The call now reaches ... Steve!]\n",
+    "output": "Best Buy Customer Service, this is Steve.\n"
+  },
+  {
+    "input": "Best Buy Customer Service, this is Steve.\n",
+    "output": "[stunned at the familiar voice] Dude... What?\n"
+  },
+  {
+    "input": "[stunned at the familiar voice] Dude... What?\n",
+    "output": "What? [takes the phone from Kyle] Hello?\n"
+  },
+  {
+    "input": "What? [takes the phone from Kyle] Hello?\n",
+    "output": "Yes, hello. This call may be recorded to ensure good customer service in the future.\n"
+  },
+  {
+    "input": "Yes, hello. This call may be recorded to ensure good customer service in the future.\n",
+    "output": "Dude. NOW this is getting weird!\n[The Stotch house, night. Stephen and Linda sit down for dinner]\n"
+  },
+  {
+    "input": "Dude. NOW this is getting weird!\n[The Stotch house, night. Stephen and Linda sit down for dinner]\n",
+    "output": "[loudly] Well, this looks like a lovely meal. Too bad Butters won't be enjoying it. You hear that, mister?! No dinner for you! While you're grounded you can just GO TO BED HUNGRY! Linda, do you remember why Butters is grounded? What, what did he do?\n"
+  },
+  {
+    "input": "[loudly] Well, this looks like a lovely meal. Too bad Butters won't be enjoying it. You hear that, mister?! No dinner for you! While you're grounded you can just GO TO BED HUNGRY! Linda, do you remember why Butters is grounded? What, what did he do?\n",
+    "output": "Oh. I don't know, Stephen, I let you handle all the groundings.\n"
+  },
+  {
+    "input": "Oh. I don't know, Stephen, I let you handle all the groundings.\n",
+    "output": "It's strange. I don't recall him really doing anything particularly bad, and yet... and yet he is grounded. [hears something upstairs] And no bouncing the racquetball either!\n[Cartman's room. Stan and Kenny are the only two in the room, and Kenny's wearing the Oculus Rift. Stan is talking to Customer Service]\n"
+  },
+  {
+    "input": "It's strange. I don't recall him really doing anything particularly bad, and yet... and yet he is grounded. [hears something upstairs] And no bouncing the racquetball either!\n[Cartman's room. Stan and Kenny are the only two in the room, and Kenny's wearing the Oculus Rift. Stan is talking to Customer Service]\n",
+    "output": "No, listen, I called Customer Service because I need help! [the door opens and Cartman and Kyle walk in]\n"
+  },
+  {
+    "input": "No, listen, I called Customer Service because I need help! [the door opens and Cartman and Kyle walk in]\n",
+    "output": "Wait. Stan? [walks up to Stan] Hold on, is this my virtual reality, or Cartman's virtual reality?\n"
+  },
+  {
+    "input": "Wait. Stan? [walks up to Stan] Hold on, is this my virtual reality, or Cartman's virtual reality?\n",
+    "output": "It's neither. I know this might be hard for you to grasp right now, but this is all actually real.\n"
+  },
+  {
+    "input": "It's neither. I know this might be hard for you to grasp right now, but this is all actually real.\n",
+    "output": "Nono, after we found Cartman, I put the headset on and then-\n"
+  },
+  {
+    "input": "Nono, after we found Cartman, I put the headset on and then-\n",
+    "output": "No dude, dude. We've all been here the entire time.\n"
+  },
+  {
+    "input": "No dude, dude. We've all been here the entire time.\n",
+    "output": "Holy shit. Then this is all real. We've all been here from the beginning. Taking turns on the Oculus Rift headset.\n"
+  },
+  {
+    "input": "Holy shit. Then this is all real. We've all been here from the beginning. Taking turns on the Oculus Rift headset.\n",
+    "output": "[still lost] No, you guys. This is virtual reality.\n"
+  },
+  {
+    "input": "[still lost] No, you guys. This is virtual reality.\n",
+    "output": "How do you know?\n"
+  },
+  {
+    "input": "How do you know?\n",
+    "output": "Because... I'm a computer program.\n"
+  },
+  {
+    "input": "Because... I'm a computer program.\n",
+    "output": "God damn it Cartman!\n"
+  },
+  {
+    "input": "God damn it Cartman!\n",
+    "output": "I'm telling you guys, I swear, you have to believe me, I am a computer program. I'm not real.\n"
+  },
+  {
+    "input": "I'm telling you guys, I swear, you have to believe me, I am a computer program. I'm not real.\n",
+    "output": "He's lying.\n"
+  },
+  {
+    "input": "He's lying.\n",
+    "output": "I'm not lying. Go ahead and ask Customer Service.\n"
+  },
+  {
+    "input": "I'm not lying. Go ahead and ask Customer Service.\n",
+    "output": "What was the name of the first person who called you for customer service?\n"
+  },
+  {
+    "input": "What was the name of the first person who called you for customer service?\n",
+    "output": "Ohhh yes yes yes! That I can answer! His name was... But-ters!\n"
+  },
+  {
+    "input": "Ohhh yes yes yes! That I can answer! His name was... But-ters!\n",
+    "output": "Butters called Customer Service first?\n"
+  },
+  {
+    "input": "Butters called Customer Service first?\n",
+    "output": "Have I answered all your questions in a satisfying and courteous manner?\n"
+  },
+  {
+    "input": "Have I answered all your questions in a satisfying and courteous manner?\n",
+    "output": "Come on, we're going to Butters' house! [they leave Kenny behind]\n"
+  },
+  {
+    "input": "Come on, we're going to Butters' house! [they leave Kenny behind]\n",
+    "output": "Hello? My friend? My friend, I believe we are having some technical issues with our phone line. Please hang on, I'm going to call Customer Service.\n[Steve talks to himself]\n"
+  },
+  {
+    "input": "Hello? My friend? My friend, I believe we are having some technical issues with our phone line. Please hang on, I'm going to call Customer Service.\n[Steve talks to himself]\n",
+    "output": "Hello, Customer Service, this is Steve.\n"
+  },
+  {
+    "input": "Hello, Customer Service, this is Steve.\n",
+    "output": "Hello, this is Steve with Customer Service.\n"
+  },
+  {
+    "input": "Hello, this is Steve with Customer Service.\n",
+    "output": "Uhhh, nononono my friend. I am Steve with Customer Service.\n"
+  },
+  {
+    "input": "Uhhh, nononono my friend. I am Steve with Customer Service.\n",
+    "output": "Listen, my friend. This is gong to be very hard to comprehend, but none of what you are seeing is real.\n"
+  },
+  {
+    "input": "Listen, my friend. This is gong to be very hard to comprehend, but none of what you are seeing is real.\n",
+    "output": "...Ohhh, nohhh, nonononononono.\n"
+  },
+  {
+    "input": "...Ohhh, nohhh, nonononononono.\n",
+    "output": "My friend, my friend, a customer who is in virtual reality called Customer Service, and it has created a customer feedback loop. Okay? Here in India we call it a customer feedback vindaloop.\n"
+  },
+  {
+    "input": "My friend, my friend, a customer who is in virtual reality called Customer Service, and it has created a customer feedback loop. Okay? Here in India we call it a customer feedback vindaloop.\n",
+    "output": "[slowly, wagging his left index finger] Ohhh, fuck you!\n"
+  },
+  {
+    "input": "[slowly, wagging his left index finger] Ohhh, fuck you!\n",
+    "output": "Nononononono, do not fuck me, because I am you and then we will just be fucking ourselves. Now, have I provided answers to your questions in a courteous and prompt fashion?\n"
+  },
+  {
+    "input": "Nononononono, do not fuck me, because I am you and then we will just be fucking ourselves. Now, have I provided answers to your questions in a courteous and prompt fashion?\n",
+    "output": "What do you mean have you answered all my questions?! NO! You have not answered ANY questions at ALL!\n"
+  },
+  {
+    "input": "What do you mean have you answered all my questions?! NO! You have not answered ANY questions at ALL!\n",
+    "output": "Nonononono no, listen, listen: if I didn't answer your questions, then we have given bad customer service!\n"
+  },
+  {
+    "input": "Nonononono no, listen, listen: if I didn't answer your questions, then we have given bad customer service!\n",
+    "output": "But you didn't answer any of my questions!\n"
+  },
+  {
+    "input": "But you didn't answer any of my questions!\n",
+    "output": "Well what is more important, my friend? The result, or good customer service?\n[Butters' room, day. He sits on the floor by his bed playing a child's xylophone. The curtains are drawn, but leave a small gap through which the sun shines in]\n"
+  },
+  {
+    "input": "Well what is more important, my friend? The result, or good customer service?\n[Butters' room, day. He sits on the floor by his bed playing a child's xylophone. The curtains are drawn, but leave a small gap through which the sun shines in]\n",
+    "output": "[singing a spiritual] I'm troubled, I'm troubled in mind. If Jesus don't help me I surely will die. [his door opens and Stan, Kyle, and Cartman come in]\n"
+  },
+  {
+    "input": "[singing a spiritual] I'm troubled, I'm troubled in mind. If Jesus don't help me I surely will die. [his door opens and Stan, Kyle, and Cartman come in]\n",
+    "output": "Butters.\n"
+  },
+  {
+    "input": "Butters.\n",
+    "output": "[startled] Huh. But... [stands up] you guys can't be here.\n"
+  },
+  {
+    "input": "[startled] Huh. But... [stands up] you guys can't be here.\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "Because I'm grounded. That means no visitors.\n"
+  },
+  {
+    "input": "Because I'm grounded. That means no visitors.\n",
+    "output": "Butters! When did you call Oculus Rift Customer Service?!\n"
+  },
+  {
+    "input": "Butters! When did you call Oculus Rift Customer Service?!\n",
+    "output": "When we were playing with the Oculus headset. Wuh don't you guys remember? [goes to the bedroom door] We were all messin' around with it. I played with it first, and, and went a little nuts. Uh I forgot I was in virtual reality and I got grounded, and now I'm grounded in real life.\n"
+  },
+  {
+    "input": "When we were playing with the Oculus headset. Wuh don't you guys remember? [goes to the bedroom door] We were all messin' around with it. I played with it first, and, and went a little nuts. Uh I forgot I was in virtual reality and I got grounded, and now I'm grounded in real life.\n",
+    "output": "So now we are in the real world.\n"
+  },
+  {
+    "input": "So now we are in the real world.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "You guys! [the boys look at him] I have accepted the reality that I am just a computer program. The fact is that one of us right now is in a room wearing a VR helmet seeing all this, and it's not me!\n"
+  },
+  {
+    "input": "You guys! [the boys look at him] I have accepted the reality that I am just a computer program. The fact is that one of us right now is in a room wearing a VR helmet seeing all this, and it's not me!\n",
+    "output": "[appears behind him] Butters!\n"
+  },
+  {
+    "input": "[appears behind him] Butters!\n",
+    "output": "[really startled] AAaaghagh!\n"
+  },
+  {
+    "input": "[really startled] AAaaghagh!\n",
+    "output": "What are your friends doing here?!\n"
+  },
+  {
+    "input": "What are your friends doing here?!\n",
+    "output": "Huh I'm sorry Dad!\n"
+  },
+  {
+    "input": "Huh I'm sorry Dad!\n",
+    "output": "Hello, hello my friend, are you still there?\n"
+  },
+  {
+    "input": "Hello, hello my friend, are you still there?\n",
+    "output": "Yes, we're here.\n"
+  },
+  {
+    "input": "Yes, we're here.\n",
+    "output": "Listen carefully, my friend. You are stuck in a paradox. It turns out there are three things you cannot do in virtual reality. You cannot die, you cannot get grounded, and you cannot call Customer Service. This is why you are having problems.\n"
+  },
+  {
+    "input": "Listen carefully, my friend. You are stuck in a paradox. It turns out there are three things you cannot do in virtual reality. You cannot die, you cannot get grounded, and you cannot call Customer Service. This is why you are having problems.\n",
+    "output": "You just don't get it, do you?! What is wrong with you?!\n"
+  },
+  {
+    "input": "You just don't get it, do you?! What is wrong with you?!\n",
+    "output": "[as Stephen chews Butters out, puts some distance between them and himself] Well then how much of what just happened was in virtual reality?\n"
+  },
+  {
+    "input": "[as Stephen chews Butters out, puts some distance between them and himself] Well then how much of what just happened was in virtual reality?\n",
+    "output": "That does not matter! There is only one thing that matters!\n"
+  },
+  {
+    "input": "That does not matter! There is only one thing that matters!\n",
+    "output": "What?! [Stephen unbuckles his belt, Butters holds a hand up]\n"
+  },
+  {
+    "input": "What?! [Stephen unbuckles his belt, Butters holds a hand up]\n",
+    "output": "Have I answered your questions satisfactorily and offered GOOD CUSTOMER SERVICE?!\n"
+  },
+  {
+    "input": "Have I answered your questions satisfactorily and offered GOOD CUSTOMER SERVICE?!\n",
+    "output": "That doesn't make sense! [Stephen takes his belt off. Butters closes his eyes, knowing what's coming]\n"
+  },
+  {
+    "input": "That doesn't make sense! [Stephen takes his belt off. Butters closes his eyes, knowing what's coming]\n",
+    "output": "That's the paradox! Please my friend, please! I am not real! You are not real! Have I answered your questions and provided good customer service?! This call may be recorded! [the boys look at Stephen and Butters as Stephen prepares his belt for a whipping]\n"
+  },
+  {
+    "input": "That's the paradox! Please my friend, please! I am not real! You are not real! Have I answered your questions and provided good customer service?! This call may be recorded! [the boys look at Stephen and Butters as Stephen prepares his belt for a whipping]\n",
+    "output": "Well, you're getting it now!\n"
+  },
+  {
+    "input": "Well, you're getting it now!\n",
+    "output": "Yes! Yes, you have answered all my questions and I am pleased with the customer service I have been provided!! [Stephen disappears, then Butters, then Kyle, then Cartman] You guys? Are you there?\n"
+  },
+  {
+    "input": "Yes! Yes, you have answered all my questions and I am pleased with the customer service I have been provided!! [Stephen disappears, then Butters, then Kyle, then Cartman] You guys? Are you there?\n",
+    "output": "[from a walkie-talkie] We're right here dude. Do you remember now?\n"
+  },
+  {
+    "input": "[from a walkie-talkie] We're right here dude. Do you remember now?\n",
+    "output": "Yeah I remember. I'm heading back to the access point. [leaves Butters' room. Stephen and Linda never really left the dining room table/ Stephen senses a change in mood]\n"
+  },
+  {
+    "input": "Yeah I remember. I'm heading back to the access point. [leaves Butters' room. Stephen and Linda never really left the dining room table/ Stephen senses a change in mood]\n",
+    "output": "Oh my gosh! Linda!\n"
+  },
+  {
+    "input": "Oh my gosh! Linda!\n",
+    "output": "What is it, Stephen?\n"
+  },
+  {
+    "input": "What is it, Stephen?\n",
+    "output": "It's Butters. He's not grounded anymore.\n"
+  },
+  {
+    "input": "It's Butters. He's not grounded anymore.\n",
+    "output": "He's not?\n"
+  },
+  {
+    "input": "He's not?\n",
+    "output": "No. I've I've got to tell him! [leaves his chair and runs up to Butters' room] Butter? Butters! [Butters is on his bed, with the curtains open, asleep]\n"
+  },
+  {
+    "input": "No. I've I've got to tell him! [leaves his chair and runs up to Butters' room] Butter? Butters! [Butters is on his bed, with the curtains open, asleep]\n",
+    "output": "[wakes up] Ahhh, huh?\n"
+  },
+  {
+    "input": "[wakes up] Ahhh, huh?\n",
+    "output": "You can go outside and play, son.\n"
+  },
+  {
+    "input": "You can go outside and play, son.\n",
+    "output": "You... you, you mean ih... [sits up] I'm not grounded?\n"
+  },
+  {
+    "input": "You... you, you mean ih... [sits up] I'm not grounded?\n",
+    "output": "No. I don't know why or how, but... it's over.\n"
+  },
+  {
+    "input": "No. I don't know why or how, but... it's over.\n",
+    "output": "They did it! [hops off his bed] They figured it out! [heads out the door] Whoopie!\n[Cartman's house, later. Stan walks up to the house]\n"
+  },
+  {
+    "input": "They did it! [hops off his bed] They figured it out! [heads out the door] Whoopie!\n[Cartman's house, later. Stan walks up to the house]\n",
+    "output": "Alright, I'm nearing Checkpoint Alpha. You guys still there?\n"
+  },
+  {
+    "input": "Alright, I'm nearing Checkpoint Alpha. You guys still there?\n",
+    "output": "We're here, dude. Just a little further and we can finally end this.\n"
+  },
+  {
+    "input": "We're here, dude. Just a little further and we can finally end this.\n",
+    "output": "[goes upstairs and enters Cartman's room] Okay, I'm back in Cartman's room.\n"
+  },
+  {
+    "input": "[goes upstairs and enters Cartman's room] Okay, I'm back in Cartman's room.\n",
+    "output": "Alright, Stan, just sit down at the computer. [Stan does this]\n"
+  },
+  {
+    "input": "Alright, Stan, just sit down at the computer. [Stan does this]\n",
+    "output": "Alright, dude, take off the headset. [Stan reaches up and removes the headset. At this point the animation switches to live-action. Stan finishes taking off the headset as Cartman, Kyle, and Kenny watch]\n"
+  },
+  {
+    "input": "Alright, dude, take off the headset. [Stan reaches up and removes the headset. At this point the animation switches to live-action. Stan finishes taking off the headset as Cartman, Kyle, and Kenny watch]\n",
+    "output": "Sssoo aside from all the bull crap, what do ya think of the Oculus?\n"
+  },
+  {
+    "input": "Sssoo aside from all the bull crap, what do ya think of the Oculus?\n",
+    "output": "[thoughtfully looking at the headset] It's pretty cool, but the graphics suck.\n[Credits start rolling but after few credits roll there is shot back at Stan's room]\n"
+  }
+]

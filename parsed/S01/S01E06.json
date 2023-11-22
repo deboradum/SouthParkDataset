@@ -1,0 +1,1542 @@
+[
+  {
+    "input": "",
+    "output": "Death\n\n[Stan's House.]\n"
+  },
+  {
+    "input": "Death\n\n[Stan's House.]\n",
+    "output": "Happy Birthday to you, happy birthday to you, happy birthday dear grandpa...\n"
+  },
+  {
+    "input": "Happy Birthday to you, happy birthday to you, happy birthday dear grandpa...\n",
+    "output": "Uhhhhh.\n"
+  },
+  {
+    "input": "Uhhhhh.\n",
+    "output": "...Happy birthday to you.\n"
+  },
+  {
+    "input": "...Happy birthday to you.\n",
+    "output": "Now blow out the candles grandpa.\n[Grandpa blows, but nothing comes out but a low moan.]\n"
+  },
+  {
+    "input": "Now blow out the candles grandpa.\n[Grandpa blows, but nothing comes out but a low moan.]\n",
+    "output": "Hurray!!!\n"
+  },
+  {
+    "input": "Hurray!!!\n",
+    "output": "How's it feel to be 102, paps?\n"
+  },
+  {
+    "input": "How's it feel to be 102, paps?\n",
+    "output": "Shoot me.\n"
+  },
+  {
+    "input": "Shoot me.\n",
+    "output": "Make a wish grandpa.\n"
+  },
+  {
+    "input": "Make a wish grandpa.\n",
+    "output": "I wish I were dead\n"
+  },
+  {
+    "input": "I wish I were dead\n",
+    "output": "Ha, ha, ha, that's our silly grandpa.\n"
+  },
+  {
+    "input": "Ha, ha, ha, that's our silly grandpa.\n",
+    "output": "I'm not being silly! Kill me. I'd do it myself, but I'm too damn old.\n"
+  },
+  {
+    "input": "I'm not being silly! Kill me. I'd do it myself, but I'm too damn old.\n",
+    "output": "Ooh, who wants ice cream with their cake?\n"
+  },
+  {
+    "input": "Ooh, who wants ice cream with their cake?\n",
+    "output": "I will.\n"
+  },
+  {
+    "input": "I will.\n",
+    "output": "Me.\n"
+  },
+  {
+    "input": "Me.\n",
+    "output": "It's eight o'clock, my favorite TV show is on.\n"
+  },
+  {
+    "input": "It's eight o'clock, my favorite TV show is on.\n",
+    "output": "That show's for babies, it's so stupid.\n"
+  },
+  {
+    "input": "That show's for babies, it's so stupid.\n",
+    "output": "Can I eat my cake in the living room mom? Please, can I?\n"
+  },
+  {
+    "input": "Can I eat my cake in the living room mom? Please, can I?\n",
+    "output": "Oh, alright, but take your grandpa with you.\n"
+  },
+  {
+    "input": "Oh, alright, but take your grandpa with you.\n",
+    "output": "Aw, dammit!\n"
+  },
+  {
+    "input": "Aw, dammit!\n",
+    "output": "Language.\n[In front of the TV. Stan has his slice of cake with him.]\n"
+  },
+  {
+    "input": "Language.\n[In front of the TV. Stan has his slice of cake with him.]\n",
+    "output": "And now back to Terrance & Phillip.\n"
+  },
+  {
+    "input": "And now back to Terrance & Phillip.\n",
+    "output": "Hey Terrance, I think I have to fart.\n"
+  },
+  {
+    "input": "Hey Terrance, I think I have to fart.\n",
+    "output": "Wait, before you do, pull my thumb.\n[Phillip pulls, and Terrance lets loose with a juicy fart. They both laugh.]\n"
+  },
+  {
+    "input": "Wait, before you do, pull my thumb.\n[Phillip pulls, and Terrance lets loose with a juicy fart. They both laugh.]\n",
+    "output": "Heheheh hehehe...\n"
+  },
+  {
+    "input": "Heheheh hehehe...\n",
+    "output": "Uhhhhh\n[Grandpa lines a shotgun up to his face, but it leaves a big hole in the picture behind him when he shoots.]\n"
+  },
+  {
+    "input": "Uhhhhh\n[Grandpa lines a shotgun up to his face, but it leaves a big hole in the picture behind him when he shoots.]\n",
+    "output": "Ah, dammit!\n[Stan looks at him.]\n"
+  },
+  {
+    "input": "Ah, dammit!\n[Stan looks at him.]\n",
+    "output": "How would you like to make a dollar Billy?\n"
+  },
+  {
+    "input": "How would you like to make a dollar Billy?\n",
+    "output": "My name's not Billy, grandpa. It's Stan.\n"
+  },
+  {
+    "input": "My name's not Billy, grandpa. It's Stan.\n",
+    "output": "Dammit Billy, do you want a dollar or don't ya?\n"
+  },
+  {
+    "input": "Dammit Billy, do you want a dollar or don't ya?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "Ok. You just have to do one thing for me.\n"
+  },
+  {
+    "input": "Ok. You just have to do one thing for me.\n",
+    "output": "I'm not gonna kill you, grandpa.\n"
+  },
+  {
+    "input": "I'm not gonna kill you, grandpa.\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "'Cause I'll get in trouble.\n"
+  },
+  {
+    "input": "'Cause I'll get in trouble.\n",
+    "output": "I killed my grandpa when I was your age.\n"
+  },
+  {
+    "input": "I killed my grandpa when I was your age.\n",
+    "output": "Leave me alone, grandpa.\n[On the TV there's a fart, and more laughter.]\n"
+  },
+  {
+    "input": "Leave me alone, grandpa.\n[On the TV there's a fart, and more laughter.]\n",
+    "output": "What has America's youth come to? Kids won't even kill their own grandparents.\n[Kyle's House. Ike and Kyle are watching 'Terrance & Phillip']\n"
+  },
+  {
+    "input": "What has America's youth come to? Kids won't even kill their own grandparents.\n[Kyle's House. Ike and Kyle are watching 'Terrance & Phillip']\n",
+    "output": "Hey Terrance, now that you've farted, I think I might fart too.\n[Phillip farts, and they laugh.]\n"
+  },
+  {
+    "input": "Hey Terrance, now that you've farted, I think I might fart too.\n[Phillip farts, and they laugh.]\n",
+    "output": "Ohhh, you farted.\n[Kyle is laughing pretty hard.]\n"
+  },
+  {
+    "input": "Ohhh, you farted.\n[Kyle is laughing pretty hard.]\n",
+    "output": "Kyle, bubbe, what are you watching?\n"
+  },
+  {
+    "input": "Kyle, bubbe, what are you watching?\n",
+    "output": "Hey Phillip, would you like a flower?\n"
+  },
+  {
+    "input": "Hey Phillip, would you like a flower?\n",
+    "output": "I sure would Terrance.\n"
+  },
+  {
+    "input": "I sure would Terrance.\n",
+    "output": "Alrighty then, here's a two-lip.\n[Terrance farts, and they laugh.]\n"
+  },
+  {
+    "input": "Alrighty then, here's a two-lip.\n[Terrance farts, and they laugh.]\n",
+    "output": "What is this?\n[Kyle falls off the armchair laughing.]\n"
+  },
+  {
+    "input": "What is this?\n[Kyle falls off the armchair laughing.]\n",
+    "output": "It's horrible!\n[Kyle gets up off the floor.]\n"
+  },
+  {
+    "input": "It's horrible!\n[Kyle gets up off the floor.]\n",
+    "output": "Dude, it's Terrance & Phillip.\n[Phillip knocks Terrance's head to one side.]\n"
+  },
+  {
+    "input": "Dude, it's Terrance & Phillip.\n[Phillip knocks Terrance's head to one side.]\n",
+    "output": "Take that, you stupid dick.\n"
+  },
+  {
+    "input": "Take that, you stupid dick.\n",
+    "output": "What did he say?\n"
+  },
+  {
+    "input": "What did he say?\n",
+    "output": "You're an asshole, Phillip.\n"
+  },
+  {
+    "input": "You're an asshole, Phillip.\n",
+    "output": "Whatwhatwhaaat?!!?\n[Laughter. She turns the set off.]\n"
+  },
+  {
+    "input": "Whatwhatwhaaat?!!?\n[Laughter. She turns the set off.]\n",
+    "output": "Young man, you are not to watch that show anymore! It's immature toilet humor!\n"
+  },
+  {
+    "input": "Young man, you are not to watch that show anymore! It's immature toilet humor!\n",
+    "output": "But everybody watches Terrance & Phillip.\n[Sheila with her arms akimbo.]\n"
+  },
+  {
+    "input": "But everybody watches Terrance & Phillip.\n[Sheila with her arms akimbo.]\n",
+    "output": "Oh really? Is that so?\n[Cartman's House.]\n"
+  },
+  {
+    "input": "Oh really? Is that so?\n[Cartman's House.]\n",
+    "output": "Oh no, Phillip, looks like you're about to fart.\n"
+  },
+  {
+    "input": "Oh no, Phillip, looks like you're about to fart.\n",
+    "output": "You're exactly right, Terrance. Oh.\n[Fart. Laughter.]\n"
+  },
+  {
+    "input": "You're exactly right, Terrance. Oh.\n[Fart. Laughter.]\n",
+    "output": "Oh no.\n[Laughter.]\n"
+  },
+  {
+    "input": "Oh no.\n[Laughter.]\n",
+    "output": "Ha, ha, ha, that's sweet!\n"
+  },
+  {
+    "input": "Ha, ha, ha, that's sweet!\n",
+    "output": "Eric dear? I just got a call from your friend Kyle's mother. She said that this show is naughty, and might make you a potty mouth.\n"
+  },
+  {
+    "input": "Eric dear? I just got a call from your friend Kyle's mother. She said that this show is naughty, and might make you a potty mouth.\n",
+    "output": "That's a bunch of crap! Kyle's mom is a dirty Jew!\n"
+  },
+  {
+    "input": "That's a bunch of crap! Kyle's mom is a dirty Jew!\n",
+    "output": "Ohhh, okay hon.\n[Stan's House. Stan is going to bed, but before entering he reviews his chores for the morrow. Grandpa has added one more...]\n"
+  },
+  {
+    "input": "Ohhh, okay hon.\n[Stan's House. Stan is going to bed, but before entering he reviews his chores for the morrow. Grandpa has added one more...]\n",
+    "output": "I'm not going to kill you, grandpa!\n"
+  },
+  {
+    "input": "I'm not going to kill you, grandpa!\n",
+    "output": "Ingrate!\n"
+  },
+  {
+    "input": "Ingrate!\n",
+    "output": "Good night, grandpa.\n"
+  },
+  {
+    "input": "Good night, grandpa.\n",
+    "output": "You pompous son of a whore!\n[Mr. Garrison's Class.]\n"
+  },
+  {
+    "input": "You pompous son of a whore!\n[Mr. Garrison's Class.]\n",
+    "output": "Huh huh, I had another ...\n[Cartman punches Kyle on the shoulder.]\n"
+  },
+  {
+    "input": "Huh huh, I had another ...\n[Cartman punches Kyle on the shoulder.]\n",
+    "output": "Ow! What the hell was that for?!\n"
+  },
+  {
+    "input": "Ow! What the hell was that for?!\n",
+    "output": "That's for your stupid mother! She made me miss Terrance & Phillip last night!\n"
+  },
+  {
+    "input": "That's for your stupid mother! She made me miss Terrance & Phillip last night!\n",
+    "output": "Yeah, what's the big idea having your mom call all our moms last night?\n"
+  },
+  {
+    "input": "Yeah, what's the big idea having your mom call all our moms last night?\n",
+    "output": "Well I didn't have her do it. She did it on her own.\n"
+  },
+  {
+    "input": "Well I didn't have her do it. She did it on her own.\n",
+    "output": "Why does this happen every month? It seems like, right around the same time every month, Kyle's mom gets a hair up her ass about something and I always end up getting screwed by it!\n"
+  },
+  {
+    "input": "Why does this happen every month? It seems like, right around the same time every month, Kyle's mom gets a hair up her ass about something and I always end up getting screwed by it!\n",
+    "output": "Children! Children! A certain student's mother called me last night.\n"
+  },
+  {
+    "input": "Children! Children! A certain student's mother called me last night.\n",
+    "output": "[Tauntingly.] Oh, gee, I wonder who's mother that could have been?\n"
+  },
+  {
+    "input": "[Tauntingly.] Oh, gee, I wonder who's mother that could have been?\n",
+    "output": "She informed me that some of you might be watching a, a naughty show called Terrance & Phillip.\n"
+  },
+  {
+    "input": "She informed me that some of you might be watching a, a naughty show called Terrance & Phillip.\n",
+    "output": "Yeahh, woohoo!\n"
+  },
+  {
+    "input": "Yeahh, woohoo!\n",
+    "output": "Watching that show is bad, Mr. Garrison.\n"
+  },
+  {
+    "input": "Watching that show is bad, Mr. Garrison.\n",
+    "output": "That's right, Mr. Hat. Shows like Terrance & Phillip are what we call 'toilet humor'. They don't expand your minds.\n[Silence.]\n"
+  },
+  {
+    "input": "That's right, Mr. Hat. Shows like Terrance & Phillip are what we call 'toilet humor'. They don't expand your minds.\n[Silence.]\n",
+    "output": "You see children, these kind of shows are senseless, vile trash.\n[Kenny walks in.]\n"
+  },
+  {
+    "input": "You see children, these kind of shows are senseless, vile trash.\n[Kenny walks in.]\n",
+    "output": "Kenny, why are you late to class?\n[Kenny hands Mr. Garrison a note. The note reads 'Please excuse me for being late. I have explosive Diarrhea. signed -K']\n"
+  },
+  {
+    "input": "Kenny, why are you late to class?\n[Kenny hands Mr. Garrison a note. The note reads 'Please excuse me for being late. I have explosive Diarrhea. signed -K']\n",
+    "output": "Oh, okay Kenny, be seated.\n[Addressing the class.]\n"
+  },
+  {
+    "input": "Oh, okay Kenny, be seated.\n[Addressing the class.]\n",
+    "output": "Now, as I was saying, the reason that parents of South Park are so upset is because...\n[Kenny is waving his hand frantically.]\n"
+  },
+  {
+    "input": "Now, as I was saying, the reason that parents of South Park are so upset is because...\n[Kenny is waving his hand frantically.]\n",
+    "output": "Yes Kenny, what is it?\n"
+  },
+  {
+    "input": "Yes Kenny, what is it?\n",
+    "output": "(I have to go poop.)\n"
+  },
+  {
+    "input": "(I have to go poop.)\n",
+    "output": "I thought you just came from the bathroom.\n"
+  },
+  {
+    "input": "I thought you just came from the bathroom.\n",
+    "output": "(I did, I gotta go again...)\n"
+  },
+  {
+    "input": "(I did, I gotta go again...)\n",
+    "output": "Okay okay, go ahead.\n[Kenny goes in the restroom.]\n"
+  },
+  {
+    "input": "Okay okay, go ahead.\n[Kenny goes in the restroom.]\n",
+    "output": "As I was saying, you all seem to enjoy this show, even though it isn't based in reality. There's much more to life than two young men farting on each other. And throughout history there have always been shows that have come and gone that have been very bad, and usually they get taken right off the air. You see, you should be spending your time enlightening your minds with more intelligent entertainment.\n[Throughout the lecture, sounds of some serious diarrhea come from the bathroom. The sounds get progressively worse as Kenny moans loudly. Kenny reenters the classroom at the end of the lecture. Kenny sits back at his desk and Stan, reacting to the diarrhea's smell, waves his hand in front of his face.]\n"
+  },
+  {
+    "input": "As I was saying, you all seem to enjoy this show, even though it isn't based in reality. There's much more to life than two young men farting on each other. And throughout history there have always been shows that have come and gone that have been very bad, and usually they get taken right off the air. You see, you should be spending your time enlightening your minds with more intelligent entertainment.\n[Throughout the lecture, sounds of some serious diarrhea come from the bathroom. The sounds get progressively worse as Kenny moans loudly. Kenny reenters the classroom at the end of the lecture. Kenny sits back at his desk and Stan, reacting to the diarrhea's smell, waves his hand in front of his face.]\n",
+    "output": "Whoa! Smells like you slaughtered a cow in there, Kenny!\n"
+  },
+  {
+    "input": "Whoa! Smells like you slaughtered a cow in there, Kenny!\n",
+    "output": "Pay attention children!\n[Pounds on the lectern.]\n"
+  },
+  {
+    "input": "Pay attention children!\n[Pounds on the lectern.]\n",
+    "output": "I'm going to join your parents in requesting that you don't watch Terrance & Phillip any more, ever.\n"
+  },
+  {
+    "input": "I'm going to join your parents in requesting that you don't watch Terrance & Phillip any more, ever.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Not watch Terrance & Phillip ever?\n[Kyle's face drops.]\n"
+  },
+  {
+    "input": "Not watch Terrance & Phillip ever?\n[Kyle's face drops.]\n",
+    "output": "That's right, children. Are there any questions?\n[Stan raises his hand.]\n"
+  },
+  {
+    "input": "That's right, children. Are there any questions?\n[Stan raises his hand.]\n",
+    "output": "Yes, Stanley?\n"
+  },
+  {
+    "input": "Yes, Stanley?\n",
+    "output": "Is it okay to kill somebody if they want you to?\n[After a moment of reflection.]\n"
+  },
+  {
+    "input": "Is it okay to kill somebody if they want you to?\n[After a moment of reflection.]\n",
+    "output": "What, what do you mean?\n"
+  },
+  {
+    "input": "What, what do you mean?\n",
+    "output": "My grandpa keeps asking that I kill him all the time, and sometimes I wonder if I should.\n"
+  },
+  {
+    "input": "My grandpa keeps asking that I kill him all the time, and sometimes I wonder if I should.\n",
+    "output": "Well, then you should. I think that a person has a right to die if they wanna.\n"
+  },
+  {
+    "input": "Well, then you should. I think that a person has a right to die if they wanna.\n",
+    "output": "Really??\n"
+  },
+  {
+    "input": "Really??\n",
+    "output": "Yeah, there's this guy named Jack Leborkian that goes around and murders people that ask him to, and he doesn't get in any trouble at all.\n"
+  },
+  {
+    "input": "Yeah, there's this guy named Jack Leborkian that goes around and murders people that ask him to, and he doesn't get in any trouble at all.\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "Hey, maybe we can get him to Kyle's mom!\n"
+  },
+  {
+    "input": "Hey, maybe we can get him to Kyle's mom!\n",
+    "output": "So, is it okay to assist somebody with suicide, Mr. Garrison?\n"
+  },
+  {
+    "input": "So, is it okay to assist somebody with suicide, Mr. Garrison?\n",
+    "output": "Uh, Stan, I'm not touching that one with a twenty-foot pole.\n"
+  },
+  {
+    "input": "Uh, Stan, I'm not touching that one with a twenty-foot pole.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Kenny runs into the bathroom and releases a large splatter of diarrhea.]\n"
+  },
+  {
+    "input": "[Kenny runs into the bathroom and releases a large splatter of diarrhea.]\n",
+    "output": "(Owww!) [Splatterrrrr!]\n[School Cafeteria.]\n"
+  },
+  {
+    "input": "(Owww!) [Splatterrrrr!]\n[School Cafeteria.]\n",
+    "output": "Man! I can't believe we're gonna miss Terrance & Phillip today. I think I'm already having withdrawal.\n[He starts convulsing and making seizure related sounds.]\n"
+  },
+  {
+    "input": "Man! I can't believe we're gonna miss Terrance & Phillip today. I think I'm already having withdrawal.\n[He starts convulsing and making seizure related sounds.]\n",
+    "output": "Don't worry dude, we can all go watch it at my house. My parents don't get home until late.\n"
+  },
+  {
+    "input": "Don't worry dude, we can all go watch it at my house. My parents don't get home until late.\n",
+    "output": "But won't your grandpa be there?\n"
+  },
+  {
+    "input": "But won't your grandpa be there?\n",
+    "output": "Yeah...\n"
+  },
+  {
+    "input": "Yeah...\n",
+    "output": "Just kill 'im dude, maybe he'll give you some money.\n"
+  },
+  {
+    "input": "Just kill 'im dude, maybe he'll give you some money.\n",
+    "output": "Hello there children.\n"
+  },
+  {
+    "input": "Hello there children.\n",
+    "output": "Hey Chef.\n"
+  },
+  {
+    "input": "Hey Chef.\n",
+    "output": "How's it goin'?\n"
+  },
+  {
+    "input": "How's it goin'?\n",
+    "output": "Bad.\n"
+  },
+  {
+    "input": "Bad.\n",
+    "output": "Why bad?\n"
+  },
+  {
+    "input": "Why bad?\n",
+    "output": "Chef, is it okay to kill your grandpa?\n"
+  },
+  {
+    "input": "Chef, is it okay to kill your grandpa?\n",
+    "output": "You can't kill my grandpa Stan, he's already passed on.\n"
+  },
+  {
+    "input": "You can't kill my grandpa Stan, he's already passed on.\n",
+    "output": "No, I mean, kill my grandpa.\n"
+  },
+  {
+    "input": "No, I mean, kill my grandpa.\n",
+    "output": "No, I don't think that's okay Stan. In fact, I think that's illegal.\n"
+  },
+  {
+    "input": "No, I don't think that's okay Stan. In fact, I think that's illegal.\n",
+    "output": "See, I told you dude.\n"
+  },
+  {
+    "input": "See, I told you dude.\n",
+    "output": "Well, yeah, but what if the grandpa wants to die, cause he's really old, and he's just asking for help?\n"
+  },
+  {
+    "input": "Well, yeah, but what if the grandpa wants to die, cause he's really old, and he's just asking for help?\n",
+    "output": "Yeah, like assisted suicide. What about that?\n[Stops himself twice before responding]\n"
+  },
+  {
+    "input": "Yeah, like assisted suicide. What about that?\n[Stops himself twice before responding]\n",
+    "output": "I don't want to touch that with a forty foot pole.\n"
+  },
+  {
+    "input": "I don't want to touch that with a forty foot pole.\n",
+    "output": "What's the big deal? Why won't anybody talk about this???\n[South Park PTA Meeting.]\n"
+  },
+  {
+    "input": "What's the big deal? Why won't anybody talk about this???\n[South Park PTA Meeting.]\n",
+    "output": "And I myself was not aware of this horrible show until recently. I have a clip to demonstrate exactly what I mean.\n[She puts the tape in and starts the VCR.]\n"
+  },
+  {
+    "input": "And I myself was not aware of this horrible show until recently. I have a clip to demonstrate exactly what I mean.\n[She puts the tape in and starts the VCR.]\n",
+    "output": "Hey Phillip, guess what?\n"
+  },
+  {
+    "input": "Hey Phillip, guess what?\n",
+    "output": "What?\n[Rips a fart.]\n"
+  },
+  {
+    "input": "What?\n[Rips a fart.]\n",
+    "output": "Fart.\n"
+  },
+  {
+    "input": "Fart.\n",
+    "output": "Now apparently, that's supposed to be funny.\n"
+  },
+  {
+    "input": "Now apparently, that's supposed to be funny.\n",
+    "output": "Heh, heh, heh, he farted right on his head, heh heh.\n[Other PTA members stare at Randy in shock. He looks around chagrined.]\n"
+  },
+  {
+    "input": "Heh, heh, heh, he farted right on his head, heh heh.\n[Other PTA members stare at Randy in shock. He looks around chagrined.]\n",
+    "output": "Not allowing our kids to watch this show is not enough. We need to boycott the entire network! All those in favor...\n[Loud, juicy fart comes from the little boys room. Mr. Garrison exits.]\n"
+  },
+  {
+    "input": "Not allowing our kids to watch this show is not enough. We need to boycott the entire network! All those in favor...\n[Loud, juicy fart comes from the little boys room. Mr. Garrison exits.]\n",
+    "output": "Ohh, I think I've caught a touch of the flu from little Kenny this morning. I've got the green apple splatters.\n[Amid peals of laughter.]\n"
+  },
+  {
+    "input": "Ohh, I think I've caught a touch of the flu from little Kenny this morning. I've got the green apple splatters.\n[Amid peals of laughter.]\n",
+    "output": "Ha ha, green apple splatters.\n[Stan's House.]\n"
+  },
+  {
+    "input": "Ha ha, green apple splatters.\n[Stan's House.]\n",
+    "output": "Uhhhh.\n"
+  },
+  {
+    "input": "Uhhhh.\n",
+    "output": "Hi grandpa, I brought my friends over to watch TV, if that's okay.\n"
+  },
+  {
+    "input": "Hi grandpa, I brought my friends over to watch TV, if that's okay.\n",
+    "output": "Billy, help grandpa stick this fork in the outlet.\n"
+  },
+  {
+    "input": "Billy, help grandpa stick this fork in the outlet.\n",
+    "output": "No grandpa, I'll get in trouble.\n"
+  },
+  {
+    "input": "No grandpa, I'll get in trouble.\n",
+    "output": "Kill me, God dammit!\n"
+  },
+  {
+    "input": "Kill me, God dammit!\n",
+    "output": "No, I can't even kill a deer.\n"
+  },
+  {
+    "input": "No, I can't even kill a deer.\n",
+    "output": "Well then, have one of your little friends do it. You can kill me can't ya?\n"
+  },
+  {
+    "input": "Well then, have one of your little friends do it. You can kill me can't ya?\n",
+    "output": "I would never kill somebody... not unless the piss me off.\n[Seizing the opportunity.]\n"
+  },
+  {
+    "input": "I would never kill somebody... not unless the piss me off.\n[Seizing the opportunity.]\n",
+    "output": "Ohh, is that a fact? Well, let me tell you something, Porky. Your mom was over here earlier, and I humped her like a little bitch.\n"
+  },
+  {
+    "input": "Ohh, is that a fact? Well, let me tell you something, Porky. Your mom was over here earlier, and I humped her like a little bitch.\n",
+    "output": "What!\n"
+  },
+  {
+    "input": "What!\n",
+    "output": "That's right.\n"
+  },
+  {
+    "input": "That's right.\n",
+    "output": "Grandpa!\n"
+  },
+  {
+    "input": "Grandpa!\n",
+    "output": "And then, I dug up your great-grandma's skeleton, and had my way with her too.\n"
+  },
+  {
+    "input": "And then, I dug up your great-grandma's skeleton, and had my way with her too.\n",
+    "output": "Hey!\n"
+  },
+  {
+    "input": "Hey!\n",
+    "output": "Choice piece of ass, your great-grandma.\n"
+  },
+  {
+    "input": "Choice piece of ass, your great-grandma.\n",
+    "output": "You piece of crap! I'll kill you!\n"
+  },
+  {
+    "input": "You piece of crap! I'll kill you!\n",
+    "output": "That's the spirit, Tubby.\n[Restraining Cartman.]\n"
+  },
+  {
+    "input": "That's the spirit, Tubby.\n[Restraining Cartman.]\n",
+    "output": "Come on, Cartman, he's just trying to get to you.\n"
+  },
+  {
+    "input": "Come on, Cartman, he's just trying to get to you.\n",
+    "output": "Don't talk about my mom like that!\n[Dragging Cartman away.]\n"
+  },
+  {
+    "input": "Don't talk about my mom like that!\n[Dragging Cartman away.]\n",
+    "output": "We can go watch Terrance & Phillip in the kitchen.\n"
+  },
+  {
+    "input": "We can go watch Terrance & Phillip in the kitchen.\n",
+    "output": "I ever tell you about the time I boofed your dad, Fatso?\n"
+  },
+  {
+    "input": "I ever tell you about the time I boofed your dad, Fatso?\n",
+    "output": "Ah, I can't believe that son of a bitch!\n"
+  },
+  {
+    "input": "Ah, I can't believe that son of a bitch!\n",
+    "output": "Here Cartman, have some Snacky Cakes.\n"
+  },
+  {
+    "input": "Here Cartman, have some Snacky Cakes.\n",
+    "output": "Oooh, Snacky Cakes, god dang.\n"
+  },
+  {
+    "input": "Oooh, Snacky Cakes, god dang.\n",
+    "output": "I don't know what to do dude, my grandpa really wants to die.\n"
+  },
+  {
+    "input": "I don't know what to do dude, my grandpa really wants to die.\n",
+    "output": "I'm telling you, it's okay. Maybe you should ask the Lord for guidance.\n"
+  },
+  {
+    "input": "I'm telling you, it's okay. Maybe you should ask the Lord for guidance.\n",
+    "output": "Hey, yeah!\n[Stan's House, kitchen.]\n"
+  },
+  {
+    "input": "Hey, yeah!\n[Stan's House, kitchen.]\n",
+    "output": "And now, back to 'Jesus and Pals' on South Park Public Access.\n"
+  },
+  {
+    "input": "And now, back to 'Jesus and Pals' on South Park Public Access.\n",
+    "output": "Yea, believe in me and ye shall find peace.\n[Jesus presses a button on the phone.]\n"
+  },
+  {
+    "input": "Yea, believe in me and ye shall find peace.\n[Jesus presses a button on the phone.]\n",
+    "output": "First caller, you're on 'Jesus and Pals'.\n[There's an echo.]\n"
+  },
+  {
+    "input": "First caller, you're on 'Jesus and Pals'.\n[There's an echo.]\n",
+    "output": "Yeah, is this Jesus?\n"
+  },
+  {
+    "input": "Yeah, is this Jesus?\n",
+    "output": "Yes, yes caller, you need to turn your TV down, that's why you're getting that weird feedback.\n"
+  },
+  {
+    "input": "Yes, yes caller, you need to turn your TV down, that's why you're getting that weird feedback.\n",
+    "output": "Oh, sorry.\n[Caller fixes the echo.]\n"
+  },
+  {
+    "input": "Oh, sorry.\n[Caller fixes the echo.]\n",
+    "output": "Uh, this is Martin...\n"
+  },
+  {
+    "input": "Uh, this is Martin...\n",
+    "output": "Martin, from Aspen Park, yes, I know.\n"
+  },
+  {
+    "input": "Martin, from Aspen Park, yes, I know.\n",
+    "output": "How the hell'd you know that?\n"
+  },
+  {
+    "input": "How the hell'd you know that?\n",
+    "output": "Well, maybe because I'm the Son of God, brainiac, now, do you have a question?\n"
+  },
+  {
+    "input": "Well, maybe because I'm the Son of God, brainiac, now, do you have a question?\n",
+    "output": "Uh, yeah, uh, I have this cousin who, who cheated on the SAT's and-\n"
+  },
+  {
+    "input": "Uh, yeah, uh, I have this cousin who, who cheated on the SAT's and-\n",
+    "output": "Tell little Gregory that cheating is lying and lying is wrong, no matter what the circumstance.\n"
+  },
+  {
+    "input": "Tell little Gregory that cheating is lying and lying is wrong, no matter what the circumstance.\n",
+    "output": "Oh, oh, okay, thanks for the advice, Jesus.\n[Jesus presses a button on the phone.]\n"
+  },
+  {
+    "input": "Oh, oh, okay, thanks for the advice, Jesus.\n[Jesus presses a button on the phone.]\n",
+    "output": "Next caller, you're on the air.\n"
+  },
+  {
+    "input": "Next caller, you're on the air.\n",
+    "output": "Jesus?\n"
+  },
+  {
+    "input": "Jesus?\n",
+    "output": "Yes my son?\n"
+  },
+  {
+    "input": "Yes my son?\n",
+    "output": "Jesus, is, is it okay to kill somebody if they ask you to, because they're in a lot of pain, you know, like, assisted suicide, is that okay?\n"
+  },
+  {
+    "input": "Jesus, is, is it okay to kill somebody if they ask you to, because they're in a lot of pain, you know, like, assisted suicide, is that okay?\n",
+    "output": "My son...\n"
+  },
+  {
+    "input": "My son...\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "I'm not touching that with a sixty foot pole.\n[He presses a button on the phone.]\n"
+  },
+  {
+    "input": "I'm not touching that with a sixty foot pole.\n[He presses a button on the phone.]\n",
+    "output": "Next caller.\n"
+  },
+  {
+    "input": "Next caller.\n",
+    "output": "Goddammit!\n"
+  },
+  {
+    "input": "Goddammit!\n",
+    "output": "I heard that.\n"
+  },
+  {
+    "input": "I heard that.\n",
+    "output": "What the hell is wrong with everybody?\n"
+  },
+  {
+    "input": "What the hell is wrong with everybody?\n",
+    "output": "Hey you guys, Terrance & Phillip is on!\n"
+  },
+  {
+    "input": "Hey you guys, Terrance & Phillip is on!\n",
+    "output": "Yeah, hey, do you think we'll get in trouble for watching it?\n"
+  },
+  {
+    "input": "Yeah, hey, do you think we'll get in trouble for watching it?\n",
+    "output": "Kyle, don't be such a butt-hole!\n"
+  },
+  {
+    "input": "Kyle, don't be such a butt-hole!\n",
+    "output": "Yeah, just cause your mom is a stupid bitch doesn't mean the whole world has to suffer.\n"
+  },
+  {
+    "input": "Yeah, just cause your mom is a stupid bitch doesn't mean the whole world has to suffer.\n",
+    "output": "Don't call my mom a bitch, Cartman!\n"
+  },
+  {
+    "input": "Don't call my mom a bitch, Cartman!\n",
+    "output": "Oh, biiitch.\n[Turns around and hoists his ass up to simulate a woman with a big ass.]\n"
+  },
+  {
+    "input": "Oh, biiitch.\n[Turns around and hoists his ass up to simulate a woman with a big ass.]\n",
+    "output": "Your\u2014mom\u2014is--a--bi-bi-bii-biittchh.\n"
+  },
+  {
+    "input": "Your\u2014mom\u2014is--a--bi-bi-bii-biittchh.\n",
+    "output": "And now back to Terrance & Phillip.\n"
+  },
+  {
+    "input": "And now back to Terrance & Phillip.\n",
+    "output": "Hey Phillip, would you like to eat some beans.\n"
+  },
+  {
+    "input": "Hey Phillip, would you like to eat some beans.\n",
+    "output": "Oho yeah, I love beans.\n"
+  },
+  {
+    "input": "Oho yeah, I love beans.\n",
+    "output": "Uh oh, I bet I know what's coming.\n"
+  },
+  {
+    "input": "Uh oh, I bet I know what's coming.\n",
+    "output": "Billy, would you mind holding this for grandpa, please?\n"
+  },
+  {
+    "input": "Billy, would you mind holding this for grandpa, please?\n",
+    "output": "Okay, grandpa, okay. Just get out of the way of the TV.\n"
+  },
+  {
+    "input": "Okay, grandpa, okay. Just get out of the way of the TV.\n",
+    "output": "Hey Phillip, it looks like those beans might make me fart.\n"
+  },
+  {
+    "input": "Hey Phillip, it looks like those beans might make me fart.\n",
+    "output": "Well, don't fart on me, Terrance.\n"
+  },
+  {
+    "input": "Well, don't fart on me, Terrance.\n",
+    "output": "Dude, he's gonna fart on his head again.\n"
+  },
+  {
+    "input": "Dude, he's gonna fart on his head again.\n",
+    "output": "(Oh my God!)\n[Kenny runs to the bathroom.]\n"
+  },
+  {
+    "input": "(Oh my God!)\n[Kenny runs to the bathroom.]\n",
+    "output": "Hey, you're gonna miss it, Kenny.\n[After receiving the dreaded fart.]\n"
+  },
+  {
+    "input": "Hey, you're gonna miss it, Kenny.\n[After receiving the dreaded fart.]\n",
+    "output": "You're such an asshole, Terrance.\n"
+  },
+  {
+    "input": "You're such an asshole, Terrance.\n",
+    "output": "Haha, that I am!\n[Laughter.]\n[Disgusting diarrhea sounds.]\n"
+  },
+  {
+    "input": "Haha, that I am!\n[Laughter.]\n[Disgusting diarrhea sounds.]\n",
+    "output": "(Ow!)\n"
+  },
+  {
+    "input": "(Ow!)\n",
+    "output": "Hurry up Kenny, you're gonna miss the fart.\n[Shelly walks in.]\n"
+  },
+  {
+    "input": "Hurry up Kenny, you're gonna miss the fart.\n[Shelly walks in.]\n",
+    "output": "Jesus! What the hell are you doing?\n"
+  },
+  {
+    "input": "Jesus! What the hell are you doing?\n",
+    "output": "We're not watching Terrance & Phillip, I swear. I, I mean, Cartman was watching it.\n"
+  },
+  {
+    "input": "We're not watching Terrance & Phillip, I swear. I, I mean, Cartman was watching it.\n",
+    "output": "No, I mean, what the hell are you doing to grandpa?!\n[Stan traces the rope and realizes that Grandpa has hung himself, but hasn't died.]\n"
+  },
+  {
+    "input": "No, I mean, what the hell are you doing to grandpa?!\n[Stan traces the rope and realizes that Grandpa has hung himself, but hasn't died.]\n",
+    "output": "Tug - a - little harder, Billy.\n"
+  },
+  {
+    "input": "Tug - a - little harder, Billy.\n",
+    "output": "Aaah!!\n[Releases the rope. Grandpa falls to the ground, landing on his side.]\n"
+  },
+  {
+    "input": "Aaah!!\n[Releases the rope. Grandpa falls to the ground, landing on his side.]\n",
+    "output": "Uh, ow.\n"
+  },
+  {
+    "input": "Uh, ow.\n",
+    "output": "You little jerk!\n[Slugs Stan in the face]\n"
+  },
+  {
+    "input": "You little jerk!\n[Slugs Stan in the face]\n",
+    "output": "You were trying to kill grandpa! I'm telling mom!\n"
+  },
+  {
+    "input": "You were trying to kill grandpa! I'm telling mom!\n",
+    "output": "Dammit! I was so close.\n[Some time later the kids are the ones on television.]\n"
+  },
+  {
+    "input": "Dammit! I was so close.\n[Some time later the kids are the ones on television.]\n",
+    "output": "Four third graders from South Park, Colorado, were found trying to viciously murder an innocent grandfather.\n"
+  },
+  {
+    "input": "Four third graders from South Park, Colorado, were found trying to viciously murder an innocent grandfather.\n",
+    "output": "Boys, how did you get driven so far to the edge? What changed you into such demonic little bastards?\n"
+  },
+  {
+    "input": "Boys, how did you get driven so far to the edge? What changed you into such demonic little bastards?\n",
+    "output": "We didn't know what we were doing. We were just sitting there, watching Terrance & Phillip and...\n"
+  },
+  {
+    "input": "We didn't know what we were doing. We were just sitting there, watching Terrance & Phillip and...\n",
+    "output": "Terrance & Phillip, aha! So it is that show that is to blame.\n[In front of Tom's Rhinoplasty.]\n"
+  },
+  {
+    "input": "Terrance & Phillip, aha! So it is that show that is to blame.\n[In front of Tom's Rhinoplasty.]\n",
+    "output": "These boys minds have been tainted by the garbage on television that they see, and we are fed up!\n"
+  },
+  {
+    "input": "These boys minds have been tainted by the garbage on television that they see, and we are fed up!\n",
+    "output": "Woooo!\n"
+  },
+  {
+    "input": "Woooo!\n",
+    "output": "Huh? Oh god! Oh god!\n[Runs into a Port-a-Potty for some quick relief.]\n"
+  },
+  {
+    "input": "Huh? Oh god! Oh god!\n[Runs into a Port-a-Potty for some quick relief.]\n",
+    "output": "We have to stop this smut from going on the air. We will march to the network and protest until our demands are met. New York, here we come!\n[Sound of a deep, wet, sonorous fart.]\n[In front of Cartoon Central.]\n[Cartoon faces of Tragedy and Comedy adorn the signs.]\n"
+  },
+  {
+    "input": "We have to stop this smut from going on the air. We will march to the network and protest until our demands are met. New York, here we come!\n[Sound of a deep, wet, sonorous fart.]\n[In front of Cartoon Central.]\n[Cartoon faces of Tragedy and Comedy adorn the signs.]\n",
+    "output": "We are spreading the word to this establishment that we demand better television, for our children!\n[Loud cheering from the crowd.]\n"
+  },
+  {
+    "input": "We are spreading the word to this establishment that we demand better television, for our children!\n[Loud cheering from the crowd.]\n",
+    "output": "We want more quality television, like Full House.\n[More cheering.]\n[In line to use the Port-a-Potty.]\n"
+  },
+  {
+    "input": "We want more quality television, like Full House.\n[More cheering.]\n[In line to use the Port-a-Potty.]\n",
+    "output": "Oh, I think you gave me the stomach flu, Mr. Garrison.\n"
+  },
+  {
+    "input": "Oh, I think you gave me the stomach flu, Mr. Garrison.\n",
+    "output": "No, no, it was that little Kenny bastard that gave it to me.\n[The Mayor exits the Port-a-Potty.]\n"
+  },
+  {
+    "input": "No, no, it was that little Kenny bastard that gave it to me.\n[The Mayor exits the Port-a-Potty.]\n",
+    "output": "Whoa, Mayor, you, uh, making gravy in there? Heh, heh, heh, heh.\n"
+  },
+  {
+    "input": "Whoa, Mayor, you, uh, making gravy in there? Heh, heh, heh, heh.\n",
+    "output": "I just had a brown baby boy.\n[Laughter.]\n[Stan's House, in disarray. Kyle is jumping on the sofa, Stan and Cartman are tossing the football, and Kenny is flying a kite.]\n"
+  },
+  {
+    "input": "I just had a brown baby boy.\n[Laughter.]\n[Stan's House, in disarray. Kyle is jumping on the sofa, Stan and Cartman are tossing the football, and Kenny is flying a kite.]\n",
+    "output": "Dude, this is sweet, not having parents around.\n[The others scramble to the sofa and start jumping.]\n"
+  },
+  {
+    "input": "Dude, this is sweet, not having parents around.\n[The others scramble to the sofa and start jumping.]\n",
+    "output": "Yeah, I hope they protest TV shows forever.\n"
+  },
+  {
+    "input": "Yeah, I hope they protest TV shows forever.\n",
+    "output": "Whoopeee!\n"
+  },
+  {
+    "input": "Whoopeee!\n",
+    "output": "Come here Billy, I want to show you something.\n"
+  },
+  {
+    "input": "Come here Billy, I want to show you something.\n",
+    "output": "Aww, do I have to?\n"
+  },
+  {
+    "input": "Aww, do I have to?\n",
+    "output": "Yes you do, you little pecker! I realized that the reason you won't kill me...\n[Stan jumps off and follows Grandpa towards his room.]\n"
+  },
+  {
+    "input": "Yes you do, you little pecker! I realized that the reason you won't kill me...\n[Stan jumps off and follows Grandpa towards his room.]\n",
+    "output": "...is because you don't understand how I feel, Billy, but now I found a way to show you what it feels like to be a grandpa.\n[They both enter, Grandpa shuts the door.]\n"
+  },
+  {
+    "input": "...is because you don't understand how I feel, Billy, but now I found a way to show you what it feels like to be a grandpa.\n[They both enter, Grandpa shuts the door.]\n",
+    "output": "Hey, what are you doing?!\n[Grandpa loads a cassette into a tape player.]\n[Outside the room with Kenny and Cartman]\n"
+  },
+  {
+    "input": "Hey, what are you doing?!\n[Grandpa loads a cassette into a tape player.]\n[Outside the room with Kenny and Cartman]\n",
+    "output": "What are they doing in there?\n"
+  },
+  {
+    "input": "What are they doing in there?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Now, you're about to see what it's like to be as old as me. Are you ready, Billy?\n"
+  },
+  {
+    "input": "Now, you're about to see what it's like to be as old as me. Are you ready, Billy?\n",
+    "output": "Uh, I guess.\n[Grandpa starts the tape, which plays a bit of Muzak that evokes Enya's 'Orinoco Flow (Sail Away)']\n"
+  },
+  {
+    "input": "Uh, I guess.\n[Grandpa starts the tape, which plays a bit of Muzak that evokes Enya's 'Orinoco Flow (Sail Away)']\n",
+    "output": "Okay, you, you can let me out now.\n"
+  },
+  {
+    "input": "Okay, you, you can let me out now.\n",
+    "output": "Not just yet.\n[He turns up the volume.]\n"
+  },
+  {
+    "input": "Not just yet.\n[He turns up the volume.]\n",
+    "output": "Let me out, grandpa!\n[Stan tries to open the door.]\n"
+  },
+  {
+    "input": "Let me out, grandpa!\n[Stan tries to open the door.]\n",
+    "output": "I can't take it anymore, this music is terrible, it's, it's cheesy, but lame and eerily soothing at the same time.\n[Singer]\n"
+  },
+  {
+    "input": "I can't take it anymore, this music is terrible, it's, it's cheesy, but lame and eerily soothing at the same time.\n[Singer]\n",
+    "output": "That's it, now you know what it feels like to be grandpa.\n[Stan falls out of the room, looking very haggard.]\n"
+  },
+  {
+    "input": "That's it, now you know what it feels like to be grandpa.\n[Stan falls out of the room, looking very haggard.]\n",
+    "output": "'Gonna fly, gonna fly, gonna fly'\n[Grandpa turns off the radio and follows.]\n"
+  },
+  {
+    "input": "'Gonna fly, gonna fly, gonna fly'\n[Grandpa turns off the radio and follows.]\n",
+    "output": "Eh, grandpa, I had no idea how bad it was for you. Now I understand.\n"
+  },
+  {
+    "input": "Eh, grandpa, I had no idea how bad it was for you. Now I understand.\n",
+    "output": "So now will you kill me, Billy?\n"
+  },
+  {
+    "input": "So now will you kill me, Billy?\n",
+    "output": "Sure I will grandpa, I will.\n[In front of Cartoon Central, New York.]\n"
+  },
+  {
+    "input": "Sure I will grandpa, I will.\n[In front of Cartoon Central, New York.]\n",
+    "output": "Hehh, it doesn't look like our protest is working.\n"
+  },
+  {
+    "input": "Hehh, it doesn't look like our protest is working.\n",
+    "output": "It'll work, it has to.\n"
+  },
+  {
+    "input": "It'll work, it has to.\n",
+    "output": "Look! It's the president of the network.\n"
+  },
+  {
+    "input": "Look! It's the president of the network.\n",
+    "output": "Ladies and gentlemen, my name is John Warsog, I've prepared a statement for you on behalf of the network.\n[He clears his throat a couple of times.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, my name is John Warsog, I've prepared a statement for you on behalf of the network.\n[He clears his throat a couple of times.]\n",
+    "output": "Fuck you.\n[A slight pause.]\n"
+  },
+  {
+    "input": "Fuck you.\n[A slight pause.]\n",
+    "output": "Thank you ladies and gentlemen. If there are any questions, you may direct them to that brick wall over there.\n[He turns back towards the building.]\n"
+  },
+  {
+    "input": "Thank you ladies and gentlemen. If there are any questions, you may direct them to that brick wall over there.\n[He turns back towards the building.]\n",
+    "output": "Hey, you will not get away with this!\n[He moons the crowd. They gasp in shock. He goes inside and shuts the door.]\n"
+  },
+  {
+    "input": "Hey, you will not get away with this!\n[He moons the crowd. They gasp in shock. He goes inside and shuts the door.]\n",
+    "output": "That does it, no more Mr. Nice Protesters. It's time for 'Plan B'.\n"
+  },
+  {
+    "input": "That does it, no more Mr. Nice Protesters. It's time for 'Plan B'.\n",
+    "output": "Ohho, Carol, where are the Porto-Potties?\n"
+  },
+  {
+    "input": "Ohho, Carol, where are the Porto-Potties?\n",
+    "output": "Over there hon. What, you need to drop some friends off at the pool?\n"
+  },
+  {
+    "input": "Over there hon. What, you need to drop some friends off at the pool?\n",
+    "output": "[Lustily.] Ohhh, yes, indeedy.\n[They laugh.]\n[Outside of Stan's house.]\n"
+  },
+  {
+    "input": "[Lustily.] Ohhh, yes, indeedy.\n[They laugh.]\n[Outside of Stan's house.]\n",
+    "output": "Okay grandpa, all you have to do is sit there. We'll do the rest. [To Kyle.] You got the cow all tied up?\n"
+  },
+  {
+    "input": "Okay grandpa, all you have to do is sit there. We'll do the rest. [To Kyle.] You got the cow all tied up?\n",
+    "output": "Yep, all done.\n"
+  },
+  {
+    "input": "Yep, all done.\n",
+    "output": "'Kay, come on guys.\n[The boys struggle to lift the cow over grandpa's head.]\n"
+  },
+  {
+    "input": "'Kay, come on guys.\n[The boys struggle to lift the cow over grandpa's head.]\n",
+    "output": "Why don't we just shoot him?\n"
+  },
+  {
+    "input": "Why don't we just shoot him?\n",
+    "output": "You dumbass Cartman, it has to look natural, or else we'll all get busted.\n"
+  },
+  {
+    "input": "You dumbass Cartman, it has to look natural, or else we'll all get busted.\n",
+    "output": "Yeah, stupid!\n"
+  },
+  {
+    "input": "Yeah, stupid!\n",
+    "output": "That's good Billy, a little higher now.\n"
+  },
+  {
+    "input": "That's good Billy, a little higher now.\n",
+    "output": "Moooo!\n[In front of Cartoon Central.]\n"
+  },
+  {
+    "input": "Moooo!\n[In front of Cartoon Central.]\n",
+    "output": "The network is not taking us seriously. In the past, people have had to die for what they believed in, and we are prepared to do the same. Ready?\n[Mr. McCormick positions himself in front of a large sling shot.]\n"
+  },
+  {
+    "input": "The network is not taking us seriously. In the past, people have had to die for what they believed in, and we are prepared to do the same. Ready?\n[Mr. McCormick positions himself in front of a large sling shot.]\n",
+    "output": "Mr. McCormick, you shall be a martyr to us all. God Speed. We will not let these corporate half-wits ruin our children's minds. Launch!\n[Mr. McCormick is flung into the front of the Cartoon Central building, splattering into bloody death. The crowd gasps.]\n"
+  },
+  {
+    "input": "Mr. McCormick, you shall be a martyr to us all. God Speed. We will not let these corporate half-wits ruin our children's minds. Launch!\n[Mr. McCormick is flung into the front of the Cartoon Central building, splattering into bloody death. The crowd gasps.]\n",
+    "output": "We will all follow suit, one by one if that's what it takes.\n[Sounds of abdominal pain as people line up to the Porto-potties.]\n[Outside of Stan's house somewhere.]\n"
+  },
+  {
+    "input": "We will all follow suit, one by one if that's what it takes.\n[Sounds of abdominal pain as people line up to the Porto-potties.]\n[Outside of Stan's house somewhere.]\n",
+    "output": "Are you ready, grandpa?\n"
+  },
+  {
+    "input": "Are you ready, grandpa?\n",
+    "output": "Does the pope crap in the woods?\n[Officer Barbrady drives up. He is staring at the scene of a cow dangling above Grandpa by a rope. Stan stands off to the side, knife in hand, ready to cut the rope.]\n"
+  },
+  {
+    "input": "Does the pope crap in the woods?\n[Officer Barbrady drives up. He is staring at the scene of a cow dangling above Grandpa by a rope. Stan stands off to the side, knife in hand, ready to cut the rope.]\n",
+    "output": "7 Mary 5, code 6 - 105 North Avenue 52.\n"
+  },
+  {
+    "input": "7 Mary 5, code 6 - 105 North Avenue 52.\n",
+    "output": "Mooo!\n"
+  },
+  {
+    "input": "Mooo!\n",
+    "output": "Carry on.\n[He starts the car back up and drives away.]\n"
+  },
+  {
+    "input": "Carry on.\n[He starts the car back up and drives away.]\n",
+    "output": "Ok, here we go. Bye grandpa, it was nice knowing you.\n"
+  },
+  {
+    "input": "Ok, here we go. Bye grandpa, it was nice knowing you.\n",
+    "output": "Uhh, cut the damn rope already!\n[Sounds of thunder. Lightning flashes. Death appears and disappears.]\n"
+  },
+  {
+    "input": "Uhh, cut the damn rope already!\n[Sounds of thunder. Lightning flashes. Death appears and disappears.]\n",
+    "output": "What is that?!\n"
+  },
+  {
+    "input": "What is that?!\n",
+    "output": "Well, it, it looks like...\n"
+  },
+  {
+    "input": "Well, it, it looks like...\n",
+    "output": "Death!\n"
+  },
+  {
+    "input": "Death!\n",
+    "output": "Mrrrrr!\n[He points at them.]\n"
+  },
+  {
+    "input": "Mrrrrr!\n[He points at them.]\n",
+    "output": "It's about time you lazy-ass son of a whore.\n[Death approaches grandpa.]\n"
+  },
+  {
+    "input": "It's about time you lazy-ass son of a whore.\n[Death approaches grandpa.]\n",
+    "output": "Come on, let's go.\n[Death continues past grandpa, towards the kids.]\n"
+  },
+  {
+    "input": "Come on, let's go.\n[Death continues past grandpa, towards the kids.]\n",
+    "output": "What the...?\n"
+  },
+  {
+    "input": "What the...?\n",
+    "output": "Hey, he's coming towards us.\n"
+  },
+  {
+    "input": "Hey, he's coming towards us.\n",
+    "output": "Why is Death coming after us?\n"
+  },
+  {
+    "input": "Why is Death coming after us?\n",
+    "output": "Mrrr.\n"
+  },
+  {
+    "input": "Mrrr.\n",
+    "output": "Ahhh!\n[The kids run into Stan's house and towards his room, Death in hot pursuit. Stan struggles to open the door.]\n"
+  },
+  {
+    "input": "Ahhh!\n[The kids run into Stan's house and towards his room, Death in hot pursuit. Stan struggles to open the door.]\n",
+    "output": "Aaaah, runrunruuun!\n[They enter the room. Stan bars the door with his body.]\n"
+  },
+  {
+    "input": "Aaaah, runrunruuun!\n[They enter the room. Stan bars the door with his body.]\n",
+    "output": "Mrrr.\n[Death bangs on the door.]\n"
+  },
+  {
+    "input": "Mrrr.\n[Death bangs on the door.]\n",
+    "output": "What are we gonna do?\n"
+  },
+  {
+    "input": "What are we gonna do?\n",
+    "output": "Mooorrrr!\n[In front of Cartoon Central.]\n"
+  },
+  {
+    "input": "Mooorrrr!\n[In front of Cartoon Central.]\n",
+    "output": "As the day progresses, more and more South Park residents continue to sling shot their bodies into the side of the 'Toon Central building. Toon Central is now under incredible pressure to cancel the show, and has already lost over 20% of their sponsors.\n"
+  },
+  {
+    "input": "As the day progresses, more and more South Park residents continue to sling shot their bodies into the side of the 'Toon Central building. Toon Central is now under incredible pressure to cancel the show, and has already lost over 20% of their sponsors.\n",
+    "output": "Here Carol, I think it's your boy.\n"
+  },
+  {
+    "input": "Here Carol, I think it's your boy.\n",
+    "output": "Oh thanks. What is it Stanley-hon, did you break something?\n"
+  },
+  {
+    "input": "Oh thanks. What is it Stanley-hon, did you break something?\n",
+    "output": "Mom! Death is here, and and he's trying to take us all away with him!\n"
+  },
+  {
+    "input": "Mom! Death is here, and and he's trying to take us all away with him!\n",
+    "output": "Stanley, honey, you need to leave mommy alone, I'm doing something very, very important for your little well-being there.\n"
+  },
+  {
+    "input": "Stanley, honey, you need to leave mommy alone, I'm doing something very, very important for your little well-being there.\n",
+    "output": "Yeah, but, mom!\n"
+  },
+  {
+    "input": "Yeah, but, mom!\n",
+    "output": "Here honey, talk to your father.\n"
+  },
+  {
+    "input": "Here honey, talk to your father.\n",
+    "output": "Did you turn the heat down?\n"
+  },
+  {
+    "input": "Did you turn the heat down?\n",
+    "output": "Dad, Death is coming!\n"
+  },
+  {
+    "input": "Dad, Death is coming!\n",
+    "output": "Keep the thermostat under 70, and take care of your grandfather.\n[He hangs up.]\n[Stan's room. Death is trying to enter.]\n"
+  },
+  {
+    "input": "Keep the thermostat under 70, and take care of your grandfather.\n[He hangs up.]\n[Stan's room. Death is trying to enter.]\n",
+    "output": "Mrrrr!\n"
+  },
+  {
+    "input": "Mrrrr!\n",
+    "output": "Dammit! You know, I think that if parents would spend less time worrying about what their kids watch on TV, and more time worrying about what's going in in their kid's lives, this world would be a much better place.\n"
+  },
+  {
+    "input": "Dammit! You know, I think that if parents would spend less time worrying about what their kids watch on TV, and more time worrying about what's going in in their kid's lives, this world would be a much better place.\n",
+    "output": "Yeah, I think that parents only get so offended by television because the rely on it as a babysitter, and the sole educator of their kids.\n"
+  },
+  {
+    "input": "Yeah, I think that parents only get so offended by television because the rely on it as a babysitter, and the sole educator of their kids.\n",
+    "output": "(You know what I think? Basically, if you let the decision of what you watch stop at the parents' control, then what can you see? It'll stay the same because they'll just get offended although their kids are not delighted with the television series they put on for their kids.)\n"
+  },
+  {
+    "input": "(You know what I think? Basically, if you let the decision of what you watch stop at the parents' control, then what can you see? It'll stay the same because they'll just get offended although their kids are not delighted with the television series they put on for their kids.)\n",
+    "output": "Totally dude.\n"
+  },
+  {
+    "input": "Totally dude.\n",
+    "output": "Good point man.\n"
+  },
+  {
+    "input": "Good point man.\n",
+    "output": "Mrrrr!\n[Death cuts through the door with his scythe.]\n"
+  },
+  {
+    "input": "Mrrrr!\n[Death cuts through the door with his scythe.]\n",
+    "output": "Ahhhh!\n"
+  },
+  {
+    "input": "Ahhhh!\n",
+    "output": "Quick, jump through the window.\n"
+  },
+  {
+    "input": "Quick, jump through the window.\n",
+    "output": "Ehh, eh, ehhhh!\n[Kenny pushes Cartman out the window and follows.]\n"
+  },
+  {
+    "input": "Ehh, eh, ehhhh!\n[Kenny pushes Cartman out the window and follows.]\n",
+    "output": "Mrrrr!\n[South Park Main Street.]\n"
+  },
+  {
+    "input": "Mrrrr!\n[South Park Main Street.]\n",
+    "output": "Aaaah! Aaaah! Aaaah!\n[Death is following the kids on a tricycle. Grandpa tries to keep up on his electric wheelchair.]\n"
+  },
+  {
+    "input": "Aaaah! Aaaah! Aaaah!\n[Death is following the kids on a tricycle. Grandpa tries to keep up on his electric wheelchair.]\n",
+    "output": "Come back here, you pompousy son of a pansy!\n"
+  },
+  {
+    "input": "Come back here, you pompousy son of a pansy!\n",
+    "output": "Aaaah!\n[Kyle sees Death close to Kenny.]\n"
+  },
+  {
+    "input": "Aaaah!\n[Kyle sees Death close to Kenny.]\n",
+    "output": "Don't let him touch you! You die if he touches you!\n"
+  },
+  {
+    "input": "Don't let him touch you! You die if he touches you!\n",
+    "output": "Come over here, you son of a whore!\n[Death ignores him, but something in T.V. World makes Death take a second look. Terrance and Phillip are on TV floating in spacesuits. There are seven screens - a giant central one flanked by three smaller ones on each side.]\n"
+  },
+  {
+    "input": "Come over here, you son of a whore!\n[Death ignores him, but something in T.V. World makes Death take a second look. Terrance and Phillip are on TV floating in spacesuits. There are seven screens - a giant central one flanked by three smaller ones on each side.]\n",
+    "output": "Uhh, oh Terrance? What color is the wind?\n"
+  },
+  {
+    "input": "Uhh, oh Terrance? What color is the wind?\n",
+    "output": "Hmmm, I don't know, why don't you check?\n[Farts. Canned laughter.]\n"
+  },
+  {
+    "input": "Hmmm, I don't know, why don't you check?\n[Farts. Canned laughter.]\n",
+    "output": "Oh, you farted.\n[Death laughs.]\n"
+  },
+  {
+    "input": "Oh, you farted.\n[Death laughs.]\n",
+    "output": "Ohho God.\n[Death is laughing uncontrollably.]\n"
+  },
+  {
+    "input": "Ohho God.\n[Death is laughing uncontrollably.]\n",
+    "output": "Hey Phillip, you know what my space suit smells like?\n"
+  },
+  {
+    "input": "Hey Phillip, you know what my space suit smells like?\n",
+    "output": "No Terrance, why don't you tell me?\n"
+  },
+  {
+    "input": "No Terrance, why don't you tell me?\n",
+    "output": "Well, it smells like, a dirty fart!\n[Laughter. Death laughs.]\n"
+  },
+  {
+    "input": "Well, it smells like, a dirty fart!\n[Laughter. Death laughs.]\n",
+    "output": "[Noticing.] Hey look!\n[After Terrance farts.]\n"
+  },
+  {
+    "input": "[Noticing.] Hey look!\n[After Terrance farts.]\n",
+    "output": "Oh, there's one.\n[The kids go back to watch the show with Death. They are all laughing.]\n[In front of Cartoon Central.]\n"
+  },
+  {
+    "input": "Oh, there's one.\n[The kids go back to watch the show with Death. They are all laughing.]\n[In front of Cartoon Central.]\n",
+    "output": "Hours have passed, and still the die hard South Park parents are killing themselves in front of the 'Toon Central building, one by one. Worse yet, the stomach flu that seems to be going around is...\n[He puts his hand to his earphone.]\n"
+  },
+  {
+    "input": "Hours have passed, and still the die hard South Park parents are killing themselves in front of the 'Toon Central building, one by one. Worse yet, the stomach flu that seems to be going around is...\n[He puts his hand to his earphone.]\n",
+    "output": "Wait, wait, I'm getting word that the president of the network is going to make a statement!\n[The door to Cartoon Central opens. The president emerges wearing a gas-mask.]\n"
+  },
+  {
+    "input": "Wait, wait, I'm getting word that the president of the network is going to make a statement!\n[The door to Cartoon Central opens. The president emerges wearing a gas-mask.]\n",
+    "output": "Wait, wait.\n"
+  },
+  {
+    "input": "Wait, wait.\n",
+    "output": "Ladies and gentlemen, your nazi-esque tactics of trying to stink us out with your rancid feces ... has worked.\n[Shot of a large pile of crap lying in front of the two Porto-potties.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, your nazi-esque tactics of trying to stink us out with your rancid feces ... has worked.\n[Shot of a large pile of crap lying in front of the two Porto-potties.]\n",
+    "output": "Therefore, today we will be officially taking Terrance & Phillip off the network and replacing it with reruns of She's the Sheriff, starring Suzanne Somers.\n[The crowd cheers.]\n"
+  },
+  {
+    "input": "Therefore, today we will be officially taking Terrance & Phillip off the network and replacing it with reruns of She's the Sheriff, starring Suzanne Somers.\n[The crowd cheers.]\n",
+    "output": "Now get away from here, and take your diarrhea with you!\n[The crowd continues to cheer.]\n"
+  },
+  {
+    "input": "Now get away from here, and take your diarrhea with you!\n[The crowd continues to cheer.]\n",
+    "output": "Huh, oh no!\n[He is launched, and he leaves a bloody mess on the sign.]\n"
+  },
+  {
+    "input": "Huh, oh no!\n[He is launched, and he leaves a bloody mess on the sign.]\n",
+    "output": "At last, now we can return to normality.\n[Television store in downtown South Park.]\n"
+  },
+  {
+    "input": "At last, now we can return to normality.\n[Television store in downtown South Park.]\n",
+    "output": "Hey, Phillip.\n"
+  },
+  {
+    "input": "Hey, Phillip.\n",
+    "output": "Yes, Terrance?\n"
+  },
+  {
+    "input": "Yes, Terrance?\n",
+    "output": "Is there a penny stuck in my butt?\n"
+  },
+  {
+    "input": "Is there a penny stuck in my butt?\n",
+    "output": "Well I don't know, Terrance, let me check.\n"
+  },
+  {
+    "input": "Well I don't know, Terrance, let me check.\n",
+    "output": "Uh oh, don't look there, Phillip, you're gonna get farted on.\n[Static appears on the TV, and then a new screen comes up.]\n"
+  },
+  {
+    "input": "Uh oh, don't look there, Phillip, you're gonna get farted on.\n[Static appears on the TV, and then a new screen comes up.]\n",
+    "output": "We interrupt this program to bring you loud static.\n[Loud Static. Death is upset and resumes his mission.]\n"
+  },
+  {
+    "input": "We interrupt this program to bring you loud static.\n[Loud Static. Death is upset and resumes his mission.]\n",
+    "output": "Mrrrrr!\n"
+  },
+  {
+    "input": "Mrrrrr!\n",
+    "output": "Ahhh!\n[South Park Main Street. Death turns and touches Kenny, and Kenny falls over, dead.]\n"
+  },
+  {
+    "input": "Ahhh!\n[South Park Main Street. Death turns and touches Kenny, and Kenny falls over, dead.]\n",
+    "output": "Oh my God, they killed Kenny. You Bastard!!!\n"
+  },
+  {
+    "input": "Oh my God, they killed Kenny. You Bastard!!!\n",
+    "output": "Wow, I guess Death was just coming after Kenny the whole time.\n"
+  },
+  {
+    "input": "Wow, I guess Death was just coming after Kenny the whole time.\n",
+    "output": "Hey, you were supposed to kill me!\n"
+  },
+  {
+    "input": "Hey, you were supposed to kill me!\n",
+    "output": "Mrrr.\n"
+  },
+  {
+    "input": "Mrrr.\n",
+    "output": "That's not fair, Goddammit! My grandpa asked me to kill him and I did it.\n[Death points a cold finger up the street. From a misty haze emerges an incredibly haggard looking ghost of a man.]\n"
+  },
+  {
+    "input": "That's not fair, Goddammit! My grandpa asked me to kill him and I did it.\n[Death points a cold finger up the street. From a misty haze emerges an incredibly haggard looking ghost of a man.]\n",
+    "output": "Whoa!\n"
+  },
+  {
+    "input": "Whoa!\n",
+    "output": "Billllyyyy...\n"
+  },
+  {
+    "input": "Billllyyyy...\n",
+    "output": "Grandpa?\n"
+  },
+  {
+    "input": "Grandpa?\n",
+    "output": "That's right, Billy.\n"
+  },
+  {
+    "input": "That's right, Billy.\n",
+    "output": "My name's not Billy, grandpa. And what's wrong with you? Why do you look all haggard?\n"
+  },
+  {
+    "input": "My name's not Billy, grandpa. And what's wrong with you? Why do you look all haggard?\n",
+    "output": "I asked you to kill me, Billy, but I was wrong. And now I'm forced to spend eternity in limbo.\n"
+  },
+  {
+    "input": "I asked you to kill me, Billy, but I was wrong. And now I'm forced to spend eternity in limbo.\n",
+    "output": "Limbo?\n"
+  },
+  {
+    "input": "Limbo?\n",
+    "output": "I was wrong to put you in that position, Billy, just like you're wrong to put Little Billy in it now. You're so obsessed with ending your life, you're not thinking about what you're doing to his. You must wait to die of natural causes.\n"
+  },
+  {
+    "input": "I was wrong to put you in that position, Billy, just like you're wrong to put Little Billy in it now. You're so obsessed with ending your life, you're not thinking about what you're doing to his. You must wait to die of natural causes.\n",
+    "output": "But I've been waiting for 25 years.\n"
+  },
+  {
+    "input": "But I've been waiting for 25 years.\n",
+    "output": "Let nature run its course, or else end up in limbo. Natural causes Billy, natural causes...\n[Death, Great-great-grandpa and Kenny's ghost fade away into the mist.]\n"
+  },
+  {
+    "input": "Let nature run its course, or else end up in limbo. Natural causes Billy, natural causes...\n[Death, Great-great-grandpa and Kenny's ghost fade away into the mist.]\n",
+    "output": "Come on you guys, let's go home.\n[A rat comes up and takes Kenny's corpse away.]\n[Stan's House.]\n"
+  },
+  {
+    "input": "Come on you guys, let's go home.\n[A rat comes up and takes Kenny's corpse away.]\n[Stan's House.]\n",
+    "output": "Here they are!\n"
+  },
+  {
+    "input": "Here they are!\n",
+    "output": "Well, we did it son, we fought a battle for your well being, and won.\n"
+  },
+  {
+    "input": "Well, we did it son, we fought a battle for your well being, and won.\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "We got Terrance & Phillip taken off the air.\n"
+  },
+  {
+    "input": "We got Terrance & Phillip taken off the air.\n",
+    "output": "You son of a bitch, your mom sucks!\n"
+  },
+  {
+    "input": "You son of a bitch, your mom sucks!\n",
+    "output": "But look what they put on.\n[Turns on the TV.]\n"
+  },
+  {
+    "input": "But look what they put on.\n[Turns on the TV.]\n",
+    "output": "And now back to She's the Sheriff.\n"
+  },
+  {
+    "input": "And now back to She's the Sheriff.\n",
+    "output": "Ohhh, God, No!\n"
+  },
+  {
+    "input": "Ohhh, God, No!\n",
+    "output": "You are the one behind all these shenanigans.\n"
+  },
+  {
+    "input": "You are the one behind all these shenanigans.\n",
+    "output": "Yeah, well you're the stupid ho that started it.\n"
+  },
+  {
+    "input": "Yeah, well you're the stupid ho that started it.\n",
+    "output": "What did he say?\n"
+  },
+  {
+    "input": "What did he say?\n",
+    "output": "Up yours, butt-munch.\n"
+  },
+  {
+    "input": "Up yours, butt-munch.\n",
+    "output": "Whatwhatwhaaat!!!\n[She turns on her heel and takes up her sign.]\n"
+  },
+  {
+    "input": "Whatwhatwhaaat!!!\n[She turns on her heel and takes up her sign.]\n",
+    "output": "Come on everybody, back to New York!\n[The Marshes follow her out the door.]\n"
+  },
+  {
+    "input": "Come on everybody, back to New York!\n[The Marshes follow her out the door.]\n",
+    "output": "Hey Stan, now that Terrance & Phillip has been taken off the air, what are we going to do for entertainment?\n"
+  },
+  {
+    "input": "Hey Stan, now that Terrance & Phillip has been taken off the air, what are we going to do for entertainment?\n",
+    "output": "I don't know. We, we could start breathing gas fumes.\n"
+  },
+  {
+    "input": "I don't know. We, we could start breathing gas fumes.\n",
+    "output": "My uncle says that smoking crack is kinda cool.\n"
+  },
+  {
+    "input": "My uncle says that smoking crack is kinda cool.\n",
+    "output": "Hey, why don't we watch some of those porno movie thingies?\n"
+  },
+  {
+    "input": "Hey, why don't we watch some of those porno movie thingies?\n",
+    "output": "Cool!\n"
+  },
+  {
+    "input": "Cool!\n",
+    "output": "Yeah!\n[Grandpa wheels up wearing a touristy shirt, carrying an Africa brochure.]\n"
+  },
+  {
+    "input": "Yeah!\n[Grandpa wheels up wearing a touristy shirt, carrying an Africa brochure.]\n",
+    "output": "What are you doing grandpa?\n"
+  },
+  {
+    "input": "What are you doing grandpa?\n",
+    "output": "I'm planning a trip to Africa. Did you know that over 400 people are eaten naturally by lions in Africa every year?\n"
+  }
+]

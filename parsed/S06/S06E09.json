@@ -1,0 +1,1218 @@
+[
+  {
+    "input": "",
+    "output": "Free Hat\n\n[The Bijou, day, inside. The four boys are seated in the front row in the nearly empty theater. A couple sits near the back, just three rows behind.]\n"
+  },
+  {
+    "input": "Free Hat\n\n[The Bijou, day, inside. The four boys are seated in the front row in the nearly empty theater. A couple sits near the back, just three rows behind.]\n",
+    "output": "Oh, cool. A preview. [the curtain goes up and the preview, for a PG-rated film, airs]\n"
+  },
+  {
+    "input": "Oh, cool. A preview. [the curtain goes up and the preview, for a PG-rated film, airs]\n",
+    "output": "Coming this summer [those words seem to approach the viewer], it's the classic film that changed America. E.T.: The Extraterrestrial, the new, redone version for 2002. [First, the classic shot of the kids flying across the sky with the moon in the background, then a shot of the kids taking off from the road. The police who are there to stop the kids have walkie-talkies in hand instead of guns.] All the E.T. effects have been digitally upgraded. [a shot of E.T. dressed in drag walking across a room] All the guns have been digitally changed to walkie-talkies. And the word \"TERRORIST\" has been changed to \"HIPPIE.\"\n"
+  },
+  {
+    "input": "Coming this summer [those words seem to approach the viewer], it's the classic film that changed America. E.T.: The Extraterrestrial, the new, redone version for 2002. [First, the classic shot of the kids flying across the sky with the moon in the background, then a shot of the kids taking off from the road. The police who are there to stop the kids have walkie-talkies in hand instead of guns.] All the E.T. effects have been digitally upgraded. [a shot of E.T. dressed in drag walking across a room] All the guns have been digitally changed to walkie-talkies. And the word \"TERRORIST\" has been changed to \"HIPPIE.\"\n",
+    "output": "Aw, dude, why would they do that?\n"
+  },
+  {
+    "input": "Aw, dude, why would they do that?\n",
+    "output": "Yeah, hippies and terrorists are the same thing.\n"
+  },
+  {
+    "input": "Yeah, hippies and terrorists are the same thing.\n",
+    "output": "No, dude. Spielberg changed \"terrorist\" to \"hippie\" to make E.T. more P.C.\n"
+  },
+  {
+    "input": "No, dude. Spielberg changed \"terrorist\" to \"hippie\" to make E.T. more P.C.\n",
+    "output": "That's gay. [next trailer airs. No rating seen]\n"
+  },
+  {
+    "input": "That's gay. [next trailer airs. No rating seen]\n",
+    "output": "Coming this summer, it's the motion picture that changed America. Saving Private Ryan, the RE-RE-RELEASE, where the word \"NAZI\" has been changed to \"PERSONS WITH POLITICAL DIFFERENCES,\" and all their guns have been replaced by walkie-talkies. [a shot of the landing at Normandy, in all its bloody glory, but all the guns are indeed walkie-talkies]\n"
+  },
+  {
+    "input": "Coming this summer, it's the motion picture that changed America. Saving Private Ryan, the RE-RE-RELEASE, where the word \"NAZI\" has been changed to \"PERSONS WITH POLITICAL DIFFERENCES,\" and all their guns have been replaced by walkie-talkies. [a shot of the landing at Normandy, in all its bloody glory, but all the guns are indeed walkie-talkies]\n",
+    "output": "Why the hell do these directors keep updating their movies?\n"
+  },
+  {
+    "input": "Why the hell do these directors keep updating their movies?\n",
+    "output": "And now, for your feature presentation: the classic RE-RE-RE-RELEASE of Star Wars: The Empire Strikes Back.\n"
+  },
+  {
+    "input": "And now, for your feature presentation: the classic RE-RE-RE-RELEASE of Star Wars: The Empire Strikes Back.\n",
+    "output": "Woohoo!\n"
+  },
+  {
+    "input": "Woohoo!\n",
+    "output": "In this version, the word \"WOOKIE\" has been changed to \"HAIR CHALLENGED ANIMAL\" and the entire cast has been digitally replaced by Ewoks.\n"
+  },
+  {
+    "input": "In this version, the word \"WOOKIE\" has been changed to \"HAIR CHALLENGED ANIMAL\" and the entire cast has been digitally replaced by Ewoks.\n",
+    "output": "[first express shock, then anger] AWWWW!!! [they leave their seats.]\n[The Bijou, day, outside. The boys exit the theater.]\n"
+  },
+  {
+    "input": "[first express shock, then anger] AWWWW!!! [they leave their seats.]\n[The Bijou, day, outside. The boys exit the theater.]\n",
+    "output": "Goddamnit, that pisses me off!\n"
+  },
+  {
+    "input": "Goddamnit, that pisses me off!\n",
+    "output": "[they reach the ticket booth] Yeah, we want our money back!\n"
+  },
+  {
+    "input": "[they reach the ticket booth] Yeah, we want our money back!\n",
+    "output": "Sorry, suckers! [quickly rolls the blinds down. The boys turn around]\n"
+  },
+  {
+    "input": "Sorry, suckers! [quickly rolls the blinds down. The boys turn around]\n",
+    "output": "You asshole! [turns around and catches up with the other boys]\n"
+  },
+  {
+    "input": "You asshole! [turns around and catches up with the other boys]\n",
+    "output": "Why don't they leave those movies alone? We liked them the way they were!\n"
+  },
+  {
+    "input": "Why don't they leave those movies alone? We liked them the way they were!\n",
+    "output": "Don't you see what this means? All our favorite movies are going to be changed, and updated, until we can't even recognize them anymore.\n"
+  },
+  {
+    "input": "Don't you see what this means? All our favorite movies are going to be changed, and updated, until we can't even recognize them anymore.\n",
+    "output": "Tweek is right. It isn't fair for those asshole directors to keep changing their movies and making them different! Movies are art, and art shouldn't be modified!\n"
+  },
+  {
+    "input": "Tweek is right. It isn't fair for those asshole directors to keep changing their movies and making them different! Movies are art, and art shouldn't be modified!\n",
+    "output": "Yeah, what if they had modified the Roman Coliseum every year? It would just be another big douchey stadium now.\n"
+  },
+  {
+    "input": "Yeah, what if they had modified the Roman Coliseum every year? It would just be another big douchey stadium now.\n",
+    "output": "We have to do something. Let's form a club.\n"
+  },
+  {
+    "input": "We have to do something. Let's form a club.\n",
+    "output": "Yeah! We can form a club that takes food stamps from poor people and then sells them back to the government for a profit.\n"
+  },
+  {
+    "input": "Yeah! We can form a club that takes food stamps from poor people and then sells them back to the government for a profit.\n",
+    "output": "No, fatass! I mean a club to protect films from their directors, so they can't be messed with!\n"
+  },
+  {
+    "input": "No, fatass! I mean a club to protect films from their directors, so they can't be messed with!\n",
+    "output": "Yeah. We'll be the \"Save Films From Their Own Directors\" club.\n"
+  },
+  {
+    "input": "Yeah. We'll be the \"Save Films From Their Own Directors\" club.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "NO! Nono, ah I don't wanna form a club! That's too much pressure! Look, ah-I'm supposed to take it easy; just, watch the clouds, sit on the grass. And, if we form a club there'll be responsibilites. Commitments!\n"
+  },
+  {
+    "input": "NO! Nono, ah I don't wanna form a club! That's too much pressure! Look, ah-I'm supposed to take it easy; just, watch the clouds, sit on the grass. And, if we form a club there'll be responsibilites. Commitments!\n",
+    "output": "Tweek, now Goddamnit, we picked you to be our new friend to replace Kenny because we thought you were a team player!\n"
+  },
+  {
+    "input": "Tweek, now Goddamnit, we picked you to be our new friend to replace Kenny because we thought you were a team player!\n",
+    "output": "I'm not! I'm not a team player!\n"
+  },
+  {
+    "input": "I'm not! I'm not a team player!\n",
+    "output": "Now, either you stop with these faggotronics or we'll find someone to replace YOU!\n"
+  },
+  {
+    "input": "Now, either you stop with these faggotronics or we'll find someone to replace YOU!\n",
+    "output": "[giving in] D'oh-ho! Oh Jesus!\n[South Park, later. The boys stand next to a phone pole and Stan nails a sign onto it. He finishes and backs up to have a good look at it.]\n"
+  },
+  {
+    "input": "[giving in] D'oh-ho! Oh Jesus!\n[South Park, later. The boys stand next to a phone pole and Stan nails a sign onto it. He finishes and backs up to have a good look at it.]\n",
+    "output": "Dude, that sign sucks! Nobody's gonna show up!\n"
+  },
+  {
+    "input": "Dude, that sign sucks! Nobody's gonna show up!\n",
+    "output": "Well what's wrong with it?\n"
+  },
+  {
+    "input": "Well what's wrong with it?\n",
+    "output": "Look at it, dude. You're not offering any fabulous prizes. You have to offer fabulous prizes if you want people to show up for your stupid crap. Here. [takes the marker and adds the words \"FRee HAT\" at the very end.]\n"
+  },
+  {
+    "input": "Look at it, dude. You're not offering any fabulous prizes. You have to offer fabulous prizes if you want people to show up for your stupid crap. Here. [takes the marker and adds the words \"FRee HAT\" at the very end.]\n",
+    "output": "\"Free hat?\"\n"
+  },
+  {
+    "input": "\"Free hat?\"\n",
+    "output": "Yeah, if you offer free hats, m-maybe people will show up.\n"
+  },
+  {
+    "input": "Yeah, if you offer free hats, m-maybe people will show up.\n",
+    "output": "But we don't have hats!\n"
+  },
+  {
+    "input": "But we don't have hats!\n",
+    "output": "Well we can just make them out of paper.\n"
+  },
+  {
+    "input": "Well we can just make them out of paper.\n",
+    "output": "Aahh!\n"
+  },
+  {
+    "input": "Aahh!\n",
+    "output": "It's not hard, it's just a stupid little paper hat. People just need free stuff - don't you guys know anything?!\n"
+  },
+  {
+    "input": "It's not hard, it's just a stupid little paper hat. People just need free stuff - don't you guys know anything?!\n",
+    "output": "You see?? First we were just forming a club, now we have to make hats! When does it end??\n"
+  },
+  {
+    "input": "You see?? First we were just forming a club, now we have to make hats! When does it end??\n",
+    "output": "Alright, let's go get the gymnasium ready. Tweek, you go make fifty hats. [walks off with Cartman and Kyle screen right]\n"
+  },
+  {
+    "input": "Alright, let's go get the gymnasium ready. Tweek, you go make fifty hats. [walks off with Cartman and Kyle screen right]\n",
+    "output": "Fifty hats? Oh Jesus! [runs off screen left]\n[Tweek's house, later. He's at his desk in his room frantically making paper hats. His mug of coffee sits off to his left.]\n"
+  },
+  {
+    "input": "Fifty hats? Oh Jesus! [runs off screen left]\n[Tweek's house, later. He's at his desk in his room frantically making paper hats. His mug of coffee sits off to his left.]\n",
+    "output": "Ah! I'll never make it! I'll never make it! [his father happens by and notices the commotion]\n"
+  },
+  {
+    "input": "Ah! I'll never make it! I'll never make it! [his father happens by and notices the commotion]\n",
+    "output": "[approaching with his own mug] Tweek!\n"
+  },
+  {
+    "input": "[approaching with his own mug] Tweek!\n",
+    "output": "[shrieks] Hrrr!\n"
+  },
+  {
+    "input": "[shrieks] Hrrr!\n",
+    "output": "Calm down, son. Remember what Dr. Norris told you. Find your center.\n"
+  },
+  {
+    "input": "Calm down, son. Remember what Dr. Norris told you. Find your center.\n",
+    "output": "My center. My... center. [closes his eyes and cups his chest] Calm. [enters a state of meditation. Richard turns and leaves, his cup stays] Puppies. [he finds himself sitting in the Lotus position by the side of a serene stream in a lovely meadow. All kinds of animals frolic around him, and a small Buddhist temple sits in the background]\n"
+  },
+  {
+    "input": "My center. My... center. [closes his eyes and cups his chest] Calm. [enters a state of meditation. Richard turns and leaves, his cup stays] Puppies. [he finds himself sitting in the Lotus position by the side of a serene stream in a lovely meadow. All kinds of animals frolic around him, and a small Buddhist temple sits in the background]\n",
+    "output": "[enormous face appearing over the clouds] Tweek! [brushes the clouds away with his hands] TWEEK!! [Tweek opens his eyes] TWEEK!!\n"
+  },
+  {
+    "input": "[enormous face appearing over the clouds] Tweek! [brushes the clouds away with his hands] TWEEK!! [Tweek opens his eyes] TWEEK!!\n",
+    "output": "[comes out of his meditation] Gaaaaah!\n"
+  },
+  {
+    "input": "[comes out of his meditation] Gaaaaah!\n",
+    "output": "How many hats have you made?\n"
+  },
+  {
+    "input": "How many hats have you made?\n",
+    "output": "Oh God!\n"
+  },
+  {
+    "input": "Oh God!\n",
+    "output": "We only have until 10 a.m. tomorrow! [slaps him hard across the back.] Get the lead out!\n"
+  },
+  {
+    "input": "We only have until 10 a.m. tomorrow! [slaps him hard across the back.] Get the lead out!\n",
+    "output": "Aaaah! Oh God! [Cartman turns and walks out, a rattled Tweek resumes making the hats.]\n[South Park Elementary gymnasium, next day. Stan, Kyle, and Cartman stand outside the doors waiting for Tweek, who rushes up to them with a box of hats. A poster behind them seems to have fallen off the wall.]\n"
+  },
+  {
+    "input": "Aaaah! Oh God! [Cartman turns and walks out, a rattled Tweek resumes making the hats.]\n[South Park Elementary gymnasium, next day. Stan, Kyle, and Cartman stand outside the doors waiting for Tweek, who rushes up to them with a box of hats. A poster behind them seems to have fallen off the wall.]\n",
+    "output": "You guys, we have a big problem!\n"
+  },
+  {
+    "input": "You guys, we have a big problem!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I was up, all night, making hats. I only slept for an hour, ...and then I dreamt about making hats, but I only made fifteen!\n"
+  },
+  {
+    "input": "I was up, all night, making hats. I only slept for an hour, ...and then I dreamt about making hats, but I only made fifteen!\n",
+    "output": "Calm down, Tweek. Fifteen might be enough.\n"
+  },
+  {
+    "input": "Calm down, Tweek. Fifteen might be enough.\n",
+    "output": "Yeah, let's see if anyone has even shown up yet. [turns and opens the door, then peeks in. The place is packed. All the bleachers are filled, and there are five rows of people standing on the gym floor. He backs out, closes the door, and turns to his friends] Dude, there's like a thousand people in there!\n"
+  },
+  {
+    "input": "Yeah, let's see if anyone has even shown up yet. [turns and opens the door, then peeks in. The place is packed. All the bleachers are filled, and there are five rows of people standing on the gym floor. He backs out, closes the door, and turns to his friends] Dude, there's like a thousand people in there!\n",
+    "output": "A thousand? [freaks out] Oh Jesus man! I don't have nearly a thousand hats!\n"
+  },
+  {
+    "input": "A thousand? [freaks out] Oh Jesus man! I don't have nearly a thousand hats!\n",
+    "output": "They're gonna kick your ass, Tweek!\n"
+  },
+  {
+    "input": "They're gonna kick your ass, Tweek!\n",
+    "output": "Goohoo!\n"
+  },
+  {
+    "input": "Goohoo!\n",
+    "output": "[steps forward] Tweek! It's okay. Look, maybe these people all turned out because they believe in saving films. Maybe they don't even care about the free hats.\n"
+  },
+  {
+    "input": "[steps forward] Tweek! It's okay. Look, maybe these people all turned out because they believe in saving films. Maybe they don't even care about the free hats.\n",
+    "output": "[from inside the gym] Free hat! [Kyle turns right, then left, not believing what he's hearing. Tweek's jaw drops] Free hat! Free hat!\n"
+  },
+  {
+    "input": "[from inside the gym] Free hat! [Kyle turns right, then left, not believing what he's hearing. Tweek's jaw drops] Free hat! Free hat!\n",
+    "output": "[\"Free hat!\"] Oh God!\n"
+  },
+  {
+    "input": "[\"Free hat!\"] Oh God!\n",
+    "output": "[\"Free hat! Free hat! Free hat! Free hat!\"] I told you guys: never underestimate the power of a free hat.\n"
+  },
+  {
+    "input": "[\"Free hat! Free hat! Free hat! Free hat!\"] I told you guys: never underestimate the power of a free hat.\n",
+    "output": "Free hat! Free hat!\n"
+  },
+  {
+    "input": "Free hat! Free hat!\n",
+    "output": "I gotta move away, you guys!\n"
+  },
+  {
+    "input": "I gotta move away, you guys!\n",
+    "output": "Relax, Tweek, we're just gonna have to go in there and explain what happened. There are more important things right now than free hats.\n[The school gym, inside. The crowd jumps up and cheers as the four boys enter and climb onstage. Some of the signs they hold read \"FREE HAT,\" \"FREEDOM FOR HAT NOW!,\" and \"HAT DIDN'T DO IT\".]\n"
+  },
+  {
+    "input": "Relax, Tweek, we're just gonna have to go in there and explain what happened. There are more important things right now than free hats.\n[The school gym, inside. The crowd jumps up and cheers as the four boys enter and climb onstage. Some of the signs they hold read \"FREE HAT,\" \"FREEDOM FOR HAT NOW!,\" and \"HAT DIDN'T DO IT\".]\n",
+    "output": "[takes the mic] Okay, uh, we wanna thank you all for coming. We're really happy to see such enthusiasm for our cause.\n"
+  },
+  {
+    "input": "[takes the mic] Okay, uh, we wanna thank you all for coming. We're really happy to see such enthusiasm for our cause.\n",
+    "output": "Yeah! Yeah!\n"
+  },
+  {
+    "input": "Yeah! Yeah!\n",
+    "output": "Uh, one thing before I continue. Unfortunately we don't have enough of the... free hats for everyone. [the cheering dies down and a voice pipes up]\n"
+  },
+  {
+    "input": "Uh, one thing before I continue. Unfortunately we don't have enough of the... free hats for everyone. [the cheering dies down and a voice pipes up]\n",
+    "output": "Eh- Excuse me?\n"
+  },
+  {
+    "input": "Eh- Excuse me?\n",
+    "output": "[takes the mic] Yes, we apologize, but our friend Tweek here didn't make enough of them.\n"
+  },
+  {
+    "input": "[takes the mic] Yes, we apologize, but our friend Tweek here didn't make enough of them.\n",
+    "output": "Oh! Jesus! Don't tell them it was me!\n"
+  },
+  {
+    "input": "Oh! Jesus! Don't tell them it was me!\n",
+    "output": "[a blonde] We don't care about that.\n"
+  },
+  {
+    "input": "[a blonde] We don't care about that.\n",
+    "output": "You don't?\n"
+  },
+  {
+    "input": "You don't?\n",
+    "output": "You mean, you just came because you believe in our cause?\n"
+  },
+  {
+    "input": "You mean, you just came because you believe in our cause?\n",
+    "output": "Yeah. Free Hat.\n"
+  },
+  {
+    "input": "Yeah. Free Hat.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Hat McCullough. He was sent to prison in '82, and we believe he should be released!\n"
+  },
+  {
+    "input": "Hat McCullough. He was sent to prison in '82, and we believe he should be released!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat!\n"
+  },
+  {
+    "input": "Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat!\n",
+    "output": "Aaaah, [\"Free Ha-\"], okay apparently there's been a bit of a misunderstanding. This is a rally to save films from their directors? [the crowd stops moving]\n"
+  },
+  {
+    "input": "Aaaah, [\"Free Ha-\"], okay apparently there's been a bit of a misunderstanding. This is a rally to save films from their directors? [the crowd stops moving]\n",
+    "output": "To do what?\n"
+  },
+  {
+    "input": "To do what?\n",
+    "output": "We believe that films are pieces of art that must be preserved from the perverse hands of their agent filmmakers...\n"
+  },
+  {
+    "input": "We believe that films are pieces of art that must be preserved from the perverse hands of their agent filmmakers...\n",
+    "output": "Oh. Sorry. Um, come on, everyone, guess we're in the wrong place. [the crowd breaks up and exits]\n"
+  },
+  {
+    "input": "Oh. Sorry. Um, come on, everyone, guess we're in the wrong place. [the crowd breaks up and exits]\n",
+    "output": "Free Hat! Free Hat! Free Hat!\n"
+  },
+  {
+    "input": "Free Hat! Free Hat! Free Hat!\n",
+    "output": "Waitwaitwaitwait! [the crowd stops] Don't you see what's happening out there? The films you all grew up with, that touched YOUR lives and are part of YOUR soul are now being updated and changed. Join us and we CAN be a group that makes a difference!\n"
+  },
+  {
+    "input": "Waitwaitwaitwait! [the crowd stops] Don't you see what's happening out there? The films you all grew up with, that touched YOUR lives and are part of YOUR soul are now being updated and changed. Join us and we CAN be a group that makes a difference!\n",
+    "output": "Can't we also work towards freeing Hat?\n"
+  },
+  {
+    "input": "Can't we also work towards freeing Hat?\n",
+    "output": "Uh, sure, and we'll also try to free Hat.\n"
+  },
+  {
+    "input": "Uh, sure, and we'll also try to free Hat.\n",
+    "output": "Oh yeeaahhh!! Raaaaah!! Woohoo!!\n"
+  },
+  {
+    "input": "Oh yeeaahhh!! Raaaaah!! Woohoo!!\n",
+    "output": "Free Hat! Free Hat! Free Hat!\n[Stan's house, later. Stan, Kyle, and Cartman sit at the dining room table, with Stan counting the sign-ups.]\n"
+  },
+  {
+    "input": "Free Hat! Free Hat! Free Hat!\n[Stan's house, later. Stan, Kyle, and Cartman sit at the dining room table, with Stan counting the sign-ups.]\n",
+    "output": "...212, 213, 214 members!\n"
+  },
+  {
+    "input": "...212, 213, 214 members!\n",
+    "output": "[barges in through the front door] You guys! You guys! Oh God! Um, I've got terrible news!\n"
+  },
+  {
+    "input": "[barges in through the front door] You guys! You guys! Oh God! Um, I've got terrible news!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Ted Koppel wants us to appear on Nightline to talk about our cause.\n"
+  },
+  {
+    "input": "Ted Koppel wants us to appear on Nightline to talk about our cause.\n",
+    "output": "Really? That's great.\n"
+  },
+  {
+    "input": "Really? That's great.\n",
+    "output": "Yah.\n"
+  },
+  {
+    "input": "Yah.\n",
+    "output": "No it isn't, man! Thahat's waaay too much pressure!\n"
+  },
+  {
+    "input": "No it isn't, man! Thahat's waaay too much pressure!\n",
+    "output": "If we go on Nightline, the whole country can hear about what's happening to our classic films.\n"
+  },
+  {
+    "input": "If we go on Nightline, the whole country can hear about what's happening to our classic films.\n",
+    "output": "But just remember that I do all the talking.\n"
+  },
+  {
+    "input": "But just remember that I do all the talking.\n",
+    "output": "You?? Why?\n"
+  },
+  {
+    "input": "You?? Why?\n",
+    "output": "Because I'm the official spokesman. I got dibs on it.\n"
+  },
+  {
+    "input": "Because I'm the official spokesman. I got dibs on it.\n",
+    "output": "When did we do dibs for it?\n"
+  },
+  {
+    "input": "When did we do dibs for it?\n",
+    "output": "Just now - [quickly, counting off with his left hand] 1 2 3 dibs! [punches his right palm with his left fist]\n"
+  },
+  {
+    "input": "Just now - [quickly, counting off with his left hand] 1 2 3 dibs! [punches his right palm with his left fist]\n",
+    "output": "Me.\n"
+  },
+  {
+    "input": "Me.\n",
+    "output": "Ga-ahah!\n"
+  },
+  {
+    "input": "Ga-ahah!\n",
+    "output": "Alright, fine! [points to Cartman] You're the spokesman, Cartman! But you'd better not screw it up!\n"
+  },
+  {
+    "input": "Alright, fine! [points to Cartman] You're the spokesman, Cartman! But you'd better not screw it up!\n",
+    "output": "What could possibly go wrong?\n[Nightline. Ted Koppel is at his desk with the four boys in the inset over his left shoulder.]\n"
+  },
+  {
+    "input": "What could possibly go wrong?\n[Nightline. Ted Koppel is at his desk with the four boys in the inset over his left shoulder.]\n",
+    "output": "A new movement is sweeping the country, led by four determined boys from South Park, Colorado. The organization was created to protect Hollywood's classic films from the hands of their directors. And also to free Hat McCullough. So boys, I ask you the question that's on everyone's minds, why does your organization want to free Hat McCullough, the convicted, confessed serial murderer of twenty-three babies?\n"
+  },
+  {
+    "input": "A new movement is sweeping the country, led by four determined boys from South Park, Colorado. The organization was created to protect Hollywood's classic films from the hands of their directors. And also to free Hat McCullough. So boys, I ask you the question that's on everyone's minds, why does your organization want to free Hat McCullough, the convicted, confessed serial murderer of twenty-three babies?\n",
+    "output": "[blinks and looks at the camera for a long time] ...I believe that can best be answered by our official spokesman, Tweek. [the camera moves from Cartman to Tweek]\n"
+  },
+  {
+    "input": "[blinks and looks at the camera for a long time] ...I believe that can best be answered by our official spokesman, Tweek. [the camera moves from Cartman to Tweek]\n",
+    "output": "Gaaarh!\n"
+  },
+  {
+    "input": "Gaaarh!\n",
+    "output": "Well, Hat McCullough admitted he killed those toddlers? Why do you want him free?\n"
+  },
+  {
+    "input": "Well, Hat McCullough admitted he killed those toddlers? Why do you want him free?\n",
+    "output": "[\"TWEEK, ADVOCATE OF TODDLER MURDER\" appears at the bottom of the screen] Oh, Jesus, man! ...N'ahah!\n"
+  },
+  {
+    "input": "[\"TWEEK, ADVOCATE OF TODDLER MURDER\" appears at the bottom of the screen] Oh, Jesus, man! ...N'ahah!\n",
+    "output": "Just answer me this, Tweek: What do you see as \"positive\" about toddler murder?\n"
+  },
+  {
+    "input": "Just answer me this, Tweek: What do you see as \"positive\" about toddler murder?\n",
+    "output": "Ahah. U-uh. It's easy?\n"
+  },
+  {
+    "input": "Ahah. U-uh. It's easy?\n",
+    "output": "[ponders the possibility] Yes... It is easy. [switches gears] Alright, then on to your other cause, saving films from their directors. What got you boys interested in this, especially given your pro-toddler-murder status?\n"
+  },
+  {
+    "input": "[ponders the possibility] Yes... It is easy. [switches gears] Alright, then on to your other cause, saving films from their directors. What got you boys interested in this, especially given your pro-toddler-murder status?\n",
+    "output": "We believe that films have to be taken away from people like Steven Spielberg and George Lucas because they're insane.\n"
+  },
+  {
+    "input": "We believe that films have to be taken away from people like Steven Spielberg and George Lucas because they're insane.\n",
+    "output": "Well I'm glad you said that, boys, because joining us now are Steven Spielberg and George Lucas. [they walk in and stand behind the boys. The boys look at them a bit awed]\n"
+  },
+  {
+    "input": "Well I'm glad you said that, boys, because joining us now are Steven Spielberg and George Lucas. [they walk in and stand behind the boys. The boys look at them a bit awed]\n",
+    "output": "Oh Christ! Wwwaaaaaaah!\n"
+  },
+  {
+    "input": "Oh Christ! Wwwaaaaaaah!\n",
+    "output": "[wearing a CSLB jacket and director's hat] Hello, Ted.\n"
+  },
+  {
+    "input": "[wearing a CSLB jacket and director's hat] Hello, Ted.\n",
+    "output": "[meekly] Oh hi, Ted.\n"
+  },
+  {
+    "input": "[meekly] Oh hi, Ted.\n",
+    "output": "Gentlemen, these toddler-murder fans think you're insane and shouldn't be allowed to alter your films. Your response?\n"
+  },
+  {
+    "input": "Gentlemen, these toddler-murder fans think you're insane and shouldn't be allowed to alter your films. Your response?\n",
+    "output": "Well, first of all, both George and I are very firmly against the murdering of toddlers.\n"
+  },
+  {
+    "input": "Well, first of all, both George and I are very firmly against the murdering of toddlers.\n",
+    "output": "Hear hear.\n"
+  },
+  {
+    "input": "Hear hear.\n",
+    "output": "[to Stan] Dude, that's Steven Spielberg and George Lucas. [resumes gawking at the two]\n"
+  },
+  {
+    "input": "[to Stan] Dude, that's Steven Spielberg and George Lucas. [resumes gawking at the two]\n",
+    "output": "Get me out of here! Please, somebody get me out of heeerre!\n"
+  },
+  {
+    "input": "Get me out of here! Please, somebody get me out of heeerre!\n",
+    "output": "And as for altering our films, all we're doing is trying to reach a... new audience with our movies. As the makers of dreams, we like to speak ...for the children.\n"
+  },
+  {
+    "input": "And as for altering our films, all we're doing is trying to reach a... new audience with our movies. As the makers of dreams, we like to speak ...for the children.\n",
+    "output": "Ah, we thought we were speaking for the children.\n"
+  },
+  {
+    "input": "Ah, we thought we were speaking for the children.\n",
+    "output": "Yeah, we're children.\n"
+  },
+  {
+    "input": "Yeah, we're children.\n",
+    "output": "Uh-look, if the Beatles went back and updated their White Album every few years, what would we have now?\n"
+  },
+  {
+    "input": "Uh-look, if the Beatles went back and updated their White Album every few years, what would we have now?\n",
+    "output": "Yeah, these guys are only motivated by money, Ted.\n"
+  },
+  {
+    "input": "Yeah, these guys are only motivated by money, Ted.\n",
+    "output": "How so?\n"
+  },
+  {
+    "input": "How so?\n",
+    "output": "Think about it. Spielberg? Jew. Lucas? Jew. Kyle? Jew. Coincidence?\n"
+  },
+  {
+    "input": "Think about it. Spielberg? Jew. Lucas? Jew. Kyle? Jew. Coincidence?\n",
+    "output": "I'm not a Jew! [crosses his arms in anger]\n"
+  },
+  {
+    "input": "I'm not a Jew! [crosses his arms in anger]\n",
+    "output": "You little brat-! Ah, I mean, you darling children don't know what you're talking about. Changing E.T. was the best thing I ever did.\n"
+  },
+  {
+    "input": "You little brat-! Ah, I mean, you darling children don't know what you're talking about. Changing E.T. was the best thing I ever did.\n",
+    "output": "Dude, don't you see that it's not? It'd be like, changing Raiders of the Lost Ark!\n"
+  },
+  {
+    "input": "Dude, don't you see that it's not? It'd be like, changing Raiders of the Lost Ark!\n",
+    "output": "[a stroke of brilliance overcomes the two men for a few seconds] Wait a minute. What'd you say?\n"
+  },
+  {
+    "input": "[a stroke of brilliance overcomes the two men for a few seconds] Wait a minute. What'd you say?\n",
+    "output": "Eh, that's brilliant!\n"
+  },
+  {
+    "input": "Eh, that's brilliant!\n",
+    "output": "Yes. Change Raiders of the Lost Ark! Why didn't we think of it before?!\n"
+  },
+  {
+    "input": "Yes. Change Raiders of the Lost Ark! Why didn't we think of it before?!\n",
+    "output": "[regretting the comparison] No. NOO!!\n[South Park Elementary School Gym, next day. \"SAVE FILMS FROM THEIR DIRECTORS AND FREE HAT MEETING TODAY.\" The boys stand before the new club once again.]\n"
+  },
+  {
+    "input": "[regretting the comparison] No. NOO!!\n[South Park Elementary School Gym, next day. \"SAVE FILMS FROM THEIR DIRECTORS AND FREE HAT MEETING TODAY.\" The boys stand before the new club once again.]\n",
+    "output": "Members, this is our darkest hour. We've just learned that George Lucas and Steven Spielberg now intend to update and change Raiders of the Lost Ark. [the crowd begins to murmur] There's only one way we can stop this important and historical piece of art from being harmed. Mr. Secretary? [hands the mic to Cartman, who moves over to an easel]\n"
+  },
+  {
+    "input": "Members, this is our darkest hour. We've just learned that George Lucas and Steven Spielberg now intend to update and change Raiders of the Lost Ark. [the crowd begins to murmur] There's only one way we can stop this important and historical piece of art from being harmed. Mr. Secretary? [hands the mic to Cartman, who moves over to an easel]\n",
+    "output": "Thank you. [turns a page up and over. A schematic of George Lucas's Skywalker Ranch is shown] Our intelligence tells us that the original negative to Raiders of the Lost Ark is currently somewhere in George Lucas's house. We need to find and usurp that negative.\n"
+  },
+  {
+    "input": "Thank you. [turns a page up and over. A schematic of George Lucas's Skywalker Ranch is shown] Our intelligence tells us that the original negative to Raiders of the Lost Ark is currently somewhere in George Lucas's house. We need to find and usurp that negative.\n",
+    "output": "And if we get a hold of the negative they can't change the movie?\n"
+  },
+  {
+    "input": "And if we get a hold of the negative they can't change the movie?\n",
+    "output": "That is our understanding.\n"
+  },
+  {
+    "input": "That is our understanding.\n",
+    "output": "Sounds like a good idea to me. I don't want them to change Raiders of the Lost Ark.\n"
+  },
+  {
+    "input": "Sounds like a good idea to me. I don't want them to change Raiders of the Lost Ark.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Yeah! We should go get that negative as soon as we get Hat free!\n"
+  },
+  {
+    "input": "Yeah! We should go get that negative as soon as we get Hat free!\n",
+    "output": "YEAH! [the signs go up] Free Hat! Free Hat! Free Hat!\n"
+  },
+  {
+    "input": "YEAH! [the signs go up] Free Hat! Free Hat! Free Hat!\n",
+    "output": "[rushes to the mic] Nonono! We need to do this first.\n"
+  },
+  {
+    "input": "[rushes to the mic] Nonono! We need to do this first.\n",
+    "output": "But we have to free Hat.\n"
+  },
+  {
+    "input": "But we have to free Hat.\n",
+    "output": "It's just that, you know, he killed twenty-three babies.\n"
+  },
+  {
+    "input": "It's just that, you know, he killed twenty-three babies.\n",
+    "output": "Well yeah, but it was in self-defense!\n"
+  },
+  {
+    "input": "Well yeah, but it was in self-defense!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "He... killed... twenty-three babies in self-defense?\n"
+  },
+  {
+    "input": "He... killed... twenty-three babies in self-defense?\n",
+    "output": "Hat was attacked maliciously and unprovoked by a gang of babies in West Town Park. When that many babies get together they can be like piranha.\n"
+  },
+  {
+    "input": "Hat was attacked maliciously and unprovoked by a gang of babies in West Town Park. When that many babies get together they can be like piranha.\n",
+    "output": "Three eyewitnesses testified that if Hat hadn't killed those babies, they'd have killed him!\n"
+  },
+  {
+    "input": "Three eyewitnesses testified that if Hat hadn't killed those babies, they'd have killed him!\n",
+    "output": "YEAH! [the signs go up] Free Hat! Free Hat! Free Hat!\n"
+  },
+  {
+    "input": "YEAH! [the signs go up] Free Hat! Free Hat! Free Hat!\n",
+    "output": "Alright alright. But right now we've gotta focus on getting those original prints of Raiders.\n"
+  },
+  {
+    "input": "Alright alright. But right now we've gotta focus on getting those original prints of Raiders.\n",
+    "output": "He's right. We'd better split up. Some of you go with the boys and get those film prints, the rest of us come with me to go talk to the governor about freeing Hat.\n"
+  },
+  {
+    "input": "He's right. We'd better split up. Some of you go with the boys and get those film prints, the rest of us come with me to go talk to the governor about freeing Hat.\n",
+    "output": "YEAH! [the signs go up and the crowd moves out. Not one of them stays with the boys] Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat!\n"
+  },
+  {
+    "input": "YEAH! [the signs go up and the crowd moves out. Not one of them stays with the boys] Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat! Free Hat!\n",
+    "output": "Well, it looks like we're gonna have to do this ourselves.\n"
+  },
+  {
+    "input": "Well, it looks like we're gonna have to do this ourselves.\n",
+    "output": "No! That's it! I'm out! I can't deal with the stress you guys create! [walks off the stage]\n"
+  },
+  {
+    "input": "No! That's it! I'm out! I can't deal with the stress you guys create! [walks off the stage]\n",
+    "output": "We're just gonna fly to California and break into George Lucas's house. What's stressful about that?\n"
+  },
+  {
+    "input": "We're just gonna fly to California and break into George Lucas's house. What's stressful about that?\n",
+    "output": "Hwaaah!\n"
+  },
+  {
+    "input": "Hwaaah!\n",
+    "output": "[rushes up to stop Tweek] Okay, Tweek, let me tell you something: You've been our new friend now for two weeks, okay? And I've gotta be honest with you, it isn't going well.\n"
+  },
+  {
+    "input": "[rushes up to stop Tweek] Okay, Tweek, let me tell you something: You've been our new friend now for two weeks, okay? And I've gotta be honest with you, it isn't going well.\n",
+    "output": "Haaah!\n"
+  },
+  {
+    "input": "Haaah!\n",
+    "output": "People aren't that into you, Tweek. They find you kind of annoying. Now, I say you've got one last shot here, and I don't want you to blow it, okay? Does that help take the stress off?\n[Skywalker Ranch, night. Inside the camera gets a view of Lucas's library. Among the items there are various props from his Star Wars films, four Emmys, four Oscars... the door opens and a flashlight scans the room. Stan, holding the flashlight, walks in with the other boys.]\n"
+  },
+  {
+    "input": "People aren't that into you, Tweek. They find you kind of annoying. Now, I say you've got one last shot here, and I don't want you to blow it, okay? Does that help take the stress off?\n[Skywalker Ranch, night. Inside the camera gets a view of Lucas's library. Among the items there are various props from his Star Wars films, four Emmys, four Oscars... the door opens and a flashlight scans the room. Stan, holding the flashlight, walks in with the other boys.]\n",
+    "output": "Okay, go. [the other boys, with their own flashlights, pour in]\n"
+  },
+  {
+    "input": "Okay, go. [the other boys, with their own flashlights, pour in]\n",
+    "output": "[trying to stay composed, with eyes closed] I'm not breaking into George Lucas's house. I'm not breaking into George Lucas's house. I'm in a green field.\n"
+  },
+  {
+    "input": "[trying to stay composed, with eyes closed] I'm not breaking into George Lucas's house. I'm not breaking into George Lucas's house. I'm in a green field.\n",
+    "output": "[draws near] Stop, Tweek! This is not the time for faggocity! [walks off]\n"
+  },
+  {
+    "input": "[draws near] Stop, Tweek! This is not the time for faggocity! [walks off]\n",
+    "output": "[eyeing a prop] This looks like the right room.\n"
+  },
+  {
+    "input": "[eyeing a prop] This looks like the right room.\n",
+    "output": "I'm in a field... surrounded by deer.\n"
+  },
+  {
+    "input": "I'm in a field... surrounded by deer.\n",
+    "output": "[finding the video library] Over here! [the other boys join him at the stacks. They see \"Star Wars Episode 1, Version 300,\" \"Star Wars Episode 1, Version 301,\" \"Star Wars Episode 1, Version 302,\" etc., then \"First Day of School\" and \"First Day of School, Digitally Enhanced,\" then \"Wedding Video\" and \"Wedding Video, Digitally Enhanced.\" The camera scans past \"Kids First Swimming Lesson\" and \"Kids First Swimming Lesson w/ Digitally Enhanced Weather\" to stop at the reel of \"Raiders of the Lost Ark, Original Negative 1982.\"]\n"
+  },
+  {
+    "input": "[finding the video library] Over here! [the other boys join him at the stacks. They see \"Star Wars Episode 1, Version 300,\" \"Star Wars Episode 1, Version 301,\" \"Star Wars Episode 1, Version 302,\" etc., then \"First Day of School\" and \"First Day of School, Digitally Enhanced,\" then \"Wedding Video\" and \"Wedding Video, Digitally Enhanced.\" The camera scans past \"Kids First Swimming Lesson\" and \"Kids First Swimming Lesson w/ Digitally Enhanced Weather\" to stop at the reel of \"Raiders of the Lost Ark, Original Negative 1982.\"]\n",
+    "output": "That's it!\n"
+  },
+  {
+    "input": "That's it!\n",
+    "output": "Alriiight! Get it, Tweek!\n"
+  },
+  {
+    "input": "Alriiight! Get it, Tweek!\n",
+    "output": "Huh uh.\n"
+  },
+  {
+    "input": "Huh uh.\n",
+    "output": "Get it, you piece of crap, before I grab your nutsack and twist it!\n"
+  },
+  {
+    "input": "Get it, you piece of crap, before I grab your nutsack and twist it!\n",
+    "output": "Guh huh huh! [walks off and returns with a stool. He climbs up on it and gets the reel canister. The door opens behind the boys and the lights go on]\n"
+  },
+  {
+    "input": "Guh huh huh! [walks off and returns with a stool. He climbs up on it and gets the reel canister. The door opens behind the boys and the lights go on]\n",
+    "output": "What are you doing?! [the boys turn in horror]\n"
+  },
+  {
+    "input": "What are you doing?! [the boys turn in horror]\n",
+    "output": "Oh God! Oh Jesus!\n"
+  },
+  {
+    "input": "Oh God! Oh Jesus!\n",
+    "output": "You're the boys from that ...stupid club. Give me that! [grabs the film reel from Tweek]\n"
+  },
+  {
+    "input": "You're the boys from that ...stupid club. Give me that! [grabs the film reel from Tweek]\n",
+    "output": "[hops off the stool] Aaaaaah!\n"
+  },
+  {
+    "input": "[hops off the stool] Aaaaaah!\n",
+    "output": "Do with us what you will, Mr. Lucas! [goes down on his right knee] But please, don't change Raiders of the Lost Ark.\n"
+  },
+  {
+    "input": "Do with us what you will, Mr. Lucas! [goes down on his right knee] But please, don't change Raiders of the Lost Ark.\n",
+    "output": "We're gonna make it better. The movie's gonna be changed, and that's that!\n"
+  },
+  {
+    "input": "We're gonna make it better. The movie's gonna be changed, and that's that!\n",
+    "output": "Alright, you asked for it. I'm afraid you leave us no choice. It's time for Plan B.\n"
+  },
+  {
+    "input": "Alright, you asked for it. I'm afraid you leave us no choice. It's time for Plan B.\n",
+    "output": "Aw, really?\n"
+  },
+  {
+    "input": "Aw, really?\n",
+    "output": "Oh God, no! Not Plan B! [Lucas looks at the boys quzzically]\n"
+  },
+  {
+    "input": "Oh God, no! Not Plan B! [Lucas looks at the boys quzzically]\n",
+    "output": "[beat] You have a heart made of ice, Mr. Lucas, and so we're goin' tuh melt your icy heart... with a cool island song. Gentlemen? [the boys reach for the left side of their bodies and rip off their clothes. Underneath they wear colorful Latin outfits and grin.]\n"
+  },
+  {
+    "input": "[beat] You have a heart made of ice, Mr. Lucas, and so we're goin' tuh melt your icy heart... with a cool island song. Gentlemen? [the boys reach for the left side of their bodies and rip off their clothes. Underneath they wear colorful Latin outfits and grin.]\n",
+    "output": "[confused] ...What??\n"
+  },
+  {
+    "input": "[confused] ...What??\n",
+    "output": "Hit it, Tweek! [Tweek goes over to a boombox and presses the play button, then returns to the group. Caribbean music plays] In the tropical isles with the coconut trees, there's a lots of-\n"
+  },
+  {
+    "input": "Hit it, Tweek! [Tweek goes over to a boombox and presses the play button, then returns to the group. Caribbean music plays] In the tropical isles with the coconut trees, there's a lots of-\n",
+    "output": "Waitwaitwaitwaitwait. I thought we were gonna cool his hot heart with a cool island song.\n"
+  },
+  {
+    "input": "Waitwaitwaitwaitwait. I thought we were gonna cool his hot heart with a cool island song.\n",
+    "output": "...No, he has an icy heart.\n"
+  },
+  {
+    "input": "...No, he has an icy heart.\n",
+    "output": "...But you can't melt ice with a cool song, r-tard.\n"
+  },
+  {
+    "input": "...But you can't melt ice with a cool song, r-tard.\n",
+    "output": "So we have to warm his icy heart with a \"hot\" island song.\n"
+  },
+  {
+    "input": "So we have to warm his icy heart with a \"hot\" island song.\n",
+    "output": "It's a cool island song.\n"
+  },
+  {
+    "input": "It's a cool island song.\n",
+    "output": "Well then we're gonna end up freezing his hellish heart with a cool island song.\n"
+  },
+  {
+    "input": "Well then we're gonna end up freezing his hellish heart with a cool island song.\n",
+    "output": "Oh, do we wanna do that?\n"
+  },
+  {
+    "input": "Oh, do we wanna do that?\n",
+    "output": "ALRIGHT, that does it!\n[Skywalker Ranch, day, Lucas's living room. The boys stand behind Lucas as he talks on the phone with someone.]\n"
+  },
+  {
+    "input": "ALRIGHT, that does it!\n[Skywalker Ranch, day, Lucas's living room. The boys stand behind Lucas as he talks on the phone with someone.]\n",
+    "output": "[listening] Yes, thank you, officer. [hangs up and walks around the boys] The police are on their way, boys. [stops and faces them] Soon you'll be in jail getting RAMMED!\n"
+  },
+  {
+    "input": "[listening] Yes, thank you, officer. [hangs up and walks around the boys] The police are on their way, boys. [stops and faces them] Soon you'll be in jail getting RAMMED!\n",
+    "output": "[freaks out] Aaaahh!\n"
+  },
+  {
+    "input": "[freaks out] Aaaahh!\n",
+    "output": "Those rams can do to us what they will, Mr. Lucas, but we'll never stop trying to protect films. [Lucas looks at them]\n"
+  },
+  {
+    "input": "Those rams can do to us what they will, Mr. Lucas, but we'll never stop trying to protect films. [Lucas looks at them]\n",
+    "output": "It's not too late to do what's right. Give us the print. There's still some good in you, Mr. Lucas. We know there is. [Lucas hangs his head in shame and turns away]\n"
+  },
+  {
+    "input": "It's not too late to do what's right. Give us the print. There's still some good in you, Mr. Lucas. We know there is. [Lucas hangs his head in shame and turns away]\n",
+    "output": "It is... too late for me, boys.\n"
+  },
+  {
+    "input": "It is... too late for me, boys.\n",
+    "output": "You yourself led the campaign against the colorization of films. You understand why films shouldn't be changed.\n"
+  },
+  {
+    "input": "You yourself led the campaign against the colorization of films. You understand why films shouldn't be changed.\n",
+    "output": "M-that's different. These are my movies. I made them, and I have the right to do whatever I want with them.\n"
+  },
+  {
+    "input": "M-that's different. These are my movies. I made them, and I have the right to do whatever I want with them.\n",
+    "output": "[steps forward] You're wrong, Mr. Lucas. They're not your movies. They're ours. All of ours. We paid to go see them, and they're just as much a part of our lives as they are of yours.\n"
+  },
+  {
+    "input": "[steps forward] You're wrong, Mr. Lucas. They're not your movies. They're ours. All of ours. We paid to go see them, and they're just as much a part of our lives as they are of yours.\n",
+    "output": "When an artist creates, whatever they create belongs to society.\n"
+  },
+  {
+    "input": "When an artist creates, whatever they create belongs to society.\n",
+    "output": "Have I... become so old that I've forgetten what being an artist is about?\n"
+  },
+  {
+    "input": "Have I... become so old that I've forgetten what being an artist is about?\n",
+    "output": "Give the print to us so that we can protect it from Spielberg and anyone else who wants to alter it.\n"
+  },
+  {
+    "input": "Give the print to us so that we can protect it from Spielberg and anyone else who wants to alter it.\n",
+    "output": "[turns and approaches them] Perhaps... you are right. [presents the reel to Stan, but a door opens...]\n"
+  },
+  {
+    "input": "[turns and approaches them] Perhaps... you are right. [presents the reel to Stan, but a door opens...]\n",
+    "output": "STOP! [Lucas is startled and the camera pans to Steven Spielberg and three guards] What are you doing, George?!\n"
+  },
+  {
+    "input": "STOP! [Lucas is startled and the camera pans to Steven Spielberg and three guards] What are you doing, George?!\n",
+    "output": "Steven, Uh, I-\n"
+  },
+  {
+    "input": "Steven, Uh, I-\n",
+    "output": "Give me that print, George! We need to make the alterations!\n"
+  },
+  {
+    "input": "Give me that print, George! We need to make the alterations!\n",
+    "output": "Steven, these boys had a point. I don't remember what it was, but it was good.\n"
+  },
+  {
+    "input": "Steven, these boys had a point. I don't remember what it was, but it was good.\n",
+    "output": "You haven't let these doe-eyed children affect your judgment, have you, George?! [voice lowers] Don't forget: you belong to me.\n"
+  },
+  {
+    "input": "You haven't let these doe-eyed children affect your judgment, have you, George?! [voice lowers] Don't forget: you belong to me.\n",
+    "output": "Don't listen to him! You still have a chance to preserve your film! [Lucas, stuck between the two arguments, stops and thinks...]\n"
+  },
+  {
+    "input": "Don't listen to him! You still have a chance to preserve your film! [Lucas, stuck between the two arguments, stops and thinks...]\n",
+    "output": "I'm... ah I'm sorry, boys. [slowly walks to Spielberg and presents the reel. Spielberg snatches it away]\n"
+  },
+  {
+    "input": "I'm... ah I'm sorry, boys. [slowly walks to Spielberg and presents the reel. Spielberg snatches it away]\n",
+    "output": "[cackles] Now take the children prisoner! [the guards approach and surround the boys]\n"
+  },
+  {
+    "input": "[cackles] Now take the children prisoner! [the guards approach and surround the boys]\n",
+    "output": "What??\n"
+  },
+  {
+    "input": "What??\n",
+    "output": "You troublemakers shall be my guests of honor at the premiere of the NEW Raiders of the Lost Ark! Your gay little club is over!\n"
+  },
+  {
+    "input": "You troublemakers shall be my guests of honor at the premiere of the NEW Raiders of the Lost Ark! Your gay little club is over!\n",
+    "output": "Fuck you, Steven Spielberg! Come on, you guys! [the boys turn and make their way to the door]\n"
+  },
+  {
+    "input": "Fuck you, Steven Spielberg! Come on, you guys! [the boys turn and make their way to the door]\n",
+    "output": "[runs] Oh my God they're gonna kill us. [the guards block the way, and the other three boys are stuck. Kyle tries to get around a guard, but...]\n"
+  },
+  {
+    "input": "[runs] Oh my God they're gonna kill us. [the guards block the way, and the other three boys are stuck. Kyle tries to get around a guard, but...]\n",
+    "output": "[aims his walkie-talkie at him] Don't even think about it, kid! I'm not afraid to use this walkie-talkie!\n"
+  },
+  {
+    "input": "[aims his walkie-talkie at him] Don't even think about it, kid! I'm not afraid to use this walkie-talkie!\n",
+    "output": "The one with the cocaine-problem escaped, mein Direktor.\n"
+  },
+  {
+    "input": "The one with the cocaine-problem escaped, mein Direktor.\n",
+    "output": "Leave him!! Let him run back to his mommy! [strokes the reel canister] We must get the film ready for the premiere. [turns and walks off] Lucas! Come! [Lucas, shame-faced, turns and follows Spielberg out. The boys look at the guards]\n[A commercial.]\n"
+  },
+  {
+    "input": "Leave him!! Let him run back to his mommy! [strokes the reel canister] We must get the film ready for the premiere. [turns and walks off] Lucas! Come! [Lucas, shame-faced, turns and follows Spielberg out. The boys look at the guards]\n[A commercial.]\n",
+    "output": "[\"COMING THIS SUMMER\"] Coming, this summer! [\"RE-RELEASE OF EPISODE 1 SOUTHPARK\"] It's the digitally-re-enhanced re-release of the very first pilot episode of South Park! [scenes from \"Cartman Gets An Anal Probe\" play - the cafeteria, the boys walking down the street, Stan, Kyle, and Wendy in the woods, Stan and Kyle at Stark's Pond...] Yes, the classic, rough, hand-made first episode is getting a make-over for 2002! [the visitors are shown, then new 3D versions are shown] The simple, funny aliens are now super-badass and kewl! [the mothership is shown beaming Cartman up, then a much more intricate version is shown] The flying saucer? No longer cheap construction paper, but a 4.0 megapixel nondrop digital masterpiece of technology! Yes! Everything's new! New is better!\n"
+  },
+  {
+    "input": "[\"COMING THIS SUMMER\"] Coming, this summer! [\"RE-RELEASE OF EPISODE 1 SOUTHPARK\"] It's the digitally-re-enhanced re-release of the very first pilot episode of South Park! [scenes from \"Cartman Gets An Anal Probe\" play - the cafeteria, the boys walking down the street, Stan, Kyle, and Wendy in the woods, Stan and Kyle at Stark's Pond...] Yes, the classic, rough, hand-made first episode is getting a make-over for 2002! [the visitors are shown, then new 3D versions are shown] The simple, funny aliens are now super-badass and kewl! [the mothership is shown beaming Cartman up, then a much more intricate version is shown] The flying saucer? No longer cheap construction paper, but a 4.0 megapixel nondrop digital masterpiece of technology! Yes! Everything's new! New is better!\n",
+    "output": "[bearded] When we first made South Park, we didn't wanna use construction paper. We just had to because it was cheap.\n"
+  },
+  {
+    "input": "[bearded] When we first made South Park, we didn't wanna use construction paper. We just had to because it was cheap.\n",
+    "output": "And now with new technology we can finally remaster South Park, make it look sharp, clean and focused.\n"
+  },
+  {
+    "input": "And now with new technology we can finally remaster South Park, make it look sharp, clean and focused.\n",
+    "output": "Expensive. [Both men nod their heads]\n"
+  },
+  {
+    "input": "Expensive. [Both men nod their heads]\n",
+    "output": "[The flames coming from Cartman's ass are replaced with a 3D version, and cars and people are added to the scene] Yes, all the charm of the simple little cartoon [a model of the new ship is rotated to a new position] will melt before your eyes as it is replaced by newer and more standardized animation!\n"
+  },
+  {
+    "input": "[The flames coming from Cartman's ass are replaced with a 3D version, and cars and people are added to the scene] Yes, all the charm of the simple little cartoon [a model of the new ship is rotated to a new position] will melt before your eyes as it is replaced by newer and more standardized animation!\n",
+    "output": "[a shot of him, then of the bus stop with the boys waiting for the bus. New creatures enter the scene] For instance, in the scene at the bus stop, we always meant to have Imperial walkers and giant dewback lizards in the background, but simply couldn't afford it.\n"
+  },
+  {
+    "input": "[a shot of him, then of the bus stop with the boys waiting for the bus. New creatures enter the scene] For instance, in the scene at the bus stop, we always meant to have Imperial walkers and giant dewback lizards in the background, but simply couldn't afford it.\n",
+    "output": "[A special-edition DVD of CGAAP \"new version for 2002\" is shown. \"ACT NOW\" blinks on the screen over the DVD] Get this special enhanced version quick, because another enhanced version will likely be coming out for 2003!\n[School Gym, sometime later. \"URGENT\" in white has been scrawled over the sign next to the door. Tweek stands onstage inside, facing the gathered club.]\n"
+  },
+  {
+    "input": "[A special-edition DVD of CGAAP \"new version for 2002\" is shown. \"ACT NOW\" blinks on the screen over the DVD] Get this special enhanced version quick, because another enhanced version will likely be coming out for 2003!\n[School Gym, sometime later. \"URGENT\" in white has been scrawled over the sign next to the door. Tweek stands onstage inside, facing the gathered club.]\n",
+    "output": "Members, uuhh, oh Jesus, uh, we have to do something! Our club president [Stan], treasurer [Kyle], and secretary [Cartman] have all been taken hostage by Steven Spielberg! Haaa!\n"
+  },
+  {
+    "input": "Members, uuhh, oh Jesus, uh, we have to do something! Our club president [Stan], treasurer [Kyle], and secretary [Cartman] have all been taken hostage by Steven Spielberg! Haaa!\n",
+    "output": "Prisoner? You mean, like Hat?\n"
+  },
+  {
+    "input": "Prisoner? You mean, like Hat?\n",
+    "output": "[grits his teeth, shuts his eyes and bows his head in frustration] Yes, just like Hat!!\n"
+  },
+  {
+    "input": "[grits his teeth, shuts his eyes and bows his head in frustration] Yes, just like Hat!!\n",
+    "output": "But the governor won't pardon Hat. So how can we get him out of prison? [the other members grumble]\n"
+  },
+  {
+    "input": "But the governor won't pardon Hat. So how can we get him out of prison? [the other members grumble]\n",
+    "output": "No! Listen to me! We're not talking about Hat right now, okay?! Gad!! Look, we went to George Lucas's house a-and tried to melt his icy heart with a warm island song, but then Spielberg showed up and took three of our members prisoner! They're goin' to premiere their new Raiders of the Lost Ark, and we have to rescue them! Do you understand?!\n"
+  },
+  {
+    "input": "No! Listen to me! We're not talking about Hat right now, okay?! Gad!! Look, we went to George Lucas's house a-and tried to melt his icy heart with a warm island song, but then Spielberg showed up and took three of our members prisoner! They're goin' to premiere their new Raiders of the Lost Ark, and we have to rescue them! Do you understand?!\n",
+    "output": "Hey, he's got a point there.\n"
+  },
+  {
+    "input": "Hey, he's got a point there.\n",
+    "output": "[a rancher] Yeah... Maybe we could melt the governor's icy heart with a cool island song!\n"
+  },
+  {
+    "input": "[a rancher] Yeah... Maybe we could melt the governor's icy heart with a cool island song!\n",
+    "output": "[scattered reaction] Yeah.\n"
+  },
+  {
+    "input": "[scattered reaction] Yeah.\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "No?\n"
+  },
+  {
+    "input": "No?\n",
+    "output": "No! He's right. We have to freeze his hot heart with a cool island song.\n"
+  },
+  {
+    "input": "No! He's right. We have to freeze his hot heart with a cool island song.\n",
+    "output": "Or is it freshen his hot temper with a cool island song?\n"
+  },
+  {
+    "input": "Or is it freshen his hot temper with a cool island song?\n",
+    "output": "Let's cool his hot temper with a fresh island song.\n"
+  },
+  {
+    "input": "Let's cool his hot temper with a fresh island song.\n",
+    "output": "That's it!\n"
+  },
+  {
+    "input": "That's it!\n",
+    "output": "Let's go! Come on! [the members rally and take off]\n"
+  },
+  {
+    "input": "Let's go! Come on! [the members rally and take off]\n",
+    "output": "Oh God. I'm gonna have to do this myself. Oh God!\n[Excess Hollywood. Raiders of the Lost Ark is featured.]\n"
+  },
+  {
+    "input": "Oh God. I'm gonna have to do this myself. Oh God!\n[Excess Hollywood. Raiders of the Lost Ark is featured.]\n",
+    "output": "Well, the print is finished and the day has come. Tonight, Steven Spielberg and George Lucas [shown] will be at the premiere of the new special edition of Raiders of the Lost Ark. Lots of celebrity guests and other rich people will be on hand to witness all the updated effects and modernized technology.\n[A desert. Spielberg leads a group of people to the site of the premiere. Stan, Kyle, and Cartman are among the guests, but their hands are tied behind their backs. Four people follow carrying a large box from two long poles. The box reads \"FINAL PRINT RAIDERS OF THE LOST ARK 2002\" The three guards are there with Spielberg and Lucas, and Francis Ford Coppola has joined the lead pack. The camera follows the group, but slowly pulls back until Tweek appears with a bazooka on his shoulder.]\n"
+  },
+  {
+    "input": "Well, the print is finished and the day has come. Tonight, Steven Spielberg and George Lucas [shown] will be at the premiere of the new special edition of Raiders of the Lost Ark. Lots of celebrity guests and other rich people will be on hand to witness all the updated effects and modernized technology.\n[A desert. Spielberg leads a group of people to the site of the premiere. Stan, Kyle, and Cartman are among the guests, but their hands are tied behind their backs. Four people follow carrying a large box from two long poles. The box reads \"FINAL PRINT RAIDERS OF THE LOST ARK 2002\" The three guards are there with Spielberg and Lucas, and Francis Ford Coppola has joined the lead pack. The camera follows the group, but slowly pulls back until Tweek appears with a bazooka on his shoulder.]\n",
+    "output": "Hello!\n"
+  },
+  {
+    "input": "Hello!\n",
+    "output": "[moves forward and takes a hard look at the figure on the hill] The kid? The tweaked out kid?!\n"
+  },
+  {
+    "input": "[moves forward and takes a hard look at the figure on the hill] The kid? The tweaked out kid?!\n",
+    "output": "I'm gonna blow up the print, Spielberg! [the other boys try to sneak away, but the guards are around them quickly]\n"
+  },
+  {
+    "input": "I'm gonna blow up the print, Spielberg! [the other boys try to sneak away, but the guards are around them quickly]\n",
+    "output": "Your pesistence surprises even me. [begins to fan himself with his hat]\n"
+  },
+  {
+    "input": "Your pesistence surprises even me. [begins to fan himself with his hat]\n",
+    "output": "[steps forward] Surely you don't think you can escape from this premiere.\n"
+  },
+  {
+    "input": "[steps forward] Surely you don't think you can escape from this premiere.\n",
+    "output": "[fixes his aim on his target] That depends on how reasonable we're all willing to be. All I want are my friends.\n"
+  },
+  {
+    "input": "[fixes his aim on his target] That depends on how reasonable we're all willing to be. All I want are my friends.\n",
+    "output": "Wow.\n"
+  },
+  {
+    "input": "Wow.\n",
+    "output": "Except for Cartman - you can keep him.\n"
+  },
+  {
+    "input": "Except for Cartman - you can keep him.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "And if we refuse?\n"
+  },
+  {
+    "input": "And if we refuse?\n",
+    "output": "Then your premiere has no movie!\n"
+  },
+  {
+    "input": "Then your premiere has no movie!\n",
+    "output": "He's definitely lost it.\n"
+  },
+  {
+    "input": "He's definitely lost it.\n",
+    "output": "Yup.\n"
+  },
+  {
+    "input": "Yup.\n",
+    "output": "[moves around to clear the area] Okay, okay. Stan- stand back, stand ba- stand back! Back! [people move away] Okay kid, you win. [puts on his hat] Blow it up. [some guards try to get the box, but Spielberg takes a walkie-talkie and forces them back] Zuroch! Zuroch! [turns and faces Tweek] Blow it back to God. [Tweek trembles, but his aim doesn't waver] All your life has been the pursuit of seeing a great film! This new version of Raiders has digital effects beyond your wildest dreams! You want to see it screened just as much as I. [Tweek grunts, showing he may be breaking]\n"
+  },
+  {
+    "input": "[moves around to clear the area] Okay, okay. Stan- stand back, stand ba- stand back! Back! [people move away] Okay kid, you win. [puts on his hat] Blow it up. [some guards try to get the box, but Spielberg takes a walkie-talkie and forces them back] Zuroch! Zuroch! [turns and faces Tweek] Blow it back to God. [Tweek trembles, but his aim doesn't waver] All your life has been the pursuit of seeing a great film! This new version of Raiders has digital effects beyond your wildest dreams! You want to see it screened just as much as I. [Tweek grunts, showing he may be breaking]\n",
+    "output": "Come on, Tweek! Blow it up!\n"
+  },
+  {
+    "input": "Come on, Tweek! Blow it up!\n",
+    "output": "[turns, walks to the box, and stands next to it] Son, we are simply passing through history. This... is imPROVED history. [Tweek stalls. The boys wait for Tweek's next move] Do as you will. [backs away, leaving the box clear. Tweek struggles, but lowers the launcher. Three guards appear behind him]\n[The governor's office, day. The governor is at his desk, bored. The Free Hat club members break out in song.]\n"
+  },
+  {
+    "input": "[turns, walks to the box, and stands next to it] Son, we are simply passing through history. This... is imPROVED history. [Tweek stalls. The boys wait for Tweek's next move] Do as you will. [backs away, leaving the box clear. Tweek struggles, but lowers the launcher. Three guards appear behind him]\n[The governor's office, day. The governor is at his desk, bored. The Free Hat club members break out in song.]\n",
+    "output": "In the tropical isles with the coconut trees, the air is fresh and the people are free.\n"
+  },
+  {
+    "input": "In the tropical isles with the coconut trees, the air is fresh and the people are free.\n",
+    "output": "But here in the mountains there's no freedom like that.\n"
+  },
+  {
+    "input": "But here in the mountains there's no freedom like that.\n",
+    "output": "There's a man in prison and his name is Hat. [the governor looks up a bit surprised]\n[A sign saying \"RAIDERS OF THE LOST ARK Premiere Tonight\" has alternating blinking lights. The camera moves off the sign and onto the makeshift open-air theater. Two men bring forth the Ark of the Covenant, which was in the box. The men move off. The audience is seen, with the four boys in the very back. Stan and Kyle are tied to one post, Tweek and Cartman to the other. Spielberg, dressed as a High Priest, approaches the Ark.]\n"
+  },
+  {
+    "input": "There's a man in prison and his name is Hat. [the governor looks up a bit surprised]\n[A sign saying \"RAIDERS OF THE LOST ARK Premiere Tonight\" has alternating blinking lights. The camera moves off the sign and onto the makeshift open-air theater. Two men bring forth the Ark of the Covenant, which was in the box. The men move off. The audience is seen, with the four boys in the very back. Stan and Kyle are tied to one post, Tweek and Cartman to the other. Spielberg, dressed as a High Priest, approaches the Ark.]\n",
+    "output": "[moving his arms over the Ark] Hafaa malifi! Thanks for coming, everyone. [the two men return, remove the lid, and walk off with it. A third man reaches inside the Ark and pulls out the \"RAIDERS OF THE LOST ARK NEW AND IMPROVED 2002\" reel] This is the birth of the NEW version of Raiders of the Lost Ark! We shall screen it here, and then destroy all the old prints in celebration!\n"
+  },
+  {
+    "input": "[moving his arms over the Ark] Hafaa malifi! Thanks for coming, everyone. [the two men return, remove the lid, and walk off with it. A third man reaches inside the Ark and pulls out the \"RAIDERS OF THE LOST ARK NEW AND IMPROVED 2002\" reel] This is the birth of the NEW version of Raiders of the Lost Ark! We shall screen it here, and then destroy all the old prints in celebration!\n",
+    "output": "Hooray! All right!\n"
+  },
+  {
+    "input": "Hooray! All right!\n",
+    "output": "Begin the film! [a man loads the film and plays it. On screen, three men appear and approach a mountain]\n"
+  },
+  {
+    "input": "Begin the film! [a man loads the film and plays it. On screen, three men appear and approach a mountain]\n",
+    "output": "[impressed] Whoa.\n"
+  },
+  {
+    "input": "[impressed] Whoa.\n",
+    "output": "[pleading] You guys, close your eyes. Don't look at it.\n"
+  },
+  {
+    "input": "[pleading] You guys, close your eyes. Don't look at it.\n",
+    "output": "Ah, what?!\n"
+  },
+  {
+    "input": "Ah, what?!\n",
+    "output": "[pleading] Don't watch the movie, you guys. It'll be terrible. Close your eyes! [the boys quickly turn away, shut their eyes, and bow their heads]\n"
+  },
+  {
+    "input": "[pleading] Don't watch the movie, you guys. It'll be terrible. Close your eyes! [the boys quickly turn away, shut their eyes, and bow their heads]\n",
+    "output": "[impressed] Whoa. Ahhh.\n"
+  },
+  {
+    "input": "[impressed] Whoa. Ahhh.\n",
+    "output": "It's beyooootiful. [a scene of Indiana Jones using a whip to swing across a chasm. Flaming arrows shoot past him. As he lands on the other side, natives approach. They look and chatter like Ewoks]\n"
+  },
+  {
+    "input": "It's beyooootiful. [a scene of Indiana Jones using a whip to swing across a chasm. Flaming arrows shoot past him. As he lands on the other side, natives approach. They look and chatter like Ewoks]\n",
+    "output": "Wait a minute. This version is awful!\n"
+  },
+  {
+    "input": "Wait a minute. This version is awful!\n",
+    "output": "Yeah! They ruined it!\n"
+  },
+  {
+    "input": "Yeah! They ruined it!\n",
+    "output": "Oh my God, it's terrible! [George Lucas is suddenly frightened stiff. Coppola is also frightened. The boys keep their eyes closed and away from the screen]\n"
+  },
+  {
+    "input": "Oh my God, it's terrible! [George Lucas is suddenly frightened stiff. Coppola is also frightened. The boys keep their eyes closed and away from the screen]\n",
+    "output": "AaaaAAAAA!!\n[The three men huddle, frightened as they are. On screen, Indy is reaching for a golden item. Rays of light alight from the screen and move out over the audience, shooting through the viewers' chests and killing them. Coppola, Lucas, and Spielberg are overwhelmed with the energy from the rays. The men become disfigured, then their faces melt away. Spielberg's head explodes. The rays diffuse, then gather back into the Ark. The spirits of all killed are gathered into the Ark as well. The lid lands on the Ark perfectly with a final roll of thunder. A few second laters, when all is quiet, Stan raises his head and looks around.]\n"
+  },
+  {
+    "input": "AaaaAAAAA!!\n[The three men huddle, frightened as they are. On screen, Indy is reaching for a golden item. Rays of light alight from the screen and move out over the audience, shooting through the viewers' chests and killing them. Coppola, Lucas, and Spielberg are overwhelmed with the energy from the rays. The men become disfigured, then their faces melt away. Spielberg's head explodes. The rays diffuse, then gather back into the Ark. The spirits of all killed are gathered into the Ark as well. The lid lands on the Ark perfectly with a final roll of thunder. A few second laters, when all is quiet, Stan raises his head and looks around.]\n",
+    "output": "Yuh, you guys okay. [the others open their eyes. The ropes that bound them are gone]\n"
+  },
+  {
+    "input": "Yuh, you guys okay. [the others open their eyes. The ropes that bound them are gone]\n",
+    "output": "Yeah. I I think so.\n"
+  },
+  {
+    "input": "Yeah. I I think so.\n",
+    "output": "Man, that new version must have sucked balls.\n[South Park, day. A celebration is taking place at South Park Square. An orchestra performs below the stage. The boys are onstage watching it all. A man, a mayor's aide, walks up to the mic.]\n"
+  },
+  {
+    "input": "Man, that new version must have sucked balls.\n[South Park, day. A celebration is taking place at South Park Square. An orchestra performs below the stage. The boys are onstage watching it all. A man, a mayor's aide, walks up to the mic.]\n",
+    "output": "Today is a day of celebration, and we owe it all to these four brave young boys. [The four boys grin]\n"
+  },
+  {
+    "input": "Today is a day of celebration, and we owe it all to these four brave young boys. [The four boys grin]\n",
+    "output": "Yeah! Alright!\n"
+  },
+  {
+    "input": "Yeah! Alright!\n",
+    "output": "And thanks to the bravery of this young man in particular, [Tweek smiles proudly] ...Hat McCullough is finally free from prison! [the smiles fade from the boys' faces]\n"
+  },
+  {
+    "input": "And thanks to the bravery of this young man in particular, [Tweek smiles proudly] ...Hat McCullough is finally free from prison! [the smiles fade from the boys' faces]\n",
+    "output": "Yeah! Woohoohoo!\n"
+  },
+  {
+    "input": "Yeah! Woohoohoo!\n",
+    "output": "...What? [a thin balding man with creepy appearance walks onstage and waves to everyone]\n"
+  },
+  {
+    "input": "...What? [a thin balding man with creepy appearance walks onstage and waves to everyone]\n",
+    "output": "Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat!\n"
+  },
+  {
+    "input": "Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat! Hat!\n",
+    "output": "Thank you everyone-KILL! KILL THE INNOCENT!! Uh, I'm so thankful for all your support-RAPE THE VIRGINS!! And uh, I just wonder if i could get a baby real quick? [grins in a creepy way. The crowd falls silent for a moment]\n"
+  },
+  {
+    "input": "Thank you everyone-KILL! KILL THE INNOCENT!! Uh, I'm so thankful for all your support-RAPE THE VIRGINS!! And uh, I just wonder if i could get a baby real quick? [grins in a creepy way. The crowd falls silent for a moment]\n",
+    "output": "Sure. Give that man a baby!\n"
+  },
+  {
+    "input": "Sure. Give that man a baby!\n",
+    "output": "Yeah! Woohoohoo! [the aide comes onstage holding a baby in his arms. Hat looks at the baby sinisterly. The baby senses this and quickly crawls up the aide's arm and onto his shoulder]\n"
+  },
+  {
+    "input": "Yeah! Woohoohoo! [the aide comes onstage holding a baby in his arms. Hat looks at the baby sinisterly. The baby senses this and quickly crawls up the aide's arm and onto his shoulder]\n",
+    "output": "Come on, you guys. Let's get out of here. [the boys turn and walk off. Tweek can't help but look at the baby's fate]\n"
+  },
+  {
+    "input": "Come on, you guys. Let's get out of here. [the boys turn and walk off. Tweek can't help but look at the baby's fate]\n",
+    "output": "Oh my God!\n[South Park, day. The boys walk away from the celebration and down the street.]\n"
+  },
+  {
+    "input": "Oh my God!\n[South Park, day. The boys walk away from the celebration and down the street.]\n",
+    "output": "Do you think we did a good thing, Stan? [the boys stop] I mean, no one even seemed to notice.\n"
+  },
+  {
+    "input": "Do you think we did a good thing, Stan? [the boys stop] I mean, no one even seemed to notice.\n",
+    "output": "Yeah well, sometimes the things we do don't matter right now. Sometimes they matter... later. We have to care more about later sometimes, you know? I think that's what separates us from the Steven Spielbergs and George Lucases of the world.\n"
+  },
+  {
+    "input": "Yeah well, sometimes the things we do don't matter right now. Sometimes they matter... later. We have to care more about later sometimes, you know? I think that's what separates us from the Steven Spielbergs and George Lucases of the world.\n",
+    "output": "That and youth. Those guys are old.\n"
+  },
+  {
+    "input": "That and youth. Those guys are old.\n",
+    "output": "But what about the original prints of Raiders of the Lost Ark? What if somebody else takes them and tries to change them?\n"
+  }
+]

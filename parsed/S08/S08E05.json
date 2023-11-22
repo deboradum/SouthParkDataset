@@ -1,0 +1,1130 @@
+[
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "\n[Butters' house, day. Butters is in the living room eating some soup. The doorbell rings. Butters stops and looks at the door. He rises and opens it, and sees a large wooden crate waiting on the porch.]\n"
+  },
+  {
+    "input": "\n[Butters' house, day. Butters is in the living room eating some soup. The doorbell rings. Butters stops and looks at the door. He rises and opens it, and sees a large wooden crate waiting on the porch.]\n",
+    "output": "What the heck?\n[Butters steps outside to look for the address label.]\n"
+  },
+  {
+    "input": "What the heck?\n[Butters steps outside to look for the address label.]\n",
+    "output": "Whoa! What a huge package! [finds it, the shipping label reads]\n"
+  },
+  {
+    "input": "Whoa! What a huge package! [finds it, the shipping label reads]\n",
+    "output": "To Butters Stotch. Oh boy! It's for me! It's for me! [returns to the crate's label]\n"
+  },
+  {
+    "input": "To Butters Stotch. Oh boy! It's for me! It's for me! [returns to the crate's label]\n",
+    "output": "Who is it from? \"Sent from: Japan. Konichi-wa.\" [skips around] Wow! A package for me from Japan!!+\n[Butters pushes the crate into the house.]\n"
+  },
+  {
+    "input": "Who is it from? \"Sent from: Japan. Konichi-wa.\" [skips around] Wow! A package for me from Japan!!+\n[Butters pushes the crate into the house.]\n",
+    "output": "Wow, what can it be? My birthday isn't until September 11.\n[Butters skips around and runs into the house. He returns with a small crowbar.]\n"
+  },
+  {
+    "input": "Wow, what can it be? My birthday isn't until September 11.\n[Butters skips around and runs into the house. He returns with a small crowbar.]\n",
+    "output": "Oh boy! I've never gotten a package this big! I've always wanted to have a huge package.\n[Butters tugs at the panel he loosened. The panel swings down and Butters flies off. He lays on his back and looks up. A large A.W.E.S.O.M.- O., wide enough to resemble Cartman, walks out of the crate.]\n"
+  },
+  {
+    "input": "Oh boy! I've never gotten a package this big! I've always wanted to have a huge package.\n[Butters tugs at the panel he loosened. The panel swings down and Butters flies off. He lays on his back and looks up. A large A.W.E.S.O.M.- O., wide enough to resemble Cartman, walks out of the crate.]\n",
+    "output": "[monotone] Greetings. I am the AWESOM-O 4000.\n"
+  },
+  {
+    "input": "[monotone] Greetings. I am the AWESOM-O 4000.\n",
+    "output": "[dazzled] Whoa...\n"
+  },
+  {
+    "input": "[dazzled] Whoa...\n",
+    "output": "I have been sent from Japan to serve as your personal robot.\n"
+  },
+  {
+    "input": "I have been sent from Japan to serve as your personal robot.\n",
+    "output": "[approaches AWESOM-O] You... you're my robot?\n"
+  },
+  {
+    "input": "[approaches AWESOM-O] You... you're my robot?\n",
+    "output": "Yes. I will be your new best friend.\n"
+  },
+  {
+    "input": "Yes. I will be your new best friend.\n",
+    "output": "Oh wow!\n[Moments later, Butters has Cartman sitting on his bed. Butters goes to his desk and makes a few calls.]\n"
+  },
+  {
+    "input": "Oh wow!\n[Moments later, Butters has Cartman sitting on his bed. Butters goes to his desk and makes a few calls.]\n",
+    "output": "Yep. That's right. He's a real live robot. He can walk and talk and everything. You're like the fourth kid I told already.\n[Cartman snickers to himself]\n"
+  },
+  {
+    "input": "Yep. That's right. He's a real live robot. He can walk and talk and everything. You're like the fourth kid I told already.\n[Cartman snickers to himself]\n",
+    "output": "Well I gotta go, Dougie. My robot and I have stuff to do.\n[Butters hangs up, takes the phone back to his bedside table and sets the phone down.]\n"
+  },
+  {
+    "input": "Well I gotta go, Dougie. My robot and I have stuff to do.\n[Butters hangs up, takes the phone back to his bedside table and sets the phone down.]\n",
+    "output": "Heheh, they're all so jealous! [He hops onto the bed next to Cartman.] I'm so glad you came into my life, AWESOM-O. You're the best friend a guy could have.\n"
+  },
+  {
+    "input": "Heheh, they're all so jealous! [He hops onto the bed next to Cartman.] I'm so glad you came into my life, AWESOM-O. You're the best friend a guy could have.\n",
+    "output": "Yes. You can trust AWESOM-O. In fact, you should tell AWESOM-O all your most personal secrets. AWESOM-O will not make fun of you or tell your secrets to other people and stuff.\n"
+  },
+  {
+    "input": "Yes. You can trust AWESOM-O. In fact, you should tell AWESOM-O all your most personal secrets. AWESOM-O will not make fun of you or tell your secrets to other people and stuff.\n",
+    "output": "Hey yeah! Well, I can tell you anything, huh? [strokes his chin] Well lessee... Well, for one, I have what's called a hesitated colon, which means I sometimes can't control my sphincter.\n"
+  },
+  {
+    "input": "Hey yeah! Well, I can tell you anything, huh? [strokes his chin] Well lessee... Well, for one, I have what's called a hesitated colon, which means I sometimes can't control my sphincter.\n",
+    "output": "[snickers] Really?\n"
+  },
+  {
+    "input": "[snickers] Really?\n",
+    "output": "Well, nobody knows it, but sometimes I poop my pants, so I have to wear a diaper to school. [Cartman begins to chuckle] You okay, AWESOM-O?\n"
+  },
+  {
+    "input": "Well, nobody knows it, but sometimes I poop my pants, so I have to wear a diaper to school. [Cartman begins to chuckle] You okay, AWESOM-O?\n",
+    "output": "Yes. AWESOM-O is fine. Please go on.\n"
+  },
+  {
+    "input": "Yes. AWESOM-O is fine. Please go on.\n",
+    "output": "Well, I have to take medicine for it every day. It's a little suppository I have to... put up my rectum.\n"
+  },
+  {
+    "input": "Well, I have to take medicine for it every day. It's a little suppository I have to... put up my rectum.\n",
+    "output": "[laughs] That, that's very interesting. Tell AWESOM-O more secrets.\n"
+  },
+  {
+    "input": "[laughs] That, that's very interesting. Tell AWESOM-O more secrets.\n",
+    "output": "Hm, okay. Let's see [strokes his chin] Oh, my parents don't know, but sometimes I get picked on by this one kid at school; his name is Eric Cartman, and he always tries to play jokes on me and stuff.\n"
+  },
+  {
+    "input": "Hm, okay. Let's see [strokes his chin] Oh, my parents don't know, but sometimes I get picked on by this one kid at school; his name is Eric Cartman, and he always tries to play jokes on me and stuff.\n",
+    "output": "Oh, really?\n"
+  },
+  {
+    "input": "Oh, really?\n",
+    "output": "Yeah. One time he made me think a meteor had hit the earth, and convinced me to stay down in a bomb shelter for three days.\n"
+  },
+  {
+    "input": "Yeah. One time he made me think a meteor had hit the earth, and convinced me to stay down in a bomb shelter for three days.\n",
+    "output": "Heh. Wow, that sucks.\n"
+  },
+  {
+    "input": "Heh. Wow, that sucks.\n",
+    "output": "Yeah. And then this other time, he pretended to be me on the phone to my dad and called him a pussy, so my dad came home and beat me.\n"
+  },
+  {
+    "input": "Yeah. And then this other time, he pretended to be me on the phone to my dad and called him a pussy, so my dad came home and beat me.\n",
+    "output": "Wow. Sounds like this Cartman kid is pretty smart.\n"
+  },
+  {
+    "input": "Wow. Sounds like this Cartman kid is pretty smart.\n",
+    "output": "No, he's not smart! He's just an asshole. And he's never gonna play a trick on me ever again! [hops off and walks towards his desk.]\n"
+  },
+  {
+    "input": "No, he's not smart! He's just an asshole. And he's never gonna play a trick on me ever again! [hops off and walks towards his desk.]\n",
+    "output": "Really? You think so? Well, guess what, Butters. I have a surprise for you.\n"
+  },
+  {
+    "input": "Really? You think so? Well, guess what, Butters. I have a surprise for you.\n",
+    "output": "Yeah, and he's never gonna get me again! 'Cause what Cartman doesn't know is that I know one of his secrets!\n"
+  },
+  {
+    "input": "Yeah, and he's never gonna get me again! 'Cause what Cartman doesn't know is that I know one of his secrets!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "When Cartman is playing all alone in his backyard, he likes to dress up like Britney Spears and pretend he's her! He sings and dances around with a life-sized cutout of Justin Timberlake.\n"
+  },
+  {
+    "input": "When Cartman is playing all alone in his backyard, he likes to dress up like Britney Spears and pretend he's her! He sings and dances around with a life-sized cutout of Justin Timberlake.\n",
+    "output": "You saw that?\n"
+  },
+  {
+    "input": "You saw that?\n",
+    "output": "Yeah! And I videotaped him doing it!\n"
+  },
+  {
+    "input": "Yeah! And I videotaped him doing it!\n",
+    "output": "Nuh uh.\n"
+  },
+  {
+    "input": "Nuh uh.\n",
+    "output": "I've got the whole thing on tape! Even him making out with the Justin Timberlake cutout!\n"
+  },
+  {
+    "input": "I've got the whole thing on tape! Even him making out with the Justin Timberlake cutout!\n",
+    "output": "No way.\n"
+  },
+  {
+    "input": "No way.\n",
+    "output": "Yeah! And if Cartman ever messes with me again, I'm gonna show that video to everybody! Then I'll have my revenge, boy howdy!\n"
+  },
+  {
+    "input": "Yeah! And if Cartman ever messes with me again, I'm gonna show that video to everybody! Then I'll have my revenge, boy howdy!\n",
+    "output": "[beat] ...Um, where is this videotape, Butters?\n"
+  },
+  {
+    "input": "[beat] ...Um, where is this videotape, Butters?\n",
+    "output": "Huh? Oh, I dunno. It's around here somewhere. Hey! So what do you wanna do now, AWESOM-O?\n"
+  },
+  {
+    "input": "Huh? Oh, I dunno. It's around here somewhere. Hey! So what do you wanna do now, AWESOM-O?\n",
+    "output": "Uh, Butters, maybe you should give AWESOM-O the videotape?\n"
+  },
+  {
+    "input": "Uh, Butters, maybe you should give AWESOM-O the videotape?\n",
+    "output": "How come?\n"
+  },
+  {
+    "input": "How come?\n",
+    "output": "Well, because... AWESOM-O can, like, back it up for you, and make copies and stuff. I am AWESOM-O.\n"
+  },
+  {
+    "input": "Well, because... AWESOM-O can, like, back it up for you, and make copies and stuff. I am AWESOM-O.\n",
+    "output": "Oh, that's all right, AWESOM-O. Come on! I have a lot of things to teach you. [leaves the room]\n"
+  },
+  {
+    "input": "Oh, that's all right, AWESOM-O. Come on! I have a lot of things to teach you. [leaves the room]\n",
+    "output": "[moments later, still on the bed] Oh, son of a bitch!\n[Montage. Butters tosses a basketball with Cartman on the front lawn. Cartman, as AWESOM-O, can't catch it.]\n"
+  },
+  {
+    "input": "[moments later, still on the bed] Oh, son of a bitch!\n[Montage. Butters tosses a basketball with Cartman on the front lawn. Cartman, as AWESOM-O, can't catch it.]\n",
+    "output": "Hey there have you heard about my robot friend?\n[They're walking along in a meadow. Butters is telling him a story.]\n"
+  },
+  {
+    "input": "Hey there have you heard about my robot friend?\n[They're walking along in a meadow. Butters is telling him a story.]\n",
+    "output": "He's metal and small and doesn't judge me at all.\nHe's a cyber, wired bundle of joy.\n[Butters has AWESOM-O take shots at a basketball hoop. The shot is good and Butters is pleased.]\n"
+  },
+  {
+    "input": "He's metal and small and doesn't judge me at all.\nHe's a cyber, wired bundle of joy.\n[Butters has AWESOM-O take shots at a basketball hoop. The shot is good and Butters is pleased.]\n",
+    "output": "My robot friend.\n[Stan, Kyle and Kenny observe nearby from behind a bush. They're dismayed at what they see. Stan pinches his nose and shuts his eyes in frustration, then walks off. Kyle and Kenny follow.]\n"
+  },
+  {
+    "input": "My robot friend.\n[Stan, Kyle and Kenny observe nearby from behind a bush. They're dismayed at what they see. Stan pinches his nose and shuts his eyes in frustration, then walks off. Kyle and Kenny follow.]\n",
+    "output": "I like to dip and daddle with my robot friend.\n[Butters jumps in a puddle, then has AWESOM-O do the same. Butters giggles.]\n"
+  },
+  {
+    "input": "I like to dip and daddle with my robot friend.\n[Butters jumps in a puddle, then has AWESOM-O do the same. Butters giggles.]\n",
+    "output": "He's smart as can be and emotion-free\n[Butters washes dishes while AWESOM-O dries them, then they go see \"The Prince and Me.\" They exit, with Butters skipping beside AWESOM-O.]\n"
+  },
+  {
+    "input": "He's smart as can be and emotion-free\n[Butters washes dishes while AWESOM-O dries them, then they go see \"The Prince and Me.\" They exit, with Butters skipping beside AWESOM-O.]\n",
+    "output": "And he's computed his way to my heart.\nMy robot friend.\n[At a restaurant two burgers reach Butters' table. He gets one, he motions to the waiter that AWESOM-O doesn't need the other one. The waiter looks confused, then walks away with the other burger.]\n"
+  },
+  {
+    "input": "And he's computed his way to my heart.\nMy robot friend.\n[At a restaurant two burgers reach Butters' table. He gets one, he motions to the waiter that AWESOM-O doesn't need the other one. The waiter looks confused, then walks away with the other burger.]\n",
+    "output": "My robot friend.\n[Butters has AWESOM-O pull him along in a red wagon.]\n"
+  },
+  {
+    "input": "My robot friend.\n[Butters has AWESOM-O pull him along in a red wagon.]\n",
+    "output": "My robot friend.\n[They walk into a sunset together.]\n"
+  },
+  {
+    "input": "My robot friend.\n[They walk into a sunset together.]\n",
+    "output": "My robot... friend.\n[Butters' house, living room. His dad reads the newspaper, his mom arrives with coffee and cookies and sets them down on the coffee table.]\n"
+  },
+  {
+    "input": "My robot... friend.\n[Butters' house, living room. His dad reads the newspaper, his mom arrives with coffee and cookies and sets them down on the coffee table.]\n",
+    "output": "Oohhh, that's so cute. Did you see Butters and his friend Eric playing Robot?\n"
+  },
+  {
+    "input": "Oohhh, that's so cute. Did you see Butters and his friend Eric playing Robot?\n",
+    "output": "[tosses the paper onto the couch arm as Linda serves him coffee] Yes. Those boys are quite imaginative. Leave it to them to find a fun way to do the dishes. [takes his cup]\n"
+  },
+  {
+    "input": "[tosses the paper onto the couch arm as Linda serves him coffee] Yes. Those boys are quite imaginative. Leave it to them to find a fun way to do the dishes. [takes his cup]\n",
+    "output": "[leading Cartman to the stairs] That's great AWESOM-O! [Cartman carries a pile of clothes] You can carry all my laundry in one trip!\n"
+  },
+  {
+    "input": "[leading Cartman to the stairs] That's great AWESOM-O! [Cartman carries a pile of clothes] You can carry all my laundry in one trip!\n",
+    "output": "Ah, Butters, it's getting late. You should be getting ready for bed soon.\n"
+  },
+  {
+    "input": "Ah, Butters, it's getting late. You should be getting ready for bed soon.\n",
+    "output": "Okay Mom. Well, come on, AWESOM-O. Bedtime.\n"
+  },
+  {
+    "input": "Okay Mom. Well, come on, AWESOM-O. Bedtime.\n",
+    "output": "Oh, is your little robot friend staying the night?\n"
+  },
+  {
+    "input": "Oh, is your little robot friend staying the night?\n",
+    "output": "Well of course he is. He's my robot, ain't he?\n"
+  },
+  {
+    "input": "Well of course he is. He's my robot, ain't he?\n",
+    "output": "That's okay with your mom, Mr. Robot?\n"
+  },
+  {
+    "input": "That's okay with your mom, Mr. Robot?\n",
+    "output": "AWESOM-O does not have a mom.\n"
+  },
+  {
+    "input": "AWESOM-O does not have a mom.\n",
+    "output": "Yeah! Don't you know nothin' about robots? Come on, AWESOM-O! You can put my laundry away! [Cartman follows Butters upstairs]\n"
+  },
+  {
+    "input": "Yeah! Don't you know nothin' about robots? Come on, AWESOM-O! You can put my laundry away! [Cartman follows Butters upstairs]\n",
+    "output": "Aw, that's just adorable.\n"
+  },
+  {
+    "input": "Aw, that's just adorable.\n",
+    "output": "It's good to see Butters finally have a friend that wants to stay over.\n[The Stotch bathroom. Butters is brushing his teeth, AWESOM-O stands next to him.]\n"
+  },
+  {
+    "input": "It's good to see Butters finally have a friend that wants to stay over.\n[The Stotch bathroom. Butters is brushing his teeth, AWESOM-O stands next to him.]\n",
+    "output": "I love to brush my teeth! In the mornin' and at night!\nTo keep 'em white and healthy, I got to brush them all the time!\n"
+  },
+  {
+    "input": "I love to brush my teeth! In the mornin' and at night!\nTo keep 'em white and healthy, I got to brush them all the time!\n",
+    "output": "[under his breath] Grrr. Jesus Christ I can't go on like this. [normal. Butters opens up the medicine cabinet] Butters, remember when you said you had a video of Eric Cartman dressed like Britney Spears?\n"
+  },
+  {
+    "input": "[under his breath] Grrr. Jesus Christ I can't go on like this. [normal. Butters opens up the medicine cabinet] Butters, remember when you said you had a video of Eric Cartman dressed like Britney Spears?\n",
+    "output": "Oh. Yeah.\n"
+  },
+  {
+    "input": "Oh. Yeah.\n",
+    "output": "I would like to see what he looks like so I can beat him up for you. May I see the video?\n"
+  },
+  {
+    "input": "I would like to see what he looks like so I can beat him up for you. May I see the video?\n",
+    "output": "[turns around carrying a box of suppositories] Awww, you don't need to do that, AWESOM-O. Hey, I gotta put in my suppository. [takes one out and puts the box on the cabinet] Can you help me?\n"
+  },
+  {
+    "input": "[turns around carrying a box of suppositories] Awww, you don't need to do that, AWESOM-O. Hey, I gotta put in my suppository. [takes one out and puts the box on the cabinet] Can you help me?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Remember I said I put that medicinal suppository in my anus? It'll be so much easier havin' you do it from now on.\n"
+  },
+  {
+    "input": "Remember I said I put that medicinal suppository in my anus? It'll be so much easier havin' you do it from now on.\n",
+    "output": "Um. Actually, AWESOM-O was not programmed for that function.\n"
+  },
+  {
+    "input": "Um. Actually, AWESOM-O was not programmed for that function.\n",
+    "output": "[hops down from the stool] Haw, it's real easy. I'll show you. You just take this little thingy out of the plastic... paper, and I'll, I'll pull down my pants ...and just slide it up in my anus there.\n"
+  },
+  {
+    "input": "[hops down from the stool] Haw, it's real easy. I'll show you. You just take this little thingy out of the plastic... paper, and I'll, I'll pull down my pants ...and just slide it up in my anus there.\n",
+    "output": "...No way.\n"
+  },
+  {
+    "input": "...No way.\n",
+    "output": "AWESOM-O, I though you were programmed to do whatever I tell you.\n"
+  },
+  {
+    "input": "AWESOM-O, I though you were programmed to do whatever I tell you.\n",
+    "output": "Weak! [turns right and faces Butters' ass.]\n"
+  },
+  {
+    "input": "Weak! [turns right and faces Butters' ass.]\n",
+    "output": "Ye- yeah, that, that's pretty good. Get it up there good and deep.\n"
+  },
+  {
+    "input": "Ye- yeah, that, that's pretty good. Get it up there good and deep.\n",
+    "output": "Lame!\n[Butters' house, moments later.]\n"
+  },
+  {
+    "input": "Lame!\n[Butters' house, moments later.]\n",
+    "output": "All right AWESOM-O, time for us to get some sleep. [POV changes from outside to bedroom overhead] Hey, you want me to teach you some bedtime songs? If you leave me now, you'll take away the biggest part of me. Ooo-oo-oooo-oo-oo...\n"
+  },
+  {
+    "input": "All right AWESOM-O, time for us to get some sleep. [POV changes from outside to bedroom overhead] Hey, you want me to teach you some bedtime songs? If you leave me now, you'll take away the biggest part of me. Ooo-oo-oooo-oo-oo...\n",
+    "output": "AWESOM-O must rest! His CPU system overloading.\n"
+  },
+  {
+    "input": "AWESOM-O must rest! His CPU system overloading.\n",
+    "output": "Oh, o-o-all right AWESOM-O. Let's get us some shut-eye, [turns off the light] or what, or whatever robots have.\n[Butters closes his eyes and drifts off to sleep. He turns to his left and places a hand on AWESOM-O.]\n[Morning. A cock crows. Butters wakes up, but AWESOM-O isn't in bed with him. He looks around and sees his room is a mess. His drawers are out of the dressers and his clothes are strewn all over the place. One of his clothing rods has been knocked down and his closet doors are open. AWESOM-O is shown at Butters' desk looking through more stuff.]\n"
+  },
+  {
+    "input": "Oh, o-o-all right AWESOM-O. Let's get us some shut-eye, [turns off the light] or what, or whatever robots have.\n[Butters closes his eyes and drifts off to sleep. He turns to his left and places a hand on AWESOM-O.]\n[Morning. A cock crows. Butters wakes up, but AWESOM-O isn't in bed with him. He looks around and sees his room is a mess. His drawers are out of the dressers and his clothes are strewn all over the place. One of his clothing rods has been knocked down and his closet doors are open. AWESOM-O is shown at Butters' desk looking through more stuff.]\n",
+    "output": "Where is it? Where is it?!\n"
+  },
+  {
+    "input": "Where is it? Where is it?!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Wah!\n"
+  },
+  {
+    "input": "Wah!\n",
+    "output": "AWESOM-O, what the Sam Heck are you doing?\n"
+  },
+  {
+    "input": "AWESOM-O, what the Sam Heck are you doing?\n",
+    "output": "Um, ah AWESOM-O is reorganizing your stuff for you.\n"
+  },
+  {
+    "input": "Um, ah AWESOM-O is reorganizing your stuff for you.\n",
+    "output": "Aw Jeez, Jeez Louise! My mom is gonna be awful sore when she sees this mess! Now AWESOM-O, that is a bad robot! You can't do no chores for me unless I tell you to do them! You got it?!\n"
+  },
+  {
+    "input": "Aw Jeez, Jeez Louise! My mom is gonna be awful sore when she sees this mess! Now AWESOM-O, that is a bad robot! You can't do no chores for me unless I tell you to do them! You got it?!\n",
+    "output": "AWESOM-O understands.\n"
+  },
+  {
+    "input": "AWESOM-O understands.\n",
+    "output": "Now I'm gonna have to give ya a spankin', AWESOM-O, so that you'll learn better!\n[Three spankings follow, but as they are done against the robot frame, they are ineffective.]\n"
+  },
+  {
+    "input": "Now I'm gonna have to give ya a spankin', AWESOM-O, so that you'll learn better!\n[Three spankings follow, but as they are done against the robot frame, they are ineffective.]\n",
+    "output": "Just know, AWESOM-O, that I did it because I love you. Okay, come on, let's go make some breakfast.\n"
+  },
+  {
+    "input": "Just know, AWESOM-O, that I did it because I love you. Okay, come on, let's go make some breakfast.\n",
+    "output": "Goddamnit, I have to find that videotape!\n[Butters' house, downstairs. Butters is drawing a picture at the coffee table.]\n"
+  },
+  {
+    "input": "Goddamnit, I have to find that videotape!\n[Butters' house, downstairs. Butters is drawing a picture at the coffee table.]\n",
+    "output": "Look at that, AWESOM-O! I drew a picture of us playing in a field together. [Butters and AWESOM-O are walking in a field] Ah I'll be right back. I'm gonna get some Sunny Delight. [walks off]\n"
+  },
+  {
+    "input": "Look at that, AWESOM-O! I drew a picture of us playing in a field together. [Butters and AWESOM-O are walking in a field] Ah I'll be right back. I'm gonna get some Sunny Delight. [walks off]\n",
+    "output": "I would like some Sunny Delight too.\n"
+  },
+  {
+    "input": "I would like some Sunny Delight too.\n",
+    "output": "[tickled] Don't be silly, AWESOM-O. Robots don't need to drink nothin'. [tickled, turns away] Uh, heehee. [the doorbell rings] Whoa. Uh, go answer the door, AWESOM-O.\n"
+  },
+  {
+    "input": "[tickled] Don't be silly, AWESOM-O. Robots don't need to drink nothin'. [tickled, turns away] Uh, heehee. [the doorbell rings] Whoa. Uh, go answer the door, AWESOM-O.\n",
+    "output": "[turns] AWESOM-O will answers the door. [walks towards the door as Butters leaves and opens it. He sees Stan, Kyle, and Kenny]\n"
+  },
+  {
+    "input": "[turns] AWESOM-O will answers the door. [walks towards the door as Butters leaves and opens it. He sees Stan, Kyle, and Kenny]\n",
+    "output": "What the hell are you doing, fatass?\n"
+  },
+  {
+    "input": "What the hell are you doing, fatass?\n",
+    "output": "Dude, are you still pretending to be a robot?\n"
+  },
+  {
+    "input": "Dude, are you still pretending to be a robot?\n",
+    "output": "[normal voice] Shh! [lifts up the helmet part of the outfit] I just need to uh make Butters think I'm a robot for a little while longer.\n"
+  },
+  {
+    "input": "[normal voice] Shh! [lifts up the helmet part of the outfit] I just need to uh make Butters think I'm a robot for a little while longer.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Because I need to, all right?! I've got something planned that's uh gonna be really sweet. Just play along, okay?\n"
+  },
+  {
+    "input": "Because I need to, all right?! I've got something planned that's uh gonna be really sweet. Just play along, okay?\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Kyle, Goddamnit, will you just do-?\n"
+  },
+  {
+    "input": "Kyle, Goddamnit, will you just do-?\n",
+    "output": "[appears behind Cartman holding his glass of Sunny Delight] Who's at the door, AWESOM-O?\n[Cartman turns around, then adjusts his helmet.]\n"
+  },
+  {
+    "input": "[appears behind Cartman holding his glass of Sunny Delight] Who's at the door, AWESOM-O?\n[Cartman turns around, then adjusts his helmet.]\n",
+    "output": "[monotone] Three boys named Stan, Kyle, and Kenny.\n"
+  },
+  {
+    "input": "[monotone] Three boys named Stan, Kyle, and Kenny.\n",
+    "output": "Ah, hey fellas! Ah, I see you met my robot.\n"
+  },
+  {
+    "input": "Ah, hey fellas! Ah, I see you met my robot.\n",
+    "output": "Uh yeah, Butters, he's real cool.\n"
+  },
+  {
+    "input": "Uh yeah, Butters, he's real cool.\n",
+    "output": "Hey he sure is! We do everything together. Why last night we even had a slumber party. [Stan, Kyle, and Kenny quickly look to Cartman]\n"
+  },
+  {
+    "input": "Hey he sure is! We do everything together. Why last night we even had a slumber party. [Stan, Kyle, and Kenny quickly look to Cartman]\n",
+    "output": "Weak.\n"
+  },
+  {
+    "input": "Weak.\n",
+    "output": "He can do anything I command him to. He's real smart. Watch this: Hey AWESOM-O, will you go get my friends some Sunny Delight?\n"
+  },
+  {
+    "input": "He can do anything I command him to. He's real smart. Watch this: Hey AWESOM-O, will you go get my friends some Sunny Delight?\n",
+    "output": "Yes, of course. [begins to walk towards the kitchen]\n"
+  },
+  {
+    "input": "Yes, of course. [begins to walk towards the kitchen]\n",
+    "output": "Oh wait. Hey AWESOM-O, [Cartman stops] I'd also like some celery sticks chopped up two inches long, with peanut butter and raisins on top.\n"
+  },
+  {
+    "input": "Oh wait. Hey AWESOM-O, [Cartman stops] I'd also like some celery sticks chopped up two inches long, with peanut butter and raisins on top.\n",
+    "output": "Suck my balls, Kyle. [resumes his walk]\n"
+  },
+  {
+    "input": "Suck my balls, Kyle. [resumes his walk]\n",
+    "output": "[cheerfully] He's made in Japan!\n[The dining room. Stephen holds a cup of coffee and listens as Linda talks to Liane.]\n"
+  },
+  {
+    "input": "[cheerfully] He's made in Japan!\n[The dining room. Stephen holds a cup of coffee and listens as Linda talks to Liane.]\n",
+    "output": "Yes, it has just been a delight having your son over, Mrs. Cartman. He and Butters are really getting along great.\n"
+  },
+  {
+    "input": "Yes, it has just been a delight having your son over, Mrs. Cartman. He and Butters are really getting along great.\n",
+    "output": "Oh, I'm so glad to hear it, Mrs. Stotch. Eric has been having some emotional problems lately.\n"
+  },
+  {
+    "input": "Oh, I'm so glad to hear it, Mrs. Stotch. Eric has been having some emotional problems lately.\n",
+    "output": "Well, the reason I'm calling is that Butters is supposed to go see his Aunt Nellie in Los Angeles this weekend. The boys are getting along so well, that we were thinking of inviting Eric to go along.\n"
+  },
+  {
+    "input": "Well, the reason I'm calling is that Butters is supposed to go see his Aunt Nellie in Los Angeles this weekend. The boys are getting along so well, that we were thinking of inviting Eric to go along.\n",
+    "output": "Oh, well, I'm not sure. Actually, Eric is still supposed to be grounded for trying to exterminate the Jews two weeks ago.\n"
+  },
+  {
+    "input": "Oh, well, I'm not sure. Actually, Eric is still supposed to be grounded for trying to exterminate the Jews two weeks ago.\n",
+    "output": "[Stephen takes a sip] Excuse me, I didn't catch that.\n"
+  },
+  {
+    "input": "[Stephen takes a sip] Excuse me, I didn't catch that.\n",
+    "output": "Oh, but I suppose it would be good for him. Yes, of course he can go. I'll bring some of clothes over.\n"
+  },
+  {
+    "input": "Oh, but I suppose it would be good for him. Yes, of course he can go. I'll bring some of clothes over.\n",
+    "output": "Oh, wonderful! The boys will be so excited.\n[The kitchen. AWESOM-O rummages around under the sink.]\n"
+  },
+  {
+    "input": "Oh, wonderful! The boys will be so excited.\n[The kitchen. AWESOM-O rummages around under the sink.]\n",
+    "output": "Maybe he put that videotape in here somewhere.\n"
+  },
+  {
+    "input": "Maybe he put that videotape in here somewhere.\n",
+    "output": "[enters] AWESOM-O, what are you doing? My friends are waiting for their beverages. Chop chop! [Cartman moves to the refrigerator, Stephen and Linda enter]\n"
+  },
+  {
+    "input": "[enters] AWESOM-O, what are you doing? My friends are waiting for their beverages. Chop chop! [Cartman moves to the refrigerator, Stephen and Linda enter]\n",
+    "output": "Hey guys, great news! It's been arranged, you two are both going to Los Angeles to visit Butters' Aunt Nellie!\n"
+  },
+  {
+    "input": "Hey guys, great news! It's been arranged, you two are both going to Los Angeles to visit Butters' Aunt Nellie!\n",
+    "output": "[overjoyed] Oh boy! My robot gets to come with me to see Aunt Nellie?!\n"
+  },
+  {
+    "input": "[overjoyed] Oh boy! My robot gets to come with me to see Aunt Nellie?!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Oh boy, [shakes Cartman's hand] AWESOM-O! We're gonna have the best time ever! [hugs the \"robot\"]\n"
+  },
+  {
+    "input": "Oh boy, [shakes Cartman's hand] AWESOM-O! We're gonna have the best time ever! [hugs the \"robot\"]\n",
+    "output": "Lame.\n[Los Angeles, day. The Hollywood sign appears in the background.]\n[Aunt Nellie's house.]\n"
+  },
+  {
+    "input": "Lame.\n[Los Angeles, day. The Hollywood sign appears in the background.]\n[Aunt Nellie's house.]\n",
+    "output": "Hey Nellie, guess what I found scrampin' around the airport. [Butters enters in a suit]\n"
+  },
+  {
+    "input": "Hey Nellie, guess what I found scrampin' around the airport. [Butters enters in a suit]\n",
+    "output": "Hi Aunt Nellie! [runs up to her and they hug each other]\n"
+  },
+  {
+    "input": "Hi Aunt Nellie! [runs up to her and they hug each other]\n",
+    "output": "There's my little nephew! How was your flight? [they let go of each other]\n"
+  },
+  {
+    "input": "There's my little nephew! How was your flight? [they let go of each other]\n",
+    "output": "It was long. We had a three-hour delay... departin' Denver, but we're here!\n"
+  },
+  {
+    "input": "It was long. We had a three-hour delay... departin' Denver, but we're here!\n",
+    "output": "Didn't ya bring any bags?\n"
+  },
+  {
+    "input": "Didn't ya bring any bags?\n",
+    "output": "Well, sure, but my robot is bringin' them in.\n"
+  },
+  {
+    "input": "Well, sure, but my robot is bringin' them in.\n",
+    "output": "Your robot?\n"
+  },
+  {
+    "input": "Your robot?\n",
+    "output": "Butters' new friend is a little strange. He, he really takes playing Robot seriously.\n[Cartman walks in mechanically with all the luggage.]\n"
+  },
+  {
+    "input": "Butters' new friend is a little strange. He, he really takes playing Robot seriously.\n[Cartman walks in mechanically with all the luggage.]\n",
+    "output": "There he is! AWESOM-O, this is my Aunt Nellie. [Cartman drops the suitcases]\n"
+  },
+  {
+    "input": "There he is! AWESOM-O, this is my Aunt Nellie. [Cartman drops the suitcases]\n",
+    "output": "Hello! It's nice to have you here.\n"
+  },
+  {
+    "input": "Hello! It's nice to have you here.\n",
+    "output": "AWESOM-O must dispense oil waste. Where is the nearest toilet, please?\n"
+  },
+  {
+    "input": "AWESOM-O must dispense oil waste. Where is the nearest toilet, please?\n",
+    "output": "Oh oh, right through there, Mr. Robot.\n"
+  },
+  {
+    "input": "Oh oh, right through there, Mr. Robot.\n",
+    "output": "Thank you. [walks in the direction Aunt Nellie points to]\n"
+  },
+  {
+    "input": "Thank you. [walks in the direction Aunt Nellie points to]\n",
+    "output": "I don't think he took the costume off the entire trip.\n"
+  },
+  {
+    "input": "I don't think he took the costume off the entire trip.\n",
+    "output": "Well, did you wanna get right to sight-seeing, or are you guys hungry after such a long flight.\n"
+  },
+  {
+    "input": "Well, did you wanna get right to sight-seeing, or are you guys hungry after such a long flight.\n",
+    "output": "Nah, I ate on the plane. And AWESOM-O is a robot, so he don't need to eat.\n"
+  },
+  {
+    "input": "Nah, I ate on the plane. And AWESOM-O is a robot, so he don't need to eat.\n",
+    "output": "Right...\n[Aunt Nellie's restroom. Cartman runs in frantically and takes off the helmet. His hair is matted against his head and he gasps for air. He runs up to the sink and reaches... for the toothpaste. He squeezes the tube and sucks out the contents hungrily.]\n"
+  },
+  {
+    "input": "Right...\n[Aunt Nellie's restroom. Cartman runs in frantically and takes off the helmet. His hair is matted against his head and he gasps for air. He runs up to the sink and reaches... for the toothpaste. He squeezes the tube and sucks out the contents hungrily.]\n",
+    "output": "[knocks on the door] AWESOM-O?\n"
+  },
+  {
+    "input": "[knocks on the door] AWESOM-O?\n",
+    "output": "Aw- Aw- AWESOM-O is coming. [finishes off the tube, hops down, and tosses the tube aside]\n"
+  },
+  {
+    "input": "Aw- Aw- AWESOM-O is coming. [finishes off the tube, hops down, and tosses the tube aside]\n",
+    "output": "Come on, AWESOM-O! We're gonna go sightseein'!\n"
+  },
+  {
+    "input": "Come on, AWESOM-O! We're gonna go sightseein'!\n",
+    "output": "Argh! [heads out.]\n[Montage. Hollywood Boulevard, facing the Chinese Theater. The Passion is playing there. Butters takes a picture of AWESOM-O next to the cemented hand- and footprints of the stars. Next, he and AWESOM-O ride down a log in an amusement park. Next, he and AWESOM-O are in a plane ride together. Next, AWESOM-O rubs some suntan lotion on Butters' back. Next, he and AWESOM-O take part in a Galaxy Studios Tour ride. A shark pops up and roars menacingly at the riders. Next, Catamount Pictures is shown.]\n"
+  },
+  {
+    "input": "Argh! [heads out.]\n[Montage. Hollywood Boulevard, facing the Chinese Theater. The Passion is playing there. Butters takes a picture of AWESOM-O next to the cemented hand- and footprints of the stars. Next, he and AWESOM-O ride down a log in an amusement park. Next, he and AWESOM-O are in a plane ride together. Next, AWESOM-O rubs some suntan lotion on Butters' back. Next, he and AWESOM-O take part in a Galaxy Studios Tour ride. A shark pops up and roars menacingly at the riders. Next, Catamount Pictures is shown.]\n",
+    "output": "I'm hangin' out in LA with my robot friend\nWe're havin' such fun in the hot hot sun\nWe're two of a kind-\nThat's me!\nAnd my robot friend.\nMy robot friend.\nMy robot friend.\n[Catamount Pictures. Butters and Cartman walk around. Cartman carries the bags.]\n"
+  },
+  {
+    "input": "I'm hangin' out in LA with my robot friend\nWe're havin' such fun in the hot hot sun\nWe're two of a kind-\nThat's me!\nAnd my robot friend.\nMy robot friend.\nMy robot friend.\n[Catamount Pictures. Butters and Cartman walk around. Cartman carries the bags.]\n",
+    "output": "Can you believe we're at a real live movie studio, AWESOM-O? Aren't we havin' the best time?!\n"
+  },
+  {
+    "input": "Can you believe we're at a real live movie studio, AWESOM-O? Aren't we havin' the best time?!\n",
+    "output": "Butters, wouldn't you like to have some time away from AWESOM-O? We could meet up later, perhaps?\n"
+  },
+  {
+    "input": "Butters, wouldn't you like to have some time away from AWESOM-O? We could meet up later, perhaps?\n",
+    "output": "Hey, look over there, AWESOM-O. The film studio commissary. [Le Catamount Bistr\u00f3] That's where all them rich movie producers who come up with uh, Hollywood blockbusters have their lunch. Neat-o, huh? [moves off]\n[Le Catamount Bistr\u00f3, Two producers talk.]\n"
+  },
+  {
+    "input": "Hey, look over there, AWESOM-O. The film studio commissary. [Le Catamount Bistr\u00f3] That's where all them rich movie producers who come up with uh, Hollywood blockbusters have their lunch. Neat-o, huh? [moves off]\n[Le Catamount Bistr\u00f3, Two producers talk.]\n",
+    "output": "[as the other producer eats] Damnit, Mitch. How come our movie studio can't come up with any winners? I mean, we're smart, right?\n"
+  },
+  {
+    "input": "[as the other producer eats] Damnit, Mitch. How come our movie studio can't come up with any winners? I mean, we're smart, right?\n",
+    "output": "[the bald producer] We're really smart.\n"
+  },
+  {
+    "input": "[the bald producer] We're really smart.\n",
+    "output": "We need an idea for a movie that's a home run. A feel-good romp for the whole family. [notices something and points] Hey, what's that over there? [Mitch looks over his shoulder. The camera looks at Butters and AWESOM-O attracting a crowd]\n"
+  },
+  {
+    "input": "We need an idea for a movie that's a home run. A feel-good romp for the whole family. [notices something and points] Hey, what's that over there? [Mitch looks over his shoulder. The camera looks at Butters and AWESOM-O attracting a crowd]\n",
+    "output": "Wow, that's a really neat little robot you have there, little boy.\n"
+  },
+  {
+    "input": "Wow, that's a really neat little robot you have there, little boy.\n",
+    "output": "What's he do?\n"
+  },
+  {
+    "input": "What's he do?\n",
+    "output": "Well, he can do anything. Watch this: Hey, AWESOM-O, who's gonna win the Super Bowl next year?\n"
+  },
+  {
+    "input": "Well, he can do anything. Watch this: Hey, AWESOM-O, who's gonna win the Super Bowl next year?\n",
+    "output": "The New Orleans Saints. [everyone around them laughs, and the producers approach]\n"
+  },
+  {
+    "input": "The New Orleans Saints. [everyone around them laughs, and the producers approach]\n",
+    "output": "Hey, Mr. Robot, how much wood would a woodchuck chuck if a woodchuck could chuck wood?\n"
+  },
+  {
+    "input": "Hey, Mr. Robot, how much wood would a woodchuck chuck if a woodchuck could chuck wood?\n",
+    "output": "Seventeen. [everyone laughs again]\n"
+  },
+  {
+    "input": "Seventeen. [everyone laughs again]\n",
+    "output": "Mitch, are you thinkin' what I'm thinkin'?\n"
+  },
+  {
+    "input": "Mitch, are you thinkin' what I'm thinkin'?\n",
+    "output": "[strokes his chin] Yeah. Maybe that robot can be programmed to come up with movie ideas! [smiles]\n"
+  },
+  {
+    "input": "[strokes his chin] Yeah. Maybe that robot can be programmed to come up with movie ideas! [smiles]\n",
+    "output": "[looks at him intently] Exactly! [smiles]\n[Catamount Pictures boardroom. The producer introduces Butters and AWESOM-O to his staff.]\n"
+  },
+  {
+    "input": "[looks at him intently] Exactly! [smiles]\n[Catamount Pictures boardroom. The producer introduces Butters and AWESOM-O to his staff.]\n",
+    "output": "Gentlemen, this little boy was kind enough to let us show you his robot. The AWESOM-O 4000. [approaches the robot, who's seated at one end of the table] I've already seen what it can do.\n"
+  },
+  {
+    "input": "Gentlemen, this little boy was kind enough to let us show you his robot. The AWESOM-O 4000. [approaches the robot, who's seated at one end of the table] I've already seen what it can do.\n",
+    "output": "Uh, excuse me sir, but uh, that's not a robot.\n"
+  },
+  {
+    "input": "Uh, excuse me sir, but uh, that's not a robot.\n",
+    "output": "It's not?\n"
+  },
+  {
+    "input": "It's not?\n",
+    "output": "No, it clearly had bipedal movement, so the correct term is \"computerized automatron.\"\n"
+  },
+  {
+    "input": "No, it clearly had bipedal movement, so the correct term is \"computerized automatron.\"\n",
+    "output": "Oh, very nice, Mitch.\n"
+  },
+  {
+    "input": "Oh, very nice, Mitch.\n",
+    "output": "You are the smart one.\n"
+  },
+  {
+    "input": "You are the smart one.\n",
+    "output": "Well, regardless, I believe maybe this automatron can help us come up with new movie ideas.\n"
+  },
+  {
+    "input": "Well, regardless, I believe maybe this automatron can help us come up with new movie ideas.\n",
+    "output": "How can a robot come up with better ideas for movies than us?\n"
+  },
+  {
+    "input": "How can a robot come up with better ideas for movies than us?\n",
+    "output": "Watch this: AWESOM-O, given the current trends of the movie-going public can you come up with an idea for a movie that will break a hundred million box office?\n"
+  },
+  {
+    "input": "Watch this: AWESOM-O, given the current trends of the movie-going public can you come up with an idea for a movie that will break a hundred million box office?\n",
+    "output": "Um... okay. How about this: [the staffers take pen to paper and anticipate the ideas] Adam Sandler is like, in love with some girl, but then it turns out that the girl is actually a... golden retriever, or something.\n"
+  },
+  {
+    "input": "Um... okay. How about this: [the staffers take pen to paper and anticipate the ideas] Adam Sandler is like, in love with some girl, but then it turns out that the girl is actually a... golden retriever, or something.\n",
+    "output": "[thinking over this idea, then write it down] Oh, perfect!\n"
+  },
+  {
+    "input": "[thinking over this idea, then write it down] Oh, perfect!\n",
+    "output": "We'll call it \"Puppy Love\"!\n"
+  },
+  {
+    "input": "We'll call it \"Puppy Love\"!\n",
+    "output": "Give us another movie idea, AWESOM-O!\n"
+  },
+  {
+    "input": "Give us another movie idea, AWESOM-O!\n",
+    "output": "Yeah, yeah!\n"
+  },
+  {
+    "input": "Yeah, yeah!\n",
+    "output": "Let's hear it!\n"
+  },
+  {
+    "input": "Let's hear it!\n",
+    "output": "Yeah, we wanna hear it!\n"
+  },
+  {
+    "input": "Yeah, we wanna hear it!\n",
+    "output": "Come on, come on!\n"
+  },
+  {
+    "input": "Come on, come on!\n",
+    "output": "Okay, how about this: Adam Sandler... inherits like, a billion dollars, but first, he has to, like, become a... boxer, or something.\n"
+  },
+  {
+    "input": "Okay, how about this: Adam Sandler... inherits like, a billion dollars, but first, he has to, like, become a... boxer, or something.\n",
+    "output": "[the producers start writing again]... Yes, it's flawless!\n"
+  },
+  {
+    "input": "[the producers start writing again]... Yes, it's flawless!\n",
+    "output": "Punch-Drunk Billionaire!\n[Aunt Nellie's house, guest room. Butters is at the desk counting up all the movie he and AWESOM-O got for Cartman's ideas and putting one hundred dollar bills one per envelope.]\n"
+  },
+  {
+    "input": "Punch-Drunk Billionaire!\n[Aunt Nellie's house, guest room. Butters is at the desk counting up all the movie he and AWESOM-O got for Cartman's ideas and putting one hundred dollar bills one per envelope.]\n",
+    "output": "Boy, Los Angeles is great, huh AWESOM-O? Can you believe those guys paid us a hundred dollars apiece for those movie ideas?\n"
+  },
+  {
+    "input": "Boy, Los Angeles is great, huh AWESOM-O? Can you believe those guys paid us a hundred dollars apiece for those movie ideas?\n",
+    "output": "You should split that money with AWESOM-O. After all, they were AWESOM-O's ideas.\n"
+  },
+  {
+    "input": "You should split that money with AWESOM-O. After all, they were AWESOM-O's ideas.\n",
+    "output": "Hahaa, right! What are you gonna do with money, AWESOM-O? Buy some robot pants? Haha, no! We got each other and that's all we need, AWESOM-O. I'm gonna send this money to needy kids in third-world countries.\n"
+  },
+  {
+    "input": "Hahaa, right! What are you gonna do with money, AWESOM-O? Buy some robot pants? Haha, no! We got each other and that's all we need, AWESOM-O. I'm gonna send this money to needy kids in third-world countries.\n",
+    "output": "[growing desperate, walks around] Haaaa! Haaaa!\n"
+  },
+  {
+    "input": "[growing desperate, walks around] Haaaa! Haaaa!\n",
+    "output": "[concerned] You, you okay AWESOM-O?\n"
+  },
+  {
+    "input": "[concerned] You, you okay AWESOM-O?\n",
+    "output": "AWESOM-O needs to rest! Feeling faint.\n"
+  },
+  {
+    "input": "AWESOM-O needs to rest! Feeling faint.\n",
+    "output": "Well you go ahead and relax, AWESOM-O. We've got another full day of pitching movies tomorrow.\n[Washington DC, the Pentagon.]\n[The Pentagon, a boardroom. A general addresses his peers.]\n"
+  },
+  {
+    "input": "Well you go ahead and relax, AWESOM-O. We've got another full day of pitching movies tomorrow.\n[Washington DC, the Pentagon.]\n[The Pentagon, a boardroom. A general addresses his peers.]\n",
+    "output": "Gentlemen, Ladies, we all know that we live in a time of uncertainty. The risk of an attack on American soil is higher than ever. Now, I believe we may be able to curb that risk. Two days ago our intelligence department came across this.\n[He turns around and faces a wall of TV screens. His peers turn to look. He then turns the screens on. Images of AWESOM-O, taken from various angles, pop up.]\n"
+  },
+  {
+    "input": "Gentlemen, Ladies, we all know that we live in a time of uncertainty. The risk of an attack on American soil is higher than ever. Now, I believe we may be able to curb that risk. Two days ago our intelligence department came across this.\n[He turns around and faces a wall of TV screens. His peers turn to look. He then turns the screens on. Images of AWESOM-O, taken from various angles, pop up.]\n",
+    "output": "The AWESOM-O 4000. It is currently being used by Catamount Pictures to develop ideas for movies. Our sources say that in just one week it has come up with over one thousand movie ideas, eight hundred of which feature Adam Sandler. [the officers murmur amongst themselves]\n"
+  },
+  {
+    "input": "The AWESOM-O 4000. It is currently being used by Catamount Pictures to develop ideas for movies. Our sources say that in just one week it has come up with over one thousand movie ideas, eight hundred of which feature Adam Sandler. [the officers murmur amongst themselves]\n",
+    "output": "That's incredible!\n"
+  },
+  {
+    "input": "That's incredible!\n",
+    "output": "You're thinking the robot could be used to come up with anti-Islamic movies?\n"
+  },
+  {
+    "input": "You're thinking the robot could be used to come up with anti-Islamic movies?\n",
+    "output": "No. If we got our hands on that robot, we could re-program it and turn it into a weapon!\n"
+  },
+  {
+    "input": "No. If we got our hands on that robot, we could re-program it and turn it into a weapon!\n",
+    "output": "Yes, that might be the best thing to do.\n"
+  },
+  {
+    "input": "Yes, that might be the best thing to do.\n",
+    "output": "Uh huh. I don't see how we have a choice.\n"
+  },
+  {
+    "input": "Uh huh. I don't see how we have a choice.\n",
+    "output": "Hold on a second: If that robot is designed for entertainment, then, turning it into a weapon is unethical.\n"
+  },
+  {
+    "input": "Hold on a second: If that robot is designed for entertainment, then, turning it into a weapon is unethical.\n",
+    "output": "Unethical? Let me explain something to you, Mr. Scientist! We understand that the robot is from Japan! That means that the Japanese have more of them! And if the Japanese fabricates one of them into a weapon before we do...\n"
+  },
+  {
+    "input": "Unethical? Let me explain something to you, Mr. Scientist! We understand that the robot is from Japan! That means that the Japanese have more of them! And if the Japanese fabricates one of them into a weapon before we do...\n",
+    "output": "Jesus. It would be Pearl Harbor all over again.\n"
+  },
+  {
+    "input": "Jesus. It would be Pearl Harbor all over again.\n",
+    "output": "But worse. With robots.\n"
+  },
+  {
+    "input": "But worse. With robots.\n",
+    "output": "I'm sorry, I must protest. We, we have no data suggesting the Japanese have developed a robot with offensive capability.\n"
+  },
+  {
+    "input": "I'm sorry, I must protest. We, we have no data suggesting the Japanese have developed a robot with offensive capability.\n",
+    "output": "You're paid to think, Mr. Scientist! National security is our jub. [the scientist sits back down.] Gentlemen, we're going to Los Angeles! [zoom in] I want that robot!\n[Catamount Pictures lobby. Butters places a call.]\n"
+  },
+  {
+    "input": "You're paid to think, Mr. Scientist! National security is our jub. [the scientist sits back down.] Gentlemen, we're going to Los Angeles! [zoom in] I want that robot!\n[Catamount Pictures lobby. Butters places a call.]\n",
+    "output": "Yeah, me and my robot are still over at the movie studio, Aunt Nellie. We're makin' all sorts of money for the poor.\n[The boardroom. Cartman is pitching more movie ideas.]\n"
+  },
+  {
+    "input": "Yeah, me and my robot are still over at the movie studio, Aunt Nellie. We're makin' all sorts of money for the poor.\n[The boardroom. Cartman is pitching more movie ideas.]\n",
+    "output": "Movie idea number two thousand three hundred and five: Adam Sandler is trapped on an island and falls in love with a coconut.\n"
+  },
+  {
+    "input": "Movie idea number two thousand three hundred and five: Adam Sandler is trapped on an island and falls in love with a coconut.\n",
+    "output": "Great, AWESOM-O, great. Uh guys, take a break. I need a minute alone with AWESOM-O.\n[The other men rise and leave the room, making plans for lunch on the way out. The producer approaches Cartman.]\n"
+  },
+  {
+    "input": "Great, AWESOM-O, great. Uh guys, take a break. I need a minute alone with AWESOM-O.\n[The other men rise and leave the room, making plans for lunch on the way out. The producer approaches Cartman.]\n",
+    "output": "You are an incredible robot, AWESOM-O. I was just wondering... are you by chance a... pleasure model?\n"
+  },
+  {
+    "input": "You are an incredible robot, AWESOM-O. I was just wondering... are you by chance a... pleasure model?\n",
+    "output": "...What?\n"
+  },
+  {
+    "input": "...What?\n",
+    "output": "Well, have you been programmed to... satisfy... urges of humans?\n"
+  },
+  {
+    "input": "Well, have you been programmed to... satisfy... urges of humans?\n",
+    "output": "AWESOM-O does not understand.\n"
+  },
+  {
+    "input": "AWESOM-O does not understand.\n",
+    "output": "Let me show you what I mean. [removes his tie]\n[Catamount Pictures lobby.]\n"
+  },
+  {
+    "input": "Let me show you what I mean. [removes his tie]\n[Catamount Pictures lobby.]\n",
+    "output": "Well yeah, we're havin' a great time, Aunt Nellie. These movie studio guys are real nice.\n"
+  },
+  {
+    "input": "Well yeah, we're havin' a great time, Aunt Nellie. These movie studio guys are real nice.\n",
+    "output": "[from the boardroom] Lame!\n"
+  },
+  {
+    "input": "[from the boardroom] Lame!\n",
+    "output": "Yeah, we're makin' a bunch more money. I can't believe it either.\n[The boardroom doors burst open and AWESOM-O runs out.]\n"
+  },
+  {
+    "input": "Yeah, we're makin' a bunch more money. I can't believe it either.\n[The boardroom doors burst open and AWESOM-O runs out.]\n",
+    "output": "Not cool! Totally lame! [runs to his left. Butters looks over his shoulder]\n"
+  },
+  {
+    "input": "Not cool! Totally lame! [runs to his left. Butters looks over his shoulder]\n",
+    "output": "AWESOM-O? Well, I gotta go, Aunt Nellie. Ah, AWESOM-O is havin' some kind of malfunction. [hangs up and goes after AWESOM-O.] AWESOM-O? Hey, where'd ya go?\n[Butters looks left, then right, then goes to the right, exiting the scene. Moments later the producer shows up at the doorway with his pants down.]\n"
+  },
+  {
+    "input": "AWESOM-O? Well, I gotta go, Aunt Nellie. Ah, AWESOM-O is havin' some kind of malfunction. [hangs up and goes after AWESOM-O.] AWESOM-O? Hey, where'd ya go?\n[Butters looks left, then right, then goes to the right, exiting the scene. Moments later the producer shows up at the doorway with his pants down.]\n",
+    "output": "Waaaaa!\n[A cattle prod appears and shocks him until he falls over. A dolly then appears and two soldiers quickly put Cartman on it and haul him off.]\n"
+  },
+  {
+    "input": "Waaaaa!\n[A cattle prod appears and shocks him until he falls over. A dolly then appears and two soldiers quickly put Cartman on it and haul him off.]\n",
+    "output": "Let's go! Move, move!\n"
+  },
+  {
+    "input": "Let's go! Move, move!\n",
+    "output": "[appears around the corner] AWESOM-O? [notices the soldiers] Hey, what are you doin' with him?!\n[The soldiers exit some side doors and toss him into the back of a waiting van. Butters exits the side door.]\n"
+  },
+  {
+    "input": "[appears around the corner] AWESOM-O? [notices the soldiers] Hey, what are you doin' with him?!\n[The soldiers exit some side doors and toss him into the back of a waiting van. Butters exits the side door.]\n",
+    "output": "That's my robot! [the soldiers get into the van and drive off] AWESOM-OOOOOOOO!!!\n[A military base near Los Angeles. In a warehouse, AWESOM-O, shackled onto a platform, is raised from a horizontal position to vertical. Two soldiers approach on either side of Cartman and tighten the locks on him.]\n"
+  },
+  {
+    "input": "That's my robot! [the soldiers get into the van and drive off] AWESOM-OOOOOOOO!!!\n[A military base near Los Angeles. In a warehouse, AWESOM-O, shackled onto a platform, is raised from a horizontal position to vertical. Two soldiers approach on either side of Cartman and tighten the locks on him.]\n",
+    "output": "Are those arm and leg locks secure?\n"
+  },
+  {
+    "input": "Are those arm and leg locks secure?\n",
+    "output": "Secure, sir!\n"
+  },
+  {
+    "input": "Secure, sir!\n",
+    "output": "Good. I don't want that robot mobile until I know what it's capable of. All right, power it on. [the scientist turns a drill on and approaches AWESOM-O]\n"
+  },
+  {
+    "input": "Good. I don't want that robot mobile until I know what it's capable of. All right, power it on. [the scientist turns a drill on and approaches AWESOM-O]\n",
+    "output": "Whoa, whoa, wha- whoa, whoa!\n"
+  },
+  {
+    "input": "Whoa, whoa, wha- whoa, whoa!\n",
+    "output": "[steps back surprised] What the hell?\n"
+  },
+  {
+    "input": "[steps back surprised] What the hell?\n",
+    "output": "What's going on?\n"
+  },
+  {
+    "input": "What's going on?\n",
+    "output": "[in disbelief] It... powered itself back on.\n"
+  },
+  {
+    "input": "[in disbelief] It... powered itself back on.\n",
+    "output": "[whispers to a soldier to his left] Stand by. Be ready to destroy it.\n[The soldier cocks his semiautomatic and aims at Cartman.]\n"
+  },
+  {
+    "input": "[whispers to a soldier to his left] Stand by. Be ready to destroy it.\n[The soldier cocks his semiautomatic and aims at Cartman.]\n",
+    "output": "Where the hell am I?! Hey, why can't I move?!\n"
+  },
+  {
+    "input": "Where the hell am I?! Hey, why can't I move?!\n",
+    "output": "Are your systems stable? Run a systems check on your CPU.\n"
+  },
+  {
+    "input": "Are your systems stable? Run a systems check on your CPU.\n",
+    "output": "The fuck are you talkin' about, dude?!\n"
+  },
+  {
+    "input": "The fuck are you talkin' about, dude?!\n",
+    "output": "Ah, I'm sorry, robot, [in a low voice, almost a whisper] they want me to reprogram you.\n"
+  },
+  {
+    "input": "Ah, I'm sorry, robot, [in a low voice, almost a whisper] they want me to reprogram you.\n",
+    "output": "I'm not a robot, dumbass! I'm alive!\n"
+  },
+  {
+    "input": "I'm not a robot, dumbass! I'm alive!\n",
+    "output": "What did you say?\n"
+  },
+  {
+    "input": "What did you say?\n",
+    "output": "I said I'm a real person, asswipe!\n"
+  },
+  {
+    "input": "I said I'm a real person, asswipe!\n",
+    "output": "[stunned] ...Oh my God. [turns around and approaches the military]\n"
+  },
+  {
+    "input": "[stunned] ...Oh my God. [turns around and approaches the military]\n",
+    "output": "What's happening?\n"
+  },
+  {
+    "input": "What's happening?\n",
+    "output": "The robot... It thinks it's alive. It's developed consciousness.\n"
+  },
+  {
+    "input": "The robot... It thinks it's alive. It's developed consciousness.\n",
+    "output": "What? How can that be?\n"
+  },
+  {
+    "input": "What? How can that be?\n",
+    "output": "Must be a malfunction of its exographical IMS or the... interlaced BV system.\n"
+  },
+  {
+    "input": "Must be a malfunction of its exographical IMS or the... interlaced BV system.\n",
+    "output": "Speak in a language we can understand, Mr. Scientist!\n"
+  },
+  {
+    "input": "Speak in a language we can understand, Mr. Scientist!\n",
+    "output": "Your robot doesn't know it's a robot!\n"
+  },
+  {
+    "input": "Your robot doesn't know it's a robot!\n",
+    "output": "Goddamnit, get me down from here! [the military approaches him]\n"
+  },
+  {
+    "input": "Goddamnit, get me down from here! [the military approaches him]\n",
+    "output": "Who made you, robot?\n"
+  },
+  {
+    "input": "Who made you, robot?\n",
+    "output": "[enunciating] I'm not a robot, I'm a human!\n"
+  },
+  {
+    "input": "[enunciating] I'm not a robot, I'm a human!\n",
+    "output": "[the military turns around] Jesus, the scientist was right.\n"
+  },
+  {
+    "input": "[the military turns around] Jesus, the scientist was right.\n",
+    "output": "But, who would have programmed it to think it was human? The movie studio?\n"
+  },
+  {
+    "input": "But, who would have programmed it to think it was human? The movie studio?\n",
+    "output": "Look, retards! My name is Eric Cartman! I live with my mom in South Park, Colorado!\n"
+  },
+  {
+    "input": "Look, retards! My name is Eric Cartman! I live with my mom in South Park, Colorado!\n",
+    "output": "[faces Cartman] Dear Christ, they gave it memories, too.\n"
+  },
+  {
+    "input": "[faces Cartman] Dear Christ, they gave it memories, too.\n",
+    "output": "Sure, why not? Program the memories of some eight-year-old boy who doesn't exist, and make the robot think he's real! Makes for a lot better movies! I'm not reprogramming a robot that's developed consciousness!\n"
+  },
+  {
+    "input": "Sure, why not? Program the memories of some eight-year-old boy who doesn't exist, and make the robot think he's real! Makes for a lot better movies! I'm not reprogramming a robot that's developed consciousness!\n",
+    "output": "Do I have to remind you of your position?! Don't forget you have a duty to your country, [draws out the next few syllables] Mr. Scientist!! I want that robot's memories and consciousness E-RASED, so we can take it back to Washington! GOT IT?! [the military leaves him to his work.]\n"
+  },
+  {
+    "input": "Do I have to remind you of your position?! Don't forget you have a duty to your country, [draws out the next few syllables] Mr. Scientist!! I want that robot's memories and consciousness E-RASED, so we can take it back to Washington! GOT IT?! [the military leaves him to his work.]\n",
+    "output": "Damn you all to hell!\n[Los Angeles. Butters walks down a sidewalk alone with his head down.]\n"
+  },
+  {
+    "input": "Damn you all to hell!\n[Los Angeles. Butters walks down a sidewalk alone with his head down.]\n",
+    "output": "[voiceover, sadly]\nHey there, did you know I had a robot friend?\nWe used to laugh and play, but someone took him away.\nHe was my ten gigahertz old pal.\nMy robot friend.\n"
+  },
+  {
+    "input": "[voiceover, sadly]\nHey there, did you know I had a robot friend?\nWe used to laugh and play, but someone took him away.\nHe was my ten gigahertz old pal.\nMy robot friend.\n",
+    "output": "[realizing something] Hey, wait a minute. [sees the van that took AWESOM-O away] Why, that's the van that- [tuns towards it] Oh my God!\n[The military base, warehouse. The scientist has positioned AWESOM-O so his head can be drilled into, and a huge drill bit begins to descend towards him.]\n"
+  },
+  {
+    "input": "[realizing something] Hey, wait a minute. [sees the van that took AWESOM-O away] Why, that's the van that- [tuns towards it] Oh my God!\n[The military base, warehouse. The scientist has positioned AWESOM-O so his head can be drilled into, and a huge drill bit begins to descend towards him.]\n",
+    "output": "[fidgets frantically] Goddamnit, stop! I'm real! I'm real!\n"
+  },
+  {
+    "input": "[fidgets frantically] Goddamnit, stop! I'm real! I'm real!\n",
+    "output": "It'll all be over soon, robot!\n[The scientist scratches his head, then decides to take action. He takes out a vice wrench and smacks the soldier with it, knocking him out. He turns off the drill, tosses the wrench aside and goes to AWESOM-O.]\n"
+  },
+  {
+    "input": "It'll all be over soon, robot!\n[The scientist scratches his head, then decides to take action. He takes out a vice wrench and smacks the soldier with it, knocking him out. He turns off the drill, tosses the wrench aside and goes to AWESOM-O.]\n",
+    "output": "Hang on! I'm getting you out of here, robot!\n"
+  },
+  {
+    "input": "Hang on! I'm getting you out of here, robot!\n",
+    "output": "Aw, it's about freaking time, jackass!\n[The General and his men return, Cartman gets off the platform.]\n"
+  },
+  {
+    "input": "Aw, it's about freaking time, jackass!\n[The General and his men return, Cartman gets off the platform.]\n",
+    "output": "What the hell are you doing?!\n"
+  },
+  {
+    "input": "What the hell are you doing?!\n",
+    "output": "[turns around] Well I- I'm saving a conscious being! If you wanna kill it, you'll have to go through me!\n"
+  },
+  {
+    "input": "[turns around] Well I- I'm saving a conscious being! If you wanna kill it, you'll have to go through me!\n",
+    "output": "Fine. Kill that son of a bitch!\n"
+  },
+  {
+    "input": "Fine. Kill that son of a bitch!\n",
+    "output": "No! Look, Goddamnit! Now I can show you stupid assholes who I really am! [raises his helmet enough to show his eyes]\n"
+  },
+  {
+    "input": "No! Look, Goddamnit! Now I can show you stupid assholes who I really am! [raises his helmet enough to show his eyes]\n",
+    "output": "[enters] AWESOM-O!\n[The helmet quickly goes down and Cartman becomes a robot again.]\n"
+  },
+  {
+    "input": "[enters] AWESOM-O!\n[The helmet quickly goes down and Cartman becomes a robot again.]\n",
+    "output": "I am the AWESOM-O 4000.\n[The soldier fires one shot into the scientist, and the scientist goes down.]\n"
+  },
+  {
+    "input": "I am the AWESOM-O 4000.\n[The soldier fires one shot into the scientist, and the scientist goes down.]\n",
+    "output": "No! [runs up to Cartman] No, please! [hugs him] Don't kill him! He's my best friend! He's my best friend in the whole world!\n[Butters begins to sob. The military is amazed by this display of affection from a boy towards his robot.]\n"
+  },
+  {
+    "input": "No! [runs up to Cartman] No, please! [hugs him] Don't kill him! He's my best friend! He's my best friend in the whole world!\n[Butters begins to sob. The military is amazed by this display of affection from a boy towards his robot.]\n",
+    "output": "[still alive, looks up] There. You see? You want to tell me this isn't humanity? Who's to judge what makes something human anyway?! [pulls out his stomach] Does this make me human?! [pulls out his lung] Or this?! [pulls out his intestines] Or these?! [falls over dead]\n"
+  },
+  {
+    "input": "[still alive, looks up] There. You see? You want to tell me this isn't humanity? Who's to judge what makes something human anyway?! [pulls out his stomach] Does this make me human?! [pulls out his lung] Or this?! [pulls out his intestines] Or these?! [falls over dead]\n",
+    "output": "[approaches AWESOM-O] Perhaps... there is consciousness in this robot. Maybe we as a society need to realize that artificial intelligence... is intelligence all the same, and we can learn from the robots. I think maybe one day we can all- [Cartman farts, Butters steps back surprised] Hey, wait a minute, did, did that robot just fart?\n"
+  },
+  {
+    "input": "[approaches AWESOM-O] Perhaps... there is consciousness in this robot. Maybe we as a society need to realize that artificial intelligence... is intelligence all the same, and we can learn from the robots. I think maybe one day we can all- [Cartman farts, Butters steps back surprised] Hey, wait a minute, did, did that robot just fart?\n",
+    "output": "Hey, robots don't fart!\n"
+  },
+  {
+    "input": "Hey, robots don't fart!\n",
+    "output": "Uh... now ending fart sequence.\n"
+  },
+  {
+    "input": "Uh... now ending fart sequence.\n",
+    "output": "Oh, and it, it smells, too!\n"
+  },
+  {
+    "input": "Oh, and it, it smells, too!\n",
+    "output": "Smell sequence initiated.\n"
+  },
+  {
+    "input": "Smell sequence initiated.\n",
+    "output": "A robot with smelly farts? That doesn't make any sense.\n"
+  },
+  {
+    "input": "A robot with smelly farts? That doesn't make any sense.\n",
+    "output": "Hang on a second, here!\n[Butters reaches for AWESOM-O's helmet and removes it. The military is taken aback at what they see..]\n[A portable screen is put up inside a room and the videotape of Cartman acting strange in his backyard is being shown. The sound of laughing kids is heard. On the tape, Cartman is dancing around like Britney Spears.]\n"
+  },
+  {
+    "input": "Hang on a second, here!\n[Butters reaches for AWESOM-O's helmet and removes it. The military is taken aback at what they see..]\n[A portable screen is put up inside a room and the videotape of Cartman acting strange in his backyard is being shown. The sound of laughing kids is heard. On the tape, Cartman is dancing around like Britney Spears.]\n",
+    "output": "[rapping]\nWould you like to touch my body?\nCome on and touch my body!\nOooo, my hot body!\nDon't you like my hot body?\nCome on and touch my titties!\nI've got such nice round titties!\nCome on Justin, touch my body!\n[begins dancing with a life-size cutout of Justin Timberlake]\nMmm, Justin, yeah!\nTouch my body! You and me!\nCheck it out, my nice hot body!\nCome on, my body!\n[As the video plays, shots are shown of: the fourth graders and the kindergartners, more fourth graders and older students (including Stan, Kyle, and Kenny), Chef, Principal Victoria, Mr. Garrison, other teachers, Butters enjoying himself immensely, the Catamount Pictures producers, the military, then of a fuming Cartman having to suffer it all as everyone laughs.]\n"
+  },
+  {
+    "input": "[rapping]\nWould you like to touch my body?\nCome on and touch my body!\nOooo, my hot body!\nDon't you like my hot body?\nCome on and touch my titties!\nI've got such nice round titties!\nCome on Justin, touch my body!\n[begins dancing with a life-size cutout of Justin Timberlake]\nMmm, Justin, yeah!\nTouch my body! You and me!\nCheck it out, my nice hot body!\nCome on, my body!\n[As the video plays, shots are shown of: the fourth graders and the kindergartners, more fourth graders and older students (including Stan, Kyle, and Kenny), Chef, Principal Victoria, Mr. Garrison, other teachers, Butters enjoying himself immensely, the Catamount Pictures producers, the military, then of a fuming Cartman having to suffer it all as everyone laughs.]\n",
+    "output": "Wow, kid, you're a little faggot!\n"
+  }
+]

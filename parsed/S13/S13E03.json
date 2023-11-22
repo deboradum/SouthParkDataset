@@ -1,0 +1,786 @@
+[
+  {
+    "input": "",
+    "output": "Margaritaville\n\n[A new building - South Park Bank Savings and Loans. A line of customers waits to advance. Stan and Randy are at the head of the line.]\n"
+  },
+  {
+    "input": "Margaritaville\n\n[A new building - South Park Bank Savings and Loans. A line of customers waits to advance. Stan and Randy are at the head of the line.]\n",
+    "output": "Do I really have to do this, Dad?\n"
+  },
+  {
+    "input": "Do I really have to do this, Dad?\n",
+    "output": "Stan, now more than ever you need to understand the importance of saving money.\n"
+  },
+  {
+    "input": "Stan, now more than ever you need to understand the importance of saving money.\n",
+    "output": "But Grandma said I could use this money to buy whatever I want.\n"
+  },
+  {
+    "input": "But Grandma said I could use this money to buy whatever I want.\n",
+    "output": "Okay, next please.\n"
+  },
+  {
+    "input": "Okay, next please.\n",
+    "output": "Go on, Stanley. [Stan walks up to Benny's desk and takes a seat.]\n"
+  },
+  {
+    "input": "Go on, Stanley. [Stan walks up to Benny's desk and takes a seat.]\n",
+    "output": "How can I help you, young man?\n"
+  },
+  {
+    "input": "How can I help you, young man?\n",
+    "output": "I got a hundred dollar check from my grandma, and my dad said I need to put it in the bank so it can grow over the years.\n"
+  },
+  {
+    "input": "I got a hundred dollar check from my grandma, and my dad said I need to put it in the bank so it can grow over the years.\n",
+    "output": "Well that's fantastic, a really smart decision, young man. We can put that check in a Money Market Mutual Fund, then we'll reinvest the earnings into foreign currency accounts with compounding interest aaand it's gone. [they look at each other for a long time]\n"
+  },
+  {
+    "input": "Well that's fantastic, a really smart decision, young man. We can put that check in a Money Market Mutual Fund, then we'll reinvest the earnings into foreign currency accounts with compounding interest aaand it's gone. [they look at each other for a long time]\n",
+    "output": "Uh, what?\n"
+  },
+  {
+    "input": "Uh, what?\n",
+    "output": "It's gone. It's all gone.\n"
+  },
+  {
+    "input": "It's gone. It's all gone.\n",
+    "output": "What's all gone?\n"
+  },
+  {
+    "input": "What's all gone?\n",
+    "output": "The money in your account - it didn't do too well, it's gone.\n"
+  },
+  {
+    "input": "The money in your account - it didn't do too well, it's gone.\n",
+    "output": "What do you mean? I have a hundred dollars.\n"
+  },
+  {
+    "input": "What do you mean? I have a hundred dollars.\n",
+    "output": "Not anymore you don't. POOF.\n"
+  },
+  {
+    "input": "Not anymore you don't. POOF.\n",
+    "output": "Well, what can I do to get back my money-?\n"
+  },
+  {
+    "input": "Well, what can I do to get back my money-?\n",
+    "output": "I'm sorry sir, but this line is for bank members only.\n"
+  },
+  {
+    "input": "I'm sorry sir, but this line is for bank members only.\n",
+    "output": "I just opened an account.\n"
+  },
+  {
+    "input": "I just opened an account.\n",
+    "output": "Do you have any money invested in this bank?\n"
+  },
+  {
+    "input": "Do you have any money invested in this bank?\n",
+    "output": "No, you just lost it all!\n"
+  },
+  {
+    "input": "No, you just lost it all!\n",
+    "output": "Then please stand aside for people who actually have money with us. Next please. [an elderly woman steps up and bumps Stan out of the chair.]\n"
+  },
+  {
+    "input": "Then please stand aside for people who actually have money with us. Next please. [an elderly woman steps up and bumps Stan out of the chair.]\n",
+    "output": "Hey!\n"
+  },
+  {
+    "input": "Hey!\n",
+    "output": "Hello Mrs. Farnickle, how are you today? Making a deposit are we? Great, we can just put that into your retirement account and make it go to work for you aaaaand it's gone.\n"
+  },
+  {
+    "input": "Hello Mrs. Farnickle, how are you today? Making a deposit are we? Great, we can just put that into your retirement account and make it go to work for you aaaaand it's gone.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Sorry, yeah, that's gone. Please step aside for people who actually have money with the bank. Next please.\n"
+  },
+  {
+    "input": "Sorry, yeah, that's gone. Please step aside for people who actually have money with the bank. Next please.\n",
+    "output": "Dad!\n"
+  },
+  {
+    "input": "Dad!\n",
+    "output": "Hey I'm trying to teach my son the importance of savings. You already lost his money?\n"
+  },
+  {
+    "input": "Hey I'm trying to teach my son the importance of savings. You already lost his money?\n",
+    "output": "Oh, Mr. Marsh, don't worry. We can just transfer money from your account into a portfolio with your son's-- aaand it's gone! This line is for people who have money with the bank only. Please step aside! [both Randy and Stan are dumbstruck.]\n[Breaking news. A 9 News Special Report graphic appears.]\n"
+  },
+  {
+    "input": "Oh, Mr. Marsh, don't worry. We can just transfer money from your account into a portfolio with your son's-- aaand it's gone! This line is for people who have money with the bank only. Please step aside! [both Randy and Stan are dumbstruck.]\n[Breaking news. A 9 News Special Report graphic appears.]\n",
+    "output": "This is a 9 News Special Report. RECESSION: A NATION IN PERIL.\n"
+  },
+  {
+    "input": "This is a 9 News Special Report. RECESSION: A NATION IN PERIL.\n",
+    "output": "An economic crisis has hit South Park and the nation like never before. Another South Park bank has closed down, leaving thousands of people in debt.\n"
+  },
+  {
+    "input": "An economic crisis has hit South Park and the nation like never before. Another South Park bank has closed down, leaving thousands of people in debt.\n",
+    "output": "[in front of a convenience store] It's just crazy, you know? Ev-everyone's affected by it. It's like all the money just... vanished.\n"
+  },
+  {
+    "input": "[in front of a convenience store] It's just crazy, you know? Ev-everyone's affected by it. It's like all the money just... vanished.\n",
+    "output": "[in front of the Stotch home] It's really terrifying. We... we've got no money to pay our mortgage now. We could very easily lose our house!\n"
+  },
+  {
+    "input": "[in front of the Stotch home] It's really terrifying. We... we've got no money to pay our mortgage now. We could very easily lose our house!\n",
+    "output": "[waves to the camera, but his face is blocked by the 9 News logo] Hi, Grandma!\n"
+  },
+  {
+    "input": "[waves to the camera, but his face is blocked by the 9 News logo] Hi, Grandma!\n",
+    "output": "First the money started goin', and now everyone's gettin' laid off work! They took arrr jawbs!\n"
+  },
+  {
+    "input": "First the money started goin', and now everyone's gettin' laid off work! They took arrr jawbs!\n",
+    "output": "They took our jobs!\n"
+  },
+  {
+    "input": "They took our jobs!\n",
+    "output": "[shrieking] Derk er derrrrrr!\n"
+  },
+  {
+    "input": "[shrieking] Derk er derrrrrr!\n",
+    "output": "Deeekerrdrrr!\n"
+  },
+  {
+    "input": "Deeekerrdrrr!\n",
+    "output": "Deeerkerrrrrrdrrrr!\n"
+  },
+  {
+    "input": "Deeerkerrrrrrdrrrr!\n",
+    "output": "Just how far will the economy fall? We asked economic reporter Dan Banks for his assessment. [a shot of Dan, who raises a gun to his head and fires, shooting his brains out and falling out of view.] We'll have the rest of Dan's interview tonight at 10.\n[The Marsh house, dinnertime. Sharon walks in with the simplest dinner: hot dogs and sliced tomatoes. Everyone has a glass of water or soda, Randy has a margarita glass.]\n"
+  },
+  {
+    "input": "Just how far will the economy fall? We asked economic reporter Dan Banks for his assessment. [a shot of Dan, who raises a gun to his head and fires, shooting his brains out and falling out of view.] We'll have the rest of Dan's interview tonight at 10.\n[The Marsh house, dinnertime. Sharon walks in with the simplest dinner: hot dogs and sliced tomatoes. Everyone has a glass of water or soda, Randy has a margarita glass.]\n",
+    "output": "All right everyone, eat up. [takes her seat]\n"
+  },
+  {
+    "input": "All right everyone, eat up. [takes her seat]\n",
+    "output": "Aw Jesus Christ! Sliced hot dogs and tomato slices?!\n"
+  },
+  {
+    "input": "Aw Jesus Christ! Sliced hot dogs and tomato slices?!\n",
+    "output": "You said we had to be careful with our money. I've got nothing for a food budget.\n"
+  },
+  {
+    "input": "You said we had to be careful with our money. I've got nothing for a food budget.\n",
+    "output": "Mom, Dad, how come there's suddenly no money?\n"
+  },
+  {
+    "input": "Mom, Dad, how come there's suddenly no money?\n",
+    "output": "[grabs a hot dog from the platter] I'll tell you what happened, son. See, there's a bunch of idiots out there who weren't happy with what they had. [slaps the hot dog onto his own plate] They wanted a bigger house and materialistic things that they didn't even need-- [grabs his margarita glass and rises from the table] people with no money who got loans to buy frivolous things they had no business buying. [walks over to a Margaritaville margarita blender and loads it with ice. A margarita mix is already in place in the blender] And these assholes just blindly started buying any stupid thing that looked appealing, [puts the ice scooper back into the ice bucket] 'cause they thought money was endless! [starts up the blender, which drowns out whatever he says for the next nine seconds] It goes back to when the government had the idea that everyone in America deserves to own a house. So we have people having a hard time paying their loans, [the blender stops] meaning less money coming in. [serves himself a margarita and places the blender back on its base] And the idiots couldn't see that by doing all this frivolous spending they were mocking the Economy. And they made the Economy very angry. [goes back to his seat with his margarita] We're all feeling the Economy's vengeance because of materialistic heathens who did stupid things with their money! Do you understand, son? [sips from his margarita glass]\n"
+  },
+  {
+    "input": "[grabs a hot dog from the platter] I'll tell you what happened, son. See, there's a bunch of idiots out there who weren't happy with what they had. [slaps the hot dog onto his own plate] They wanted a bigger house and materialistic things that they didn't even need-- [grabs his margarita glass and rises from the table] people with no money who got loans to buy frivolous things they had no business buying. [walks over to a Margaritaville margarita blender and loads it with ice. A margarita mix is already in place in the blender] And these assholes just blindly started buying any stupid thing that looked appealing, [puts the ice scooper back into the ice bucket] 'cause they thought money was endless! [starts up the blender, which drowns out whatever he says for the next nine seconds] It goes back to when the government had the idea that everyone in America deserves to own a house. So we have people having a hard time paying their loans, [the blender stops] meaning less money coming in. [serves himself a margarita and places the blender back on its base] And the idiots couldn't see that by doing all this frivolous spending they were mocking the Economy. And they made the Economy very angry. [goes back to his seat with his margarita] We're all feeling the Economy's vengeance because of materialistic heathens who did stupid things with their money! Do you understand, son? [sips from his margarita glass]\n",
+    "output": "Yeah, I think I get it.\n[The South Park Mall, day. Anyone who has something to say about the economy is preaching to the crowd gathered there.]\n"
+  },
+  {
+    "input": "Yeah, I think I get it.\n[The South Park Mall, day. Anyone who has something to say about the economy is preaching to the crowd gathered there.]\n",
+    "output": "And so why is our economy failing us? Because the government kept interest rates too low for too long! The government took our economy for granted and now we are all here paying the price! How long will we sit and watch our economy fall... As the people we must...\n"
+  },
+  {
+    "input": "And so why is our economy failing us? Because the government kept interest rates too low for too long! The government took our economy for granted and now we are all here paying the price! How long will we sit and watch our economy fall... As the people we must...\n",
+    "output": "...An angel came to me and so I say to you: Do not listen to the Wall Street brokers! For they are the ones that put us in this situation! Fat cats with corporate greed! They are the ones who knowingly drove us down this pathway of doom! Our responsibility is...\n"
+  },
+  {
+    "input": "...An angel came to me and so I say to you: Do not listen to the Wall Street brokers! For they are the ones that put us in this situation! Fat cats with corporate greed! They are the ones who knowingly drove us down this pathway of doom! Our responsibility is...\n",
+    "output": "And where has all the money gone? It must have gone somewhere! The answer is obvious, my friends! It is the Jews! Covetous Jews who have taken all our money and hoarded it for themselves! Hidden all the cash in some... secret Jew cave that they built, probably back in the early 60s! It is the Jews, my friends, who are oft...\n"
+  },
+  {
+    "input": "And where has all the money gone? It must have gone somewhere! The answer is obvious, my friends! It is the Jews! Covetous Jews who have taken all our money and hoarded it for themselves! Hidden all the cash in some... secret Jew cave that they built, probably back in the early 60s! It is the Jews, my friends, who are oft...\n",
+    "output": "[dressed in a drab green toga] There are different people casting all different kinds of blame from person to person. But the fault lies in all of you! [starts pointing at random people] YOU, who bought that three hundred thousand dollar house when you only had twenty thousand to put down? YOU, who bought that third car, even though only two people in your home drive! It is time to stop pointing fingers! [speeds up his rate of pointing] Finger pointing gets us nowhere, Steve! We have mocked our Economy. And now the Economy has cast its vengeance upon us all!\n"
+  },
+  {
+    "input": "[dressed in a drab green toga] There are different people casting all different kinds of blame from person to person. But the fault lies in all of you! [starts pointing at random people] YOU, who bought that three hundred thousand dollar house when you only had twenty thousand to put down? YOU, who bought that third car, even though only two people in your home drive! It is time to stop pointing fingers! [speeds up his rate of pointing] Finger pointing gets us nowhere, Steve! We have mocked our Economy. And now the Economy has cast its vengeance upon us all!\n",
+    "output": "He's right.\n"
+  },
+  {
+    "input": "He's right.\n",
+    "output": "This is the first guy to actually make sense. [more people are attracted to Randy's preaching]\n"
+  },
+  {
+    "input": "This is the first guy to actually make sense. [more people are attracted to Randy's preaching]\n",
+    "output": "Yea, it is an angry and unforgiving Economy. To repent we must stop frivolous spending! Instead of paying for cable let us watch clouds! Instead of buying clothes, wear but sheets from thine beds! Cut spending to only the bare essentials! Water and bread and margaritas, yea. [everyone applauds softly]\n[Sur la Table, day. Stan walks in with the Margaritaville and heads to the counter.]\n"
+  },
+  {
+    "input": "Yea, it is an angry and unforgiving Economy. To repent we must stop frivolous spending! Instead of paying for cable let us watch clouds! Instead of buying clothes, wear but sheets from thine beds! Cut spending to only the bare essentials! Water and bread and margaritas, yea. [everyone applauds softly]\n[Sur la Table, day. Stan walks in with the Margaritaville and heads to the counter.]\n",
+    "output": "Hello young man, welcome to Sur la Tahbluh. Can I help you?\n"
+  },
+  {
+    "input": "Hello young man, welcome to Sur la Tahbluh. Can I help you?\n",
+    "output": "Yeah, I wanna return this Margaritaville my stupid dad bought.\n"
+  },
+  {
+    "input": "Yeah, I wanna return this Margaritaville my stupid dad bought.\n",
+    "output": "Oh, that's all we get anymore, returns. Could you please just put the receipt here on this tahbluh. [Stan tries to put the receipt onto the counter, but the large Margaritaville gets in the way. Stan then just reaches up and the clerk takes the receipt] Sorry, our computers are a little slow today. We need a new Ethernet cahbluh. Oh, I'm sorry, sir, I'd like to give you a refund but I'm afraid it's not doahbluh.\n"
+  },
+  {
+    "input": "Oh, that's all we get anymore, returns. Could you please just put the receipt here on this tahbluh. [Stan tries to put the receipt onto the counter, but the large Margaritaville gets in the way. Stan then just reaches up and the clerk takes the receipt] Sorry, our computers are a little slow today. We need a new Ethernet cahbluh. Oh, I'm sorry, sir, I'd like to give you a refund but I'm afraid it's not doahbluh.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I said I'm not ahbluh, sir. You see, this Margaritaville was purchased with a payment plan?\n"
+  },
+  {
+    "input": "I said I'm not ahbluh, sir. You see, this Margaritaville was purchased with a payment plan?\n",
+    "output": "So?\n"
+  },
+  {
+    "input": "So?\n",
+    "output": "Well an outside financing company handles those payment plans. Customers just pay for some of the machine and the finance company pays for the rest.\n"
+  },
+  {
+    "input": "Well an outside financing company handles those payment plans. Customers just pay for some of the machine and the finance company pays for the rest.\n",
+    "output": "Well can't I just return it and get the money my dad put in back?\n"
+  },
+  {
+    "input": "Well can't I just return it and get the money my dad put in back?\n",
+    "output": "[rests his head on his left hand] Hm... that's improbahbluh, [raises his left hand] but not impossibluh. I'm not really sure how it works; you'll, you'll have to speak with the people at the top. I can give you the finance company's address if that... agreeahbluh with you. [Stan just looks at him]\n[South Park Mall exterior, just after sunset. Randy is on a table pacing back and forth, again dressed in a toga.]\n"
+  },
+  {
+    "input": "[rests his head on his left hand] Hm... that's improbahbluh, [raises his left hand] but not impossibluh. I'm not really sure how it works; you'll, you'll have to speak with the people at the top. I can give you the finance company's address if that... agreeahbluh with you. [Stan just looks at him]\n[South Park Mall exterior, just after sunset. Randy is on a table pacing back and forth, again dressed in a toga.]\n",
+    "output": "We have become lovers of pleasure rather than lovers of the Economy! There are those who will say that the Economy has forsaken us! Nay! You have forsaken the Economy!! And now you know the Economy's wrath! O thoust can shop at a sporting goods store, but knowest thou that the Economy will take away thy Broncos' cap from thine head! [a shot of the Stotches in togas] Mock the Economy without fear! Thine own stockbrokers... now lie dead by their own hand and thou knowest that thy stockbrokers did not fear the Economy! Well here we are, my friends! You have brought the Economy's vengeance upon yourselves!\n"
+  },
+  {
+    "input": "We have become lovers of pleasure rather than lovers of the Economy! There are those who will say that the Economy has forsaken us! Nay! You have forsaken the Economy!! And now you know the Economy's wrath! O thoust can shop at a sporting goods store, but knowest thou that the Economy will take away thy Broncos' cap from thine head! [a shot of the Stotches in togas] Mock the Economy without fear! Thine own stockbrokers... now lie dead by their own hand and thou knowest that thy stockbrokers did not fear the Economy! Well here we are, my friends! You have brought the Economy's vengeance upon yourselves!\n",
+    "output": "What can we do, Randy?\n"
+  },
+  {
+    "input": "What can we do, Randy?\n",
+    "output": "Yes tell us.\n"
+  },
+  {
+    "input": "Yes tell us.\n",
+    "output": "Tell us.\n"
+  },
+  {
+    "input": "Tell us.\n",
+    "output": "Tell us what to do.\n"
+  },
+  {
+    "input": "Tell us what to do.\n",
+    "output": "Tell us, Randy, what we should do!\n"
+  },
+  {
+    "input": "Tell us, Randy, what we should do!\n",
+    "output": "What should we do, Randy?!\n"
+  },
+  {
+    "input": "What should we do, Randy?!\n",
+    "output": "We must all wear sheets instead of buying clothes that need detergent! Instead of cars that take gasoline we can... get around on llamas from Drake's farm! Instead of video games that take batteries and software, our kids will play with squirrels! We must let the Economy know that we are capable of respecting it! No more needless spending! [everyone begins to cheer] The Economy is our shepherd. We shall not want. [stretches out his arms as the audience cheers him on.]\n[South Park, sometime later. Everyone is wearing blankets instead of clothes, in the forms of togas and cloaks. People have begun to ride llamas, carry stuff in wooden boxes, and leave bales of hay around for the llamas and oxen. Businesses all along the street have shuttered their doors and windows and gone out of business. It's a much simpler way of living.]\n"
+  },
+  {
+    "input": "We must all wear sheets instead of buying clothes that need detergent! Instead of cars that take gasoline we can... get around on llamas from Drake's farm! Instead of video games that take batteries and software, our kids will play with squirrels! We must let the Economy know that we are capable of respecting it! No more needless spending! [everyone begins to cheer] The Economy is our shepherd. We shall not want. [stretches out his arms as the audience cheers him on.]\n[South Park, sometime later. Everyone is wearing blankets instead of clothes, in the forms of togas and cloaks. People have begun to ride llamas, carry stuff in wooden boxes, and leave bales of hay around for the llamas and oxen. Businesses all along the street have shuttered their doors and windows and gone out of business. It's a much simpler way of living.]\n",
+    "output": "[on a llama] Mornin' Ted.\n"
+  },
+  {
+    "input": "[on a llama] Mornin' Ted.\n",
+    "output": "[shoveling snow off his walkway] Mornin' Al.\n[At a park nearby, the boys sit on rocky surfaces dressed in togas and being bored. Butters tries to fish for squirrels, but none of the squirrels are biting.]\n"
+  },
+  {
+    "input": "[shoveling snow off his walkway] Mornin' Al.\n[At a park nearby, the boys sit on rocky surfaces dressed in togas and being bored. Butters tries to fish for squirrels, but none of the squirrels are biting.]\n",
+    "output": "Well this sucks!\n"
+  },
+  {
+    "input": "Well this sucks!\n",
+    "output": "Sure was better when our parents were buyin' us stuff.\n"
+  },
+  {
+    "input": "Sure was better when our parents were buyin' us stuff.\n",
+    "output": "[arrives and sighs] Hengh! [the squirrels run off] Of all the times for people to decide to stop buying things, it had to be the week that Grand Theft Auto 4 comes out for Nintendo DS! [stomps his left foot down] Hengh!\n"
+  },
+  {
+    "input": "[arrives and sighs] Hengh! [the squirrels run off] Of all the times for people to decide to stop buying things, it had to be the week that Grand Theft Auto 4 comes out for Nintendo DS! [stomps his left foot down] Hengh!\n",
+    "output": "You want something new every week, fatass.\n"
+  },
+  {
+    "input": "You want something new every week, fatass.\n",
+    "output": "[leaps towards him] Don't you fraternize me! This is all your fault, you know!\n"
+  },
+  {
+    "input": "[leaps towards him] Don't you fraternize me! This is all your fault, you know!\n",
+    "output": "My fault?\n"
+  },
+  {
+    "input": "My fault?\n",
+    "output": "The Jews took all the money away, and they ha-!\n"
+  },
+  {
+    "input": "The Jews took all the money away, and they ha-!\n",
+    "output": "[jumps off his rocky perch and faces Cartman] Don't even start! Don't even start, Cartman!\n"
+  },
+  {
+    "input": "[jumps off his rocky perch and faces Cartman] Don't even start! Don't even start, Cartman!\n",
+    "output": "Well, [Kyle looks back at him] why are we wearin' bedsheets and playing with squirrels, Kyle?\n"
+  },
+  {
+    "input": "Well, [Kyle looks back at him] why are we wearin' bedsheets and playing with squirrels, Kyle?\n",
+    "output": "Not because of the Jews, Butters! Who told you that?\n"
+  },
+  {
+    "input": "Not because of the Jews, Butters! Who told you that?\n",
+    "output": "Well Eric did. [Kyle glares at Cartman again]\n"
+  },
+  {
+    "input": "Well Eric did. [Kyle glares at Cartman again]\n",
+    "output": "Just tell us where the cave is, Kyle.\n"
+  },
+  {
+    "input": "Just tell us where the cave is, Kyle.\n",
+    "output": "Now look! The reason we're in this situation is because people are being stupid! The economy isn't some vengeful being that takes things away from us. The economy is just made up of people, and people have just lost their faith in it. [the other boys now pay attention to Kyle. Two men watch Kyle from afar.] What people really should be doing is spending more. Spending is fine. People should just go out and shop. They should buy the things they need for their friends and family.\n"
+  },
+  {
+    "input": "Now look! The reason we're in this situation is because people are being stupid! The economy isn't some vengeful being that takes things away from us. The economy is just made up of people, and people have just lost their faith in it. [the other boys now pay attention to Kyle. Two men watch Kyle from afar.] What people really should be doing is spending more. Spending is fine. People should just go out and shop. They should buy the things they need for their friends and family.\n",
+    "output": "We best speak with the Council, and tell them... a young Jew is speaking heresy towards the Economy.\n[Big Orange Finance Company, day. Stan reaches its glass doors and pushes his way in backwards, then turns around and walks up to the receptionist's desk.]\n"
+  },
+  {
+    "input": "We best speak with the Council, and tell them... a young Jew is speaking heresy towards the Economy.\n[Big Orange Finance Company, day. Stan reaches its glass doors and pushes his way in backwards, then turns around and walks up to the receptionist's desk.]\n",
+    "output": "Can I help you?\n"
+  },
+  {
+    "input": "Can I help you?\n",
+    "output": "I wanna return this Margaritaville.\n"
+  },
+  {
+    "input": "I wanna return this Margaritaville.\n",
+    "output": "O-kay, let me send you into Josh. [next shot is of Josh dipping his finger into a little can of Carmex and spreading it on his lips]\n"
+  },
+  {
+    "input": "O-kay, let me send you into Josh. [next shot is of Josh dipping his finger into a little can of Carmex and spreading it on his lips]\n",
+    "output": "Heeey, welcome to Big Orange Finance Company, yeah. Have a seat. You want some Carmex?\n"
+  },
+  {
+    "input": "Heeey, welcome to Big Orange Finance Company, yeah. Have a seat. You want some Carmex?\n",
+    "output": "No thanks. I wanna return this Margaritaville, and the guy at Sur la Table said that you were the company that financed it.\n"
+  },
+  {
+    "input": "No thanks. I wanna return this Margaritaville, and the guy at Sur la Table said that you were the company that financed it.\n",
+    "output": "Oh yeah no, you know what? No, yeah.\n"
+  },
+  {
+    "input": "Oh yeah no, you know what? No, yeah.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Yeah, we can't give you your money back for that, yeah, no. You'd have to talk to the people on Wall Street, yeah, mmmm.\n"
+  },
+  {
+    "input": "Yeah, we can't give you your money back for that, yeah, no. You'd have to talk to the people on Wall Street, yeah, mmmm.\n",
+    "output": "Wall Street?\n"
+  },
+  {
+    "input": "Wall Street?\n",
+    "output": "Yeah, no, see, what I do is find Americans who want a frozen beverage machine but can't afford one, and I hook them up with investors who want to get into the margarita bill payment plan business, yeah.\n"
+  },
+  {
+    "input": "Yeah, no, see, what I do is find Americans who want a frozen beverage machine but can't afford one, and I hook them up with investors who want to get into the margarita bill payment plan business, yeah.\n",
+    "output": "So?\n"
+  },
+  {
+    "input": "So?\n",
+    "output": "Yeah, so the problem is your Margaritaville payment plan has been combined with thousands of others into one big Margaritaville security, yeah, no. Yeah. No. Yeah... [Stan sighs in frustration]\n[Park County Community Center, day. Llamas wait in the parking lot with hay bales near them as toga-clad adults walk towards the center's doors. Inside, a council of nine sits in the dark. Six candles give light to two tables. Randy sits on a throne.]\n"
+  },
+  {
+    "input": "Yeah, so the problem is your Margaritaville payment plan has been combined with thousands of others into one big Margaritaville security, yeah, no. Yeah. No. Yeah... [Stan sighs in frustration]\n[Park County Community Center, day. Llamas wait in the parking lot with hay bales near them as toga-clad adults walk towards the center's doors. Inside, a council of nine sits in the dark. Six candles give light to two tables. Randy sits on a throne.]\n",
+    "output": "The entire town has given over to your ways, Mr. Chairman. Everyone has even stopped using electricity so as to stop paying electrical bills.\n"
+  },
+  {
+    "input": "The entire town has given over to your ways, Mr. Chairman. Everyone has even stopped using electricity so as to stop paying electrical bills.\n",
+    "output": "You've really done an amazing thing, Mr. Marsh. People have learned to hold on to their money so as not to feel the sting of the Economy's mighty sword.\n"
+  },
+  {
+    "input": "You've really done an amazing thing, Mr. Marsh. People have learned to hold on to their money so as not to feel the sting of the Economy's mighty sword.\n",
+    "output": "I am pretty smart, yea. But I have assembled this economic committee to make sure that everyone sticks to my new plan.\n"
+  },
+  {
+    "input": "I am pretty smart, yea. But I have assembled this economic committee to make sure that everyone sticks to my new plan.\n",
+    "output": "We've got guards posted at the mall to make sure nobody gets tempted to buy dumb stuff. And, uh, Pat Sallsman is doin' house checks to make sure nobody is ordering anything stupid online.\n"
+  },
+  {
+    "input": "We've got guards posted at the mall to make sure nobody gets tempted to buy dumb stuff. And, uh, Pat Sallsman is doin' house checks to make sure nobody is ordering anything stupid online.\n",
+    "output": "Then perhaps soon our Economy will return to us.\n"
+  },
+  {
+    "input": "Then perhaps soon our Economy will return to us.\n",
+    "output": "Council, I bring news of discord! A young Jew was in the town square speaking blasphemy about the Economy!\n"
+  },
+  {
+    "input": "Council, I bring news of discord! A young Jew was in the town square speaking blasphemy about the Economy!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "He was saying that... your ideas are false and the Economy is not vengeful. He was rallying people to spend more!\n"
+  },
+  {
+    "input": "He was saying that... your ideas are false and the Economy is not vengeful. He was rallying people to spend more!\n",
+    "output": "Spend more?! What mockery is this?!\n"
+  },
+  {
+    "input": "Spend more?! What mockery is this?!\n",
+    "output": "Relax, Father Maxi. What harm can one Jew do against our... economic recovery movement?\n[The same park as before. The squirrels are back, Cartman joins the other boys on the rocks, resting against one.]\n"
+  },
+  {
+    "input": "Relax, Father Maxi. What harm can one Jew do against our... economic recovery movement?\n[The same park as before. The squirrels are back, Cartman joins the other boys on the rocks, resting against one.]\n",
+    "output": "I had a dream last night. I was in a field, and I had Grand Theft Auto: Chinatown Wars right next to me. But then the sky went black and ...Grand Theft Auto: Chinatown Wars just... melted in my hand. [begins to sob, and a rowdy crowd approaches from the right]\n"
+  },
+  {
+    "input": "I had a dream last night. I was in a field, and I had Grand Theft Auto: Chinatown Wars right next to me. But then the sky went black and ...Grand Theft Auto: Chinatown Wars just... melted in my hand. [begins to sob, and a rowdy crowd approaches from the right]\n",
+    "output": "What's that? [a crowd of men runs past them, snatching up squirrels on the way]\n"
+  },
+  {
+    "input": "What's that? [a crowd of men runs past them, snatching up squirrels on the way]\n",
+    "output": "'Scuse me, we need to borrow your squirrels.\n"
+  },
+  {
+    "input": "'Scuse me, we need to borrow your squirrels.\n",
+    "output": "What? [the boys stand and follow the men]\n"
+  },
+  {
+    "input": "What? [the boys stand and follow the men]\n",
+    "output": "Now please, please! [holds his arms up in self-defense]\n"
+  },
+  {
+    "input": "Now please, please! [holds his arms up in self-defense]\n",
+    "output": "You have sinned!\n"
+  },
+  {
+    "input": "You have sinned!\n",
+    "output": "Oh Jesus, I'm sorry. Please.\n"
+  },
+  {
+    "input": "Oh Jesus, I'm sorry. Please.\n",
+    "output": "What's going on?\n"
+  },
+  {
+    "input": "What's going on?\n",
+    "output": "Garrison, you have brought your filth to this town for the last time!\n"
+  },
+  {
+    "input": "Garrison, you have brought your filth to this town for the last time!\n",
+    "output": "What did he do?\n"
+  },
+  {
+    "input": "What did he do?\n",
+    "output": "Your teacher was caught buying a KitchenAid Stand Mixer at Bed Bath & Beyond!\n"
+  },
+  {
+    "input": "Your teacher was caught buying a KitchenAid Stand Mixer at Bed Bath & Beyond!\n",
+    "output": "Take that punishment, heathen! [the crowd begins stoning Garrison with squirrels]\n"
+  },
+  {
+    "input": "Take that punishment, heathen! [the crowd begins stoning Garrison with squirrels]\n",
+    "output": "[steps in between Garrison and the crowd] Hey! Hey, stop it! Stop!\n"
+  },
+  {
+    "input": "[steps in between Garrison and the crowd] Hey! Hey, stop it! Stop!\n",
+    "output": "Move aside, kid! He must pay for his stand mixer.\n"
+  },
+  {
+    "input": "Move aside, kid! He must pay for his stand mixer.\n",
+    "output": "Come on, this is ridiculous!\n"
+  },
+  {
+    "input": "Come on, this is ridiculous!\n",
+    "output": "What's ridiculous about hucking squirrels at a man who has angered the Economy?!\n"
+  },
+  {
+    "input": "What's ridiculous about hucking squirrels at a man who has angered the Economy?!\n",
+    "output": "Ju-just have a little compassion, huh? I mean, everyone's gone out and bought something stupid. It's not so bad. Whichever of you guys has never bought anything frivolous, go ahead and huck the next squirrel. [a man behind Principal Victoria moves and hucks a squirrel at Garrison]\n"
+  },
+  {
+    "input": "Ju-just have a little compassion, huh? I mean, everyone's gone out and bought something stupid. It's not so bad. Whichever of you guys has never bought anything frivolous, go ahead and huck the next squirrel. [a man behind Principal Victoria moves and hucks a squirrel at Garrison]\n",
+    "output": "Oh. [the crowd gets rowdy again]\n[Wall Street, the New York Stock Exchange. It's a busy day. Stan walks into view from the left.]\n"
+  },
+  {
+    "input": "Oh. [the crowd gets rowdy again]\n[Wall Street, the New York Stock Exchange. It's a busy day. Stan walks into view from the left.]\n",
+    "output": "'Scuse me. 'Scuse me! I'd like to return this Margaritaville, please?\n"
+  },
+  {
+    "input": "'Scuse me. 'Scuse me! I'd like to return this Margaritaville, please?\n",
+    "output": "Margaritaville?\n"
+  },
+  {
+    "input": "Margaritaville?\n",
+    "output": "My dad bought it on a payment plan that was set up by a finance company which got their principal investors from somebody here.\n"
+  },
+  {
+    "input": "My dad bought it on a payment plan that was set up by a finance company which got their principal investors from somebody here.\n",
+    "output": "Oh, that makes sense.\n"
+  },
+  {
+    "input": "Oh, that makes sense.\n",
+    "output": "It does?\n"
+  },
+  {
+    "input": "It does?\n",
+    "output": "You see, son, we lump thousands of these Margaritaville installment plans together into Margaritaville-based securities, then chop those securities up in a way that we could sell them to banks.\n"
+  },
+  {
+    "input": "You see, son, we lump thousands of these Margaritaville installment plans together into Margaritaville-based securities, then chop those securities up in a way that we could sell them to banks.\n",
+    "output": "So I can return it to a bank?\n"
+  },
+  {
+    "input": "So I can return it to a bank?\n",
+    "output": "Nope, because a bunch of people like you are defaulting on their Margaritavilles so the government had to buy the Margaritaville assets from the banks.\n"
+  },
+  {
+    "input": "Nope, because a bunch of people like you are defaulting on their Margaritavilles so the government had to buy the Margaritaville assets from the banks.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Just talk to the Treasury Department in DC. They're the ones who really understand how all this works. [notices some activity on his stocks] Oh, sell sell sell sell sell sell sell!\n"
+  },
+  {
+    "input": "Just talk to the Treasury Department in DC. They're the ones who really understand how all this works. [notices some activity on his stocks] Oh, sell sell sell sell sell sell sell!\n",
+    "output": "Aargh! [walks off with the Margaritaville]\n[In a meadow near town, day. Kyle has his own Sermon on the Mount.]\n"
+  },
+  {
+    "input": "Aargh! [walks off with the Margaritaville]\n[In a meadow near town, day. Kyle has his own Sermon on the Mount.]\n",
+    "output": "Listen, this is all you need to know: the economy is not a supernatural all-knowing entity. The economy is just an idea, made up by people, thousands of years ago. The economy is not real. And yet, it is real. Nowadays they'll give credit cards to practically anyone who applies for them. [pulls out an envelope] I applied for this yesterday to prove a point. It is an American Express Platinum card. [from Kyle's position, one can see hundreds of people listening to him] It has no spending limit. [cries of shock rise from the crowd] Do not be afraid! This is only plastic. It's just something made up by people. Truly meaningless until we put our faith in it. Faith is what makes an economy exist. Without faith, it is only plastic cards and paper money.\n[Park County Community Center. The economic recovery movement council is meeting again.]\n"
+  },
+  {
+    "input": "Listen, this is all you need to know: the economy is not a supernatural all-knowing entity. The economy is just an idea, made up by people, thousands of years ago. The economy is not real. And yet, it is real. Nowadays they'll give credit cards to practically anyone who applies for them. [pulls out an envelope] I applied for this yesterday to prove a point. It is an American Express Platinum card. [from Kyle's position, one can see hundreds of people listening to him] It has no spending limit. [cries of shock rise from the crowd] Do not be afraid! This is only plastic. It's just something made up by people. Truly meaningless until we put our faith in it. Faith is what makes an economy exist. Without faith, it is only plastic cards and paper money.\n[Park County Community Center. The economic recovery movement council is meeting again.]\n",
+    "output": "By all reports, the young Jew is not letting up! He is still going around convincing people to have faith in the Economy by shopping!\n"
+  },
+  {
+    "input": "By all reports, the young Jew is not letting up! He is still going around convincing people to have faith in the Economy by shopping!\n",
+    "output": "We've done everything we can and yet the Economy has not improved. Worse, it has declined! Poor Bart here just lost his job at Little Caesar's Pizza. Our tireless work is obviously being undermined by this one Jew. Why does he go around pretending to know the true will of the Economy?\n"
+  },
+  {
+    "input": "We've done everything we can and yet the Economy has not improved. Worse, it has declined! Poor Bart here just lost his job at Little Caesar's Pizza. Our tireless work is obviously being undermined by this one Jew. Why does he go around pretending to know the true will of the Economy?\n",
+    "output": "Perhaps... he is the Economy's only Son, sent to save us.\n"
+  },
+  {
+    "input": "Perhaps... he is the Economy's only Son, sent to save us.\n",
+    "output": "Are you retarded, Stotch?! The Economy is omnipotent! Which means it can do anything! So saying it would be limited to one Son is fucking stupid!\n"
+  },
+  {
+    "input": "Are you retarded, Stotch?! The Economy is omnipotent! Which means it can do anything! So saying it would be limited to one Son is fucking stupid!\n",
+    "output": "That is stupid, yea. And going around telling people to shop... is dangerous!\n"
+  },
+  {
+    "input": "That is stupid, yea. And going around telling people to shop... is dangerous!\n",
+    "output": "Well then, there's only one option: we have to kill the Jew.\n"
+  },
+  {
+    "input": "Well then, there's only one option: we have to kill the Jew.\n",
+    "output": "Yep, I think we gotta kill the Jew.\n"
+  },
+  {
+    "input": "Yep, I think we gotta kill the Jew.\n",
+    "output": "I don't know... He's got a lot of support. It might be hard to even catch this Jew. [a screeching sound is heard. A hand is seen going down a blackboard. and it belongs to Cartman]\n"
+  },
+  {
+    "input": "I don't know... He's got a lot of support. It might be hard to even catch this Jew. [a screeching sound is heard. A hand is seen going down a blackboard. and it belongs to Cartman]\n",
+    "output": "Did somebody say \"catch a Jew\"? The person you're after might be hard to get, but I can bring him to you. And all I want in return... is Grand Theft Auto: Chinatown Wars for handheld Nintendo DS.\n[The U.S. Treasury Department, day. The camera pans down from the top of the building to street level, and shows Stan walking past a statue with the Margaritaville. Stan then goes up the steps and through the domed atrium. Three men gather in front of him and face him. He stops and drops the Margaritaville to the floor.]\n"
+  },
+  {
+    "input": "Did somebody say \"catch a Jew\"? The person you're after might be hard to get, but I can bring him to you. And all I want in return... is Grand Theft Auto: Chinatown Wars for handheld Nintendo DS.\n[The U.S. Treasury Department, day. The camera pans down from the top of the building to street level, and shows Stan walking past a statue with the Margaritaville. Stan then goes up the steps and through the domed atrium. Three men gather in front of him and face him. He stops and drops the Margaritaville to the floor.]\n",
+    "output": "Uhh, how can we help you, young man?\n"
+  },
+  {
+    "input": "Uhh, how can we help you, young man?\n",
+    "output": "I want to return this Margaritaville! My dad bought it on a payment plan set up by a finance company that got investors from Wall Street who combined it into securities sold to the banks who transferred it to you!\n"
+  },
+  {
+    "input": "I want to return this Margaritaville! My dad bought it on a payment plan set up by a finance company that got investors from Wall Street who combined it into securities sold to the banks who transferred it to you!\n",
+    "output": "Ohhh that makes sense.\n"
+  },
+  {
+    "input": "Ohhh that makes sense.\n",
+    "output": "Nnnaaargh!\n"
+  },
+  {
+    "input": "Nnnaaargh!\n",
+    "output": "No problem. We just need to consult the chart. We can determine your property's value and we'll be done.\n"
+  },
+  {
+    "input": "No problem. We just need to consult the chart. We can determine your property's value and we'll be done.\n",
+    "output": "[surprised] Really? [puts his hands together] Thank you.\n"
+  },
+  {
+    "input": "[surprised] Really? [puts his hands together] Thank you.\n",
+    "output": "Be right back. [they go into a room through the heavy double doors behind them and close the doors. A squawk is heard, then a cleaver and the sound of blood spurting out. Stan is startled. The men come back out through the doors with streaks of blood on them.]\n"
+  },
+  {
+    "input": "Be right back. [they go into a room through the heavy double doors behind them and close the doors. A squawk is heard, then a cleaver and the sound of blood spurting out. Stan is startled. The men come back out through the doors with streaks of blood on them.]\n",
+    "output": "Excellent news, sir. We've determined the investment value of your Margaritaville to be... ninety trillion dollars.\n"
+  },
+  {
+    "input": "Excellent news, sir. We've determined the investment value of your Margaritaville to be... ninety trillion dollars.\n",
+    "output": "What?!\n[Whistlin' Willy's Pizza Gultch. Many of the boys are inside in the dark, seated at a long table reminiscent of The Last Supper. From left to right are Craig, Timmy, Jason, Cartman, Tolkien, Kyle, Jimmy, Butters, Kenny, Tweek, Ike, and Clyde, all munching on slices of pizza. Some breadsticks are in a basket.]\n"
+  },
+  {
+    "input": "What?!\n[Whistlin' Willy's Pizza Gultch. Many of the boys are inside in the dark, seated at a long table reminiscent of The Last Supper. From left to right are Craig, Timmy, Jason, Cartman, Tolkien, Kyle, Jimmy, Butters, Kenny, Tweek, Ike, and Clyde, all munching on slices of pizza. Some breadsticks are in a basket.]\n",
+    "output": "Hey, what's the matter, Kyle? You seem b-b-bu-bbbummed out.\n"
+  },
+  {
+    "input": "Hey, what's the matter, Kyle? You seem b-b-bu-bbbummed out.\n",
+    "output": "I just have a feeling this might be the last time we get to do this.\n"
+  },
+  {
+    "input": "I just have a feeling this might be the last time we get to do this.\n",
+    "output": "Well don't worry Kyle. We're not gonna let people kill you. We'll keep you hidden forever!\n"
+  },
+  {
+    "input": "Well don't worry Kyle. We're not gonna let people kill you. We'll keep you hidden forever!\n",
+    "output": "I can't just hide my whole life, Butters. And besides, I have this strange feeling that one of you is gonna totally betray me. [the other boys gasp and look at Kyle. Tweek and Ike look at Clyde]\n"
+  },
+  {
+    "input": "I can't just hide my whole life, Butters. And besides, I have this strange feeling that one of you is gonna totally betray me. [the other boys gasp and look at Kyle. Tweek and Ike look at Clyde]\n",
+    "output": "[stands up in his seat] All right, whoever is thinkin' of betraying Kyle, that is not cool! [checks for a reaction] That's freaking lame, dude! Kyle is trying to get the economy goin' again! If somebody is thinking of stabbing him in the back, you're b-you're being a dick! [clears his throat and sits down] Go ahead, Kyle.\n"
+  },
+  {
+    "input": "[stands up in his seat] All right, whoever is thinkin' of betraying Kyle, that is not cool! [checks for a reaction] That's freaking lame, dude! Kyle is trying to get the economy goin' again! If somebody is thinking of stabbing him in the back, you're b-you're being a dick! [clears his throat and sits down] Go ahead, Kyle.\n",
+    "output": "[looks at Cartman for a few seconds, then enunciates] Whoever it might happen to be, I'm not giving him the opportunity. Tomorrow I'm going to do something. Something I've known I would have to do restore people's faith.\n"
+  },
+  {
+    "input": "[looks at Cartman for a few seconds, then enunciates] Whoever it might happen to be, I'm not giving him the opportunity. Tomorrow I'm going to do something. Something I've known I would have to do restore people's faith.\n",
+    "output": "Kyle please! For fu-fu for for-fu-fuck's sake, don't do anything drastic.\n"
+  },
+  {
+    "input": "Kyle please! For fu-fu for for-fu-fuck's sake, don't do anything drastic.\n",
+    "output": "There's no choice anymore, guys. Don't worry about me. I've been preparing for this for a while now. [looks down at his plate]\n[The U.S. Treasury Department, day. Stan is still trying to figure things out with Treasury.]\n"
+  },
+  {
+    "input": "There's no choice anymore, guys. Don't worry about me. I've been preparing for this for a while now. [looks down at his plate]\n[The U.S. Treasury Department, day. Stan is still trying to figure things out with Treasury.]\n",
+    "output": "Nononono excuse me! I don't understand! How can this stupid thing be worth ninety trillion dollars?!\n"
+  },
+  {
+    "input": "Nononono excuse me! I don't understand! How can this stupid thing be worth ninety trillion dollars?!\n",
+    "output": "What, you think it's worth more?\n"
+  },
+  {
+    "input": "What, you think it's worth more?\n",
+    "output": "No, dude, that doesn't make sense!\n"
+  },
+  {
+    "input": "No, dude, that doesn't make sense!\n",
+    "output": "Well, you don't get ninety trillion dollars, but the chart says that's what it's worth.\n"
+  },
+  {
+    "input": "Well, you don't get ninety trillion dollars, but the chart says that's what it's worth.\n",
+    "output": "[runs up to the other two treasurers] Uh oh, problem! Problem again!\n"
+  },
+  {
+    "input": "[runs up to the other two treasurers] Uh oh, problem! Problem again!\n",
+    "output": "What is it now?\n"
+  },
+  {
+    "input": "What is it now?\n",
+    "output": "Another insurance company is about to go under; if they do, people could lose millions!\n"
+  },
+  {
+    "input": "Another insurance company is about to go under; if they do, people could lose millions!\n",
+    "output": "Okay, no problem. [the three go behind the double doors again] We'd better consult the chart. [this time one of the doors is left ajar. Stan observes this and then takes the Margaritaville into the chart's room]\n[The chart room. The three treasurers face three other men at the opposite end of the large chart. These other men sit in high-backed chairs and wear white wigs.]\n"
+  },
+  {
+    "input": "Okay, no problem. [the three go behind the double doors again] We'd better consult the chart. [this time one of the doors is left ajar. Stan observes this and then takes the Margaritaville into the chart's room]\n[The chart room. The three treasurers face three other men at the opposite end of the large chart. These other men sit in high-backed chairs and wear white wigs.]\n",
+    "output": "Sirs, another insurance company is going under!\n"
+  },
+  {
+    "input": "Sirs, another insurance company is going under!\n",
+    "output": "Now determining most prudent move for insurance company. [brings down the gavel. Treasurer 2 picks up a chicken and a meat cleaver, puts the chicken down against the edge of the chart, and chops its head off with the meat cleaver. He then drops it into the chart and it stumbles around while Treasurer 3 plays the kazoo. The headless chicken drops onto the bailout button and the button lights up and sets off a bell]\n"
+  },
+  {
+    "input": "Now determining most prudent move for insurance company. [brings down the gavel. Treasurer 2 picks up a chicken and a meat cleaver, puts the chicken down against the edge of the chart, and chops its head off with the meat cleaver. He then drops it into the chart and it stumbles around while Treasurer 3 plays the kazoo. The headless chicken drops onto the bailout button and the button lights up and sets off a bell]\n",
+    "output": "Bailout!\n"
+  },
+  {
+    "input": "Bailout!\n",
+    "output": "Most prudent move is a bailout!\n"
+  },
+  {
+    "input": "Most prudent move is a bailout!\n",
+    "output": "Bail out the insurance company! [Stan is upset at this method of resolving a serious economic problem. He picks up the Margaritaville, smashes it into the chart, turns around and leaves]\n[The city park, evening. A crowd is gathered for some reason...]\n"
+  },
+  {
+    "input": "Bail out the insurance company! [Stan is upset at this method of resolving a serious economic problem. He picks up the Margaritaville, smashes it into the chart, turns around and leaves]\n[The city park, evening. A crowd is gathered for some reason...]\n",
+    "output": "It's a miracle.\n"
+  },
+  {
+    "input": "It's a miracle.\n",
+    "output": "Why would someone do this? [members of the economic recovery council run up to see what the commotion is about]\n"
+  },
+  {
+    "input": "Why would someone do this? [members of the economic recovery council run up to see what the commotion is about]\n",
+    "output": "What is this? What's going on?\n"
+  },
+  {
+    "input": "What is this? What's going on?\n",
+    "output": "There! Look! [a shot of Kyle signing papers] It's the Jew. Somehow he got a platinum AmEx with no spending limit.\n"
+  },
+  {
+    "input": "There! Look! [a shot of Kyle signing papers] It's the Jew. Somehow he got a platinum AmEx with no spending limit.\n",
+    "output": "What's he doing?\n"
+  },
+  {
+    "input": "What's he doing?\n",
+    "output": "He's... paying for everyone's debts. [a shot of several lines of people walking up to Kyle, who takes each bill, enters the amount due into a card reader, and swipes his card through the reader to pay the debt]\n"
+  },
+  {
+    "input": "He's... paying for everyone's debts. [a shot of several lines of people walking up to Kyle, who takes each bill, enters the amount due into a card reader, and swipes his card through the reader to pay the debt]\n",
+    "output": "Hey thanks, kid, this is really nice of you.\n"
+  },
+  {
+    "input": "Hey thanks, kid, this is really nice of you.\n",
+    "output": "But that's... impossible. Why would he do this?\n"
+  },
+  {
+    "input": "But that's... impossible. Why would he do this?\n",
+    "output": "So that people will have money to spend.\n"
+  },
+  {
+    "input": "So that people will have money to spend.\n",
+    "output": "[runs up to Kyle] Kyle! [gets on her knees] Kyle, you have to stop this! [begins to cry]\n"
+  },
+  {
+    "input": "[runs up to Kyle] Kyle! [gets on her knees] Kyle, you have to stop this! [begins to cry]\n",
+    "output": "It's okay, Ma.\n"
+  },
+  {
+    "input": "It's okay, Ma.\n",
+    "output": "No-o Kyle, you'll be in debt for the rest of your life! [stands up and walks away] Please, somebody, get him to sto-o-op! [Randy gets an idea, points towards his house, and leaves. More people walk towards Kyle, and this continues for hours. Kyle begins to moan from lack of energy as he continues paying off debts]\n"
+  },
+  {
+    "input": "No-o Kyle, you'll be in debt for the rest of your life! [stands up and walks away] Please, somebody, get him to sto-o-op! [Randy gets an idea, points towards his house, and leaves. More people walk towards Kyle, and this continues for hours. Kyle begins to moan from lack of energy as he continues paying off debts]\n",
+    "output": "[returns with his unpaid bills] Uh there's about seventeen thousand dollars' worth here.\n"
+  },
+  {
+    "input": "[returns with his unpaid bills] Uh there's about seventeen thousand dollars' worth here.\n",
+    "output": "[pays it off, with difficulty.] Heunh. [Randy smiles and walks away]\n"
+  },
+  {
+    "input": "[pays it off, with difficulty.] Heunh. [Randy smiles and walks away]\n",
+    "output": "He paid for our debts so we could spend once more. [Kyle has stopped moving. A man steps up to check]\n"
+  },
+  {
+    "input": "He paid for our debts so we could spend once more. [Kyle has stopped moving. A man steps up to check]\n",
+    "output": "He's dead.\n"
+  },
+  {
+    "input": "He's dead.\n",
+    "output": "[steps up to check Kyle's pulse] No, he's just passed out. We should get him to bed. [several men raise Kyle over their heads and gently carry him home. Sheila sobs and follows them. They all go through the living room, up the stairs, into Kyle's room, and lay him down. Sheila waits as the men leave, then leaves and closes the door so Kyle can recover in peace. Beams of light enter through the window]\n[Channel 9 News. The anchorman speaks.]\n"
+  },
+  {
+    "input": "[steps up to check Kyle's pulse] No, he's just passed out. We should get him to bed. [several men raise Kyle over their heads and gently carry him home. Sheila sobs and follows them. They all go through the living room, up the stairs, into Kyle's room, and lay him down. Sheila waits as the men leave, then leaves and closes the door so Kyle can recover in peace. Beams of light enter through the window]\n[Channel 9 News. The anchorman speaks.]\n",
+    "output": "For the first time in almost a year, the economy in South Park has taken a small, but noticeable upturn. [a shot of a bustling mall] Stores and shopping malls are open again as newly debt-free people feel safe... to make purchases. [The Marshes are shopping, and Randy notices something]\n"
+  },
+  {
+    "input": "For the first time in almost a year, the economy in South Park has taken a small, but noticeable upturn. [a shot of a bustling mall] Stores and shopping malls are open again as newly debt-free people feel safe... to make purchases. [The Marshes are shopping, and Randy notices something]\n",
+    "output": "Wow, the new Margaritaville! [holds it up] With salsa dispenser! \"Just pour your favorite salsa in the top and it comes out the dispenser in the bottom.\" Oh, we need this! [Sharon buries her face in her left hand]\n"
+  },
+  {
+    "input": "Wow, the new Margaritaville! [holds it up] With salsa dispenser! \"Just pour your favorite salsa in the top and it comes out the dispenser in the bottom.\" Oh, we need this! [Sharon buries her face in her left hand]\n",
+    "output": "Are we out of the woods yet? Only time will tell. But we must not forget the sacrifice one person made to restore our faith and make us believe in the economy once again. The person we must thank every day for his amazing sacrifice. [the person is shown] Barack Obama. [a shot of Obama addressing a cheering crowd]\n"
+  }
+]

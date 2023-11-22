@@ -1,0 +1,1314 @@
+[
+  {
+    "input": "",
+    "output": "The Snuke\n\n[South Park Elementary, morning. The school bell rings and the kids rush in to sit down. Mrs. Garrison enters the classroom.]\n"
+  },
+  {
+    "input": "The Snuke\n\n[South Park Elementary, morning. The school bell rings and the kids rush in to sit down. Mrs. Garrison enters the classroom.]\n",
+    "output": "All right, students, let's take our seats. Everyone try to be nice because we have a new student joining us today, and I know you'll all make him feel welcome. Say hello to... Baahir Hassan Abdul Hakeem.\n"
+  },
+  {
+    "input": "All right, students, let's take our seats. Everyone try to be nice because we have a new student joining us today, and I know you'll all make him feel welcome. Say hello to... Baahir Hassan Abdul Hakeem.\n",
+    "output": "Uh oh! [Kyle's seat is empty, and he fears the worst]\n"
+  },
+  {
+    "input": "Uh oh! [Kyle's seat is empty, and he fears the worst]\n",
+    "output": "Welcome to our class, Baahir.\n"
+  },
+  {
+    "input": "Welcome to our class, Baahir.\n",
+    "output": "Thank you.\n"
+  },
+  {
+    "input": "Thank you.\n",
+    "output": "Duhude, dude, [throws out his arms, palms out] not cool!\n"
+  },
+  {
+    "input": "Duhude, dude, [throws out his arms, palms out] not cool!\n",
+    "output": "Why don't you take a seat in Kyle's empty desk for now?\n"
+  },
+  {
+    "input": "Why don't you take a seat in Kyle's empty desk for now?\n",
+    "output": "Okay. [goes to Kyle's seat. Cartman begins crawling out of his, away from Baahir]\n"
+  },
+  {
+    "input": "Okay. [goes to Kyle's seat. Cartman begins crawling out of his, away from Baahir]\n",
+    "output": "Oooh hooohoho. Nooo, noohoohoo.\n"
+  },
+  {
+    "input": "Oooh hooohoho. Nooo, noohoohoo.\n",
+    "output": "[stopping him. What follows is in hushed tones] Eric, what the hell is wrong with you?!\n"
+  },
+  {
+    "input": "[stopping him. What follows is in hushed tones] Eric, what the hell is wrong with you?!\n",
+    "output": "What's wrong? [looks at Baahir, who's looking back at him, then looks back at Mrs. Garrison and takes her aside] Has he been checked for bombs?\n"
+  },
+  {
+    "input": "What's wrong? [looks at Baahir, who's looking back at him, then looks back at Mrs. Garrison and takes her aside] Has he been checked for bombs?\n",
+    "output": "Eric, that's enough! Not all Muslim people are terrorists!\n"
+  },
+  {
+    "input": "Eric, that's enough! Not all Muslim people are terrorists!\n",
+    "output": "No, but most of them are. And all it takes is most of them.\n[The school playground, recess. There are several kids waiting at the slide, Butters takes his turn.]\n"
+  },
+  {
+    "input": "No, but most of them are. And all it takes is most of them.\n[The school playground, recess. There are several kids waiting at the slide, Butters takes his turn.]\n",
+    "output": "[slides down gleefully] Now you go, Baahir. [Baahir climbs the ladder steps and slides down. Butters cheers him on. Cartman shows up and looks at them. Baahir dusts himself off. Cartman turns and walks away, then places a call on his cell phone]\n[Kyle's bedroom, day. Kyle is still in bed, his window curtains drawn shut. There's lots of little tissues on his bed and surrounding floor with two plates on the floor next to the bed. His cordless phone is on the covers. It rings, he picks up]\n"
+  },
+  {
+    "input": "[slides down gleefully] Now you go, Baahir. [Baahir climbs the ladder steps and slides down. Butters cheers him on. Cartman shows up and looks at them. Baahir dusts himself off. Cartman turns and walks away, then places a call on his cell phone]\n[Kyle's bedroom, day. Kyle is still in bed, his window curtains drawn shut. There's lots of little tissues on his bed and surrounding floor with two plates on the floor next to the bed. His cordless phone is on the covers. It rings, he picks up]\n",
+    "output": "[sniffs - he has a stuffy nose] Yeah?\n"
+  },
+  {
+    "input": "[sniffs - he has a stuffy nose] Yeah?\n",
+    "output": "[hushed] Kyle, are you on your computer?\n"
+  },
+  {
+    "input": "[hushed] Kyle, are you on your computer?\n",
+    "output": "What? No, I'm sick. [sniffs]\n"
+  },
+  {
+    "input": "What? No, I'm sick. [sniffs]\n",
+    "output": "Get online. I need you to check something for me.\n"
+  },
+  {
+    "input": "Get online. I need you to check something for me.\n",
+    "output": "Dude, leave me alone.\n"
+  },
+  {
+    "input": "Dude, leave me alone.\n",
+    "output": "Kyle, every one of our friends might be in serious danger!\n"
+  },
+  {
+    "input": "Kyle, every one of our friends might be in serious danger!\n",
+    "output": "[sits right up] What? Why?\n"
+  },
+  {
+    "input": "[sits right up] What? Why?\n",
+    "output": "Get online now!\n"
+  },
+  {
+    "input": "Get online now!\n",
+    "output": "All right, all right. [leaves his bed and goes to his computer, sits down and starts clicking]\n"
+  },
+  {
+    "input": "All right, all right. [leaves his bed and goes to his computer, sits down and starts clicking]\n",
+    "output": "Go to MySpace. [enters the school building] See if there's a MySpace page for a Baahir Hakeem.\n"
+  },
+  {
+    "input": "Go to MySpace. [enters the school building] See if there's a MySpace page for a Baahir Hakeem.\n",
+    "output": "[types a search term at MySpace] Baahir Hakeem. [Baahir's page pops up] Born in Chicago, eight years old, his favorite color is green... Car, Cartman, what is this all about?\n"
+  },
+  {
+    "input": "[types a search term at MySpace] Baahir Hakeem. [Baahir's page pops up] Born in Chicago, eight years old, his favorite color is green... Car, Cartman, what is this all about?\n",
+    "output": "[begins walking down the hallway] Kyle, I want you to check his buddy list. How many MySpace friends does he have?\n"
+  },
+  {
+    "input": "[begins walking down the hallway] Kyle, I want you to check his buddy list. How many MySpace friends does he have?\n",
+    "output": "Over a hundred.\n"
+  },
+  {
+    "input": "Over a hundred.\n",
+    "output": "[walks further along] Look further down the page. Does he list his favorite band?\n"
+  },
+  {
+    "input": "[walks further along] Look further down the page. Does he list his favorite band?\n",
+    "output": "White Stripes\n"
+  },
+  {
+    "input": "White Stripes\n",
+    "output": "[stops suddenly] That's funny.\n"
+  },
+  {
+    "input": "[stops suddenly] That's funny.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "He told everyone in class today his favorite band was Blink 182.\n[A ticking clock: 11:59:57... 11:59:58... 11:59:59... 12:00:00... Darkness. The following text appears onscreen, then disappears after Cartman finishes speaking.]\n"
+  },
+  {
+    "input": "He told everyone in class today his favorite band was Blink 182.\n[A ticking clock: 11:59:57... 11:59:58... 11:59:59... 12:00:00... Darkness. The following text appears onscreen, then disappears after Cartman finishes speaking.]\n",
+    "output": "[voiceover] The following takes place between Recess and Geography class.\n[South Park Police Station, day, Officer Barbrady's desk. A hovering camera looks at a ringing phone. Officer Barbrady answers.]\n"
+  },
+  {
+    "input": "[voiceover] The following takes place between Recess and Geography class.\n[South Park Police Station, day, Officer Barbrady's desk. A hovering camera looks at a ringing phone. Officer Barbrady answers.]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "[entering the boys' restroom, still in hushed tones] Officer Barbrady, South Park Elementary is in serious danger! [checks the toilet stalls on all fours]\n"
+  },
+  {
+    "input": "[entering the boys' restroom, still in hushed tones] Officer Barbrady, South Park Elementary is in serious danger! [checks the toilet stalls on all fours]\n",
+    "output": "From what? Who is this?\n"
+  },
+  {
+    "input": "From what? Who is this?\n",
+    "output": "I've just ID'd a Muslim and his MySpace page does not check out. You've got to get these people out of here now!\n"
+  },
+  {
+    "input": "I've just ID'd a Muslim and his MySpace page does not check out. You've got to get these people out of here now!\n",
+    "output": "Are you serious?\n"
+  },
+  {
+    "input": "Are you serious?\n",
+    "output": "If I wasn't serious, would I be talking like this?\n"
+  },
+  {
+    "input": "If I wasn't serious, would I be talking like this?\n",
+    "output": "Like what?\n"
+  },
+  {
+    "input": "Like what?\n",
+    "output": "Whispering, but whispering really loudly for dramatic effect.\n"
+  },
+  {
+    "input": "Whispering, but whispering really loudly for dramatic effect.\n",
+    "output": "Oh jeez.\n[South Park Elementary, Mrs. Garrison's class, later. Mrs. Garrison moves on to History, but the school bell goes off as a fire drill.]\n"
+  },
+  {
+    "input": "Oh jeez.\n[South Park Elementary, Mrs. Garrison's class, later. Mrs. Garrison moves on to History, but the school bell goes off as a fire drill.]\n",
+    "output": "What the hell?\n"
+  },
+  {
+    "input": "What the hell?\n",
+    "output": "[over the PA system] All students are to evacuate the school immediately! [Baahir looks around]\n[The front of South Park Elementary, later. The kids pour out happily.]\n"
+  },
+  {
+    "input": "[over the PA system] All students are to evacuate the school immediately! [Baahir looks around]\n[The front of South Park Elementary, later. The kids pour out happily.]\n",
+    "output": "Hey, Baahir, uh since we get to go home, you wanna come over uh, play checkers?\n"
+  },
+  {
+    "input": "Hey, Baahir, uh since we get to go home, you wanna come over uh, play checkers?\n",
+    "output": "Sure, okay. [12:02:32 pops up on screen and ticks the seconds away.]\n"
+  },
+  {
+    "input": "Sure, okay. [12:02:32 pops up on screen and ticks the seconds away.]\n",
+    "output": "Well all right! [they walk off together]\n"
+  },
+  {
+    "input": "Well all right! [they walk off together]\n",
+    "output": "Dude. [sniffs and calls Cartman. The LED readout vanishes]\n"
+  },
+  {
+    "input": "Dude. [sniffs and calls Cartman. The LED readout vanishes]\n",
+    "output": "[exits the building through a side door and answers the call] Yeah. [walks among various trash cans and bins]\n"
+  },
+  {
+    "input": "[exits the building through a side door and answers the call] Yeah. [walks among various trash cans and bins]\n",
+    "output": "Dude, I just got an IM from Stan that they evacuated the school.\n"
+  },
+  {
+    "input": "Dude, I just got an IM from Stan that they evacuated the school.\n",
+    "output": "Yeah. Now do you believe me that somethin' is goin' on?!\n"
+  },
+  {
+    "input": "Yeah. Now do you believe me that somethin' is goin' on?!\n",
+    "output": "I guess so.\n"
+  },
+  {
+    "input": "I guess so.\n",
+    "output": "Yeah well I don't like it! It doesn't follow!\n"
+  },
+  {
+    "input": "Yeah well I don't like it! It doesn't follow!\n",
+    "output": "Wuh what doesn't follow?\n"
+  },
+  {
+    "input": "Wuh what doesn't follow?\n",
+    "output": "Why would a terrorist just blow up a school? It's not their M.O. Unless... Oh my God! Unless this was all just a big diversion. [starts running] Kyle, I need you to Google-search the South Park Chamber of Commerce!\n"
+  },
+  {
+    "input": "Why would a terrorist just blow up a school? It's not their M.O. Unless... Oh my God! Unless this was all just a big diversion. [starts running] Kyle, I need you to Google-search the South Park Chamber of Commerce!\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "Their Web site should have a calendar of events: is there anything big going on in town today?!\n"
+  },
+  {
+    "input": "Their Web site should have a calendar of events: is there anything big going on in town today?!\n",
+    "output": "[looks up the info as Cartman talks] Yeah. Actually, there is.\n"
+  },
+  {
+    "input": "[looks up the info as Cartman talks] Yeah. Actually, there is.\n",
+    "output": "[stops] What?\n"
+  },
+  {
+    "input": "[stops] What?\n",
+    "output": "There's a Hillary Clinton campaign rally. [Cartman stays silent] Cartman? ...Cartman? [Cartman has turned off his phone and runs out of school]\n[Central Intelligence Agency, day. An agent takes a call and-]\n"
+  },
+  {
+    "input": "There's a Hillary Clinton campaign rally. [Cartman stays silent] Cartman? ...Cartman? [Cartman has turned off his phone and runs out of school]\n[Central Intelligence Agency, day. An agent takes a call and-]\n",
+    "output": "Sir! There's somebody calling in saying there's going to be a terrorist attack on the Hillary Clinton rally today.\n"
+  },
+  {
+    "input": "Sir! There's somebody calling in saying there's going to be a terrorist attack on the Hillary Clinton rally today.\n",
+    "output": "What? [takes the call] This is CIA head, Alan Thompson.\n"
+  },
+  {
+    "input": "What? [takes the call] This is CIA head, Alan Thompson.\n",
+    "output": "Mr. Thompson, you have to call off the Clinton rally! There's a terrorist in South Park!\n"
+  },
+  {
+    "input": "Mr. Thompson, you have to call off the Clinton rally! There's a terrorist in South Park!\n",
+    "output": "What do you know?\n"
+  },
+  {
+    "input": "What do you know?\n",
+    "output": "He just showed up out of the blue! I need to speak with the President right away!\n"
+  },
+  {
+    "input": "He just showed up out of the blue! I need to speak with the President right away!\n",
+    "output": "I'm the head of the CIA! You can tell me!\n"
+  },
+  {
+    "input": "I'm the head of the CIA! You can tell me!\n",
+    "output": "I said I will only talk to the President!\n"
+  },
+  {
+    "input": "I said I will only talk to the President!\n",
+    "output": "Look, if you have information of a threat, you could-\n"
+  },
+  {
+    "input": "Look, if you have information of a threat, you could-\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I will have you arrested for-!\n"
+  },
+  {
+    "input": "I will have you arrested for-!\n",
+    "output": "LALALA-I can't hear you! Only the President! LALALALALALA!\n[The Oval Office, 12:04:27 South Park time. The LED readout ticks away, the ominous echo follows.]\n"
+  },
+  {
+    "input": "LALALA-I can't hear you! Only the President! LALALALALALA!\n[The Oval Office, 12:04:27 South Park time. The LED readout ticks away, the ominous echo follows.]\n",
+    "output": "Call is coming through now, Mr. President.\n"
+  },
+  {
+    "input": "Call is coming through now, Mr. President.\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "President Bush, this is Eric Cartman! Are we on a secure line?\n"
+  },
+  {
+    "input": "President Bush, this is Eric Cartman! Are we on a secure line?\n",
+    "output": "Huh? Who.\n"
+  },
+  {
+    "input": "Huh? Who.\n",
+    "output": "Look, I know you're not the biggest Hildog fan, but she is in great danger right now!\n"
+  },
+  {
+    "input": "Look, I know you're not the biggest Hildog fan, but she is in great danger right now!\n",
+    "output": "Hildog?\n[A motorcade in South Park, day. The American flag waving from a pole on the hood indicates Secret Service protection.]\n"
+  },
+  {
+    "input": "Hildog?\n[A motorcade in South Park, day. The American flag waving from a pole on the hood indicates Secret Service protection.]\n",
+    "output": "Yes, I understand. I'll let Ms. Clinton know.\n"
+  },
+  {
+    "input": "Yes, I understand. I'll let Ms. Clinton know.\n",
+    "output": "What is it, Brian?\n"
+  },
+  {
+    "input": "What is it, Brian?\n",
+    "output": "Ms. Clinton, we just received word of a possible terrorist attack on your rally today.\n"
+  },
+  {
+    "input": "Ms. Clinton, we just received word of a possible terrorist attack on your rally today.\n",
+    "output": "Is the thread credible?\n"
+  },
+  {
+    "input": "Is the thread credible?\n",
+    "output": "We aren't sure, but... perhaps it's best we call it off. [behind him, the rally gets closer and closer]\n"
+  },
+  {
+    "input": "We aren't sure, but... perhaps it's best we call it off. [behind him, the rally gets closer and closer]\n",
+    "output": "No. No, I will not be bullied by terrorist threats. Your men do a good job, Brian. I have faith that any thread will be taken care of accordingly.\n"
+  },
+  {
+    "input": "No. No, I will not be bullied by terrorist threats. Your men do a good job, Brian. I have faith that any thread will be taken care of accordingly.\n",
+    "output": "We've reached the rally site, Hildog.\n[The rally site, downtown South Park.]\n"
+  },
+  {
+    "input": "We've reached the rally site, Hildog.\n[The rally site, downtown South Park.]\n",
+    "output": "Don't worry, Mrs. Clinton, I'm sure everything will be fine.\n"
+  },
+  {
+    "input": "Don't worry, Mrs. Clinton, I'm sure everything will be fine.\n",
+    "output": "Thank you, Chris. [leaves with Brian and a third aide. The driver walks off in the opposite direction, and Chris whips out a cell phone. He walks forward and calls someone]\n"
+  },
+  {
+    "input": "Thank you, Chris. [leaves with Brian and a third aide. The driver walks off in the opposite direction, and Chris whips out a cell phone. He walks forward and calls someone]\n",
+    "output": "They know about the bomb!\n"
+  },
+  {
+    "input": "They know about the bomb!\n",
+    "output": "That is impossible! We took every measure to assure the bomb was hidden from sight.\n"
+  },
+  {
+    "input": "That is impossible! We took every measure to assure the bomb was hidden from sight.\n",
+    "output": "Well somebody tipped off the CIA. I don't know how much they know, but security has been heightened.\n"
+  },
+  {
+    "input": "Well somebody tipped off the CIA. I don't know how much they know, but security has been heightened.\n",
+    "output": "That bomb must travel with the Clinton rally to Boston!\n"
+  },
+  {
+    "input": "That bomb must travel with the Clinton rally to Boston!\n",
+    "output": "The bomb won't make it to Boston now! With the heightened security, it's only a matter of time before they find it!\n"
+  },
+  {
+    "input": "The bomb won't make it to Boston now! With the heightened security, it's only a matter of time before they find it!\n",
+    "output": "Then we have no choice. We have to move up the attack.\n"
+  },
+  {
+    "input": "Then we have no choice. We have to move up the attack.\n",
+    "output": "I understand, comrade.\n"
+  },
+  {
+    "input": "I understand, comrade.\n",
+    "output": "Prepare yourself. We detonate the bomb... within the hour.\n[12:17:56. Time keeps on ticking, ticking, ticking... Kyle is still at home, Cartman roams the rally.]\n"
+  },
+  {
+    "input": "Prepare yourself. We detonate the bomb... within the hour.\n[12:17:56. Time keeps on ticking, ticking, ticking... Kyle is still at home, Cartman roams the rally.]\n",
+    "output": "Kyle, I'm at the Clinton rally site, but there's no sign of that kid!\n"
+  },
+  {
+    "input": "Kyle, I'm at the Clinton rally site, but there's no sign of that kid!\n",
+    "output": "So then maybe you're wrong.\n"
+  },
+  {
+    "input": "So then maybe you're wrong.\n",
+    "output": "Nope, I'm not wrong. He must be somehow attacking remotely from his house. Did you find the address?\n"
+  },
+  {
+    "input": "Nope, I'm not wrong. He must be somehow attacking remotely from his house. Did you find the address?\n",
+    "output": "Yeah. I cross-referenced his MySpace page with realtor.com. His parents moved into that green house on Janice Street.\n"
+  },
+  {
+    "input": "Yeah. I cross-referenced his MySpace page with realtor.com. His parents moved into that green house on Janice Street.\n",
+    "output": "Jesus, that's on the other side of town. All right, Kyle, I'm going to take a picture with my camera phone and upload it to you. You ready?\n"
+  },
+  {
+    "input": "Jesus, that's on the other side of town. All right, Kyle, I'm going to take a picture with my camera phone and upload it to you. You ready?\n",
+    "output": "Yeah. [Cartman giggles and sticks the phone down his pants, in front of his genitals. He takes the picture and sends it to Kyle. Kyle receives it on his computer] What is that?\n"
+  },
+  {
+    "input": "Yeah. [Cartman giggles and sticks the phone down his pants, in front of his genitals. He takes the picture and sends it to Kyle. Kyle receives it on his computer] What is that?\n",
+    "output": "It's my balls! [laughs as Kyle just looks at the image]\n"
+  },
+  {
+    "input": "It's my balls! [laughs as Kyle just looks at the image]\n",
+    "output": "God damn it Cartman!\n"
+  },
+  {
+    "input": "God damn it Cartman!\n",
+    "output": "[his laugh dies down, then] Okay. Okay, Kyle, let's stay focused here.\n"
+  },
+  {
+    "input": "[his laugh dies down, then] Okay. Okay, Kyle, let's stay focused here.\n",
+    "output": "People of South Park, it is my honor to introduce a woman who deserves nothing but respect. Mrs. Hillary Rodham Clinton! [the crowd cheers and holds up pro-Hillary signs: \"Hildog\", \"In Hildog We Trust\", \"Hildog, we love you!\", \"Hildog #1 fan\", \"South Park Wants Hildog!!\", \"Hildog '08\", \"We Love You\"]\n"
+  },
+  {
+    "input": "People of South Park, it is my honor to introduce a woman who deserves nothing but respect. Mrs. Hillary Rodham Clinton! [the crowd cheers and holds up pro-Hillary signs: \"Hildog\", \"In Hildog We Trust\", \"Hildog, we love you!\", \"Hildog #1 fan\", \"South Park Wants Hildog!!\", \"Hildog '08\", \"We Love You\"]\n",
+    "output": "[affecting a Southern accent] It is so nice to be back in a small town like the one I came from. [more cheers for her]\n"
+  },
+  {
+    "input": "[affecting a Southern accent] It is so nice to be back in a small town like the one I came from. [more cheers for her]\n",
+    "output": "Here we go! [his friends don dog-headed helmets and start barking.]\n"
+  },
+  {
+    "input": "Here we go! [his friends don dog-headed helmets and start barking.]\n",
+    "output": "Otis Green, anything on that bomb threat? [\"You know, when I start my life in office, quite a few changes have to be made!\"]\n"
+  },
+  {
+    "input": "Otis Green, anything on that bomb threat? [\"You know, when I start my life in office, quite a few changes have to be made!\"]\n",
+    "output": "We have the bomb-sniffing pig going through the crowd. If there is a bomb, the pig will find it. [the third aide has the pig on a leash, letting it roam as it will]\n"
+  },
+  {
+    "input": "We have the bomb-sniffing pig going through the crowd. If there is a bomb, the pig will find it. [the third aide has the pig on a leash, letting it roam as it will]\n",
+    "output": "This is why I campaign in small towns like these! Because it is in towns like South Park that you find the true America! [more cheers go up as aide and pig move around]\n"
+  },
+  {
+    "input": "This is why I campaign in small towns like these! Because it is in towns like South Park that you find the true America! [more cheers go up as aide and pig move around]\n",
+    "output": "Oh my God, she got a scent! [the pig walks faster]\n"
+  },
+  {
+    "input": "Oh my God, she got a scent! [the pig walks faster]\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "The pig is picking up the smell of nuclear residue. Terrorists have hidden a bomb!\n"
+  },
+  {
+    "input": "The pig is picking up the smell of nuclear residue. Terrorists have hidden a bomb!\n",
+    "output": "[getting nervous] Oh my God! Where?! Where could they have stashed it?!\n"
+  },
+  {
+    "input": "[getting nervous] Oh my God! Where?! Where could they have stashed it?!\n",
+    "output": "Come on, find it. Find! [the pig leads him up the steps to the stage]\n"
+  },
+  {
+    "input": "Come on, find it. Find! [the pig leads him up the steps to the stage]\n",
+    "output": "My God, they hid it under the stage?!\n"
+  },
+  {
+    "input": "My God, they hid it under the stage?!\n",
+    "output": "No wait, look. [the pig approaches Hillary and really wants to get at that bomb]\n"
+  },
+  {
+    "input": "No wait, look. [the pig approaches Hillary and really wants to get at that bomb]\n",
+    "output": "How much money do we have to waste on needless spendin' when we should be focusing all our attention on... uh... [the pig buries its snout in Hillary's ass] on the education of all- Woo haha, whoa there, girl. Haha, [puts some distance between herself and the pig, but the pig won't back off] uh, uh, on the education of all children. [the pig tries the groin this time] Oh, I declare!\n"
+  },
+  {
+    "input": "How much money do we have to waste on needless spendin' when we should be focusing all our attention on... uh... [the pig buries its snout in Hillary's ass] on the education of all- Woo haha, whoa there, girl. Haha, [puts some distance between herself and the pig, but the pig won't back off] uh, uh, on the education of all children. [the pig tries the groin this time] Oh, I declare!\n",
+    "output": "Oh my God. Do you think they could have hidden a nuclear device up Mrs. Clinton's...\n[CIA Headquarters. An agent comes up to Mr. Thompson with a report.]\n"
+  },
+  {
+    "input": "Oh my God. Do you think they could have hidden a nuclear device up Mrs. Clinton's...\n[CIA Headquarters. An agent comes up to Mr. Thompson with a report.]\n",
+    "output": "Mr. Thompson, the kid who called in the warning was right! We uncovered intel that terrorists have obtained a nuclear device, and that they have most likely hidden it in Mrs. Clinton's... well, in her...\n"
+  },
+  {
+    "input": "Mr. Thompson, the kid who called in the warning was right! We uncovered intel that terrorists have obtained a nuclear device, and that they have most likely hidden it in Mrs. Clinton's... well, in her...\n",
+    "output": "In her what?\n"
+  },
+  {
+    "input": "In her what?\n",
+    "output": "In her snatch, sir.\n"
+  },
+  {
+    "input": "In her snatch, sir.\n",
+    "output": "What?!\n[Back at the rally, later. Brian observes as two paramedics seat Hillary down on a gurney.]\n"
+  },
+  {
+    "input": "What?!\n[Back at the rally, later. Brian observes as two paramedics seat Hillary down on a gurney.]\n",
+    "output": "What is goin' on? I wasn't finished.\n"
+  },
+  {
+    "input": "What is goin' on? I wasn't finished.\n",
+    "output": "Security measure, Mrs. Clinton. Probably nothing. [receives a call and answers it] Yes.\n[A CIA helicopter on its way to South Park, day.]\n"
+  },
+  {
+    "input": "Security measure, Mrs. Clinton. Probably nothing. [receives a call and answers it] Yes.\n[A CIA helicopter on its way to South Park, day.]\n",
+    "output": "Mr. Jeffries, this is Alan Thompson with the CIA. We have reason to believe that Mrs. Clinton may have a nuclear device up her snatch.\n"
+  },
+  {
+    "input": "Mr. Jeffries, this is Alan Thompson with the CIA. We have reason to believe that Mrs. Clinton may have a nuclear device up her snatch.\n",
+    "output": "A what?!\n"
+  },
+  {
+    "input": "A what?!\n",
+    "output": "A snatch. It's the technical term for vagina.\n"
+  },
+  {
+    "input": "A snatch. It's the technical term for vagina.\n",
+    "output": "No, I mean what kind of nuclear device?!\n[A diagram of a bomb inside a woman's uterus. Zoom out to reveal CIA headquarters]\n"
+  },
+  {
+    "input": "No, I mean what kind of nuclear device?!\n[A diagram of a bomb inside a woman's uterus. Zoom out to reveal CIA headquarters]\n",
+    "output": "Mr. Jeffries, this is Frank Waters. It's a suitcase nuke, designed to fit in a woman's snizz. It's called a snuke.\n[Back at the rally, later. Brian walks up to Hillary.]\n"
+  },
+  {
+    "input": "Mr. Jeffries, this is Frank Waters. It's a suitcase nuke, designed to fit in a woman's snizz. It's called a snuke.\n[Back at the rally, later. Brian walks up to Hillary.]\n",
+    "output": "What is goin' on, Brian?\n"
+  },
+  {
+    "input": "What is goin' on, Brian?\n",
+    "output": "Ms. Clinton, it appears that terrorists have snuck a snuke up your snizz.\n"
+  },
+  {
+    "input": "Ms. Clinton, it appears that terrorists have snuck a snuke up your snizz.\n",
+    "output": "[fans herself in a Southern fashion] Oh my.\n"
+  },
+  {
+    "input": "[fans herself in a Southern fashion] Oh my.\n",
+    "output": "What do we do? Can we disable the timer?\n"
+  },
+  {
+    "input": "What do we do? Can we disable the timer?\n",
+    "output": "It won't have a timer. Snukes are detonated remotely. Whoever our terrorist is has a detonator with him.\n"
+  },
+  {
+    "input": "It won't have a timer. Snukes are detonated remotely. Whoever our terrorist is has a detonator with him.\n",
+    "output": "But then that means...\n"
+  },
+  {
+    "input": "But then that means...\n",
+    "output": "Yes. If we don't find that detonator, everyone in the town of South Park is going to die. For-ever.\n[12:28:38 and counting. Four images come up: Hillary on the gurney, Kyle at his computer, Butters and Baahir playing checkers in Butters' living room, and the CIA landing in South Park]\n"
+  },
+  {
+    "input": "Yes. If we don't find that detonator, everyone in the town of South Park is going to die. For-ever.\n[12:28:38 and counting. Four images come up: Hillary on the gurney, Kyle at his computer, Butters and Baahir playing checkers in Butters' living room, and the CIA landing in South Park]\n",
+    "output": "Do we have that phone trace?\n"
+  },
+  {
+    "input": "Do we have that phone trace?\n",
+    "output": "[hands him the phone] The call is going through now, sir.\n"
+  },
+  {
+    "input": "[hands him the phone] The call is going through now, sir.\n",
+    "output": "[gets the call] Yeah? [walks through a parking lot]\n"
+  },
+  {
+    "input": "[gets the call] Yeah? [walks through a parking lot]\n",
+    "output": "This is CIA head Alan Thompson. We spoke before about the- [he and his agents walk down the street. Two angles are shown of that, and a third image of Cartman walking through the lot]\n"
+  },
+  {
+    "input": "This is CIA head Alan Thompson. We spoke before about the- [he and his agents walk down the street. Two angles are shown of that, and a third image of Cartman walking through the lot]\n",
+    "output": "Yes, Mr. Thompson?\n"
+  },
+  {
+    "input": "Yes, Mr. Thompson?\n",
+    "output": "Well, we've just arrived in your town.\n"
+  },
+  {
+    "input": "Well, we've just arrived in your town.\n",
+    "output": "Why? Did you find something?\n"
+  },
+  {
+    "input": "Why? Did you find something?\n",
+    "output": "Yes. There's a suitcase nuke in Ms. Clinton's snizz.\n"
+  },
+  {
+    "input": "Yes. There's a suitcase nuke in Ms. Clinton's snizz.\n",
+    "output": "[stops] A snuke?\n"
+  },
+  {
+    "input": "[stops] A snuke?\n",
+    "output": "That's right. It's controlled by a remote detonator. We have to locate the terrorist before he sets it off.\n"
+  },
+  {
+    "input": "That's right. It's controlled by a remote detonator. We have to locate the terrorist before he sets it off.\n",
+    "output": "[walks again] I have the address of the house the terrorist moved into. I'm almost there now; where are you?\n"
+  },
+  {
+    "input": "[walks again] I have the address of the house the terrorist moved into. I'm almost there now; where are you?\n",
+    "output": "We're on the town's main street, right by an ice cream shop.\n"
+  },
+  {
+    "input": "We're on the town's main street, right by an ice cream shop.\n",
+    "output": "Oh dude, I'm, I'm right next to you. [the framing for the two scenes is removed to reveal the one image of Cartman standing next to the CIA agents. They look at each other]\n"
+  },
+  {
+    "input": "Oh dude, I'm, I'm right next to you. [the framing for the two scenes is removed to reveal the one image of Cartman standing next to the CIA agents. They look at each other]\n",
+    "output": "Oh, hey.\n[Kyle's room, day. Kyle is still at his computer when Stan walks in.]\n"
+  },
+  {
+    "input": "Oh, hey.\n[Kyle's room, day. Kyle is still at his computer when Stan walks in.]\n",
+    "output": "Dude, we totally got let out of school.\n"
+  },
+  {
+    "input": "Dude, we totally got let out of school.\n",
+    "output": "I know. Something big is going on. Take a look at this. I did a Google search for \"Hillary Clinton Campaign Rally\" right? And one of the links was to YouTube, where this Russian guy had a bunch of videos.\n"
+  },
+  {
+    "input": "I know. Something big is going on. Take a look at this. I did a Google search for \"Hillary Clinton Campaign Rally\" right? And one of the links was to YouTube, where this Russian guy had a bunch of videos.\n",
+    "output": "Russian?\n"
+  },
+  {
+    "input": "Russian?\n",
+    "output": "Yeah, this guy. [a YouTube profile page is shown] Vladimir Stolfsky. He had videos on YouTube of every single rally.\n"
+  },
+  {
+    "input": "Yeah, this guy. [a YouTube profile page is shown] Vladimir Stolfsky. He had videos on YouTube of every single rally.\n",
+    "output": "So he's a Hillary Clinton fan.\n"
+  },
+  {
+    "input": "So he's a Hillary Clinton fan.\n",
+    "output": "No. I cross-referenced his YouTube profile with MySpace, and according to his blog, he's an old-school Communist. So what's he doing at every Clinton rally?\n"
+  },
+  {
+    "input": "No. I cross-referenced his YouTube profile with MySpace, and according to his blog, he's an old-school Communist. So what's he doing at every Clinton rally?\n",
+    "output": "Do a WebCrawler search: maybe he has podcasts up somewhere.\n"
+  },
+  {
+    "input": "Do a WebCrawler search: maybe he has podcasts up somewhere.\n",
+    "output": "Oh that's a good idea. [does the search]\n[The Hakeem house, later. Police, SWAT, and CIA move in on the house and arrest Baahir's parents.]\n"
+  },
+  {
+    "input": "Oh that's a good idea. [does the search]\n[The Hakeem house, later. Police, SWAT, and CIA move in on the house and arrest Baahir's parents.]\n",
+    "output": "What is going on? What have we done?\n"
+  },
+  {
+    "input": "What is going on? What have we done?\n",
+    "output": "They claim they don't know anything about an attack.\n"
+  },
+  {
+    "input": "They claim they don't know anything about an attack.\n",
+    "output": "Big surprise!\n"
+  },
+  {
+    "input": "Big surprise!\n",
+    "output": "Sir, first pass of the house, we didn't find a snuke detonator anywhere.\n"
+  },
+  {
+    "input": "Sir, first pass of the house, we didn't find a snuke detonator anywhere.\n",
+    "output": "Mr. Hakeem, where is your son?\n"
+  },
+  {
+    "input": "Mr. Hakeem, where is your son?\n",
+    "output": "We thought he was at school. He's not at school?\n[A clinic nearby. Hillary is up on stirrups while some police and agents look at an X-ray of her abdomen and groin.]\n"
+  },
+  {
+    "input": "We thought he was at school. He's not at school?\n[A clinic nearby. Hillary is up on stirrups while some police and agents look at an X-ray of her abdomen and groin.]\n",
+    "output": "You're doing great, Ms. Clinton.\n"
+  },
+  {
+    "input": "You're doing great, Ms. Clinton.\n",
+    "output": "Do they know how long, Brian? How long before the snuke in my snizz goes off?\n"
+  },
+  {
+    "input": "Do they know how long, Brian? How long before the snuke in my snizz goes off?\n",
+    "output": "They'll find the detonator, Hildog.\n"
+  },
+  {
+    "input": "They'll find the detonator, Hildog.\n",
+    "output": "We can't wait for them to find the detonator. If we can get to the bomb, me-maybe we can deactivate it. Can't somebody go and take a look inside Mrs. Clinton's snizz?\n"
+  },
+  {
+    "input": "We can't wait for them to find the detonator. If we can get to the bomb, me-maybe we can deactivate it. Can't somebody go and take a look inside Mrs. Clinton's snizz?\n",
+    "output": "[part of the bomb squad] I'm not sending any of my men in there.\n"
+  },
+  {
+    "input": "[part of the bomb squad] I'm not sending any of my men in there.\n",
+    "output": "Are you almost ready to set off the bomb?\n"
+  },
+  {
+    "input": "Are you almost ready to set off the bomb?\n",
+    "output": "Everything is set. We have the detonator up and running. [the detonator is shown with its LED readout: 12:34:10... 12:34:11... 12:34:12... 12:34:13... ]\n[An interrogation room. A CIA agent grills Mr. Hakeem, with a female agent as witness.]\n"
+  },
+  {
+    "input": "Everything is set. We have the detonator up and running. [the detonator is shown with its LED readout: 12:34:10... 12:34:11... 12:34:12... 12:34:13... ]\n[An interrogation room. A CIA agent grills Mr. Hakeem, with a female agent as witness.]\n",
+    "output": "Mr. Hakeem, we need to know where your son is!\n"
+  },
+  {
+    "input": "Mr. Hakeem, we need to know where your son is!\n",
+    "output": "I tell you, I do not know.\n"
+  },
+  {
+    "input": "I tell you, I do not know.\n",
+    "output": "[sighs, then leaves the room with the female agent and enters the adjoining control room, where Mr. Thompson is waiting] This is getting us nowhere. If he knows anything, he's not saying.\n"
+  },
+  {
+    "input": "[sighs, then leaves the room with the female agent and enters the adjoining control room, where Mr. Thompson is waiting] This is getting us nowhere. If he knows anything, he's not saying.\n",
+    "output": "Let me have time with him.\n"
+  },
+  {
+    "input": "Let me have time with him.\n",
+    "output": "What are you going to do?\n"
+  },
+  {
+    "input": "What are you going to do?\n",
+    "output": "We have to find that detonator! Let me have time with him! [removes his cap and goes in] You will tell me where your son is!\n"
+  },
+  {
+    "input": "We have to find that detonator! Let me have time with him! [removes his cap and goes in] You will tell me where your son is!\n",
+    "output": "He should be at school! [Cartman walks off and brings back a stool, setting it against Mr. Hakeem's chair. He climbs up and stands on the stool, drops his pants, and starts farting.] Hey!\n"
+  },
+  {
+    "input": "He should be at school! [Cartman walks off and brings back a stool, setting it against Mr. Hakeem's chair. He climbs up and stands on the stool, drops his pants, and starts farting.] Hey!\n",
+    "output": "[farts] Where is the detonator?!\n"
+  },
+  {
+    "input": "[farts] Where is the detonator?!\n",
+    "output": "Wuh-what detonator are you ta-\n"
+  },
+  {
+    "input": "Wuh-what detonator are you ta-\n",
+    "output": "[farts some more, and again, and again] I can do this aaall day.\n"
+  },
+  {
+    "input": "[farts some more, and again, and again] I can do this aaall day.\n",
+    "output": "[coughs] I don't know anything about a- [Cartman farts a short one, and then a long one that makes Mr. Hakeem turn away] Aawwwwgh [holds his breath, gasps for air and coughs] Stop it! Really!\n"
+  },
+  {
+    "input": "[coughs] I don't know anything about a- [Cartman farts a short one, and then a long one that makes Mr. Hakeem turn away] Aawwwwgh [holds his breath, gasps for air and coughs] Stop it! Really!\n",
+    "output": "You can make it stop!\n"
+  },
+  {
+    "input": "You can make it stop!\n",
+    "output": "[almost weeps] I don't have the- [Cartman farts for a long time, and the female agent turns away from the one-way window]\n"
+  },
+  {
+    "input": "[almost weeps] I don't have the- [Cartman farts for a long time, and the female agent turns away from the one-way window]\n",
+    "output": "Are we just gonna let this go on? [Cartman continues farting]\n[Kyle's room, later.]\n"
+  },
+  {
+    "input": "Are we just gonna let this go on? [Cartman continues farting]\n[Kyle's room, later.]\n",
+    "output": "Okay, I got a text of the Russian guy's podcast. It's all a bunch of links to eBay.\n"
+  },
+  {
+    "input": "Okay, I got a text of the Russian guy's podcast. It's all a bunch of links to eBay.\n",
+    "output": "You should be able to search his username on eBay and see what he's been buying and selling. [CIA agents enter the room quickly with their equipment]\n"
+  },
+  {
+    "input": "You should be able to search his username on eBay and see what he's been buying and selling. [CIA agents enter the room quickly with their equipment]\n",
+    "output": "Ferris, set up over there. Two of you can take that bed area. [Stan steps down for a better look at the activity]\n"
+  },
+  {
+    "input": "Ferris, set up over there. Two of you can take that bed area. [Stan steps down for a better look at the activity]\n",
+    "output": "Hey.\n"
+  },
+  {
+    "input": "Hey.\n",
+    "output": "Donner, take over that station. [points to Kyle. Donner walks over and shoves Kyle off his chair]\n"
+  },
+  {
+    "input": "Donner, take over that station. [points to Kyle. Donner walks over and shoves Kyle off his chair]\n",
+    "output": "[stands up] What's going on?\n"
+  },
+  {
+    "input": "[stands up] What's going on?\n",
+    "output": "This department is being absorbed by Homeland Security!\n"
+  },
+  {
+    "input": "This department is being absorbed by Homeland Security!\n",
+    "output": "...Homeland Security?\n"
+  },
+  {
+    "input": "...Homeland Security?\n",
+    "output": "Look, your little game of goin' over people's heads is over! You could still work, but from now on you answer to me, you got that?!\n"
+  },
+  {
+    "input": "Look, your little game of goin' over people's heads is over! You could still work, but from now on you answer to me, you got that?!\n",
+    "output": "'Scuse me, who's in charge here?!\n"
+  },
+  {
+    "input": "'Scuse me, who's in charge here?!\n",
+    "output": "I am!\n"
+  },
+  {
+    "input": "I am!\n",
+    "output": "[more people come in] Yeah well not anymore you're not. This department has just been assigned to the FBI.\n"
+  },
+  {
+    "input": "[more people come in] Yeah well not anymore you're not. This department has just been assigned to the FBI.\n",
+    "output": "That's outrageous! On whose orders?!\n"
+  },
+  {
+    "input": "That's outrageous! On whose orders?!\n",
+    "output": "On order of the Secretary of Defense! You had your shot, now I'm in charge!\n"
+  },
+  {
+    "input": "On order of the Secretary of Defense! You had your shot, now I'm in charge!\n",
+    "output": "[more people come in] Not anymore you're not! Orders just came down from Central! They want ATF handling this on all fronts! All right people, from now on you're answering to me!\n"
+  },
+  {
+    "input": "[more people come in] Not anymore you're not! Orders just came down from Central! They want ATF handling this on all fronts! All right people, from now on you're answering to me!\n",
+    "output": "[more people come in] Not anymore they're not! Orders from the President: he wants this handled by his staff personally! Now Nelson is in charge.\n"
+  },
+  {
+    "input": "[more people come in] Not anymore they're not! Orders from the President: he wants this handled by his staff personally! Now Nelson is in charge.\n",
+    "output": "[bursts into the scene] Not anymore I'm not! [everyone else falls silent]\n[The interrogation room, later. Cartman walks in with a metal suitcase containing syringes. He takes one out]\n"
+  },
+  {
+    "input": "[bursts into the scene] Not anymore I'm not! [everyone else falls silent]\n[The interrogation room, later. Cartman walks in with a metal suitcase containing syringes. He takes one out]\n",
+    "output": "What are you going to do to my wife?!\n"
+  },
+  {
+    "input": "What are you going to do to my wife?!\n",
+    "output": "Nothing... if you tell me where your son is!\n"
+  },
+  {
+    "input": "Nothing... if you tell me where your son is!\n",
+    "output": "We told you: we don't know.\n"
+  },
+  {
+    "input": "We told you: we don't know.\n",
+    "output": "[whips around and shows them the syringe] Do you know what this is?! [they look at each other, unsure] This... is apple juice. It gives super bad farts. [injects himself with the syringe into the right arm and hops up on the stool next to Mrs. Hakeem]\n"
+  },
+  {
+    "input": "[whips around and shows them the syringe] Do you know what this is?! [they look at each other, unsure] This... is apple juice. It gives super bad farts. [injects himself with the syringe into the right arm and hops up on the stool next to Mrs. Hakeem]\n",
+    "output": "Did he just inject himself with apple juice?\n"
+  },
+  {
+    "input": "Did he just inject himself with apple juice?\n",
+    "output": "Where is your son?!\n"
+  },
+  {
+    "input": "Where is your son?!\n",
+    "output": "She doesn't know either. [Cartman turns and drops his pants, and farts on Mrs. Hakeem's face]\n"
+  },
+  {
+    "input": "She doesn't know either. [Cartman turns and drops his pants, and farts on Mrs. Hakeem's face]\n",
+    "output": "Aaaaaaaah! Aaaaaaaah!\n"
+  },
+  {
+    "input": "Aaaaaaaah! Aaaaaaaah!\n",
+    "output": "I mean it! Stop! That is disgusting! Where is your mother?! [a phone rings and the camera zooms in on Mrs. Hakeem's shirt pocket. Cartman turns and reaches into the pocket, pulling out the cell phone]\n"
+  },
+  {
+    "input": "I mean it! Stop! That is disgusting! Where is your mother?! [a phone rings and the camera zooms in on Mrs. Hakeem's shirt pocket. Cartman turns and reaches into the pocket, pulling out the cell phone]\n",
+    "output": "Answer it! [holds the phone to Mrs. Hakeem's right ear]\n"
+  },
+  {
+    "input": "Answer it! [holds the phone to Mrs. Hakeem's right ear]\n",
+    "output": "Hallo? Hallo Baahir. Where are you? Who it But-ters?\n"
+  },
+  {
+    "input": "Hallo? Hallo Baahir. Where are you? Who it But-ters?\n",
+    "output": "Butters.\n"
+  },
+  {
+    "input": "Butters.\n",
+    "output": "Baahir, one of your classmates is keeping us hostage. [Cartman drops the phone and farts a good gust of flatulence against Mrs. Hakeem's face] Aaaaaaaah! Aaaaaaaah! [Cartman drops off the stool and enters the control room.]\n"
+  },
+  {
+    "input": "Baahir, one of your classmates is keeping us hostage. [Cartman drops the phone and farts a good gust of flatulence against Mrs. Hakeem's face] Aaaaaaaah! Aaaaaaaah! [Cartman drops off the stool and enters the control room.]\n",
+    "output": "Ogh! You filthy little rapscallion!\n"
+  },
+  {
+    "input": "Ogh! You filthy little rapscallion!\n",
+    "output": "We got him! I know where he is!\n"
+  },
+  {
+    "input": "We got him! I know where he is!\n",
+    "output": "All right, where? We'll send our people in.\n"
+  },
+  {
+    "input": "All right, where? We'll send our people in.\n",
+    "output": "No no, he's my lead. [opens the suitcase]\n"
+  },
+  {
+    "input": "No no, he's my lead. [opens the suitcase]\n",
+    "output": "You're not going alone.\n"
+  },
+  {
+    "input": "You're not going alone.\n",
+    "output": "You blow in there and you risk taking him down without finding the detonator! I'm going to find out where it is! [gives himself a double injection of apple juice]\n[Kyle's room, later. The Secret Service is running the show now.]\n"
+  },
+  {
+    "input": "You blow in there and you risk taking him down without finding the detonator! I'm going to find out where it is! [gives himself a double injection of apple juice]\n[Kyle's room, later. The Secret Service is running the show now.]\n",
+    "output": "[white hair] All right, people, I'm in charge now and we will find the terrorists. Jarvis, I want you to check for any terrorist chatter on AOL. Marley and Greggs, try searching for nuclear devices on askjeeves.com.\n"
+  },
+  {
+    "input": "[white hair] All right, people, I'm in charge now and we will find the terrorists. Jarvis, I want you to check for any terrorist chatter on AOL. Marley and Greggs, try searching for nuclear devices on askjeeves.com.\n",
+    "output": "Ask Jeeves? Nobody uses Ask Jeeves! Just Google-search it!\n"
+  },
+  {
+    "input": "Ask Jeeves? Nobody uses Ask Jeeves! Just Google-search it!\n",
+    "output": "Are you tellin' me how to do my job?\n"
+  },
+  {
+    "input": "Are you tellin' me how to do my job?\n",
+    "output": "Yes. There's a Russian guy named Vladimir Stolfsky who's got search engine hits all over this thing.\n"
+  },
+  {
+    "input": "Yes. There's a Russian guy named Vladimir Stolfsky who's got search engine hits all over this thing.\n",
+    "output": "Chase, search the name Stolfsky on YouTube and cross-reference it with JDate!\n"
+  },
+  {
+    "input": "Chase, search the name Stolfsky on YouTube and cross-reference it with JDate!\n",
+    "output": "Checking.\n"
+  },
+  {
+    "input": "Checking.\n",
+    "output": "Look, these Russian guys all have blogs talking about this like it's just some big diversion for something much bigger!\n"
+  },
+  {
+    "input": "Look, these Russian guys all have blogs talking about this like it's just some big diversion for something much bigger!\n",
+    "output": "[with a stack of papers] Sir, these kids are right. We've just received intel that Russian terrorists are believed to be responsible for the threat.\n"
+  },
+  {
+    "input": "[with a stack of papers] Sir, these kids are right. We've just received intel that Russian terrorists are believed to be responsible for the threat.\n",
+    "output": "Where's the intel from?\n"
+  },
+  {
+    "input": "Where's the intel from?\n",
+    "output": "We just read it on Drudge Report.\n"
+  },
+  {
+    "input": "We just read it on Drudge Report.\n",
+    "output": "Look, we already have the guy's blog. Maybe we can find an address and check it out on MapQuest.\n"
+  },
+  {
+    "input": "Look, we already have the guy's blog. Maybe we can find an address and check it out on MapQuest.\n",
+    "output": "We do this my way! I'm the one in charge!\n"
+  },
+  {
+    "input": "We do this my way! I'm the one in charge!\n",
+    "output": "[he and Stan look at each other] ...Not anymore you're not.\n"
+  },
+  {
+    "input": "[he and Stan look at each other] ...Not anymore you're not.\n",
+    "output": "Oh, snap. [walks off dejected]\n[Butters' living room, day. He and Baahir are playing Checkers, and Butters looks like he's winning.]\n"
+  },
+  {
+    "input": "Oh, snap. [walks off dejected]\n[Butters' living room, day. He and Baahir are playing Checkers, and Butters looks like he's winning.]\n",
+    "output": "[makes his move] Whoopee! I captured another one of your pieces, Baahir. [outside, Cartman runs up to the window and crashes through it.]\n"
+  },
+  {
+    "input": "[makes his move] Whoopee! I captured another one of your pieces, Baahir. [outside, Cartman runs up to the window and crashes through it.]\n",
+    "output": "Uuugh! [lies motionless for a few seconds, then gets up]\n"
+  },
+  {
+    "input": "Uuugh! [lies motionless for a few seconds, then gets up]\n",
+    "output": "Oh hey Eric.\n"
+  },
+  {
+    "input": "Oh hey Eric.\n",
+    "output": "[walks up to Baahir and grabs him by the collar] Where is the detonator!\n"
+  },
+  {
+    "input": "[walks up to Baahir and grabs him by the collar] Where is the detonator!\n",
+    "output": "The what?\n"
+  },
+  {
+    "input": "The what?\n",
+    "output": "You have exactly five seconds before I start dropping serious apple juice farts on your face! One!\n"
+  },
+  {
+    "input": "You have exactly five seconds before I start dropping serious apple juice farts on your face! One!\n",
+    "output": "Leave me alone! [heads for the front door and walks out. Cartman follows him] Upta!\n"
+  },
+  {
+    "input": "Leave me alone! [heads for the front door and walks out. Cartman follows him] Upta!\n",
+    "output": "[watches them leave] Hey, I was about to win!\n[The sidewalk. Cartman chases Baahir down the street.]\n"
+  },
+  {
+    "input": "[watches them leave] Hey, I was about to win!\n[The sidewalk. Cartman chases Baahir down the street.]\n",
+    "output": "Stop, terrorist, or I will shoot you! [A black van pulls up next to them and the side door slides open. Three real terrorists jump out and aim their semiautomatics at the two boys]\n"
+  },
+  {
+    "input": "Stop, terrorist, or I will shoot you! [A black van pulls up next to them and the side door slides open. Three real terrorists jump out and aim their semiautomatics at the two boys]\n",
+    "output": "[olive-colored] Get in the van! [Both boys are scared, but Cartman backs away]\n"
+  },
+  {
+    "input": "[olive-colored] Get in the van! [Both boys are scared, but Cartman backs away]\n",
+    "output": "Uh, that's cool. I'm actually not... playing anymore.\n"
+  },
+  {
+    "input": "Uh, that's cool. I'm actually not... playing anymore.\n",
+    "output": "[they aim their guns at Cartman] Get in the van!\n[The clinic.]\n"
+  },
+  {
+    "input": "[they aim their guns at Cartman] Get in the van!\n[The clinic.]\n",
+    "output": "That's it! We don't have a choice anymore! Somebody is going to have to go in, and try to disarm the snuke manually!\n"
+  },
+  {
+    "input": "That's it! We don't have a choice anymore! Somebody is going to have to go in, and try to disarm the snuke manually!\n",
+    "output": "No, it's too dangerous! That snatch has not seen action in over 30 years! It could be toxic!\n"
+  },
+  {
+    "input": "No, it's too dangerous! That snatch has not seen action in over 30 years! It could be toxic!\n",
+    "output": "[overhearing it] I'll do it! I'll check out Ms. Clinton's snizz.\n[The terrorists' hideout, 12:40:27 and counting. Vladimir has Cartman and Baahir tied up in chairs]\n"
+  },
+  {
+    "input": "[overhearing it] I'll do it! I'll check out Ms. Clinton's snizz.\n[The terrorists' hideout, 12:40:27 and counting. Vladimir has Cartman and Baahir tied up in chairs]\n",
+    "output": "Let me go! Please! I am just a little boy!\n"
+  },
+  {
+    "input": "Let me go! Please! I am just a little boy!\n",
+    "output": "You called and warned the government of our plans! What you don't know is that we are simply mercenaries! We were paid to set up the snuke so that the real enemy of America could attack!\n"
+  },
+  {
+    "input": "You called and warned the government of our plans! What you don't know is that we are simply mercenaries! We were paid to set up the snuke so that the real enemy of America could attack!\n",
+    "output": "That's cool. I'm fine with Muslims invading.\n"
+  },
+  {
+    "input": "That's cool. I'm fine with Muslims invading.\n",
+    "output": "[aims the semiautomatic at him] Do you really think Muslims are behind this terrorist threat?!\n"
+  },
+  {
+    "input": "[aims the semiautomatic at him] Do you really think Muslims are behind this terrorist threat?!\n",
+    "output": "Uhh yes, of course?\n"
+  },
+  {
+    "input": "Uhh yes, of course?\n",
+    "output": "America had other enemies before the Muslims, you know. Who is America's oldest enemy?\n"
+  },
+  {
+    "input": "America had other enemies before the Muslims, you know. Who is America's oldest enemy?\n",
+    "output": "The Russians?\n"
+  },
+  {
+    "input": "The Russians?\n",
+    "output": "Before that.\n"
+  },
+  {
+    "input": "Before that.\n",
+    "output": "The Germans?\n"
+  },
+  {
+    "input": "The Germans?\n",
+    "output": "Before that.\n"
+  },
+  {
+    "input": "Before that.\n",
+    "output": "The Germans again?\n"
+  },
+  {
+    "input": "The Germans again?\n",
+    "output": "Before that! I am talking about the oldest threat to America! The greatest enemy America has ever known!\n"
+  },
+  {
+    "input": "Before that! I am talking about the oldest threat to America! The greatest enemy America has ever known!\n",
+    "output": "You can't possible mean...?\n[The ocean blue. A fleet of British ships is sailing towards the United States, but these ships are from another era. The men are dressed in uniforms of the Revolutionary War era - as Red Coats]\n"
+  },
+  {
+    "input": "You can't possible mean...?\n[The ocean blue. A fleet of British ships is sailing towards the United States, but these ships are from another era. The men are dressed in uniforms of the Revolutionary War era - as Red Coats]\n",
+    "output": "Two hundred years we've waited. Finally. We will get those traitors to the Crown! [gets a call and answers it on his cell phone] Yes, Your Majesty?\n"
+  },
+  {
+    "input": "Two hundred years we've waited. Finally. We will get those traitors to the Crown! [gets a call and answers it on his cell phone] Yes, Your Majesty?\n",
+    "output": "The Russians are ready to set off the diversion. Full sail.\n"
+  },
+  {
+    "input": "The Russians are ready to set off the diversion. Full sail.\n",
+    "output": "Full sail, Your Majesty?\n[12:43:57 and counting.]\n[12:47:18 and Hillary is back on stirrups (upper left picture). 12:47:19 and Kyle is back at his computer (upper right picture). 12:47:20 and Cartman is shown struggling in his seat (lower right picture). 12:47:21 and the British fleet is shown (lower left picture).]\n[The clinic. The aide, doctor, and other officials are behind protective glass in a booth. Brian is dressed in a Hazmat suit and gas mask]\n"
+  },
+  {
+    "input": "Full sail, Your Majesty?\n[12:43:57 and counting.]\n[12:47:18 and Hillary is back on stirrups (upper left picture). 12:47:19 and Kyle is back at his computer (upper right picture). 12:47:20 and Cartman is shown struggling in his seat (lower right picture). 12:47:21 and the British fleet is shown (lower left picture).]\n[The clinic. The aide, doctor, and other officials are behind protective glass in a booth. Brian is dressed in a Hazmat suit and gas mask]\n",
+    "output": "All right, Brian, this is it. Get in there and see if you can disarm the snuke in Ms. Clinton's snatch.\n"
+  },
+  {
+    "input": "All right, Brian, this is it. Get in there and see if you can disarm the snuke in Ms. Clinton's snatch.\n",
+    "output": "[diving in slowly, has radio communication with the booth] All right. I'm nearing her snizz now.\n"
+  },
+  {
+    "input": "[diving in slowly, has radio communication with the booth] All right. I'm nearing her snizz now.\n",
+    "output": "God help him.\n"
+  },
+  {
+    "input": "God help him.\n",
+    "output": "What do you see, Brian?\n"
+  },
+  {
+    "input": "What do you see, Brian?\n",
+    "output": "It's dark... cold...\n"
+  },
+  {
+    "input": "It's dark... cold...\n",
+    "output": "You're doing fine, Brian. Get as close as you can... Y-you have to look inside the snizz.\n"
+  },
+  {
+    "input": "You're doing fine, Brian. Get as close as you can... Y-you have to look inside the snizz.\n",
+    "output": "Uh, uh, all right, I'm looking. Yes, I see... I see the device! [begins to cough]\n"
+  },
+  {
+    "input": "Uh, uh, all right, I'm looking. Yes, I see... I see the device! [begins to cough]\n",
+    "output": "You're doin' great, Brian. Hang in there.\n"
+  },
+  {
+    "input": "You're doin' great, Brian. Hang in there.\n",
+    "output": "There's um, metal housing... some kind of three-pronged triggering mechanism that... Wait there's... there's something else here! There's something... [static fills the transmission and the aide tries to restore communication]\n"
+  },
+  {
+    "input": "There's um, metal housing... some kind of three-pronged triggering mechanism that... Wait there's... there's something else here! There's something... [static fills the transmission and the aide tries to restore communication]\n",
+    "output": "Say again, Brian.\n"
+  },
+  {
+    "input": "Say again, Brian.\n",
+    "output": "[amid heavy static] There's something perched on the snuke's coil... Oh God, it's looking at me!\n"
+  },
+  {
+    "input": "[amid heavy static] There's something perched on the snuke's coil... Oh God, it's looking at me!\n",
+    "output": "[takes control] Brian, get out of there!\n"
+  },
+  {
+    "input": "[takes control] Brian, get out of there!\n",
+    "output": "Wha... what are you?! I have no qualm with you! Stay back! Stay back I- agh! Aaagh!\n"
+  },
+  {
+    "input": "Wha... what are you?! I have no qualm with you! Stay back! Stay back I- agh! Aaagh!\n",
+    "output": "Brian? Brian, what's happening?\n"
+  },
+  {
+    "input": "Brian? Brian, what's happening?\n",
+    "output": "It's... eating my head! It's eating my head! [the camera zooms back to show his body gyrating helplessly, then being spit out by Mrs. Clinton's snizz]\n"
+  },
+  {
+    "input": "It's... eating my head! It's eating my head! [the camera zooms back to show his body gyrating helplessly, then being spit out by Mrs. Clinton's snizz]\n",
+    "output": "Hoh my!\n[Kyle's bedroom. He's at his computer as agents discuss things behind him.]\n"
+  },
+  {
+    "input": "Hoh my!\n[Kyle's bedroom. He's at his computer as agents discuss things behind him.]\n",
+    "output": "I got it! I got it! According to PayPal, the Russian guys are just hired mercenaries who had ads up on Craig's List and got paid through eBay so that Boston could be attacked by... the British.\n"
+  },
+  {
+    "input": "I got it! I got it! According to PayPal, the Russian guys are just hired mercenaries who had ads up on Craig's List and got paid through eBay so that Boston could be attacked by... the British.\n",
+    "output": "The British?\n"
+  },
+  {
+    "input": "The British?\n",
+    "output": "Loyalist Red Coats!\n"
+  },
+  {
+    "input": "Loyalist Red Coats!\n",
+    "output": "Sir, I found the Russian's eHarmony account! It does list an address in South Park!\n"
+  },
+  {
+    "input": "Sir, I found the Russian's eHarmony account! It does list an address in South Park!\n",
+    "output": "All right! MapQuest the address!\n"
+  },
+  {
+    "input": "All right! MapQuest the address!\n",
+    "output": "I'll use Google Maps. It has live traffic.\n"
+  },
+  {
+    "input": "I'll use Google Maps. It has live traffic.\n",
+    "output": "Good thinking\n"
+  },
+  {
+    "input": "Good thinking\n",
+    "output": "Sir, we have the terrorists' location. IM'ing you now.\n[The terrorists' hideout.]\n"
+  },
+  {
+    "input": "Sir, we have the terrorists' location. IM'ing you now.\n[The terrorists' hideout.]\n",
+    "output": "[warmly shakes a terrorist's hand] It was good knowing you, comrade.\n"
+  },
+  {
+    "input": "[warmly shakes a terrorist's hand] It was good knowing you, comrade.\n",
+    "output": "Please. Think about what you are doing. The British are just using you; you're going to die.\n"
+  },
+  {
+    "input": "Please. Think about what you are doing. The British are just using you; you're going to die.\n",
+    "output": "Yes, but we will be rich.\n"
+  },
+  {
+    "input": "Yes, but we will be rich.\n",
+    "output": "[outside] Left flank, prig prang and clear! Go go go! [the doors to the hideout fly open and CIA agents pour in, with the CIA Vice Head supervising the riad]\n"
+  },
+  {
+    "input": "[outside] Left flank, prig prang and clear! Go go go! [the doors to the hideout fly open and CIA agents pour in, with the CIA Vice Head supervising the riad]\n",
+    "output": "[last to enter, gun drawn] The game is over! Get down on the ground!\n"
+  },
+  {
+    "input": "[last to enter, gun drawn] The game is over! Get down on the ground!\n",
+    "output": "How did they find us?\n"
+  },
+  {
+    "input": "How did they find us?\n",
+    "output": "We know about everything! Your diversion to help the Red Coats is over!\n"
+  },
+  {
+    "input": "We know about everything! Your diversion to help the Red Coats is over!\n",
+    "output": "It doesn't matter. The detonator is on a timer. You are too late! In three minutes! [the camera quickly moves to the detonator: 12:56:57 and counting. Four seconds later the power is shut off] What the hell?!\n"
+  },
+  {
+    "input": "It doesn't matter. The detonator is on a timer. You are too late! In three minutes! [the camera quickly moves to the detonator: 12:56:57 and counting. Four seconds later the power is shut off] What the hell?!\n",
+    "output": "The power went out!\n"
+  },
+  {
+    "input": "The power went out!\n",
+    "output": "Well so then what time is it? [the power returns and the detonator's timer is reset to a blinking 12:00:00]\n"
+  },
+  {
+    "input": "Well so then what time is it? [the power returns and the detonator's timer is reset to a blinking 12:00:00]\n",
+    "output": "Oh crap.\n"
+  },
+  {
+    "input": "Oh crap.\n",
+    "output": "Take 'em down! [the agents fire away. One after one, terrorists go down, dead. Vladimir climbs a wooden ladder to the hideout's roof]\n"
+  },
+  {
+    "input": "Take 'em down! [the agents fire away. One after one, terrorists go down, dead. Vladimir climbs a wooden ladder to the hideout's roof]\n",
+    "output": "No! I don't want to die without being paid! [an agent shoots him down, he hits the floor and blows up. CIA agents remove the ropes from Cartman and Baahir]\n"
+  },
+  {
+    "input": "No! I don't want to die without being paid! [an agent shoots him down, he hits the floor and blows up. CIA agents remove the ropes from Cartman and Baahir]\n",
+    "output": "[places a call] The detonator is secured, general. You are cleared to proceed.\n[The ocean blue. The British fleet continues towards the United State. American jets fly over them and prepare to fire]\n"
+  },
+  {
+    "input": "[places a call] The detonator is secured, general. You are cleared to proceed.\n[The ocean blue. The British fleet continues towards the United State. American jets fly over them and prepare to fire]\n",
+    "output": "The Rebel Americans know of our attack?!\n"
+  },
+  {
+    "input": "The Rebel Americans know of our attack?!\n",
+    "output": "How?\n"
+  },
+  {
+    "input": "How?\n",
+    "output": "Fire at will! [the soldiers quickly aim and fire. The bullets have no effect, as the jets simply unload their bombs on the ships and sink them.]\n[The Royal Palace, the Queen's throne room. She's seated at her throne and gets a call. She gets the phone from one of her servants]\n"
+  },
+  {
+    "input": "Fire at will! [the soldiers quickly aim and fire. The bullets have no effect, as the jets simply unload their bombs on the ships and sink them.]\n[The Royal Palace, the Queen's throne room. She's seated at her throne and gets a call. She gets the phone from one of her servants]\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "Your Majesty, the attack has failed. We were... unable to end the American Revolution.\n"
+  },
+  {
+    "input": "Your Majesty, the attack has failed. We were... unable to end the American Revolution.\n",
+    "output": "I see. [sets the phone down, takes a loaded gun to her mouth, and shoots her brains out. She falls forward and hits the ground, dead.]\n[South Park, at Long Road Shipping, the apparent hideout. Everyone stands in the street.]\n"
+  },
+  {
+    "input": "I see. [sets the phone down, takes a loaded gun to her mouth, and shoots her brains out. She falls forward and hits the ground, dead.]\n[South Park, at Long Road Shipping, the apparent hideout. Everyone stands in the street.]\n",
+    "output": "[walking into view] Well, looks like we saved our country from British rule once again.\n"
+  },
+  {
+    "input": "[walking into view] Well, looks like we saved our country from British rule once again.\n",
+    "output": "Yeah. It just proves we need to learn not to profile one race of people. Because, actually, most of the world hates us.\n"
+  },
+  {
+    "input": "Yeah. It just proves we need to learn not to profile one race of people. Because, actually, most of the world hates us.\n",
+    "output": "Well Baahir, I was thinking that maybe I owe you an apology.\n"
+  },
+  {
+    "input": "Well Baahir, I was thinking that maybe I owe you an apology.\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yes, but then I realized that, technically, I don't. Because by being suspicious of you I saved your life and everyone else's. So really, you owe me an apology. But that's cool.\n"
+  },
+  {
+    "input": "Yes, but then I realized that, technically, I don't. Because by being suspicious of you I saved your life and everyone else's. So really, you owe me an apology. But that's cool.\n",
+    "output": "...You didn't save everyone, I did! You were just out harassing Muslims!\n"
+  },
+  {
+    "input": "...You didn't save everyone, I did! You were just out harassing Muslims!\n",
+    "output": "But if I hadn't called you in the first place to check out the Muslim, you would have just stayed in bed sick all day, right?\n"
+  },
+  {
+    "input": "But if I hadn't called you in the first place to check out the Muslim, you would have just stayed in bed sick all day, right?\n",
+    "output": "...Maybe. [looks away]\n"
+  },
+  {
+    "input": "...Maybe. [looks away]\n",
+    "output": "Maybe? If I hadn't called you, you wouldn't have been on your computer checking out the Clinton rally. That means my intolerance of Muslims saved America.\n"
+  },
+  {
+    "input": "Maybe? If I hadn't called you, you wouldn't have been on your computer checking out the Clinton rally. That means my intolerance of Muslims saved America.\n",
+    "output": "...That is so missing the point.\n"
+  },
+  {
+    "input": "...That is so missing the point.\n",
+    "output": "Me being a bigot stopped a nuclear bomb from going off, yes or no?!\n"
+  },
+  {
+    "input": "Me being a bigot stopped a nuclear bomb from going off, yes or no?!\n",
+    "output": "The-that's not the right way to look at it, I-\n"
+  },
+  {
+    "input": "The-that's not the right way to look at it, I-\n",
+    "output": "Yes or no, Kyle?!\n"
+  },
+  {
+    "input": "Yes or no, Kyle?!\n",
+    "output": "No! ...Not... not like you're saying.\n"
+  },
+  {
+    "input": "No! ...Not... not like you're saying.\n",
+    "output": "But that's all I'm saying: today, bigotry and racism saved the day. Baahir, you get this, right? [Baahir's parents approach, looking around at all the activity in front of their house]\n"
+  },
+  {
+    "input": "But that's all I'm saying: today, bigotry and racism saved the day. Baahir, you get this, right? [Baahir's parents approach, looking around at all the activity in front of their house]\n",
+    "output": "Baahir! Get away from that disgusting child! Get back home and start packing your things! We are leaving this whole intolerant country! [Mr. Hakeem nudges Baahir forward, and the family leaves]\n"
+  },
+  {
+    "input": "Baahir! Get away from that disgusting child! Get back home and start packing your things! We are leaving this whole intolerant country! [Mr. Hakeem nudges Baahir forward, and the family leaves]\n",
+    "output": "Awwwww.\n"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "input": "",
+    "output": "The Big Fix\n\n[Colorado Convention Center, exterior, daytime. A banner that reads \"Welcome Cannabis Growers! - Cannabis Cultivators Expo\" is prominently shown as people enter the convention center. Inside, an exhibit hall featuring cannabis related items on display is shown. Then, Room B is shown, with a sign at the entrance that reads \"THE CHANGING FACE OF HEMP FARMING\". In the room, a spokesperson is giving a speech about marijuana.]\n"
+  },
+  {
+    "input": "The Big Fix\n\n[Colorado Convention Center, exterior, daytime. A banner that reads \"Welcome Cannabis Growers! - Cannabis Cultivators Expo\" is prominently shown as people enter the convention center. Inside, an exhibit hall featuring cannabis related items on display is shown. Then, Room B is shown, with a sign at the entrance that reads \"THE CHANGING FACE OF HEMP FARMING\". In the room, a spokesperson is giving a speech about marijuana.]\n",
+    "output": "As farmers and cultivators of marijuana, we have a responsibility to society... [Randy is seen, high] I know we all respect the crop here, and we seek each day to better understand the nuances and legitimacy of its uses.\n"
+  },
+  {
+    "input": "As farmers and cultivators of marijuana, we have a responsibility to society... [Randy is seen, high] I know we all respect the crop here, and we seek each day to better understand the nuances and legitimacy of its uses.\n",
+    "output": "Let's go weed! Wew!\n"
+  },
+  {
+    "input": "Let's go weed! Wew!\n",
+    "output": "But we growers must face a harsh reality\u2013 Since the legalization of marijuana, communities of color, black and brown Coloradans, those most affected by the racist war on drugs, have now been locked out of the wealth creation of the industry. [Randy yawns loudly and stretches] Luckily, the public is starting to understand this unfairness\u2013 and many people are now talking of boycotting cannabis growers who are only white owned.\n"
+  },
+  {
+    "input": "But we growers must face a harsh reality\u2013 Since the legalization of marijuana, communities of color, black and brown Coloradans, those most affected by the racist war on drugs, have now been locked out of the wealth creation of the industry. [Randy yawns loudly and stretches] Luckily, the public is starting to understand this unfairness\u2013 and many people are now talking of boycotting cannabis growers who are only white owned.\n",
+    "output": "Boycotting what? Wait... what?\n"
+  },
+  {
+    "input": "Boycotting what? Wait... what?\n",
+    "output": "We are seeing a healthy and dramatic spike in consumers who demand that their marijuana be grown by those who understand the fight for social equity.\n"
+  },
+  {
+    "input": "We are seeing a healthy and dramatic spike in consumers who demand that their marijuana be grown by those who understand the fight for social equity.\n",
+    "output": "Ugh ahhug\u2013\n"
+  },
+  {
+    "input": "Ugh ahhug\u2013\n",
+    "output": "The bottom line is this\u2013 a completely white owned weed business these days... just isn't going to survive. [dramatic music plays as the scene cuts away]\n[Tegridy Farms, night time. Randy is sitting at the kitchen table with his family.]\n"
+  },
+  {
+    "input": "The bottom line is this\u2013 a completely white owned weed business these days... just isn't going to survive. [dramatic music plays as the scene cuts away]\n[Tegridy Farms, night time. Randy is sitting at the kitchen table with his family.]\n",
+    "output": "Guys... I wanna have kind of a tough talk with you. We don't really have any black friends, we don't reach out to the black community. Shelley, you never bring any black dudes over. I mean, Stan, your three best friends are all white.\n"
+  },
+  {
+    "input": "Guys... I wanna have kind of a tough talk with you. We don't really have any black friends, we don't reach out to the black community. Shelley, you never bring any black dudes over. I mean, Stan, your three best friends are all white.\n",
+    "output": "There's only one black kid in my whole class.\n"
+  },
+  {
+    "input": "There's only one black kid in my whole class.\n",
+    "output": "Yes, that kid Token. How come you never hang out with him?\n"
+  },
+  {
+    "input": "Yes, that kid Token. How come you never hang out with him?\n",
+    "output": "I do hang out with him!\n"
+  },
+  {
+    "input": "I do hang out with him!\n",
+    "output": "In a group maybe, but I don't recall just you and Token ever doing anything. I've never seen Token here at the farm, just like the two of you guys. Why not?\n"
+  },
+  {
+    "input": "In a group maybe, but I don't recall just you and Token ever doing anything. I've never seen Token here at the farm, just like the two of you guys. Why not?\n",
+    "output": "I... I don't know.\n"
+  },
+  {
+    "input": "I... I don't know.\n",
+    "output": "Randy, stop. We're not racists.\n"
+  },
+  {
+    "input": "Randy, stop. We're not racists.\n",
+    "output": "We'd like to think that, wouldn't we? But... actions speak louder than words, gang. I guess... I guess I just want you to think about it. [he gets up and leaves, leaving the rest of the Marsh family looking confused]\n[South Park Elementary, recess. Tolkien is throwing a football with Butters when Stan approaches him.]\n"
+  },
+  {
+    "input": "We'd like to think that, wouldn't we? But... actions speak louder than words, gang. I guess... I guess I just want you to think about it. [he gets up and leaves, leaving the rest of the Marsh family looking confused]\n[South Park Elementary, recess. Tolkien is throwing a football with Butters when Stan approaches him.]\n",
+    "output": "Uh, hey, Token.\n"
+  },
+  {
+    "input": "Uh, hey, Token.\n",
+    "output": "Oh, hey Stan.\n"
+  },
+  {
+    "input": "Oh, hey Stan.\n",
+    "output": "Uh, listen, I uh... How you doin'?\n"
+  },
+  {
+    "input": "Uh, listen, I uh... How you doin'?\n",
+    "output": "[he looks at Stan] Fine.\n"
+  },
+  {
+    "input": "[he looks at Stan] Fine.\n",
+    "output": "Um... You think your family would wanna come over for dinner? Out at our farm?\n"
+  },
+  {
+    "input": "Um... You think your family would wanna come over for dinner? Out at our farm?\n",
+    "output": "It's kinda far, isn't it?\n"
+  },
+  {
+    "input": "It's kinda far, isn't it?\n",
+    "output": "Yeah but... Look, Token, I think maybe you and I should hang out more.\n"
+  },
+  {
+    "input": "Yeah but... Look, Token, I think maybe you and I should hang out more.\n",
+    "output": "What are you talking about?\n"
+  },
+  {
+    "input": "What are you talking about?\n",
+    "output": "I mean, we never just hang out, you and me.\n"
+  },
+  {
+    "input": "I mean, we never just hang out, you and me.\n",
+    "output": "Hey, we never hang out just you and me either, Stan!\n"
+  },
+  {
+    "input": "Hey, we never hang out just you and me either, Stan!\n",
+    "output": "Shut up, Butters. Look, just will you please just see if your family will come over for dinner? It would mean a lot.\n[Tegridy Farms, night time. Randy is setting the table for dinner. The Blacks are sitting with them.]\n"
+  },
+  {
+    "input": "Shut up, Butters. Look, just will you please just see if your family will come over for dinner? It would mean a lot.\n[Tegridy Farms, night time. Randy is setting the table for dinner. The Blacks are sitting with them.]\n",
+    "output": "Ok, there we go. This is a farm fresh hemp salad sourced locally here at Tegridy! Alright, come on everybody, dig in.\n"
+  },
+  {
+    "input": "Ok, there we go. This is a farm fresh hemp salad sourced locally here at Tegridy! Alright, come on everybody, dig in.\n",
+    "output": "Thank you so much for having us over. This is really nice.\n"
+  },
+  {
+    "input": "Thank you so much for having us over. This is really nice.\n",
+    "output": "We've never been to a marijuana farm before.\n"
+  },
+  {
+    "input": "We've never been to a marijuana farm before.\n",
+    "output": "Well, you know, with our boys starting to become so close\u2013 we thought we better get the families together! If they're friends, then we need to be friends! Huh? [he pulls out his phone and starts recording] Do you mind if I post this? [to the camera] Check out our friends! [he snaps the photo]\n"
+  },
+  {
+    "input": "Well, you know, with our boys starting to become so close\u2013 we thought we better get the families together! If they're friends, then we need to be friends! Huh? [he pulls out his phone and starts recording] Do you mind if I post this? [to the camera] Check out our friends! [he snaps the photo]\n",
+    "output": "Randy... I hope you didn't invite us here because we're black.\n"
+  },
+  {
+    "input": "Randy... I hope you didn't invite us here because we're black.\n",
+    "output": "W-what are you talking about?\n"
+  },
+  {
+    "input": "W-what are you talking about?\n",
+    "output": "It's just that the past year or so a lot of people have been inviting us over to dinner and then taking pictures of us to show everyone on Instagram.\n"
+  },
+  {
+    "input": "It's just that the past year or so a lot of people have been inviting us over to dinner and then taking pictures of us to show everyone on Instagram.\n",
+    "output": "Oh, that's so lame. No, we really just wanted to get to know you guys better since Stan is friends with Token. You know... just out of curiosity\u2013 why did you guys name him that?\n"
+  },
+  {
+    "input": "Oh, that's so lame. No, we really just wanted to get to know you guys better since Stan is friends with Token. You know... just out of curiosity\u2013 why did you guys name him that?\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "Well\u2013 I mean, it's just kind of an odd name, isn't it? Like, some people might think you guys naming your son that isn't very cool.\n"
+  },
+  {
+    "input": "Well\u2013 I mean, it's just kind of an odd name, isn't it? Like, some people might think you guys naming your son that isn't very cool.\n",
+    "output": "People have a problem with Tolkien's name?\n"
+  },
+  {
+    "input": "People have a problem with Tolkien's name?\n",
+    "output": "Well I mean other people just think it's a little... I mean, come on, I mean, I'm\u2013 I'm not calling you guys racist, but\u2013 why did you name your son that?\n"
+  },
+  {
+    "input": "Well I mean other people just think it's a little... I mean, come on, I mean, I'm\u2013 I'm not calling you guys racist, but\u2013 why did you name your son that?\n",
+    "output": "My husband has always been a huge fan of Lord of the Rings and The Hobbit.\n"
+  },
+  {
+    "input": "My husband has always been a huge fan of Lord of the Rings and The Hobbit.\n",
+    "output": "I wanted to name my son after my favorite author. But she didn't want to name our son J.R.R., so we just named him Tolkien.\n"
+  },
+  {
+    "input": "I wanted to name my son after my favorite author. But she didn't want to name our son J.R.R., so we just named him Tolkien.\n",
+    "output": "[shocked] His name is Tolkien?\n"
+  },
+  {
+    "input": "[shocked] His name is Tolkien?\n",
+    "output": "Yes, you know his name is Tolkien!\n"
+  },
+  {
+    "input": "Yes, you know his name is Tolkien!\n",
+    "output": "[to Tolkien] I thought your name was \"Token\".\n"
+  },
+  {
+    "input": "[to Tolkien] I thought your name was \"Token\".\n",
+    "output": "My name is \"Tolkien\".\n"
+  },
+  {
+    "input": "My name is \"Tolkien\".\n",
+    "output": "Sorry, I don't think it's that weird. J.R.R. Tolkien is one of the most prolific, influential writers of our time.\n"
+  },
+  {
+    "input": "Sorry, I don't think it's that weird. J.R.R. Tolkien is one of the most prolific, influential writers of our time.\n",
+    "output": "[to himself] Holy shit, that's what his name means?\n"
+  },
+  {
+    "input": "[to himself] Holy shit, that's what his name means?\n",
+    "output": "What did you think his name meant?\n"
+  },
+  {
+    "input": "What did you think his name meant?\n",
+    "output": "[pause] Would you like to see how we grow and process our weed?\n[Randy is giving Steve Black a tour through the refinery.]\n"
+  },
+  {
+    "input": "[pause] Would you like to see how we grow and process our weed?\n[Randy is giving Steve Black a tour through the refinery.]\n",
+    "output": "You see, it's all about refinement. Here at Tegridy, we believe the best weed is untouched from the earth\u2013 so we distill it down to its basic essence. Over there are our clean out vats and up here we have our first stage drying racks. Oh, real quick! [he poses with Steve for a picture] It all takes about six days from the field to a jar that we can sell. So... what do you think?\n"
+  },
+  {
+    "input": "You see, it's all about refinement. Here at Tegridy, we believe the best weed is untouched from the earth\u2013 so we distill it down to its basic essence. Over there are our clean out vats and up here we have our first stage drying racks. Oh, real quick! [he poses with Steve for a picture] It all takes about six days from the field to a jar that we can sell. So... what do you think?\n",
+    "output": "It's... uh, very involved.\n"
+  },
+  {
+    "input": "It's... uh, very involved.\n",
+    "output": "Yeah, it takes a lot. You know\u2013 I just had a crazy idea... Our boys are best friends now... Why don't you come work for Tegridy?\n"
+  },
+  {
+    "input": "Yeah, it takes a lot. You know\u2013 I just had a crazy idea... Our boys are best friends now... Why don't you come work for Tegridy?\n",
+    "output": "Randy, I have a job. I'm a very successful co-executive of a financial consulting firm.\n"
+  },
+  {
+    "input": "Randy, I have a job. I'm a very successful co-executive of a financial consulting firm.\n",
+    "output": "Oh my gosh\u2013 I was just saying we could really use a co-executive of financial consulting! Look, I... Would it be okay if... If I sent you some of our receipts and you could help us\u2013 financial consult?\n"
+  },
+  {
+    "input": "Oh my gosh\u2013 I was just saying we could really use a co-executive of financial consulting! Look, I... Would it be okay if... If I sent you some of our receipts and you could help us\u2013 financial consult?\n",
+    "output": "Well that's what we do... Sure.\n"
+  },
+  {
+    "input": "Well that's what we do... Sure.\n",
+    "output": "Oh my God, this is amazing. Here's to the start of something wonderful. Would you like some free weed?\n"
+  },
+  {
+    "input": "Oh my God, this is amazing. Here's to the start of something wonderful. Would you like some free weed?\n",
+    "output": "No.\n[Kyle's house, night time. He's at his computer playing video games when his cellphone rings.]\n"
+  },
+  {
+    "input": "No.\n[Kyle's house, night time. He's at his computer playing video games when his cellphone rings.]\n",
+    "output": "[he answers] Hey Stan.\n"
+  },
+  {
+    "input": "[he answers] Hey Stan.\n",
+    "output": "Dude... my head is reeling, you're not gonna believe this.\n"
+  },
+  {
+    "input": "Dude... my head is reeling, you're not gonna believe this.\n",
+    "output": "Not gonna believe what?\n"
+  },
+  {
+    "input": "Not gonna believe what?\n",
+    "output": "Token's name isn't Token. It's Tolkien.\n"
+  },
+  {
+    "input": "Token's name isn't Token. It's Tolkien.\n",
+    "output": "Yeah, I know it's Tolkien.\n"
+  },
+  {
+    "input": "Yeah, I know it's Tolkien.\n",
+    "output": "No, no, no, no. He's named after the guy who wrote The Hobbit and stuff!\n"
+  },
+  {
+    "input": "No, no, no, no. He's named after the guy who wrote The Hobbit and stuff!\n",
+    "output": "Yeah, I know. J.R.R. Tolkien. What did you think it was?\n"
+  },
+  {
+    "input": "Yeah, I know. J.R.R. Tolkien. What did you think it was?\n",
+    "output": "[horrified] You knew it was Tolkien like the writer.\n"
+  },
+  {
+    "input": "[horrified] You knew it was Tolkien like the writer.\n",
+    "output": "Everyone knew it was Tolkien.\n"
+  },
+  {
+    "input": "Everyone knew it was Tolkien.\n",
+    "output": "No, no, no! No, no, no, no! I distinctly remember Cartman wearing a shirt where he spelled it T-O-K-E-N.\n"
+  },
+  {
+    "input": "No, no, no! No, no, no, no! I distinctly remember Cartman wearing a shirt where he spelled it T-O-K-E-N.\n",
+    "output": "Yeah, dude, \u2018cuz Cartman's a fuckin' moron.\n"
+  },
+  {
+    "input": "Yeah, dude, \u2018cuz Cartman's a fuckin' moron.\n",
+    "output": "Wha\u2013 hold on a second! [he calls Cartman]\n[Cartman residence, night time. Eric is lying on the living room couch, eating a bag of chips.]\n"
+  },
+  {
+    "input": "Wha\u2013 hold on a second! [he calls Cartman]\n[Cartman residence, night time. Eric is lying on the living room couch, eating a bag of chips.]\n",
+    "output": "[watching TV while he answers] Whatsup, dog.\n"
+  },
+  {
+    "input": "[watching TV while he answers] Whatsup, dog.\n",
+    "output": "Dude, Cartman, did you know that Tolkien is named after J.R.R. Tolkien?\n"
+  },
+  {
+    "input": "Dude, Cartman, did you know that Tolkien is named after J.R.R. Tolkien?\n",
+    "output": "Well yeah, I just figured.\n"
+  },
+  {
+    "input": "Well yeah, I just figured.\n",
+    "output": "Then why did you spell it \"Token\" without the \"L\" or the \"I\"?!\n"
+  },
+  {
+    "input": "Then why did you spell it \"Token\" without the \"L\" or the \"I\"?!\n",
+    "output": "J.R.R. Tolkien has an \"L\" in it? That's gay. Who did you think Tolkien was named after?\n"
+  },
+  {
+    "input": "J.R.R. Tolkien has an \"L\" in it? That's gay. Who did you think Tolkien was named after?\n",
+    "output": "[from outside the room] Stan? You out here?\n"
+  },
+  {
+    "input": "[from outside the room] Stan? You out here?\n",
+    "output": "Uh, yeah, hang on a second Tolk-kien, just taking a shit.\n"
+  },
+  {
+    "input": "Uh, yeah, hang on a second Tolk-kien, just taking a shit.\n",
+    "output": "Oh, okay, sorry.\n"
+  },
+  {
+    "input": "Oh, okay, sorry.\n",
+    "output": "Oh my God... I suck...\n[The Black residence, early in the morning. Steve Black gets into his car and starts driving, listening to the radio.]\n"
+  },
+  {
+    "input": "Oh my God... I suck...\n[The Black residence, early in the morning. Steve Black gets into his car and starts driving, listening to the radio.]\n",
+    "output": "This is your mornin' commute, South Park. Looks like we have a bit of slowing heading into town. There's like a truck and a couple cars... maybe take ya a couple minutes there. Also, if you're heading out of town on the main road there's a\u2013 there's like a car there, too.\n"
+  },
+  {
+    "input": "This is your mornin' commute, South Park. Looks like we have a bit of slowing heading into town. There's like a truck and a couple cars... maybe take ya a couple minutes there. Also, if you're heading out of town on the main road there's a\u2013 there's like a car there, too.\n",
+    "output": "What the fuck? [he notices a Tegridy billboard with him and Randy plastered on it]\n"
+  },
+  {
+    "input": "What the fuck? [he notices a Tegridy billboard with him and Randy plastered on it]\n",
+    "output": "Now let's look at the weather...Weather's looking like we're gonna have a little bit of snow. And the uh\u2013 [Steve speeds up]\n[Tegridy Farms. Steve Black is knocking angrily on Randy's door. Randy answers.]\n"
+  },
+  {
+    "input": "Now let's look at the weather...Weather's looking like we're gonna have a little bit of snow. And the uh\u2013 [Steve speeds up]\n[Tegridy Farms. Steve Black is knocking angrily on Randy's door. Randy answers.]\n",
+    "output": "What the hell are you doing?\n"
+  },
+  {
+    "input": "What the hell are you doing?\n",
+    "output": "Taking shit tons of Tegridy orders. Sales are going nuts right now.\n"
+  },
+  {
+    "input": "Taking shit tons of Tegridy orders. Sales are going nuts right now.\n",
+    "output": "No\u2013 why is my face on a billboard?!\n"
+  },
+  {
+    "input": "No\u2013 why is my face on a billboard?!\n",
+    "output": "Because we work together?\n"
+  },
+  {
+    "input": "Because we work together?\n",
+    "output": "You said you just needed someone to help with accounting!\n"
+  },
+  {
+    "input": "You said you just needed someone to help with accounting!\n",
+    "output": "Yes, but then\u2013 you got promoted! I was gonna surprise you. Don't you see how lucrative this can be? I mean, we make a pretty damn good team in the weed business. I mean, we are Ben and Jerry\u2013 We're Ben and Jerry. You're Jerry, and I'm Ben.\n"
+  },
+  {
+    "input": "Yes, but then\u2013 you got promoted! I was gonna surprise you. Don't you see how lucrative this can be? I mean, we make a pretty damn good team in the weed business. I mean, we are Ben and Jerry\u2013 We're Ben and Jerry. You're Jerry, and I'm Ben.\n",
+    "output": "I thought I was Jerry...\n"
+  },
+  {
+    "input": "I thought I was Jerry...\n",
+    "output": "No, you're a towel.\n"
+  },
+  {
+    "input": "No, you're a towel.\n",
+    "output": "Oh, that's even better.\n"
+  },
+  {
+    "input": "Oh, that's even better.\n",
+    "output": "I told you before that I'm not interested in the marijuana business. I don't believe in drinking or doing drugs.\n"
+  },
+  {
+    "input": "I told you before that I'm not interested in the marijuana business. I don't believe in drinking or doing drugs.\n",
+    "output": "Doing dru\u2013 Do you remember when Bilbo first set out with the dwarves to fight Smaug? What's the first thing they all did? They partied their asses off. [singing] Chip the glasses, click the plates. That's what Bilbo Baggins hates. [pause] And then they certainly had an adventure together, didn't they? Filled with... [he pulls out a wad of cash and puts it in Steve's pocket] Lucrative treasure.\n"
+  },
+  {
+    "input": "Doing dru\u2013 Do you remember when Bilbo first set out with the dwarves to fight Smaug? What's the first thing they all did? They partied their asses off. [singing] Chip the glasses, click the plates. That's what Bilbo Baggins hates. [pause] And then they certainly had an adventure together, didn't they? Filled with... [he pulls out a wad of cash and puts it in Steve's pocket] Lucrative treasure.\n",
+    "output": "You really think we could make a lot of money together?\n"
+  },
+  {
+    "input": "You really think we could make a lot of money together?\n",
+    "output": "Ben and Jerry, my man. Ben and fuckin' Jerry.\n[Stan is sitting at the doctor's office. The doctor enters the room.]\n"
+  },
+  {
+    "input": "Ben and Jerry, my man. Ben and fuckin' Jerry.\n[Stan is sitting at the doctor's office. The doctor enters the room.]\n",
+    "output": "Hey-hey! Stan the man! How ya doin' buddy? [he reaches out for a fist bump]\n"
+  },
+  {
+    "input": "Hey-hey! Stan the man! How ya doin' buddy? [he reaches out for a fist bump]\n",
+    "output": "[returning the fist bump] Okay, I guess...\n"
+  },
+  {
+    "input": "[returning the fist bump] Okay, I guess...\n",
+    "output": "The nurse said you came here by yourself. No parents?\n"
+  },
+  {
+    "input": "The nurse said you came here by yourself. No parents?\n",
+    "output": "I kinda wanted to talk about something in private.\n"
+  },
+  {
+    "input": "I kinda wanted to talk about something in private.\n",
+    "output": "Oh, okay, pal. What is it?\n"
+  },
+  {
+    "input": "Oh, okay, pal. What is it?\n",
+    "output": "I think... I might be horribly racist.[pause]\n"
+  },
+  {
+    "input": "I think... I might be horribly racist.[pause]\n",
+    "output": "Well, kiddo... you don't normally go to a doctor's office for feeling racist, but tell me what happened.\n"
+  },
+  {
+    "input": "Well, kiddo... you don't normally go to a doctor's office for feeling racist, but tell me what happened.\n",
+    "output": "So... there's this kid at my school, and... he's black. And his parents named him after the guy that wrote Lord of the Rings.\n"
+  },
+  {
+    "input": "So... there's this kid at my school, and... he's black. And his parents named him after the guy that wrote Lord of the Rings.\n",
+    "output": "Uh huh, Tolkien. Great name.\n"
+  },
+  {
+    "input": "Uh huh, Tolkien. Great name.\n",
+    "output": "Yeah... well, I-I thought his name was Token. Like\u2013 like a black kid that's just there so that... like... there's a black kid.\n"
+  },
+  {
+    "input": "Yeah... well, I-I thought his name was Token. Like\u2013 like a black kid that's just there so that... like... there's a black kid.\n",
+    "output": "Uh huh... and how long have you thought that?\n"
+  },
+  {
+    "input": "Uh huh... and how long have you thought that?\n",
+    "output": "The whole time! I've thought that the whole time!\n"
+  },
+  {
+    "input": "The whole time! I've thought that the whole time!\n",
+    "output": "Wow. Fuck you.\n"
+  },
+  {
+    "input": "Wow. Fuck you.\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "You really thought a couple of black people had a child and named him Token? Why would anyone name a black kid Token? You're a piece of shit.\n"
+  },
+  {
+    "input": "You really thought a couple of black people had a child and named him Token? Why would anyone name a black kid Token? You're a piece of shit.\n",
+    "output": "No, I was just try\u2013\n"
+  },
+  {
+    "input": "No, I was just try\u2013\n",
+    "output": "You were just going along with the dominant culture of the white paradigm, that's what you were just\u2013 Get out of my office, you make me sick!\n"
+  },
+  {
+    "input": "You were just going along with the dominant culture of the white paradigm, that's what you were just\u2013 Get out of my office, you make me sick!\n",
+    "output": "I'm sorry!\n"
+  },
+  {
+    "input": "I'm sorry!\n",
+    "output": "I don't know what's wrong with some people. I wonder if anyone else thought that this kid's name was Token? Hmm? Anybody? Anyone else just assume his name was Token? Because that's disgusting, and you are the problem.\n"
+  },
+  {
+    "input": "I don't know what's wrong with some people. I wonder if anyone else thought that this kid's name was Token? Hmm? Anybody? Anyone else just assume his name was Token? Because that's disgusting, and you are the problem.\n",
+    "output": "Doctor?\n"
+  },
+  {
+    "input": "Doctor?\n",
+    "output": "I thought I told you to get out of my office, because you seriously make me sick\u2013 I'm gonna shit my fucking pants right now.\n"
+  },
+  {
+    "input": "I thought I told you to get out of my office, because you seriously make me sick\u2013 I'm gonna shit my fucking pants right now.\n",
+    "output": "Doctor, please, I don't want to be like this! I'll do anything, just tell me what to do!\n"
+  },
+  {
+    "input": "Doctor, please, I don't want to be like this! I'll do anything, just tell me what to do!\n",
+    "output": "Oh, you wanna change? Then I suggest you start doing a lot of reading.\n"
+  },
+  {
+    "input": "Oh, you wanna change? Then I suggest you start doing a lot of reading.\n",
+    "output": "Okay, what should I read?\n"
+  },
+  {
+    "input": "Okay, what should I read?\n",
+    "output": "[ignoring Stan] And I suggest that when you're reading\u2013 you do it from the perspective of a black person! [he leaves]\n[Stan's room. He is sitting on his bed reading a book.]\n"
+  },
+  {
+    "input": "[ignoring Stan] And I suggest that when you're reading\u2013 you do it from the perspective of a black person! [he leaves]\n[Stan's room. He is sitting on his bed reading a book.]\n",
+    "output": "[speaking in African-American vernacular dialect] The knight Pigwiggen rides on a frisky earwig, and sends his love, Queen Mab, a bracelet of emmet's eyes, making an assignation... [scene cuts to Stan outside, still reading] Old Tom Bombadil was a merry fellow. Bright blue his jacket was, and his boots was yellow... [scene cuts to him reading in the library] It is told that in their beginning, the dwarves was made by Aule in the darkness of Middle-Earth.\n[Music plays over stock footage of a black puppy playing with a white puppy, then a montage of Randy and Steve working at Tegridy Farms]\n"
+  },
+  {
+    "input": "[speaking in African-American vernacular dialect] The knight Pigwiggen rides on a frisky earwig, and sends his love, Queen Mab, a bracelet of emmet's eyes, making an assignation... [scene cuts to Stan outside, still reading] Old Tom Bombadil was a merry fellow. Bright blue his jacket was, and his boots was yellow... [scene cuts to him reading in the library] It is told that in their beginning, the dwarves was made by Aule in the darkness of Middle-Earth.\n[Music plays over stock footage of a black puppy playing with a white puppy, then a montage of Randy and Steve working at Tegridy Farms]\n",
+    "output": "Black puppy and white puppy\nPlay together in the backyard\nWhy can't we?\nGetting rough with a brand new chew toy\nOh boy\nLet's all get along\nWe all know\nThat puppies are the same wherever you go\nThere are good puppies (Mm-hmm)\nAnd bad puppies\nWhen one of them chews a shoe...\n[Randy and Steve are now in court, being seen before a judge.]\n"
+  },
+  {
+    "input": "Black puppy and white puppy\nPlay together in the backyard\nWhy can't we?\nGetting rough with a brand new chew toy\nOh boy\nLet's all get along\nWe all know\nThat puppies are the same wherever you go\nThere are good puppies (Mm-hmm)\nAnd bad puppies\nWhen one of them chews a shoe...\n[Randy and Steve are now in court, being seen before a judge.]\n",
+    "output": "As the owners of Tegridy Farms, you are accused of plagiarizing a song for your marijuana company. How do you plead?\n"
+  },
+  {
+    "input": "As the owners of Tegridy Farms, you are accused of plagiarizing a song for your marijuana company. How do you plead?\n",
+    "output": "Not guilty, your honor.\n"
+  },
+  {
+    "input": "Not guilty, your honor.\n",
+    "output": "The complaint says that you asked for the rights to the song \"Ebony and Ivory,\" but when you were turned down by Paul McCartney, you copied the song into something similar.\n"
+  },
+  {
+    "input": "The complaint says that you asked for the rights to the song \"Ebony and Ivory,\" but when you were turned down by Paul McCartney, you copied the song into something similar.\n",
+    "output": "Not true, your honor. I've never even heard Paul McCartney's version. \"Black Puppy White Puppy\" is a song I wrote by myself on my piano keyboard.\n[The singing resumes, with Randy and Steve now walking in the field at sunset. Randy then puts his arm around Steve's shoulders as they continue their stroll.]\n"
+  },
+  {
+    "input": "Not true, your honor. I've never even heard Paul McCartney's version. \"Black Puppy White Puppy\" is a song I wrote by myself on my piano keyboard.\n[The singing resumes, with Randy and Steve now walking in the field at sunset. Randy then puts his arm around Steve's shoulders as they continue their stroll.]\n",
+    "output": "Black puppy, white puppy\nPlaying in the backyard, why can't we?\nBlack puppy, white puppy\nPlaying in the back...\n[South Park Elementary, Mr. Garrison's classroom. Stan is at the front, wearing glasses and speaking.]\n"
+  },
+  {
+    "input": "Black puppy, white puppy\nPlaying in the backyard, why can't we?\nBlack puppy, white puppy\nPlaying in the back...\n[South Park Elementary, Mr. Garrison's classroom. Stan is at the front, wearing glasses and speaking.]\n",
+    "output": "Guys... lately I've been doing a lot of soul searching. I've had to ask myself hard questions, because for a long time now, I've misinterpreted some amazing writing. I've done a lot of reading... And I've learned why Sauron built the black gate of Mordor across the path of Cirith Grogor, which led into the enclosed plain of Udun. I've learned that the Mouth of Sauron was once a man, who commanded the armies of Gorgoroth and dismissed Aragorn's claim as King.\n"
+  },
+  {
+    "input": "Guys... lately I've been doing a lot of soul searching. I've had to ask myself hard questions, because for a long time now, I've misinterpreted some amazing writing. I've done a lot of reading... And I've learned why Sauron built the black gate of Mordor across the path of Cirith Grogor, which led into the enclosed plain of Udun. I've learned that the Mouth of Sauron was once a man, who commanded the armies of Gorgoroth and dismissed Aragorn's claim as King.\n",
+    "output": "[leaning over to Kyle] I think Stan's lost his marbles.\n"
+  },
+  {
+    "input": "[leaning over to Kyle] I think Stan's lost his marbles.\n",
+    "output": "I firmly believe that everyone would benefit from the school making required reading of these books. Because if we don't fully know about Tolkien, then we can make some terrible, offensive mistakes. In fact... did you guys know that our friend Tolkien, who goes to school here, is named after J.R.R. Tolkien?\n"
+  },
+  {
+    "input": "I firmly believe that everyone would benefit from the school making required reading of these books. Because if we don't fully know about Tolkien, then we can make some terrible, offensive mistakes. In fact... did you guys know that our friend Tolkien, who goes to school here, is named after J.R.R. Tolkien?\n",
+    "output": "Yup!\n"
+  },
+  {
+    "input": "Yup!\n",
+    "output": "Yeah, I knew that.\n"
+  },
+  {
+    "input": "Yeah, I knew that.\n",
+    "output": "Why else would his name be Tolkien if it wasn't for the guy that wrote the books?\n"
+  },
+  {
+    "input": "Why else would his name be Tolkien if it wasn't for the guy that wrote the books?\n",
+    "output": "[glares] My point is, we need to petition the school to make Tolkien required reading. To better understand our classmate. I think maybe we all haven't done enough to make sure than Tolkien doesn't feel isolated and left out.\n"
+  },
+  {
+    "input": "[glares] My point is, we need to petition the school to make Tolkien required reading. To better understand our classmate. I think maybe we all haven't done enough to make sure than Tolkien doesn't feel isolated and left out.\n",
+    "output": "[opening the door] Guys? Can I come in now?\n"
+  },
+  {
+    "input": "[opening the door] Guys? Can I come in now?\n",
+    "output": "Not yet, Token. Just another couple minutes.\n"
+  },
+  {
+    "input": "Not yet, Token. Just another couple minutes.\n",
+    "output": "W-what are you guys talking about?\n"
+  },
+  {
+    "input": "W-what are you guys talking about?\n",
+    "output": "[pause] Just a couple minutes, bro. [Tolkien leaves, closing the door]\n[Tegridy Farms. Hip hop music plays while Randy and Towelie dance and smoke a joint in the barn.]\n"
+  },
+  {
+    "input": "[pause] Just a couple minutes, bro. [Tolkien leaves, closing the door]\n[Tegridy Farms. Hip hop music plays while Randy and Towelie dance and smoke a joint in the barn.]\n",
+    "output": "Black puppy bitch,\nBlack, black puppy bitch\nWhite puppy bitch,\nBlack, white puppy bitch\nBlack puppy bitch,\nWhite, black puppy bitch\n"
+  },
+  {
+    "input": "Black puppy bitch,\nBlack, black puppy bitch\nWhite puppy bitch,\nBlack, white puppy bitch\nBlack puppy bitch,\nWhite, black puppy bitch\n",
+    "output": "[enters the barn] Hey, guys, I've got something really exciting to show you!\n"
+  },
+  {
+    "input": "[enters the barn] Hey, guys, I've got something really exciting to show you!\n",
+    "output": "[the music suddenly stops as he turns around] Ohhhh, buzzkill...\n"
+  },
+  {
+    "input": "[the music suddenly stops as he turns around] Ohhhh, buzzkill...\n",
+    "output": "I had this awesome idea last night... and I couldn't even sleep, I thought it was so cool\u2013\n"
+  },
+  {
+    "input": "I had this awesome idea last night... and I couldn't even sleep, I thought it was so cool\u2013\n",
+    "output": "Okay, what is it?\n"
+  },
+  {
+    "input": "Okay, what is it?\n",
+    "output": "[he clicks the keys on his laptop] We do an entire line of cannabis based on all the different races of Middle Earth! [Randy looks unimpressed] We do seven different strains in all, representing the dwarves, the elves, even the uruk hai!\n"
+  },
+  {
+    "input": "[he clicks the keys on his laptop] We do an entire line of cannabis based on all the different races of Middle Earth! [Randy looks unimpressed] We do seven different strains in all, representing the dwarves, the elves, even the uruk hai!\n",
+    "output": "Uhh, yeah... no.\n"
+  },
+  {
+    "input": "Uhh, yeah... no.\n",
+    "output": "Everyone will think we're dorks! [they both chuckle]\n"
+  },
+  {
+    "input": "Everyone will think we're dorks! [they both chuckle]\n",
+    "output": "[annoyed] Randy, you seem not to care very much about any of my ideas.\n"
+  },
+  {
+    "input": "[annoyed] Randy, you seem not to care very much about any of my ideas.\n",
+    "output": "Well, you're just\u2013 you know, you're just not the idea guy.\n"
+  },
+  {
+    "input": "Well, you're just\u2013 you know, you're just not the idea guy.\n",
+    "output": "I don't seem to be the anything guy. I thought we were Ben and Jerry.\n"
+  },
+  {
+    "input": "I don't seem to be the anything guy. I thought we were Ben and Jerry.\n",
+    "output": "Alright, look, I'm gonna tell you the truth about ice cream\u2013 Jerry actually doesn't do shit. Ben does it all, everyone knows that.\n"
+  },
+  {
+    "input": "Alright, look, I'm gonna tell you the truth about ice cream\u2013 Jerry actually doesn't do shit. Ben does it all, everyone knows that.\n",
+    "output": "Well, I don't want to just be here like some kind of... token black person.\n"
+  },
+  {
+    "input": "Well, I don't want to just be here like some kind of... token black person.\n",
+    "output": "Oh, come on, I'm sorry.\n"
+  },
+  {
+    "input": "Oh, come on, I'm sorry.\n",
+    "output": "No. I totally get now why you want me around, and I'm not gonna do it. [he storms off]\n"
+  },
+  {
+    "input": "No. I totally get now why you want me around, and I'm not gonna do it. [he storms off]\n",
+    "output": "[smoking weed] He doesn't even really sound like a black guy, you know that?\n[South Park Elementary gymnasium. PC Principal is holding an assembly for the students.]\n"
+  },
+  {
+    "input": "[smoking weed] He doesn't even really sound like a black guy, you know that?\n[South Park Elementary gymnasium. PC Principal is holding an assembly for the students.]\n",
+    "output": "Alright everyone, listen up! We have a special announcement today. One of our fourth grade students says he's done a lot of work and has grown as a person. And he'd like to share his journey with you. Please welcome Stan Marsh.\n"
+  },
+  {
+    "input": "Alright everyone, listen up! We have a special announcement today. One of our fourth grade students says he's done a lot of work and has grown as a person. And he'd like to share his journey with you. Please welcome Stan Marsh.\n",
+    "output": "Sup, guys. You know, I've done a lot of reading lately. And I'd like to announce that the school has allowed me to declare today J.R.R. Tolkien appreciation day! [the crowd is silent] These books go so much deeper than the Hollywood movies. And we see its influences everywhere in our modern culture. In fact, how many of you knew that our classmate Tolkien was named after J.R.R. Tolkien? [every audience member raises their hand] But you don't know that Lord of the Rings was an analogy for World War II, did you?! And I'll bet you didn't know that there was originally 19 Rings of Power that were forged by Celebrimbor! So there's much we need to understand. And so I would like to bring up the man himself. Come on up here, Tolkien! Come on!\n"
+  },
+  {
+    "input": "Sup, guys. You know, I've done a lot of reading lately. And I'd like to announce that the school has allowed me to declare today J.R.R. Tolkien appreciation day! [the crowd is silent] These books go so much deeper than the Hollywood movies. And we see its influences everywhere in our modern culture. In fact, how many of you knew that our classmate Tolkien was named after J.R.R. Tolkien? [every audience member raises their hand] But you don't know that Lord of the Rings was an analogy for World War II, did you?! And I'll bet you didn't know that there was originally 19 Rings of Power that were forged by Celebrimbor! So there's much we need to understand. And so I would like to bring up the man himself. Come on up here, Tolkien! Come on!\n",
+    "output": "[the crowd awkwardly claps as Tolkien walks up to Stan] I actually don't like Lord of the Rings. And I don't like The Hobbit. Just cause my dad's into that stuff doesn't mean that I am. I've always hated that my name is Tolkien, but I didn't really have a choice, did I? So please, whatever you do, just don't draw any more attention to my name. I can't stand any of it. It's just a bunch of nerdy, jive-ass dragon shit. [he drops the mic and angrily walks back to his seat]\n[Stan's room. He is laying in bed, looking upset. Sharon enters the room.]\n"
+  },
+  {
+    "input": "[the crowd awkwardly claps as Tolkien walks up to Stan] I actually don't like Lord of the Rings. And I don't like The Hobbit. Just cause my dad's into that stuff doesn't mean that I am. I've always hated that my name is Tolkien, but I didn't really have a choice, did I? So please, whatever you do, just don't draw any more attention to my name. I can't stand any of it. It's just a bunch of nerdy, jive-ass dragon shit. [he drops the mic and angrily walks back to his seat]\n[Stan's room. He is laying in bed, looking upset. Sharon enters the room.]\n",
+    "output": "Stanley? Are you feeling any better?\n"
+  },
+  {
+    "input": "Stanley? Are you feeling any better?\n",
+    "output": "Nope. Not any better, Mom.\n"
+  },
+  {
+    "input": "Nope. Not any better, Mom.\n",
+    "output": "Well, your friend Tolkien came over to see you. He's downstairs.\n"
+  },
+  {
+    "input": "Well, your friend Tolkien came over to see you. He's downstairs.\n",
+    "output": "Tolkien is... here? [he walks downstairs into the living room] Hey, Tol-kien.\n"
+  },
+  {
+    "input": "Tolkien is... here? [he walks downstairs into the living room] Hey, Tol-kien.\n",
+    "output": "Oh, hey, Stan.\n"
+  },
+  {
+    "input": "Oh, hey, Stan.\n",
+    "output": "What are you doing here?\n"
+  },
+  {
+    "input": "What are you doing here?\n",
+    "output": "Stan... Are you ok? You've just been acting kind of strange the last few days.\n"
+  },
+  {
+    "input": "Stan... Are you ok? You've just been acting kind of strange the last few days.\n",
+    "output": "Yeah, I'm good. I'm... No, I'm not... Tolkien, I have something I have to tell you.\n"
+  },
+  {
+    "input": "Yeah, I'm good. I'm... No, I'm not... Tolkien, I have something I have to tell you.\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "This whole time, I thought your name was \"Token\". Like... the token black person.\n"
+  },
+  {
+    "input": "This whole time, I thought your name was \"Token\". Like... the token black person.\n",
+    "output": "Wow.\n"
+  },
+  {
+    "input": "Wow.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Wow... Why would my parents name me something that means the only black person?\n"
+  },
+  {
+    "input": "Wow... Why would my parents name me something that means the only black person?\n",
+    "output": "I don't know. So I understand if you don't wanna be around me anymore.\n"
+  },
+  {
+    "input": "I don't know. So I understand if you don't wanna be around me anymore.\n",
+    "output": "Well, it's not like I really have a choice. That's why I'm here. My parents just bought the farm across the street.\n"
+  },
+  {
+    "input": "Well, it's not like I really have a choice. That's why I'm here. My parents just bought the farm across the street.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Yeah. Out of the blue my dad was just like, \"We're going into the farming business!\" And we all just picked up and moved.\n"
+  },
+  {
+    "input": "Yeah. Out of the blue my dad was just like, \"We're going into the farming business!\" And we all just picked up and moved.\n",
+    "output": "Oh, my God, this is great! [he grabs Tolkien's hands and takes him into the kitchen] Mom, Dad, guess what?! Tolkien's family bought the farm across the street! We're neighbors!\n"
+  },
+  {
+    "input": "Oh, my God, this is great! [he grabs Tolkien's hands and takes him into the kitchen] Mom, Dad, guess what?! Tolkien's family bought the farm across the street! We're neighbors!\n",
+    "output": "Oh, that's great!\n"
+  },
+  {
+    "input": "Oh, that's great!\n",
+    "output": "Yeah, that's really cool boys\u2013 Wait, wha-a-a-t?! [he runs outside to see the Blacks setting up \"Credigree Weed\"] What the hell's going on?!\n"
+  },
+  {
+    "input": "Yeah, that's really cool boys\u2013 Wait, wha-a-a-t?! [he runs outside to see the Blacks setting up \"Credigree Weed\"] What the hell's going on?!\n",
+    "output": "Oh, hey, Randy. What'dya think of the new place?\n"
+  },
+  {
+    "input": "Oh, hey, Randy. What'dya think of the new place?\n",
+    "output": "Credigree Weed? How stupid is that?! Credigree isn't even a word!\n"
+  },
+  {
+    "input": "Credigree Weed? How stupid is that?! Credigree isn't even a word!\n",
+    "output": "[pulling up in his car] Uh, hello, we'd like to buy a little weed.\n"
+  },
+  {
+    "input": "[pulling up in his car] Uh, hello, we'd like to buy a little weed.\n",
+    "output": "It's our anniversary!\n"
+  },
+  {
+    "input": "It's our anniversary!\n",
+    "output": "Well, there's really good weed across the street! Tegridy weed?\n"
+  },
+  {
+    "input": "Well, there's really good weed across the street! Tegridy weed?\n",
+    "output": "Yeah, we're just\u2013 we're looking for something with a little more... street cred.\n"
+  },
+  {
+    "input": "Yeah, we're just\u2013 we're looking for something with a little more... street cred.\n",
+    "output": "Yeah, a little more cred!\n"
+  },
+  {
+    "input": "Yeah, a little more cred!\n",
+    "output": "Well, y'all came to the right business, cuz this shit is hard!\n"
+  },
+  {
+    "input": "Well, y'all came to the right business, cuz this shit is hard!\n",
+    "output": "Oh, oh! He didn't even talk like that before! This guy is a total phony! Now just come across the street, and I'll show you some real nice weed made with Tegridy! These people don't even belong here!\n"
+  },
+  {
+    "input": "Oh, oh! He didn't even talk like that before! This guy is a total phony! Now just come across the street, and I'll show you some real nice weed made with Tegridy! These people don't even belong here!\n",
+    "output": "Wow, bro, you're a racist piece of shit. [to Steve] Can we see what you've got, please?\n"
+  },
+  {
+    "input": "Wow, bro, you're a racist piece of shit. [to Steve] Can we see what you've got, please?\n",
+    "output": "Hell yeah, we got all kinds of shit\u2013 Lemme give you a sample of my Rivendell Elvish Magic... [he walks away with the couple]\n"
+  },
+  {
+    "input": "Hell yeah, we got all kinds of shit\u2013 Lemme give you a sample of my Rivendell Elvish Magic... [he walks away with the couple]\n",
+    "output": "[rushing back inside, furious] They stole it! They stole my idea!\n"
+  },
+  {
+    "input": "[rushing back inside, furious] They stole it! They stole my idea!\n",
+    "output": "Who did?\n"
+  },
+  {
+    "input": "Who did?\n",
+    "output": "Those dickheads across the street! They took everything I learned about using black culture to make a bigger profit and they're doing it themselves! [he points to Tolkien] Get this little prick outta my house! [he forcefully grabs Tolkien]\n"
+  },
+  {
+    "input": "Those dickheads across the street! They took everything I learned about using black culture to make a bigger profit and they're doing it themselves! [he points to Tolkien] Get this little prick outta my house! [he forcefully grabs Tolkien]\n",
+    "output": "Dad!\n"
+  },
+  {
+    "input": "Dad!\n",
+    "output": "Get him outta here, he's a spy! [he chases Tolkien out of the house before shouting at Steve] Hey, fuck face! I don't want your kid over at my house, you got that?!\n"
+  },
+  {
+    "input": "Get him outta here, he's a spy! [he chases Tolkien out of the house before shouting at Steve] Hey, fuck face! I don't want your kid over at my house, you got that?!\n",
+    "output": "Hey man, what's your problem?!\n"
+  },
+  {
+    "input": "Hey man, what's your problem?!\n",
+    "output": "You want a war? Well, you got one! Game on, asshole!\n"
+  },
+  {
+    "input": "You want a war? Well, you got one! Game on, asshole!\n",
+    "output": "[pause] Game on, muthafucker.\n"
+  },
+  {
+    "input": "[pause] Game on, muthafucker.\n",
+    "output": "[angrily] Everyone back in the house. Come on, let's go.\n"
+  },
+  {
+    "input": "[angrily] Everyone back in the house. Come on, let's go.\n",
+    "output": "But Dad\u2013\n"
+  },
+  {
+    "input": "But Dad\u2013\n",
+    "output": "Shut up! [he slams the door]\n"
+  }
+]

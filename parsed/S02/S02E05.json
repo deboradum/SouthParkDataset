@@ -1,0 +1,1466 @@
+[
+  {
+    "input": "",
+    "output": "Conjoined Fetus Lady\n\n[South Park Elementary Gym.]\n"
+  },
+  {
+    "input": "Conjoined Fetus Lady\n\n[South Park Elementary Gym.]\n",
+    "output": "Okay, children, it's Friday, and you know what that means for PE class. We're gonna play dodgeball!\n[The class groans.]\n"
+  },
+  {
+    "input": "Okay, children, it's Friday, and you know what that means for PE class. We're gonna play dodgeball!\n[The class groans.]\n",
+    "output": "We don't wanna play dodgeball. It hurts.\n"
+  },
+  {
+    "input": "We don't wanna play dodgeball. It hurts.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "So let's have half the children on this side [To his right.] and half the children on that side. [To his left]\n[Team 1 walks to one side. The children groan.]\n"
+  },
+  {
+    "input": "So let's have half the children on this side [To his right.] and half the children on that side. [To his left]\n[Team 1 walks to one side. The children groan.]\n",
+    "output": "[Uncertain.] Uhh... Excuse me a moment, gentlemen. I don't believe I know how to play dodgeball.\n"
+  },
+  {
+    "input": "[Uncertain.] Uhh... Excuse me a moment, gentlemen. I don't believe I know how to play dodgeball.\n",
+    "output": "[With Clyde and Stan looking on.] What? Don't you have dodgeball in France?\n"
+  },
+  {
+    "input": "[With Clyde and Stan looking on.] What? Don't you have dodgeball in France?\n",
+    "output": "Well, no. And actually, I'm not from France--\n"
+  },
+  {
+    "input": "Well, no. And actually, I'm not from France--\n",
+    "output": "Look, Pip, the rules are simple. A kid from that team is gonna try to bean a kid on our team in the head with a big red ball.\n"
+  },
+  {
+    "input": "Look, Pip, the rules are simple. A kid from that team is gonna try to bean a kid on our team in the head with a big red ball.\n",
+    "output": "Oh, dear.\n"
+  },
+  {
+    "input": "Oh, dear.\n",
+    "output": "If the ball hits you, you're out, but if you catch the ball, he's out, and the last team to still have anybody standing wins.\n"
+  },
+  {
+    "input": "If the ball hits you, you're out, but if you catch the ball, he's out, and the last team to still have anybody standing wins.\n",
+    "output": "Oh, what jolly good fun!\n"
+  },
+  {
+    "input": "Oh, what jolly good fun!\n",
+    "output": "No it isn't, it hurts! I can't believe they let us play this in school.\n[The teams are as follows:\nTeam 1: Kyle, Clyde, Kenny, Stan, Cartman, Pip, Annie, Butters, and Brimmy\nTeam 2: Bill, Fosse, Kevin, Bebe, Red, and Terrance.]\n"
+  },
+  {
+    "input": "No it isn't, it hurts! I can't believe they let us play this in school.\n[The teams are as follows:\nTeam 1: Kyle, Clyde, Kenny, Stan, Cartman, Pip, Annie, Butters, and Brimmy\nTeam 2: Bill, Fosse, Kevin, Bebe, Red, and Terrance.]\n",
+    "output": "[Blows his whistle.] Play ball!\n[Kevin takes the ball and chucks it at Stan's team. It hits Clyde.]\n"
+  },
+  {
+    "input": "[Blows his whistle.] Play ball!\n[Kevin takes the ball and chucks it at Stan's team. It hits Clyde.]\n",
+    "output": "Ow! Ahow-ow-ooooowww!\n"
+  },
+  {
+    "input": "Ow! Ahow-ow-ooooowww!\n",
+    "output": "Dammit, we lost one already!\n"
+  },
+  {
+    "input": "Dammit, we lost one already!\n",
+    "output": "Aheeheh, you're out, Clyde! Heheheh.\n"
+  },
+  {
+    "input": "Aheeheh, you're out, Clyde! Heheheh.\n",
+    "output": "Jordan, Swanson, pull forward! We need backup.\n[Annie (Jordan) and Butters (Swanson) pull forward as told to. Kevin throws again, and it hits Annie, causing her to scream and be knocked out.]\n"
+  },
+  {
+    "input": "Jordan, Swanson, pull forward! We need backup.\n[Annie (Jordan) and Butters (Swanson) pull forward as told to. Kevin throws again, and it hits Annie, causing her to scream and be knocked out.]\n",
+    "output": "We're losing men fast out here!\n[He and Kyle jump out of the way as the ball sails towards Brimmy, who falls and lets out a grunt of pain. The ball returns to the opposing team.]\n"
+  },
+  {
+    "input": "We're losing men fast out here!\n[He and Kyle jump out of the way as the ball sails towards Brimmy, who falls and lets out a grunt of pain. The ball returns to the opposing team.]\n",
+    "output": "[Giggling.] Concentrate on your ge-hame! Be the buhaw-hall!\n[Kevin serves again, and Kyle looks away as it comes towards him, amazingly Kyle opens his eyes to find the ball is in his hands.]\n"
+  },
+  {
+    "input": "[Giggling.] Concentrate on your ge-hame! Be the buhaw-hall!\n[Kevin serves again, and Kyle looks away as it comes towards him, amazingly Kyle opens his eyes to find the ball is in his hands.]\n",
+    "output": "I caught it! I caught it!\n"
+  },
+  {
+    "input": "I caught it! I caught it!\n",
+    "output": "Great catch, Kyle! Now your team's on offense!\n"
+  },
+  {
+    "input": "Great catch, Kyle! Now your team's on offense!\n",
+    "output": "Here, Pip, you throw.\n[Kyle tosses the ball to Pip, who catches it.]\n"
+  },
+  {
+    "input": "Here, Pip, you throw.\n[Kyle tosses the ball to Pip, who catches it.]\n",
+    "output": "Ugh... Oh, no, I couldn't.\n"
+  },
+  {
+    "input": "Ugh... Oh, no, I couldn't.\n",
+    "output": "Come on, limey, don't be a wuss! Are you just gonna be a little French pansy your whole life?\n"
+  },
+  {
+    "input": "Come on, limey, don't be a wuss! Are you just gonna be a little French pansy your whole life?\n",
+    "output": "I'm not French--\n"
+  },
+  {
+    "input": "I'm not French--\n",
+    "output": "Throw the ball, you stupid frog!\n[Pip sets up to throw.]\n"
+  },
+  {
+    "input": "Throw the ball, you stupid frog!\n[Pip sets up to throw.]\n",
+    "output": "Goddamn, maybe if you didn't eat all those croissants,\n[Angered, Pip throws the ball at him.]\n"
+  },
+  {
+    "input": "Goddamn, maybe if you didn't eat all those croissants,\n[Angered, Pip throws the ball at him.]\n",
+    "output": "you'd be able to-- Ow! [He falls.].\n"
+  },
+  {
+    "input": "you'd be able to-- Ow! [He falls.].\n",
+    "output": "Okay, that was pretty good, Pip, but you're supposed to hit the kids on the other team.\n"
+  },
+  {
+    "input": "Okay, that was pretty good, Pip, but you're supposed to hit the kids on the other team.\n",
+    "output": "Ow, my nose! You broke my nose!\n"
+  },
+  {
+    "input": "Ow, my nose! You broke my nose!\n",
+    "output": "Damn, Pip. I didn't know you had it in you.\n"
+  },
+  {
+    "input": "Damn, Pip. I didn't know you had it in you.\n",
+    "output": "Ogh! I'm dreadfully sorry!\n"
+  },
+  {
+    "input": "Ogh! I'm dreadfully sorry!\n",
+    "output": "That nose is bleeding pretty bad, Kyle. I think you might have to go to the nurse's office.\n[Fear strikes the kids.]\n"
+  },
+  {
+    "input": "That nose is bleeding pretty bad, Kyle. I think you might have to go to the nurse's office.\n[Fear strikes the kids.]\n",
+    "output": "[Gasp.] No. No, it'll be okay!\n"
+  },
+  {
+    "input": "[Gasp.] No. No, it'll be okay!\n",
+    "output": "Sorry, son. You'll have to let the nurse look at it. Come on.\n[Chef takes him by the hand, and leads him away to the nurse's office.]\n"
+  },
+  {
+    "input": "Sorry, son. You'll have to let the nurse look at it. Come on.\n[Chef takes him by the hand, and leads him away to the nurse's office.]\n",
+    "output": "Oh-- Noooo!\n"
+  },
+  {
+    "input": "Oh-- Noooo!\n",
+    "output": "[Ominously.] Dude! He's going to the nurse's office.\n"
+  },
+  {
+    "input": "[Ominously.] Dude! He's going to the nurse's office.\n",
+    "output": "I heard the school nurse is hideously deformed.\n"
+  },
+  {
+    "input": "I heard the school nurse is hideously deformed.\n",
+    "output": "I heard she has tentacles and eats children for lunch.\n"
+  },
+  {
+    "input": "I heard she has tentacles and eats children for lunch.\n",
+    "output": "Stan? Has anybody actually seen the nurse, and come back to tell about it?\n"
+  },
+  {
+    "input": "Stan? Has anybody actually seen the nurse, and come back to tell about it?\n",
+    "output": "[Somberly.] No, Cartman. Nobody ever has.\n[Nurse's Office. Kyle's shadow is on the window. He waits with his hand on his nose. He sees a mouse nibble at some cheese and run away. He looks up, and a door opens. Kyle looks and shuts his eyes tight.]\n"
+  },
+  {
+    "input": "[Somberly.] No, Cartman. Nobody ever has.\n[Nurse's Office. Kyle's shadow is on the window. He waits with his hand on his nose. He sees a mouse nibble at some cheese and run away. He looks up, and a door opens. Kyle looks and shuts his eyes tight.]\n",
+    "output": "Are you Kyle Broflovski?\n[She sounds friendly, but her shadow falls on him.]\n"
+  },
+  {
+    "input": "Are you Kyle Broflovski?\n[She sounds friendly, but her shadow falls on him.]\n",
+    "output": "Ye-yes.\n"
+  },
+  {
+    "input": "Ye-yes.\n",
+    "output": "I'm the school nurse. Did you hurt your nose?\n"
+  },
+  {
+    "input": "I'm the school nurse. Did you hurt your nose?\n",
+    "output": "Ye-yes.\n"
+  },
+  {
+    "input": "Ye-yes.\n",
+    "output": "Young man, Why do you have your eyes closed? I'm not gonna hurt you.\n"
+  },
+  {
+    "input": "Young man, Why do you have your eyes closed? I'm not gonna hurt you.\n",
+    "output": "I know.\n"
+  },
+  {
+    "input": "I know.\n",
+    "output": "So open them.\n[She walks to her left, Kyle resists, then opens them.]\n"
+  },
+  {
+    "input": "So open them.\n[She walks to her left, Kyle resists, then opens them.]\n",
+    "output": "Oh! Phew.\n"
+  },
+  {
+    "input": "Oh! Phew.\n",
+    "output": "Now, what seems to be the problem?\n"
+  },
+  {
+    "input": "Now, what seems to be the problem?\n",
+    "output": "Aw, I just hit my nose playing dodgeball.\n"
+  },
+  {
+    "input": "Aw, I just hit my nose playing dodgeball.\n",
+    "output": "Oh. Well, I'll get you an ice pack.\n[She turns to face him, and a withered fetus comes into view. It is joined to her left temple and upper cheek.]\n"
+  },
+  {
+    "input": "Oh. Well, I'll get you an ice pack.\n[She turns to face him, and a withered fetus comes into view. It is joined to her left temple and upper cheek.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Oh, I see you've noticed my disorder. I have a stillborn fetus growth attached to my head.\n"
+  },
+  {
+    "input": "Oh, I see you've noticed my disorder. I have a stillborn fetus growth attached to my head.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[After school, at Kyle's house. The boys are there to listen to Kyle's story.]\n"
+  },
+  {
+    "input": "[After school, at Kyle's house. The boys are there to listen to Kyle's story.]\n",
+    "output": "...And when she moved up and down, the little fetus jiggled.\n"
+  },
+  {
+    "input": "...And when she moved up and down, the little fetus jiggled.\n",
+    "output": "Eewwww!\n"
+  },
+  {
+    "input": "Eewwww!\n",
+    "output": "Did it talk? The little fetus, did it talk?\n"
+  },
+  {
+    "input": "Did it talk? The little fetus, did it talk?\n",
+    "output": "No. No-it looked dead.\n"
+  },
+  {
+    "input": "No. No-it looked dead.\n",
+    "output": "Eewwww!\n"
+  },
+  {
+    "input": "Eewwww!\n",
+    "output": "Wa-was it wearing clothes?\n"
+  },
+  {
+    "input": "Wa-was it wearing clothes?\n",
+    "output": "Dude, where is she gonna get fetus clothes?\n"
+  },
+  {
+    "input": "Dude, where is she gonna get fetus clothes?\n",
+    "output": "Oh, yeah. Eeww.\n"
+  },
+  {
+    "input": "Oh, yeah. Eeww.\n",
+    "output": "Eewwww!\n"
+  },
+  {
+    "input": "Eewwww!\n",
+    "output": "And then she walked over to--\n"
+  },
+  {
+    "input": "And then she walked over to--\n",
+    "output": "Kyle! That is enough! I've been reading up on your poor nurse's condition, and it is nothing to be made fun of. It's called \"conjoined twin myslexia\".\n"
+  },
+  {
+    "input": "Kyle! That is enough! I've been reading up on your poor nurse's condition, and it is nothing to be made fun of. It's called \"conjoined twin myslexia\".\n",
+    "output": "Who the hell cares what it's called? As long as she doesn't have to touch me...\n"
+  },
+  {
+    "input": "Who the hell cares what it's called? As long as she doesn't have to touch me...\n",
+    "output": "Now, that's just the kind of unawareness that we need to fight against. Sit down, boys.\n[They hop on the sofa. She sits in the middle and opens the book. Softly, she reads.]\n"
+  },
+  {
+    "input": "Now, that's just the kind of unawareness that we need to fight against. Sit down, boys.\n[They hop on the sofa. She sits in the middle and opens the book. Softly, she reads.]\n",
+    "output": "You see boys, sometimes, when babies are born, they're born as twins. But sometimes the twins get hooked together, and they're born as Siamese twins.\n[A picture of two adults attached by the side of the head is shown.]\n"
+  },
+  {
+    "input": "You see boys, sometimes, when babies are born, they're born as twins. But sometimes the twins get hooked together, and they're born as Siamese twins.\n[A picture of two adults attached by the side of the head is shown.]\n",
+    "output": "Gross!\n"
+  },
+  {
+    "input": "Gross!\n",
+    "output": "But sometimes, after the Siamese twins are joined together, one of the twins dies before birth. The living baby is born with the dead baby still attached.\n[Stan is frightened.]\n"
+  },
+  {
+    "input": "But sometimes, after the Siamese twins are joined together, one of the twins dies before birth. The living baby is born with the dead baby still attached.\n[Stan is frightened.]\n",
+    "output": "Sometimes, this dead twin is inside the living person, so even you could have a dead twin inside you and not even know it!\n[Now, Cartman is frightened. He and Stan rush out of there.]\n"
+  },
+  {
+    "input": "Sometimes, this dead twin is inside the living person, so even you could have a dead twin inside you and not even know it!\n[Now, Cartman is frightened. He and Stan rush out of there.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "AGGHHH! Let me live! AGGGHHH!\n"
+  },
+  {
+    "input": "AGGHHH! Let me live! AGGGHHH!\n",
+    "output": "So now that you're educated about her disease, you won't need to make fun of her. Right, bubbe?\n"
+  },
+  {
+    "input": "So now that you're educated about her disease, you won't need to make fun of her. Right, bubbe?\n",
+    "output": "Uhhhh... Yeah.\n[She leaves, and Kyle's eyes follow her. Then he looks forward, then at Kenny. Kenny cracks up.]\n[The dining room. Sheila serves dinner to Gerald as he reads the newspaper.]\n"
+  },
+  {
+    "input": "Uhhhh... Yeah.\n[She leaves, and Kyle's eyes follow her. Then he looks forward, then at Kenny. Kenny cracks up.]\n[The dining room. Sheila serves dinner to Gerald as he reads the newspaper.]\n",
+    "output": "Can you imagine that poor, poor woman?\n"
+  },
+  {
+    "input": "Can you imagine that poor, poor woman?\n",
+    "output": "Mm-hmm.\n"
+  },
+  {
+    "input": "Mm-hmm.\n",
+    "output": "Feeling like an outcast, being ridiculed every day...\n"
+  },
+  {
+    "input": "Feeling like an outcast, being ridiculed every day...\n",
+    "output": "Mm-hmm.\n[The phone rings and Sheila answers.]\n"
+  },
+  {
+    "input": "Mm-hmm.\n[The phone rings and Sheila answers.]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "Hello, Sheila? It's Sharon, Stan's mother.\n[Stan is screaming and running around the house.]\n"
+  },
+  {
+    "input": "Hello, Sheila? It's Sharon, Stan's mother.\n[Stan is screaming and running around the house.]\n",
+    "output": "Oh, yes. Hello, Sharon.\n"
+  },
+  {
+    "input": "Oh, yes. Hello, Sharon.\n",
+    "output": "Sheila, I was just wondering if you might know why my son is trying to split his head open with an ice pick?\n[Randy chases him down.]\n"
+  },
+  {
+    "input": "Sheila, I was just wondering if you might know why my son is trying to split his head open with an ice pick?\n[Randy chases him down.]\n",
+    "output": "No! I have to get it out!\n"
+  },
+  {
+    "input": "No! I have to get it out!\n",
+    "output": "Well, Sharon, I was just trying to educate them about conjoined twin myslexia.\n"
+  },
+  {
+    "input": "Well, Sharon, I was just trying to educate them about conjoined twin myslexia.\n",
+    "output": "So this is your fault.\n"
+  },
+  {
+    "input": "So this is your fault.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Dammit, stop.\n[Stan slips from his grasp and he falls.]\n"
+  },
+  {
+    "input": "Dammit, stop.\n[Stan slips from his grasp and he falls.]\n",
+    "output": "Oh!\n[Gets up and chases him.]\n"
+  },
+  {
+    "input": "Oh!\n[Gets up and chases him.]\n",
+    "output": "Dammit!\n"
+  },
+  {
+    "input": "Dammit!\n",
+    "output": "Would you do me a favor? Next time you want to scare the hell out of my child, just go outside and sit in the road until a truck runs you over instead?\n[Click. Stan runs by again, still screaming and pursued by Randy. Sheila is left with a dial tone.]\n"
+  },
+  {
+    "input": "Would you do me a favor? Next time you want to scare the hell out of my child, just go outside and sit in the road until a truck runs you over instead?\n[Click. Stan runs by again, still screaming and pursued by Randy. Sheila is left with a dial tone.]\n",
+    "output": "[Undaunted.] That does it! I must educate the entire town about this awful disease!\n"
+  },
+  {
+    "input": "[Undaunted.] That does it! I must educate the entire town about this awful disease!\n",
+    "output": "Mm-hmm.\n[South Park Elementary Gym.]\n"
+  },
+  {
+    "input": "Mm-hmm.\n[South Park Elementary Gym.]\n",
+    "output": "[To Cartman.] Dude, I don't get it. Why are we playing dodgeball again?\n"
+  },
+  {
+    "input": "[To Cartman.] Dude, I don't get it. Why are we playing dodgeball again?\n",
+    "output": "Yeah. I thought we only played on Fridays.\n"
+  },
+  {
+    "input": "Yeah. I thought we only played on Fridays.\n",
+    "output": "[Arriving with a letter.] Children! Great news! We've been asked to play in the State Finals for dodgeball!\n"
+  },
+  {
+    "input": "[Arriving with a letter.] Children! Great news! We've been asked to play in the State Finals for dodgeball!\n",
+    "output": "Awww...\n"
+  },
+  {
+    "input": "Awww...\n",
+    "output": "Aw, do we have to?\n"
+  },
+  {
+    "input": "Aw, do we have to?\n",
+    "output": "Can't we just play with that big parachute again or something?\n"
+  },
+  {
+    "input": "Can't we just play with that big parachute again or something?\n",
+    "output": "You-you don't understand, children. If we can win State, we can play in the Nationals in Washington, D.C.!\n"
+  },
+  {
+    "input": "You-you don't understand, children. If we can win State, we can play in the Nationals in Washington, D.C.!\n",
+    "output": "Heyh! They have a zoo there!\n"
+  },
+  {
+    "input": "Heyh! They have a zoo there!\n",
+    "output": "That's right! Now, come on! We have a lot of practicing to do!\n[The class separates into teams.]\n"
+  },
+  {
+    "input": "That's right! Now, come on! We have a lot of practicing to do!\n[The class separates into teams.]\n",
+    "output": "Aren't we supposed to have won something in order to go to State Finals?\n"
+  },
+  {
+    "input": "Aren't we supposed to have won something in order to go to State Finals?\n",
+    "output": "Hey, Pip. Do you wanna be on my team again?\n"
+  },
+  {
+    "input": "Hey, Pip. Do you wanna be on my team again?\n",
+    "output": "I'd love to!\n"
+  },
+  {
+    "input": "I'd love to!\n",
+    "output": "Now, let's try not to send anyone to that monster nurse this time, Frenchy.\n"
+  },
+  {
+    "input": "Now, let's try not to send anyone to that monster nurse this time, Frenchy.\n",
+    "output": "Hey! I get quite disturbed when you call me that! You shouldn't make fun of foreigners.\n[He turns and walks away.]\n"
+  },
+  {
+    "input": "Hey! I get quite disturbed when you call me that! You shouldn't make fun of foreigners.\n[He turns and walks away.]\n",
+    "output": "And besides, I hate French people.\n[Chef blows the whistle to begin play. Fosse throws, and Bebe is beaned. The foursome look at her, then laugh while Pip observes.]\n[Principal Victoria's office. She's meeting with Mr. Mackey and Sheila.]\n"
+  },
+  {
+    "input": "And besides, I hate French people.\n[Chef blows the whistle to begin play. Fosse throws, and Bebe is beaned. The foursome look at her, then laugh while Pip observes.]\n[Principal Victoria's office. She's meeting with Mr. Mackey and Sheila.]\n",
+    "output": "Well, Mrs. Broflovski, it certainly is a thrill seeing your cheery face again. What seems to be pissing you off today?\n"
+  },
+  {
+    "input": "Well, Mrs. Broflovski, it certainly is a thrill seeing your cheery face again. What seems to be pissing you off today?\n",
+    "output": "Nothing is pissing me off! I just wanta start a movement.\n"
+  },
+  {
+    "input": "Nothing is pissing me off! I just wanta start a movement.\n",
+    "output": "O-of course you do.\n"
+  },
+  {
+    "input": "O-of course you do.\n",
+    "output": "I want to talk to you all about your school nurse.\n[Principal Victoria and Mackey are surprised.]\n"
+  },
+  {
+    "input": "I want to talk to you all about your school nurse.\n[Principal Victoria and Mackey are surprised.]\n",
+    "output": "Uh, Nurse Gollum is absolutely qualified to be a--\n"
+  },
+  {
+    "input": "Uh, Nurse Gollum is absolutely qualified to be a--\n",
+    "output": "No, no no. I'm not upset about her. I want to make the public aware of her. Her disease should be brought to light so that it can be understood rather than made fun of.\n"
+  },
+  {
+    "input": "No, no no. I'm not upset about her. I want to make the public aware of her. Her disease should be brought to light so that it can be understood rather than made fun of.\n",
+    "output": "Oh, and uh, what disease is that?\n"
+  },
+  {
+    "input": "Oh, and uh, what disease is that?\n",
+    "output": "Uh, Principal Victoria, Nurse Gollum has conjoined twin myslexia.\n"
+  },
+  {
+    "input": "Uh, Principal Victoria, Nurse Gollum has conjoined twin myslexia.\n",
+    "output": "What's that?\n"
+  },
+  {
+    "input": "What's that?\n",
+    "output": "She has a dead fetus attached to her head.\n"
+  },
+  {
+    "input": "She has a dead fetus attached to her head.\n",
+    "output": "[Gasp.] She does?\n"
+  },
+  {
+    "input": "[Gasp.] She does?\n",
+    "output": "Y-you never noticed that?\n"
+  },
+  {
+    "input": "Y-you never noticed that?\n",
+    "output": "No-o, I never did.\n"
+  },
+  {
+    "input": "No-o, I never did.\n",
+    "output": "Well, that's exactly what I'm talking about. This poor woman is forced to live in the shadows because she feels like an outcast. It is up to us to make her feel comfortable and welcome in our town!\n"
+  },
+  {
+    "input": "Well, that's exactly what I'm talking about. This poor woman is forced to live in the shadows because she feels like an outcast. It is up to us to make her feel comfortable and welcome in our town!\n",
+    "output": "Did you say a fetus, sticking out from her head?\n"
+  },
+  {
+    "input": "Did you say a fetus, sticking out from her head?\n",
+    "output": "I want to invite your nurse to a dinner party at my house this evening. I'd appreciate it if both you and Mr. Mackey would attend.\n"
+  },
+  {
+    "input": "I want to invite your nurse to a dinner party at my house this evening. I'd appreciate it if both you and Mr. Mackey would attend.\n",
+    "output": "Do we have to eat kosher stuff?\n"
+  },
+  {
+    "input": "Do we have to eat kosher stuff?\n",
+    "output": "Well, I'll talk to Nurse Gollum, but I'm sure she'll be delighted. Let's say around 8:00?\n"
+  },
+  {
+    "input": "Well, I'll talk to Nurse Gollum, but I'm sure she'll be delighted. Let's say around 8:00?\n",
+    "output": "Wonderful!\n"
+  },
+  {
+    "input": "Wonderful!\n",
+    "output": "Now, you did say she has a fetus on her head?\n[A mountain road. The class is on its way to the State Finals.]\n"
+  },
+  {
+    "input": "Now, you did say she has a fetus on her head?\n[A mountain road. The class is on its way to the State Finals.]\n",
+    "output": "[Rising.] Okay children. [Encouraging] Now, who's gonna win the State Finals?\n[The kids just look at him.]\n"
+  },
+  {
+    "input": "[Rising.] Okay children. [Encouraging] Now, who's gonna win the State Finals?\n[The kids just look at him.]\n",
+    "output": "Denver?\n"
+  },
+  {
+    "input": "Denver?\n",
+    "output": "Here we go Ca-ows, here we go: Unh, unh!\nHere we go Ca-ows, here we go: Unh, unh!\n[The kids just look at him. He looks back, then turns to Ms. Crabtree.]\n"
+  },
+  {
+    "input": "Here we go Ca-ows, here we go: Unh, unh!\nHere we go Ca-ows, here we go: Unh, unh!\n[The kids just look at him. He looks back, then turns to Ms. Crabtree.]\n",
+    "output": "I think we need to get off on this exit.\n"
+  },
+  {
+    "input": "I think we need to get off on this exit.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "But it's quicker to get to the Denver school that way!\n"
+  },
+  {
+    "input": "But it's quicker to get to the Denver school that way!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "How many times do I have to explain this to you?! I'm not a student! You can't give me an office referral, and-!\n"
+  },
+  {
+    "input": "How many times do I have to explain this to you?! I'm not a student! You can't give me an office referral, and-!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Sits down.] Yes, ma'am.\n[The kids arrive at Denver Elementary.]\n"
+  },
+  {
+    "input": "[Sits down.] Yes, ma'am.\n[The kids arrive at Denver Elementary.]\n",
+    "output": "Whoa, dude, this is a school?\n[The crowd is cheering. Cows fans are scattered among the crowd.]\n"
+  },
+  {
+    "input": "Whoa, dude, this is a school?\n[The crowd is cheering. Cows fans are scattered among the crowd.]\n",
+    "output": "Hello, there. I'm Bob Thomas, the coach for the Denver Cougars.\n[He slaps Chef on the back.]\n"
+  },
+  {
+    "input": "Hello, there. I'm Bob Thomas, the coach for the Denver Cougars.\n[He slaps Chef on the back.]\n",
+    "output": "I'm Chef, coach of the South Park Cows.\n"
+  },
+  {
+    "input": "I'm Chef, coach of the South Park Cows.\n",
+    "output": "Well, I certainly want to thank you for bringing your team down. Apparently, nobody else would play us, because they knew we'd just beat 'em silly. So I told the school board to find me some hick school from the mountains, and here you are.\n[Chef is pissed.]\n"
+  },
+  {
+    "input": "Well, I certainly want to thank you for bringing your team down. Apparently, nobody else would play us, because they knew we'd just beat 'em silly. So I told the school board to find me some hick school from the mountains, and here you are.\n[Chef is pissed.]\n",
+    "output": "You're from South Park, yeah?\n"
+  },
+  {
+    "input": "You're from South Park, yeah?\n",
+    "output": "[In a low tone.] Yeah.\n"
+  },
+  {
+    "input": "[In a low tone.] Yeah.\n",
+    "output": "My G-hod, amazing where people can live nowadays. Well, we might as well get this over with; we've gotta start thinking about D.C. Promise we won't make it too painful.\n[He slaps Chef on the back again and leaves. Chef wonders, then gets mad again as the whistle blows.]\n"
+  },
+  {
+    "input": "My G-hod, amazing where people can live nowadays. Well, we might as well get this over with; we've gotta start thinking about D.C. Promise we won't make it too painful.\n[He slaps Chef on the back again and leaves. Chef wonders, then gets mad again as the whistle blows.]\n",
+    "output": "Play ball!\n[Dinner at the Broflovski house. Principal Victoria, Mr. Mackey, and Nurse Gollum are there, with her conjoined fetus out of view.]\n"
+  },
+  {
+    "input": "Play ball!\n[Dinner at the Broflovski house. Principal Victoria, Mr. Mackey, and Nurse Gollum are there, with her conjoined fetus out of view.]\n",
+    "output": "So, uhh, where did you get your degree, Nurse Gollum?\n"
+  },
+  {
+    "input": "So, uhh, where did you get your degree, Nurse Gollum?\n",
+    "output": "Colorado State.\n"
+  },
+  {
+    "input": "Colorado State.\n",
+    "output": "Ahhh.\n"
+  },
+  {
+    "input": "Ahhh.\n",
+    "output": "Oh.\n[They resume eating in silence.]\n"
+  },
+  {
+    "input": "Oh.\n[They resume eating in silence.]\n",
+    "output": "Sheila, could you pass me the dead fetus?\n[Sheila looks at Nurse Gollum, then glares at Gerald.]\n"
+  },
+  {
+    "input": "Sheila, could you pass me the dead fetus?\n[Sheila looks at Nurse Gollum, then glares at Gerald.]\n",
+    "output": "I mean, gravy.\n[Sheila kicks him on the shins.]\n"
+  },
+  {
+    "input": "I mean, gravy.\n[Sheila kicks him on the shins.]\n",
+    "output": "Ow!\n[Denver Elementary. The Cougars are serving. Player 1 throws the ball, and it hits Tolkien, who goes down.]\n"
+  },
+  {
+    "input": "Ow!\n[Denver Elementary. The Cougars are serving. Player 1 throws the ball, and it hits Tolkien, who goes down.]\n",
+    "output": "Ow!\n[The Cougar fans cheer.]\n"
+  },
+  {
+    "input": "Ow!\n[The Cougar fans cheer.]\n",
+    "output": "Dammit, come on!\n[Clyde, Butters, and Kevin are already out.]\n"
+  },
+  {
+    "input": "Dammit, come on!\n[Clyde, Butters, and Kevin are already out.]\n",
+    "output": "Somebody catch the ball!\n[Only Pip and the Boys remain.]\n"
+  },
+  {
+    "input": "Somebody catch the ball!\n[Only Pip and the Boys remain.]\n",
+    "output": "All right, boys, just five more of the little bastards to go!\n[Player 1 serves again, and the ball hits Cartman in the belly where it gets stuck.]\n"
+  },
+  {
+    "input": "All right, boys, just five more of the little bastards to go!\n[Player 1 serves again, and the ball hits Cartman in the belly where it gets stuck.]\n",
+    "output": "I caught it, I caught it!\n"
+  },
+  {
+    "input": "I caught it, I caught it!\n",
+    "output": "Oh, that's not fair! He's so fat, it stuck in his belly!\n"
+  },
+  {
+    "input": "Oh, that's not fair! He's so fat, it stuck in his belly!\n",
+    "output": "South Park on offense!\n"
+  },
+  {
+    "input": "South Park on offense!\n",
+    "output": "Great job, children! Just stay focused now.\n"
+  },
+  {
+    "input": "Great job, children! Just stay focused now.\n",
+    "output": "Go for it, Pip.\n[Kyle tosses the ball over to Pip.]\n"
+  },
+  {
+    "input": "Go for it, Pip.\n[Kyle tosses the ball over to Pip.]\n",
+    "output": "Oh, bother.\n"
+  },
+  {
+    "input": "Oh, bother.\n",
+    "output": "Come on, you Frenchy little frog!\n"
+  },
+  {
+    "input": "Come on, you Frenchy little frog!\n",
+    "output": "Gagghh!\n[Pip hurls the ball at the other team and knocks down players 1 and 13.]\n"
+  },
+  {
+    "input": "Gagghh!\n[Pip hurls the ball at the other team and knocks down players 1 and 13.]\n",
+    "output": "Whoa-ho-ho-ho! Great shot, Pip!\n[Back at Broflovski's.]\n"
+  },
+  {
+    "input": "Whoa-ho-ho-ho! Great shot, Pip!\n[Back at Broflovski's.]\n",
+    "output": "Eh, sooo, I hear that the South Park Cows are playing for the State Finals in dodgeball tonight.\n"
+  },
+  {
+    "input": "Eh, sooo, I hear that the South Park Cows are playing for the State Finals in dodgeball tonight.\n",
+    "output": "Yeah, but you know, it-it doesn't matter though. The-the Denver team always wins, m'kay?\n"
+  },
+  {
+    "input": "Yeah, but you know, it-it doesn't matter though. The-the Denver team always wins, m'kay?\n",
+    "output": "Oh, I don't know. I think our boys might just have the dead fetus to win-- Heart!\n"
+  },
+  {
+    "input": "Oh, I don't know. I think our boys might just have the dead fetus to win-- Heart!\n",
+    "output": "Gerald!\n[Sheila smacks him off his chair.]\n"
+  },
+  {
+    "input": "Gerald!\n[Sheila smacks him off his chair.]\n",
+    "output": "Keep your damn mouth shut!\n"
+  },
+  {
+    "input": "Keep your damn mouth shut!\n",
+    "output": "I-it's okay, Ms. Broflovski. Really.\n"
+  },
+  {
+    "input": "I-it's okay, Ms. Broflovski. Really.\n",
+    "output": "[Exhales.] Please forgive us. I-I'm terribly sorry, Nurse Gollum.\n"
+  },
+  {
+    "input": "[Exhales.] Please forgive us. I-I'm terribly sorry, Nurse Gollum.\n",
+    "output": "No, I'm quite secure with it.\n"
+  },
+  {
+    "input": "No, I'm quite secure with it.\n",
+    "output": "I have felt so bad ever since I heard the boys making fun of you--\n"
+  },
+  {
+    "input": "I have felt so bad ever since I heard the boys making fun of you--\n",
+    "output": "They're just young boys. Joking is a way for them to come to terms with what they don't understand.\n"
+  },
+  {
+    "input": "They're just young boys. Joking is a way for them to come to terms with what they don't understand.\n",
+    "output": "Could I get some more pork?\n"
+  },
+  {
+    "input": "Could I get some more pork?\n",
+    "output": "So did you ever think of just, you know, having it cut off?\n"
+  },
+  {
+    "input": "So did you ever think of just, you know, having it cut off?\n",
+    "output": "Yes, Principal Victoria, the thought had occurred to me. Unfortunately, it would mean my death.\n"
+  },
+  {
+    "input": "Yes, Principal Victoria, the thought had occurred to me. Unfortunately, it would mean my death.\n",
+    "output": "Ooohh, so I suppose that's out. Uh-how about a hat, then?\n"
+  },
+  {
+    "input": "Ooohh, so I suppose that's out. Uh-how about a hat, then?\n",
+    "output": "No, really, I don't need a--\n"
+  },
+  {
+    "input": "No, really, I don't need a--\n",
+    "output": "Yes, we could get you a few hats and wear a different one every day. No big whoop.\n"
+  },
+  {
+    "input": "Yes, we could get you a few hats and wear a different one every day. No big whoop.\n",
+    "output": "I really appreciate what you're trying to do here, but it's not necessary. I'm a pretty happy person.\n"
+  },
+  {
+    "input": "I really appreciate what you're trying to do here, but it's not necessary. I'm a pretty happy person.\n",
+    "output": "I've got it! We could set aside a whole week to make the public aware of folks just like you.\n"
+  },
+  {
+    "input": "I've got it! We could set aside a whole week to make the public aware of folks just like you.\n",
+    "output": "Ooohh, yeess, a Conjoined Twin Myslexia Awareness Week. You know, that has a nice ring.\n"
+  },
+  {
+    "input": "Ooohh, yeess, a Conjoined Twin Myslexia Awareness Week. You know, that has a nice ring.\n",
+    "output": "But I really don't think--\n"
+  },
+  {
+    "input": "But I really don't think--\n",
+    "output": "Th-the school could put out pamphlets, m'kay? And we could have seminars to educate, m'kay?\n"
+  },
+  {
+    "input": "Th-the school could put out pamphlets, m'kay? And we could have seminars to educate, m'kay?\n",
+    "output": "Ooooh, this is so exciting! I'm gonna get the mayor on the phone right now!\n[Sheila leaves with Mr. Mackey and Principal Victoria. Nurse Gollum and Gerald look at each other. Gerald winces.]\n[Meanwhile at the Dodgeball State Finals.]\n"
+  },
+  {
+    "input": "Ooooh, this is so exciting! I'm gonna get the mayor on the phone right now!\n[Sheila leaves with Mr. Mackey and Principal Victoria. Nurse Gollum and Gerald look at each other. Gerald winces.]\n[Meanwhile at the Dodgeball State Finals.]\n",
+    "output": "You got just one more, Pip. You get this kid, and we are State Champions.\n"
+  },
+  {
+    "input": "You got just one more, Pip. You get this kid, and we are State Champions.\n",
+    "output": "Yeah, and if you don't, you're a big dumb-ass European hippie piece of crap.\n[Pip gets pissed and winds up.]\n"
+  },
+  {
+    "input": "Yeah, and if you don't, you're a big dumb-ass European hippie piece of crap.\n[Pip gets pissed and winds up.]\n",
+    "output": "Get him, Frenchy!\n"
+  },
+  {
+    "input": "Get him, Frenchy!\n",
+    "output": "Gaagghh!\n[Pip hurls the ball across the court where it hits player 6 on the nose. The player goes down.]\n"
+  },
+  {
+    "input": "Gaagghh!\n[Pip hurls the ball across the court where it hits player 6 on the nose. The player goes down.]\n",
+    "output": "South Park wins!\n[Coach Thomas is in utter disbelief as the victory music plays.]\n"
+  },
+  {
+    "input": "South Park wins!\n[Coach Thomas is in utter disbelief as the victory music plays.]\n",
+    "output": "We did it, children, we did it! We're going to Washington, D.C.!\n"
+  },
+  {
+    "input": "We did it, children, we did it! We're going to Washington, D.C.!\n",
+    "output": "Uh-hu-hu-hu-howieee!\n[A group of parents looks on as an injured player on the opposing team writhes on the floor in pain.]\n"
+  },
+  {
+    "input": "Uh-hu-hu-hu-howieee!\n[A group of parents looks on as an injured player on the opposing team writhes on the floor in pain.]\n",
+    "output": "It hur-hurts! Owieee!\n[Two clowns come out with a stretcher and place it next to him.]\n"
+  },
+  {
+    "input": "It hur-hurts! Owieee!\n[Two clowns come out with a stretcher and place it next to him.]\n",
+    "output": "Mommy, it huurts! I-it hur-hurts!\n[The clowns do a little jig, and the parents laugh. The clowns place him on the other side of the stretcher, then pick up the stretcher and walk away. The boy is left on the floor. The parents applaud.]\n"
+  },
+  {
+    "input": "Mommy, it huurts! I-it hur-hurts!\n[The clowns do a little jig, and the parents laugh. The clowns place him on the other side of the stretcher, then pick up the stretcher and walk away. The boy is left on the floor. The parents applaud.]\n",
+    "output": "Oh, sorry about whoopin' your ass there, Coach!\nOooh, baby, come on\nJust whooped Denver's ass\nGonna need some cream for your ass\nIt's all swollen and red\n[Chef dances, and shows off his butt several times. He also turns to make sure Coach Thomas is watching.]\n[Meanwhile, at the South Park Town Square.]\n"
+  },
+  {
+    "input": "Oh, sorry about whoopin' your ass there, Coach!\nOooh, baby, come on\nJust whooped Denver's ass\nGonna need some cream for your ass\nIt's all swollen and red\n[Chef dances, and shows off his butt several times. He also turns to make sure Coach Thomas is watching.]\n[Meanwhile, at the South Park Town Square.]\n",
+    "output": "Ladies and gentlemen, this is indeed a great week for South Park. Ms. Hermans has opened the east wing of the library, and our own South Park Cows Elementary School Dodgeball Team is going to the national finals...\n[The crowd cheers wildly.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, this is indeed a great week for South Park. Ms. Hermans has opened the east wing of the library, and our own South Park Cows Elementary School Dodgeball Team is going to the national finals...\n[The crowd cheers wildly.]\n",
+    "output": "...where they will undoubtedly be beaten senseless by the Washington team.\n[The Broflovskis are not amused. The crowd quiets down.]\n"
+  },
+  {
+    "input": "...where they will undoubtedly be beaten senseless by the Washington team.\n[The Broflovskis are not amused. The crowd quiets down.]\n",
+    "output": "But most importantly, this week has brought to my attention a very serious and dreaded disease: conjoined twin myslexia. And so it is in honor of this that I declare this exciting week as Conjoined Twin Myslexia Week!\n[The crowd cheer louder.]\n"
+  },
+  {
+    "input": "But most importantly, this week has brought to my attention a very serious and dreaded disease: conjoined twin myslexia. And so it is in honor of this that I declare this exciting week as Conjoined Twin Myslexia Week!\n[The crowd cheer louder.]\n",
+    "output": "And now, let's kick off our week long festivities with the first annual Grand Conjoined Parade!\n[More cheering. There are people on rooftops all over the square cheering as well.]\n"
+  },
+  {
+    "input": "And now, let's kick off our week long festivities with the first annual Grand Conjoined Parade!\n[More cheering. There are people on rooftops all over the square cheering as well.]\n",
+    "output": "Let's hear it for these brave souls!\n[The band starts playing festive music. The crowd cheers up and down as Nurse Gollum walks down the street, alone. She looks around and waves.]\n"
+  },
+  {
+    "input": "Let's hear it for these brave souls!\n[The band starts playing festive music. The crowd cheers up and down as Nurse Gollum walks down the street, alone. She looks around and waves.]\n",
+    "output": "What a glorious parade that was! Let's hear it for the parade coordinators!\n[Nine men are shown, and they cheer back. Nurse Gollum is now next to Mayor McDaniels at the podium.]\n"
+  },
+  {
+    "input": "What a glorious parade that was! Let's hear it for the parade coordinators!\n[Nine men are shown, and they cheer back. Nurse Gollum is now next to Mayor McDaniels at the podium.]\n",
+    "output": "You know, Mayor, I really should be accompanying those kids to Washington in case they get hurt. That is my job.\n"
+  },
+  {
+    "input": "You know, Mayor, I really should be accompanying those kids to Washington in case they get hurt. That is my job.\n",
+    "output": "[The mic is still on.] Nonsense. This is your week. You aren't going anywhere.\n[Somewhere near Washington, D.C. The bus is going through a lovely meadow.]\n"
+  },
+  {
+    "input": "[The mic is still on.] Nonsense. This is your week. You aren't going anywhere.\n[Somewhere near Washington, D.C. The bus is going through a lovely meadow.]\n",
+    "output": "How much further is Washington, D.C.?\n"
+  },
+  {
+    "input": "How much further is Washington, D.C.?\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I need to know how far it is, lady!\n"
+  },
+  {
+    "input": "I need to know how far it is, lady!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Grumbling.] Yeah, whatever, you old, dried-up, fat hog.\n"
+  },
+  {
+    "input": "[Grumbling.] Yeah, whatever, you old, dried-up, fat hog.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "I said, \"I've always wanted to visit Prague.\"\n"
+  },
+  {
+    "input": "I said, \"I've always wanted to visit Prague.\"\n",
+    "output": "Oh, me too.\n[Clyde munches away.]\n"
+  },
+  {
+    "input": "Oh, me too.\n[Clyde munches away.]\n",
+    "output": "[To Kyle.] Okay, what have you got?\n"
+  },
+  {
+    "input": "[To Kyle.] Okay, what have you got?\n",
+    "output": "Some hadka fish, some gafagga...\n"
+  },
+  {
+    "input": "Some hadka fish, some gafagga...\n",
+    "output": "[Quickly.] I got a jelly roll! I got a jelly roll!\n[Kenny pulls out a bone.]\n"
+  },
+  {
+    "input": "[Quickly.] I got a jelly roll! I got a jelly roll!\n[Kenny pulls out a bone.]\n",
+    "output": "Sweet! A jelly roll is perfect!\n[Stan takes one end of a short bungee cord while Cartman holds the other end.]\n"
+  },
+  {
+    "input": "Sweet! A jelly roll is perfect!\n[Stan takes one end of a short bungee cord while Cartman holds the other end.]\n",
+    "output": "Places!\n[Stan gives his end to Kyle and takes the jelly roll. He places the jelly roll in the makeshift slingshot, pulls back, and fires away. All three smile as the roll flies forward. It hits Mrs. Crabtree on the back of her head.]\n"
+  },
+  {
+    "input": "Places!\n[Stan gives his end to Kyle and takes the jelly roll. He places the jelly roll in the makeshift slingshot, pulls back, and fires away. All three smile as the roll flies forward. It hits Mrs. Crabtree on the back of her head.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[She loses control of the bus as it careens down the road.]\n"
+  },
+  {
+    "input": "[She loses control of the bus as it careens down the road.]\n",
+    "output": "Whoa!\n"
+  },
+  {
+    "input": "Whoa!\n",
+    "output": "(Sheesh!)\n[A tourist sees the bus coming his way and tries to get out of the way, but the bus crashes into the Vietnam Memorial's right wall, and the engine bursts into flames. He was thrown to one side. The right wall drops down three feet, taking the front end of the bus with it and raising the back of the bus off the ground five feet. Both front doors fall off.]\n[Ulysses Grant Elementary. Inside, the gym is filled with championship banners going back to 1987 hang from the rafters. Posters line the walls.]\n"
+  },
+  {
+    "input": "(Sheesh!)\n[A tourist sees the bus coming his way and tries to get out of the way, but the bus crashes into the Vietnam Memorial's right wall, and the engine bursts into flames. He was thrown to one side. The right wall drops down three feet, taking the front end of the bus with it and raising the back of the bus off the ground five feet. Both front doors fall off.]\n[Ulysses Grant Elementary. Inside, the gym is filled with championship banners going back to 1987 hang from the rafters. Posters line the walls.]\n",
+    "output": "Damn, man. This is the big time, alright.\n"
+  },
+  {
+    "input": "Damn, man. This is the big time, alright.\n",
+    "output": "Chef, we're hungry.\n"
+  },
+  {
+    "input": "Chef, we're hungry.\n",
+    "output": "You can eat after the game. You children win this one, and you're National Champions! Then you can go on and play the Chinese.\n"
+  },
+  {
+    "input": "You can eat after the game. You children win this one, and you're National Champions! Then you can go on and play the Chinese.\n",
+    "output": "My mom says there's a lot of black people in China.\n"
+  },
+  {
+    "input": "My mom says there's a lot of black people in China.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Are you Chef?\n"
+  },
+  {
+    "input": "Are you Chef?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "The Washington team has forfeited the game. Congratulations, you're national champions.\n"
+  },
+  {
+    "input": "The Washington team has forfeited the game. Congratulations, you're national champions.\n",
+    "output": "What? We did it! Children, we won!\n"
+  },
+  {
+    "input": "What? We did it! Children, we won!\n",
+    "output": "Wow, that was easy.\n"
+  },
+  {
+    "input": "Wow, that was easy.\n",
+    "output": "Ladies and gentlemen, let's hear a round of applause for the new national champions of dodgeball, the South Park Cows!\n[Everyone boos as Kyle rushes over to the opposing team.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, let's hear a round of applause for the new national champions of dodgeball, the South Park Cows!\n[Everyone boos as Kyle rushes over to the opposing team.]\n",
+    "output": "Hey, why did you guys forfeit?\n"
+  },
+  {
+    "input": "Hey, why did you guys forfeit?\n",
+    "output": "You mean you don't know?\n"
+  },
+  {
+    "input": "You mean you don't know?\n",
+    "output": "Know what?\n"
+  },
+  {
+    "input": "Know what?\n",
+    "output": "Last year's national champions were the Austin Pirates. They played China for the world championship. Only four of them came back alive. Chinese dodgeball players aren't like us.\n[A temple scene comes up. A squad of Chinese kids are exercising as their master gives orders. Some of them are being acrobatic, others throw solid kettle-bells at each other.]\n"
+  },
+  {
+    "input": "Last year's national champions were the Austin Pirates. They played China for the world championship. Only four of them came back alive. Chinese dodgeball players aren't like us.\n[A temple scene comes up. A squad of Chinese kids are exercising as their master gives orders. Some of them are being acrobatic, others throw solid kettle-bells at each other.]\n",
+    "output": "Bush langli. Woon taun. Waya ching gia!\n"
+  },
+  {
+    "input": "Bush langli. Woon taun. Waya ching gia!\n",
+    "output": "[Voice-over.] They do nothing but dodgeball, day in, and day out. They use steroids and advanced training equipment to make them, not kids, but animals.\n[Each kid is handed a bowling ball, which he or she throws against a brick wall. The wall crumbles further with every throw. The scene fades, and the foursome are standing there, awed.]\n"
+  },
+  {
+    "input": "[Voice-over.] They do nothing but dodgeball, day in, and day out. They use steroids and advanced training equipment to make them, not kids, but animals.\n[Each kid is handed a bowling ball, which he or she throws against a brick wall. The wall crumbles further with every throw. The scene fades, and the foursome are standing there, awed.]\n",
+    "output": "Well, good luck. We've got our futures to think about.\n[He hops off and leaves as Chef comes over.]\n"
+  },
+  {
+    "input": "Well, good luck. We've got our futures to think about.\n[He hops off and leaves as Chef comes over.]\n",
+    "output": "Okay, children, back in the bus.\n[South Park City Hall. Many people are seated at table waiting for the evening's events to unfold.]\n"
+  },
+  {
+    "input": "Okay, children, back in the bus.\n[South Park City Hall. Many people are seated at table waiting for the evening's events to unfold.]\n",
+    "output": "And so, at this honorary dinner we take a look back at our beloved Nurse Gollum and the brave life she has lived. Roll the tape, please, Mr. Garrison.\n[He starts up the player. He's in a nice tuxedo. Nurse Gollum is quite embarrassed as she sits with Sharon in the crowd.]\n"
+  },
+  {
+    "input": "And so, at this honorary dinner we take a look back at our beloved Nurse Gollum and the brave life she has lived. Roll the tape, please, Mr. Garrison.\n[He starts up the player. He's in a nice tuxedo. Nurse Gollum is quite embarrassed as she sits with Sharon in the crowd.]\n",
+    "output": "Oh, no..!\n"
+  },
+  {
+    "input": "Oh, no..!\n",
+    "output": "[The video begins.]\nYou've got the strength, you've got the courage\nEven with a dead fetus on your head\nYou carry on\nYou fight for tomorrow\nDead fetus or no, you never let go\nYou're my conjoined-twin-dead-thing-hanging-off-your-head woman\n[Scenes from the video:\nShe's painting her house orange, and annoyed that Garrison is filming it.\nShe looks out the window, and is annoyed that he is still there, filming.\nShe's in her office.\nShe's at the supermarket, annoyed, she's trying to cover the camera lens so Garrison would stop filming.\nAt the post office, she's trying to shoo him away, she's very angry that he's filming her.\nShe's on the toilet, and she clamps her legs shut, with hands before them for added security. She's outraged.]\n[There are sobs here and there, a smattering of applause.]\n"
+  },
+  {
+    "input": "[The video begins.]\nYou've got the strength, you've got the courage\nEven with a dead fetus on your head\nYou carry on\nYou fight for tomorrow\nDead fetus or no, you never let go\nYou're my conjoined-twin-dead-thing-hanging-off-your-head woman\n[Scenes from the video:\nShe's painting her house orange, and annoyed that Garrison is filming it.\nShe looks out the window, and is annoyed that he is still there, filming.\nShe's in her office.\nShe's at the supermarket, annoyed, she's trying to cover the camera lens so Garrison would stop filming.\nAt the post office, she's trying to shoo him away, she's very angry that he's filming her.\nShe's on the toilet, and she clamps her legs shut, with hands before them for added security. She's outraged.]\n[There are sobs here and there, a smattering of applause.]\n",
+    "output": "Oh, that was so touching.\n"
+  },
+  {
+    "input": "Oh, that was so touching.\n",
+    "output": "[With envelope in hand.] And now, friends, it's time to present the Lifetime Conjoined Twin Achievement Award. This award goes to outstanding conjoined twins who have made a mark on society. And the winner is... [Reaches into the envelope.]\n"
+  },
+  {
+    "input": "[With envelope in hand.] And now, friends, it's time to present the Lifetime Conjoined Twin Achievement Award. This award goes to outstanding conjoined twins who have made a mark on society. And the winner is... [Reaches into the envelope.]\n",
+    "output": "[Derisively.] Nurse Gollum.\n"
+  },
+  {
+    "input": "[Derisively.] Nurse Gollum.\n",
+    "output": "Nurse Gollum!!\n[The room applauds and the spotlight moves from the Mayor to the nurse.]\n"
+  },
+  {
+    "input": "Nurse Gollum!!\n[The room applauds and the spotlight moves from the Mayor to the nurse.]\n",
+    "output": "Oh, boy.\n"
+  },
+  {
+    "input": "Oh, boy.\n",
+    "output": "[Interrupting.] Excuse me, Mayor, but I just received some news that you might all be interested in.\n[Jimbo takes the microphone.]\n"
+  },
+  {
+    "input": "[Interrupting.] Excuse me, Mayor, but I just received some news that you might all be interested in.\n[Jimbo takes the microphone.]\n",
+    "output": "Our South Park Cows have just beaten the Washington dodgeball team, and are on their way to the world championship in China.\n[The crowd erupts in applause, meanwhile somewhere near China. The bus is going down a slope.]\n"
+  },
+  {
+    "input": "Our South Park Cows have just beaten the Washington dodgeball team, and are on their way to the world championship in China.\n[The crowd erupts in applause, meanwhile somewhere near China. The bus is going down a slope.]\n",
+    "output": "Okay, children, now, we're almost to China. I want you all to try and focus on your game.\n"
+  },
+  {
+    "input": "Okay, children, now, we're almost to China. I want you all to try and focus on your game.\n",
+    "output": "But Chef, we don't wanna play the Chinese!\n"
+  },
+  {
+    "input": "But Chef, we don't wanna play the Chinese!\n",
+    "output": "Nonsense! If we win this one, we're world champions.\n"
+  },
+  {
+    "input": "Nonsense! If we win this one, we're world champions.\n",
+    "output": "But we could get killed!\n"
+  },
+  {
+    "input": "But we could get killed!\n",
+    "output": "And just what price would you pay for eternal glory?\n[Stan and Kyle fall silent.]\n"
+  },
+  {
+    "input": "And just what price would you pay for eternal glory?\n[Stan and Kyle fall silent.]\n",
+    "output": "Just imagine: a big yellow \"Dodgeball Champions\" banner hanging in the cafeteria! Imagine it!\n"
+  },
+  {
+    "input": "Just imagine: a big yellow \"Dodgeball Champions\" banner hanging in the cafeteria! Imagine it!\n",
+    "output": "Dude, Chef has lost it.\n"
+  },
+  {
+    "input": "Dude, Chef has lost it.\n",
+    "output": "You'll be in the news all over the world. South Park will finally have a sport that it's good at. Ohh, children, it'll be glorious!\n"
+  },
+  {
+    "input": "You'll be in the news all over the world. South Park will finally have a sport that it's good at. Ohh, children, it'll be glorious!\n",
+    "output": "So, Captain Ahab has to get his whale, huh?\n[Chef looks at him.]\n"
+  },
+  {
+    "input": "So, Captain Ahab has to get his whale, huh?\n[Chef looks at him.]\n",
+    "output": "Dude, what does that mean?\n"
+  },
+  {
+    "input": "Dude, what does that mean?\n",
+    "output": "I dunno.\n"
+  },
+  {
+    "input": "I dunno.\n",
+    "output": "Hey, isn't that kid Kevin Chinese?\n[Kevin looks back.]\n"
+  },
+  {
+    "input": "Hey, isn't that kid Kevin Chinese?\n[Kevin looks back.]\n",
+    "output": "Yeah, you're from China.\n"
+  },
+  {
+    "input": "Yeah, you're from China.\n",
+    "output": "No, I'm from America. My parents are Chinese.\n"
+  },
+  {
+    "input": "No, I'm from America. My parents are Chinese.\n",
+    "output": "Tell us how the Chinese play dodgeball!\n"
+  },
+  {
+    "input": "Tell us how the Chinese play dodgeball!\n",
+    "output": "I have no idea, dude.\n"
+  },
+  {
+    "input": "I have no idea, dude.\n",
+    "output": "Come on, rice picker!\n"
+  },
+  {
+    "input": "Come on, rice picker!\n",
+    "output": "Hey, hey hey!\n[Cartman hides his hands.]\n"
+  },
+  {
+    "input": "Hey, hey hey!\n[Cartman hides his hands.]\n",
+    "output": "Children, that's not cool! You don't make fun of somebody because of their ethnicity.\n"
+  },
+  {
+    "input": "Children, that's not cool! You don't make fun of somebody because of their ethnicity.\n",
+    "output": "You don't?\n"
+  },
+  {
+    "input": "You don't?\n",
+    "output": "But Chef, you just ripped on Chinese people.\n"
+  },
+  {
+    "input": "But Chef, you just ripped on Chinese people.\n",
+    "output": "No, no, no, no, no, that's different. I made fun of them because they are from China. You see, it's not okay to make fun of an American because they're black, brown, or whatever, but it is okay to make fun of foreigners because they are from another country.\n"
+  },
+  {
+    "input": "No, no, no, no, no, that's different. I made fun of them because they are from China. You see, it's not okay to make fun of an American because they're black, brown, or whatever, but it is okay to make fun of foreigners because they are from another country.\n",
+    "output": "Ohhh.\n"
+  },
+  {
+    "input": "Ohhh.\n",
+    "output": "[At the same time.] Oooh, I get it.\n"
+  },
+  {
+    "input": "[At the same time.] Oooh, I get it.\n",
+    "output": "[Vindicated.] Yeah.\n[The bus has reached the temple. On the side is a banner that reads: Go Cows!]\n"
+  },
+  {
+    "input": "[Vindicated.] Yeah.\n[The bus has reached the temple. On the side is a banner that reads: Go Cows!]\n",
+    "output": "[Slamming on the brakes.] AAAGGGGHHHH!\n"
+  },
+  {
+    "input": "[Slamming on the brakes.] AAAGGGGHHHH!\n",
+    "output": "Hiit ita wita great pride, that huwe huwelcome ourn American friend. Now let the...\n[He thumps the table, and his partner's mic falls.]\n"
+  },
+  {
+    "input": "Hiit ita wita great pride, that huwe huwelcome ourn American friend. Now let the...\n[He thumps the table, and his partner's mic falls.]\n",
+    "output": "...champion of dodgeball be deshide!\n[His partner resets the mic, a muscular man bangs away on a kodo drum, and musicians next to him start playing. The crowd cheers, and dancers come up and unfurl streamers.]\n"
+  },
+  {
+    "input": "...champion of dodgeball be deshide!\n[His partner resets the mic, a muscular man bangs away on a kodo drum, and musicians next to him start playing. The crowd cheers, and dancers come up and unfurl streamers.]\n",
+    "output": "Damn, dude. China's fucked up.\n"
+  },
+  {
+    "input": "Damn, dude. China's fucked up.\n",
+    "output": "Take places!\n"
+  },
+  {
+    "input": "Take places!\n",
+    "output": "All right, let's go, Cows! Let's show 'em what we've got!\n"
+  },
+  {
+    "input": "All right, let's go, Cows! Let's show 'em what we've got!\n",
+    "output": "Okay, Tom, rooks rike A-mericans are getting ready to play. I don't suppose they'll have any problems seeing the ball with their big American eyes!\n[They laugh.]\n"
+  },
+  {
+    "input": "Okay, Tom, rooks rike A-mericans are getting ready to play. I don't suppose they'll have any problems seeing the ball with their big American eyes!\n[They laugh.]\n",
+    "output": "Yeah. Good thing they have those big eyes so that they don't have to rery on that amazing American interrect.\n[He laughs.]\n"
+  },
+  {
+    "input": "Yeah. Good thing they have those big eyes so that they don't have to rery on that amazing American interrect.\n[He laughs.]\n",
+    "output": "Oh, you say such things.\n"
+  },
+  {
+    "input": "Oh, you say such things.\n",
+    "output": "That's a zinger!\n"
+  },
+  {
+    "input": "That's a zinger!\n",
+    "output": "Praaayyy braal!\n[The Chinese serve. The first one out is Clyde, who tumbles all the way to the wall.]\n"
+  },
+  {
+    "input": "Praaayyy braal!\n[The Chinese serve. The first one out is Clyde, who tumbles all the way to the wall.]\n",
+    "output": "Holy crap..!\n[Kyle is hit, twice, before he goes down.]\n"
+  },
+  {
+    "input": "Holy crap..!\n[Kyle is hit, twice, before he goes down.]\n",
+    "output": "Goddamn...\n"
+  },
+  {
+    "input": "Goddamn...\n",
+    "output": "Hey, hey, what do you call white American person with PhD in a physics and-a math?\n"
+  },
+  {
+    "input": "Hey, hey, what do you call white American person with PhD in a physics and-a math?\n",
+    "output": "Ah, I don't know. What?\n"
+  },
+  {
+    "input": "Ah, I don't know. What?\n",
+    "output": "Stupid American!\n[He laughs.]\n"
+  },
+  {
+    "input": "Stupid American!\n[He laughs.]\n",
+    "output": "Aw, no way!!\n[Tom starts laughing.]\n[A Chinese player takes aim at Cartman, who turns and runs away squealing. The ball gets him anyway, and he tumbles away.]\n"
+  },
+  {
+    "input": "Aw, no way!!\n[Tom starts laughing.]\n[A Chinese player takes aim at Cartman, who turns and runs away squealing. The ball gets him anyway, and he tumbles away.]\n",
+    "output": "Oooh, another American is down! It's numbuh-- uuhhh... Oh, I don't know. All American look alike!\n[They laugh, as a Chinese player serves and hits Kenny with such force that the ball picks him up and splatters him against the wall, then bounces up and away. Paint falls away and cracks are left in the wall. Blood pours out quickly. The crowd jumps up and cheers.]\n"
+  },
+  {
+    "input": "Oooh, another American is down! It's numbuh-- uuhhh... Oh, I don't know. All American look alike!\n[They laugh, as a Chinese player serves and hits Kenny with such force that the ball picks him up and splatters him against the wall, then bounces up and away. Paint falls away and cracks are left in the wall. Blood pours out quickly. The crowd jumps up and cheers.]\n",
+    "output": "Oh my God, they killed Kenny!\n"
+  },
+  {
+    "input": "Oh my God, they killed Kenny!\n",
+    "output": "[Laying on his side and out of breath.] You... bastards...\n"
+  },
+  {
+    "input": "[Laying on his side and out of breath.] You... bastards...\n",
+    "output": "Oooh, my, I haven't seen an American die like that since Abraham Lincoln!\n[He chuckles.]\n"
+  },
+  {
+    "input": "Oooh, my, I haven't seen an American die like that since Abraham Lincoln!\n[He chuckles.]\n",
+    "output": "Dude, that is-a not cool! You're gonna get us into trouble again.\n[South Park Town Square. The town is assembled yet again.]\n"
+  },
+  {
+    "input": "Dude, that is-a not cool! You're gonna get us into trouble again.\n[South Park Town Square. The town is assembled yet again.]\n",
+    "output": "Ladies and gentlemen, on this fourth day of Conjoined Twin Myslexia Week, all our prayers are with our little South Park Cows now playing their hearts out in China.\n[The town cheers.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, on this fourth day of Conjoined Twin Myslexia Week, all our prayers are with our little South Park Cows now playing their hearts out in China.\n[The town cheers.]\n",
+    "output": "Now, join me in saluting our Cows and help make Nurse Gollum not feel like an outcast with our first official Conjoined Twin Myslexia hats!\n[One of her aides passes out the hats as an organ plays. Nurse Gollum just watches.]\n[Meanwhile, in China, at the Temple, Chef is tending to his injured players. Kyle is hooked up to an IV. The other players are bandaged up according to the severity of their injuries.]\n"
+  },
+  {
+    "input": "Now, join me in saluting our Cows and help make Nurse Gollum not feel like an outcast with our first official Conjoined Twin Myslexia hats!\n[One of her aides passes out the hats as an organ plays. Nurse Gollum just watches.]\n[Meanwhile, in China, at the Temple, Chef is tending to his injured players. Kyle is hooked up to an IV. The other players are bandaged up according to the severity of their injuries.]\n",
+    "output": "And there is-a only a one South Park prayer left.\n[Pip stands alone on the court, Kenny is still plastered to the wall behind him.]\n"
+  },
+  {
+    "input": "And there is-a only a one South Park prayer left.\n[Pip stands alone on the court, Kenny is still plastered to the wall behind him.]\n",
+    "output": "Still all Chinese prayer. This should be over veerry shortly.\n"
+  },
+  {
+    "input": "Still all Chinese prayer. This should be over veerry shortly.\n",
+    "output": "Come on! Throw ball!\n"
+  },
+  {
+    "input": "Come on! Throw ball!\n",
+    "output": "Hey, you wanna hear my impersonation of American?\n"
+  },
+  {
+    "input": "Hey, you wanna hear my impersonation of American?\n",
+    "output": "Yeah, yeah!\n"
+  },
+  {
+    "input": "Yeah, yeah!\n",
+    "output": "Ah, okay.\n[Tom puts his hands to his eyelids and opens them wide to simulate American eyes, and talks in a deep voice.]\n"
+  },
+  {
+    "input": "Ah, okay.\n[Tom puts his hands to his eyelids and opens them wide to simulate American eyes, and talks in a deep voice.]\n",
+    "output": "Hey, I really, really want that. That looks good.\n[They have a good laugh.]\n"
+  },
+  {
+    "input": "Hey, I really, really want that. That looks good.\n[They have a good laugh.]\n",
+    "output": "Hey, hey. Let me try, let me try.\n[He sets up with a deep voice.]\n"
+  },
+  {
+    "input": "Hey, hey. Let me try, let me try.\n[He sets up with a deep voice.]\n",
+    "output": "I'll use my credit card.\n[They laugh harder, and he resumes.]\n"
+  },
+  {
+    "input": "I'll use my credit card.\n[They laugh harder, and he resumes.]\n",
+    "output": "Eh-eh-uh... Do you have any non-dairy creamer?\n[They both laugh.]\n"
+  },
+  {
+    "input": "Eh-eh-uh... Do you have any non-dairy creamer?\n[They both laugh.]\n",
+    "output": "Yes yes! [Laughs.] Y'all come a-back now, you hear?\n[They laugh so hard they fall from their chairs.]\n"
+  },
+  {
+    "input": "Yes yes! [Laughs.] Y'all come a-back now, you hear?\n[They laugh so hard they fall from their chairs.]\n",
+    "output": "[Crestfallen.] Oh, what have I done?\n[Cartman comes over and sits next to him.]\n"
+  },
+  {
+    "input": "[Crestfallen.] Oh, what have I done?\n[Cartman comes over and sits next to him.]\n",
+    "output": "You know, Eric, I just realized something. I have been obsessed, and obsession isn't good.\n[Cartman bites into a chocolate bar.]\n"
+  },
+  {
+    "input": "You know, Eric, I just realized something. I have been obsessed, and obsession isn't good.\n[Cartman bites into a chocolate bar.]\n",
+    "output": "If we had won the world championship, what then?\n[Kevin walks off.]\n"
+  },
+  {
+    "input": "If we had won the world championship, what then?\n[Kevin walks off.]\n",
+    "output": "It would only be a bigger letdown the next year if we didn't win! Our lives would have to revolve around dodgeball. Our lives were fine before.\n[Cartman farts and tries to fan it away.]\n"
+  },
+  {
+    "input": "It would only be a bigger letdown the next year if we didn't win! Our lives would have to revolve around dodgeball. Our lives were fine before.\n[Cartman farts and tries to fan it away.]\n",
+    "output": "Oh, I'm sorry, children. I let it all go to my head. Can you ever forgive me?\n[The kids are stunned at this sudden reversal of desire.]\n"
+  },
+  {
+    "input": "Oh, I'm sorry, children. I let it all go to my head. Can you ever forgive me?\n[The kids are stunned at this sudden reversal of desire.]\n",
+    "output": "Come on, forget this stupid game. Let's go home.\n"
+  },
+  {
+    "input": "Come on, forget this stupid game. Let's go home.\n",
+    "output": "Come on! Throw ball!\n"
+  },
+  {
+    "input": "Come on! Throw ball!\n",
+    "output": "[Walking over to player 70.] Hey, if you wanna make him throw the ball, say this.\n[Kevin hands him a note to read.]\n"
+  },
+  {
+    "input": "[Walking over to player 70.] Hey, if you wanna make him throw the ball, say this.\n[Kevin hands him a note to read.]\n",
+    "output": "Thanks, you American dumbass! [Reads it.] \"You French piece of crap! Throw ball!\"\n[Pip gets angry.]\n"
+  },
+  {
+    "input": "Thanks, you American dumbass! [Reads it.] \"You French piece of crap! Throw ball!\"\n[Pip gets angry.]\n",
+    "output": "\"What's the matter, Frenchy? You got crepes in your ears.\"\n[The Chinese team laughs. Pip gets livid rather quickly.]\n"
+  },
+  {
+    "input": "\"What's the matter, Frenchy? You got crepes in your ears.\"\n[The Chinese team laughs. Pip gets livid rather quickly.]\n",
+    "output": "Arrggghhh!\n[Pip starts spinning. The Chinese team watches as Pip picks up speed, and the players gasp. Pip releases the ball and it shoots all over the temple stadium, knocking out players left and right, until all of them are down. Pip slows down, and finally stops.]\n"
+  },
+  {
+    "input": "Arrggghhh!\n[Pip starts spinning. The Chinese team watches as Pip picks up speed, and the players gasp. Pip releases the ball and it shoots all over the temple stadium, knocking out players left and right, until all of them are down. Pip slows down, and finally stops.]\n",
+    "output": "And the winner is South Park Cows!\n[Musicians play.]\n"
+  },
+  {
+    "input": "And the winner is South Park Cows!\n[Musicians play.]\n",
+    "output": "Everyone! Everyone, look! I won the game! We're world champions! Mr. Chef, Mr. Chef. South Park is the world champion in dodgeball. Oh, glorious day!\n[The South Park team is limping off the court, with Kyle taking his IV along.]\n"
+  },
+  {
+    "input": "Everyone! Everyone, look! I won the game! We're world champions! Mr. Chef, Mr. Chef. South Park is the world champion in dodgeball. Oh, glorious day!\n[The South Park team is limping off the court, with Kyle taking his IV along.]\n",
+    "output": "Shut up, Pip.\n"
+  },
+  {
+    "input": "Shut up, Pip.\n",
+    "output": "Yeah, shut up, Pip. [To Chef.] Can we go home now?\n"
+  },
+  {
+    "input": "Yeah, shut up, Pip. [To Chef.] Can we go home now?\n",
+    "output": "Did you all see? I can't believe I threw such a ball with my own arm. It was--\n"
+  },
+  {
+    "input": "Did you all see? I can't believe I threw such a ball with my own arm. It was--\n",
+    "output": "Shut up, Pip!\n[South Park Town Square. The mayor is on stage.]\n"
+  },
+  {
+    "input": "Shut up, Pip!\n[South Park Town Square. The mayor is on stage.]\n",
+    "output": "As this year's Conjoined Twin Myslexia Awareness Week draws to a close, I would like to personally thank all of you for your enthusiastic cooperation.\n[The crowd cheers.]\n"
+  },
+  {
+    "input": "As this year's Conjoined Twin Myslexia Awareness Week draws to a close, I would like to personally thank all of you for your enthusiastic cooperation.\n[The crowd cheers.]\n",
+    "output": "Now, let's hear it one more time for our world champion South Park Cows!\n[The team is standing behind a low wall with a trophy at one end, next to Chef. Kyle is dressed normally but still bandaged.]\n"
+  },
+  {
+    "input": "Now, let's hear it one more time for our world champion South Park Cows!\n[The team is standing behind a low wall with a trophy at one end, next to Chef. Kyle is dressed normally but still bandaged.]\n",
+    "output": "What the hell is everyone wearing on their heads?\n"
+  },
+  {
+    "input": "What the hell is everyone wearing on their heads?\n",
+    "output": "And now, let's hear from the woman of the week! The incredible, courageous Nurse Gollum!\n"
+  },
+  {
+    "input": "And now, let's hear from the woman of the week! The incredible, courageous Nurse Gollum!\n",
+    "output": "Agghh!\n"
+  },
+  {
+    "input": "Agghh!\n",
+    "output": "Dude, it's the freak nurse!\n"
+  },
+  {
+    "input": "Dude, it's the freak nurse!\n",
+    "output": "Holy crap!\n"
+  },
+  {
+    "input": "Holy crap!\n",
+    "output": "Dammit, Kyle! We've been working all week against that kind of behavior!\n"
+  },
+  {
+    "input": "Dammit, Kyle! We've been working all week against that kind of behavior!\n",
+    "output": "Well sorry, dude, we weren't here.\n"
+  },
+  {
+    "input": "Well sorry, dude, we weren't here.\n",
+    "output": "Thank you, Mayor. I uhhh, wa-I... I don't know what to say; this has been quite a week.\n"
+  },
+  {
+    "input": "Thank you, Mayor. I uhhh, wa-I... I don't know what to say; this has been quite a week.\n",
+    "output": "[Wiping away a tear.] She's really touched.\n"
+  },
+  {
+    "input": "[Wiping away a tear.] She's really touched.\n",
+    "output": "What I really wanna say is... well, -egh-- This may sound odd coming from a woman with a fetus sticking out of her head, but... you're all a bunch of freaks!\n[The crowd is stunned, Mayor McDaniels takes the mic from Nurse Gollum.]\n"
+  },
+  {
+    "input": "What I really wanna say is... well, -egh-- This may sound odd coming from a woman with a fetus sticking out of her head, but... you're all a bunch of freaks!\n[The crowd is stunned, Mayor McDaniels takes the mic from Nurse Gollum.]\n",
+    "output": "Uhhh, freaks with big hearts! And now--\n"
+  },
+  {
+    "input": "Uhhh, freaks with big hearts! And now--\n",
+    "output": "Don't you realize that the last thing I ever wanted was to be singled out?\n[Sheila and Father Maxi look betrayed.]\n"
+  },
+  {
+    "input": "Don't you realize that the last thing I ever wanted was to be singled out?\n[Sheila and Father Maxi look betrayed.]\n",
+    "output": "I just wanted to do my job and live my life like any normal person, but instead you've made everybody focus on my handicap all week long.\n[More people look at each other.]\n"
+  },
+  {
+    "input": "I just wanted to do my job and live my life like any normal person, but instead you've made everybody focus on my handicap all week long.\n[More people look at each other.]\n",
+    "output": "Look, I don't want to be treated different. I don't want to be treated special orh-or treated gingerly. I just want to be ridiculed, shouted at, and made fun of like all the rest of you do to each other.\n[People are listening.]\n"
+  },
+  {
+    "input": "Look, I don't want to be treated different. I don't want to be treated special orh-or treated gingerly. I just want to be ridiculed, shouted at, and made fun of like all the rest of you do to each other.\n[People are listening.]\n",
+    "output": "And take those stupid things off your heads!\n[She turns and walks off the stage.]\n"
+  },
+  {
+    "input": "And take those stupid things off your heads!\n[She turns and walks off the stage.]\n",
+    "output": "Oh, my, what an ungrateful bitch.\n"
+  },
+  {
+    "input": "Oh, my, what an ungrateful bitch.\n",
+    "output": "Yeah, the nerve of some people.\n"
+  },
+  {
+    "input": "Yeah, the nerve of some people.\n",
+    "output": "Hey, you know, that nurse is actually pretty cool.\n"
+  },
+  {
+    "input": "Hey, you know, that nurse is actually pretty cool.\n",
+    "output": "Yeah, maybe that dead fetus makes her smarter.\n"
+  },
+  {
+    "input": "Yeah, maybe that dead fetus makes her smarter.\n",
+    "output": "I love you guys.\n[Stan and Kyle merely look at him and say nothing.]\n"
+  }
+]

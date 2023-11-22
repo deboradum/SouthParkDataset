@@ -1,0 +1,910 @@
+[
+  {
+    "input": "",
+    "output": "Pinewood Derby\n\n[A close-up of Stan and Randy working on a tiny car. Randy is doing pretty much all the work. They are in the basement.]\n"
+  },
+  {
+    "input": "Pinewood Derby\n\n[A close-up of Stan and Randy working on a tiny car. Randy is doing pretty much all the work. They are in the basement.]\n",
+    "output": "Alright, [measures the length of the car's body] that's 2.8 centimeters... should give us a drag of only.. 26 milliseconds. Hold the front here, Stan. [Stan holds on to the car's front end as Randy whips out a cordless drill. Randy bores into the rear end of the car as Sharon comes down the stairs.]\n"
+  },
+  {
+    "input": "Alright, [measures the length of the car's body] that's 2.8 centimeters... should give us a drag of only.. 26 milliseconds. Hold the front here, Stan. [Stan holds on to the car's front end as Randy whips out a cordless drill. Randy bores into the rear end of the car as Sharon comes down the stairs.]\n",
+    "output": "Hey guys, it's almost 2 a.m.\n"
+  },
+  {
+    "input": "Hey guys, it's almost 2 a.m.\n",
+    "output": "[looks over his shoulder] We know!\n"
+  },
+  {
+    "input": "[looks over his shoulder] We know!\n",
+    "output": "Well it's way past time for bed.\n"
+  },
+  {
+    "input": "Well it's way past time for bed.\n",
+    "output": "Sharon, Stan's Pinewood Derby race is tomorrow! Do you have any idea how important this is to him? Stan is not gonna lose to the goddamn Hollises again!\n"
+  },
+  {
+    "input": "Sharon, Stan's Pinewood Derby race is tomorrow! Do you have any idea how important this is to him? Stan is not gonna lose to the goddamn Hollises again!\n",
+    "output": "Well it's just a block of wood and some wheels; I don't think there's that much more you can do with it.\n"
+  },
+  {
+    "input": "Well it's just a block of wood and some wheels; I don't think there's that much more you can do with it.\n",
+    "output": "That's 'cause you're a chick! Now just leave us alone! [turns his attention to the car again. Sharon goes upstairs] Don't worry, son, the Hollises are not beating us this year! I went and got something to put inside our car and make it go extra-fast. [pulls out a small box]\n"
+  },
+  {
+    "input": "That's 'cause you're a chick! Now just leave us alone! [turns his attention to the car again. Sharon goes upstairs] Don't worry, son, the Hollises are not beating us this year! I went and got something to put inside our car and make it go extra-fast. [pulls out a small box]\n",
+    "output": "Dad, we're not allowed to add anything to the car that doesn't come in the approved kit, remember?\n"
+  },
+  {
+    "input": "Dad, we're not allowed to add anything to the car that doesn't come in the approved kit, remember?\n",
+    "output": "Stan, how do you think the Hollises beat us every year? [opens the box to reveal a small glowing metallic ball, picks it up with some tongs] I'm sure they put lead in the wood or something; we're just leveling the playing field. [puts the small ball in the hole he just drilled out, then plugs the hole up with a stopper that lines up flush with the car body] There.\n"
+  },
+  {
+    "input": "Stan, how do you think the Hollises beat us every year? [opens the box to reveal a small glowing metallic ball, picks it up with some tongs] I'm sure they put lead in the wood or something; we're just leveling the playing field. [puts the small ball in the hole he just drilled out, then plugs the hole up with a stopper that lines up flush with the car body] There.\n",
+    "output": "What is that?\n"
+  },
+  {
+    "input": "What is that?\n",
+    "output": "It's, uh it's nothing, really.\n[Channel 9 News.]\n"
+  },
+  {
+    "input": "It's, uh it's nothing, really.\n[Channel 9 News.]\n",
+    "output": "Tom, I'm standing outside the Hadron particle super-collider in Switzerland, where authorities are shocked and baffled over the theft of a superconducting bending magnet created for use in tests with particle acceleration.\n"
+  },
+  {
+    "input": "Tom, I'm standing outside the Hadron particle super-collider in Switzerland, where authorities are shocked and baffled over the theft of a superconducting bending magnet created for use in tests with particle acceleration.\n",
+    "output": "[watching TV] Oh no, he didn't.\n"
+  },
+  {
+    "input": "[watching TV] Oh no, he didn't.\n",
+    "output": "The superconducting magnet was stolen sometime last week. Surveillance cameras were able to record the theft on tape and police are now looking for [a picture of Randy dressed as Princess Leia] Princess Leia Organa of Alderaan. Caught here in these photos, the troubled rebel princess is seen taking the superconducting magnet and then appearing disoriented as she tries to find her way out. [Stan buries his head into his right palm in shame] If you have any information of Princess Leia's whereabouts, please call your local police department.\n[Pinewood Derby Colorado State Championship, track area.]\n"
+  },
+  {
+    "input": "The superconducting magnet was stolen sometime last week. Surveillance cameras were able to record the theft on tape and police are now looking for [a picture of Randy dressed as Princess Leia] Princess Leia Organa of Alderaan. Caught here in these photos, the troubled rebel princess is seen taking the superconducting magnet and then appearing disoriented as she tries to find her way out. [Stan buries his head into his right palm in shame] If you have any information of Princess Leia's whereabouts, please call your local police department.\n[Pinewood Derby Colorado State Championship, track area.]\n",
+    "output": "Alright Scouts and Dads, the racing continues. And it looks like our next heat is ready to go, in 3, 2, 1, race! [four boys release their cars. Tolkien and Butters are two of the boys. The cars slide down a ramp and onto the straightaway, and hit a barrier at the other end of the track. Neither Tolkien nor Butters wins] Two point one seconds for Tommy Bretts. Looks like we have a new leader, folks.\n"
+  },
+  {
+    "input": "Alright Scouts and Dads, the racing continues. And it looks like our next heat is ready to go, in 3, 2, 1, race! [four boys release their cars. Tolkien and Butters are two of the boys. The cars slide down a ramp and onto the straightaway, and hit a barrier at the other end of the track. Neither Tolkien nor Butters wins] Two point one seconds for Tommy Bretts. Looks like we have a new leader, folks.\n",
+    "output": "[hi-five each other] All right!\n[Pinewood Derby Colorado State Championship, Registration area. Stan and Randy enter the building.]\n"
+  },
+  {
+    "input": "[hi-five each other] All right!\n[Pinewood Derby Colorado State Championship, Registration area. Stan and Randy enter the building.]\n",
+    "output": "Alright Stan, we're gonna need to check in and have our car inspected to qualify. [kneels down next to Stan] Now, son, Daddy needs to teach you something very important about \"tells.\"\n"
+  },
+  {
+    "input": "Alright Stan, we're gonna need to check in and have our car inspected to qualify. [kneels down next to Stan] Now, son, Daddy needs to teach you something very important about \"tells.\"\n",
+    "output": "Tells?\n"
+  },
+  {
+    "input": "Tells?\n",
+    "output": "When you tell them you only used the approved kit, don't look up and away, don't rub your neck, and don't touch your ear. Otherwise they'll know you're lying to them. Alright? Whenever you need to lie, just don't look up and away, rub your neck, or touch your ear.\n"
+  },
+  {
+    "input": "When you tell them you only used the approved kit, don't look up and away, don't rub your neck, and don't touch your ear. Otherwise they'll know you're lying to them. Alright? Whenever you need to lie, just don't look up and away, rub your neck, or touch your ear.\n",
+    "output": "Dad, maybe we should just take out the thing you put in the car an-\n"
+  },
+  {
+    "input": "Dad, maybe we should just take out the thing you put in the car an-\n",
+    "output": "Son. ...You have to learn how to lie correctly someday, might as well be today, alright? I love you, son. [rubs his neck and looks up and away. Stan notices and is shocked.]\n"
+  },
+  {
+    "input": "Son. ...You have to learn how to lie correctly someday, might as well be today, alright? I love you, son. [rubs his neck and looks up and away. Stan notices and is shocked.]\n",
+    "output": "Looks good. Thank you and good luck today. [the boy and his father leave, Stan and his father step up] Alright, next please. [Stan hands him his car. Randy rubs his neck again, then grins nervously] Name?\n"
+  },
+  {
+    "input": "Looks good. Thank you and good luck today. [the boy and his father leave, Stan and his father step up] Alright, next please. [Stan hands him his car. Randy rubs his neck again, then grins nervously] Name?\n",
+    "output": "It's uh, Marsh. [the official puts the car on a small stand, then measures and weighs it]\n"
+  },
+  {
+    "input": "It's uh, Marsh. [the official puts the car on a small stand, then measures and weighs it]\n",
+    "output": "Alright, car weighs in at 15 ounces. Do you hereby swear that you used parts in the official Pinewood Derby kit and only parts in the official Pinewood Derby kit?\n"
+  },
+  {
+    "input": "Alright, car weighs in at 15 ounces. Do you hereby swear that you used parts in the official Pinewood Derby kit and only parts in the official Pinewood Derby kit?\n",
+    "output": "[coaxing Stan through gritted teeth] Yes I do, yes I do.\n"
+  },
+  {
+    "input": "[coaxing Stan through gritted teeth] Yes I do, yes I do.\n",
+    "output": "[in a resigned voice] Yes I do.\n"
+  },
+  {
+    "input": "[in a resigned voice] Yes I do.\n",
+    "output": "Alright young man, good luck today. [hands the car back to Stan. He and Randy walk away]\n"
+  },
+  {
+    "input": "Alright young man, good luck today. [hands the car back to Stan. He and Randy walk away]\n",
+    "output": "[to himself, pumping both fists] Oh! Yes! [nearby they run into Mr. Hollis and son]\n"
+  },
+  {
+    "input": "[to himself, pumping both fists] Oh! Yes! [nearby they run into Mr. Hollis and son]\n",
+    "output": "Well well, look son, it's the Marshes.\n"
+  },
+  {
+    "input": "Well well, look son, it's the Marshes.\n",
+    "output": "Ey Hollis. You, uh, you guys race already?\n"
+  },
+  {
+    "input": "Ey Hollis. You, uh, you guys race already?\n",
+    "output": "No, little Emmett hasn't gone yet. Think they're saving the best for last. [pats Emmett's head and holds up their car] Clocked her in at home at 1.5 seconds. It's the fastest car we've ever built.\n"
+  },
+  {
+    "input": "No, little Emmett hasn't gone yet. Think they're saving the best for last. [pats Emmett's head and holds up their car] Clocked her in at home at 1.5 seconds. It's the fastest car we've ever built.\n",
+    "output": "One point five?\n[Pinewood Derby Colorado State Championship, track area.]\n"
+  },
+  {
+    "input": "One point five?\n[Pinewood Derby Colorado State Championship, track area.]\n",
+    "output": "The time to beat is 1.9 seconds. May we please have... Brewster, Marsh, Jarvis, and Hollis. [the boys line up behind the starting gate, their cars in position. Emmett and Stan are next to each other]\n"
+  },
+  {
+    "input": "The time to beat is 1.9 seconds. May we please have... Brewster, Marsh, Jarvis, and Hollis. [the boys line up behind the starting gate, their cars in position. Emmett and Stan are next to each other]\n",
+    "output": "Huh, only fitting our boys should be going head to head for their match, hey Marsh? Heh. [sips from a can of Dr Pep-er]\n"
+  },
+  {
+    "input": "Huh, only fitting our boys should be going head to head for their match, hey Marsh? Heh. [sips from a can of Dr Pep-er]\n",
+    "output": "Come on, Stan, you can do this! [claps enthusiastically]\n"
+  },
+  {
+    "input": "Come on, Stan, you can do this! [claps enthusiastically]\n",
+    "output": "Alright, kids, are you ready? Here we go, last race for the state championship in 3, 2, 1, Go! [the boys release their cars and Emmett's car takes the lead.]\n"
+  },
+  {
+    "input": "Alright, kids, are you ready? Here we go, last race for the state championship in 3, 2, 1, Go! [the boys release their cars and Emmett's car takes the lead.]\n",
+    "output": "You got it Emmett! [Stan's car begins to shimmy and spark, then stretch itself. It soon takes off, blowing hair and papers around. It crashes through the wall and up into the air outside, shearing off a tree limb. It kills a bird on its way up, then buzzes a passenger jet plane. It heads right out into space. Everyone in the competition goes outside and follows the car's trajectory]\n"
+  },
+  {
+    "input": "You got it Emmett! [Stan's car begins to shimmy and spark, then stretch itself. It soon takes off, blowing hair and papers around. It crashes through the wall and up into the air outside, shearing off a tree limb. It kills a bird on its way up, then buzzes a passenger jet plane. It heads right out into space. Everyone in the competition goes outside and follows the car's trajectory]\n",
+    "output": "Oh yeah! [jumps around] Oh yeah! [jabs a finger at Hollis] Suck on that, Hollis!\n[The Channel Nine news graphics appear.]\n"
+  },
+  {
+    "input": "Oh yeah! [jumps around] Oh yeah! [jabs a finger at Hollis] Suck on that, Hollis!\n[The Channel Nine news graphics appear.]\n",
+    "output": "This is Nine News at Ten.\n"
+  },
+  {
+    "input": "This is Nine News at Ten.\n",
+    "output": "A Colorado boy and his father have set a new record at the Pinewood Derby. [a picture of the two winners appears over his left shoulder] Stan and Randy Marsh not only broke a speed record, but actually appear to have bent time and space and discovered warp speed. [Emmett is watching the news on his couch, sad that he lost] A parade was held for the winners earlier today [they're riding on a space shuttle float during the parade], and already offers for commercials and endorsement deals for the father and son appear to be pouring in. [Emmett goes to his father's study and trophy room and watches him]\n"
+  },
+  {
+    "input": "A Colorado boy and his father have set a new record at the Pinewood Derby. [a picture of the two winners appears over his left shoulder] Stan and Randy Marsh not only broke a speed record, but actually appear to have bent time and space and discovered warp speed. [Emmett is watching the news on his couch, sad that he lost] A parade was held for the winners earlier today [they're riding on a space shuttle float during the parade], and already offers for commercials and endorsement deals for the father and son appear to be pouring in. [Emmett goes to his father's study and trophy room and watches him]\n",
+    "output": "Dad, I just want you to know I still love you. [a gun is cocked and Mr. Hollis kills himself with a gunshot through the head. The head and left arm quickly fall to his desk.] Waaaagh! [begins to hyperventilate] He's OK, he's OK, he's OK, he's OK, he's OK-\n[Space. The car has run out of fuel and is now tumbling through space. A tractor beam comes on and freezes it in place, then pulls it towards a large ship.]\n[Stan's house, day. Stan comes in and opens the door. Two agents are at the front door.]\n"
+  },
+  {
+    "input": "Dad, I just want you to know I still love you. [a gun is cocked and Mr. Hollis kills himself with a gunshot through the head. The head and left arm quickly fall to his desk.] Waaaagh! [begins to hyperventilate] He's OK, he's OK, he's OK, he's OK, he's OK-\n[Space. The car has run out of fuel and is now tumbling through space. A tractor beam comes on and freezes it in place, then pulls it towards a large ship.]\n[Stan's house, day. Stan comes in and opens the door. Two agents are at the front door.]\n",
+    "output": "Stan Marsh?\n"
+  },
+  {
+    "input": "Stan Marsh?\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "I'm Agent Clark [on the left] and this is Agent Marx [on the right. Both men whip out their badges. They are members of the NSA] We'd like to talk to you about your Pinewood Derby car.\n"
+  },
+  {
+    "input": "I'm Agent Clark [on the left] and this is Agent Marx [on the right. Both men whip out their badges. They are members of the NSA] We'd like to talk to you about your Pinewood Derby car.\n",
+    "output": "Aw crap, Dad! [the men enter the house and walk past Stan. He closes the door behind them]\n"
+  },
+  {
+    "input": "Aw crap, Dad! [the men enter the house and walk past Stan. He closes the door behind them]\n",
+    "output": "Young man, what we are about to tell you is a matter of national security. Yesterday every country and embassy on Earth was contacted by... an alien life force.\n"
+  },
+  {
+    "input": "Young man, what we are about to tell you is a matter of national security. Yesterday every country and embassy on Earth was contacted by... an alien life force.\n",
+    "output": "Alien?\n"
+  },
+  {
+    "input": "Alien?\n",
+    "output": "[they turn around] Apparently the alien came across your Pinewood Derby car and is now headed to our planet.\n"
+  },
+  {
+    "input": "[they turn around] Apparently the alien came across your Pinewood Derby car and is now headed to our planet.\n",
+    "output": "What does it want?\n"
+  },
+  {
+    "input": "What does it want?\n",
+    "output": "We believe that they intend to welcome us into the Galactic Federation of Planets. They will want to meet the people who discovered warp speed for our species.\n"
+  },
+  {
+    "input": "We believe that they intend to welcome us into the Galactic Federation of Planets. They will want to meet the people who discovered warp speed for our species.\n",
+    "output": "[coming down the stairs with a cup of coffee] Stan, did you use all the damned toilet paper agai-? [jumps back when he sees the men] Aw crap! [walks towards them defensively] What?! What do you guys want?! We said we only used what was in the kit! You got nothin' on us! You got nothin' on us!\n"
+  },
+  {
+    "input": "[coming down the stairs with a cup of coffee] Stan, did you use all the damned toilet paper agai-? [jumps back when he sees the men] Aw crap! [walks towards them defensively] What?! What do you guys want?! We said we only used what was in the kit! You got nothin' on us! You got nothin' on us!\n",
+    "output": "Dad they aren't here for that.\n"
+  },
+  {
+    "input": "Dad they aren't here for that.\n",
+    "output": "[lowers his guard and shakes Agent Marx's hand] Oh. Hi, I'm Randy Marsh.\n"
+  },
+  {
+    "input": "[lowers his guard and shakes Agent Marx's hand] Oh. Hi, I'm Randy Marsh.\n",
+    "output": "Mr. Marsh, we were just telling your son that thanks to you, we have made first contact with alien life.\n"
+  },
+  {
+    "input": "Mr. Marsh, we were just telling your son that thanks to you, we have made first contact with alien life.\n",
+    "output": "[surprised, softly] What? [looks to his right and says normally] Hey, hey Sharon.\n"
+  },
+  {
+    "input": "[surprised, softly] What? [looks to his right and says normally] Hey, hey Sharon.\n",
+    "output": "NASA's confirmed that an alien ship has entered our solar system and it is headed here.\n"
+  },
+  {
+    "input": "NASA's confirmed that an alien ship has entered our solar system and it is headed here.\n",
+    "output": "So, so guess what? Our Pinewood Derby car found alien life in space.\n"
+  },
+  {
+    "input": "So, so guess what? Our Pinewood Derby car found alien life in space.\n",
+    "output": "[walks in from the kitchen with her own cup of coffee] What? Oh my God.\n"
+  },
+  {
+    "input": "[walks in from the kitchen with her own cup of coffee] What? Oh my God.\n",
+    "output": "Yeah, but I guess it's just a dumb little race like you said, huh Sharon?\n[South Park, evening. The town is gathered around an open space waiting for the aliens to drop down into the city. Channel 9 News and News 4 are waiting to record the event. An orchestra plays in a temporary gazebo, and a banner above it says \"WELCOME, GALACTIC FRIENDS.\" An organizer guides Randy and Stan to a prime spot in the clearing.]\n"
+  },
+  {
+    "input": "Yeah, but I guess it's just a dumb little race like you said, huh Sharon?\n[South Park, evening. The town is gathered around an open space waiting for the aliens to drop down into the city. Channel 9 News and News 4 are waiting to record the event. An orchestra plays in a temporary gazebo, and a banner above it says \"WELCOME, GALACTIC FRIENDS.\" An organizer guides Randy and Stan to a prime spot in the clearing.]\n",
+    "output": "The world holds its breath as an alien ship prepares to land. Now that our planet has achieved warp speed, we're about to be welcomed into the universal society. All thanks to a father and son who broke the warp barrier using only the parts in this [holds up a packet] Pinewood Derby car kit.\n"
+  },
+  {
+    "input": "The world holds its breath as an alien ship prepares to land. Now that our planet has achieved warp speed, we're about to be welcomed into the universal society. All thanks to a father and son who broke the warp barrier using only the parts in this [holds up a packet] Pinewood Derby car kit.\n",
+    "output": "Mr. Marsh, you are on with all the world leaders. [gives him a cell phone. Randy's now on a conference call]\n"
+  },
+  {
+    "input": "Mr. Marsh, you are on with all the world leaders. [gives him a cell phone. Randy's now on a conference call]\n",
+    "output": "Hullo?\n"
+  },
+  {
+    "input": "Hullo?\n",
+    "output": "Godspeed, Mr. Marsh.\n"
+  },
+  {
+    "input": "Godspeed, Mr. Marsh.\n",
+    "output": "Ze nation of France iz with you.\n"
+  },
+  {
+    "input": "Ze nation of France iz with you.\n",
+    "output": "Good ruck witha 'harien, Mista Marsh.\n"
+  },
+  {
+    "input": "Good ruck witha 'harien, Mista Marsh.\n",
+    "output": "Prease say herro froma China.\n"
+  },
+  {
+    "input": "Prease say herro froma China.\n",
+    "output": "Oh okay uh, uh stand by I- I think it's, I think it's landing. [A huge shadow falls over South Park as the ship descends. Three metallic feet come out of the bottom of the ship and set themselves on the asphalt, allowing the ship to land softly]\n"
+  },
+  {
+    "input": "Oh okay uh, uh stand by I- I think it's, I think it's landing. [A huge shadow falls over South Park as the ship descends. Three metallic feet come out of the bottom of the ship and set themselves on the asphalt, allowing the ship to land softly]\n",
+    "output": "Our first encounter with extraterrestrial life is about to happen. Will it be like in Star Trek: First Contact? Or will it be more like Contact, with Jodie Foster? [the ship's doors open, a virtual ramp appears, and the alien walks down the ramp to the street.]\n"
+  },
+  {
+    "input": "Our first encounter with extraterrestrial life is about to happen. Will it be like in Star Trek: First Contact? Or will it be more like Contact, with Jodie Foster? [the ship's doors open, a virtual ramp appears, and the alien walks down the ramp to the street.]\n",
+    "output": "I seek the life forms that made this. [holds up the car Stan launched into space.]\n"
+  },
+  {
+    "input": "I seek the life forms that made this. [holds up the car Stan launched into space.]\n",
+    "output": "That's ours, Mr. Alien. We are the Marshes, Randy and Stan.\n"
+  },
+  {
+    "input": "That's ours, Mr. Alien. We are the Marshes, Randy and Stan.\n",
+    "output": "Oh yeah? [affects the manners and voice of a 1930's mobster, holds up a ray gun] You're gonna build me another one, see?\n"
+  },
+  {
+    "input": "Oh yeah? [affects the manners and voice of a 1930's mobster, holds up a ray gun] You're gonna build me another one, see?\n",
+    "output": "He's got a gun!\n"
+  },
+  {
+    "input": "He's got a gun!\n",
+    "output": "Everyone down on the ground! [everyone gets on the ground with their hands over their heads] Get those hands up! Let me see those hands! Do it now! I mean it! Show me those hands! I'm Baby Fark McGee-zax, the greatest gangster this universe has ever seen, right?!\n"
+  },
+  {
+    "input": "Everyone down on the ground! [everyone gets on the ground with their hands over their heads] Get those hands up! Let me see those hands! Do it now! I mean it! Show me those hands! I'm Baby Fark McGee-zax, the greatest gangster this universe has ever seen, right?!\n",
+    "output": "You can't threaten us! [a blast from the alien's gun injures his thigh and he goes down] Ow!\n"
+  },
+  {
+    "input": "You can't threaten us! [a blast from the alien's gun injures his thigh and he goes down] Ow!\n",
+    "output": "Who wants it next, huh?! [a shot of the crowd at Times Square] Anyone else on this planet wanna be a hero? [the crowd there covers its head, as do the various world leaders]\n"
+  },
+  {
+    "input": "Who wants it next, huh?! [a shot of the crowd at Times Square] Anyone else on this planet wanna be a hero? [the crowd there covers its head, as do the various world leaders]\n",
+    "output": "What do you want?\n"
+  },
+  {
+    "input": "What do you want?\n",
+    "output": "I'm on the lam. Got the entire Federation of Planets after me. But they ain't gonna catch me, ya got that?! They might have busted my warp drive, but you obviously know how to make 'em! [tosses the car to Randy, who catches it]\n"
+  },
+  {
+    "input": "I'm on the lam. Got the entire Federation of Planets after me. But they ain't gonna catch me, ya got that?! They might have busted my warp drive, but you obviously know how to make 'em! [tosses the car to Randy, who catches it]\n",
+    "output": "Screw this guy! He can't take out all of us! [McGee-zax fires into the air and the New Yorker gets a sparking sting on his right shoulder] Aargh!\n"
+  },
+  {
+    "input": "Screw this guy! He can't take out all of us! [McGee-zax fires into the air and the New Yorker gets a sparking sting on his right shoulder] Aargh!\n",
+    "output": "I can kill any mug on this two-bit planet I want! [a shot of McGee-zax from Akihabara, Tokyo. The Japanese cower and react to his image] You build me a new warp drive or you're all gonna get it, see?!\n"
+  },
+  {
+    "input": "I can kill any mug on this two-bit planet I want! [a shot of McGee-zax from Akihabara, Tokyo. The Japanese cower and react to his image] You build me a new warp drive or you're all gonna get it, see?!\n",
+    "output": "Fine. He can build you what you want. All he needs is the official Pinewood Derby kit. Right Marsh?\n"
+  },
+  {
+    "input": "Fine. He can build you what you want. All he needs is the official Pinewood Derby kit. Right Marsh?\n",
+    "output": "Uh, yeah. Yeah, that's all we need, huh Stan? [under his breath] Oh boy.\n[The South Park Market parking lot. Stan and Randy attempt to recreate the supersonic car they made earlier. Just as in the basement, Randy is to the left.]\n"
+  },
+  {
+    "input": "Uh, yeah. Yeah, that's all we need, huh Stan? [under his breath] Oh boy.\n[The South Park Market parking lot. Stan and Randy attempt to recreate the supersonic car they made earlier. Just as in the basement, Randy is to the left.]\n",
+    "output": "Okay, let's ah put the wheels on now, son.\n"
+  },
+  {
+    "input": "Okay, let's ah put the wheels on now, son.\n",
+    "output": "What's takin' so long?! You're stallin'!\n"
+  },
+  {
+    "input": "What's takin' so long?! You're stallin'!\n",
+    "output": "Come on Randy, just build him the warp drive and he'll leave us alone.\n"
+  },
+  {
+    "input": "Come on Randy, just build him the warp drive and he'll leave us alone.\n",
+    "output": "We're working on it! [McGee-zax begins to pace back and forth behind them]\n"
+  },
+  {
+    "input": "We're working on it! [McGee-zax begins to pace back and forth behind them]\n",
+    "output": "[whispering] Dad. Dad, you know we can't make the car go as fast as before with only the approved Pinewood Derby kit.\n"
+  },
+  {
+    "input": "[whispering] Dad. Dad, you know we can't make the car go as fast as before with only the approved Pinewood Derby kit.\n",
+    "output": "[whispering] Yeah, thanks Stan, I know that.\n"
+  },
+  {
+    "input": "[whispering] Yeah, thanks Stan, I know that.\n",
+    "output": "[whispering] Well we have to tell them we used something outside the kit.\n"
+  },
+  {
+    "input": "[whispering] Well we have to tell them we used something outside the kit.\n",
+    "output": "[whispering] Do you have any idea how stupid that would make us look?!\n"
+  },
+  {
+    "input": "[whispering] Do you have any idea how stupid that would make us look?!\n",
+    "output": "Alright, that does it! [fires off another shot into the sky. A second later Randy gets a call on his cell phone]\n"
+  },
+  {
+    "input": "Alright, that does it! [fires off another shot into the sky. A second later Randy gets a call on his cell phone]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "They justa blew up our government building! Ya got to hurry!\n"
+  },
+  {
+    "input": "They justa blew up our government building! Ya got to hurry!\n",
+    "output": "Mr. Marsh, why won't you finish the Pinewood Derby car?!\n"
+  },
+  {
+    "input": "Mr. Marsh, why won't you finish the Pinewood Derby car?!\n",
+    "output": "Will you just give us a minute?! Gau!!\n"
+  },
+  {
+    "input": "Will you just give us a minute?! Gau!!\n",
+    "output": "Come on, Dad. We've gotta come clean.\n"
+  },
+  {
+    "input": "Come on, Dad. We've gotta come clean.\n",
+    "output": "[feeling the stress of urgency] Awhuh. [a siren sounds in the distance. In the sky another space ship shows up, with police sirens on it]\n"
+  },
+  {
+    "input": "[feeling the stress of urgency] Awhuh. [a siren sounds in the distance. In the sky another space ship shows up, with police sirens on it]\n",
+    "output": "Aw zahts, it's the intergalactic police.\n"
+  },
+  {
+    "input": "Aw zahts, it's the intergalactic police.\n",
+    "output": "What?! [McGee-zax pulls out a small remote control from his left front pocket and aims it at his ship. One click and the ship is cloaked in invisibility. McGee-zax then takes Stan captive and backs away holding a gun to Stan's head]\n"
+  },
+  {
+    "input": "What?! [McGee-zax pulls out a small remote control from his left front pocket and aims it at his ship. One click and the ship is cloaked in invisibility. McGee-zax then takes Stan captive and backs away holding a gun to Stan's head]\n",
+    "output": "You'd better get rid of 'em or your whole planet is gonna get it, see?! [goes towards South Park Market] You tell 'em you ain't seen nothin', you got that?! [the sliding doors open and he takes Stan into the store] I ain't goin' to space jail! [the doors close. The police ship lands and two space officers come out and walk down their ramps to the ground. One officer has two mouths, the other just one. Both of them have four eyes and broad shoulders]\n"
+  },
+  {
+    "input": "You'd better get rid of 'em or your whole planet is gonna get it, see?! [goes towards South Park Market] You tell 'em you ain't seen nothin', you got that?! [the sliding doors open and he takes Stan into the store] I ain't goin' to space jail! [the doors close. The police ship lands and two space officers come out and walk down their ramps to the ground. One officer has two mouths, the other just one. Both of them have four eyes and broad shoulders]\n",
+    "output": "'Scuse us, Earthlings, but uh, we've been in pursuit of a criminal from the Xenon galaxy. Fella by the name of Baby Fark McGee-zax?\n"
+  },
+  {
+    "input": "'Scuse us, Earthlings, but uh, we've been in pursuit of a criminal from the Xenon galaxy. Fella by the name of Baby Fark McGee-zax?\n",
+    "output": "Uh, no. [pulls at his ear vigorously] We haven't seen anything.\n"
+  },
+  {
+    "input": "Uh, no. [pulls at his ear vigorously] We haven't seen anything.\n",
+    "output": "Well, ya think anyone else on your planet might have seen him?\n"
+  },
+  {
+    "input": "Well, ya think anyone else on your planet might have seen him?\n",
+    "output": "Ahhh actually I- I happen to be on the phone with all the world leaders- I- I can ask. Uh yeah, listen, these, uh, police aliens are here, and they're wondering if anyone's seen an alien named Baby Fark McGee-zax.\n"
+  },
+  {
+    "input": "Ahhh actually I- I happen to be on the phone with all the world leaders- I- I can ask. Uh yeah, listen, these, uh, police aliens are here, and they're wondering if anyone's seen an alien named Baby Fark McGee-zax.\n",
+    "output": "Uh uh no, no, we haven't seen arien.\n"
+  },
+  {
+    "input": "Uh uh no, no, we haven't seen arien.\n",
+    "output": "Uh we've seen nothing here in France.\n"
+  },
+  {
+    "input": "Uh we've seen nothing here in France.\n",
+    "output": "Sorry, nobody in the world has seen anything. Uh... what did this... criminal alien do, exactly?\n"
+  },
+  {
+    "input": "Sorry, nobody in the world has seen anything. Uh... what did this... criminal alien do, exactly?\n",
+    "output": "He stole over 600 parsohns of space cash from the universal bank. You're absolutely sure you didn't see an alien land here?\n"
+  },
+  {
+    "input": "He stole over 600 parsohns of space cash from the universal bank. You're absolutely sure you didn't see an alien land here?\n",
+    "output": "No, we're sure.\n"
+  },
+  {
+    "input": "No, we're sure.\n",
+    "output": "So then... we're the first aliens you've ever seen?\n"
+  },
+  {
+    "input": "So then... we're the first aliens you've ever seen?\n",
+    "output": "That's right, yep, you're the first ones.\n"
+  },
+  {
+    "input": "That's right, yep, you're the first ones.\n",
+    "output": "You don't seem that excited about your first contact with alien life.\n"
+  },
+  {
+    "input": "You don't seem that excited about your first contact with alien life.\n",
+    "output": "...Uh. That's r-. That's right! [shakes his head in mock surprise] Oh, oh my God! Hey everybody, we just made first contact!\n"
+  },
+  {
+    "input": "...Uh. That's r-. That's right! [shakes his head in mock surprise] Oh, oh my God! Hey everybody, we just made first contact!\n",
+    "output": "[hands Randy his translucent shimmering business card] If you do see any sign of the other alien or the space cash you-\n"
+  },
+  {
+    "input": "[hands Randy his translucent shimmering business card] If you do see any sign of the other alien or the space cash you-\n",
+    "output": "We will give you a call!\n"
+  },
+  {
+    "input": "We will give you a call!\n",
+    "output": "Mathematical semi-tonal is fine. [the space officers go back up their ramps to the ship, the ramps vanish behind them. Two blinking orbs appear above the ship and it takes off.]\n[The police ship.]\n"
+  },
+  {
+    "input": "Mathematical semi-tonal is fine. [the space officers go back up their ramps to the ship, the ramps vanish behind them. Two blinking orbs appear above the ship and it takes off.]\n[The police ship.]\n",
+    "output": "Huh.\n"
+  },
+  {
+    "input": "Huh.\n",
+    "output": "[uses both mouths] Something wrong, sir?\n"
+  },
+  {
+    "input": "[uses both mouths] Something wrong, sir?\n",
+    "output": "I don't know, Davert. Just somethin' about that planet didn't feel right. [blinks]\n[Back on the parking lot, Randy gives Stan the car body.]\n"
+  },
+  {
+    "input": "I don't know, Davert. Just somethin' about that planet didn't feel right. [blinks]\n[Back on the parking lot, Randy gives Stan the car body.]\n",
+    "output": "Alright son, now you just paint the racing stripe like you did before.\n"
+  },
+  {
+    "input": "Alright son, now you just paint the racing stripe like you did before.\n",
+    "output": "I don't need it painted, I just need it functional, all right?! [waves the gun around]\n"
+  },
+  {
+    "input": "I don't need it painted, I just need it functional, all right?! [waves the gun around]\n",
+    "output": "Hey, the right paint job is a big part of what makes a Pinewood Derby car go fast!\n"
+  },
+  {
+    "input": "Hey, the right paint job is a big part of what makes a Pinewood Derby car go fast!\n",
+    "output": "That's true.\n"
+  },
+  {
+    "input": "That's true.\n",
+    "output": "I swear, if you don't have that thing workin' in three minutes this whole planet is done for!\n"
+  },
+  {
+    "input": "I swear, if you don't have that thing workin' in three minutes this whole planet is done for!\n",
+    "output": "Dad, it's over. We have to tell everyone we cheated.\n"
+  },
+  {
+    "input": "Dad, it's over. We have to tell everyone we cheated.\n",
+    "output": "No. I've got it all figured out, son. You have to kill the alien.\n"
+  },
+  {
+    "input": "No. I've got it all figured out, son. You have to kill the alien.\n",
+    "output": "[alarmed] Kill the alien?\n"
+  },
+  {
+    "input": "[alarmed] Kill the alien?\n",
+    "output": "Sshh! I've been filing down this piece of metal into a shank. I'm gonna call him over here to look at the car, and when I do, you shove that in his neck.\n"
+  },
+  {
+    "input": "Sshh! I've been filing down this piece of metal into a shank. I'm gonna call him over here to look at the car, and when I do, you shove that in his neck.\n",
+    "output": "No. Dad, we don't even know what'll happen.\n"
+  },
+  {
+    "input": "No. Dad, we don't even know what'll happen.\n",
+    "output": "What are you two whispering about, riiight?\n"
+  },
+  {
+    "input": "What are you two whispering about, riiight?\n",
+    "output": "Oh no, that's uh that's it. We're done. Uh here. Come, come take a look.\n"
+  },
+  {
+    "input": "Oh no, that's uh that's it. We're done. Uh here. Come, come take a look.\n",
+    "output": "Dad? [McGee-zax comes in for a closer look]\n"
+  },
+  {
+    "input": "Dad? [McGee-zax comes in for a closer look]\n",
+    "output": "Here, see? Here look, look real close at the axles here. [McGee-zax studies the axles, and Stan jabs him in the neck with the shank, making him bleed and vomit profusely and then die] Yeahaah! Ahalright, you got him son!\n[The general takes the remote from McGee-zax's corpse and removes the cloak from the ship with it.]\n"
+  },
+  {
+    "input": "Here, see? Here look, look real close at the axles here. [McGee-zax studies the axles, and Stan jabs him in the neck with the shank, making him bleed and vomit profusely and then die] Yeahaah! Ahalright, you got him son!\n[The general takes the remote from McGee-zax's corpse and removes the cloak from the ship with it.]\n",
+    "output": "Alright men, check the ship. [he and a bunch of lab techs board the ship and look around]\n"
+  },
+  {
+    "input": "Alright men, check the ship. [he and a bunch of lab techs board the ship and look around]\n",
+    "output": "[kneels by Stan] You see Stan? What did Daddy tell you? Everything worked out.\n"
+  },
+  {
+    "input": "[kneels by Stan] You see Stan? What did Daddy tell you? Everything worked out.\n",
+    "output": "I guess so. It just still doesn't feel right.\n"
+  },
+  {
+    "input": "I guess so. It just still doesn't feel right.\n",
+    "output": "But Stan, it's over now. We'll never have to lie again.\n"
+  },
+  {
+    "input": "But Stan, it's over now. We'll never have to lie again.\n",
+    "output": "Hey Marsh, get in here! [Randy gets up and goes up the ramp into the ship. Stan follows.]\n[Inside the ship. The general, lab techs, and a few townsfolk are inside now. Stan and Randy make their way through the group.]\n"
+  },
+  {
+    "input": "Hey Marsh, get in here! [Randy gets up and goes up the ramp into the ship. Stan follows.]\n[Inside the ship. The general, lab techs, and a few townsfolk are inside now. Stan and Randy make their way through the group.]\n",
+    "output": "Can you believe it?\n"
+  },
+  {
+    "input": "Can you believe it?\n",
+    "output": "Oh my God. Spaaace caaash. [Before them is a towering pile of glittering blue bills]\n"
+  },
+  {
+    "input": "Oh my God. Spaaace caaash. [Before them is a towering pile of glittering blue bills]\n",
+    "output": "Looks like those alien cops were right. Guess you should call them back now.\n"
+  },
+  {
+    "input": "Looks like those alien cops were right. Guess you should call them back now.\n",
+    "output": "Right. [takes out his phone but has second thoughts.] Or what if we didn't call the cops?\n"
+  },
+  {
+    "input": "Right. [takes out his phone but has second thoughts.] Or what if we didn't call the cops?\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Well I mean... [walks up to the pile] this is a lot of space cash, guys. Think o'what we could do with it.\n"
+  },
+  {
+    "input": "Well I mean... [walks up to the pile] this is a lot of space cash, guys. Think o'what we could do with it.\n",
+    "output": "No, Dad-\n"
+  },
+  {
+    "input": "No, Dad-\n",
+    "output": "He's right. We don't have to call the police back.\n"
+  },
+  {
+    "input": "He's right. We don't have to call the police back.\n",
+    "output": "All right, let's get the cash put into boxes! [the men get to work]\n[Outside the ship. Randy is pleased with himself as he goes down the ramp. Stan follows him out.]\n"
+  },
+  {
+    "input": "All right, let's get the cash put into boxes! [the men get to work]\n[Outside the ship. Randy is pleased with himself as he goes down the ramp. Stan follows him out.]\n",
+    "output": "Whoawhoawhoa Dad, what are we doing?\n"
+  },
+  {
+    "input": "Whoawhoawhoa Dad, what are we doing?\n",
+    "output": "Will you relax, Stan? [his phone rings and he answers it]\n"
+  },
+  {
+    "input": "Will you relax, Stan? [his phone rings and he answers it]\n",
+    "output": "Don't think you can keep the all the space cash for yourself!\n"
+  },
+  {
+    "input": "Don't think you can keep the all the space cash for yourself!\n",
+    "output": "That's right! This is all of our planet; the space cash belongs to all of us!\n"
+  },
+  {
+    "input": "That's right! This is all of our planet; the space cash belongs to all of us!\n",
+    "output": "Either America shares that space cash with the rest of the world or we will tell the space cops!\n"
+  },
+  {
+    "input": "Either America shares that space cash with the rest of the world or we will tell the space cops!\n",
+    "output": "Alright, fine, look: there's plenty of space cash to go around! [hangs up on the leaders] Thanks to us, our planet is rich, son! [the general and other federal agents take the space cash away in boxes as Randy grins]\n[Four days later, in front of the fugitive ship. Randy is on his cell phone negotiating with the other world leaders.]\n"
+  },
+  {
+    "input": "Alright, fine, look: there's plenty of space cash to go around! [hangs up on the leaders] Thanks to us, our planet is rich, son! [the general and other federal agents take the space cash away in boxes as Randy grins]\n[Four days later, in front of the fugitive ship. Randy is on his cell phone negotiating with the other world leaders.]\n",
+    "output": "Oh no, China, we get to keep the ship. Because we killed the alien, you boner! Oh-oh come on England, you got just as much of the space cash as everyone else! [A siren is heard. Randy looks up to the sky and sees the space cops returning, but forgets to cloak the ship] Oh crap it's the cops! Hang on. [the police ship lands and the alien officers exit their ship] Ah hey, space officers.\n"
+  },
+  {
+    "input": "Oh no, China, we get to keep the ship. Because we killed the alien, you boner! Oh-oh come on England, you got just as much of the space cash as everyone else! [A siren is heard. Randy looks up to the sky and sees the space cops returning, but forgets to cloak the ship] Oh crap it's the cops! Hang on. [the police ship lands and the alien officers exit their ship] Ah hey, space officers.\n",
+    "output": "Looks like the alien criminal did land here after all.\n"
+  },
+  {
+    "input": "Looks like the alien criminal did land here after all.\n",
+    "output": "Oh, that- You were talking about that alien. Oh yeah that one, he was here, yeah. He landed here, but we... we killed him.\n"
+  },
+  {
+    "input": "Oh, that- You were talking about that alien. Oh yeah that one, he was here, yeah. He landed here, but we... we killed him.\n",
+    "output": "And so, did you find the missing space cash?\n"
+  },
+  {
+    "input": "And so, did you find the missing space cash?\n",
+    "output": "[thinks a moment] Nnno. Space cash? No. [strokes his ear, then rubs his neck with his left hand] There wasn't any space cash.\n"
+  },
+  {
+    "input": "[thinks a moment] Nnno. Space cash? No. [strokes his ear, then rubs his neck with his left hand] There wasn't any space cash.\n",
+    "output": "Well maybe someone else on your planet knows where it is?\n"
+  },
+  {
+    "input": "Well maybe someone else on your planet knows where it is?\n",
+    "output": "Hey ah ah, any of you other countries see any space cash?\n"
+  },
+  {
+    "input": "Hey ah ah, any of you other countries see any space cash?\n",
+    "output": "No space cash.\n"
+  },
+  {
+    "input": "No space cash.\n",
+    "output": "No we haven't-\n"
+  },
+  {
+    "input": "No we haven't-\n",
+    "output": "No space cash.\n"
+  },
+  {
+    "input": "No space cash.\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "Yeah, it doesn't look like the space cash was ever here.\n"
+  },
+  {
+    "input": "Yeah, it doesn't look like the space cash was ever here.\n",
+    "output": "Uh huh. Guess he must have dropped it off at some other planet.\n"
+  },
+  {
+    "input": "Uh huh. Guess he must have dropped it off at some other planet.\n",
+    "output": "[relieved] Probably.\n"
+  },
+  {
+    "input": "[relieved] Probably.\n",
+    "output": "Well you folks all take care now. [the officers turn to leave, but they turn around once again] Just... one more thing, Earthlings, uh... We had some images done of your planet and it appears that one of your poorer countries - Mexico? - has built 32 new hospitals and seven water parks in the last four days.\n"
+  },
+  {
+    "input": "Well you folks all take care now. [the officers turn to leave, but they turn around once again] Just... one more thing, Earthlings, uh... We had some images done of your planet and it appears that one of your poorer countries - Mexico? - has built 32 new hospitals and seven water parks in the last four days.\n",
+    "output": "[silent for a moment] Oh... Yeah, Mexico. You know oh, oh, yeah. All of us other countries chipped in and uh, gave Mexico some aid. Yeah they really needed... some new water parks.\n"
+  },
+  {
+    "input": "[silent for a moment] Oh... Yeah, Mexico. You know oh, oh, yeah. All of us other countries chipped in and uh, gave Mexico some aid. Yeah they really needed... some new water parks.\n",
+    "output": "Uh huh. Have a good day. [the officers turn and head up the ramps. The doors close and the police ship leaves the planet once again]\n"
+  },
+  {
+    "input": "Uh huh. Have a good day. [the officers turn and head up the ramps. The doors close and the police ship leaves the planet once again]\n",
+    "output": "[gets back on the phone] Hey. Hey Mexico! We said no spending the space cash yet! [a shot of the Mexican president at his desk with a new water park right outside his window] What the hell are you doing?! Will some country that speaks Spanish yell at Mexico please? They're gonna ruin everything!\n[Stan's room, later. Stan sits on his bed and holds his trophy, but he's not happy about it. He looks at it for a long while, then gets off his bed, walks over to his toy box, and puts the trophy on the lid. He puts his hands behind his back and holds one wrist with the other hand. He then looks at newspaper clippings from the day of the race. The headlines are as follows: \"FATHER AND SON SET PINEWOOD DERBY RECORD\", \"WARP SPEED DISCOVERED\", \"DAD AND SON GREET VISITORS FROM OTHER WORLD!\", \"DERBY WINNER KILLS ALIEN,\" \"CHINA BUILDS 48 NEW SOCCER STADIUMS.\" Stan sighs silently, sadly.]\n[The Marsh house, kitchen. Randy is back on the phone with the world leaders, but he's getting disheveled.]\n"
+  },
+  {
+    "input": "[gets back on the phone] Hey. Hey Mexico! We said no spending the space cash yet! [a shot of the Mexican president at his desk with a new water park right outside his window] What the hell are you doing?! Will some country that speaks Spanish yell at Mexico please? They're gonna ruin everything!\n[Stan's room, later. Stan sits on his bed and holds his trophy, but he's not happy about it. He looks at it for a long while, then gets off his bed, walks over to his toy box, and puts the trophy on the lid. He puts his hands behind his back and holds one wrist with the other hand. He then looks at newspaper clippings from the day of the race. The headlines are as follows: \"FATHER AND SON SET PINEWOOD DERBY RECORD\", \"WARP SPEED DISCOVERED\", \"DAD AND SON GREET VISITORS FROM OTHER WORLD!\", \"DERBY WINNER KILLS ALIEN,\" \"CHINA BUILDS 48 NEW SOCCER STADIUMS.\" Stan sighs silently, sadly.]\n[The Marsh house, kitchen. Randy is back on the phone with the world leaders, but he's getting disheveled.]\n",
+    "output": "No, Japan! Will you listen to me for five seconds?! If you keep building giant robots the cops are gonna ask questions!\n"
+  },
+  {
+    "input": "No, Japan! Will you listen to me for five seconds?! If you keep building giant robots the cops are gonna ask questions!\n",
+    "output": "Well then why can Engrand build a nuclear power plant?!\n"
+  },
+  {
+    "input": "Well then why can Engrand build a nuclear power plant?!\n",
+    "output": "Nobody can build anything!!\n"
+  },
+  {
+    "input": "Nobody can build anything!!\n",
+    "output": "Yeah, well, it's not even gonna matter, because Finland is thinking about telling the space cops the truth!\n"
+  },
+  {
+    "input": "Yeah, well, it's not even gonna matter, because Finland is thinking about telling the space cops the truth!\n",
+    "output": "Wha?! Finland?! [Stan walks by the kitchen to see what's going on]\n"
+  },
+  {
+    "input": "Wha?! Finland?! [Stan walks by the kitchen to see what's going on]\n",
+    "output": "We believe the aliens are going to find out sooner or later what we did. It's best we come clean now.\n"
+  },
+  {
+    "input": "We believe the aliens are going to find out sooner or later what we did. It's best we come clean now.\n",
+    "output": "[getting exasperated] Will you just relax, Finland?! Nobody is gonna find out anything.\n"
+  },
+  {
+    "input": "[getting exasperated] Will you just relax, Finland?! Nobody is gonna find out anything.\n",
+    "output": "I'm sorry, but our nation is resolved. We cannot live with the guilt anymore.\n"
+  },
+  {
+    "input": "I'm sorry, but our nation is resolved. We cannot live with the guilt anymore.\n",
+    "output": "Okay okay! [Stan leaves] You're right. You're right, Finland! Okay? You're right. Can you just... let us other countries talk pr-private, for a moment?\n"
+  },
+  {
+    "input": "Okay okay! [Stan leaves] You're right. You're right, Finland! Okay? You're right. Can you just... let us other countries talk pr-private, for a moment?\n",
+    "output": "Very well. [goes on hold]\n"
+  },
+  {
+    "input": "Very well. [goes on hold]\n",
+    "output": "All right you guys, we've gotta get rid of Finland.\n"
+  },
+  {
+    "input": "All right you guys, we've gotta get rid of Finland.\n",
+    "output": "Yep, we gotta take out Finrand, they gonna squeal.\n"
+  },
+  {
+    "input": "Yep, we gotta take out Finrand, they gonna squeal.\n",
+    "output": "Yeah, I think we all agree. Guys? [eight leaders are shown onscreen and they all agree]\n[Outer space. Missiles from around the world begin to flow towards Finland and bomb the place.]\n[The Marsh house, night. The family is having a nice quiet dinner when the police ship returns to South Park. Randy wipes his mouth dry and leaves the table.]\n"
+  },
+  {
+    "input": "Yeah, I think we all agree. Guys? [eight leaders are shown onscreen and they all agree]\n[Outer space. Missiles from around the world begin to flow towards Finland and bomb the place.]\n[The Marsh house, night. The family is having a nice quiet dinner when the police ship returns to South Park. Randy wipes his mouth dry and leaves the table.]\n",
+    "output": "Oh dammit!\n[The landing area. A crowd gathers again and Randy walks up to the ship.]\n"
+  },
+  {
+    "input": "Oh dammit!\n[The landing area. A crowd gathers again and Randy walks up to the ship.]\n",
+    "output": "Uh hey, space officers. How can we help you?\n"
+  },
+  {
+    "input": "Uh hey, space officers. How can we help you?\n",
+    "output": "Well we're a little puzzled over one of your countries? Uh, Finland?\n"
+  },
+  {
+    "input": "Well we're a little puzzled over one of your countries? Uh, Finland?\n",
+    "output": "[rubs his neck again] Whaa-wha-what about it?\n"
+  },
+  {
+    "input": "[rubs his neck again] Whaa-wha-what about it?\n",
+    "output": "It appears to have been... destroyed.\n"
+  },
+  {
+    "input": "It appears to have been... destroyed.\n",
+    "output": "[feigning surprise] Whaaat? Oh my God, not Finland.\n"
+  },
+  {
+    "input": "[feigning surprise] Whaaat? Oh my God, not Finland.\n",
+    "output": "Oh no, not Finland.\n"
+  },
+  {
+    "input": "Oh no, not Finland.\n",
+    "output": "Hey guys, Finland's dead.\n"
+  },
+  {
+    "input": "Hey guys, Finland's dead.\n",
+    "output": "Oh no. No! Nooo.\n"
+  },
+  {
+    "input": "Oh no. No! Nooo.\n",
+    "output": "Noo, not a Finrand!\n"
+  },
+  {
+    "input": "Noo, not a Finrand!\n",
+    "output": "All of Finland, gone.\n"
+  },
+  {
+    "input": "All of Finland, gone.\n",
+    "output": "Yeah, somebody better break the news to Norway; they were really close.\n"
+  },
+  {
+    "input": "Yeah, somebody better break the news to Norway; they were really close.\n",
+    "output": "None of you knew anything about Finland's destruction?\n"
+  },
+  {
+    "input": "None of you knew anything about Finland's destruction?\n",
+    "output": "[rubs his neck again] No, I mean... Odds are, they nuked themselves. You know, suicide.\n"
+  },
+  {
+    "input": "[rubs his neck again] No, I mean... Odds are, they nuked themselves. You know, suicide.\n",
+    "output": "We didn't say anything about nukes.\n"
+  },
+  {
+    "input": "We didn't say anything about nukes.\n",
+    "output": "Or, or whatever they did, I'm sayin'.\n"
+  },
+  {
+    "input": "Or, or whatever they did, I'm sayin'.\n",
+    "output": "'Scuse me! 'Scuse me! [the crowd makes way for him as he walks up to the ship] Everyone, I have an announcement to make. I'm giving back my Pinewood Derby trophy! [hands it to the judge]\n"
+  },
+  {
+    "input": "'Scuse me! 'Scuse me! [the crowd makes way for him as he walks up to the ship] Everyone, I have an announcement to make. I'm giving back my Pinewood Derby trophy! [hands it to the judge]\n",
+    "output": "[takes the trophy] What?\n"
+  },
+  {
+    "input": "[takes the trophy] What?\n",
+    "output": "Stan?\n"
+  },
+  {
+    "input": "Stan?\n",
+    "output": "The truth is, I don't deserve this trophy. 'Cause I cheated on my Pinewood Derby car. I used something not in the approved kit. [the crowd reacts to this admission.]\n"
+  },
+  {
+    "input": "The truth is, I don't deserve this trophy. 'Cause I cheated on my Pinewood Derby car. I used something not in the approved kit. [the crowd reacts to this admission.]\n",
+    "output": "Not in the approved kit?!\n"
+  },
+  {
+    "input": "Not in the approved kit?!\n",
+    "output": "He cheated on the Pinewood Derby?\n"
+  },
+  {
+    "input": "He cheated on the Pinewood Derby?\n",
+    "output": "This trophy isn't mine, and so I have to give it back! Because if I'm not honest now, then I'll have to keep this lie going forever. And it will just grow and grow. [everyone, including the world leaders from Kenya and South Korea, hangs on Stan's every word]\n"
+  },
+  {
+    "input": "This trophy isn't mine, and so I have to give it back! Because if I'm not honest now, then I'll have to keep this lie going forever. And it will just grow and grow. [everyone, including the world leaders from Kenya and South Korea, hangs on Stan's every word]\n",
+    "output": "Well Stan, we're proud of you for coming clean. But it doesn't change the fact that you cheated. Go to your room, son.\n"
+  },
+  {
+    "input": "Well Stan, we're proud of you for coming clean. But it doesn't change the fact that you cheated. Go to your room, son.\n",
+    "output": "Your son seems to have some pretty inspirational words. You sure you Earthlings have nothing else to tell us?\n"
+  },
+  {
+    "input": "Your son seems to have some pretty inspirational words. You sure you Earthlings have nothing else to tell us?\n",
+    "output": "[gets on the phone with the other leaders] Hey uh, do we have anything else to tell the space cops?\n"
+  },
+  {
+    "input": "[gets on the phone with the other leaders] Hey uh, do we have anything else to tell the space cops?\n",
+    "output": "Nope.\n"
+  },
+  {
+    "input": "Nope.\n",
+    "output": "Nope.\n"
+  },
+  {
+    "input": "Nope.\n",
+    "output": "No changes.\n"
+  },
+  {
+    "input": "No changes.\n",
+    "output": "Nope.\n"
+  },
+  {
+    "input": "Nope.\n",
+    "output": "No changes.\n"
+  },
+  {
+    "input": "No changes.\n",
+    "output": "Nope.\n"
+  },
+  {
+    "input": "Nope.\n",
+    "output": "No. Tell them no.\n"
+  },
+  {
+    "input": "No. Tell them no.\n",
+    "output": "No changes.\n"
+  },
+  {
+    "input": "No changes.\n",
+    "output": "[rubs his neck] Yeah, no, we've told you everything, space officers.\n"
+  },
+  {
+    "input": "[rubs his neck] Yeah, no, we've told you everything, space officers.\n",
+    "output": "All right, that's it then. Come on out sir, it appears to be over. [a door on the lower level of the ship drops down from the outer wall to become a ramp, and a figure stands at the entrance, then walks down the ramp. The figure looks familiar...]\n"
+  },
+  {
+    "input": "All right, that's it then. Come on out sir, it appears to be over. [a door on the lower level of the ship drops down from the outer wall to become a ramp, and a figure stands at the entrance, then walks down the ramp. The figure looks familiar...]\n",
+    "output": "[jumps back in horror] Aw shit, it's Baby Fark McGee-zax!\n"
+  },
+  {
+    "input": "[jumps back in horror] Aw shit, it's Baby Fark McGee-zax!\n",
+    "output": "My real name is Kevern Zaksor. I am the ambassador to new planet testing. [Stan and Randy look at each other]\n"
+  },
+  {
+    "input": "My real name is Kevern Zaksor. I am the ambassador to new planet testing. [Stan and Randy look at each other]\n",
+    "output": "What the hell are they talking about?\n"
+  },
+  {
+    "input": "What the hell are they talking about?\n",
+    "output": "These are not space cops. [the officers remove their helmets] There is no space jail, and space cash is only worth what you as a planet decided it was worth. I mean, how stupid is your species? Space jail? Baby Fark McGee-zax?\n"
+  },
+  {
+    "input": "These are not space cops. [the officers remove their helmets] There is no space jail, and space cash is only worth what you as a planet decided it was worth. I mean, how stupid is your species? Space jail? Baby Fark McGee-zax?\n",
+    "output": "It was... a trick?\n"
+  },
+  {
+    "input": "It was... a trick?\n",
+    "output": "Whenever a civilization discovers warp speed, we want to bring them into the Federation of Planets, but first we do the space cash test, to see if that species is worthy of joining.\n"
+  },
+  {
+    "input": "Whenever a civilization discovers warp speed, we want to bring them into the Federation of Planets, but first we do the space cash test, to see if that species is worthy of joining.\n",
+    "output": "Needless to say, you all failed. [he and the two officers go back inside the ship. He turns at his door's entrance and clears his throat] People of earth, since you did not return the space cash, your species and your planet is hereby forever blocked off and barred from the rest of the universe. Goodbye. [his door closes. The ramps all go back into the ship and the ship takes off]\n"
+  }
+]

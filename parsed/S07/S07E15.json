@@ -1,0 +1,1202 @@
+[
+  {
+    "input": "",
+    "output": "It's Christmas in Canada\n\n[Kyle's house, night. \"Happy Chanukah\" The Broflovski family sings as Gerald lights the first candle on the Chanukah menorah.]\n"
+  },
+  {
+    "input": "It's Christmas in Canada\n\n[Kyle's house, night. \"Happy Chanukah\" The Broflovski family sings as Gerald lights the first candle on the Chanukah menorah.]\n",
+    "output": "Chanukah, Chanukah, sivivon, sov, sov\n"
+  },
+  {
+    "input": "Chanukah, Chanukah, sivivon, sov, sov\n",
+    "output": "I gotta go tinkle.\n"
+  },
+  {
+    "input": "I gotta go tinkle.\n",
+    "output": "No Ike! Shh!\n"
+  },
+  {
+    "input": "No Ike! Shh!\n",
+    "output": "[while Ike and Kyle talk] Sov, sov, sov! Sov, sov, sov! Ma nayim vi-tov.\n"
+  },
+  {
+    "input": "[while Ike and Kyle talk] Sov, sov, sov! Sov, sov, sov! Ma nayim vi-tov.\n",
+    "output": "We thank God for our blessings this Chanukah. Our little family is so loving, and perfect, and nothing will ever tear us apart. [the doorbell rings] I'll get it. [goes to answer the door. A Canadian couple stands at the entrance]\n"
+  },
+  {
+    "input": "We thank God for our blessings this Chanukah. Our little family is so loving, and perfect, and nothing will ever tear us apart. [the doorbell rings] I'll get it. [goes to answer the door. A Canadian couple stands at the entrance]\n",
+    "output": "Gerald Broflovski?\n"
+  },
+  {
+    "input": "Gerald Broflovski?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "My name is Harry Gintz and this is my wife Elise. We're from Canada.\n"
+  },
+  {
+    "input": "My name is Harry Gintz and this is my wife Elise. We're from Canada.\n",
+    "output": "Yes, I can tell.\n"
+  },
+  {
+    "input": "Yes, I can tell.\n",
+    "output": "My wife and I had a child a few years back, and, we weren't ready to have a child, so we put him up for adoption. [Kyle and Ike come into view] We were told that you might be the-\n"
+  },
+  {
+    "input": "My wife and I had a child a few years back, and, we weren't ready to have a child, so we put him up for adoption. [Kyle and Ike come into view] We were told that you might be the-\n",
+    "output": "Peter! [rushes in] Oh God, Harry! It's our son! [approaches and kneels. Ike hides behind Kyle] Peter, it's Mommy.\n"
+  },
+  {
+    "input": "Peter! [rushes in] Oh God, Harry! It's our son! [approaches and kneels. Ike hides behind Kyle] Peter, it's Mommy.\n",
+    "output": "Gerald, what the hell is going on?\n"
+  },
+  {
+    "input": "Gerald, what the hell is going on?\n",
+    "output": "I'm not sure.\n[Moments later, both couples are at the dining room table.]\n"
+  },
+  {
+    "input": "I'm not sure.\n[Moments later, both couples are at the dining room table.]\n",
+    "output": "It was a tough time for us. It was a tough time for all of Canada. The whole country was devastated by the cola wars. It just seemed we couldn't take care of a baby.\n"
+  },
+  {
+    "input": "It was a tough time for us. It was a tough time for all of Canada. The whole country was devastated by the cola wars. It just seemed we couldn't take care of a baby.\n",
+    "output": "So we put him up for adoption. But as the years passed, I, I just felt an emptiness in my heart. [Kyle eavesdrops on the conversation, with Ike at his side] Oh it's so good to see him.\n"
+  },
+  {
+    "input": "So we put him up for adoption. But as the years passed, I, I just felt an emptiness in my heart. [Kyle eavesdrops on the conversation, with Ike at his side] Oh it's so good to see him.\n",
+    "output": "Well, we wish you all the best, Mr. and Mrs. Gintz, but to be honest, I think it would be best for Ike if you didn't come around again.\n"
+  },
+  {
+    "input": "Well, we wish you all the best, Mr. and Mrs. Gintz, but to be honest, I think it would be best for Ike if you didn't come around again.\n",
+    "output": "I don't think you understand. We didn't come to visit Peter, we came to take him back.\n"
+  },
+  {
+    "input": "I don't think you understand. We didn't come to visit Peter, we came to take him back.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "We want to take Peter home, to Canada.\n"
+  },
+  {
+    "input": "We want to take Peter home, to Canada.\n",
+    "output": "Are you crazy?!\n"
+  },
+  {
+    "input": "Are you crazy?!\n",
+    "output": "Look, you gave Ike up. You can't just change your mind.\n"
+  },
+  {
+    "input": "Look, you gave Ike up. You can't just change your mind.\n",
+    "output": "Changing your mind is a Canadian custom that we hold quite dear. And besides, the new Canadian Prime Minister has issued a decree that all adopted Canadians must be returned home.\n"
+  },
+  {
+    "input": "Changing your mind is a Canadian custom that we hold quite dear. And besides, the new Canadian Prime Minister has issued a decree that all adopted Canadians must be returned home.\n",
+    "output": "The new Canadian Prime Minister?\n"
+  },
+  {
+    "input": "The new Canadian Prime Minister?\n",
+    "output": "Look, Ike is our son now!\n"
+  },
+  {
+    "input": "Look, Ike is our son now!\n",
+    "output": "He doesn't belong here. He belongs in Canada with his own kind.\n"
+  },
+  {
+    "input": "He doesn't belong here. He belongs in Canada with his own kind.\n",
+    "output": "I think you'd better leave.\n"
+  },
+  {
+    "input": "I think you'd better leave.\n",
+    "output": "Please, don't make things any harder for Peter.\n"
+  },
+  {
+    "input": "Please, don't make things any harder for Peter.\n",
+    "output": "Harder for Peter?! Now you two just blow in here and say you're gonna haul him back to Canada, and we're being hard on Peter?!\n"
+  },
+  {
+    "input": "Harder for Peter?! Now you two just blow in here and say you're gonna haul him back to Canada, and we're being hard on Peter?!\n",
+    "output": "We're prepared to go to court! We had hoped it wouldn't come to that!\n"
+  },
+  {
+    "input": "We're prepared to go to court! We had hoped it wouldn't come to that!\n",
+    "output": "Well you bet your ass it'll come to that!\n[Park County courtroom, day.]\n"
+  },
+  {
+    "input": "Well you bet your ass it'll come to that!\n[Park County courtroom, day.]\n",
+    "output": "I'm sorry to say that my hands are tied. The new Prime Minister of Canada has authority this court cannot override. By Canadian law I must award custody of the child to his birth parents.\n"
+  },
+  {
+    "input": "I'm sorry to say that my hands are tied. The new Prime Minister of Canada has authority this court cannot override. By Canadian law I must award custody of the child to his birth parents.\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "[frightened] Ike's not my little brother anymore?\n"
+  },
+  {
+    "input": "[frightened] Ike's not my little brother anymore?\n",
+    "output": "Gerald, do something!\n"
+  },
+  {
+    "input": "Gerald, do something!\n",
+    "output": "There's nothing I can do.\n[Kyle's house, day. Sheila cries as Gerald sends Ike off.]\n"
+  },
+  {
+    "input": "There's nothing I can do.\n[Kyle's house, day. Sheila cries as Gerald sends Ike off.]\n",
+    "output": "Good-bye, Ike. You... [wipes a tear from his eyes] be a good boy, huh? You... remember all the things we taught you. [kisses Ike on the head and steps back to console Sheila. Kyle steps forward.]\n"
+  },
+  {
+    "input": "Good-bye, Ike. You... [wipes a tear from his eyes] be a good boy, huh? You... remember all the things we taught you. [kisses Ike on the head and steps back to console Sheila. Kyle steps forward.]\n",
+    "output": "Ike, you'll always be my little brother, okay?\n"
+  },
+  {
+    "input": "Ike, you'll always be my little brother, okay?\n",
+    "output": "Come on, Peter, we should get going.\n"
+  },
+  {
+    "input": "Come on, Peter, we should get going.\n",
+    "output": "[holds onto Kyle] No!\n"
+  },
+  {
+    "input": "[holds onto Kyle] No!\n",
+    "output": "Peter, you must come with Mommy and Daddy.\n"
+  },
+  {
+    "input": "Peter, you must come with Mommy and Daddy.\n",
+    "output": "No no no no no!\n"
+  },
+  {
+    "input": "No no no no no!\n",
+    "output": "[whips out a chocolate bar] I have some chocolate.\n"
+  },
+  {
+    "input": "[whips out a chocolate bar] I have some chocolate.\n",
+    "output": "Chocolate! [rushes for the candy, and Harry settles him inside the car]\n"
+  },
+  {
+    "input": "Chocolate! [rushes for the candy, and Harry settles him inside the car]\n",
+    "output": "We're going to take good care of him.\n"
+  },
+  {
+    "input": "We're going to take good care of him.\n",
+    "output": "You'd better! [Harry closes the car door and goes to his side, then settles in to drive. The car lunges forward on square wheels. Kyle looks as Ike goes away. Ike looks back] Dad, can't we talk to this new Canadian Prime Minister? If he knew the situation, he might be-\n"
+  },
+  {
+    "input": "You'd better! [Harry closes the car door and goes to his side, then settles in to drive. The car lunges forward on square wheels. Kyle looks as Ike goes away. Ike looks back] Dad, can't we talk to this new Canadian Prime Minister? If he knew the situation, he might be-\n",
+    "output": "Oh! Kyle, appealing to the Prime Minister of Canada would take... time and money we don't have.\n[Luau's Toys, night. It's dressed for Christmas. Stan, Cartman, and Kenny look inside the shop through the window.]\n"
+  },
+  {
+    "input": "Oh! Kyle, appealing to the Prime Minister of Canada would take... time and money we don't have.\n[Luau's Toys, night. It's dressed for Christmas. Stan, Cartman, and Kenny look inside the shop through the window.]\n",
+    "output": "Dude, look at that. Sprinkle Time Make Your Own Marshmallow Factory. I'm definitely asking for that for Christmas.\n"
+  },
+  {
+    "input": "Dude, look at that. Sprinkle Time Make Your Own Marshmallow Factory. I'm definitely asking for that for Christmas.\n",
+    "output": "Dude, I'm gonna tell my parents to get me that John Elway doll with the karate-chop action.\n"
+  },
+  {
+    "input": "Dude, I'm gonna tell my parents to get me that John Elway doll with the karate-chop action.\n",
+    "output": "Guys. [the other boys turn to face him] Guys, I need your help.\n"
+  },
+  {
+    "input": "Guys. [the other boys turn to face him] Guys, I need your help.\n",
+    "output": "Sure dude.\n"
+  },
+  {
+    "input": "Sure dude.\n",
+    "output": "It's been a week since Ike's been gone, and every day my parents seem worse. I have to try to go to Canada and speak with the new Canadian Prime Minister, but I can't do it alone.\n"
+  },
+  {
+    "input": "It's been a week since Ike's been gone, and every day my parents seem worse. I have to try to go to Canada and speak with the new Canadian Prime Minister, but I can't do it alone.\n",
+    "output": "We can't go to Canada, dumbass! It's Christmas!\n"
+  },
+  {
+    "input": "We can't go to Canada, dumbass! It's Christmas!\n",
+    "output": "Yeah, dude. What if we miss out on some great Christmas adventure?\n"
+  },
+  {
+    "input": "Yeah, dude. What if we miss out on some great Christmas adventure?\n",
+    "output": "Please, you guys, you don't understand. [walks off some distance] My family is devastated. My mom just walks around the house like a zombie, and my dad can't stop crying.\n"
+  },
+  {
+    "input": "Please, you guys, you don't understand. [walks off some distance] My family is devastated. My mom just walks around the house like a zombie, and my dad can't stop crying.\n",
+    "output": "Well, I didn't wanna say anything, Kyle, but I think this is what your family gets for being Jewish at Christmas time.\n"
+  },
+  {
+    "input": "Well, I didn't wanna say anything, Kyle, but I think this is what your family gets for being Jewish at Christmas time.\n",
+    "output": "Dude, Cartman.\n"
+  },
+  {
+    "input": "Dude, Cartman.\n",
+    "output": "I'm just saying, maybe Jesus is having a little revenge, that's all.\n"
+  },
+  {
+    "input": "I'm just saying, maybe Jesus is having a little revenge, that's all.\n",
+    "output": "[returns] I found the number for a really cheap airline to Canada. If we go as soon as possible, then-\n"
+  },
+  {
+    "input": "[returns] I found the number for a really cheap airline to Canada. If we go as soon as possible, then-\n",
+    "output": "Dude, we just can't up and go to Canada. Look, they're about to light the Christmas tree. Maybe you can get your brother back some other way. [he, Cartman and Kenny leave. Cartman stops and returns]\n"
+  },
+  {
+    "input": "Dude, we just can't up and go to Canada. Look, they're about to light the Christmas tree. Maybe you can get your brother back some other way. [he, Cartman and Kenny leave. Cartman stops and returns]\n",
+    "output": "Kyle, I just want you to know, if it were any other time of the year, I still wouldn't help you. [walks off in the direction of the other boys. Kyle walks off sadly in the other direction]\n[South Park City Hall, night. The town Christmas tree is up, City Hall is decked out in Christmas decorations.]\n"
+  },
+  {
+    "input": "Kyle, I just want you to know, if it were any other time of the year, I still wouldn't help you. [walks off in the direction of the other boys. Kyle walks off sadly in the other direction]\n[South Park City Hall, night. The town Christmas tree is up, City Hall is decked out in Christmas decorations.]\n",
+    "output": "Three! Two! One! [The lights to the Christmas tree are plugged in] Yaaaaay!\n"
+  },
+  {
+    "input": "Three! Two! One! [The lights to the Christmas tree are plugged in] Yaaaaay!\n",
+    "output": "As we celebrate this glorious time, we can't forget those families who are suffering. As many of you know, the Broflovski family has recently had their child torn away from them. As a community, we must do all we can to ease their pain. Are there any suggestions how we might help?\n"
+  },
+  {
+    "input": "As we celebrate this glorious time, we can't forget those families who are suffering. As many of you know, the Broflovski family has recently had their child torn away from them. As a community, we must do all we can to ease their pain. Are there any suggestions how we might help?\n",
+    "output": "How about, we get rid of all the Mexicans? [a few seconds of silence]\n"
+  },
+  {
+    "input": "How about, we get rid of all the Mexicans? [a few seconds of silence]\n",
+    "output": "Mr. Garrison, every Christmas you suggest we get rid of all the Mexicans, and every Christmas we tell you \"NO!\"\n"
+  },
+  {
+    "input": "Mr. Garrison, every Christmas you suggest we get rid of all the Mexicans, and every Christmas we tell you \"NO!\"\n",
+    "output": "Rats!\n"
+  },
+  {
+    "input": "Rats!\n",
+    "output": "The Broflovskis need money to appeal that case to the new Canadian Prime Minister. What if this Christmas, instead of buyin' presents, we all use that money to give to the Broflovskis?\n"
+  },
+  {
+    "input": "The Broflovskis need money to appeal that case to the new Canadian Prime Minister. What if this Christmas, instead of buyin' presents, we all use that money to give to the Broflovskis?\n",
+    "output": "HA! Yeah, right! Like our parents aren't gonna buy us presents for Christmas!\n"
+  },
+  {
+    "input": "HA! Yeah, right! Like our parents aren't gonna buy us presents for Christmas!\n",
+    "output": "That's a great idea, Chef.\n"
+  },
+  {
+    "input": "That's a great idea, Chef.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Yeah. Who needs more stuff, anyway? This Christmas we can do somethin' that really matters!\n"
+  },
+  {
+    "input": "Yeah. Who needs more stuff, anyway? This Christmas we can do somethin' that really matters!\n",
+    "output": "[trying to rein in his dad's enthusiasm] Dad, don't get carried away.\n"
+  },
+  {
+    "input": "[trying to rein in his dad's enthusiasm] Dad, don't get carried away.\n",
+    "output": "Then it's settled: This year we'll give all our Christmas money to the Broflovskis, in hopes that they may someday have their child returned to them. [the crowd cheers and disperses]\n"
+  },
+  {
+    "input": "Then it's settled: This year we'll give all our Christmas money to the Broflovskis, in hopes that they may someday have their child returned to them. [the crowd cheers and disperses]\n",
+    "output": "No! No, this can't be happening! [Kenny, Heidi and Clyde remain there as well. Clyde begins to cry.]\n[Kyle walks down the street still depressed. Cartman bounds in before him.]\n"
+  },
+  {
+    "input": "No! No, this can't be happening! [Kenny, Heidi and Clyde remain there as well. Clyde begins to cry.]\n[Kyle walks down the street still depressed. Cartman bounds in before him.]\n",
+    "output": "You fucking asshole!! This is all your fault!!\n"
+  },
+  {
+    "input": "You fucking asshole!! This is all your fault!!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Everyone's gonna be charitable and give money to your family instead of buying Christmas presents!! [Stan and Kenny walk in behind him] You fucking Jews ruined Christmas again!! [lunges after Kyle] AAAAAA!! [Stan and Kenny jump in and hold him back]\n"
+  },
+  {
+    "input": "Everyone's gonna be charitable and give money to your family instead of buying Christmas presents!! [Stan and Kenny walk in behind him] You fucking Jews ruined Christmas again!! [lunges after Kyle] AAAAAA!! [Stan and Kenny jump in and hold him back]\n",
+    "output": "Whoa whoa, Cartman.\n"
+  },
+  {
+    "input": "Whoa whoa, Cartman.\n",
+    "output": "It wasn't enough for you people to kill Jesus, now you have to kill Christmas too, huh?!\n"
+  },
+  {
+    "input": "It wasn't enough for you people to kill Jesus, now you have to kill Christmas too, huh?!\n",
+    "output": "Cartman, calm down!\n"
+  },
+  {
+    "input": "Cartman, calm down!\n",
+    "output": "[to Stan] Is that true?\n"
+  },
+  {
+    "input": "[to Stan] Is that true?\n",
+    "output": "It's true, dude. Christmas is ruined.\n"
+  },
+  {
+    "input": "It's true, dude. Christmas is ruined.\n",
+    "output": "[takes off his mittens and coat] This is it, Kyle. You and me. We're throwin' down. Right now.\n"
+  },
+  {
+    "input": "[takes off his mittens and coat] This is it, Kyle. You and me. We're throwin' down. Right now.\n",
+    "output": "I'm sorry you guys, but there is something we can do. We can go to Canada and see the Prime Minister like I said. If we can change his mind before Christmas, then your parents won't have to give my family money.\n"
+  },
+  {
+    "input": "I'm sorry you guys, but there is something we can do. We can go to Canada and see the Prime Minister like I said. If we can change his mind before Christmas, then your parents won't have to give my family money.\n",
+    "output": "You really think if we go to Canada we might still get Christmas presents?\n"
+  },
+  {
+    "input": "You really think if we go to Canada we might still get Christmas presents?\n",
+    "output": "It's worth a shot. Come on, you guys, we can do this.\n"
+  },
+  {
+    "input": "It's worth a shot. Come on, you guys, we can do this.\n",
+    "output": "Oh all right, but we'd better not miss out on great Christmas adventures.\n"
+  },
+  {
+    "input": "Oh all right, but we'd better not miss out on great Christmas adventures.\n",
+    "output": "[reassuring] We'll get back in time for a Christmas adventure.\n"
+  },
+  {
+    "input": "[reassuring] We'll get back in time for a Christmas adventure.\n",
+    "output": "Fine. But if it doesn't work, you and me are gonna have it out, Kyle. Once and for all.\n[City Wok, night. \"Christmas Special: Chinese Food For The Holidays\" Mr. Kim sits at one of his tables with nothing to do.]\n"
+  },
+  {
+    "input": "Fine. But if it doesn't work, you and me are gonna have it out, Kyle. Once and for all.\n[City Wok, night. \"Christmas Special: Chinese Food For The Holidays\" Mr. Kim sits at one of his tables with nothing to do.]\n",
+    "output": "No business... Christmas time come and nobody wanna eat Chinese food. Looks like I might as well close. [a phone rings. He perks up and runs to get it] Oh boy! Some business! [puts on his chef hat and grabs a notepad] Finally! [grabs the phone and waits for the order] Herro? Shitty Wok, take ur orda prease!\n"
+  },
+  {
+    "input": "No business... Christmas time come and nobody wanna eat Chinese food. Looks like I might as well close. [a phone rings. He perks up and runs to get it] Oh boy! Some business! [puts on his chef hat and grabs a notepad] Finally! [grabs the phone and waits for the order] Herro? Shitty Wok, take ur orda prease!\n",
+    "output": "Uh, I must have the wrong number. We were trying to reach City Airlines.\n"
+  },
+  {
+    "input": "Uh, I must have the wrong number. We were trying to reach City Airlines.\n",
+    "output": "Oh, oh yes, just a moment prease. [flips a sign over so it now reads \"City Airlines\" and switches to a captain's hat] Herro, Shitty Airrines. Can I help you take ur orda prease?\n"
+  },
+  {
+    "input": "Oh, oh yes, just a moment prease. [flips a sign over so it now reads \"City Airlines\" and switches to a captain's hat] Herro, Shitty Airrines. Can I help you take ur orda prease?\n",
+    "output": "Uh, we need to go to Canada. As soon as possible.\n"
+  },
+  {
+    "input": "Uh, we need to go to Canada. As soon as possible.\n",
+    "output": "Oooh, Canada. Okay, that's uh pretty far. Gonna cost ya a lot of money... hmm let's see. How many people?\n"
+  },
+  {
+    "input": "Oooh, Canada. Okay, that's uh pretty far. Gonna cost ya a lot of money... hmm let's see. How many people?\n",
+    "output": "Four.\n"
+  },
+  {
+    "input": "Four.\n",
+    "output": "Okay. Four people, Canada, cost a lot of money, that uh gonna be about ah six thousand five hundred dolla.\n"
+  },
+  {
+    "input": "Okay. Four people, Canada, cost a lot of money, that uh gonna be about ah six thousand five hundred dolla.\n",
+    "output": "How about fifty daura?\n"
+  },
+  {
+    "input": "How about fifty daura?\n",
+    "output": "Fifty daura?! You flight to Canada cost at least three thousand dollar!\n"
+  },
+  {
+    "input": "Fifty daura?! You flight to Canada cost at least three thousand dollar!\n",
+    "output": "Fifty-five daura.\n"
+  },
+  {
+    "input": "Fifty-five daura.\n",
+    "output": "Hey! Stop wasting my time with fifty-five daura! No way I take my plane to Canada for less than a thousand daura!\n"
+  },
+  {
+    "input": "Hey! Stop wasting my time with fifty-five daura! No way I take my plane to Canada for less than a thousand daura!\n",
+    "output": "Okay. Sixty daura.\n"
+  },
+  {
+    "input": "Okay. Sixty daura.\n",
+    "output": "Sixty-two daura.\n"
+  },
+  {
+    "input": "Sixty-two daura.\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "Okay. Meet me Park County Airfield, yellow Cessna, tail number 432G.\n"
+  },
+  {
+    "input": "Okay. Meet me Park County Airfield, yellow Cessna, tail number 432G.\n",
+    "output": "Got it. [hangs up]\n"
+  },
+  {
+    "input": "Got it. [hangs up]\n",
+    "output": "[hangs up, then giggles] Hehehehe, never try to barter with a Chinese man.\n[Park County Airfield, night. A plane comes in for a landing in the background as the boys approach the yellow Cessna.]\n"
+  },
+  {
+    "input": "[hangs up, then giggles] Hehehehe, never try to barter with a Chinese man.\n[Park County Airfield, night. A plane comes in for a landing in the background as the boys approach the yellow Cessna.]\n",
+    "output": "We have exactly fifty-two hours before Christmas. [this sets it at 8 p.m. December 22] That means we have to be back in twenty-eight hours to still give our patents twenty-four hours to buy us presents. Synchronize watches on my mark. Mark.\n"
+  },
+  {
+    "input": "We have exactly fifty-two hours before Christmas. [this sets it at 8 p.m. December 22] That means we have to be back in twenty-eight hours to still give our patents twenty-four hours to buy us presents. Synchronize watches on my mark. Mark.\n",
+    "output": "Herro, welcome Shitty Airrine. [Stan and Kyle move ahead. Kenny stays with Cartman]\n"
+  },
+  {
+    "input": "Herro, welcome Shitty Airrine. [Stan and Kyle move ahead. Kenny stays with Cartman]\n",
+    "output": "[shakes his head vigorously] Oh no, no no nono, I am NOT flying in that thing!\n"
+  },
+  {
+    "input": "[shakes his head vigorously] Oh no, no no nono, I am NOT flying in that thing!\n",
+    "output": "(Me neither!)\n"
+  },
+  {
+    "input": "(Me neither!)\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "('Cause, dude, I'll fuckin' die!)\n"
+  },
+  {
+    "input": "('Cause, dude, I'll fuckin' die!)\n",
+    "output": "You're not gonna die, Kenny. Don't be stupid.\n"
+  },
+  {
+    "input": "You're not gonna die, Kenny. Don't be stupid.\n",
+    "output": "You guys go get Ike. Kenny and I will stay here and watch the fort.\n"
+  },
+  {
+    "input": "You guys go get Ike. Kenny and I will stay here and watch the fort.\n",
+    "output": "No, you're both coming. Do you care about Christmas or not?\n"
+  },
+  {
+    "input": "No, you're both coming. Do you care about Christmas or not?\n",
+    "output": "Of course I care about Christmas- oh, Christ on a stick! [he and Kenny head for the plane]\n[Cessna 432G, inside.]\n"
+  },
+  {
+    "input": "Of course I care about Christmas- oh, Christ on a stick! [he and Kenny head for the plane]\n[Cessna 432G, inside.]\n",
+    "output": "Aw dude, it smells like Kung Pao chicken in here!\n"
+  },
+  {
+    "input": "Aw dude, it smells like Kung Pao chicken in here!\n",
+    "output": "Okay, welcome aboard Shitty Airrines. This is your captain speaking. Looking about a two hour fright. I'll be turning on the seatbelt sign now. If your seats have seatbelts, this is the time you will fasten them. Please sit back, relax, and enjoy your Shitty fright. [he turns off the intercom and takes flight after a small bump.]\n"
+  },
+  {
+    "input": "Okay, welcome aboard Shitty Airrines. This is your captain speaking. Looking about a two hour fright. I'll be turning on the seatbelt sign now. If your seats have seatbelts, this is the time you will fasten them. Please sit back, relax, and enjoy your Shitty fright. [he turns off the intercom and takes flight after a small bump.]\n",
+    "output": "All right! We're going to Canada!\n"
+  },
+  {
+    "input": "All right! We're going to Canada!\n",
+    "output": "Weak.\n[Cessna 432G, day. The flight has taken longer than two hours. The boys are sleeping in their seats - and so is Mr. Kim. The plane begins to hit turbulence and lose power.]\n"
+  },
+  {
+    "input": "Weak.\n[Cessna 432G, day. The flight has taken longer than two hours. The boys are sleeping in their seats - and so is Mr. Kim. The plane begins to hit turbulence and lose power.]\n",
+    "output": "Hey, turn off the right. ...Wha- oh! [a sudden noisy dip awakens the boys]\n"
+  },
+  {
+    "input": "Hey, turn off the right. ...Wha- oh! [a sudden noisy dip awakens the boys]\n",
+    "output": "What's going on??\n"
+  },
+  {
+    "input": "What's going on??\n",
+    "output": "Herro from the cockpit, this is your captain speaking. As you can see, it appears that we are goin' down. Now would be a good time to reflect on your rife, and pray to whatever deity you believe in. Thank you for flying Shitty Airlines. We know you have a choice in airlines, and it looks like you made the wrong one. [quickly puts on a parachute and opens his door to drop away]\n"
+  },
+  {
+    "input": "Herro from the cockpit, this is your captain speaking. As you can see, it appears that we are goin' down. Now would be a good time to reflect on your rife, and pray to whatever deity you believe in. Thank you for flying Shitty Airlines. We know you have a choice in airlines, and it looks like you made the wrong one. [quickly puts on a parachute and opens his door to drop away]\n",
+    "output": "Hey, where the hell are you going?? [Mr. Kim jumps out and away. A few seconds later he pulls the rip cord and the parachute comes out]\n"
+  },
+  {
+    "input": "Hey, where the hell are you going?? [Mr. Kim jumps out and away. A few seconds later he pulls the rip cord and the parachute comes out]\n",
+    "output": "Do something, Kyle! [Kyle grabs the controls and tries to steer the plane]\n"
+  },
+  {
+    "input": "Do something, Kyle! [Kyle grabs the controls and tries to steer the plane]\n",
+    "output": "I'm trying! [the plane bounces around in the air]\n"
+  },
+  {
+    "input": "I'm trying! [the plane bounces around in the air]\n",
+    "output": "Look out!\n"
+  },
+  {
+    "input": "Look out!\n",
+    "output": "(N-O-O-O-O-O-O-O-O-O-O-O-O-O!) [the plane makes a steep descent and crashes onto the ground. It flips over and crumples up, resting near a town. The boys scramble out of the rubble and walk into the town]\n[Now begins the \"Wizard of Oz\" sequence. The boys look around in wonder. A pair of legs is seen at a bench, but no head is shown.]\n"
+  },
+  {
+    "input": "(N-O-O-O-O-O-O-O-O-O-O-O-O-O!) [the plane makes a steep descent and crashes onto the ground. It flips over and crumples up, resting near a town. The boys scramble out of the rubble and walk into the town]\n[Now begins the \"Wizard of Oz\" sequence. The boys look around in wonder. A pair of legs is seen at a bench, but no head is shown.]\n",
+    "output": "You guys, I don't think we're in America anymore. [As they look in one direction, four Canadians pop up from some bushes and look at them. They drop back into the bushes before the boys turn back around]\n"
+  },
+  {
+    "input": "You guys, I don't think we're in America anymore. [As they look in one direction, four Canadians pop up from some bushes and look at them. They drop back into the bushes before the boys turn back around]\n",
+    "output": "Excuse me? [a head pops up over the legs at the bench] Uh, is this an invasion?\n"
+  },
+  {
+    "input": "Excuse me? [a head pops up over the legs at the bench] Uh, is this an invasion?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "[a doctor, it seems] Oh thank heavens! It's okay. Everyone, it's not an invasion! [people come out of their hiding places. A man pops up out of a manhole mumbling something as the others mill around]\n"
+  },
+  {
+    "input": "[a doctor, it seems] Oh thank heavens! It's okay. Everyone, it's not an invasion! [people come out of their hiding places. A man pops up out of a manhole mumbling something as the others mill around]\n",
+    "output": "Hey! We're in Canada!\n"
+  },
+  {
+    "input": "Hey! We're in Canada!\n",
+    "output": "Well of course you are! And Canada Friends welcomes you!\n"
+  },
+  {
+    "input": "Well of course you are! And Canada Friends welcomes you!\n",
+    "output": "Welcome, friend, to Canada! Canada Friends loves you!\nWe're just like any other country without the big tattoo!\n"
+  },
+  {
+    "input": "Welcome, friend, to Canada! Canada Friends loves you!\nWe're just like any other country without the big tattoo!\n",
+    "output": "[walks up] We greet thee with pleasure, but one question, if we may?\n"
+  },
+  {
+    "input": "[walks up] We greet thee with pleasure, but one question, if we may?\n",
+    "output": "[walks up and joins him] What brings you folks to Canada? Why are you here today?\n"
+  },
+  {
+    "input": "[walks up and joins him] What brings you folks to Canada? Why are you here today?\n",
+    "output": "Uh. My adopted brother got taken back here to Canada? So, we want to talk to the new Canadian Prime Minister about getting him back?\n"
+  },
+  {
+    "input": "Uh. My adopted brother got taken back here to Canada? So, we want to talk to the new Canadian Prime Minister about getting him back?\n",
+    "output": "His brother is our quest. The question is, is what? You must talk to the new Prime Minister if you think his brother's home's back there.\n"
+  },
+  {
+    "input": "His brother is our quest. The question is, is what? You must talk to the new Prime Minister if you think his brother's home's back there.\n",
+    "output": "Oh Jesus Christ.\n"
+  },
+  {
+    "input": "Oh Jesus Christ.\n",
+    "output": "[shows up] Hey! What the hell is going on?!\n"
+  },
+  {
+    "input": "[shows up] Hey! What the hell is going on?!\n",
+    "output": "It's Scott! AAAAHHHH! [they all take off in different directions]\n"
+  },
+  {
+    "input": "It's Scott! AAAAHHHH! [they all take off in different directions]\n",
+    "output": "Who damaged our beloved Canadian land?!\n"
+  },
+  {
+    "input": "Who damaged our beloved Canadian land?!\n",
+    "output": "Who's that?\n"
+  },
+  {
+    "input": "Who's that?\n",
+    "output": "That's Scott! He's a dick\n"
+  },
+  {
+    "input": "That's Scott! He's a dick\n",
+    "output": "[fixes his gaze on the boys and approaches] A-ha! Americans! I should've known! You think you're the police of the world! You think you own Canada! Well, you aren't welcome here! Get out now!\n"
+  },
+  {
+    "input": "[fixes his gaze on the boys and approaches] A-ha! Americans! I should've known! You think you're the police of the world! You think you own Canada! Well, you aren't welcome here! Get out now!\n",
+    "output": "Oh no you don't, Scott! Leave these boys alone!\n"
+  },
+  {
+    "input": "Oh no you don't, Scott! Leave these boys alone!\n",
+    "output": "This isn't over, you American scum! I swear to God: you'll rue this day!! [walks off]\n"
+  },
+  {
+    "input": "This isn't over, you American scum! I swear to God: you'll rue this day!! [walks off]\n",
+    "output": "God, what a dick!\n"
+  },
+  {
+    "input": "God, what a dick!\n",
+    "output": "Look, we don't have a lot of time here, okay? Can you just tell us where the new Prime Minister is?\n"
+  },
+  {
+    "input": "Look, we don't have a lot of time here, okay? Can you just tell us where the new Prime Minister is?\n",
+    "output": "The new Prime Minister doesn't live in this part of Canada. He's in Ottawa. [the other Canadians concur]\n"
+  },
+  {
+    "input": "The new Prime Minister doesn't live in this part of Canada. He's in Ottawa. [the other Canadians concur]\n",
+    "output": "So how do we get to Ottawa?\n"
+  },
+  {
+    "input": "So how do we get to Ottawa?\n",
+    "output": "Oh that's easy. You just have to follow the road.\n"
+  },
+  {
+    "input": "Oh that's easy. You just have to follow the road.\n",
+    "output": "Which road?!\n"
+  },
+  {
+    "input": "Which road?!\n",
+    "output": "This is Canada. We only have one road. [he moves to one side and the crowd splits in two to allow the boys through]\n"
+  },
+  {
+    "input": "This is Canada. We only have one road. [he moves to one side and the crowd splits in two to allow the boys through]\n",
+    "output": "Follow the only road.\n"
+  },
+  {
+    "input": "Follow the only road.\n",
+    "output": "Follow the only road.\n"
+  },
+  {
+    "input": "Follow the only road.\n",
+    "output": "To go anywhere in Canada, you just follow the only road.\nThere's only one road in Canada. We call it the Road, the only road.\nHip-hip, hooray, let's hear it for our Road.\n"
+  },
+  {
+    "input": "To go anywhere in Canada, you just follow the only road.\nThere's only one road in Canada. We call it the Road, the only road.\nHip-hip, hooray, let's hear it for our Road.\n",
+    "output": "And it's paved and wide and up to code.\n"
+  },
+  {
+    "input": "And it's paved and wide and up to code.\n",
+    "output": "All right dude, let's get the hell out of here!\n"
+  },
+  {
+    "input": "All right dude, let's get the hell out of here!\n",
+    "output": "Word!\n"
+  },
+  {
+    "input": "Word!\n",
+    "output": "You're off to see the Prime Minister, the Prime Minister of Canada!\n"
+  },
+  {
+    "input": "You're off to see the Prime Minister, the Prime Minister of Canada!\n",
+    "output": "Good-bye, friends! Good luck with the new Prime Minister! And remember to watch out for Scott! He's a dick!\n"
+  },
+  {
+    "input": "Good-bye, friends! Good luck with the new Prime Minister! And remember to watch out for Scott! He's a dick!\n",
+    "output": "Good-bye, good-bye, see ya, good luck.\n[The Road, day.]\n"
+  },
+  {
+    "input": "Good-bye, good-bye, see ya, good luck.\n[The Road, day.]\n",
+    "output": "[checking his watch] Twenty hours until Christmas. Our parents still have time to buy us presents IF we hurry. [a mountie appears]\n"
+  },
+  {
+    "input": "[checking his watch] Twenty hours until Christmas. Our parents still have time to buy us presents IF we hurry. [a mountie appears]\n",
+    "output": "Ahoy there, travelers.\n"
+  },
+  {
+    "input": "Ahoy there, travelers.\n",
+    "output": "Who are you?\n"
+  },
+  {
+    "input": "Who are you?\n",
+    "output": "I am Rick, the proud Canadian Mountie. [he's shown riding a sheep]\n"
+  },
+  {
+    "input": "I am Rick, the proud Canadian Mountie. [he's shown riding a sheep]\n",
+    "output": "Baaaah.\n"
+  },
+  {
+    "input": "Baaaah.\n",
+    "output": "I thought mounties were supposed to ride horses.\n"
+  },
+  {
+    "input": "I thought mounties were supposed to ride horses.\n",
+    "output": "[hangs his head a bit] Yes. Yes, we are. But our funding has been cut and now we're forced to ride...\n"
+  },
+  {
+    "input": "[hangs his head a bit] Yes. Yes, we are. But our funding has been cut and now we're forced to ride...\n",
+    "output": "Baaaah.\n"
+  },
+  {
+    "input": "Baaaah.\n",
+    "output": "But if you don't mind, we're in a rush to see the new Prime Minister.\n"
+  },
+  {
+    "input": "But if you don't mind, we're in a rush to see the new Prime Minister.\n",
+    "output": "You're going to see the new Prime Minister. Oh, I would so like to meet him myself. It's his strange new laws that took our horses away. Perhaps I will go with you.\n"
+  },
+  {
+    "input": "You're going to see the new Prime Minister. Oh, I would so like to meet him myself. It's his strange new laws that took our horses away. Perhaps I will go with you.\n",
+    "output": "That's okay, we'd rather just go by ourselves.\n"
+  },
+  {
+    "input": "That's okay, we'd rather just go by ourselves.\n",
+    "output": "Follow me this way! We're going to see the Prime Minister, the Prime Minister of Canada!\n"
+  },
+  {
+    "input": "Follow me this way! We're going to see the Prime Minister, the Prime Minister of Canada!\n",
+    "output": "[monitoring their progress over remote cameras] Power-hungry Americans! I'll fix you!\n[Further down the Road, Rick and the boys pass through another town.]\n"
+  },
+  {
+    "input": "[monitoring their progress over remote cameras] Power-hungry Americans! I'll fix you!\n[Further down the Road, Rick and the boys pass through another town.]\n",
+    "output": "Oh Jesus, eighteen hours. We're running out of time!\n"
+  },
+  {
+    "input": "Oh Jesus, eighteen hours. We're running out of time!\n",
+    "output": "All right boys, prepare yourselves. We're about to enter... French Canada.\n"
+  },
+  {
+    "input": "All right boys, prepare yourselves. We're about to enter... French Canada.\n",
+    "output": "French Canada?\n"
+  },
+  {
+    "input": "French Canada?\n",
+    "output": "[Before them, lots of French Canadians cavort like it is Euro Disney, with circus performers of all stripes doing what they do best.]\nThere'z no Canada like French Canada, it'z za bezt Canada in ze land.\nZe ozer Canada is hardly Canada. If you lived here for a day, you'd understand.\n"
+  },
+  {
+    "input": "[Before them, lots of French Canadians cavort like it is Euro Disney, with circus performers of all stripes doing what they do best.]\nThere'z no Canada like French Canada, it'z za bezt Canada in ze land.\nZe ozer Canada is hardly Canada. If you lived here for a day, you'd understand.\n",
+    "output": "Honh honh honnnh! Welcome to French Canada.\n"
+  },
+  {
+    "input": "Honh honh honnnh! Welcome to French Canada.\n",
+    "output": "We have everything your heart could desire. Trapezes. Trampolines. And lots and lots of cheese.\n"
+  },
+  {
+    "input": "We have everything your heart could desire. Trapezes. Trampolines. And lots and lots of cheese.\n",
+    "output": "[takes off his mustache] Would you like a moustache?\n"
+  },
+  {
+    "input": "[takes off his mustache] Would you like a moustache?\n",
+    "output": "Just stay calm, boys. French Canadians are a little... odd. [behind them, two of them walk by. One is dressed in blue and looks a bit like an alien. The other is dressed something like He-Man, with long flowing locks.]\n"
+  },
+  {
+    "input": "Just stay calm, boys. French Canadians are a little... odd. [behind them, two of them walk by. One is dressed in blue and looks a bit like an alien. The other is dressed something like He-Man, with long flowing locks.]\n",
+    "output": "Ah, we're just passing through to see the new Prime Minister.\n"
+  },
+  {
+    "input": "Ah, we're just passing through to see the new Prime Minister.\n",
+    "output": "Well first you must answer that phone. [makes his left hand into a phone receiver] Ring-ring. Ring-ring.\n"
+  },
+  {
+    "input": "Well first you must answer that phone. [makes his left hand into a phone receiver] Ring-ring. Ring-ring.\n",
+    "output": "We don't have time for this.\n"
+  },
+  {
+    "input": "We don't have time for this.\n",
+    "output": "You cannot pass through French Canada unless you take zat phone call! [holds out his \"phone\"] Ring-ring. Ring-ring. [Kyle responds by make his right hand into a phone and answering]\n"
+  },
+  {
+    "input": "You cannot pass through French Canada unless you take zat phone call! [holds out his \"phone\"] Ring-ring. Ring-ring. [Kyle responds by make his right hand into a phone and answering]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "Allo. If you are going to see za new Prime Minister, then I want to go with you. He has passed a new law forbidding us French Canadians to drink wine.\n"
+  },
+  {
+    "input": "Allo. If you are going to see za new Prime Minister, then I want to go with you. He has passed a new law forbidding us French Canadians to drink wine.\n",
+    "output": "[walks up to the boys] How can ze French not drink wine?? Travestie!\n"
+  },
+  {
+    "input": "[walks up to the boys] How can ze French not drink wine?? Travestie!\n",
+    "output": "Okay, you can come with us.\n"
+  },
+  {
+    "input": "Okay, you can come with us.\n",
+    "output": "Honh honnnh! Very good! Let us make haste!\n"
+  },
+  {
+    "input": "Honh honnnh! Very good! Let us make haste!\n",
+    "output": "[they escort the boys out and on their way with the Mime and the Mountie]\nThere'z no Canada like French Canada, it'z za bezt Canada in ze land.\nAnd ze ozer Canada.\n"
+  },
+  {
+    "input": "[they escort the boys out and on their way with the Mime and the Mountie]\nThere'z no Canada like French Canada, it'z za bezt Canada in ze land.\nAnd ze ozer Canada.\n",
+    "output": "Is a bullshit Canada\n"
+  },
+  {
+    "input": "Is a bullshit Canada\n",
+    "output": "If you lived here for a day, you'd understand. [the small group leaves the town behind]\n"
+  },
+  {
+    "input": "If you lived here for a day, you'd understand. [the small group leaves the town behind]\n",
+    "output": "I think you'd understand. ...You understand.\n[Newfoundland. The group arrives at a dark place.]\n"
+  },
+  {
+    "input": "I think you'd understand. ...You understand.\n[Newfoundland. The group arrives at a dark place.]\n",
+    "output": "Oh my! This certainly is a desolate place!\n"
+  },
+  {
+    "input": "Oh my! This certainly is a desolate place!\n",
+    "output": "It reminds me of death and fear.\n"
+  },
+  {
+    "input": "It reminds me of death and fear.\n",
+    "output": "How much further to Ottawa?! Christmas is only twelve hours away.\n"
+  },
+  {
+    "input": "How much further to Ottawa?! Christmas is only twelve hours away.\n",
+    "output": "We must be very close now.\n"
+  },
+  {
+    "input": "We must be very close now.\n",
+    "output": "[jumps out in front of them] Ey! What are you doing?!\n"
+  },
+  {
+    "input": "[jumps out in front of them] Ey! What are you doing?!\n",
+    "output": "Waaaah!\n"
+  },
+  {
+    "input": "Waaaah!\n",
+    "output": "Oh no. It's Scott.\n"
+  },
+  {
+    "input": "Oh no. It's Scott.\n",
+    "output": "What are you two doing helping these Americans?! Don't you know America thinks it owns Canada along with the rest of the world?!\n"
+  },
+  {
+    "input": "What are you two doing helping these Americans?! Don't you know America thinks it owns Canada along with the rest of the world?!\n",
+    "output": "You're a dick, Scott!\n"
+  },
+  {
+    "input": "You're a dick, Scott!\n",
+    "output": "You're a dick! And by helping Americans, you're just as smelly as they are! Now I'm going to get you!\n"
+  },
+  {
+    "input": "You're a dick! And by helping Americans, you're just as smelly as they are! Now I'm going to get you!\n",
+    "output": "[exits a house with a fish in his left hand and a pole in his right] Not so fast, Scott!\n"
+  },
+  {
+    "input": "[exits a house with a fish in his left hand and a pole in his right] Not so fast, Scott!\n",
+    "output": "Who the hell are you?!\n"
+  },
+  {
+    "input": "Who the hell are you?!\n",
+    "output": "I'm Steve the Newfoudlander. And you're on Newfoundland property now! Get off before I have you arrested!\n"
+  },
+  {
+    "input": "I'm Steve the Newfoudlander. And you're on Newfoundland property now! Get off before I have you arrested!\n",
+    "output": "Ugh! This isn't over! Not by a long shot! I'll fix you. I'll fix all of you!! [leaves in a huff. Steve draws closer to the group]\n"
+  },
+  {
+    "input": "Ugh! This isn't over! Not by a long shot! I'll fix you. I'll fix all of you!! [leaves in a huff. Steve draws closer to the group]\n",
+    "output": "Woo, that was a close call. Thank you, kind Newfie!\n"
+  },
+  {
+    "input": "Woo, that was a close call. Thank you, kind Newfie!\n",
+    "output": "God-damnit, we need to get to the new Prime Minister! NOW!\n"
+  },
+  {
+    "input": "God-damnit, we need to get to the new Prime Minister! NOW!\n",
+    "output": "Oh yeah, the Prime Minister, eh? He sure has screwed up things for Newfoundland. Life just hasn't been the same since he made sodomy illegal.\n"
+  },
+  {
+    "input": "Oh yeah, the Prime Minister, eh? He sure has screwed up things for Newfoundland. Life just hasn't been the same since he made sodomy illegal.\n",
+    "output": "Well, come with us! Maybe you can ask him to take his sodomy ban away.\n"
+  },
+  {
+    "input": "Well, come with us! Maybe you can ask him to take his sodomy ban away.\n",
+    "output": "Can we just get going, please?\n"
+  },
+  {
+    "input": "Can we just get going, please?\n",
+    "output": "Yeah, sure, except there's just one problem.\n"
+  },
+  {
+    "input": "Yeah, sure, except there's just one problem.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "You folks are goin' the wrong way.\n"
+  },
+  {
+    "input": "You folks are goin' the wrong way.\n",
+    "output": "What?? But I thought there was one road in Canada.\n"
+  },
+  {
+    "input": "What?? But I thought there was one road in Canada.\n",
+    "output": "Yeah. And you all went the wrong direction on it.\n"
+  },
+  {
+    "input": "Yeah. And you all went the wrong direction on it.\n",
+    "output": "Ohh, that's right. Ottawa is that way. [points behind the group]\n"
+  },
+  {
+    "input": "Ohh, that's right. Ottawa is that way. [points behind the group]\n",
+    "output": "Of course. Ottawa left, Newfoundland right!\n"
+  },
+  {
+    "input": "Of course. Ottawa left, Newfoundland right!\n",
+    "output": "[grimacing] Oh no!\n"
+  },
+  {
+    "input": "[grimacing] Oh no!\n",
+    "output": "[glaring at Rick] How could you be so stupid!\n"
+  },
+  {
+    "input": "[glaring at Rick] How could you be so stupid!\n",
+    "output": "There's no way we can go all the way back. We'll never make it now!\n"
+  },
+  {
+    "input": "There's no way we can go all the way back. We'll never make it now!\n",
+    "output": "It's okay, boys. The power is inside us to get to Ottawa! We can wish ourselves there!\n"
+  },
+  {
+    "input": "It's okay, boys. The power is inside us to get to Ottawa! We can wish ourselves there!\n",
+    "output": "Ah yes, let's wish ourselves there. [the three Canadians close their eyes and wish real hard]\n"
+  },
+  {
+    "input": "Ah yes, let's wish ourselves there. [the three Canadians close their eyes and wish real hard]\n",
+    "output": "[peeks with his left eye] Is it working?\n"
+  },
+  {
+    "input": "[peeks with his left eye] Is it working?\n",
+    "output": "Oh, God-damnit! Well I warned you Kyle! I told you if I missed Christmas we were gonna throw down! [puts up his fists] Well it's on! We're gonna have it our RIGHT NOW! [grabs Kyle by the collar]\n"
+  },
+  {
+    "input": "Oh, God-damnit! Well I warned you Kyle! I told you if I missed Christmas we were gonna throw down! [puts up his fists] Well it's on! We're gonna have it our RIGHT NOW! [grabs Kyle by the collar]\n",
+    "output": "[now in his boat at the end of a dock] Of course, we could always take my boat, eh?\n"
+  },
+  {
+    "input": "[now in his boat at the end of a dock] Of course, we could always take my boat, eh?\n",
+    "output": "Oh yes! On the river we could travel to Ottawa in no time!\n"
+  },
+  {
+    "input": "Oh yes! On the river we could travel to Ottawa in no time!\n",
+    "output": "Well come on! [everyone hops into the boat]\n"
+  },
+  {
+    "input": "Well come on! [everyone hops into the boat]\n",
+    "output": "Okay, next stop, the new Prime Minister. [the boat leaves the dock and goes on its way]\n"
+  },
+  {
+    "input": "Okay, next stop, the new Prime Minister. [the boat leaves the dock and goes on its way]\n",
+    "output": "Do you think we can still make it in time?\n"
+  },
+  {
+    "input": "Do you think we can still make it in time?\n",
+    "output": "We'd better, Kyle. Or you're dead.\n[The Parliament building, dawn. Steve and the rest of the party pull up to the small dock at one end of the grounds.]\n"
+  },
+  {
+    "input": "We'd better, Kyle. Or you're dead.\n[The Parliament building, dawn. Steve and the rest of the party pull up to the small dock at one end of the grounds.]\n",
+    "output": "Here we are at the Parliament buildin'.\n"
+  },
+  {
+    "input": "Here we are at the Parliament buildin'.\n",
+    "output": "Ze Prime Minister is inside.\n"
+  },
+  {
+    "input": "Ze Prime Minister is inside.\n",
+    "output": "[hops off the boat and runs towards Parliament] Well come on, let's hurry! It's almost Christmas! [the rest of the group follows]\n[The Parliament building, entrance. Kyle knocks on the heavy wooden doors. A wooden panel opens up to reveal a window. A doorman looks out through it.]\n"
+  },
+  {
+    "input": "[hops off the boat and runs towards Parliament] Well come on, let's hurry! It's almost Christmas! [the rest of the group follows]\n[The Parliament building, entrance. Kyle knocks on the heavy wooden doors. A wooden panel opens up to reveal a window. A doorman looks out through it.]\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "We need to see the new Prime Minister.\n"
+  },
+  {
+    "input": "We need to see the new Prime Minister.\n",
+    "output": "Ha! Impossible! The new Prime Minister isn't seeing anybody! [slams the window shut]\n"
+  },
+  {
+    "input": "Ha! Impossible! The new Prime Minister isn't seeing anybody! [slams the window shut]\n",
+    "output": "Oh well, so much for zat. [turns around and slowly walks away]\n"
+  },
+  {
+    "input": "Oh well, so much for zat. [turns around and slowly walks away]\n",
+    "output": "Yeah, we gave it our best, but our best wasn't good enough, eh? [joins the Mime]\n"
+  },
+  {
+    "input": "Yeah, we gave it our best, but our best wasn't good enough, eh? [joins the Mime]\n",
+    "output": "No. No!! [knocks on the door again. Steve and the Mime turn around]\n"
+  },
+  {
+    "input": "No. No!! [knocks on the door again. Steve and the Mime turn around]\n",
+    "output": "[opens his window again] Yes?\n"
+  },
+  {
+    "input": "[opens his window again] Yes?\n",
+    "output": "Please, sir. I traveled a long way to get here. He's the only person who can help me.\n"
+  },
+  {
+    "input": "Please, sir. I traveled a long way to get here. He's the only person who can help me.\n",
+    "output": "[a big smug] The Prime Minister isn't here. He's in China on official business. So you might as well go home. Good-bye!\n"
+  },
+  {
+    "input": "[a big smug] The Prime Minister isn't here. He's in China on official business. So you might as well go home. Good-bye!\n",
+    "output": "[turns around and walks off slowly] Then that's it. I'm... I'm never going to get my brother back. [sits down on the steps farther away from the door]\n"
+  },
+  {
+    "input": "[turns around and walks off slowly] Then that's it. I'm... I'm never going to get my brother back. [sits down on the steps farther away from the door]\n",
+    "output": "And... I'm not going to get any Christmas presents. [sits on the steps]\n"
+  },
+  {
+    "input": "And... I'm not going to get any Christmas presents. [sits on the steps]\n",
+    "output": "And... I'm not gonna have a Christmas adventure. [sits between the two of them]\n"
+  },
+  {
+    "input": "And... I'm not gonna have a Christmas adventure. [sits between the two of them]\n",
+    "output": "(And I'll just fuckin' die again...) [his voice trails off and he joins the others on the steps. They all cry]\n"
+  },
+  {
+    "input": "(And I'll just fuckin' die again...) [his voice trails off and he joins the others on the steps. They all cry]\n",
+    "output": "[begins to cry with the boys] Oh please! Please stop crying.\n"
+  },
+  {
+    "input": "[begins to cry with the boys] Oh please! Please stop crying.\n",
+    "output": "[through his tears] I'm gonna kill you, Kyle.\n"
+  },
+  {
+    "input": "[through his tears] I'm gonna kill you, Kyle.\n",
+    "output": "All right all right, I was lying. The Prime Minister IS here.\n"
+  },
+  {
+    "input": "All right all right, I was lying. The Prime Minister IS here.\n",
+    "output": "[turns around] Really? [the boys stand and approach the doors]\n"
+  },
+  {
+    "input": "[turns around] Really? [the boys stand and approach the doors]\n",
+    "output": "Yes yes. Come in. [opens the large wooden doors, and the group enters.]\n[The Parliament building, inside. The group walks down a long hallway and approach a large sanctum with three fire pits. Two small ones burn before and on each side of the huge one, which sits at the center and has a holograph of the Prime Minister hovering over it]\n"
+  },
+  {
+    "input": "Yes yes. Come in. [opens the large wooden doors, and the group enters.]\n[The Parliament building, inside. The group walks down a long hallway and approach a large sanctum with three fire pits. Two small ones burn before and on each side of the huge one, which sits at the center and has a holograph of the Prime Minister hovering over it]\n",
+    "output": "I am the Prime Minister of Canada. What do you guys want?\n"
+  },
+  {
+    "input": "I am the Prime Minister of Canada. What do you guys want?\n",
+    "output": "[after a few moments, steps forth] Sir, you recently passed a new law allowing parents who have given their children up for adoption to change their minds. My little brother was-\n"
+  },
+  {
+    "input": "[after a few moments, steps forth] Sir, you recently passed a new law allowing parents who have given their children up for adoption to change their minds. My little brother was-\n",
+    "output": "Not so fast! [soon appears with the Gintses]\n"
+  },
+  {
+    "input": "Not so fast! [soon appears with the Gintses]\n",
+    "output": "Ike!\n"
+  },
+  {
+    "input": "Ike!\n",
+    "output": "Kyle!\n"
+  },
+  {
+    "input": "Kyle!\n",
+    "output": "Prime Minister, these are the child's Canadian parents! Their Canadian blood pumps through his veins! Would you send him back to America with those world-hungry scum?!\n"
+  },
+  {
+    "input": "Prime Minister, these are the child's Canadian parents! Their Canadian blood pumps through his veins! Would you send him back to America with those world-hungry scum?!\n",
+    "output": "Please, sir. I came because I don't think Ike belongs here. Family isn't about whose blood you have in you, family is about the people who cared about you and took care of you. We're not the same blood, but I love my little brother. We've taken care of him because he needed us to, and that makes us more family than anything. [Harry and Elise look at each other]\n"
+  },
+  {
+    "input": "Please, sir. I came because I don't think Ike belongs here. Family isn't about whose blood you have in you, family is about the people who cared about you and took care of you. We're not the same blood, but I love my little brother. We've taken care of him because he needed us to, and that makes us more family than anything. [Harry and Elise look at each other]\n",
+    "output": "That is a great speech, guy. But the answer is no! All of my new laws will stay in effect forever!\n"
+  },
+  {
+    "input": "That is a great speech, guy. But the answer is no! All of my new laws will stay in effect forever!\n",
+    "output": "Haha, you lose, Americans!\n"
+  },
+  {
+    "input": "Haha, you lose, Americans!\n",
+    "output": "Then, I suppose us mounties will never get our horses.\n"
+  },
+  {
+    "input": "Then, I suppose us mounties will never get our horses.\n",
+    "output": "And we won't get our wine.\n"
+  },
+  {
+    "input": "And we won't get our wine.\n",
+    "output": "And we can't perform sodomy, eh?\n"
+  },
+  {
+    "input": "And we can't perform sodomy, eh?\n",
+    "output": "But why are you making such strange laws??\n"
+  },
+  {
+    "input": "But why are you making such strange laws??\n",
+    "output": "I SAID GO! [a blast from his holographic eyes incinerates Kenny]\n"
+  },
+  {
+    "input": "I SAID GO! [a blast from his holographic eyes incinerates Kenny]\n",
+    "output": "(Aah!) [Kenny explodes and pieces of him splatter all over the boys]\n"
+  },
+  {
+    "input": "(Aah!) [Kenny explodes and pieces of him splatter all over the boys]\n",
+    "output": "Oh my God, they've killed Kenny!\n"
+  },
+  {
+    "input": "Oh my God, they've killed Kenny!\n",
+    "output": "[walks over to the charred remains] You... bastards! [brushes off a bit of Kenny from his jacket] Wha, what the hell is wrong with you?? What kind of Prime Minister bases his decisions on hatred? [Stan dusts himself off] And, and takes away mounties' horses? [Stan notices a purple curtain nearby and walks over to it] And French people's wine? What the hell kind of Prime Minister are you, anyway?!\n"
+  },
+  {
+    "input": "[walks over to the charred remains] You... bastards! [brushes off a bit of Kenny from his jacket] Wha, what the hell is wrong with you?? What kind of Prime Minister bases his decisions on hatred? [Stan dusts himself off] And, and takes away mounties' horses? [Stan notices a purple curtain nearby and walks over to it] And French people's wine? What the hell kind of Prime Minister are you, anyway?!\n",
+    "output": "I am the Prime Minister of Canada. [as he says this, Stan pulls the curtain back and Saddam Hussein appears behind it, cramped behind a console] I can do whatever I- [notices his cover is blown] Uh oh. Uh, don't mind that guy hiding in the spider hole, he's just my friend.\n"
+  },
+  {
+    "input": "I am the Prime Minister of Canada. [as he says this, Stan pulls the curtain back and Saddam Hussein appears behind it, cramped behind a console] I can do whatever I- [notices his cover is blown] Uh oh. Uh, don't mind that guy hiding in the spider hole, he's just my friend.\n",
+    "output": "[the other members of the group gather in, as well as other people nearby] What the hell??\n"
+  },
+  {
+    "input": "[the other members of the group gather in, as well as other people nearby] What the hell??\n",
+    "output": "Hey, that looks like Saddam Hussein!\n"
+  },
+  {
+    "input": "Hey, that looks like Saddam Hussein!\n",
+    "output": "Saddam Hussein?? Naw, relax, buddah. I'm not him.\n"
+  },
+  {
+    "input": "Saddam Hussein?? Naw, relax, buddah. I'm not him.\n",
+    "output": "Zat explains everything! Za new Prime Minister was Saddam Hussein, once again trying to take over our beloved Canada like he did before.\n"
+  },
+  {
+    "input": "Zat explains everything! Za new Prime Minister was Saddam Hussein, once again trying to take over our beloved Canada like he did before.\n",
+    "output": "Saddam Hussein?\n"
+  },
+  {
+    "input": "Saddam Hussein?\n",
+    "output": "He was fooling us?\n"
+  },
+  {
+    "input": "He was fooling us?\n",
+    "output": "Get him! [the soldiers quickly seize him and haul him away]\n"
+  },
+  {
+    "input": "Get him! [the soldiers quickly seize him and haul him away]\n",
+    "output": "Ahh, don't shoot. I want to negotiate. Hey, relax! [the crowd pounces on him and tear him apart] Gah!\n"
+  },
+  {
+    "input": "Ahh, don't shoot. I want to negotiate. Hey, relax! [the crowd pounces on him and tear him apart] Gah!\n",
+    "output": "Wait a minute. This means all the Prime Minister's new laws are null and void. We can have our horses back!\n"
+  },
+  {
+    "input": "Wait a minute. This means all the Prime Minister's new laws are null and void. We can have our horses back!\n",
+    "output": "And we can drink our wine.\n"
+  },
+  {
+    "input": "And we can drink our wine.\n",
+    "output": "And I can sodomize me boys again\n"
+  },
+  {
+    "input": "And I can sodomize me boys again\n",
+    "output": "[brings Ike over to Kyle] Young man, you... must really care for Peter to have come all this way.\n"
+  },
+  {
+    "input": "[brings Ike over to Kyle] Young man, you... must really care for Peter to have come all this way.\n",
+    "output": "Perhaps we were wrong to try and take Peter back. He doesn't belong here. He belongs with his family.\n"
+  },
+  {
+    "input": "Perhaps we were wrong to try and take Peter back. He doesn't belong here. He belongs with his family.\n",
+    "output": "[gently drops Ike to the floor] Peter, would you like to go back to your home in Colorado? [Ike walks over to Kyle and hugs him. Kyle returns the hug, and the Gintses hug as well, looking at the bond between Kyle and Ike. An alarm goes off. Cartman looks at his watch]\n"
+  },
+  {
+    "input": "[gently drops Ike to the floor] Peter, would you like to go back to your home in Colorado? [Ike walks over to Kyle and hugs him. Kyle returns the hug, and the Gintses hug as well, looking at the bond between Kyle and Ike. An alarm goes off. Cartman looks at his watch]\n",
+    "output": "What is that?\n"
+  },
+  {
+    "input": "What is that?\n",
+    "output": "It's Christmas. We officially missed it. It's Christmas Day and ... I'm in Canada.\n"
+  },
+  {
+    "input": "It's Christmas. We officially missed it. It's Christmas Day and ... I'm in Canada.\n",
+    "output": "Well yeah, but ah-I got my brother back.\n"
+  },
+  {
+    "input": "Well yeah, but ah-I got my brother back.\n",
+    "output": "Yeah! You got your brother back, but I didn't get any presents! [takes off his mittens] And what did I tell you, Kyle?! [unbuttons his jacket, takes it off, and bunches it up] I told you that if we didn't make it back in time for Christmas I was gonna whup your ass, didn't I?! [tosses his jacket away]\n"
+  },
+  {
+    "input": "Yeah! You got your brother back, but I didn't get any presents! [takes off his mittens] And what did I tell you, Kyle?! [unbuttons his jacket, takes it off, and bunches it up] I told you that if we didn't make it back in time for Christmas I was gonna whup your ass, didn't I?! [tosses his jacket away]\n",
+    "output": "Dude, come on.\n"
+  },
+  {
+    "input": "Dude, come on.\n",
+    "output": "Well now you're gonna get it, motherfucker! That's right! You and me! Right now! [puts up his fists] We're havin' it out! Let's go! Come on! Come on!! [Kyle puts up his fists and gives Cartman a quick right hook across the face. Cartman's eye twitches a few times before he begins to bawl while he's crying.] Mooooooom! Moooooooom!\n"
+  },
+  {
+    "input": "Well now you're gonna get it, motherfucker! That's right! You and me! Right now! [puts up his fists] We're havin' it out! Let's go! Come on! Come on!! [Kyle puts up his fists and gives Cartman a quick right hook across the face. Cartman's eye twitches a few times before he begins to bawl while he's crying.] Mooooooom! Moooooooom!\n",
+    "output": "Hey, come on, boys! You can spend Christmas with us, Canada style!\n[Ottawa, day. A Christmas parade goes by and the crowds cheer and throw confetti. Saddam is paraded on his own float, with huge candy canes around him.]\n"
+  },
+  {
+    "input": "Hey, come on, boys! You can spend Christmas with us, Canada style!\n[Ottawa, day. A Christmas parade goes by and the crowds cheer and throw confetti. Saddam is paraded on his own float, with huge candy canes around him.]\n",
+    "output": "Ding dong, they caught Saddam! Merry Christmas to the world!\nDing dong, the Americans caught Saddam!\n[Santa's sleigh passes by and the boys are hoisted into it]\nNow Canada is free for you and you and me\nIt's the best Christmas presents we ever got\nCanadian Christmas, it's the best! We drink and dance and show our breasts!\nLet's celebrate! Saddam Hussein's been caught!\n"
+  }
+]

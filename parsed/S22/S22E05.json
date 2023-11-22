@@ -1,0 +1,814 @@
+[
+  {
+    "input": "",
+    "output": "The Scoots\n\n[An October afternoon in South Park. An adult narrates this story. We learn quickly that it is Kenny narrating.]\n"
+  },
+  {
+    "input": "The Scoots\n\n[An October afternoon in South Park. An adult narrates this story. We learn quickly that it is Kenny narrating.]\n",
+    "output": "October was always my favorite month. [Stan and Kyle toss a football to each other. Two boys run past them with a kite] It was always that misty season when everyone embraced the weird and scary. [people are shown decorating their houses for the day.] Our little town was no different. [Stephen and Linda decorate their home for Halloween] I was just a kid back then. [Dr. Spooky's Pumpkin Patch is shown, with kids purchasing their own pumpkins] Me and all the other children were preparing for the greatest night of the year. [Mr. Mackey walks out with a couple of trash bags] But this Halloween was different, and it would change us all... forever.\n"
+  },
+  {
+    "input": "October was always my favorite month. [Stan and Kyle toss a football to each other. Two boys run past them with a kite] It was always that misty season when everyone embraced the weird and scary. [people are shown decorating their houses for the day.] Our little town was no different. [Stephen and Linda decorate their home for Halloween] I was just a kid back then. [Dr. Spooky's Pumpkin Patch is shown, with kids purchasing their own pumpkins] Me and all the other children were preparing for the greatest night of the year. [Mr. Mackey walks out with a couple of trash bags] But this Halloween was different, and it would change us all... forever.\n",
+    "output": "Whoa! [trips over something and falls down] What the? [the something is an electric scooter someone left in front of his house. He stands up with his bags] Alright, who left their scooter here?! Okay?! Whose damn scooter is this?!\n"
+  },
+  {
+    "input": "Whoa! [trips over something and falls down] What the? [the something is an electric scooter someone left in front of his house. He stands up with his bags] Alright, who left their scooter here?! Okay?! Whose damn scooter is this?!\n",
+    "output": "[across the street] It isn't anybody's. They're e-scooters. Anyone can use them.\n"
+  },
+  {
+    "input": "[across the street] It isn't anybody's. They're e-scooters. Anyone can use them.\n",
+    "output": "E-scooters?\n"
+  },
+  {
+    "input": "E-scooters?\n",
+    "output": "Yeah, see? There's a bunch here and a bunch more down there. [points to his right, Mackey's left. Mackey looks and sees them on both sides of the street, standing on the sidewalk. Another neighbor trips over one on his way across the street.] Everyone can use them to get around town, you know? Leave them where they want for the next person.\n"
+  },
+  {
+    "input": "Yeah, see? There's a bunch here and a bunch more down there. [points to his right, Mackey's left. Mackey looks and sees them on both sides of the street, standing on the sidewalk. Another neighbor trips over one on his way across the street.] Everyone can use them to get around town, you know? Leave them where they want for the next person.\n",
+    "output": "Well where the hell do they all come from?!\n"
+  },
+  {
+    "input": "Well where the hell do they all come from?!\n",
+    "output": "[flatly] Nobody knows. [Mackey is dumbfounded]\n[A sidewalk near the park. The boys stand around an e-scooter]\n"
+  },
+  {
+    "input": "[flatly] Nobody knows. [Mackey is dumbfounded]\n[A sidewalk near the park. The boys stand around an e-scooter]\n",
+    "output": "So anyone can use them?\n"
+  },
+  {
+    "input": "So anyone can use them?\n",
+    "output": "Yeah, I think they just work with your cell phone.\n"
+  },
+  {
+    "input": "Yeah, I think they just work with your cell phone.\n",
+    "output": "How?\n"
+  },
+  {
+    "input": "How?\n",
+    "output": "Oh yeah, it has one of them little scan thingies. Let me see. [puts up his phone camera to the e-scooter, which scans the code on the e-scooter. A little ding is heard] Yeah, dude, it's downloading the app.\n"
+  },
+  {
+    "input": "Oh yeah, it has one of them little scan thingies. Let me see. [puts up his phone camera to the e-scooter, which scans the code on the e-scooter. A little ding is heard] Yeah, dude, it's downloading the app.\n",
+    "output": "Kewl!\n"
+  },
+  {
+    "input": "Kewl!\n",
+    "output": "Aww, it wants a credit card number.\n"
+  },
+  {
+    "input": "Aww, it wants a credit card number.\n",
+    "output": "Do you wanna use your mom's or my mom's?\n"
+  },
+  {
+    "input": "Do you wanna use your mom's or my mom's?\n",
+    "output": "Let's do your mom's\n"
+  },
+  {
+    "input": "Let's do your mom's\n",
+    "output": "3715 ...[Stan taps it into the app] 523 ...\n"
+  },
+  {
+    "input": "3715 ...[Stan taps it into the app] 523 ...\n",
+    "output": "Is that an AmEx?\n"
+  },
+  {
+    "input": "Is that an AmEx?\n",
+    "output": "Yeah, you want a visa? 8292 438 7766507\n"
+  },
+  {
+    "input": "Yeah, you want a visa? 8292 438 7766507\n",
+    "output": "Espiration?\n"
+  },
+  {
+    "input": "Espiration?\n",
+    "output": "45261\n"
+  },
+  {
+    "input": "45261\n",
+    "output": "Security code?\n"
+  },
+  {
+    "input": "Security code?\n",
+    "output": "[without hesitation] 921 [two beeps follow, and the boys are good to go]\n"
+  },
+  {
+    "input": "[without hesitation] 921 [two beeps follow, and the boys are good to go]\n",
+    "output": "Dude, it worked! [Stan puts his phone away and hops on the e-scooter, then begins riding it]\n"
+  },
+  {
+    "input": "Dude, it worked! [Stan puts his phone away and hops on the e-scooter, then begins riding it]\n",
+    "output": "How is it, dude?\n"
+  },
+  {
+    "input": "How is it, dude?\n",
+    "output": "Pretty stupid but sweet.\n"
+  },
+  {
+    "input": "Pretty stupid but sweet.\n",
+    "output": "[turns around] Oh my God. Dude. Oh my God.\n"
+  },
+  {
+    "input": "[turns around] Oh my God. Dude. Oh my God.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "We should use these things to trick or treat on Halloween!\n"
+  },
+  {
+    "input": "We should use these things to trick or treat on Halloween!\n",
+    "output": "Hey yeah! We could cover so much more ground!\n"
+  },
+  {
+    "input": "Hey yeah! We could cover so much more ground!\n",
+    "output": "[returns and stops] We'd get, like, more candy than anybody.\n"
+  },
+  {
+    "input": "[returns and stops] We'd get, like, more candy than anybody.\n",
+    "output": "Everybody get the app! This is gonna be the best Halloween ever! [he and Cartman whip out their phones and get the app. Kenny has nothing to do.]\n"
+  },
+  {
+    "input": "Everybody get the app! This is gonna be the best Halloween ever! [he and Cartman whip out their phones and get the app. Kenny has nothing to do.]\n",
+    "output": "(Oh wait, you guys. See, I don't have a phone.)\n"
+  },
+  {
+    "input": "(Oh wait, you guys. See, I don't have a phone.)\n",
+    "output": "Oh yeah, Kenny doesn't have a phone 'cause he's poor.\n"
+  },
+  {
+    "input": "Oh yeah, Kenny doesn't have a phone 'cause he's poor.\n",
+    "output": "Oh. Well, that's okay. We'll figure it out. We always do!\n"
+  },
+  {
+    "input": "Oh. Well, that's okay. We'll figure it out. We always do!\n",
+    "output": "[raising fists] All right!\n[Downtown South Park. Mr. Mackey parks in front of Tom's Rhinoplasty, gets out, and parks his car. He goes to Lolly's Candy Factory next door and notices the six e-scooters parked in front of it.]\n"
+  },
+  {
+    "input": "[raising fists] All right!\n[Downtown South Park. Mr. Mackey parks in front of Tom's Rhinoplasty, gets out, and parks his car. He goes to Lolly's Candy Factory next door and notices the six e-scooters parked in front of it.]\n",
+    "output": "[spooked] What the... what the... fuck is going on? [goes inside the store, keeping his eyes on the e-scooters]\n"
+  },
+  {
+    "input": "[spooked] What the... what the... fuck is going on? [goes inside the store, keeping his eyes on the e-scooters]\n",
+    "output": "How can I help you?\n"
+  },
+  {
+    "input": "How can I help you?\n",
+    "output": "Well I'm just gettin' my Halloween candy. Want to make sure I get enough. Last year I ran out and the kids egged my house, m'kay?\n"
+  },
+  {
+    "input": "Well I'm just gettin' my Halloween candy. Want to make sure I get enough. Last year I ran out and the kids egged my house, m'kay?\n",
+    "output": "Yeah, you don't wanna run out of candy on Halloween.\n"
+  },
+  {
+    "input": "Yeah, you don't wanna run out of candy on Halloween.\n",
+    "output": "I'll take three large bags each of Snickers Fun Size, Payday Bite Size, Almand Joy Snack Size, and Reese's Teenie Weenie Size, m'kay?\n"
+  },
+  {
+    "input": "I'll take three large bags each of Snickers Fun Size, Payday Bite Size, Almand Joy Snack Size, and Reese's Teenie Weenie Size, m'kay?\n",
+    "output": "Sounds like you wanna be prepared. [opens a large shopping bag for him and begins packing the bags inside]\n"
+  },
+  {
+    "input": "Sounds like you wanna be prepared. [opens a large shopping bag for him and begins packing the bags inside]\n",
+    "output": "Hey, c-can, can I ask you somethin'? Wha, what's up with all these damn scooters?\n"
+  },
+  {
+    "input": "Hey, c-can, can I ask you somethin'? Wha, what's up with all these damn scooters?\n",
+    "output": "Oh, I think you get an app on your phone and you can use them all over town.\n"
+  },
+  {
+    "input": "Oh, I think you get an app on your phone and you can use them all over town.\n",
+    "output": "No, but like, where did they come from? You know, it's like one day everything was fine, and the next there were these fuckin' scooters everywhere. [hands Lolly his AmEx card.]\n"
+  },
+  {
+    "input": "No, but like, where did they come from? You know, it's like one day everything was fine, and the next there were these fuckin' scooters everywhere. [hands Lolly his AmEx card.]\n",
+    "output": "You don't like scooters? [takes the card and places the charge on it]\n"
+  },
+  {
+    "input": "You don't like scooters? [takes the card and places the charge on it]\n",
+    "output": "I just think people should drive, m'kay? I don't think people should \"scoot.\" I just... I just hope the future isn't \"scootin'.\"\n"
+  },
+  {
+    "input": "I just think people should drive, m'kay? I don't think people should \"scoot.\" I just... I just hope the future isn't \"scootin'.\"\n",
+    "output": "Well, they seem pretty convenient. [gives him back his card and the filled shopping bag] What can be so wrong about that? Happy Halloween. [Mackey leaves and finds... 20 scooters there where there were originally six. He hurries to his car]\n[The Halloween Outlet, day. Everyone is in there getting their costumes, Kenny walks out with a traditional pumpkin pail]\n"
+  },
+  {
+    "input": "Well, they seem pretty convenient. [gives him back his card and the filled shopping bag] What can be so wrong about that? Happy Halloween. [Mackey leaves and finds... 20 scooters there where there were originally six. He hurries to his car]\n[The Halloween Outlet, day. Everyone is in there getting their costumes, Kenny walks out with a traditional pumpkin pail]\n",
+    "output": "(Woohoo!) [runs to Cartman's house] (Hey dude, check it out! I got my pail!)\n"
+  },
+  {
+    "input": "(Woohoo!) [runs to Cartman's house] (Hey dude, check it out! I got my pail!)\n",
+    "output": "Great, cool. You got your pail.\n"
+  },
+  {
+    "input": "Great, cool. You got your pail.\n",
+    "output": "(Yup!)\n"
+  },
+  {
+    "input": "(Yup!)\n",
+    "output": "Come on in, Kenny. Let's talk. [Kenny walks in, looks around, and ends up looking at Stan and Kyle. Cartman follows him] Go ahead. Take a seat, Ken. [Kenny sits on the sofa next to Kyle, Cartman sits next to him.] Okay Kenny, here's the deal. Um, you know that we have this awesome plan to trick-or-treat on e-scooters this year. YOU... don't have a phone.\n"
+  },
+  {
+    "input": "Come on in, Kenny. Let's talk. [Kenny walks in, looks around, and ends up looking at Stan and Kyle. Cartman follows him] Go ahead. Take a seat, Ken. [Kenny sits on the sofa next to Kyle, Cartman sits next to him.] Okay Kenny, here's the deal. Um, you know that we have this awesome plan to trick-or-treat on e-scooters this year. YOU... don't have a phone.\n",
+    "output": "Kenny, we've been talking and, the truth is, without a scooter, you're just gonna slow us down.\n"
+  },
+  {
+    "input": "Kenny, we've been talking and, the truth is, without a scooter, you're just gonna slow us down.\n",
+    "output": "It's probably best you trick or treat with someone else this year.\n"
+  },
+  {
+    "input": "It's probably best you trick or treat with someone else this year.\n",
+    "output": "(But we always trick or treat together)\n"
+  },
+  {
+    "input": "(But we always trick or treat together)\n",
+    "output": "Yeah, but that's just it, Kenny. To use a scooter, you have to have a phone and... I mean, if we're waiting for you, we're gonna be as slow as all the other kids. It's... like, you know?\n"
+  },
+  {
+    "input": "Yeah, but that's just it, Kenny. To use a scooter, you have to have a phone and... I mean, if we're waiting for you, we're gonna be as slow as all the other kids. It's... like, you know?\n",
+    "output": "(Guys, please.)\n"
+  },
+  {
+    "input": "(Guys, please.)\n",
+    "output": "Look, Kenny, I always told you that one day, being poor was gonna catch up with you. Okay? But you didn't wanna listen. You just kept on being poor, and now it's Halloween and you don't have a cell phone.\n"
+  },
+  {
+    "input": "Look, Kenny, I always told you that one day, being poor was gonna catch up with you. Okay? But you didn't wanna listen. You just kept on being poor, and now it's Halloween and you don't have a cell phone.\n",
+    "output": "Okay, okay. Cartman, that's not the point.\n"
+  },
+  {
+    "input": "Okay, okay. Cartman, that's not the point.\n",
+    "output": "He needs to hear this, Kyle. You know, people are just poor, and they think it's not gonna come back to bite them in the ass.\n"
+  },
+  {
+    "input": "He needs to hear this, Kyle. You know, people are just poor, and they think it's not gonna come back to bite them in the ass.\n",
+    "output": "That's enough, dude!\n"
+  },
+  {
+    "input": "That's enough, dude!\n",
+    "output": "We're sorry, Kenny. It's just... This awesome plan to get shitloads of candy doesn't... work with... you. [Kenny looks around and reads the mood, then takes his pail and leaves the house]\n"
+  },
+  {
+    "input": "We're sorry, Kenny. It's just... This awesome plan to get shitloads of candy doesn't... work with... you. [Kenny looks around and reads the mood, then takes his pail and leaves the house]\n",
+    "output": "Shouldn't have been poor, Kenny.\n[Downtown South Park. Mr. Mackey is driving in his car and singing.]\n"
+  },
+  {
+    "input": "Shouldn't have been poor, Kenny.\n[Downtown South Park. Mr. Mackey is driving in his car and singing.]\n",
+    "output": "There was a wee cooper what lived in Fife. Nickety, Nackety noo noonoo\nHey Willy Wallacky, hey John Dougal. Alane quo roshety roo rooroo\n[Notices someone outside his window. It's a scooter rider sipping coffee from Starbucks and carrying a shoulder bag across his body. He begins to notice other riders, but this distracts him from the road ahead.] Whoa, shit! M'kay?! [he's at an intersection when another rider casually scoots in front of him on the crosswalk. He brakes hard, looks out his window and yells] Hey you had a goddamned red light!\n"
+  },
+  {
+    "input": "There was a wee cooper what lived in Fife. Nickety, Nackety noo noonoo\nHey Willy Wallacky, hey John Dougal. Alane quo roshety roo rooroo\n[Notices someone outside his window. It's a scooter rider sipping coffee from Starbucks and carrying a shoulder bag across his body. He begins to notice other riders, but this distracts him from the road ahead.] Whoa, shit! M'kay?! [he's at an intersection when another rider casually scoots in front of him on the crosswalk. He brakes hard, looks out his window and yells] Hey you had a goddamned red light!\n",
+    "output": "[long gone] Sorry.\n"
+  },
+  {
+    "input": "[long gone] Sorry.\n",
+    "output": "[sighing] Whoa, Jesus Christ. [another rider runs into the car] Hey!\n"
+  },
+  {
+    "input": "[sighing] Whoa, Jesus Christ. [another rider runs into the car] Hey!\n",
+    "output": "[pulls his scooter off the car] Sorry.\n"
+  },
+  {
+    "input": "[pulls his scooter off the car] Sorry.\n",
+    "output": "What the hell?! [the rider pulls the scooter off the car and rides away] Look at my car! Who's gonna pay for- [another rider runs into the car on the passenger side]\n"
+  },
+  {
+    "input": "What the hell?! [the rider pulls the scooter off the car and rides away] Look at my car! Who's gonna pay for- [another rider runs into the car on the passenger side]\n",
+    "output": "Sorry dude. [pulls the scooter off the car and rides away]\n"
+  },
+  {
+    "input": "Sorry dude. [pulls the scooter off the car and rides away]\n",
+    "output": "God damn it! Get off the goddamned street with those things! [begins to peel away when he encounters traffic going against him, consisting of nothing but scooter riders. He dodges them as best he can. He ends up bumping a few off.]\n"
+  },
+  {
+    "input": "God damn it! Get off the goddamned street with those things! [begins to peel away when he encounters traffic going against him, consisting of nothing but scooter riders. He dodges them as best he can. He ends up bumping a few off.]\n",
+    "output": "Sorry.\n"
+  },
+  {
+    "input": "Sorry.\n",
+    "output": "[lands on the hood of the car, then gets off some seconds later] Sorry bro.\n"
+  },
+  {
+    "input": "[lands on the hood of the car, then gets off some seconds later] Sorry bro.\n",
+    "output": "[lands on the trunk of the car, then gets off some seconds later] Sorry, dude.\n"
+  },
+  {
+    "input": "[lands on the trunk of the car, then gets off some seconds later] Sorry, dude.\n",
+    "output": "Woh, fuck me!\n[Clyde's house, afternoon. Clyde is seated with Tolkien, Jimmy, and Butters. discussing their plan for Halloween over a map of the town.]\n"
+  },
+  {
+    "input": "Woh, fuck me!\n[Clyde's house, afternoon. Clyde is seated with Tolkien, Jimmy, and Butters. discussing their plan for Halloween over a map of the town.]\n",
+    "output": "As soon as the school bell rings, we find the nearest scooters and begin trick or treating in Butters' neighborhood here. Then at 3 p.m. we- [the doorbell rings]\n"
+  },
+  {
+    "input": "As soon as the school bell rings, we find the nearest scooters and begin trick or treating in Butters' neighborhood here. Then at 3 p.m. we- [the doorbell rings]\n",
+    "output": "Sh sh-sh-sh-sh Shi sh-shi shit.\n"
+  },
+  {
+    "input": "Sh sh-sh-sh-sh Shi sh-shi shit.\n",
+    "output": "Cover it! Cover it! [he and Jimmy pull out a blanket and throw it over the map. Tolkien and Butters's help cover it up. Clyde goes to open the door and sees Kenny there.] Oh. Hey Kenny.\n"
+  },
+  {
+    "input": "Cover it! Cover it! [he and Jimmy pull out a blanket and throw it over the map. Tolkien and Butters's help cover it up. Clyde goes to open the door and sees Kenny there.] Oh. Hey Kenny.\n",
+    "output": "(Hey dude. Uh, look. I was wondering, do you think I could trick or treat with you guys this year?)\n"
+  },
+  {
+    "input": "(Hey dude. Uh, look. I was wondering, do you think I could trick or treat with you guys this year?)\n",
+    "output": "You wanna trick or treat with us? What about Stan and Kyle and those guys?\n"
+  },
+  {
+    "input": "You wanna trick or treat with us? What about Stan and Kyle and those guys?\n",
+    "output": "(Oh, you know, I just thought I'd switch it up this year, hehe)\n"
+  },
+  {
+    "input": "(Oh, you know, I just thought I'd switch it up this year, hehe)\n",
+    "output": "Yeah, look, don't tell anybody, but, um... we're gonna trick or treat on e-scooters this year. We're seriously gonna rake in the candy. Problem is, e-scooters work with a phone and pretty sure [slowly] you don't h-have one\n"
+  },
+  {
+    "input": "Yeah, look, don't tell anybody, but, um... we're gonna trick or treat on e-scooters this year. We're seriously gonna rake in the candy. Problem is, e-scooters work with a phone and pretty sure [slowly] you don't h-have one\n",
+    "output": "(Oh I won't slow you guys down. I swear!)\n"
+  },
+  {
+    "input": "(Oh I won't slow you guys down. I swear!)\n",
+    "output": "Dude, it's trick or treat. It's not something we're just willing to mess around with, okay? [backs up and closes the door, then lowers his head in sadness]\n[Nighttime. For envelops the town while the moon shines overhead. Mr. Mackey's shadow pops out from behind a tree and looks around, then he sneaks into an alley. He begins pulling up scooters and tossing them into a Bargain Rentals pickup truck. he wades into the river and crosses it to the other side, then removes the scooters from that side of town. He tosses them onto the truck as well. He then chains a bunch of them together and scoots them down the street to the truck. He tosses them onto the growing pile and drives out of town. He drives them onto a high cliff and parks at the edge, then throws out the whole mass of scooters, kicking out any remaining ones. He then drives off the cliff and goes home to sleep. His phone beeps, waking him. He rubs his eyes and puts on his glasses, then is surprised to see a scooter in his room by the bed.]\n"
+  },
+  {
+    "input": "Dude, it's trick or treat. It's not something we're just willing to mess around with, okay? [backs up and closes the door, then lowers his head in sadness]\n[Nighttime. For envelops the town while the moon shines overhead. Mr. Mackey's shadow pops out from behind a tree and looks around, then he sneaks into an alley. He begins pulling up scooters and tossing them into a Bargain Rentals pickup truck. he wades into the river and crosses it to the other side, then removes the scooters from that side of town. He tosses them onto the truck as well. He then chains a bunch of them together and scoots them down the street to the truck. He tosses them onto the growing pile and drives out of town. He drives them onto a high cliff and parks at the edge, then throws out the whole mass of scooters, kicking out any remaining ones. He then drives off the cliff and goes home to sleep. His phone beeps, waking him. He rubs his eyes and puts on his glasses, then is surprised to see a scooter in his room by the bed.]\n",
+    "output": "What the hell?? [walks backward into the bathroom, then turns around to find two more scooters by the toilet.] Aaaah! [Spooked, he goes downstairs when he hears someone run into the front door.]\n"
+  },
+  {
+    "input": "What the hell?? [walks backward into the bathroom, then turns around to find two more scooters by the toilet.] Aaaah! [Spooked, he goes downstairs when he hears someone run into the front door.]\n",
+    "output": "Agh! [Mackey opens the door to see the rider dust himself off] Sorry, dude.\n"
+  },
+  {
+    "input": "Agh! [Mackey opens the door to see the rider dust himself off] Sorry, dude.\n",
+    "output": "God damnit, where'd you get that?!\n"
+  },
+  {
+    "input": "God damnit, where'd you get that?!\n",
+    "output": "Oh, they're all over, dude. Super-convenient. Try it out. [scoots away. Mr. Mackey walks to the street and sees even more of them than he threw out the night before.]\n[The school cafeteria, day. Bebe and Wendy sit at the table with four other girls. Kenny walks up to their table and sits between two of the girls.]\n"
+  },
+  {
+    "input": "Oh, they're all over, dude. Super-convenient. Try it out. [scoots away. Mr. Mackey walks to the street and sees even more of them than he threw out the night before.]\n[The school cafeteria, day. Bebe and Wendy sit at the table with four other girls. Kenny walks up to their table and sits between two of the girls.]\n",
+    "output": "(Hey guys!) [silence. He chuckles and says] (So listen, I was thinking, maybe I'd trick or treat with you guys this year!)\n"
+  },
+  {
+    "input": "(Hey guys!) [silence. He chuckles and says] (So listen, I was thinking, maybe I'd trick or treat with you guys this year!)\n",
+    "output": "You wanna trick or treat with us? Why?\n"
+  },
+  {
+    "input": "You wanna trick or treat with us? Why?\n",
+    "output": "(Oh, you know! Just trying to be gender-neutral, hahahaha!)\n[At another table, Cartman sits with Stan, Kyle, Tolkien, Jimmy, Clyde, and Butters]\n"
+  },
+  {
+    "input": "(Oh, you know! Just trying to be gender-neutral, hahahaha!)\n[At another table, Cartman sits with Stan, Kyle, Tolkien, Jimmy, Clyde, and Butters]\n",
+    "output": "So, uh, you guys think you're gonna get a lot of candy trick or treating this year?\n"
+  },
+  {
+    "input": "So, uh, you guys think you're gonna get a lot of candy trick or treating this year?\n",
+    "output": "We're gonna get a butt-load of candy!\n"
+  },
+  {
+    "input": "We're gonna get a butt-load of candy!\n",
+    "output": "Shh! Butters, don't tell them our secret!\n"
+  },
+  {
+    "input": "Shh! Butters, don't tell them our secret!\n",
+    "output": "Oh, we have a little secret too!\n"
+  },
+  {
+    "input": "Oh, we have a little secret too!\n",
+    "output": "But we're not gonna tell people 'cause they're gonna copy us. So let's just leave it at that.\n"
+  },
+  {
+    "input": "But we're not gonna tell people 'cause they're gonna copy us. So let's just leave it at that.\n",
+    "output": "Fine by us. So what are you gonna be for Halloween?\n"
+  },
+  {
+    "input": "Fine by us. So what are you gonna be for Halloween?\n",
+    "output": "Be? I'm gonna be on an e-scooter taking all your candy! [Stan and Kyle flash angry looks at him] That's what I'm gonna be!\n"
+  },
+  {
+    "input": "Be? I'm gonna be on an e-scooter taking all your candy! [Stan and Kyle flash angry looks at him] That's what I'm gonna be!\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "Sorry!\n"
+  },
+  {
+    "input": "Sorry!\n",
+    "output": "Hey wait! That's what we're doing!\n"
+  },
+  {
+    "input": "Hey wait! That's what we're doing!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Hold on! You guys are using e-scooters on Halloween too?\n"
+  },
+  {
+    "input": "Hold on! You guys are using e-scooters on Halloween too?\n",
+    "output": "Oh, you jerks found out the girls are all trick or treating on e-scooters, and you stole our idea!\n"
+  },
+  {
+    "input": "Oh, you jerks found out the girls are all trick or treating on e-scooters, and you stole our idea!\n",
+    "output": "Okay. Hold on! This is bullcrap! [all the kids begin arguing, destroying any chance Kenny had of enjoying a peaceful dinner. He walks away, head down.]\n[South Park Community Center. Adult Kenny resumes the story.]\n"
+  },
+  {
+    "input": "Okay. Hold on! This is bullcrap! [all the kids begin arguing, destroying any chance Kenny had of enjoying a peaceful dinner. He walks away, head down.]\n[South Park Community Center. Adult Kenny resumes the story.]\n",
+    "output": "It was the day before Halloween. All of our parents were gathered together to try and stop a nightmare from coming true.\n"
+  },
+  {
+    "input": "It was the day before Halloween. All of our parents were gathered together to try and stop a nightmare from coming true.\n",
+    "output": "[at the podium] All right, everyone. Quiet, please. We have a community crisis on our hands, and it's my job to keep you informed. As you know, there's been a rise in the use of e-scooters in our town. Officer Brown is head of crisis control. Officer?\n"
+  },
+  {
+    "input": "[at the podium] All right, everyone. Quiet, please. We have a community crisis on our hands, and it's my job to keep you informed. As you know, there's been a rise in the use of e-scooters in our town. Officer Brown is head of crisis control. Officer?\n",
+    "output": "We have inside information that kids everywhere are going to be using e-scooters for tricks or treats. Now, with these things, kids and teens can cover a lot of ground in very little time. They can hit more houses than ever before. Because of the scooters, we also expect that people from all the neighboring counties will commute for tricks or treats in our town. Because of all of this, we believe each household needs to be prepared... with at least $6,000 worth of candy.\n"
+  },
+  {
+    "input": "We have inside information that kids everywhere are going to be using e-scooters for tricks or treats. Now, with these things, kids and teens can cover a lot of ground in very little time. They can hit more houses than ever before. Because of the scooters, we also expect that people from all the neighboring counties will commute for tricks or treats in our town. Because of all of this, we believe each household needs to be prepared... with at least $6,000 worth of candy.\n",
+    "output": "$6,000?\n"
+  },
+  {
+    "input": "$6,000?\n",
+    "output": "Well that's ridiculous! We, we can't all buy that much candy! Let's just get rid of those scooters!\n"
+  },
+  {
+    "input": "Well that's ridiculous! We, we can't all buy that much candy! Let's just get rid of those scooters!\n",
+    "output": "Yeah! That's right! Let's do it!\n"
+  },
+  {
+    "input": "Yeah! That's right! Let's do it!\n",
+    "output": "[stands up] You can't get rid of them! I tried! You all just sat there while those things piled up on our sidewalks! You all rode 'em around, m'kay?! I saw you! You could have used your cars, but you just had to scoot! [makes his way to the podium] And now tricks or treats is here! Well I'll tell you one thing! I'm not gonna let my house get egged this year for not havin' enough candy! So what are we gonna do?!\n"
+  },
+  {
+    "input": "[stands up] You can't get rid of them! I tried! You all just sat there while those things piled up on our sidewalks! You all rode 'em around, m'kay?! I saw you! You could have used your cars, but you just had to scoot! [makes his way to the podium] And now tricks or treats is here! Well I'll tell you one thing! I'm not gonna let my house get egged this year for not havin' enough candy! So what are we gonna do?!\n",
+    "output": "We gotta get more candy! [after a moment of silence, everyone scrambles out the door with a sense of urgency. Mackey joins them]\n[Downtown South Park, evening. Mr. Mackey drives up in his car and screeches to a halt in front of Tom's Rhinoplasty. He leaves his car and locks it, then runs into Lolly's Candy Factory next door to get whatever candy he can just as everyone else runs out of there.]\n"
+  },
+  {
+    "input": "We gotta get more candy! [after a moment of silence, everyone scrambles out the door with a sense of urgency. Mackey joins them]\n[Downtown South Park, evening. Mr. Mackey drives up in his car and screeches to a halt in front of Tom's Rhinoplasty. He leaves his car and locks it, then runs into Lolly's Candy Factory next door to get whatever candy he can just as everyone else runs out of there.]\n",
+    "output": "Get-whoa-get out of the way! [goes inside. A female customer leaves with the last of the goodies]\n"
+  },
+  {
+    "input": "Get-whoa-get out of the way! [goes inside. A female customer leaves with the last of the goodies]\n",
+    "output": "Look, I got nothin' left, all right?\n"
+  },
+  {
+    "input": "Look, I got nothin' left, all right?\n",
+    "output": "What did you-? Get me some of those Hi-Chews.\n"
+  },
+  {
+    "input": "What did you-? Get me some of those Hi-Chews.\n",
+    "output": "Those are already accounted for by folks who called in!\n"
+  },
+  {
+    "input": "Those are already accounted for by folks who called in!\n",
+    "output": "Well then let me, let me have the Whatchamacallits?\n"
+  },
+  {
+    "input": "Well then let me, let me have the Whatchamacallits?\n",
+    "output": "Those are for me! I've gotta protect my own house!\n"
+  },
+  {
+    "input": "Those are for me! I've gotta protect my own house!\n",
+    "output": "Look, you've gotta give me some more fuckin' candy! [Lolly bends over, pulls up a rifle, and aims it at Mr. Mackey]\n"
+  },
+  {
+    "input": "Look, you've gotta give me some more fuckin' candy! [Lolly bends over, pulls up a rifle, and aims it at Mr. Mackey]\n",
+    "output": "There's nothin' left here. You've gotta go somewhere else! [Mr. Mackey turns and runs out]\n[Food 4 Little, later. Mr. Mackey peels into a parking spot and grabs a cart as soon as he can. He runs through the store]\n"
+  },
+  {
+    "input": "There's nothin' left here. You've gotta go somewhere else! [Mr. Mackey turns and runs out]\n[Food 4 Little, later. Mr. Mackey peels into a parking spot and grabs a cart as soon as he can. He runs through the store]\n",
+    "output": "Where, where's the candy, m'kay? Candy? [stops when he sees an associate] Uhh, what aisle is the candy in?\n"
+  },
+  {
+    "input": "Where, where's the candy, m'kay? Candy? [stops when he sees an associate] Uhh, what aisle is the candy in?\n",
+    "output": "Uh, aisle 7.\n"
+  },
+  {
+    "input": "Uh, aisle 7.\n",
+    "output": "[resumes running] Uh 7, aisle 7! [reaches it and turns to see empty, trashed shelves. A couple of people have fallen victim to the stampede]\n[Halloween, day. A wind blows some leaves around all over town. South Park Elementary is ow crowded with e-scooters up front. The kids are dressed up for Halloween and look around at each other warily, ready to be the first one out the classroom door as soon as the bell rings. Butters too looks around warily, but all of a sudden brightens up. He looks at the clock on the wall. Meanwhile, Kenny walks to Mr. Mackey's office, sighs, and knocks on the door.]\n"
+  },
+  {
+    "input": "[resumes running] Uh 7, aisle 7! [reaches it and turns to see empty, trashed shelves. A couple of people have fallen victim to the stampede]\n[Halloween, day. A wind blows some leaves around all over town. South Park Elementary is ow crowded with e-scooters up front. The kids are dressed up for Halloween and look around at each other warily, ready to be the first one out the classroom door as soon as the bell rings. Butters too looks around warily, but all of a sudden brightens up. He looks at the clock on the wall. Meanwhile, Kenny walks to Mr. Mackey's office, sighs, and knocks on the door.]\n",
+    "output": "[divvies up the candy so every kid gets the same amount and composition] Twenty Reese's Pieces, one Twix, sixteen Raisinets. [Kenny knocks again] Just... just a minute! Twelve Hat Tamles, half a Nestle Crun- [Kenny knocks again] Okay, come in! [Kenny finally walks in and closes the door, then takes a seat] What you want?\n"
+  },
+  {
+    "input": "[divvies up the candy so every kid gets the same amount and composition] Twenty Reese's Pieces, one Twix, sixteen Raisinets. [Kenny knocks again] Just... just a minute! Twelve Hat Tamles, half a Nestle Crun- [Kenny knocks again] Okay, come in! [Kenny finally walks in and closes the door, then takes a seat] What you want?\n",
+    "output": "(I, I just... It's Halloween and I should be happy, but I'm not happy at all.)\n"
+  },
+  {
+    "input": "(I, I just... It's Halloween and I should be happy, but I'm not happy at all.)\n",
+    "output": "Wait. Are you here for counseling?\n"
+  },
+  {
+    "input": "Wait. Are you here for counseling?\n",
+    "output": "(Yeah! What should I do? I'm gonna miss trick-or-treating. It sucks.)\n"
+  },
+  {
+    "input": "(Yeah! What should I do? I'm gonna miss trick-or-treating. It sucks.)\n",
+    "output": "Do you realize it's about to be World War III out there?! We have bigger problems! Consider yourself lucky, M'kay?! Everyone's gonna be scootin' and there's no way to stop it. Why are you the one kid who doesn't want to use them?\n"
+  },
+  {
+    "input": "Do you realize it's about to be World War III out there?! We have bigger problems! Consider yourself lucky, M'kay?! Everyone's gonna be scootin' and there's no way to stop it. Why are you the one kid who doesn't want to use them?\n",
+    "output": "(I can't use one. I don't have a phone.)\n"
+  },
+  {
+    "input": "(I can't use one. I don't have a phone.)\n",
+    "output": "What do you mean? You can't use those things without a phone?\n"
+  },
+  {
+    "input": "What do you mean? You can't use those things without a phone?\n",
+    "output": "(No. It sucks. Halloween was a night without phones, man.)\n"
+  },
+  {
+    "input": "(No. It sucks. Halloween was a night without phones, man.)\n",
+    "output": "But Kenny, if that's true, then... could there be a way to cut the connection?\n"
+  },
+  {
+    "input": "But Kenny, if that's true, then... could there be a way to cut the connection?\n",
+    "output": "(I don't know. I guess if you-) [snaps his fingers] (Wait a minute. Take down the cell phone tower. Then nobody has a phone on Halloween!)\n"
+  },
+  {
+    "input": "(I don't know. I guess if you-) [snaps his fingers] (Wait a minute. Take down the cell phone tower. Then nobody has a phone on Halloween!)\n",
+    "output": "Jesus! You really think that could work?!\n"
+  },
+  {
+    "input": "Jesus! You really think that could work?!\n",
+    "output": "(Yeah! I just have to ride thirty minutes outside of town! Oh, wait. I can't. I don't have a scooter.)\n"
+  },
+  {
+    "input": "(Yeah! I just have to ride thirty minutes outside of town! Oh, wait. I can't. I don't have a scooter.)\n",
+    "output": "[voice trembling] No. You don't need a scooter, 'cause I got a fuckin' car. [Kenny gets pumped]\n[Tegridy Farms, day. Stephen and Linda drive up and park. Randy opens the front door to greet them]\n"
+  },
+  {
+    "input": "[voice trembling] No. You don't need a scooter, 'cause I got a fuckin' car. [Kenny gets pumped]\n[Tegridy Farms, day. Stephen and Linda drive up and park. Randy opens the front door to greet them]\n",
+    "output": "Yehello?\n"
+  },
+  {
+    "input": "Yehello?\n",
+    "output": "Heh hey Randy. Linda and I, we... we were talkin' about how we never see you guys anymore, and we were thinking we'd hang out with you for Halloween, heh.\n"
+  },
+  {
+    "input": "Heh hey Randy. Linda and I, we... we were talkin' about how we never see you guys anymore, and we were thinking we'd hang out with you for Halloween, heh.\n",
+    "output": "Oh, I see. You want a place to hide on Halloween night, and you thought out here on the farm you'd be safe.\n"
+  },
+  {
+    "input": "Oh, I see. You want a place to hide on Halloween night, and you thought out here on the farm you'd be safe.\n",
+    "output": "Well, that, and we really wanna hang with you guys.\n"
+  },
+  {
+    "input": "Well, that, and we really wanna hang with you guys.\n",
+    "output": "[giggles nervously] Yes.\n"
+  },
+  {
+    "input": "[giggles nervously] Yes.\n",
+    "output": "You think them fancy e-scooters don't make it out here? We're gonna be bombarded just like you city folk.\n"
+  },
+  {
+    "input": "You think them fancy e-scooters don't make it out here? We're gonna be bombarded just like you city folk.\n",
+    "output": "Then please, Randy, can we just borrow a little candy?\n"
+  },
+  {
+    "input": "Then please, Randy, can we just borrow a little candy?\n",
+    "output": "I gotta keep what I have.\n"
+  },
+  {
+    "input": "I gotta keep what I have.\n",
+    "output": "Please, Randy, the stores are all out! Just a few Milky Ways to get us through the first couple hours, please! We can cut 'em up. We can- we can hand them out little pieces at a time.\n"
+  },
+  {
+    "input": "Please, Randy, the stores are all out! Just a few Milky Ways to get us through the first couple hours, please! We can cut 'em up. We can- we can hand them out little pieces at a time.\n",
+    "output": "[steps backward up the porch steps] I gotta protect my own, Stotch! I'm sorry. [turns and walks inside]\n[In the car, moments later.]\n"
+  },
+  {
+    "input": "[steps backward up the porch steps] I gotta protect my own, Stotch! I'm sorry. [turns and walks inside]\n[In the car, moments later.]\n",
+    "output": "[in a panic] What are we gonna do??\n"
+  },
+  {
+    "input": "[in a panic] What are we gonna do??\n",
+    "output": "It's okay, Linda! It's okay! On Halloween night, I'll... I'll just one of those e-scooters myself. I'll go around and, and I'll trick-or-treat. I'll... I'll get a bunch of-\n"
+  },
+  {
+    "input": "It's okay, Linda! It's okay! On Halloween night, I'll... I'll just one of those e-scooters myself. I'll go around and, and I'll trick-or-treat. I'll... I'll get a bunch of-\n",
+    "output": "[grabs his right hand] No, you can't leave me alone!\n"
+  },
+  {
+    "input": "[grabs his right hand] No, you can't leave me alone!\n",
+    "output": "[grabs her shoulders] I'll get a bunch of candy, Linda, and I'll bring it back to our house for us to hand out! It's going to be okay.\n[South Park Elementary. The school bell rings and the kids flood out to get at the e-scooters. Clyde gets on a scooter, but Kyle pulls him off and takes it. Butters runs for a scooter, but Cartman catches up to him and punches him away. The kids fan out around town. Gerald is at his front door dishing out candy as fast as possible]\n"
+  },
+  {
+    "input": "[grabs her shoulders] I'll get a bunch of candy, Linda, and I'll bring it back to our house for us to hand out! It's going to be okay.\n[South Park Elementary. The school bell rings and the kids flood out to get at the e-scooters. Clyde gets on a scooter, but Kyle pulls him off and takes it. Butters runs for a scooter, but Cartman catches up to him and punches him away. The kids fan out around town. Gerald is at his front door dishing out candy as fast as possible]\n",
+    "output": "Aah! Aaaah! Here! Here, take it! Just take it!\n"
+  },
+  {
+    "input": "Aah! Aaaah! Here! Here, take it! Just take it!\n",
+    "output": "[Dishes out candies to the trick-or-treaters in a panic] OH GOD! WE NEED MORE THREEM MUSKETEERS! WE CAN'T BE OUT! THERE HAS TO BE MORE!!\n"
+  },
+  {
+    "input": "[Dishes out candies to the trick-or-treaters in a panic] OH GOD! WE NEED MORE THREEM MUSKETEERS! WE CAN'T BE OUT! THERE HAS TO BE MORE!!\n",
+    "output": "[comes into view with Cartman and Stan] Jesus Christ! Where'd all these other people come from?!\n"
+  },
+  {
+    "input": "[comes into view with Cartman and Stan] Jesus Christ! Where'd all these other people come from?!\n",
+    "output": "We have to get more candy than anyone else, even if we die!\n[The road to South Park, night. The sign for Mr. Hankey's Holiday Pageant now has CANCELLED spray-painted on it. Kids and teens from out of town begin streaming in. Again, Mr. Mackey has to avoid the oncoming riders, but Kenny is with him now.]\n"
+  },
+  {
+    "input": "We have to get more candy than anyone else, even if we die!\n[The road to South Park, night. The sign for Mr. Hankey's Holiday Pageant now has CANCELLED spray-painted on it. Kids and teens from out of town begin streaming in. Again, Mr. Mackey has to avoid the oncoming riders, but Kenny is with him now.]\n",
+    "output": "The tower should be just over that ridge.\n"
+  },
+  {
+    "input": "The tower should be just over that ridge.\n",
+    "output": "(Let's just hope to hell this works.)\n"
+  },
+  {
+    "input": "(Let's just hope to hell this works.)\n",
+    "output": "[a woman they bump off] Oof, Sorry.\n"
+  },
+  {
+    "input": "[a woman they bump off] Oof, Sorry.\n",
+    "output": "What gives them the right, huh? I mean, some big company came and dumped a bunch of scooters everywhere without asking anyone if it was okay.\n"
+  },
+  {
+    "input": "What gives them the right, huh? I mean, some big company came and dumped a bunch of scooters everywhere without asking anyone if it was okay.\n",
+    "output": "(Yeah, people don't even care if shit's dumped everywhere. Everyone just loves technology)\n"
+  },
+  {
+    "input": "(Yeah, people don't even care if shit's dumped everywhere. Everyone just loves technology)\n",
+    "output": "Yeah, you're right. You're a good kid, Kenny. I always thought so. I know we kind of all forget about you sometimes, but you're smart, compassionate, and you might even make a good counselor someday. [looks ahead again, but bumps into another rider]\n"
+  },
+  {
+    "input": "Yeah, you're right. You're a good kid, Kenny. I always thought so. I know we kind of all forget about you sometimes, but you're smart, compassionate, and you might even make a good counselor someday. [looks ahead again, but bumps into another rider]\n",
+    "output": "Sorry, dude.\n[Jimbo and Ned's house, night. The trick-or-treaters swarm outside the house while Jimbo and Ned dish out the candy]\n"
+  },
+  {
+    "input": "Sorry, dude.\n[Jimbo and Ned's house, night. The trick-or-treaters swarm outside the house while Jimbo and Ned dish out the candy]\n",
+    "output": "Keep going, Ned! Don't you give up on me!\n"
+  },
+  {
+    "input": "Keep going, Ned! Don't you give up on me!\n",
+    "output": "[scoots up to them, pushing people out of the way] Move it! Get out of my way! [holdds up his pail] Trick or treat!\n"
+  },
+  {
+    "input": "[scoots up to them, pushing people out of the way] Move it! Get out of my way! [holdds up his pail] Trick or treat!\n",
+    "output": "The hell are you doing, Stotch?\n"
+  },
+  {
+    "input": "The hell are you doing, Stotch?\n",
+    "output": "Happy Halloween! Trick or Treat!\n"
+  },
+  {
+    "input": "Happy Halloween! Trick or Treat!\n",
+    "output": "You're just trying to get our candy for your house!\n"
+  },
+  {
+    "input": "You're just trying to get our candy for your house!\n",
+    "output": "That's not true!\n"
+  },
+  {
+    "input": "That's not true!\n",
+    "output": "You don't even have a costume!\n"
+  },
+  {
+    "input": "You don't even have a costume!\n",
+    "output": "Yes I do! I'm Megyn Kelly! Now trick or treat!\n[The neighborhood streets, night. The boys have done so well that their bags are bulging with candy]\n"
+  },
+  {
+    "input": "Yes I do! I'm Megyn Kelly! Now trick or treat!\n[The neighborhood streets, night. The boys have done so well that their bags are bulging with candy]\n",
+    "output": "That's it! I can't go anymore!\n"
+  },
+  {
+    "input": "That's it! I can't go anymore!\n",
+    "output": "Keep moving, Kyle!\n"
+  },
+  {
+    "input": "Keep moving, Kyle!\n",
+    "output": "Dude, we can't carry any more candy!\n"
+  },
+  {
+    "input": "Dude, we can't carry any more candy!\n",
+    "output": "All right, over here. Come on!\n"
+  },
+  {
+    "input": "All right, over here. Come on!\n",
+    "output": "What are we doing?\n"
+  },
+  {
+    "input": "What are we doing?\n",
+    "output": "We've gotta make room for more candy. Come on. Eat as much as you can. [they open their bags and start shoveling candy into their mouths, eating as much as they can]\n"
+  },
+  {
+    "input": "We've gotta make room for more candy. Come on. Eat as much as you can. [they open their bags and start shoveling candy into their mouths, eating as much as they can]\n",
+    "output": "I don't... I don't know how I can keep doing this.\n"
+  },
+  {
+    "input": "I don't... I don't know how I can keep doing this.\n",
+    "output": "Yes you can, Kyle.\n"
+  },
+  {
+    "input": "Yes you can, Kyle.\n",
+    "output": "I can't any more. [throws up into his bag]\n[A half hour out of town, night. Mr. Mackey and Kenny drive towards a wireless cell tower guarded by a chain-link fence]\n"
+  },
+  {
+    "input": "I can't any more. [throws up into his bag]\n[A half hour out of town, night. Mr. Mackey and Kenny drive towards a wireless cell tower guarded by a chain-link fence]\n",
+    "output": "(Find a way inside. I'll climb the tower.)\n"
+  },
+  {
+    "input": "(Find a way inside. I'll climb the tower.)\n",
+    "output": "Okay, sounds good! [they're confronted by a security guard in costume]\n"
+  },
+  {
+    "input": "Okay, sounds good! [they're confronted by a security guard in costume]\n",
+    "output": "(Oh, fuck!) [the guard is dressed as Jason Voorhees]\n"
+  },
+  {
+    "input": "(Oh, fuck!) [the guard is dressed as Jason Voorhees]\n",
+    "output": "Jesus Christ! [slashing sounds are heard. The guard removes his mask]\n"
+  },
+  {
+    "input": "Jesus Christ! [slashing sounds are heard. The guard removes his mask]\n",
+    "output": "I'm all out of candy, all right?! Go look somewhere else!\n"
+  },
+  {
+    "input": "I'm all out of candy, all right?! Go look somewhere else!\n",
+    "output": "We're not here for tricks or treats!\n"
+  },
+  {
+    "input": "We're not here for tricks or treats!\n",
+    "output": "Yeah, sure! That's what the last people said! Then they dumped my entire bowl in a pillowcase!\n"
+  },
+  {
+    "input": "Yeah, sure! That's what the last people said! Then they dumped my entire bowl in a pillowcase!\n",
+    "output": "(Dude, relax. It's okay.)\n"
+  },
+  {
+    "input": "(Dude, relax. It's okay.)\n",
+    "output": "I'm just a security guard, all right?! [slides the mask back down over his face] We never even used to have trick-or-treaters out this far!\n"
+  },
+  {
+    "input": "I'm just a security guard, all right?! [slides the mask back down over his face] We never even used to have trick-or-treaters out this far!\n",
+    "output": "That's why he has to take down this cellphone tower: To stop the scooters! Jason, I'm a counselor. You need to trust me. [the guard tilts his head to the right]\n[The trick-or-treaters swarm outside the police station and pound on its walls. Police officers inside the station stay low and armed. One of them covers his ears]\n"
+  },
+  {
+    "input": "That's why he has to take down this cellphone tower: To stop the scooters! Jason, I'm a counselor. You need to trust me. [the guard tilts his head to the right]\n[The trick-or-treaters swarm outside the police station and pound on its walls. Police officers inside the station stay low and armed. One of them covers his ears]\n",
+    "output": "There's a bowl of Rice Krispie treats at the side door! The side door, you animals!\n"
+  },
+  {
+    "input": "There's a bowl of Rice Krispie treats at the side door! The side door, you animals!\n",
+    "output": "Detective, look!\n[A TV is seen from their location, showing a newscast from New York. Times Square is torn to shreds, with glass panels littering the ground]\n"
+  },
+  {
+    "input": "Detective, look!\n[A TV is seen from their location, showing a newscast from New York. Times Square is torn to shreds, with glass panels littering the ground]\n",
+    "output": "We are two hours ahead here! New York has completely run out of candy! [static ruins the image and the TV goes dark]\n[The neighborhood streets, moments later. Trick-or-treating continues]\n"
+  },
+  {
+    "input": "We are two hours ahead here! New York has completely run out of candy! [static ruins the image and the TV goes dark]\n[The neighborhood streets, moments later. Trick-or-treating continues]\n",
+    "output": "Butters? We've lost Butters!\n"
+  },
+  {
+    "input": "Butters? We've lost Butters!\n",
+    "output": "Oh God, Butters! [Butters is lying down next to a gutter munching on his cache of candy]\n[Tegridy Farms, night. Sharon and Randy stand on the porch looking out at the fields. A swarm of kids is in the distance]\n"
+  },
+  {
+    "input": "Oh God, Butters! [Butters is lying down next to a gutter munching on his cache of candy]\n[Tegridy Farms, night. Sharon and Randy stand on the porch looking out at the fields. A swarm of kids is in the distance]\n",
+    "output": "We're never goin' to have enough candy.\n[The cellphone tower, later. Kenny goes up the steps to the top, hauling a chain. He then throws the chain around the top and catches it, tying it onto itself]\n"
+  },
+  {
+    "input": "We're never goin' to have enough candy.\n[The cellphone tower, later. Kenny goes up the steps to the top, hauling a chain. He then throws the chain around the top and catches it, tying it onto itself]\n",
+    "output": "(Okay, that's got it!)\n"
+  },
+  {
+    "input": "(Okay, that's got it!)\n",
+    "output": "All right, Kenny! [to no one] Let's see you do THIS with a goddamned scooter! [turns the ignition on, revs up the car, and begins to drive away, pulling the tower down. Kenny hides behind some panels on the way down]\n[The town, moments later. The scooters begin to power down and the riders stop moving. The excitement dies down.]\n[Tegridy Farms, moments later. The scooters begin to power down and the riders stop moving just before reaching the porch. The excitement dies down.]\n"
+  },
+  {
+    "input": "All right, Kenny! [to no one] Let's see you do THIS with a goddamned scooter! [turns the ignition on, revs up the car, and begins to drive away, pulling the tower down. Kenny hides behind some panels on the way down]\n[The town, moments later. The scooters begin to power down and the riders stop moving. The excitement dies down.]\n[Tegridy Farms, moments later. The scooters begin to power down and the riders stop moving just before reaching the porch. The excitement dies down.]\n",
+    "output": "And just like that, it was over. Nobody knew what happened. They only knew their phones didn't work.\n"
+  },
+  {
+    "input": "And just like that, it was over. Nobody knew what happened. They only knew their phones didn't work.\n",
+    "output": "Does anyone have a signal?\n"
+  },
+  {
+    "input": "Does anyone have a signal?\n",
+    "output": "No scooters, no texting, not even GPS. It was like the old Halloween. [with no way to move around on them, the riders just drop the scooters and walk away]\n"
+  },
+  {
+    "input": "No scooters, no texting, not even GPS. It was like the old Halloween. [with no way to move around on them, the riders just drop the scooters and walk away]\n",
+    "output": "And I can't get an Uber home!\n"
+  },
+  {
+    "input": "And I can't get an Uber home!\n",
+    "output": "Mr. Mackey was able to get back to the town and offer counseling to everyone who needed it. [Kenny walks into view, wearing a costume] And as for me? I was able to spend the rest of the night with my friends, because we were all equal again.\n"
+  },
+  {
+    "input": "Mr. Mackey was able to get back to the town and offer counseling to everyone who needed it. [Kenny walks into view, wearing a costume] And as for me? I was able to spend the rest of the night with my friends, because we were all equal again.\n",
+    "output": "[approach a house and ring the doorbell] Trick or treat.\n"
+  },
+  {
+    "input": "[approach a house and ring the doorbell] Trick or treat.\n",
+    "output": "[brightly] (Trick or treat!)\n"
+  }
+]

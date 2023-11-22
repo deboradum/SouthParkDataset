@@ -1,0 +1,1450 @@
+[
+  {
+    "input": "",
+    "output": "Fat Butt and Pancake Head\n\n[South Park Elementary, day. Kyle is speaking to the school in the school gym, which is nicely decorated in the flags of many nations, both on the rafters and on the small stage set up at one end of the basketball court.]\n"
+  },
+  {
+    "input": "Fat Butt and Pancake Head\n\n[South Park Elementary, day. Kyle is speaking to the school in the school gym, which is nicely decorated in the flags of many nations, both on the rafters and on the small stage set up at one end of the basketball court.]\n",
+    "output": "[wearing an argyle sweater] ...And in conclusion, the Latino community has provided America, and indeed, the entire world with innovations that we would be lost without. And that is my presentation on the role of Hispanics in American technology. Thank you. [cheers from the school crowd before him]\n"
+  },
+  {
+    "input": "[wearing an argyle sweater] ...And in conclusion, the Latino community has provided America, and indeed, the entire world with innovations that we would be lost without. And that is my presentation on the role of Hispanics in American technology. Thank you. [cheers from the school crowd before him]\n",
+    "output": "[approaches the mic] Okay, thank you, Kyle Broflovski.\n"
+  },
+  {
+    "input": "[approaches the mic] Okay, thank you, Kyle Broflovski.\n",
+    "output": "[as Kyle approaches him] That was very good, Kyle. I think the Latino Endowment Council was very happy with your presentation. Looks like you might win. [a shot of the council, which is comprised of five Latinos. ]\n"
+  },
+  {
+    "input": "[as Kyle approaches him] That was very good, Kyle. I think the Latino Endowment Council was very happy with your presentation. Looks like you might win. [a shot of the council, which is comprised of five Latinos. ]\n",
+    "output": "Cool.\n"
+  },
+  {
+    "input": "Cool.\n",
+    "output": "All right, students, members of the school board. Our last speaker will discuss the important role of Latinos in the arts. Here is... Eric Cartman. [reads again in disbelief] Eric Cartman? [a smattering of applause from the kids in the crowd]\n"
+  },
+  {
+    "input": "All right, students, members of the school board. Our last speaker will discuss the important role of Latinos in the arts. Here is... Eric Cartman. [reads again in disbelief] Eric Cartman? [a smattering of applause from the kids in the crowd]\n",
+    "output": "[approaches the mic with his left hand behind his back] Thank you. The Latino culture has been very influential on the arts in America. But you don't have to ask me. You can ask my special guest. Miss Jennifer Lopez.\n"
+  },
+  {
+    "input": "[approaches the mic with his left hand behind his back] Thank you. The Latino culture has been very influential on the arts in America. But you don't have to ask me. You can ask my special guest. Miss Jennifer Lopez.\n",
+    "output": "Jennifer Lopez?\n"
+  },
+  {
+    "input": "Jennifer Lopez?\n",
+    "output": "No way.\n"
+  },
+  {
+    "input": "No way.\n",
+    "output": "[shows off his left hand, which is open] Miss Lopez, come on out here. [the hand closes to become a fist, and that fist has a face and hair painted on it]\n"
+  },
+  {
+    "input": "[shows off his left hand, which is open] Miss Lopez, come on out here. [the hand closes to become a fist, and that fist has a face and hair painted on it]\n",
+    "output": "[Cartman begins to speak in a Spanish cartoon accent and his lips form a tiny smile as his hand begins to move] Hallooo. [the hand sports a small wig and a paper cutout of a woman's body hanging down from it. The cutout wears a white top and shorts and a heavy brown coat. The cutout's right hand sports some yellow bracelets]\n"
+  },
+  {
+    "input": "[Cartman begins to speak in a Spanish cartoon accent and his lips form a tiny smile as his hand begins to move] Hallooo. [the hand sports a small wig and a paper cutout of a woman's body hanging down from it. The cutout wears a white top and shorts and a heavy brown coat. The cutout's right hand sports some yellow bracelets]\n",
+    "output": "[taken aback] Oh, Jesus Christ.\n"
+  },
+  {
+    "input": "[taken aback] Oh, Jesus Christ.\n",
+    "output": "My name is Hennifer Lopez. I eat tacos, y burritos.\n"
+  },
+  {
+    "input": "My name is Hennifer Lopez. I eat tacos, y burritos.\n",
+    "output": "Ms. Lopez, would you like to talk about Latinos and the arts?\n"
+  },
+  {
+    "input": "Ms. Lopez, would you like to talk about Latinos and the arts?\n",
+    "output": "Oh si, si. But first I would like to put on my pretty dress.\n"
+  },
+  {
+    "input": "Oh si, si. But first I would like to put on my pretty dress.\n",
+    "output": "Oh, you mean this one? [whips out a doll's dress for the occasion]\n"
+  },
+  {
+    "input": "Oh, you mean this one? [whips out a doll's dress for the occasion]\n",
+    "output": "Oh si si si. I like it very much.\n"
+  },
+  {
+    "input": "Oh si si si. I like it very much.\n",
+    "output": "[fits the dress under his hand] There we go, Saright?\n"
+  },
+  {
+    "input": "[fits the dress under his hand] There we go, Saright?\n",
+    "output": "Saright.\n"
+  },
+  {
+    "input": "Saright.\n",
+    "output": "That's a very pretty dress. [the Latino Endowment Council is shown again]\n"
+  },
+  {
+    "input": "That's a very pretty dress. [the Latino Endowment Council is shown again]\n",
+    "output": "It better be! I am Hennifer Lopez!\n"
+  },
+  {
+    "input": "It better be! I am Hennifer Lopez!\n",
+    "output": "Nonono, you're Jennifer Lopez.\n"
+  },
+  {
+    "input": "Nonono, you're Jennifer Lopez.\n",
+    "output": "si si. [enunciating] Hennifer Lopez!\n"
+  },
+  {
+    "input": "si si. [enunciating] Hennifer Lopez!\n",
+    "output": "Nono, Jeh-\n"
+  },
+  {
+    "input": "Nono, Jeh-\n",
+    "output": "Heh-\n"
+  },
+  {
+    "input": "Heh-\n",
+    "output": "Jeh-\n"
+  },
+  {
+    "input": "Jeh-\n",
+    "output": "Heh-\n"
+  },
+  {
+    "input": "Heh-\n",
+    "output": "Jeh-\n"
+  },
+  {
+    "input": "Jeh-\n",
+    "output": "Jeh-\n"
+  },
+  {
+    "input": "Jeh-\n",
+    "output": "Jennifer Lopez.\n"
+  },
+  {
+    "input": "Jennifer Lopez.\n",
+    "output": "Hennifer Lopez. [members of the council laugh and clap]\n"
+  },
+  {
+    "input": "Hennifer Lopez. [members of the council laugh and clap]\n",
+    "output": "Hahahahaha, oh my.\n"
+  },
+  {
+    "input": "Hahahahaha, oh my.\n",
+    "output": "Ms. Lopez, could you show everyone your example of Latino arts?\n"
+  },
+  {
+    "input": "Ms. Lopez, could you show everyone your example of Latino arts?\n",
+    "output": "Don't be fooled by all my money. I still like to eat tacos, honey. So crispy on the outside, so super good and yummy.\n"
+  },
+  {
+    "input": "Don't be fooled by all my money. I still like to eat tacos, honey. So crispy on the outside, so super good and yummy.\n",
+    "output": "And that is my presentation on Latinos in the arts. Thank you. [Much more cheer and applause for him. The school gives him a standing ovation. The members of the Latino Endowment council jump up and down with joy and pride. Stan and Kenny clap with everyone else, Kyle is just stunned.]\n[South Park Mall, later. The boys walk down one side inside the mall. Cartman leads the way.]\n"
+  },
+  {
+    "input": "And that is my presentation on Latinos in the arts. Thank you. [Much more cheer and applause for him. The school gives him a standing ovation. The members of the Latino Endowment council jump up and down with joy and pride. Stan and Kenny clap with everyone else, Kyle is just stunned.]\n[South Park Mall, later. The boys walk down one side inside the mall. Cartman leads the way.]\n",
+    "output": "Oh-hoh man! A twenty-dollar gift certificate at the mall! I can buy whatever I want! Cultural Diversity Day kicks ass!\n"
+  },
+  {
+    "input": "Oh-hoh man! A twenty-dollar gift certificate at the mall! I can buy whatever I want! Cultural Diversity Day kicks ass!\n",
+    "output": "It isn't fair. I spent weeks preparing my speech on Latino culture.\n"
+  },
+  {
+    "input": "It isn't fair. I spent weeks preparing my speech on Latino culture.\n",
+    "output": "Hey, I spent weeks preparing too, Kyle.\n"
+  },
+  {
+    "input": "Hey, I spent weeks preparing too, Kyle.\n",
+    "output": "No you didn't, asshole! What you did was totally stupid and racist! And you only did it to screw me over!\n"
+  },
+  {
+    "input": "No you didn't, asshole! What you did was totally stupid and racist! And you only did it to screw me over!\n",
+    "output": "[walks up to Kyle] Awww, I don't think Kyle likes you, Ms. Lopez.\n"
+  },
+  {
+    "input": "[walks up to Kyle] Awww, I don't think Kyle likes you, Ms. Lopez.\n",
+    "output": "Aww, that makes me muy triste.\n"
+  },
+  {
+    "input": "Aww, that makes me muy triste.\n",
+    "output": "Ms. Lopez, do you like Kyle?\n"
+  },
+  {
+    "input": "Ms. Lopez, do you like Kyle?\n",
+    "output": "Oh si si, very much.\n"
+  },
+  {
+    "input": "Oh si si, very much.\n",
+    "output": "Ms. Lopez, would you like to give Kyle a kiss?\n"
+  },
+  {
+    "input": "Ms. Lopez, would you like to give Kyle a kiss?\n",
+    "output": "Oh si, si si, my kisses taste like tacos. [Cartman plants his fist on Kyle's lips and makes kissing noises, then removes the hand]\n"
+  },
+  {
+    "input": "Oh si, si si, my kisses taste like tacos. [Cartman plants his fist on Kyle's lips and makes kissing noises, then removes the hand]\n",
+    "output": "Is nice?\n"
+  },
+  {
+    "input": "Is nice?\n",
+    "output": "Is very nice. He's so handsome. [Cartman puts the hand back on Kyle's mouth and resumes the kissing noises]\n"
+  },
+  {
+    "input": "Is very nice. He's so handsome. [Cartman puts the hand back on Kyle's mouth and resumes the kissing noises]\n",
+    "output": "[swats Cartman's hand away]Stop it!\n"
+  },
+  {
+    "input": "[swats Cartman's hand away]Stop it!\n",
+    "output": "Hey, come one guys! We can use part of my gift certificate to buy food at the food court.\n"
+  },
+  {
+    "input": "Hey, come one guys! We can use part of my gift certificate to buy food at the food court.\n",
+    "output": "(Woohoo!) [the boys go to the food court]\n[South Park Mall, later. The boys walk down the mall. Cartman's hand is finishing off a taco as he looks at it.]\n"
+  },
+  {
+    "input": "(Woohoo!) [the boys go to the food court]\n[South Park Mall, later. The boys walk down the mall. Cartman's hand is finishing off a taco as he looks at it.]\n",
+    "output": "Mmm, tacos! So yummy!\n"
+  },
+  {
+    "input": "Mmm, tacos! So yummy!\n",
+    "output": "Stop wasting the tacos on your hand, Cartman!\n"
+  },
+  {
+    "input": "Stop wasting the tacos on your hand, Cartman!\n",
+    "output": "Hey, Ms. Lopez has to eat, too.\n"
+  },
+  {
+    "input": "Hey, Ms. Lopez has to eat, too.\n",
+    "output": "She's not eating it, it's just coming out her backside!\n"
+  },
+  {
+    "input": "She's not eating it, it's just coming out her backside!\n",
+    "output": "When you eat a taco it comes out your backside too, cholo!\n"
+  },
+  {
+    "input": "When you eat a taco it comes out your backside too, cholo!\n",
+    "output": "(Heheehee, heheh yeahah)\n"
+  },
+  {
+    "input": "(Heheehee, heheh yeahah)\n",
+    "output": "Look look! Make your own music video! [they stop in front of a \"U R Da Star\", a music-video shop]\n"
+  },
+  {
+    "input": "Look look! Make your own music video! [they stop in front of a \"U R Da Star\", a music-video shop]\n",
+    "output": "Nonono, we're not going into one of those cheesy places, Cartman!\n"
+  },
+  {
+    "input": "Nonono, we're not going into one of those cheesy places, Cartman!\n",
+    "output": "I agree. Those places are stupid.\n"
+  },
+  {
+    "input": "I agree. Those places are stupid.\n",
+    "output": "It's not stupid. I need to make music video.\n"
+  },
+  {
+    "input": "It's not stupid. I need to make music video.\n",
+    "output": "[to Cartman's hand] Look, we're not going in there, so just-! Wait, why the hell am I talking to your hand? [slaps Cartman's hand down] Look, we're not going in there, so just knock it off!\n"
+  },
+  {
+    "input": "[to Cartman's hand] Look, we're not going in there, so just-! Wait, why the hell am I talking to your hand? [slaps Cartman's hand down] Look, we're not going in there, so just knock it off!\n",
+    "output": "Hey, I'm on your guys' side.\n"
+  },
+  {
+    "input": "Hey, I'm on your guys' side.\n",
+    "output": "[rises] Just wait one minute, let me see how much it is. [leads Cartman in. Stan and Kenny follow]\n"
+  },
+  {
+    "input": "[rises] Just wait one minute, let me see how much it is. [leads Cartman in. Stan and Kenny follow]\n",
+    "output": "God dammit! [follows reluctantly]\n"
+  },
+  {
+    "input": "God dammit! [follows reluctantly]\n",
+    "output": "Welcome to Make Your Own Video. All set to rock and roll?\n"
+  },
+  {
+    "input": "Welcome to Make Your Own Video. All set to rock and roll?\n",
+    "output": "How much to make a video?\n"
+  },
+  {
+    "input": "How much to make a video?\n",
+    "output": "Uh, well, it's nine ninety five for a three-minute tape.\n"
+  },
+  {
+    "input": "Uh, well, it's nine ninety five for a three-minute tape.\n",
+    "output": "Heh! We're not paying nine ninety five!\n"
+  },
+  {
+    "input": "Heh! We're not paying nine ninety five!\n",
+    "output": "Oh please! Come on, guys!\n"
+  },
+  {
+    "input": "Oh please! Come on, guys!\n",
+    "output": "Cartman, will you stop this gayness?!\n"
+  },
+  {
+    "input": "Cartman, will you stop this gayness?!\n",
+    "output": "All right all right, here's ten dollars! [takes out the bill and hands it to the cashier]\n"
+  },
+  {
+    "input": "All right all right, here's ten dollars! [takes out the bill and hands it to the cashier]\n",
+    "output": "That's not what I meant!\n"
+  },
+  {
+    "input": "That's not what I meant!\n",
+    "output": "All right, just come over here and stand in front of the green screen. [Cartman walks over to the screen] What kind of song do you want?\n"
+  },
+  {
+    "input": "All right, just come over here and stand in front of the green screen. [Cartman walks over to the screen] What kind of song do you want?\n",
+    "output": "Something hot and spicy.\n[The cashier puts on various music tracks, first song is a rock song.]\n"
+  },
+  {
+    "input": "Something hot and spicy.\n[The cashier puts on various music tracks, first song is a rock song.]\n",
+    "output": "Spicier.\n[Next is Latin song]\n"
+  },
+  {
+    "input": "Spicier.\n[Next is Latin song]\n",
+    "output": "Spicierrr!\n[Next song is a Latin mix. This is agreeable, so the video is made.]\n[\"Jennifer Lopez: Taco-Flavored Kisses\" is shown, The hand has its costume on hanging down from it.]\n"
+  },
+  {
+    "input": "Spicierrr!\n[Next song is a Latin mix. This is agreeable, so the video is made.]\n[\"Jennifer Lopez: Taco-Flavored Kisses\" is shown, The hand has its costume on hanging down from it.]\n",
+    "output": "Burrito. Taco taco. Burrito. Taco. Taco taco.\nDon't think that just because I got a lot of money\nI'll give you taco-flavored kisses, honey!\nFulfill all your wishes with my taco-flavored kisses.\nTaco taco. Burrito Burri...to. Taco taco.\n"
+  },
+  {
+    "input": "Burrito. Taco taco. Burrito. Taco. Taco taco.\nDon't think that just because I got a lot of money\nI'll give you taco-flavored kisses, honey!\nFulfill all your wishes with my taco-flavored kisses.\nTaco taco. Burrito Burri...to. Taco taco.\n",
+    "output": "You know, I've seen a lot of videos here at the mall, and that was by far the best!\n"
+  },
+  {
+    "input": "You know, I've seen a lot of videos here at the mall, and that was by far the best!\n",
+    "output": "Oh, gracias, \"Machel\"! [the cashier's tag reads \"Michael\"]\n"
+  },
+  {
+    "input": "Oh, gracias, \"Machel\"! [the cashier's tag reads \"Michael\"]\n",
+    "output": "Hey, I've got a friend who's interning at a big record label in L.A. I'll send a copy on to him and maybe he'll get the bigwigs to see it.\n"
+  },
+  {
+    "input": "Hey, I've got a friend who's interning at a big record label in L.A. I'll send a copy on to him and maybe he'll get the bigwigs to see it.\n",
+    "output": "Oh, gracias, Machel, gracias!\n"
+  },
+  {
+    "input": "Oh, gracias, Machel, gracias!\n",
+    "output": "Can we go now, please?!\n"
+  },
+  {
+    "input": "Can we go now, please?!\n",
+    "output": "Yeah, I wanna leave.\n"
+  },
+  {
+    "input": "Yeah, I wanna leave.\n",
+    "output": "Stop it, Cartman!\n"
+  },
+  {
+    "input": "Stop it, Cartman!\n",
+    "output": "What?\n[BHI records, L.A. day. The tape is being played on a massive screen in an office.]\n"
+  },
+  {
+    "input": "What?\n[BHI records, L.A. day. The tape is being played on a massive screen in an office.]\n",
+    "output": "Fulfill all your wishes with my taco-flavored kisses.\nTaco taco.\n"
+  },
+  {
+    "input": "Fulfill all your wishes with my taco-flavored kisses.\nTaco taco.\n",
+    "output": "She's fantastic. Who is she? [two men sit on a sofa, one sits on an armchair]\n"
+  },
+  {
+    "input": "She's fantastic. Who is she? [two men sit on a sofa, one sits on an armchair]\n",
+    "output": "[with brown hair] Believe it or not, her name is Jennifer Lopez.\n"
+  },
+  {
+    "input": "[with brown hair] Believe it or not, her name is Jennifer Lopez.\n",
+    "output": "[in armchair] That makes sense. She reminds me of J-Lo.\n"
+  },
+  {
+    "input": "[in armchair] That makes sense. She reminds me of J-Lo.\n",
+    "output": "Yeah, but she's younger and spicier.\n"
+  },
+  {
+    "input": "Yeah, but she's younger and spicier.\n",
+    "output": "Taco taco. Burrito Burri...to. Taco taco.\n"
+  },
+  {
+    "input": "Taco taco. Burrito Burri...to. Taco taco.\n",
+    "output": "I don't think J-Lo would like it very much if we signed this new girl.\n"
+  },
+  {
+    "input": "I don't think J-Lo would like it very much if we signed this new girl.\n",
+    "output": "No, you're right. We're gonna have to fire J-Lo.\n[Cartman's house, day. The phone rings in the kitchen and he answers it.]\n"
+  },
+  {
+    "input": "No, you're right. We're gonna have to fire J-Lo.\n[Cartman's house, day. The phone rings in the kitchen and he answers it.]\n",
+    "output": "Hello? ...BHI records? ...Oh, it's for you, Ms. Lopez. [hands the phone to \"her\"]\n"
+  },
+  {
+    "input": "Hello? ...BHI records? ...Oh, it's for you, Ms. Lopez. [hands the phone to \"her\"]\n",
+    "output": "Oh, si si siiih. Allo!\n"
+  },
+  {
+    "input": "Oh, si si siiih. Allo!\n",
+    "output": "What do they want?\n"
+  },
+  {
+    "input": "What do they want?\n",
+    "output": "[looks at Cartman] Just a second, I'm trying to hear.\n"
+  },
+  {
+    "input": "[looks at Cartman] Just a second, I'm trying to hear.\n",
+    "output": "S'awright?\n"
+  },
+  {
+    "input": "S'awright?\n",
+    "output": "S'awright. [returns to \"her\" call] Yes yes, this is Ms. Hrrrlopez. Uh huh. [gasps and screams \"her\" head off]\n"
+  },
+  {
+    "input": "S'awright. [returns to \"her\" call] Yes yes, this is Ms. Hrrrlopez. Uh huh. [gasps and screams \"her\" head off]\n",
+    "output": "What? What?\n"
+  },
+  {
+    "input": "What? What?\n",
+    "output": "Oh my God I can't believe it!!!\n"
+  },
+  {
+    "input": "Oh my God I can't believe it!!!\n",
+    "output": "[puts the phone to his ear] Hello, are you still there?\n"
+  },
+  {
+    "input": "[puts the phone to his ear] Hello, are you still there?\n",
+    "output": "They want to sign me to the record company!\n"
+  },
+  {
+    "input": "They want to sign me to the record company!\n",
+    "output": "You want to sign Ms. Lopez?\n"
+  },
+  {
+    "input": "You want to sign Ms. Lopez?\n",
+    "output": "Oh my God, it's happening for me!\n"
+  },
+  {
+    "input": "Oh my God, it's happening for me!\n",
+    "output": "Yes! Yes, we can record an album next week! Sure we can write ten songs! We'll start tonight!! [hangs up and grins] We're gonna be rich!\n"
+  },
+  {
+    "input": "Yes! Yes, we can record an album next week! Sure we can write ten songs! We'll start tonight!! [hangs up and grins] We're gonna be rich!\n",
+    "output": "We're gonna be famose!\n"
+  },
+  {
+    "input": "We're gonna be famose!\n",
+    "output": "Come on, we gotta get to work on some songs! [runs off]\n[Cartman's house, night. Cartman is on his bed writing away on a notepad.]\n"
+  },
+  {
+    "input": "Come on, we gotta get to work on some songs! [runs off]\n[Cartman's house, night. Cartman is on his bed writing away on a notepad.]\n",
+    "output": "There. That's three more songs we've written already! Your style of music is so easy it doesn't require any thought at all!\n"
+  },
+  {
+    "input": "There. That's three more songs we've written already! Your style of music is so easy it doesn't require any thought at all!\n",
+    "output": "Oh, si si siiih.\n"
+  },
+  {
+    "input": "Oh, si si siiih.\n",
+    "output": "[scoots back to his bedside lamp and turns it off, then settles under the covers] Okay, Ms. Lopez, time to go to sleep. [rubs off her open eyes and paints some closed lids on his hand.]\n"
+  },
+  {
+    "input": "[scoots back to his bedside lamp and turns it off, then settles under the covers] Okay, Ms. Lopez, time to go to sleep. [rubs off her open eyes and paints some closed lids on his hand.]\n",
+    "output": "Ohh, I'm so sleeeepyyy.\n"
+  },
+  {
+    "input": "Ohh, I'm so sleeeepyyy.\n",
+    "output": "Good night, Ms. Lopez. Tomorrow is gonna be a great day. Great day tomorrow... [begins to dream of taunting Kyle] Tomorrow...\n[His dream begins at the bus stop]\n"
+  },
+  {
+    "input": "Good night, Ms. Lopez. Tomorrow is gonna be a great day. Great day tomorrow... [begins to dream of taunting Kyle] Tomorrow...\n[His dream begins at the bus stop]\n",
+    "output": "\"Kyle, you were wrong! We did do a record deal!\" [in class, sitting next to each other] \"You were wrong, Kyle!\" [in the cafeteria, as Kyle walks by with his lunch] \"Nananananaaana!\" [on the bus ride home] \"Hahahahahaaaha!\" [images of Kyle come forth, crying] \"Nananananaaana!\" \"Hahahahahaaaha!\" [in his sleep] Awesommme. Yeeessss.\n"
+  },
+  {
+    "input": "\"Kyle, you were wrong! We did do a record deal!\" [in class, sitting next to each other] \"You were wrong, Kyle!\" [in the cafeteria, as Kyle walks by with his lunch] \"Nananananaaana!\" [on the bus ride home] \"Hahahahahaaaha!\" [images of Kyle come forth, crying] \"Nananananaaana!\" \"Hahahahahaaaha!\" [in his sleep] Awesommme. Yeeessss.\n",
+    "output": "[has dreams of its own] Aaahhhh. Aaahhhh.\n[An Oscar ceremony. Two Oscars stand guard over a red carpet. On either side of the carpet is a crowd of people. A limo pulls up and a hand floats out of it.]\n"
+  },
+  {
+    "input": "[has dreams of its own] Aaahhhh. Aaahhhh.\n[An Oscar ceremony. Two Oscars stand guard over a red carpet. On either side of the carpet is a crowd of people. A limo pulls up and a hand floats out of it.]\n",
+    "output": "Ms. Lopez! Up here!\n"
+  },
+  {
+    "input": "Ms. Lopez! Up here!\n",
+    "output": "Jennifer, We love you Jennifer!\n"
+  },
+  {
+    "input": "Jennifer, We love you Jennifer!\n",
+    "output": "Jennifer, over here.\n"
+  },
+  {
+    "input": "Jennifer, over here.\n",
+    "output": "Jennifer!\n[A concert. Her first single is thumping away, and she appears as just a hand, floating over the stage floor.]\n"
+  },
+  {
+    "input": "Jennifer!\n[A concert. Her first single is thumping away, and she appears as just a hand, floating over the stage floor.]\n",
+    "output": "[stageside] We love you Jennifer! [roses land onstage. Shots of three magazines follow.]\n"
+  },
+  {
+    "input": "[stageside] We love you Jennifer! [roses land onstage. Shots of three magazines follow.]\n",
+    "output": "[back to Cartman's room] Aaahhhh.\n[BHI Records, Los Angeles, day. The president and his men are in a meeting when he looks up.]\n"
+  },
+  {
+    "input": "[back to Cartman's room] Aaahhhh.\n[BHI Records, Los Angeles, day. The president and his men are in a meeting when he looks up.]\n",
+    "output": "Ah, Ms. Lopez, come on in.\n"
+  },
+  {
+    "input": "Ah, Ms. Lopez, come on in.\n",
+    "output": "[carrying a toy poodle takes a seat and removes her glasses] Yo, make it quick. I got a video shoot at two and a script reading at five.\n"
+  },
+  {
+    "input": "[carrying a toy poodle takes a seat and removes her glasses] Yo, make it quick. I got a video shoot at two and a script reading at five.\n",
+    "output": "Yes, well uh, Ms. Lopez, we regret to inform you that, uh... we're dropping you from the label.\n"
+  },
+  {
+    "input": "Yes, well uh, Ms. Lopez, we regret to inform you that, uh... we're dropping you from the label.\n",
+    "output": "What? Oh no you di'n't!\n"
+  },
+  {
+    "input": "What? Oh no you di'n't!\n",
+    "output": "We wanna thank you for all your hard work and ...\"talent\".\n"
+  },
+  {
+    "input": "We wanna thank you for all your hard work and ...\"talent\".\n",
+    "output": "[pounds her table] You can't drop me! I'm Jennifer Lopez! How can you drop me?!\n"
+  },
+  {
+    "input": "[pounds her table] You can't drop me! I'm Jennifer Lopez! How can you drop me?!\n",
+    "output": "Wu-well a very talented younger singer has come to our attention and, and the truth of the matter is her name happens to be Jennifer Lopez as well. And we really can't have two here at BHI Records.\n"
+  },
+  {
+    "input": "Wu-well a very talented younger singer has come to our attention and, and the truth of the matter is her name happens to be Jennifer Lopez as well. And we really can't have two here at BHI Records.\n",
+    "output": "Who the hell is this other Jennifer Lopez?! Where is she come from?!\n"
+  },
+  {
+    "input": "Who the hell is this other Jennifer Lopez?! Where is she come from?!\n",
+    "output": "Well, she lives in South Park, Colorado now, but uh I believe she originally from Mexico, just like you.\n"
+  },
+  {
+    "input": "Well, she lives in South Park, Colorado now, but uh I believe she originally from Mexico, just like you.\n",
+    "output": "I don't come from no Mexico! I'm Puer'ah Rican!\n"
+  },
+  {
+    "input": "I don't come from no Mexico! I'm Puer'ah Rican!\n",
+    "output": "Whatever. Look, it's nothing personal, we just think you need to move on.\n"
+  },
+  {
+    "input": "Whatever. Look, it's nothing personal, we just think you need to move on.\n",
+    "output": "Bu- AND you're a mean-spirited bitch who spits on people who aren't rich and famous.\n[A limousine, from the back seat. A small TV is on near the floor, behind the driver.]\n"
+  },
+  {
+    "input": "Bu- AND you're a mean-spirited bitch who spits on people who aren't rich and famous.\n[A limousine, from the back seat. A small TV is on near the floor, behind the driver.]\n",
+    "output": "And sources say that the new film will star Ben Affleck.\n"
+  },
+  {
+    "input": "And sources say that the new film will star Ben Affleck.\n",
+    "output": "[sitting at the other end of the passenger cabin] Huhuhuh, that's me. [a door opens opposite him and J-Lo enters] How'd it go, baby?\n"
+  },
+  {
+    "input": "[sitting at the other end of the passenger cabin] Huhuhuh, that's me. [a door opens opposite him and J-Lo enters] How'd it go, baby?\n",
+    "output": "Terrible, Ben! Some girl in Colorado is trying to become the new Jennifer Lopez! [her dog begins to bark] Shut up! [a few more barks and she tosses it out the window.]\n"
+  },
+  {
+    "input": "Terrible, Ben! Some girl in Colorado is trying to become the new Jennifer Lopez! [her dog begins to bark] Shut up! [a few more barks and she tosses it out the window.]\n",
+    "output": "What?? Who could replace you??\n"
+  },
+  {
+    "input": "What?? Who could replace you??\n",
+    "output": "[tries to get the driver's attention] Yo driver. Stupid driver!\n"
+  },
+  {
+    "input": "[tries to get the driver's attention] Yo driver. Stupid driver!\n",
+    "output": "[looks back] Yes, ma'am. Where to?\n"
+  },
+  {
+    "input": "[looks back] Yes, ma'am. Where to?\n",
+    "output": "Take me to South Park, Colorado! I'm gonna kill that bitch!!\n[South Park Elementary, day. The kids file in to class. Many of them are already seated. Butters is looking out the window.]\n"
+  },
+  {
+    "input": "Take me to South Park, Colorado! I'm gonna kill that bitch!!\n[South Park Elementary, day. The kids file in to class. Many of them are already seated. Butters is looking out the window.]\n",
+    "output": "[runs up] Hey everybody! Listen up! I've got something to tell Kyle! [Slience.]\n"
+  },
+  {
+    "input": "[runs up] Hey everybody! Listen up! I've got something to tell Kyle! [Slience.]\n",
+    "output": "[decide to answer] ...What?\n"
+  },
+  {
+    "input": "[decide to answer] ...What?\n",
+    "output": "[approaches him] Hahahahahaaaha! Hahahahahaaaha! Hahaha, Hahaha, Hahahahahahaha!\n"
+  },
+  {
+    "input": "[approaches him] Hahahahahaaaha! Hahahahahaaaha! Hahaha, Hahaha, Hahahahahahaha!\n",
+    "output": "What are you gloating about?\n"
+  },
+  {
+    "input": "What are you gloating about?\n",
+    "output": "Oh, I'm not gloating. I just got a little call from a record company in Los Angeles and, they want Ms. Lopez to record an album next week.\n"
+  },
+  {
+    "input": "Oh, I'm not gloating. I just got a little call from a record company in Los Angeles and, they want Ms. Lopez to record an album next week.\n",
+    "output": "Wow, really?\n"
+  },
+  {
+    "input": "Wow, really?\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "[a slight gloat arises] Yup, looks like I'm gonna be rich. [nods to his hand] And famous.\n"
+  },
+  {
+    "input": "[a slight gloat arises] Yup, looks like I'm gonna be rich. [nods to his hand] And famous.\n",
+    "output": "Okay, children, let's take our seats. If you'll remember yesterday we were discussing state capitals.\n"
+  },
+  {
+    "input": "Okay, children, let's take our seats. If you'll remember yesterday we were discussing state capitals.\n",
+    "output": "[pipes up and turns to the class] Hey, a big limousine just pulled up in front of the school!\n"
+  },
+  {
+    "input": "[pipes up and turns to the class] Hey, a big limousine just pulled up in front of the school!\n",
+    "output": "Butters, will you pay attention, please?\n"
+  },
+  {
+    "input": "Butters, will you pay attention, please?\n",
+    "output": "Holy smokes, it's Jennifer Lopez!\n"
+  },
+  {
+    "input": "Holy smokes, it's Jennifer Lopez!\n",
+    "output": "Jennifer Lopez?\n"
+  },
+  {
+    "input": "Jennifer Lopez?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "Holy geez wow! There's Ben Affleck, too!\n"
+  },
+  {
+    "input": "Holy geez wow! There's Ben Affleck, too!\n",
+    "output": "Wow, cool! [the kids leave their seats and head for the window]\n"
+  },
+  {
+    "input": "Wow, cool! [the kids leave their seats and head for the window]\n",
+    "output": "Will you kids shut up? [puts his book away and walks to the window] Jennifer Lopez and Ben Affleck are not-! Oh my God, that's Jennifer Lopez and Ben Affleck. [the limo has pulled up. Jennifer and Ben climb out of the limo and the driver directs them to the office.]\n"
+  },
+  {
+    "input": "Will you kids shut up? [puts his book away and walks to the window] Jennifer Lopez and Ben Affleck are not-! Oh my God, that's Jennifer Lopez and Ben Affleck. [the limo has pulled up. Jennifer and Ben climb out of the limo and the driver directs them to the office.]\n",
+    "output": "Oh Jesus, will you look at those boots?\n"
+  },
+  {
+    "input": "Oh Jesus, will you look at those boots?\n",
+    "output": "Well what are we waiting for? Let's get outside! [rushes out and the cheering class and Mr. Slave follow]\n[South Park Elementary, outside, later. Word gets around and all of the school comes out to see for itself.]\n"
+  },
+  {
+    "input": "Well what are we waiting for? Let's get outside! [rushes out and the cheering class and Mr. Slave follow]\n[South Park Elementary, outside, later. Word gets around and all of the school comes out to see for itself.]\n",
+    "output": "Is it true? Jennifer Lopez is here?\n"
+  },
+  {
+    "input": "Is it true? Jennifer Lopez is here?\n",
+    "output": "Here she comes! Here she comes!\n"
+  },
+  {
+    "input": "Here she comes! Here she comes!\n",
+    "output": "Okay! What smart-mouthed little punk-ass bitch has been saying they're the new Jennifer Lopez, huh?!\n"
+  },
+  {
+    "input": "Okay! What smart-mouthed little punk-ass bitch has been saying they're the new Jennifer Lopez, huh?!\n",
+    "output": "[Mr. Adler takes a picture] J-Lo, can we get a picture of you with the kids?\n"
+  },
+  {
+    "input": "[Mr. Adler takes a picture] J-Lo, can we get a picture of you with the kids?\n",
+    "output": "[begins pacing] No! Shut up! If I find the ho who thinks she's taken my career from me, I'm gonna wring her pretty little neck! [reaches the other end of the crowd] So, nobody want's to fess up, huh? Too scared to talk?! You'd better remember, bitch, that I'll come and take you down if you ever say anythin' again! [walks away]\n"
+  },
+  {
+    "input": "[begins pacing] No! Shut up! If I find the ho who thinks she's taken my career from me, I'm gonna wring her pretty little neck! [reaches the other end of the crowd] So, nobody want's to fess up, huh? Too scared to talk?! You'd better remember, bitch, that I'll come and take you down if you ever say anythin' again! [walks away]\n",
+    "output": "[a few seconds later...] You can suck my culo, chica! [Cartman looks up, stunned, as Jennifer Lopez returns to the crowd]\n"
+  },
+  {
+    "input": "[a few seconds later...] You can suck my culo, chica! [Cartman looks up, stunned, as Jennifer Lopez returns to the crowd]\n",
+    "output": "[looks around] Who was that?! [all the kids back away from Cartman while pointing at him] You go' a problem?!\n"
+  },
+  {
+    "input": "[looks around] Who was that?! [all the kids back away from Cartman while pointing at him] You go' a problem?!\n",
+    "output": "Not me!\n"
+  },
+  {
+    "input": "Not me!\n",
+    "output": "Then who? [Cartman brings out his hand and points to it with the other]\n"
+  },
+  {
+    "input": "Then who? [Cartman brings out his hand and points to it with the other]\n",
+    "output": "Hola, bitchola! [Cartman is looking ever more fearful]\n"
+  },
+  {
+    "input": "Hola, bitchola! [Cartman is looking ever more fearful]\n",
+    "output": "What the hell is that?!\n"
+  },
+  {
+    "input": "What the hell is that?!\n",
+    "output": "My name is Hennifer Hlopez! And I like tacos, and burritos.\n"
+  },
+  {
+    "input": "My name is Hennifer Hlopez! And I like tacos, and burritos.\n",
+    "output": "That? That's what replaced me?!\n"
+  },
+  {
+    "input": "That? That's what replaced me?!\n",
+    "output": "I'm sure it was just a mistake.\n"
+  },
+  {
+    "input": "I'm sure it was just a mistake.\n",
+    "output": "Only mistake was when this ghetto trash got signed in the first place!\n"
+  },
+  {
+    "input": "Only mistake was when this ghetto trash got signed in the first place!\n",
+    "output": "Shut your God-damned mouth!\n"
+  },
+  {
+    "input": "Shut your God-damned mouth!\n",
+    "output": "[picks Cartman up by the scruff of his jacket] You fucking smartass, who do you think you are?!\n"
+  },
+  {
+    "input": "[picks Cartman up by the scruff of his jacket] You fucking smartass, who do you think you are?!\n",
+    "output": "Nobody!\n"
+  },
+  {
+    "input": "Nobody!\n",
+    "output": "I am Yennifer Hrlopez! I eat tacos, and burritos!\n"
+  },
+  {
+    "input": "I am Yennifer Hrlopez! I eat tacos, and burritos!\n",
+    "output": "Fuck you! [begins to assault Cartman's hand]\n"
+  },
+  {
+    "input": "Fuck you! [begins to assault Cartman's hand]\n",
+    "output": "Yaaaaah! Wait! I'm sorry! Ah I'll stop! I'll stop!\n"
+  },
+  {
+    "input": "Yaaaaah! Wait! I'm sorry! Ah I'll stop! I'll stop!\n",
+    "output": "You'd better stop!\n"
+  },
+  {
+    "input": "You'd better stop!\n",
+    "output": "I will!\n"
+  },
+  {
+    "input": "I will!\n",
+    "output": "[walks up to join Jennifer] Come on, Jenny, let's go.\n"
+  },
+  {
+    "input": "[walks up to join Jennifer] Come on, Jenny, let's go.\n",
+    "output": "Wow, Ben Affleck.\n"
+  },
+  {
+    "input": "Wow, Ben Affleck.\n",
+    "output": "We should be getting back to the... [something grabs his attention. Cartman looks away. Ben begins to fall for this new Jennifer Lopez]\n"
+  },
+  {
+    "input": "We should be getting back to the... [something grabs his attention. Cartman looks away. Ben begins to fall for this new Jennifer Lopez]\n",
+    "output": "Don' you forget what'll happen to you, ho! Come on, Benny!\n[She drags him off, but he glances back at the new Jennifer Lopez. He follows the original Lopez into the limousine, looking back one more time. As the limo leaves, Ben looks back one more time with his hands up against the glass as if blowing a kiss. The crowd then disperses.]\n"
+  },
+  {
+    "input": "Don' you forget what'll happen to you, ho! Come on, Benny!\n[She drags him off, but he glances back at the new Jennifer Lopez. He follows the original Lopez into the limousine, looking back one more time. As the limo leaves, Ben looks back one more time with his hands up against the glass as if blowing a kiss. The crowd then disperses.]\n",
+    "output": "Well, there you go, fatass! I hope you learned your lesson.\n"
+  },
+  {
+    "input": "Well, there you go, fatass! I hope you learned your lesson.\n",
+    "output": "Yeah. I sure did. I don't think I should record that album now.\n"
+  },
+  {
+    "input": "Yeah. I sure did. I don't think I should record that album now.\n",
+    "output": "Good.\n"
+  },
+  {
+    "input": "Good.\n",
+    "output": "[rises once more] Or maybe I shou-ould.\n"
+  },
+  {
+    "input": "[rises once more] Or maybe I shou-ould.\n",
+    "output": "Aw, God-dammit!\n"
+  },
+  {
+    "input": "Aw, God-dammit!\n",
+    "output": "Ohnonono, Ms. Lopez.\n"
+  },
+  {
+    "input": "Ohnonono, Ms. Lopez.\n",
+    "output": "Ohsisisi, senor.\n"
+  },
+  {
+    "input": "Ohsisisi, senor.\n",
+    "output": "That does it. I'm out. [walks off]\n"
+  },
+  {
+    "input": "That does it. I'm out. [walks off]\n",
+    "output": "Oh, where are you going, Kyle? Come give me kisses!\n[Music Lab Recording Studios, night.]\n"
+  },
+  {
+    "input": "Oh, where are you going, Kyle? Come give me kisses!\n[Music Lab Recording Studios, night.]\n",
+    "output": "All right, Ms. Lopez, take it from the top. [music begins. Cartman is on a stool with his puppet at his side.]\n"
+  },
+  {
+    "input": "All right, Ms. Lopez, take it from the top. [music begins. Cartman is on a stool with his puppet at his side.]\n",
+    "output": "Baby let's make a run for the border,\nI've got a hunger only tacos can stop.\nI know exactly what I'll order\nThree tacos two tostadas and a soda pop.\n"
+  },
+  {
+    "input": "Baby let's make a run for the border,\nI've got a hunger only tacos can stop.\nI know exactly what I'll order\nThree tacos two tostadas and a soda pop.\n",
+    "output": "Gentlemen, we have ourselves a hit.\n"
+  },
+  {
+    "input": "Gentlemen, we have ourselves a hit.\n",
+    "output": "I need to make a run for the border,\nIf you pay I'll take off my top.\nDo you remember what I want to order?\nThree tacos two tostadas and a soda pop.\nYeah-eah, and don't forget the hot sauce, Cholo!\n[Cartman's house, night. He's asleep, dreaming.]\n"
+  },
+  {
+    "input": "I need to make a run for the border,\nIf you pay I'll take off my top.\nDo you remember what I want to order?\nThree tacos two tostadas and a soda pop.\nYeah-eah, and don't forget the hot sauce, Cholo!\n[Cartman's house, night. He's asleep, dreaming.]\n",
+    "output": "Don't think just because I got money\nI won't still give you taco-flavored kisses, honey.\nI'm gonna fulfill all your sexy wishes\nGive you lots of taco-flavored kisses-\n"
+  },
+  {
+    "input": "Don't think just because I got money\nI won't still give you taco-flavored kisses, honey.\nI'm gonna fulfill all your sexy wishes\nGive you lots of taco-flavored kisses-\n",
+    "output": "What the hell are you doing?\n"
+  },
+  {
+    "input": "What the hell are you doing?\n",
+    "output": "I'm practicing my dancinngg!\n"
+  },
+  {
+    "input": "I'm practicing my dancinngg!\n",
+    "output": "Look, we spent all night at the recording studio. Now it's time to sleep!\n"
+  },
+  {
+    "input": "Look, we spent all night at the recording studio. Now it's time to sleep!\n",
+    "output": "Dancing!\n"
+  },
+  {
+    "input": "Dancing!\n",
+    "output": "Sleep!\n"
+  },
+  {
+    "input": "Sleep!\n",
+    "output": "Dancing!\n"
+  },
+  {
+    "input": "Dancing!\n",
+    "output": "[slowly, whiney] Sleep!\n"
+  },
+  {
+    "input": "[slowly, whiney] Sleep!\n",
+    "output": "[slowly, invitingly] Dancing!\n"
+  },
+  {
+    "input": "[slowly, invitingly] Dancing!\n",
+    "output": "Moooommm! [Cartman's mother enters the room]\n"
+  },
+  {
+    "input": "Moooommm! [Cartman's mother enters the room]\n",
+    "output": "What's the matter, sweetie?\n"
+  },
+  {
+    "input": "What's the matter, sweetie?\n",
+    "output": "Ms. Lopez won't go to sleep!\n[Cartman's house, day. Ben Affleck approaches the front door with a bouquet of flowers and knocks on the door.]\n"
+  },
+  {
+    "input": "Ms. Lopez won't go to sleep!\n[Cartman's house, day. Ben Affleck approaches the front door with a bouquet of flowers and knocks on the door.]\n",
+    "output": "[real tired] He-yesss.\n"
+  },
+  {
+    "input": "[real tired] He-yesss.\n",
+    "output": "Hey, I was wondering if I could talk to Ms. Lopez.\n"
+  },
+  {
+    "input": "Hey, I was wondering if I could talk to Ms. Lopez.\n",
+    "output": "[hides his left hand] She's not here right now.\n"
+  },
+  {
+    "input": "[hides his left hand] She's not here right now.\n",
+    "output": "[muffled] Ben? Is that my darling Ben?\n"
+  },
+  {
+    "input": "[muffled] Ben? Is that my darling Ben?\n",
+    "output": "Jenny? Yes, Jenny, eheh, it's me! Where are you? Please, I-I have to see her! [Cartman sighs deeply, then shows his hand to Ben]\n"
+  },
+  {
+    "input": "Jenny? Yes, Jenny, eheh, it's me! Where are you? Please, I-I have to see her! [Cartman sighs deeply, then shows his hand to Ben]\n",
+    "output": "Ben!!! Oh, you brought me roses!\n"
+  },
+  {
+    "input": "Ben!!! Oh, you brought me roses!\n",
+    "output": "Jenny, ah Jenny I just can't stop thinking about you. [lowers the bouquet to Cartman, who takes it away angrily]\n"
+  },
+  {
+    "input": "Jenny, ah Jenny I just can't stop thinking about you. [lowers the bouquet to Cartman, who takes it away angrily]\n",
+    "output": "I can't stop thinking about you either, Ben!\n"
+  },
+  {
+    "input": "I can't stop thinking about you either, Ben!\n",
+    "output": "I've been meaning to write a song or a poem, but I have no talent.\n"
+  },
+  {
+    "input": "I've been meaning to write a song or a poem, but I have no talent.\n",
+    "output": "I know, my darleeeng. That's okay.\n"
+  },
+  {
+    "input": "I know, my darleeeng. That's okay.\n",
+    "output": "Will you just take a ride with me in my awesome car?\n"
+  },
+  {
+    "input": "Will you just take a ride with me in my awesome car?\n",
+    "output": "Oh Ben, I would LOVE to!\n"
+  },
+  {
+    "input": "Oh Ben, I would LOVE to!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "'Scuse me one second, Ben. [whips towards Cartman] Don't you ruin this opportunity for me! How can you stand in the way of this?!\n"
+  },
+  {
+    "input": "'Scuse me one second, Ben. [whips towards Cartman] Don't you ruin this opportunity for me! How can you stand in the way of this?!\n",
+    "output": "I'm not going out in his car.\n"
+  },
+  {
+    "input": "I'm not going out in his car.\n",
+    "output": "I'm not gonna let you blow this one chance I have.\n"
+  },
+  {
+    "input": "I'm not gonna let you blow this one chance I have.\n",
+    "output": "I don't care. I'm supposed to sit here and do my homework. [Ben stars picking his nose]\n"
+  },
+  {
+    "input": "I don't care. I'm supposed to sit here and do my homework. [Ben stars picking his nose]\n",
+    "output": "Don't you dare [becomes unintelligible]\n"
+  },
+  {
+    "input": "Don't you dare [becomes unintelligible]\n",
+    "output": "I don't care, 'cause I'm the one that's gonna get in trouble if you don't-! Okay, okay, wait, okay um, fine fine fine!\n"
+  },
+  {
+    "input": "I don't care, 'cause I'm the one that's gonna get in trouble if you don't-! Okay, okay, wait, okay um, fine fine fine!\n",
+    "output": "Okay, Ben, let's go!\n[A mountain road. Ben and Cartman drive along at a fast clip.]\n"
+  },
+  {
+    "input": "Okay, Ben, let's go!\n[A mountain road. Ben and Cartman drive along at a fast clip.]\n",
+    "output": "Oh Ben, I am soo happy! The cool breeze blowing through my hair in your sexy automobile.\n"
+  },
+  {
+    "input": "Oh Ben, I am soo happy! The cool breeze blowing through my hair in your sexy automobile.\n",
+    "output": "Let's spend the whole day together!\n[A soft song plays. The next scene is a dawn on a beach, where \"Jennifer Lopez\" and Ben run side by side. Cartman looks tired. Next is a restaurant where Ben has some wine while \"Jennifer Lopez\" enjoys a martini. Next scene, they're watching a movie together. \"Jennifer Lopez\" has her own seat between Ben and Cartman. Bem stretches and puts his hand on the headrest behind \"Jennifer Lopez\". Cartman looks, then looks away angrily. Next scene is at a jewelry store, where Ben picks out some earrings for \"Jennifer Lopez\". \"Jennifer Lopez\" opens her mouth in delight and Ben smiles. Next scene, Ben is resting on Cartman's lap and chatting with \"Jennifer Lopez\". Again, Cartman looks away in disgust. Last scene is undercover photos taken of Ben and \"Jennifer Lopez\", which end up on The National Inquisition.]\n"
+  },
+  {
+    "input": "Let's spend the whole day together!\n[A soft song plays. The next scene is a dawn on a beach, where \"Jennifer Lopez\" and Ben run side by side. Cartman looks tired. Next is a restaurant where Ben has some wine while \"Jennifer Lopez\" enjoys a martini. Next scene, they're watching a movie together. \"Jennifer Lopez\" has her own seat between Ben and Cartman. Bem stretches and puts his hand on the headrest behind \"Jennifer Lopez\". Cartman looks, then looks away angrily. Next scene is at a jewelry store, where Ben picks out some earrings for \"Jennifer Lopez\". \"Jennifer Lopez\" opens her mouth in delight and Ben smiles. Next scene, Ben is resting on Cartman's lap and chatting with \"Jennifer Lopez\". Again, Cartman looks away in disgust. Last scene is undercover photos taken of Ben and \"Jennifer Lopez\", which end up on The National Inquisition.]\n",
+    "output": "Oh Ben, you are so perfect, so spectacularrr in every way\nYou bring light into my life, Ben. You almost make me forget all about...\nTacos! Oh, tacos, so good in my tummy yummy yummy give me more.\nI love you, Ben. You almost make me forget about...\nTacos......\n"
+  },
+  {
+    "input": "Oh Ben, you are so perfect, so spectacularrr in every way\nYou bring light into my life, Ben. You almost make me forget all about...\nTacos! Oh, tacos, so good in my tummy yummy yummy give me more.\nI love you, Ben. You almost make me forget about...\nTacos......\n",
+    "output": "Jenny, I have to tell you something. I... I think I love you.\n"
+  },
+  {
+    "input": "Jenny, I have to tell you something. I... I think I love you.\n",
+    "output": "Hoohh, I love you too, Ben! [Cartman looks away in disgust] But...\n"
+  },
+  {
+    "input": "Hoohh, I love you too, Ben! [Cartman looks away in disgust] But...\n",
+    "output": "But what?\n"
+  },
+  {
+    "input": "But what?\n",
+    "output": "But what if you still have feelings for the slut with the large ass?\n"
+  },
+  {
+    "input": "But what if you still have feelings for the slut with the large ass?\n",
+    "output": "[pulls off to the side, with South Park in view.] I still care for her. Maybe I always will. But... You just have so much more going on. Up here. [strokes the top of Cartman's hand]\n"
+  },
+  {
+    "input": "[pulls off to the side, with South Park in view.] I still care for her. Maybe I always will. But... You just have so much more going on. Up here. [strokes the top of Cartman's hand]\n",
+    "output": "Oh Ben. Beennn.\n"
+  },
+  {
+    "input": "Oh Ben. Beennn.\n",
+    "output": "Jenny, can I kiss you?\n"
+  },
+  {
+    "input": "Jenny, can I kiss you?\n",
+    "output": "[reacts] NO!\n"
+  },
+  {
+    "input": "[reacts] NO!\n",
+    "output": "Yes! Oh yes, Ben, kiss me! [Cartman looks in wonder as his hand gets a mind of its own]\n"
+  },
+  {
+    "input": "Yes! Oh yes, Ben, kiss me! [Cartman looks in wonder as his hand gets a mind of its own]\n",
+    "output": "Aw, God dammit! [looks away in disgust once more. Ben begins to give French kisses to \"Jennifer Lopez\" and the hand responds] Aww- awww, dude!\n"
+  },
+  {
+    "input": "Aw, God dammit! [looks away in disgust once more. Ben begins to give French kisses to \"Jennifer Lopez\" and the hand responds] Aww- awww, dude!\n",
+    "output": "Mmm, just like tacos.\n"
+  },
+  {
+    "input": "Mmm, just like tacos.\n",
+    "output": "Taco-flavored kisses for my Ben.\n"
+  },
+  {
+    "input": "Taco-flavored kisses for my Ben.\n",
+    "output": "You're so hot, baby.\n"
+  },
+  {
+    "input": "You're so hot, baby.\n",
+    "output": "I make you hot, Ben?\n"
+  },
+  {
+    "input": "I make you hot, Ben?\n",
+    "output": "Mm, yeah. [grabs the hand and kisses it for a while, then lets go. The hand drops down into Ben's pants] Oh, Jenny. [the zipper goes down on his pants] Oh Jenny! [\"Jennifer Lopez\" bobs up and down]\n"
+  },
+  {
+    "input": "Mm, yeah. [grabs the hand and kisses it for a while, then lets go. The hand drops down into Ben's pants] Oh, Jenny. [the zipper goes down on his pants] Oh Jenny! [\"Jennifer Lopez\" bobs up and down]\n",
+    "output": "[pops up to say] Ben... [drops down again]\n"
+  },
+  {
+    "input": "[pops up to say] Ben... [drops down again]\n",
+    "output": "Oh God, Jenny!\n"
+  },
+  {
+    "input": "Oh God, Jenny!\n",
+    "output": "Oh, Ben, I adore you! [Cartman looks at Ben's actions, then at what his hand is doing...]\n"
+  },
+  {
+    "input": "Oh, Ben, I adore you! [Cartman looks at Ben's actions, then at what his hand is doing...]\n",
+    "output": "OHH, SICK!! AWW THAT'S IT! [opens his door, hops out, and walks away] WE'RE LEAVING NOW!!\n"
+  },
+  {
+    "input": "OHH, SICK!! AWW THAT'S IT! [opens his door, hops out, and walks away] WE'RE LEAVING NOW!!\n",
+    "output": "But I love her!\n"
+  },
+  {
+    "input": "But I love her!\n",
+    "output": "Ben!\n"
+  },
+  {
+    "input": "Ben!\n",
+    "output": "Jenny! Jenny, I'll call you!\n"
+  },
+  {
+    "input": "Jenny! Jenny, I'll call you!\n",
+    "output": "I love you, Ben!\n[Music Lab Recording Studio, night. \"Jennifer Lopez\" is recording new tracks. Cartman is practically sleeping on the job as his hand belts out new tunes.]\n"
+  },
+  {
+    "input": "I love you, Ben!\n[Music Lab Recording Studio, night. \"Jennifer Lopez\" is recording new tracks. Cartman is practically sleeping on the job as his hand belts out new tunes.]\n",
+    "output": "Ooo baby baby, can I have your tacos?\nTwo tacos chulo, too. I'm just Jenny from the hood.\nOoo, can I have your tacos? Oh- stop. Stop, stop. STOP!\n"
+  },
+  {
+    "input": "Ooo baby baby, can I have your tacos?\nTwo tacos chulo, too. I'm just Jenny from the hood.\nOoo, can I have your tacos? Oh- stop. Stop, stop. STOP!\n",
+    "output": "[the band stops playing] What the hell is wrong with you?! You cholos can't even keep a beat! I deserve better than thees! I an Hennifer Lopez! Where is my water?! [a page brings \"her\" a bottle of water. \"Jennifer Lopez\" knocks it onto the floor] Not Evian, Pellegrino, you stupid beetch!\n"
+  },
+  {
+    "input": "[the band stops playing] What the hell is wrong with you?! You cholos can't even keep a beat! I deserve better than thees! I an Hennifer Lopez! Where is my water?! [a page brings \"her\" a bottle of water. \"Jennifer Lopez\" knocks it onto the floor] Not Evian, Pellegrino, you stupid beetch!\n",
+    "output": "Ooo baby baby, can I have your tacos?\n"
+  },
+  {
+    "input": "Ooo baby baby, can I have your tacos?\n",
+    "output": "Uh, that's fine Ms. Lopez. Look, it's been a long night. Why don't we pick it up in the morning?\n"
+  },
+  {
+    "input": "Uh, that's fine Ms. Lopez. Look, it's been a long night. Why don't we pick it up in the morning?\n",
+    "output": "Fine my ass, cholo! [Cartman wakes up and looks at his hand] I'll tell you when it's fine!\n[Music Lab Recording Studio, night, back entrance. Cartamn exits and goes down three steps.]\n"
+  },
+  {
+    "input": "Fine my ass, cholo! [Cartman wakes up and looks at his hand] I'll tell you when it's fine!\n[Music Lab Recording Studio, night, back entrance. Cartamn exits and goes down three steps.]\n",
+    "output": "Stupid idiots! How am I supposed to make an album with those cholos?! [a bat hits a car nearby]\n"
+  },
+  {
+    "input": "Stupid idiots! How am I supposed to make an album with those cholos?! [a bat hits a car nearby]\n",
+    "output": "[stands next to the car she just bashed] You little snot-nose! [Cartman is taken aback] You ruin my career and now you're trying to steal my man?! [holds up the tabloid shown earlier]\n"
+  },
+  {
+    "input": "[stands next to the car she just bashed] You little snot-nose! [Cartman is taken aback] You ruin my career and now you're trying to steal my man?! [holds up the tabloid shown earlier]\n",
+    "output": "Aww crap.\n"
+  },
+  {
+    "input": "Aww crap.\n",
+    "output": "You'd better stay away from him! [begins whacking away at Cartman's hand]\n"
+  },
+  {
+    "input": "You'd better stay away from him! [begins whacking away at Cartman's hand]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Hell's Pass Hospital, next day. Dr. Doctor is showing Liane, Cartman's mother, an X-ray of her son's hand.]\n"
+  },
+  {
+    "input": "[Hell's Pass Hospital, next day. Dr. Doctor is showing Liane, Cartman's mother, an X-ray of her son's hand.]\n",
+    "output": "Your son's hand has a hairline fracture and two dislocated fingers.\n"
+  },
+  {
+    "input": "Your son's hand has a hairline fracture and two dislocated fingers.\n",
+    "output": "Oh dear.\n"
+  },
+  {
+    "input": "Oh dear.\n",
+    "output": "But I'm more concerned about his state of mind. Your son appears to be completely insane.\n"
+  },
+  {
+    "input": "But I'm more concerned about his state of mind. Your son appears to be completely insane.\n",
+    "output": "[on its own hospital bed, with wires attached] Ahhh Ahhhh [Cartman sits in a chair displeased]\n"
+  },
+  {
+    "input": "[on its own hospital bed, with wires attached] Ahhh Ahhhh [Cartman sits in a chair displeased]\n",
+    "output": "I told you this would happen. [Kyle, Stan and Kenny show up.]\n"
+  },
+  {
+    "input": "I told you this would happen. [Kyle, Stan and Kenny show up.]\n",
+    "output": "Oh, hello guys.\n"
+  },
+  {
+    "input": "Oh, hello guys.\n",
+    "output": "Cartman, you need to stop this stupid little game you're playing!\n"
+  },
+  {
+    "input": "Cartman, you need to stop this stupid little game you're playing!\n",
+    "output": "Oh, Kyle, why you no like meee?\n"
+  },
+  {
+    "input": "Oh, Kyle, why you no like meee?\n",
+    "output": "Kyle is right, Ms. Lopez. From now on, we're staying away from Ben Affleck.\n"
+  },
+  {
+    "input": "Kyle is right, Ms. Lopez. From now on, we're staying away from Ben Affleck.\n",
+    "output": "I hate you. [turns right and walks out]\n"
+  },
+  {
+    "input": "I hate you. [turns right and walks out]\n",
+    "output": "Come on, sweetie. Doctor says you need to get home and get lots of rest.\n[Cartman's house, morning. A cock crows. Cartman, asleep, stretches and wakes up, then glances to his left.]\n"
+  },
+  {
+    "input": "Come on, sweetie. Doctor says you need to get home and get lots of rest.\n[Cartman's house, morning. A cock crows. Cartman, asleep, stretches and wakes up, then glances to his left.]\n",
+    "output": "EHAGH! [next to him is Ben Affleck, naked and relaxed] Moooooommmm! [Ben wakes up]\n"
+  },
+  {
+    "input": "EHAGH! [next to him is Ben Affleck, naked and relaxed] Moooooommmm! [Ben wakes up]\n",
+    "output": "[enters with a cup of coffee and wearing a pink robe] What is it, sweetie?\n"
+  },
+  {
+    "input": "[enters with a cup of coffee and wearing a pink robe] What is it, sweetie?\n",
+    "output": "Ben Affleck is naked in my bed!\n"
+  },
+  {
+    "input": "Ben Affleck is naked in my bed!\n",
+    "output": "Oooo, looks like the tooth fairy was extra-happy with you.[backs out of the room and closes the door.]\n"
+  },
+  {
+    "input": "Oooo, looks like the tooth fairy was extra-happy with you.[backs out of the room and closes the door.]\n",
+    "output": "Buenos dias, my love.\n"
+  },
+  {
+    "input": "Buenos dias, my love.\n",
+    "output": "Good morning, baby.\n"
+  },
+  {
+    "input": "Good morning, baby.\n",
+    "output": "You have to get out of here! Jennifer Lopez is gonna kick my ass again!\n"
+  },
+  {
+    "input": "You have to get out of here! Jennifer Lopez is gonna kick my ass again!\n",
+    "output": "He's not going anywhere! Ben and I were up all night making love.\n"
+  },
+  {
+    "input": "He's not going anywhere! Ben and I were up all night making love.\n",
+    "output": "What? Oh- AWWW! [wipes his hand off on his pajamas] Ben Affleck's spooge!!\n"
+  },
+  {
+    "input": "What? Oh- AWWW! [wipes his hand off on his pajamas] Ben Affleck's spooge!!\n",
+    "output": "Should we tell him the news?\n"
+  },
+  {
+    "input": "Should we tell him the news?\n",
+    "output": "What news?\n"
+  },
+  {
+    "input": "What news?\n",
+    "output": "I think we should tell him.\n"
+  },
+  {
+    "input": "I think we should tell him.\n",
+    "output": "It's S'aright?\n"
+  },
+  {
+    "input": "It's S'aright?\n",
+    "output": "S'aright.\n"
+  },
+  {
+    "input": "S'aright.\n",
+    "output": "S'aright.\n"
+  },
+  {
+    "input": "S'aright.\n",
+    "output": "We're getting married!!\n"
+  },
+  {
+    "input": "We're getting married!!\n",
+    "output": "Oh, balls!\n[Kyle's house, day. He, Stan and Kenny watch TV on the couch. The doorbell rings.]\n"
+  },
+  {
+    "input": "Oh, balls!\n[Kyle's house, day. He, Stan and Kenny watch TV on the couch. The doorbell rings.]\n",
+    "output": "Come in. [the bell rings again.] COME IN!! [Cartman enters wearing an oven mitt over his left hand.]\n"
+  },
+  {
+    "input": "Come in. [the bell rings again.] COME IN!! [Cartman enters wearing an oven mitt over his left hand.]\n",
+    "output": "[sad] Guys, I need to talk to you.\n"
+  },
+  {
+    "input": "[sad] Guys, I need to talk to you.\n",
+    "output": "What's the matter?\n"
+  },
+  {
+    "input": "What's the matter?\n",
+    "output": "I can't handle it anymore. All the fame and the Ben Affleck spooge, I... I just can't go on living with Ms. Lopez.\n"
+  },
+  {
+    "input": "I can't handle it anymore. All the fame and the Ben Affleck spooge, I... I just can't go on living with Ms. Lopez.\n",
+    "output": "So stop doing it!\n"
+  },
+  {
+    "input": "So stop doing it!\n",
+    "output": "Stop doing what?\n"
+  },
+  {
+    "input": "Stop doing what?\n",
+    "output": "You know God-damn well what! Now get outta here!\n"
+  },
+  {
+    "input": "You know God-damn well what! Now get outta here!\n",
+    "output": "Please, you guys. It's like, I can't even have a moment to myself anymore. See? [removes the oven mitt and \"Jennifer Lopez\" emerges coughing]\n"
+  },
+  {
+    "input": "Please, you guys. It's like, I can't even have a moment to myself anymore. See? [removes the oven mitt and \"Jennifer Lopez\" emerges coughing]\n",
+    "output": "Don't you dare ever do that to me again!\n"
+  },
+  {
+    "input": "Don't you dare ever do that to me again!\n",
+    "output": "Aw, stop it, Cartman! Your hand doesn't need to breathe!\n"
+  },
+  {
+    "input": "Aw, stop it, Cartman! Your hand doesn't need to breathe!\n",
+    "output": "You try being in an oven mitt for two hours!\n"
+  },
+  {
+    "input": "You try being in an oven mitt for two hours!\n",
+    "output": "I can see your lips moving!\n"
+  },
+  {
+    "input": "I can see your lips moving!\n",
+    "output": "I can see your lips moving too, culo!\n"
+  },
+  {
+    "input": "I can see your lips moving too, culo!\n",
+    "output": "See?! I just saw your lips move!\n"
+  },
+  {
+    "input": "See?! I just saw your lips move!\n",
+    "output": "Look! I'm just asking you guys for help. Will you please help me with Ms. Lopez.\n"
+  },
+  {
+    "input": "Look! I'm just asking you guys for help. Will you please help me with Ms. Lopez.\n",
+    "output": "What's she doing?\n"
+  },
+  {
+    "input": "What's she doing?\n",
+    "output": "Come here! [drags Stan off to the dining room] You're not actually buying this crap, are you?!\n"
+  },
+  {
+    "input": "Come here! [drags Stan off to the dining room] You're not actually buying this crap, are you?!\n",
+    "output": "I don't know, meh, maybe he can't help it.\n"
+  },
+  {
+    "input": "I don't know, meh, maybe he can't help it.\n",
+    "output": "Look, he knows full well what he's doing, and he's just waiting for us to buy into it, and then he'll laugh and point at our faces and say, [Kyle does a pretty solid impression of Cartman] \"Haha, I got you guys to believe me!\" \"You guys are stupid!\"\n"
+  },
+  {
+    "input": "Look, he knows full well what he's doing, and he's just waiting for us to buy into it, and then he'll laugh and point at our faces and say, [Kyle does a pretty solid impression of Cartman] \"Haha, I got you guys to believe me!\" \"You guys are stupid!\"\n",
+    "output": "Dude, do you really he would go through all this just to make us look dumb?\n"
+  },
+  {
+    "input": "Dude, do you really he would go through all this just to make us look dumb?\n",
+    "output": "YES, dude! [they then walk back into the living room]\n"
+  },
+  {
+    "input": "YES, dude! [they then walk back into the living room]\n",
+    "output": "Cartman, we decided that if you can be mature and admit to everyone that you've gotten yourself into this mess, then we'll help you.\n"
+  },
+  {
+    "input": "Cartman, we decided that if you can be mature and admit to everyone that you've gotten yourself into this mess, then we'll help you.\n",
+    "output": "Okay, okay, I know that I control everything Ms. Lopez does.\n"
+  },
+  {
+    "input": "Okay, okay, I know that I control everything Ms. Lopez does.\n",
+    "output": "Oh no you don't!\n"
+  },
+  {
+    "input": "Oh no you don't!\n",
+    "output": "Quiet, Ms. Lopez.\n"
+  },
+  {
+    "input": "Quiet, Ms. Lopez.\n",
+    "output": "Out! [walks off. Stan and Kenny follow him out]\n"
+  },
+  {
+    "input": "Out! [walks off. Stan and Kenny follow him out]\n",
+    "output": "Guys... Uh... Uh... [dejected, he turns away and walks out the front door]\n[Outside, day. Cartman reaches the sidewalk when he sees something.]\n"
+  },
+  {
+    "input": "Guys... Uh... Uh... [dejected, he turns away and walks out the front door]\n[Outside, day. Cartman reaches the sidewalk when he sees something.]\n",
+    "output": "There you are, Jenny! I've been lookin' all over for you, baby! [Cartman decides to run in the other direction] Jenny? [Cartman sees a car pull up in front of him and then...]\n"
+  },
+  {
+    "input": "There you are, Jenny! I've been lookin' all over for you, baby! [Cartman decides to run in the other direction] Jenny? [Cartman sees a car pull up in front of him and then...]\n",
+    "output": "Ms. Lopez, you were due in the studio two hours ago! Come on! [Cartman decides to ran back towards Ben, but runs into a pair of female legs]\n"
+  },
+  {
+    "input": "Ms. Lopez, you were due in the studio two hours ago! Come on! [Cartman decides to ran back towards Ben, but runs into a pair of female legs]\n",
+    "output": "[disheveled, wielding a running chainsaw over her head] So you're gettin' married, huh? [revs up the motor, and Cartman makes his escape, screaming. In the background, Stan, Kyle, and Kenny have stepped out the door to see what's going on.]\n"
+  },
+  {
+    "input": "[disheveled, wielding a running chainsaw over her head] So you're gettin' married, huh? [revs up the motor, and Cartman makes his escape, screaming. In the background, Stan, Kyle, and Kenny have stepped out the door to see what's going on.]\n",
+    "output": "Don't you hurt her!\n"
+  },
+  {
+    "input": "Don't you hurt her!\n",
+    "output": "We'll sue you!\n"
+  },
+  {
+    "input": "We'll sue you!\n",
+    "output": "Oh Jesus.\n[A bridge over a wide river, day. Jennifer Lopez has followed Cartman here. Cartman screams. A police car pulls up from the other end of the bridge. The driver steps out, and both officers draw their guns at Jennifer Lopez, now unrecognizable.]\n"
+  },
+  {
+    "input": "Oh Jesus.\n[A bridge over a wide river, day. Jennifer Lopez has followed Cartman here. Cartman screams. A police car pulls up from the other end of the bridge. The driver steps out, and both officers draw their guns at Jennifer Lopez, now unrecognizable.]\n",
+    "output": "Freeze, leafblower! [she drops the chainsaw and holds her hands up]\n"
+  },
+  {
+    "input": "Freeze, leafblower! [she drops the chainsaw and holds her hands up]\n",
+    "output": "Arrest that woman! She wants to kill one of our artists! [the arrest is made]\n"
+  },
+  {
+    "input": "Arrest that woman! She wants to kill one of our artists! [the arrest is made]\n",
+    "output": "All right, you're going downtown, bean-breath.\n"
+  },
+  {
+    "input": "All right, you're going downtown, bean-breath.\n",
+    "output": "[rushes up to \"Jennifer Lopez\"] Jenny! Oh, I thought I was going to lose you! Let's run away and get married tonight!\n"
+  },
+  {
+    "input": "[rushes up to \"Jennifer Lopez\"] Jenny! Oh, I thought I was going to lose you! Let's run away and get married tonight!\n",
+    "output": "Hey, she can't get married tonight, she has a recording session! [Stan, Kyle, and Kenny arrive]\n"
+  },
+  {
+    "input": "Hey, she can't get married tonight, she has a recording session! [Stan, Kyle, and Kenny arrive]\n",
+    "output": "Our love is like rain!\n"
+  },
+  {
+    "input": "Our love is like rain!\n",
+    "output": "That's what you said about me, asshole!\n"
+  },
+  {
+    "input": "That's what you said about me, asshole!\n",
+    "output": "Quiet!\n"
+  },
+  {
+    "input": "Quiet!\n",
+    "output": "Get her out of here!\n"
+  },
+  {
+    "input": "Get her out of here!\n",
+    "output": "Fuck you!\n"
+  },
+  {
+    "input": "Fuck you!\n",
+    "output": "Shut up, picante pants!\n"
+  },
+  {
+    "input": "Shut up, picante pants!\n",
+    "output": "Everyone be quiet! [Everyone stops what they're doing and look at the hand] I'm... I'm not who you think I am.\n"
+  },
+  {
+    "input": "Everyone be quiet! [Everyone stops what they're doing and look at the hand] I'm... I'm not who you think I am.\n",
+    "output": "You're not?\n"
+  },
+  {
+    "input": "You're not?\n",
+    "output": "No. It was all a lie. A lie I cannot continue anymore. I am not Hennifer Lopez. I am... [Cartman rips off the small wig he had on his hand and delivers a new voice] ...Mitch Conner. [everyone, including Kyle, gasps]\n"
+  },
+  {
+    "input": "No. It was all a lie. A lie I cannot continue anymore. I am not Hennifer Lopez. I am... [Cartman rips off the small wig he had on his hand and delivers a new voice] ...Mitch Conner. [everyone, including Kyle, gasps]\n",
+    "output": "Who's Mitch Conner?\n"
+  },
+  {
+    "input": "Who's Mitch Conner?\n",
+    "output": "Just your run of the mill con man. I've been moving from town to town, scamming people since I was fifteen. But I'm tired of runnin'.\n"
+  },
+  {
+    "input": "Just your run of the mill con man. I've been moving from town to town, scamming people since I was fifteen. But I'm tired of runnin'.\n",
+    "output": "[exasperated] Oh no, no, no.\n"
+  },
+  {
+    "input": "[exasperated] Oh no, no, no.\n",
+    "output": "I've been a cheat all my life. And now I've ruined a singer's career, lost a record company millions, and cost this little boy his precious time.\n"
+  },
+  {
+    "input": "I've been a cheat all my life. And now I've ruined a singer's career, lost a record company millions, and cost this little boy his precious time.\n",
+    "output": "Stop. It.\n"
+  },
+  {
+    "input": "Stop. It.\n",
+    "output": "Mostly, I'm sorry to you, Ben. I'm sorry I played Tiddly Winks with your heart. [Ben begins to sob. Cartman walks to one side of the bridge] But it's over now. The cyanide pill I took should be taking effect very soon. Hmph, looks like the sun is goin' down. I wonder, will I dream? [as the sun drops below the horizon, Cartman opens his hand and a gust of wind is heard. Whatever was possessing the hand parted. Ben sobs once more as Cartman just stares in wonder]\n"
+  },
+  {
+    "input": "Mostly, I'm sorry to you, Ben. I'm sorry I played Tiddly Winks with your heart. [Ben begins to sob. Cartman walks to one side of the bridge] But it's over now. The cyanide pill I took should be taking effect very soon. Hmph, looks like the sun is goin' down. I wonder, will I dream? [as the sun drops below the horizon, Cartman opens his hand and a gust of wind is heard. Whatever was possessing the hand parted. Ben sobs once more as Cartman just stares in wonder]\n",
+    "output": "Well, looks like Mitch Conner has cashed in his last chips. [everyone disperses except the boys. Ben stays on for a second, but he too leaves.]\n"
+  },
+  {
+    "input": "Well, looks like Mitch Conner has cashed in his last chips. [everyone disperses except the boys. Ben stays on for a second, but he too leaves.]\n",
+    "output": "[the boys step forward] Dude, who the hell is Mitch Conner?\n"
+  },
+  {
+    "input": "[the boys step forward] Dude, who the hell is Mitch Conner?\n",
+    "output": "I don't know, Kyle, all right? Look, I don't care what you guys believe. But with all the crazy stuff that goes on in this town, isn't it possible, just possible, that something I don't understand happened here?\n"
+  },
+  {
+    "input": "I don't know, Kyle, all right? Look, I don't care what you guys believe. But with all the crazy stuff that goes on in this town, isn't it possible, just possible, that something I don't understand happened here?\n",
+    "output": "[resigns] All right. [Cartman beams] All right, I guess it's possible.\n"
+  },
+  {
+    "input": "[resigns] All right. [Cartman beams] All right, I guess it's possible.\n",
+    "output": "[dances back to the other three boys] Hahahahahaaaha! [into Kyle's face] I got you kinda! I got you kinda!\n[A fast-food Mexican Restaurant, La Taco. People are enjoying their food, one person is waiting for his order, and there are employees behind the counter. One of them looks familiar.]\n"
+  },
+  {
+    "input": "[dances back to the other three boys] Hahahahahaaaha! [into Kyle's face] I got you kinda! I got you kinda!\n[A fast-food Mexican Restaurant, La Taco. People are enjoying their food, one person is waiting for his order, and there are employees behind the counter. One of them looks familiar.]\n",
+    "output": "Okay, Ms. Lopez, over here we have the toppings station. This is where all your cheeses and lettuce will go on. [a man carrying a large bowl walks up behind Lopez and bumps into her]\n"
+  },
+  {
+    "input": "Okay, Ms. Lopez, over here we have the toppings station. This is where all your cheeses and lettuce will go on. [a man carrying a large bowl walks up behind Lopez and bumps into her]\n",
+    "output": "[jumping to one side] Ow. Look out, muffinhead!\n"
+  },
+  {
+    "input": "[jumping to one side] Ow. Look out, muffinhead!\n",
+    "output": "Ahh, look, Ms. Lopez, uh, if you're gonna be a member of the La Taco family, you're gonna have to learn to get along with people.\n"
+  },
+  {
+    "input": "Ahh, look, Ms. Lopez, uh, if you're gonna be a member of the La Taco family, you're gonna have to learn to get along with people.\n",
+    "output": "Get a what with who?\n"
+  },
+  {
+    "input": "Get a what with who?\n",
+    "output": "Uh why don't you start chopping those onions and I'll come check on you a little later?\n"
+  },
+  {
+    "input": "Uh why don't you start chopping those onions and I'll come check on you a little later?\n",
+    "output": "[begins chopping the onions] This is bullshit! How the fuck did I end up working at a La Taco?! I had six platinum records and I starred in five Hollywood movies!\n"
+  },
+  {
+    "input": "[begins chopping the onions] This is bullshit! How the fuck did I end up working at a La Taco?! I had six platinum records and I starred in five Hollywood movies!\n",
+    "output": "Yeah. Meee too.\n"
+  }
+]

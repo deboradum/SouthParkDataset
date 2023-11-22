@@ -1,0 +1,746 @@
+[
+  {
+    "input": "",
+    "output": "Shots\n\n[Tegridy Farms, evening. A cake with \"300\" in candle form is shown. Randy is carrying the plate it's on]\n"
+  },
+  {
+    "input": "Shots\n\n[Tegridy Farms, evening. A cake with \"300\" in candle form is shown. Randy is carrying the plate it's on]\n",
+    "output": "Happy 300 to us.\nHappy 300 to us.\nHappy 300, Tegridy Farms.\n"
+  },
+  {
+    "input": "Happy 300 to us.\nHappy 300 to us.\nHappy 300, Tegridy Farms.\n",
+    "output": "[looking away in disgust] Ugh!\n"
+  },
+  {
+    "input": "[looking away in disgust] Ugh!\n",
+    "output": "Happy 300 thousand dollars.\nCan you believe it, gang? We've broken $300,000 selling weed. [gets a cold reception] Not to be a dick, but I remember when you, Sharon, and you, Shelley, said buying a pot farm was a [air quotes] \"stupid\" idea. Now we're living the dream.\n"
+  },
+  {
+    "input": "Happy 300 thousand dollars.\nCan you believe it, gang? We've broken $300,000 selling weed. [gets a cold reception] Not to be a dick, but I remember when you, Sharon, and you, Shelley, said buying a pot farm was a [air quotes] \"stupid\" idea. Now we're living the dream.\n",
+    "output": "You're living the dream. This is your dream!\n"
+  },
+  {
+    "input": "You're living the dream. This is your dream!\n",
+    "output": "[waits a few seconds] You know, [scoffs] is it me, or are people starting to not be that stoked on Tegridy Farms? [silence] Are you guys still pissed off about the China thing? [silence] You may not like that I do business with China [picks up the knife on the table], but personally, I think you guys having a problem with China is racist. Now come on! Let's celebrate 300! [starts to slice the cake] Who wants shots?!\n"
+  },
+  {
+    "input": "[waits a few seconds] You know, [scoffs] is it me, or are people starting to not be that stoked on Tegridy Farms? [silence] Are you guys still pissed off about the China thing? [silence] You may not like that I do business with China [picks up the knife on the table], but personally, I think you guys having a problem with China is racist. Now come on! Let's celebrate 300! [starts to slice the cake] Who wants shots?!\n",
+    "output": "Shots?!\n[A clinic, day. Cartman sits on the exam bed in his briefs]\n"
+  },
+  {
+    "input": "Shots?!\n[A clinic, day. Cartman sits on the exam bed in his briefs]\n",
+    "output": "No shots! No shots!\n"
+  },
+  {
+    "input": "No shots! No shots!\n",
+    "output": "Eric, you have to be a big boy.\n"
+  },
+  {
+    "input": "Eric, you have to be a big boy.\n",
+    "output": "[starts to fill up a syringe] Big boys get a toy from the toy chest.\n"
+  },
+  {
+    "input": "[starts to fill up a syringe] Big boys get a toy from the toy chest.\n",
+    "output": "[voice rising as the doctor draws closer] No! No! No! No! No! [screeches]\n"
+  },
+  {
+    "input": "[voice rising as the doctor draws closer] No! No! No! No! No! [screeches]\n",
+    "output": "[stops] Eric, it's just a little prick.\n"
+  },
+  {
+    "input": "[stops] Eric, it's just a little prick.\n",
+    "output": "[laughs, and the doctor gets even closer] No! No! No! Noooooo!\n"
+  },
+  {
+    "input": "[laughs, and the doctor gets even closer] No! No! No! Noooooo!\n",
+    "output": "Good boy, Eric! [Cartman panics and jumps all over the place, knocking over bottles and breaking glass everywhere before just running around evading capture]\n[South Park Elementary, day. PC Principal is talking to Liane and Eric in his office.]\n"
+  },
+  {
+    "input": "Good boy, Eric! [Cartman panics and jumps all over the place, knocking over bottles and breaking glass everywhere before just running around evading capture]\n[South Park Elementary, day. PC Principal is talking to Liane and Eric in his office.]\n",
+    "output": "Our school now has a very strict policy when it comes to immunizations. Everyone has to follow the protocol, or it puts everyone at risk.\n"
+  },
+  {
+    "input": "Our school now has a very strict policy when it comes to immunizations. Everyone has to follow the protocol, or it puts everyone at risk.\n",
+    "output": "I'm sorry, PC Principal. It's just that my little Eric really doesn't like shots.\n"
+  },
+  {
+    "input": "I'm sorry, PC Principal. It's just that my little Eric really doesn't like shots.\n",
+    "output": "Well, Eric, nobody likes shots. They're just a fact of life.\n"
+  },
+  {
+    "input": "Well, Eric, nobody likes shots. They're just a fact of life.\n",
+    "output": "No no, you don't understand. I-I've taken him to the doctor every Friday for the past four years. They try to give him his shot, but he gets scared and runs around. and he squeals like a little pig. The doctors try to catch him, but Eric greases himself up so they can't.\n"
+  },
+  {
+    "input": "No no, you don't understand. I-I've taken him to the doctor every Friday for the past four years. They try to give him his shot, but he gets scared and runs around. and he squeals like a little pig. The doctors try to catch him, but Eric greases himself up so they can't.\n",
+    "output": "I'm sorry, but my hands are tied here. If Eric isn't immunized, then he cannot go to this school.\n"
+  },
+  {
+    "input": "I'm sorry, but my hands are tied here. If Eric isn't immunized, then he cannot go to this school.\n",
+    "output": "[sobbing] Please! I've tried everything! You have to let Eric go to school! I work all day, and without school, he'll just... he'll just have nothing!\n"
+  },
+  {
+    "input": "[sobbing] Please! I've tried everything! You have to let Eric go to school! I work all day, and without school, he'll just... he'll just have nothing!\n",
+    "output": "What do you think's gonna be different next time you try?\n"
+  },
+  {
+    "input": "What do you think's gonna be different next time you try?\n",
+    "output": "Ih- if you could offer Eric something. Uhm, sometimes when Eric behaves this way, I think of a gift or a treat of some kind.\n"
+  },
+  {
+    "input": "Ih- if you could offer Eric something. Uhm, sometimes when Eric behaves this way, I think of a gift or a treat of some kind.\n",
+    "output": "Oh, that's a good idea.\n"
+  },
+  {
+    "input": "Oh, that's a good idea.\n",
+    "output": "Like, what are you thinking?\n"
+  },
+  {
+    "input": "Like, what are you thinking?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Like, maybe, exclusive use of the tetherball court at recess for the next two months?\n"
+  },
+  {
+    "input": "Like, maybe, exclusive use of the tetherball court at recess for the next two months?\n",
+    "output": "Oh, w-would that be possible?\n"
+  },
+  {
+    "input": "Oh, w-would that be possible?\n",
+    "output": "What I care most about is the safety of the students, so if you take your shots, then I'll agree..\n"
+  },
+  {
+    "input": "What I care most about is the safety of the students, so if you take your shots, then I'll agree..\n",
+    "output": "Sweet.\n"
+  },
+  {
+    "input": "Sweet.\n",
+    "output": "Eric, you really have to do it this time, okay? When we're at the doctor's you can't change your mind.\n"
+  },
+  {
+    "input": "Eric, you really have to do it this time, okay? When we're at the doctor's you can't change your mind.\n",
+    "output": "[smiles] I won't change my mind.\n[Clinic waiting room, Friday morning. It's calm at the clinic until a pig's squeal is heard, along with the sound of things crashing and glass breaking. The doctor's office door opens and Cartman runs out naked on all fours squealing like a pig down the hallway, The doctor gives chase.]\n"
+  },
+  {
+    "input": "[smiles] I won't change my mind.\n[Clinic waiting room, Friday morning. It's calm at the clinic until a pig's squeal is heard, along with the sound of things crashing and glass breaking. The doctor's office door opens and Cartman runs out naked on all fours squealing like a pig down the hallway, The doctor gives chase.]\n",
+    "output": "[steps out of the office with Eric's clothes, trying to stay calm] Eric, it's okay! [the doctor tackles him and holds him for a while, but Cartman breaks free and runs into the receptionist's office, startling her. Papers fly up in the air and more glass breaks.]\n"
+  },
+  {
+    "input": "[steps out of the office with Eric's clothes, trying to stay calm] Eric, it's okay! [the doctor tackles him and holds him for a while, but Cartman breaks free and runs into the receptionist's office, startling her. Papers fly up in the air and more glass breaks.]\n",
+    "output": "[gives up and walks back to Liane] I'm sorry, but I have a lot of other patients to see. We'll just have to try again next week. [goes back into his office and closes the door]\n"
+  },
+  {
+    "input": "[gives up and walks back to Liane] I'm sorry, but I have a lot of other patients to see. We'll just have to try again next week. [goes back into his office and closes the door]\n",
+    "output": "Come on, Eric, we're going home!\n"
+  },
+  {
+    "input": "Come on, Eric, we're going home!\n",
+    "output": "[peeks out over the counter] We're going home? You promise?\n"
+  },
+  {
+    "input": "[peeks out over the counter] We're going home? You promise?\n",
+    "output": "[frustrated] Let's go! Get in the car! [Cartman hops over the counter and follows Liane]\n"
+  },
+  {
+    "input": "[frustrated] Let's go! Get in the car! [Cartman hops over the counter and follows Liane]\n",
+    "output": "Wait, can I get a toy from the toy chest?\n"
+  },
+  {
+    "input": "Wait, can I get a toy from the toy chest?\n",
+    "output": "[off-screen] One toy, Eric!\n"
+  },
+  {
+    "input": "[off-screen] One toy, Eric!\n",
+    "output": "Cool! [reaches into the chest and grabs a toy, then goes out the door. He didn't bother putting his clothes back on.]\n[Downtown South Park, day. People are milling around as normal. Two motorcycle cops slowly drive by with their sirens chirping, and a float is heard approaching with marching band fanfare. The float appears - it's Randy standing at the top of the float celebrating his $300,000 achievement.]\n"
+  },
+  {
+    "input": "Cool! [reaches into the chest and grabs a toy, then goes out the door. He didn't bother putting his clothes back on.]\n[Downtown South Park, day. People are milling around as normal. Two motorcycle cops slowly drive by with their sirens chirping, and a float is heard approaching with marching band fanfare. The float appears - it's Randy standing at the top of the float celebrating his $300,000 achievement.]\n",
+    "output": "[speaking over a loudspeaker] Yeah! 300! Tegridy Farms! Hello, South Park! Thanks for making Tegridy the most profitable farm in South park! We couldn't have done it without you, so here! [randomly tosses beads at people] Here are some beads! [\"China\" by Red Rocker begins to plays] Here you go! Beads for everybody! I've got $300,000!\nChina, China!\nDa da, ya ya, history\nIt was la lal la, China!\nChina, China!\n[The townspeople don't know what to do as the beads continue to fly. Randy then drops his pants and starts to swing his penis around. Two motorcycle cops follow him out, chirping their sirens, and a janitor sweeps up after them] Alright, China!\n[South Park Elementary cafeteria, lunchtime. The boys and Craig's gang are having lunch together.]\n"
+  },
+  {
+    "input": "[speaking over a loudspeaker] Yeah! 300! Tegridy Farms! Hello, South Park! Thanks for making Tegridy the most profitable farm in South park! We couldn't have done it without you, so here! [randomly tosses beads at people] Here are some beads! [\"China\" by Red Rocker begins to plays] Here you go! Beads for everybody! I've got $300,000!\nChina, China!\nDa da, ya ya, history\nIt was la lal la, China!\nChina, China!\n[The townspeople don't know what to do as the beads continue to fly. Randy then drops his pants and starts to swing his penis around. Two motorcycle cops follow him out, chirping their sirens, and a janitor sweeps up after them] Alright, China!\n[South Park Elementary cafeteria, lunchtime. The boys and Craig's gang are having lunch together.]\n",
+    "output": "So then I guess the school said Eric can't come here no more, and so he's been, like, kicked out.\n"
+  },
+  {
+    "input": "So then I guess the school said Eric can't come here no more, and so he's been, like, kicked out.\n",
+    "output": "Cartman can't come to this school anymore?\n"
+  },
+  {
+    "input": "Cartman can't come to this school anymore?\n",
+    "output": "Yeah, and he was actually kind of upset about it, because he said on the phone that he has to do homeschooling with this really mean teacher.\n"
+  },
+  {
+    "input": "Yeah, and he was actually kind of upset about it, because he said on the phone that he has to do homeschooling with this really mean teacher.\n",
+    "output": "Oh my God. [smiles] I don't know how long this will last, but I'm gonna savor every minute.\n"
+  },
+  {
+    "input": "Oh my God. [smiles] I don't know how long this will last, but I'm gonna savor every minute.\n",
+    "output": "[runs to the table] Hey guys! I'm back in school! I'm allowed back, and it's all good.\n"
+  },
+  {
+    "input": "[runs to the table] Hey guys! I'm back in school! I'm allowed back, and it's all good.\n",
+    "output": "You got your shots?\n"
+  },
+  {
+    "input": "You got your shots?\n",
+    "output": "No. I don't have to get my shots, ever! [pushes Kyle and Kenny to wedge himself inbetween them and sits down] And they can't do anything about it, because I'm a \"consciousness objector.\"\n"
+  },
+  {
+    "input": "No. I don't have to get my shots, ever! [pushes Kyle and Kenny to wedge himself inbetween them and sits down] And they can't do anything about it, because I'm a \"consciousness objector.\"\n",
+    "output": "A conscientious objector?\n"
+  },
+  {
+    "input": "A conscientious objector?\n",
+    "output": "Yeah I told the school, I said \"Look, you guys, I happen to have 'religious, moral, or philosophical convictions'.\" And so- and I said \"I believe that 'health and disease should not be controlled by vaccination'.\" Those are my beliefs! And besides, I don't want to risk immunizations making me artistic. [sniffles]\n"
+  },
+  {
+    "input": "Yeah I told the school, I said \"Look, you guys, I happen to have 'religious, moral, or philosophical convictions'.\" And so- and I said \"I believe that 'health and disease should not be controlled by vaccination'.\" Those are my beliefs! And besides, I don't want to risk immunizations making me artistic. [sniffles]\n",
+    "output": "Dude, Cartman, don't you know that if you don't get immunized, you actually put people at risk who-\n"
+  },
+  {
+    "input": "Dude, Cartman, don't you know that if you don't get immunized, you actually put people at risk who-\n",
+    "output": "[turns to Kenny] One second, one second. [gets ready to sneeze on Kenny] Sorry. One second, gotta sneeze. [nothing comes] Oh, never mind, never mind. [turns back to the others] I'm sorry. What were you saying?\n"
+  },
+  {
+    "input": "[turns to Kenny] One second, one second. [gets ready to sneeze on Kenny] Sorry. One second, gotta sneeze. [nothing comes] Oh, never mind, never mind. [turns back to the others] I'm sorry. What were you saying?\n",
+    "output": "I'm saying that we all had to get shots, and actually, if just one person doesn't- [Cartman sneezes and gets mucus all over his hands.]\n"
+  },
+  {
+    "input": "I'm saying that we all had to get shots, and actually, if just one person doesn't- [Cartman sneezes and gets mucus all over his hands.]\n",
+    "output": "Oh! Snot web. I'll be right back, you guys. [leaves the table and walks around] Can somebody get me a paper towel? I got a snot web here. [leaves the cafeteria] Consciousness objector coming through!\n[South Park Elementary, night. There's a parent-teacher meeting at the school gym. The parents are all discussing the situation]\n"
+  },
+  {
+    "input": "Oh! Snot web. I'll be right back, you guys. [leaves the table and walks around] Can somebody get me a paper towel? I got a snot web here. [leaves the cafeteria] Consciousness objector coming through!\n[South Park Elementary, night. There's a parent-teacher meeting at the school gym. The parents are all discussing the situation]\n",
+    "output": "Alright everyone, listen up. [the crowd quiets down] I understand your frustration, but a government organization like a school cannot impose its will on a conscientious objector..\n"
+  },
+  {
+    "input": "Alright everyone, listen up. [the crowd quiets down] I understand your frustration, but a government organization like a school cannot impose its will on a conscientious objector..\n",
+    "output": "It's not safe for our kids to be in this school! You do understand that up to 5% of kids with vaccines can still be at risk! Everyone has to do it, or it doesn't matter!\n"
+  },
+  {
+    "input": "It's not safe for our kids to be in this school! You do understand that up to 5% of kids with vaccines can still be at risk! Everyone has to do it, or it doesn't matter!\n",
+    "output": "Yeah. I don't quite see how it's fair that all the rest of our community agrees to this. Why does one family get to have a problem with it?\n"
+  },
+  {
+    "input": "Yeah. I don't quite see how it's fair that all the rest of our community agrees to this. Why does one family get to have a problem with it?\n",
+    "output": "I'm sorry. It's just my strong, personal belief that [gets out a sheet of paper and reads] \"among other things, vaccines contain harmful ingredients formaldehyde, aluminum, and even mercury.\"\n"
+  },
+  {
+    "input": "I'm sorry. It's just my strong, personal belief that [gets out a sheet of paper and reads] \"among other things, vaccines contain harmful ingredients formaldehyde, aluminum, and even mercury.\"\n",
+    "output": "Aw, come on, Mrs. Cartman! All major medical organizations state that vaccines are safe! The CDC, the FDA, UNICEF, and the US Department of Health!\n"
+  },
+  {
+    "input": "Aw, come on, Mrs. Cartman! All major medical organizations state that vaccines are safe! The CDC, the FDA, UNICEF, and the US Department of Health!\n",
+    "output": "Yes, yes, I know, but... [reads from her sheet] \"We can't even risk a 0.1% chance of vaccinations making our children artistic.\"\n"
+  },
+  {
+    "input": "Yes, yes, I know, but... [reads from her sheet] \"We can't even risk a 0.1% chance of vaccinations making our children artistic.\"\n",
+    "output": "Well, that's true. There are enough artists in the world.\n"
+  },
+  {
+    "input": "Well, that's true. There are enough artists in the world.\n",
+    "output": "Look, I don't know what kind of mother wouldn't vaccinate their child, but it's putting everyone in danger, and that's why-\n"
+  },
+  {
+    "input": "Look, I don't know what kind of mother wouldn't vaccinate their child, but it's putting everyone in danger, and that's why-\n",
+    "output": "[her frustration come through and she moves towards Sheila] Then you try to catch him! [stabs her index finger towards Sheila] You try it! Don't you people criticize me until you've taken Eric to the doctor and you've tried to hold him down! I'm a good mother! Don't you dare question if I care about my child!\n"
+  },
+  {
+    "input": "[her frustration come through and she moves towards Sheila] Then you try to catch him! [stabs her index finger towards Sheila] You try it! Don't you people criticize me until you've taken Eric to the doctor and you've tried to hold him down! I'm a good mother! Don't you dare question if I care about my child!\n",
+    "output": "Oh, shit.\n"
+  },
+  {
+    "input": "Oh, shit.\n",
+    "output": "Of, of course you care. Nobody likes seeing their child in pain. Maybe... maybe you should just let us take care of getting Eric his shots.\n"
+  },
+  {
+    "input": "Of, of course you care. Nobody likes seeing their child in pain. Maybe... maybe you should just let us take care of getting Eric his shots.\n",
+    "output": "[shaking with frustration] You don't understand how hard it is!\n"
+  },
+  {
+    "input": "[shaking with frustration] You don't understand how hard it is!\n",
+    "output": "We'll find a way to make it completely painless for him, okay?\n[Cartman's room, night. He's sound asleep in his bed. Liane looks in on him, then moves on to her own room, where she turns the light on and off a few times. Downstairs, the living room door opens and Stephen enters quietly, followed by Linda, then by Gerald and Sheila. They all sneak across the living room to the stairs, then stop]\n"
+  },
+  {
+    "input": "We'll find a way to make it completely painless for him, okay?\n[Cartman's room, night. He's sound asleep in his bed. Liane looks in on him, then moves on to her own room, where she turns the light on and off a few times. Downstairs, the living room door opens and Stephen enters quietly, followed by Linda, then by Gerald and Sheila. They all sneak across the living room to the stairs, then stop]\n",
+    "output": "Alright, alright. Bring him in. [Richard and Mrs. Tweek enter with the doctor] The little boy's room is upstairs.\n"
+  },
+  {
+    "input": "Alright, alright. Bring him in. [Richard and Mrs. Tweek enter with the doctor] The little boy's room is upstairs.\n",
+    "output": "[coming down the stairs] Oh, I don't know if I can go through with this. My little Eric is going to be so mad at me!\n"
+  },
+  {
+    "input": "[coming down the stairs] Oh, I don't know if I can go through with this. My little Eric is going to be so mad at me!\n",
+    "output": "Look, by the time he knows what's happened it'll already be over.\n"
+  },
+  {
+    "input": "Look, by the time he knows what's happened it'll already be over.\n",
+    "output": "Did you bring his boo-boo present?\n"
+  },
+  {
+    "input": "Did you bring his boo-boo present?\n",
+    "output": "Yes, yes. Come on, Thomas and Laura! [the Tuckers bring in a Hot Wheels racing game, with Linda Williams bringing in a sign saying \"You Did It, ERIC\"] Okay, see? We got the present, everything's gonna be fine. [leads the group upstairs and into Cartman's room. He makes room for the doctor, who puts his medicine kit on the bed, prepares a vaccine, and draws it close to Cartman]\n"
+  },
+  {
+    "input": "Yes, yes. Come on, Thomas and Laura! [the Tuckers bring in a Hot Wheels racing game, with Linda Williams bringing in a sign saying \"You Did It, ERIC\"] Okay, see? We got the present, everything's gonna be fine. [leads the group upstairs and into Cartman's room. He makes room for the doctor, who puts his medicine kit on the bed, prepares a vaccine, and draws it close to Cartman]\n",
+    "output": "[sensing someone nearby, wakes up] Hey, what's going on? [instictively, he bolts from bed runs around in a panic] No, no. Nooooo! [jumps off the bed]\n"
+  },
+  {
+    "input": "[sensing someone nearby, wakes up] Hey, what's going on? [instictively, he bolts from bed runs around in a panic] No, no. Nooooo! [jumps off the bed]\n",
+    "output": "It'll just be for a second!\n"
+  },
+  {
+    "input": "It'll just be for a second!\n",
+    "output": "[tries to catch him] Oh, Jesus! [the others crowd in, but can't catch him]\n"
+  },
+  {
+    "input": "[tries to catch him] Oh, Jesus! [the others crowd in, but can't catch him]\n",
+    "output": "Eric, there's a big treat for you if you stay still!\n"
+  },
+  {
+    "input": "Eric, there's a big treat for you if you stay still!\n",
+    "output": "Catch him! [Cartman leaves his room and runs down the stairs, taking his clothes off on the way down]\n"
+  },
+  {
+    "input": "Catch him! [Cartman leaves his room and runs down the stairs, taking his clothes off on the way down]\n",
+    "output": "Thomas! Linda! Yo-you gotta get him! [Cartman sees them and turns tail, running into the kitchen. He gets a jar of lard and scoops out lard to spread on himself. The doctor finds him and gives chase again. Cartman runs back into the living room, runs around, and Thomas tackles him for a moment. Cartman breaks free and runs out the front door. The others follow him out]\n"
+  },
+  {
+    "input": "Thomas! Linda! Yo-you gotta get him! [Cartman sees them and turns tail, running into the kitchen. He gets a jar of lard and scoops out lard to spread on himself. The doctor finds him and gives chase again. Cartman runs back into the living room, runs around, and Thomas tackles him for a moment. Cartman breaks free and runs out the front door. The others follow him out]\n",
+    "output": "Eric! Oh! [goes to look for him]\n"
+  },
+  {
+    "input": "Eric! Oh! [goes to look for him]\n",
+    "output": "Well, what do we do now?\n"
+  },
+  {
+    "input": "Well, what do we do now?\n",
+    "output": "I think the only way we're goin' to get Eric immunized is by bringing in an expert.\n[An awards shelf, day. Western music plays as all the awards given to Mesquite Murph are shown. The phone rings]\n"
+  },
+  {
+    "input": "I think the only way we're goin' to get Eric immunized is by bringing in an expert.\n[An awards shelf, day. Western music plays as all the awards given to Mesquite Murph are shown. The phone rings]\n",
+    "output": "[shown] This is Big Mesquite Murph. How can I help you? You say you got yourself a conscientious objector? Well, you just sit tight. There aren't never no hog that Big Mesquite Murph couldn't catch.\n[Tegridy Farms, day. Randy has a new commercial for Tegridy Weed]\n"
+  },
+  {
+    "input": "[shown] This is Big Mesquite Murph. How can I help you? You say you got yourself a conscientious objector? Well, you just sit tight. There aren't never no hog that Big Mesquite Murph couldn't catch.\n[Tegridy Farms, day. Randy has a new commercial for Tegridy Weed]\n",
+    "output": "[jumps into the scene] How many thousand dollars has Tegridy Farms made selling weed? $300,000! [the numbers cover the screen and blink] It's a 300-palooza! [makes snow angels on a pile of $1 bills] Come on down and see what we've got! [drives his tractor]\n"
+  },
+  {
+    "input": "[jumps into the scene] How many thousand dollars has Tegridy Farms made selling weed? $300,000! [the numbers cover the screen and blink] It's a 300-palooza! [makes snow angels on a pile of $1 bills] Come on down and see what we've got! [drives his tractor]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "We've got $300,000, just selling [echo comes up] all this weed! [aerial shot of the weed lot. Next, he holds a joint] And this month we're celebrating all our new customers in China! [dances in the barn to reggae music with a Chinese flag and various Chinese take-out foods behind him] We're celebrating with new T-shirts! [they say] \"Tegridy Farms made $300,000 and all I got was high.\" Get yours for just ten bucks! '[the shirt is shown with \"$10\" blinking and throbbing over it] We couldn't have done it without you! Remember, that's $300,000! [Randy has his feet up on a table in the barn. Randy turns the TV off with the remote control] Well? What'd you think, guys?\n"
+  },
+  {
+    "input": "We've got $300,000, just selling [echo comes up] all this weed! [aerial shot of the weed lot. Next, he holds a joint] And this month we're celebrating all our new customers in China! [dances in the barn to reggae music with a Chinese flag and various Chinese take-out foods behind him] We're celebrating with new T-shirts! [they say] \"Tegridy Farms made $300,000 and all I got was high.\" Get yours for just ten bucks! '[the shirt is shown with \"$10\" blinking and throbbing over it] We couldn't have done it without you! Remember, that's $300,000! [Randy has his feet up on a table in the barn. Randy turns the TV off with the remote control] Well? What'd you think, guys?\n",
+    "output": "How much did you spend making that commercial?\n"
+  },
+  {
+    "input": "How much did you spend making that commercial?\n",
+    "output": "Who cares, Sharon? Business is up.\n"
+  },
+  {
+    "input": "Who cares, Sharon? Business is up.\n",
+    "output": "Nobody cares about your stupid $300,000! We've become the kind of business that we moved out here to get away from! You know why the Chinese buy our weed?! It's to plant on their student protesters so they can put them in jail!\n"
+  },
+  {
+    "input": "Nobody cares about your stupid $300,000! We've become the kind of business that we moved out here to get away from! You know why the Chinese buy our weed?! It's to plant on their student protesters so they can put them in jail!\n",
+    "output": "Yeah. We make money either way.\n"
+  },
+  {
+    "input": "Yeah. We make money either way.\n",
+    "output": "You don't care how anyone else feels! We bought this farm together, Randy! Or did you forget that?! [leaves]\n"
+  },
+  {
+    "input": "You don't care how anyone else feels! We bought this farm together, Randy! Or did you forget that?! [leaves]\n",
+    "output": "I hate marijuana! [follows her mom out]\n"
+  },
+  {
+    "input": "I hate marijuana! [follows her mom out]\n",
+    "output": "[gasps] Shelley!\n"
+  },
+  {
+    "input": "[gasps] Shelley!\n",
+    "output": "I hate marijuana too! [follows them out]\n"
+  },
+  {
+    "input": "I hate marijuana too! [follows them out]\n",
+    "output": "[gasps] Stan!\n[The Cartman residence. Liane comes in through the back door from shopping and finds Cartman sitting at the breakfast table seething quietly]\n"
+  },
+  {
+    "input": "[gasps] Stan!\n[The Cartman residence. Liane comes in through the back door from shopping and finds Cartman sitting at the breakfast table seething quietly]\n",
+    "output": "Oh, Eric. I... wasn't sure if you'd be up yet. [drops the groceries on the kitchen counter, giggles, and walks over to Cartman] Eric, you know I only want what's best for my snookums.\n"
+  },
+  {
+    "input": "Oh, Eric. I... wasn't sure if you'd be up yet. [drops the groceries on the kitchen counter, giggles, and walks over to Cartman] Eric, you know I only want what's best for my snookums.\n",
+    "output": "You read me a bedtime story. You tucked me in. And then you let half the town into my room to try and give me a shot against my will.\n"
+  },
+  {
+    "input": "You read me a bedtime story. You tucked me in. And then you let half the town into my room to try and give me a shot against my will.\n",
+    "output": "It was supposed to make it easier on you, a-and they didn't catch you anyway.\n"
+  },
+  {
+    "input": "It was supposed to make it easier on you, a-and they didn't catch you anyway.\n",
+    "output": "[points at her] This is goodbye, Mom! I can't live with you anymore! [sulks into the living room. Liane follows]\n"
+  },
+  {
+    "input": "[points at her] This is goodbye, Mom! I can't live with you anymore! [sulks into the living room. Liane follows]\n",
+    "output": "Eric, please! You don't know how hard it is to be a parent! Sometimes we don't know the right thing to do!\n"
+  },
+  {
+    "input": "Eric, please! You don't know how hard it is to be a parent! Sometimes we don't know the right thing to do!\n",
+    "output": "So you go along with society and and try to force immunizations on me, even knowing the health risks! What if immunizations made my friend Timmy the way he is?! What if they made Jimmy the way he is?! What if they made Tolkien the way he is?\n"
+  },
+  {
+    "input": "So you go along with society and and try to force immunizations on me, even knowing the health risks! What if immunizations made my friend Timmy the way he is?! What if they made Jimmy the way he is?! What if they made Tolkien the way he is?\n",
+    "output": "Eric, when I was at the store, I bought you some Little Debbie creme pies and-\n"
+  },
+  {
+    "input": "Eric, when I was at the store, I bought you some Little Debbie creme pies and-\n",
+    "output": "That isn't gonna work this time, Mom! I don't want to be around you anymore! [marches over to the front door and opens it] So I don't know where you're gonna stay, but you'll just have to figure it out! I've already packed your things. [a suitcase and duffle bag await her]\n"
+  },
+  {
+    "input": "That isn't gonna work this time, Mom! I don't want to be around you anymore! [marches over to the front door and opens it] So I don't know where you're gonna stay, but you'll just have to figure it out! I've already packed your things. [a suitcase and duffle bag await her]\n",
+    "output": "Sweetie, you can't live on your own.\n"
+  },
+  {
+    "input": "Sweetie, you can't live on your own.\n",
+    "output": "You should have thought of that before you made this house a nightmare for me. Goodbye, Mother! [looks out into the street, then points the way out to her. She grabs the suitcase and duffle bag and walks out the door. He turns to walk back to the kitchen, but is confronted with Mig Mesquite Murph.]\n"
+  },
+  {
+    "input": "You should have thought of that before you made this house a nightmare for me. Goodbye, Mother! [looks out into the street, then points the way out to her. She grabs the suitcase and duffle bag and walks out the door. He turns to walk back to the kitchen, but is confronted with Mig Mesquite Murph.]\n",
+    "output": "[puts on his grappling gloves] Alright, young'un. We can do this the easy way, or we can do it hard. [prepares the injection, and Cartman knows what's coming. He begins to run around]\n"
+  },
+  {
+    "input": "[puts on his grappling gloves] Alright, young'un. We can do this the easy way, or we can do it hard. [prepares the injection, and Cartman knows what's coming. He begins to run around]\n",
+    "output": "Weeaak! No, no! [runs around]\n"
+  },
+  {
+    "input": "Weeaak! No, no! [runs around]\n",
+    "output": "Yeeee-haaww! [tries to lasso him, but knocks down the lamp instead] Suuuweee! [tries again, but Cartman slips away and runs upstairs.]\n[Skeeter's Wine Bar, afternoon. Murph gets a shot of whiskey from Skeeter - his fourth one. He downs it in one gulp. Stephen approaches him with the others who went to Cartman's room]\n"
+  },
+  {
+    "input": "Yeeee-haaww! [tries to lasso him, but knocks down the lamp instead] Suuuweee! [tries again, but Cartman slips away and runs upstairs.]\n[Skeeter's Wine Bar, afternoon. Murph gets a shot of whiskey from Skeeter - his fourth one. He downs it in one gulp. Stephen approaches him with the others who went to Cartman's room]\n",
+    "output": "Well, what happened?\n"
+  },
+  {
+    "input": "Well, what happened?\n",
+    "output": "I ain't never seen no hog like that. It's like it could in two places at once.\n"
+  },
+  {
+    "input": "I ain't never seen no hog like that. It's like it could in two places at once.\n",
+    "output": "You said you could catch him!\n"
+  },
+  {
+    "input": "You said you could catch him!\n",
+    "output": "Well I did catch him! Got him locked up in a pen! It's just every time I bring out that needle, he becomes like a hog tornado! But I'll get 'im!\n"
+  },
+  {
+    "input": "Well I did catch him! Got him locked up in a pen! It's just every time I bring out that needle, he becomes like a hog tornado! But I'll get 'im!\n",
+    "output": "Yeah. Or maybe you just believe a little bit that vaccinations shouldn't be mandated for school attendance due to possible still-unknown side effects.\n"
+  },
+  {
+    "input": "Yeah. Or maybe you just believe a little bit that vaccinations shouldn't be mandated for school attendance due to possible still-unknown side effects.\n",
+    "output": "[narrows his eyes] Don't you question me. If anyone believes the most common side effect of vaccines, anaprophylaxis, occurs in only 1 per several hundred thousand to one per million vaccinations, it's Big Mesquite Murph! Now this hog you got here, he's contained, but now I need help getting him his shots. The only way we're gonna get him, is we gotta build a big enclosed pen, about a hundred feet in diameter. I'm also gonna need the best wranglers flown in from Wichita. And I'm gonna need some loud music, and some barbecue.\n"
+  },
+  {
+    "input": "[narrows his eyes] Don't you question me. If anyone believes the most common side effect of vaccines, anaprophylaxis, occurs in only 1 per several hundred thousand to one per million vaccinations, it's Big Mesquite Murph! Now this hog you got here, he's contained, but now I need help getting him his shots. The only way we're gonna get him, is we gotta build a big enclosed pen, about a hundred feet in diameter. I'm also gonna need the best wranglers flown in from Wichita. And I'm gonna need some loud music, and some barbecue.\n",
+    "output": "Barbecue?\n[Tegridy Farms, a cloudy day. A purple minivan is parked at the entrance. Liane rings the doorbell, and Randy answers]\n"
+  },
+  {
+    "input": "Barbecue?\n[Tegridy Farms, a cloudy day. A purple minivan is parked at the entrance. Liane rings the doorbell, and Randy answers]\n",
+    "output": "Mrs. Cartman?\n"
+  },
+  {
+    "input": "Mrs. Cartman?\n",
+    "output": "Hello, Randy. I'm... sorry to trouble you, but... I don't know where to turn. I was hoping maybe... I could buy some gumdrops.\n"
+  },
+  {
+    "input": "Hello, Randy. I'm... sorry to trouble you, but... I don't know where to turn. I was hoping maybe... I could buy some gumdrops.\n",
+    "output": "Whoa whoa! What's goin' on?\n"
+  },
+  {
+    "input": "Whoa whoa! What's goin' on?\n",
+    "output": "My son.. hates me. The whole town... hates me. Nobody thinks I'm a good mom, [gets emotional] and I don't know if I am anymore!\n"
+  },
+  {
+    "input": "My son.. hates me. The whole town... hates me. Nobody thinks I'm a good mom, [gets emotional] and I don't know if I am anymore!\n",
+    "output": "Okay, okay. Come on. Let's get you inside and get you some weed. [shows her in and takes her to the backyard, where there is another wooden swing. They sit in it]\n"
+  },
+  {
+    "input": "Okay, okay. Come on. Let's get you inside and get you some weed. [shows her in and takes her to the backyard, where there is another wooden swing. They sit in it]\n",
+    "output": "It all happened gradually, you know? [smokes a joint] I don't know why everyone's against me. Even my own son. [hands the joint to Randy]\n"
+  },
+  {
+    "input": "It all happened gradually, you know? [smokes a joint] I don't know why everyone's against me. Even my own son. [hands the joint to Randy]\n",
+    "output": "Believe me, I know how that feels. [smokes the joint] You try to do what's best for your family and all you do is get shit on. [hands the joint to Liane]\n"
+  },
+  {
+    "input": "Believe me, I know how that feels. [smokes the joint] You try to do what's best for your family and all you do is get shit on. [hands the joint to Liane]\n",
+    "output": "I know immunizations are probably for the best, [smokes the joint] but then you read some of this stuff on the Internet [hands the joint to Randy] and, I don't know, it's scary.\n"
+  },
+  {
+    "input": "I know immunizations are probably for the best, [smokes the joint] but then you read some of this stuff on the Internet [hands the joint to Randy] and, I don't know, it's scary.\n",
+    "output": "That's just it. [smokes the joint] When it comes to families, we have to do what we think is best.\n"
+  },
+  {
+    "input": "That's just it. [smokes the joint] When it comes to families, we have to do what we think is best.\n",
+    "output": "It doesn't matter. They're having an all-county mandated immunization roundup tonight. Any child not immunized is about to be.\n"
+  },
+  {
+    "input": "It doesn't matter. They're having an all-county mandated immunization roundup tonight. Any child not immunized is about to be.\n",
+    "output": "All-county immunization roundup? What's that?\n[The immunization roundup, night.]\n"
+  },
+  {
+    "input": "All-county immunization roundup? What's that?\n[The immunization roundup, night.]\n",
+    "output": "Good evenin' everybody, and welcome to the CDC Child Immunization Challenge. This here special event is sponsored by Voices for Vaccines and also by Chevy. So with all that out the way, let's get to some action! [the crowd cheers. The gate opens and a blond boy steps forth and looks around.] First up, we have Danny Ray Johnson out of Bailey, Colorado. He has not been immunized since kindergarten. He says he just don't like needles. [a doctor comes out of the adjacent gate the vaccine ready]\n"
+  },
+  {
+    "input": "Good evenin' everybody, and welcome to the CDC Child Immunization Challenge. This here special event is sponsored by Voices for Vaccines and also by Chevy. So with all that out the way, let's get to some action! [the crowd cheers. The gate opens and a blond boy steps forth and looks around.] First up, we have Danny Ray Johnson out of Bailey, Colorado. He has not been immunized since kindergarten. He says he just don't like needles. [a doctor comes out of the adjacent gate the vaccine ready]\n",
+    "output": "No! Nooo- [shrieks and runs away. The doctor gives chase]\n"
+  },
+  {
+    "input": "No! Nooo- [shrieks and runs away. The doctor gives chase]\n",
+    "output": "And there they go! [they run around the barrels and the crowd cheers them on]\n"
+  },
+  {
+    "input": "And there they go! [they run around the barrels and the crowd cheers them on]\n",
+    "output": "No! Nooo- [shrieks and runs away when he sees Murph jump off the gate and join the chase. Two rodeo clowns join the chase soon after, but none of them can catch him. Cartman gets restless behind his gate. A wrangler takes Danny down]\n"
+  },
+  {
+    "input": "No! Nooo- [shrieks and runs away when he sees Murph jump off the gate and join the chase. Two rodeo clowns join the chase soon after, but none of them can catch him. Cartman gets restless behind his gate. A wrangler takes Danny down]\n",
+    "output": "Ah, AAAH! [the wrangler hog-ties Danny and sets him down for the doctor to deliver the vaccine in the butt through the pants, then takes his hat and waves it around to applause.]\n"
+  },
+  {
+    "input": "Ah, AAAH! [the wrangler hog-ties Danny and sets him down for the doctor to deliver the vaccine in the butt through the pants, then takes his hat and waves it around to applause.]\n",
+    "output": "He stuck him in the left buttocks; that is an 8.7 score right there. [more cheering. Cartman gets more restless] Alright, let's hear it for little Danny Ray, folks. [a clown unties him and he walks off smarting from the shot] He's a little worse for wear, but now he can pick himself up a nice little toy from the toy chest. [Danny does just that. Cartman is really worked up now]\n"
+  },
+  {
+    "input": "He stuck him in the left buttocks; that is an 8.7 score right there. [more cheering. Cartman gets more restless] Alright, let's hear it for little Danny Ray, folks. [a clown unties him and he walks off smarting from the shot] He's a little worse for wear, but now he can pick himself up a nice little toy from the toy chest. [Danny does just that. Cartman is really worked up now]\n",
+    "output": "[snorts] I've gotta get out of here!\n[Tegridy Farms, a clear, starry night. The clouds have cleared and Liane and Randy are still talking, sitting on bales of hay. Randy's the one bawling now.]\n"
+  },
+  {
+    "input": "[snorts] I've gotta get out of here!\n[Tegridy Farms, a clear, starry night. The clouds have cleared and Liane and Randy are still talking, sitting on bales of hay. Randy's the one bawling now.]\n",
+    "output": "It's just... it's like, can't people see us trying to do what's best for my family? I'm trying to provide for them by running a business. I'm sorry if I make mistakes.\n"
+  },
+  {
+    "input": "It's just... it's like, can't people see us trying to do what's best for my family? I'm trying to provide for them by running a business. I'm sorry if I make mistakes.\n",
+    "output": "I know, Randy. Other parents expect me to deal with Eric-\n"
+  },
+  {
+    "input": "I know, Randy. Other parents expect me to deal with Eric-\n",
+    "output": "And I get it from both sides, because my family's pissed off at me too.\n"
+  },
+  {
+    "input": "And I get it from both sides, because my family's pissed off at me too.\n",
+    "output": "...I understand.\n"
+  },
+  {
+    "input": "...I understand.\n",
+    "output": "No, you don't!\n"
+  },
+  {
+    "input": "No, you don't!\n",
+    "output": "Yes, I do.\n"
+  },
+  {
+    "input": "Yes, I do.\n",
+    "output": "[garbled] No, you don't! Nobody understands.\n"
+  },
+  {
+    "input": "[garbled] No, you don't! Nobody understands.\n",
+    "output": "Randy, we both tried to do the best for our family. [gets up and walks away] And sometimes, when we're afraid of being judged, we can push our family away.\n"
+  },
+  {
+    "input": "Randy, we both tried to do the best for our family. [gets up and walks away] And sometimes, when we're afraid of being judged, we can push our family away.\n",
+    "output": "Yeah, like, everybody's doing business with China. It's like \"get over it.\"\n"
+  },
+  {
+    "input": "Yeah, like, everybody's doing business with China. It's like \"get over it.\"\n",
+    "output": "You should just feel lucky that you have a partner in doing what's right for your family.\n"
+  },
+  {
+    "input": "You should just feel lucky that you have a partner in doing what's right for your family.\n",
+    "output": "I am. I'm afraid I haven't been very kind to that partner lately. I think maybe it's time for an apology.\n"
+  },
+  {
+    "input": "I am. I'm afraid I haven't been very kind to that partner lately. I think maybe it's time for an apology.\n",
+    "output": "Thanks for the talk, Randy. And for the weed. [turns and goes to the barn entrance.]\n"
+  },
+  {
+    "input": "Thanks for the talk, Randy. And for the weed. [turns and goes to the barn entrance.]\n",
+    "output": "Where are you going?\n"
+  },
+  {
+    "input": "Where are you going?\n",
+    "output": "[turns to look at him] I'm going to do the only thing I know how to do: be a mom. [turns around and heads out]\n[The CDC Child Immunization Challenge, later. This time, a girl has been lassoed and shot]\n"
+  },
+  {
+    "input": "[turns to look at him] I'm going to do the only thing I know how to do: be a mom. [turns around and heads out]\n[The CDC Child Immunization Challenge, later. This time, a girl has been lassoed and shot]\n",
+    "output": "All right, and that is Dr. Chet Mowlins that just gave that girl her DTaP booster [the wrangler unties the girl and she goes for her toy] and her HPV vaccination. That is for genital warts. Way to go, Chet. Hey, folks, let's hear it for all these wranglers tonight. They're working extra-hard to bring immunity to your community. [cheers go up] Alright, folks, we are now ready for the main event. This young man has never had a single immunization. [Cartman is in the pen still trying to break free] He says he's an orthodox Jew and a conscientious objector. [Cartman stops and takes his clothes off] Everyone put your hands together now for little Eric \"The South Park Piggy\" Cartman. [the gate flies open, and a nude Cartman backs into a corner. Murph shows up.]\n"
+  },
+  {
+    "input": "All right, and that is Dr. Chet Mowlins that just gave that girl her DTaP booster [the wrangler unties the girl and she goes for her toy] and her HPV vaccination. That is for genital warts. Way to go, Chet. Hey, folks, let's hear it for all these wranglers tonight. They're working extra-hard to bring immunity to your community. [cheers go up] Alright, folks, we are now ready for the main event. This young man has never had a single immunization. [Cartman is in the pen still trying to break free] He says he's an orthodox Jew and a conscientious objector. [Cartman stops and takes his clothes off] Everyone put your hands together now for little Eric \"The South Park Piggy\" Cartman. [the gate flies open, and a nude Cartman backs into a corner. Murph shows up.]\n",
+    "output": "[jumps into the pen from the top of it] Suuuuwieee! [Cartman runs into the ring. The wranglers begin their chase]\n"
+  },
+  {
+    "input": "[jumps into the pen from the top of it] Suuuuwieee! [Cartman runs into the ring. The wranglers begin their chase]\n",
+    "output": "There he goes, folks. Dear Lord, he's a slippery one.\n[A lookout point over town, night. Randy drives up with Towelie and parks]\n"
+  },
+  {
+    "input": "There he goes, folks. Dear Lord, he's a slippery one.\n[A lookout point over town, night. Randy drives up with Towelie and parks]\n",
+    "output": "Do you remember we used to come here and look over the town lights together?\n"
+  },
+  {
+    "input": "Do you remember we used to come here and look over the town lights together?\n",
+    "output": "...Yeah, so what?! Then you turned into an asshole!\n"
+  },
+  {
+    "input": "...Yeah, so what?! Then you turned into an asshole!\n",
+    "output": "I brought you here to apologize, Towelie. I let the money go to my head. I... I got greedy and I started acting like a towel. I need you back. I need Tegridy back, the way it used to be.\n"
+  },
+  {
+    "input": "I brought you here to apologize, Towelie. I let the money go to my head. I... I got greedy and I started acting like a towel. I need you back. I need Tegridy back, the way it used to be.\n",
+    "output": "No more harassin' homegrowers?\n"
+  },
+  {
+    "input": "No more harassin' homegrowers?\n",
+    "output": "No more harassing homegrowers.\n"
+  },
+  {
+    "input": "No more harassing homegrowers.\n",
+    "output": "No more dealin' with those Med Men assholes?\n"
+  },
+  {
+    "input": "No more dealin' with those Med Men assholes?\n",
+    "output": "No more Med Men.\n"
+  },
+  {
+    "input": "No more Med Men.\n",
+    "output": "No more kissin' China's ass?\n"
+  },
+  {
+    "input": "No more kissin' China's ass?\n",
+    "output": "China's actually a free and loving country that-\n"
+  },
+  {
+    "input": "China's actually a free and loving country that-\n",
+    "output": "I'm out. [gets out of the car and leaves]\n"
+  },
+  {
+    "input": "I'm out. [gets out of the car and leaves]\n",
+    "output": "[gets out of the car and chases after him] Wait, wait, Towelie, come on! I need you!\n"
+  },
+  {
+    "input": "[gets out of the car and chases after him] Wait, wait, Towelie, come on! I need you!\n",
+    "output": "[stops and turns around] I'm never workin' for a company that's regulated by a communist government!\n"
+  },
+  {
+    "input": "[stops and turns around] I'm never workin' for a company that's regulated by a communist government!\n",
+    "output": "Okay, okay. No more selling to the Chinese.\n"
+  },
+  {
+    "input": "Okay, okay. No more selling to the Chinese.\n",
+    "output": "Then say it! Say \"Fuck the Chinese government!\"\n"
+  },
+  {
+    "input": "Then say it! Say \"Fuck the Chinese government!\"\n",
+    "output": "[softly] Fuck the Chinese government.\n"
+  },
+  {
+    "input": "[softly] Fuck the Chinese government.\n",
+    "output": "I didn't hear you!\n"
+  },
+  {
+    "input": "I didn't hear you!\n",
+    "output": "Fuck the Chinese government! There!\n"
+  },
+  {
+    "input": "Fuck the Chinese government! There!\n",
+    "output": "...Well... you just got your partner back. [they run into each other's arms and hug]\n"
+  },
+  {
+    "input": "...Well... you just got your partner back. [they run into each other's arms and hug]\n",
+    "output": "Hahaha! This is it. This is the moment that Tegridy Farms got back on track.\n[The CDC Child Immunization Challenge, later. Cartman is still evading capture]\n"
+  },
+  {
+    "input": "Hahaha! This is it. This is the moment that Tegridy Farms got back on track.\n[The CDC Child Immunization Challenge, later. Cartman is still evading capture]\n",
+    "output": "Dear Lord, we are going on 16 minutes here and ain't nobody caught this young'un. This might very well be a world record you're seeing here, folks.\n"
+  },
+  {
+    "input": "Dear Lord, we are going on 16 minutes here and ain't nobody caught this young'un. This might very well be a world record you're seeing here, folks.\n",
+    "output": "[rushing through the crowd] Get out of my way! Move it!\n"
+  },
+  {
+    "input": "[rushing through the crowd] Get out of my way! Move it!\n",
+    "output": "Whoa whoa, Mrs. Cartman. Everything is fine here. [she punches him out of the way and climbs a barrier]\n"
+  },
+  {
+    "input": "Whoa whoa, Mrs. Cartman. Everything is fine here. [she punches him out of the way and climbs a barrier]\n",
+    "output": "[grabs onto Liane's ankle] It's okay, Liane. They know what they're doing. [Liane kicks her away. Liane then tackles the rodeo clown and punches him]\n"
+  },
+  {
+    "input": "[grabs onto Liane's ankle] It's okay, Liane. They know what they're doing. [Liane kicks her away. Liane then tackles the rodeo clown and punches him]\n",
+    "output": "Oh, looks like we got a concerned parent in there trying to take issue with their child's well-being. [Liane goes after the lead wrangler and punches him out, then punches out the wrangler behind him]\n"
+  },
+  {
+    "input": "Oh, looks like we got a concerned parent in there trying to take issue with their child's well-being. [Liane goes after the lead wrangler and punches him out, then punches out the wrangler behind him]\n",
+    "output": "Mom! [Murph has wrangled him and is hog-tying him]\n"
+  },
+  {
+    "input": "Mom! [Murph has wrangled him and is hog-tying him]\n",
+    "output": "Leave my son a [slow motion takes over here] lone! [she jumps to shield Cartman, a doctor jumps to vaccinate him. She reaches Cartman first, causing the vaccine to enter her butt instead] AHHHH!\n"
+  },
+  {
+    "input": "Leave my son a [slow motion takes over here] lone! [she jumps to shield Cartman, a doctor jumps to vaccinate him. She reaches Cartman first, causing the vaccine to enter her butt instead] AHHHH!\n",
+    "output": "OHHHH! [the arena is quiet. Liane removed the rope from Cartman and he hugs her. They walk off together]\n"
+  },
+  {
+    "input": "OHHHH! [the arena is quiet. Liane removed the rope from Cartman and he hugs her. They walk off together]\n",
+    "output": "[stops to address the crowd] I know I'm not the greatest mom in the world. I do the best I can. Whatever happens now is going to be done my way. Come on, Eric. [remove the syringe from her butt and throws it away, then they move on]\n"
+  },
+  {
+    "input": "[stops to address the crowd] I know I'm not the greatest mom in the world. I do the best I can. Whatever happens now is going to be done my way. Come on, Eric. [remove the syringe from her butt and throws it away, then they move on]\n",
+    "output": "[stops] Wait, Mom? [points to the toy chest]\n"
+  },
+  {
+    "input": "[stops] Wait, Mom? [points to the toy chest]\n",
+    "output": "[turns around, now furious] No, Eric! No shots, no toy!\n"
+  },
+  {
+    "input": "[turns around, now furious] No, Eric! No shots, no toy!\n",
+    "output": "What?? [she takes him by the hand and pulls him away]\n[Family Medical Clinic, day. Cartman and Liane are there again, but this time, Cartman is in the lobby. His doctor comes out of the office and walks up to him]\n"
+  },
+  {
+    "input": "What?? [she takes him by the hand and pulls him away]\n[Family Medical Clinic, day. Cartman and Liane are there again, but this time, Cartman is in the lobby. His doctor comes out of the office and walks up to him]\n",
+    "output": "Okay, doctor. I'm ready for my shot.\n"
+  },
+  {
+    "input": "Okay, doctor. I'm ready for my shot.\n",
+    "output": "Eric, I've been speaking with your mother. I'm afraid there's some bad news.\n"
+  },
+  {
+    "input": "Eric, I've been speaking with your mother. I'm afraid there's some bad news.\n",
+    "output": "Bad news? What are you talking about? Mom?\n"
+  },
+  {
+    "input": "Bad news? What are you talking about? Mom?\n",
+    "output": "Your mother received a heavy dose of vaccine that wasn't meant for an adult. I'm afraid there have been... side effects.\n"
+  },
+  {
+    "input": "Your mother received a heavy dose of vaccine that wasn't meant for an adult. I'm afraid there have been... side effects.\n",
+    "output": "[panics] What side effects? MOM? [runs to the office] MOM! [opens the door] Mom, are you here, Mo- [gasps loudly as his jaw drops. Liane is painting a still life]\n"
+  },
+  {
+    "input": "[panics] What side effects? MOM? [runs to the office] MOM! [opens the door] Mom, are you here, Mo- [gasps loudly as his jaw drops. Liane is painting a still life]\n",
+    "output": "[softly] Eric...\n"
+  }
+]

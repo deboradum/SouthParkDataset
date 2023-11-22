@@ -1,0 +1,1098 @@
+[
+  {
+    "input": "",
+    "output": "Night of the Living Homeless\n\n[The neighborhood, day. The boys head for the park.]\n"
+  },
+  {
+    "input": "Night of the Living Homeless\n\n[The neighborhood, day. The boys head for the park.]\n",
+    "output": "All right, this time, it's me and Kenny versus you two assholes.\n"
+  },
+  {
+    "input": "All right, this time, it's me and Kenny versus you two assholes.\n",
+    "output": "Fine.\n"
+  },
+  {
+    "input": "Fine.\n",
+    "output": "[stops] Oh, dude, what's with all the homeless people? [all around the basketball court homeless people loiter or sleep. There's one bum sleeping at center court. The boys walk up to him] Sir, could you move a little, please?\n"
+  },
+  {
+    "input": "[stops] Oh, dude, what's with all the homeless people? [all around the basketball court homeless people loiter or sleep. There's one bum sleeping at center court. The boys walk up to him] Sir, could you move a little, please?\n",
+    "output": "Spare some change?\n"
+  },
+  {
+    "input": "Spare some change?\n",
+    "output": "[pinches his nose shut] Aw, dude, he smells like Kenny's house. [releases the pinch] Get out of here!\n"
+  },
+  {
+    "input": "[pinches his nose shut] Aw, dude, he smells like Kenny's house. [releases the pinch] Get out of here!\n",
+    "output": "You guys, that's not cool. These people have nowhere to go. [a slow pan of the homeless around them] They don't have food or shelter. We have to do something.\n"
+  },
+  {
+    "input": "You guys, that's not cool. These people have nowhere to go. [a slow pan of the homeless around them] They don't have food or shelter. We have to do something.\n",
+    "output": "Well dude, what are we supposed to do?\n"
+  },
+  {
+    "input": "Well dude, what are we supposed to do?\n",
+    "output": "(Yeah, what are we supposed to do?)\n"
+  },
+  {
+    "input": "(Yeah, what are we supposed to do?)\n",
+    "output": "No, Kyle's right, you guys. We should do something.\n"
+  },
+  {
+    "input": "No, Kyle's right, you guys. We should do something.\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yeah. I know what you're thinking, Kyle, and I'm with you. I know exactly what we should do.\n[Moments later, kids from around the neighborhood gather in the basketball court.]\n"
+  },
+  {
+    "input": "Yeah. I know what you're thinking, Kyle, and I'm with you. I know exactly what we should do.\n[Moments later, kids from around the neighborhood gather in the basketball court.]\n",
+    "output": "[through a bullhorn] Gather 'round and witness the glory as Eric Cartman attempts to jump his skateboard over the homeless. [Stan and Kenny prepare the ramp at center court for Cartman]\n"
+  },
+  {
+    "input": "[through a bullhorn] Gather 'round and witness the glory as Eric Cartman attempts to jump his skateboard over the homeless. [Stan and Kenny prepare the ramp at center court for Cartman]\n",
+    "output": "Thank you, thank you. [to Stan and Kenny] The ramp ready?\n"
+  },
+  {
+    "input": "Thank you, thank you. [to Stan and Kenny] The ramp ready?\n",
+    "output": "Yeah, it's all set.\n"
+  },
+  {
+    "input": "Yeah, it's all set.\n",
+    "output": "He won't make it.\n"
+  },
+  {
+    "input": "He won't make it.\n",
+    "output": "Excuse me, this isn't exactly what I had in mind!\n"
+  },
+  {
+    "input": "Excuse me, this isn't exactly what I had in mind!\n",
+    "output": "All right, here we go! Jimmy? [Jimmy starts the drum roll. Cartman takes off and picks up speed on his way to the ramp. Tweek and Bebe have their fists ready to pump for him. He leaves the ramp successfully, only to land on the bum and hit the ground without injury]\n"
+  },
+  {
+    "input": "All right, here we go! Jimmy? [Jimmy starts the drum roll. Cartman takes off and picks up speed on his way to the ramp. Tweek and Bebe have their fists ready to pump for him. He leaves the ramp successfully, only to land on the bum and hit the ground without injury]\n",
+    "output": "Oh! Aww.\n"
+  },
+  {
+    "input": "Oh! Aww.\n",
+    "output": "[jumps off his skateboard] Yes! I did it! [tosses his helmet away] I jumped over the homeless! [turns around] Yes!\n"
+  },
+  {
+    "input": "[jumps off his skateboard] Yes! I did it! [tosses his helmet away] I jumped over the homeless! [turns around] Yes!\n",
+    "output": "(Yehes!)\n"
+  },
+  {
+    "input": "(Yehes!)\n",
+    "output": "That was a sweet idea, Kyle. [smiles]\n"
+  },
+  {
+    "input": "That was a sweet idea, Kyle. [smiles]\n",
+    "output": "God damn it, that wasn't my idea!\n[South Park City Hall, day, the City Council. The Mayor is presiding and her two aides stand behind her]\n"
+  },
+  {
+    "input": "God damn it, that wasn't my idea!\n[South Park City Hall, day, the City Council. The Mayor is presiding and her two aides stand behind her]\n",
+    "output": "All right, people, we need to come up with answers. There are homeless sprouting up all over town. What are we supposed to do? [silence for a few seconds]\n"
+  },
+  {
+    "input": "All right, people, we need to come up with answers. There are homeless sprouting up all over town. What are we supposed to do? [silence for a few seconds]\n",
+    "output": "Well, I, I short of had an idea.\n"
+  },
+  {
+    "input": "Well, I, I short of had an idea.\n",
+    "output": "Please, Mr. Valmer.\n"
+  },
+  {
+    "input": "Please, Mr. Valmer.\n",
+    "output": "[the fire chief] We could give the homeless all designer sleeping bags and makeovers. At least that way they'd be pleasant to look at.\n"
+  },
+  {
+    "input": "[the fire chief] We could give the homeless all designer sleeping bags and makeovers. At least that way they'd be pleasant to look at.\n",
+    "output": "Oh, that's a good one. Good idea. I like it.\n"
+  },
+  {
+    "input": "Oh, that's a good one. Good idea. I like it.\n",
+    "output": "Well I was thinking: We could turn the homeless into tires, so that we'd still have homeless, but we could use them, on our cars.\n"
+  },
+  {
+    "input": "Well I was thinking: We could turn the homeless into tires, so that we'd still have homeless, but we could use them, on our cars.\n",
+    "output": "Ohh, that's a good one.\n"
+  },
+  {
+    "input": "Ohh, that's a good one.\n",
+    "output": "Nice one, Randy.\n"
+  },
+  {
+    "input": "Nice one, Randy.\n",
+    "output": "Like it.\n"
+  },
+  {
+    "input": "Like it.\n",
+    "output": "That's like recycling.\n"
+  },
+  {
+    "input": "That's like recycling.\n",
+    "output": "All right, enough! I find this whole conversation to be extremely offensive! The homeless aren't monsters, they are people, like you and me!\n"
+  },
+  {
+    "input": "All right, enough! I find this whole conversation to be extremely offensive! The homeless aren't monsters, they are people, like you and me!\n",
+    "output": "You mean they've adapted, copied our DNA.\n"
+  },
+  {
+    "input": "You mean they've adapted, copied our DNA.\n",
+    "output": "Excuse me. I am the top researcher of homeless studies for Park County. I don't know why more homeless people are showing up in town, but I do know... that we must be extremely careful. If we give them anything, there could be more.\n[Kyle's house, a rainy night. Kyle looks out from a window on the second floor and sees a homeless man on the sidewalk. The man carries a used tin can with his right hand and a small \"SPARE CHANGE?\" cardboard sign with his left hand. A car passes by and honks. Kyle takes pity on him and comes downstairs. He opens the front door, exits, and walks up to the man.]\n"
+  },
+  {
+    "input": "Excuse me. I am the top researcher of homeless studies for Park County. I don't know why more homeless people are showing up in town, but I do know... that we must be extremely careful. If we give them anything, there could be more.\n[Kyle's house, a rainy night. Kyle looks out from a window on the second floor and sees a homeless man on the sidewalk. The man carries a used tin can with his right hand and a small \"SPARE CHANGE?\" cardboard sign with his left hand. A car passes by and honks. Kyle takes pity on him and comes downstairs. He opens the front door, exits, and walks up to the man.]\n",
+    "output": "Hi. I've uh... [the man faces him] I've been saving up for a new Xbox game but... but I think you could use the money a lot more than I could. Listen I, I want you to take this. [hands him a bill] It's twenty dollars. [drops it into the tin can and backs up, smiling]\n"
+  },
+  {
+    "input": "Hi. I've uh... [the man faces him] I've been saving up for a new Xbox game but... but I think you could use the money a lot more than I could. Listen I, I want you to take this. [hands him a bill] It's twenty dollars. [drops it into the tin can and backs up, smiling]\n",
+    "output": "Got any more?\n"
+  },
+  {
+    "input": "Got any more?\n",
+    "output": "[frowns] No, that... I thought that was a lot.\n"
+  },
+  {
+    "input": "[frowns] No, that... I thought that was a lot.\n",
+    "output": "[turns around and walks off a bit, asking no one in particular] Spare any change?\n"
+  },
+  {
+    "input": "[turns around and walks off a bit, asking no one in particular] Spare any change?\n",
+    "output": "[sad at the lack of gratitude] You're welcome. [walks back into the house with his head down]\n[South Park, morning. Kyle climbs onto his toy box and looks out the window again. More homeless people have arrived and are camped out in front of the house.]\n"
+  },
+  {
+    "input": "[sad at the lack of gratitude] You're welcome. [walks back into the house with his head down]\n[South Park, morning. Kyle climbs onto his toy box and looks out the window again. More homeless people have arrived and are camped out in front of the house.]\n",
+    "output": "Oh crap. [the doorbell rings and Kyle comes down to answer it. Stan, Kenny, and Cartman enter]\n"
+  },
+  {
+    "input": "Oh crap. [the doorbell rings and Kyle comes down to answer it. Stan, Kenny, and Cartman enter]\n",
+    "output": "Dude, what are all these homeless people doing in front of your house?\n"
+  },
+  {
+    "input": "Dude, what are all these homeless people doing in front of your house?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "There's a bunch outside my house too.\n"
+  },
+  {
+    "input": "There's a bunch outside my house too.\n",
+    "output": "[female] Spare any change, sir?\n"
+  },
+  {
+    "input": "[female] Spare any change, sir?\n",
+    "output": "No! Fuck off! [slams the door shut]\n"
+  },
+  {
+    "input": "No! Fuck off! [slams the door shut]\n",
+    "output": "I don't get it. My Dad said as long as nobody gave them money, they'd move on.\n"
+  },
+  {
+    "input": "I don't get it. My Dad said as long as nobody gave them money, they'd move on.\n",
+    "output": "He did?\n"
+  },
+  {
+    "input": "He did?\n",
+    "output": "Well this is bullcrap! Somebody has to be responsible!\n"
+  },
+  {
+    "input": "Well this is bullcrap! Somebody has to be responsible!\n",
+    "output": "Well, I... kind of gave a homeless guy twenty dollars last night.\n"
+  },
+  {
+    "input": "Well, I... kind of gave a homeless guy twenty dollars last night.\n",
+    "output": "You what?!\n"
+  },
+  {
+    "input": "You what?!\n",
+    "output": "Oh c-come on, that can't be why they're all here. There has to be another reason.\n"
+  },
+  {
+    "input": "Oh c-come on, that can't be why they're all here. There has to be another reason.\n",
+    "output": "Kyle, what were you thinking?\n"
+  },
+  {
+    "input": "Kyle, what were you thinking?\n",
+    "output": "[makes his way to Kyle] Yeah! I can't possibly jump these many homeless people! I won't risk it! I could jump two homeless people, maybe three, but asking me to jump this many is asking me to risk my life, Kyle!\n"
+  },
+  {
+    "input": "[makes his way to Kyle] Yeah! I can't possibly jump these many homeless people! I won't risk it! I could jump two homeless people, maybe three, but asking me to jump this many is asking me to risk my life, Kyle!\n",
+    "output": "I don't want you to jump them, retard!\n[South Park, commercial district, day. Randy walks along Main Street, not really paying attention...]\n"
+  },
+  {
+    "input": "I don't want you to jump them, retard!\n[South Park, commercial district, day. Randy walks along Main Street, not really paying attention...]\n",
+    "output": "Spare some change?\n"
+  },
+  {
+    "input": "Spare some change?\n",
+    "output": "No, sorry, I don't have any change.\n"
+  },
+  {
+    "input": "No, sorry, I don't have any change.\n",
+    "output": "[a few stores down] Got any change?\n"
+  },
+  {
+    "input": "[a few stores down] Got any change?\n",
+    "output": "No, sorry. [the bum follows him until he passes the third bum]\n"
+  },
+  {
+    "input": "No, sorry. [the bum follows him until he passes the third bum]\n",
+    "output": "Can you spare some change? [Randy looks back and runs into the fourth bum]\n"
+  },
+  {
+    "input": "Can you spare some change? [Randy looks back and runs into the fourth bum]\n",
+    "output": "[holds out his cup] Chaaange?\n"
+  },
+  {
+    "input": "[holds out his cup] Chaaange?\n",
+    "output": "Huh! I don't have any change. [more bums come out of the woodwork and crowd in on him]\n"
+  },
+  {
+    "input": "Huh! I don't have any change. [more bums come out of the woodwork and crowd in on him]\n",
+    "output": "[an elderly woman] Change?\n"
+  },
+  {
+    "input": "[an elderly woman] Change?\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "Change? [Randy runs across the street, but...]\n"
+  },
+  {
+    "input": "Change? [Randy runs across the street, but...]\n",
+    "output": "Spare some change?\n"
+  },
+  {
+    "input": "Spare some change?\n",
+    "output": "[shielding himself with his suitcase] Leave me alone I don't have any change!\n"
+  },
+  {
+    "input": "[shielding himself with his suitcase] Leave me alone I don't have any change!\n",
+    "output": "All right, God bless you, sir.\n"
+  },
+  {
+    "input": "All right, God bless you, sir.\n",
+    "output": "Oh, now I feel bad. [goes back to the bum] Here! [tosses some change into the cup] Ahh! [the other bums reach the other side of the street] Hahh! [begins to run, but other homeless people appear, asking for change. Randy moves past them] Nono, that was really all the change I had.\n"
+  },
+  {
+    "input": "Oh, now I feel bad. [goes back to the bum] Here! [tosses some change into the cup] Ahh! [the other bums reach the other side of the street] Hahh! [begins to run, but other homeless people appear, asking for change. Randy moves past them] Nono, that was really all the change I had.\n",
+    "output": "[jumps into view again] Spare some change?\n"
+  },
+  {
+    "input": "[jumps into view again] Spare some change?\n",
+    "output": "I just gave you change!\n"
+  },
+  {
+    "input": "I just gave you change!\n",
+    "output": "[another old woman] Change? [the homeless crowd Randy in and he can't escape. Their pleading takes on a chanting quality: \"Change? Change? Change? Spare some change? God bless. ...\"]\n"
+  },
+  {
+    "input": "[another old woman] Change? [the homeless crowd Randy in and he can't escape. Their pleading takes on a chanting quality: \"Change? Change? Change? Spare some change? God bless. ...\"]\n",
+    "output": "Wahhh! I don't have any more change! [makes his way through the crown of bums] Noo! I don't have any change! I don't have any chaaange! [disappears under the sea of homeless people]\n[The South Park Community Center, day. Gerald, Jimbo, and the Stotches are present.]\n"
+  },
+  {
+    "input": "Wahhh! I don't have any more change! [makes his way through the crown of bums] Noo! I don't have any change! I don't have any chaaange! [disappears under the sea of homeless people]\n[The South Park Community Center, day. Gerald, Jimbo, and the Stotches are present.]\n",
+    "output": "Okay, that'll be great. Let's also make sure we have enough chairs in the community center for everyone to attend.\n"
+  },
+  {
+    "input": "Okay, that'll be great. Let's also make sure we have enough chairs in the community center for everyone to attend.\n",
+    "output": "[outside] Waaah! [bangs on the doors] Awwww! [enters, shuts the door behind him, and locks it] Stay away! [implores and pounds on the door] Stay awayhay!\n"
+  },
+  {
+    "input": "[outside] Waaah! [bangs on the doors] Awwww! [enters, shuts the door behind him, and locks it] Stay away! [implores and pounds on the door] Stay awayhay!\n",
+    "output": "Randy? Randy, what happened?\n"
+  },
+  {
+    "input": "Randy? Randy, what happened?\n",
+    "output": "Stay awa- ...I don't have any change! [collapses on the floor against the door] I don't have any chaaaahahange!\n[A splash screen comes up for News 5.]\n"
+  },
+  {
+    "input": "Stay awa- ...I don't have any change! [collapses on the floor against the door] I don't have any chaaaahahange!\n[A splash screen comes up for News 5.]\n",
+    "output": "This is a News 5 Special Bulletin, with Chris Swollenballs.\n"
+  },
+  {
+    "input": "This is a News 5 Special Bulletin, with Chris Swollenballs.\n",
+    "output": "South Park has become overrun with the homeless. [a shot of the homeless crowd in front of South Park Elementary, then another shot of them in front of Tom's Rhinoplasty] Nearly every square inch of public property is now riddled with homeless, shutting down roadways and making getting around impossible. [a portrait of a homeless woman] Many people are trapped throughout the town. [an aerial shot of the community center. The center is surrounded by homeless people, with the five adults inside it now on the roof]\n"
+  },
+  {
+    "input": "South Park has become overrun with the homeless. [a shot of the homeless crowd in front of South Park Elementary, then another shot of them in front of Tom's Rhinoplasty] Nearly every square inch of public property is now riddled with homeless, shutting down roadways and making getting around impossible. [a portrait of a homeless woman] Many people are trapped throughout the town. [an aerial shot of the community center. The center is surrounded by homeless people, with the five adults inside it now on the roof]\n",
+    "output": "Help! Help us!\n[Kyle's house, living room. The boys watch the breaking news on TV]\n"
+  },
+  {
+    "input": "Help! Help us!\n[Kyle's house, living room. The boys watch the breaking news on TV]\n",
+    "output": "Dude, it's our dads.\n"
+  },
+  {
+    "input": "Dude, it's our dads.\n",
+    "output": "Oh my God.\n"
+  },
+  {
+    "input": "Oh my God.\n",
+    "output": "In the meantime, South Park citizens are being advised to stay indoors and protect their change.\n"
+  },
+  {
+    "input": "In the meantime, South Park citizens are being advised to stay indoors and protect their change.\n",
+    "output": "[appears behind him in the newsroom] Spare some change?\n"
+  },
+  {
+    "input": "[appears behind him in the newsroom] Spare some change?\n",
+    "output": "What the? You can't be in here.\n"
+  },
+  {
+    "input": "What the? You can't be in here.\n",
+    "output": "Ya got any change, sir?\n"
+  },
+  {
+    "input": "Ya got any change, sir?\n",
+    "output": "No I don't have any change. How did he get in here?\n"
+  },
+  {
+    "input": "No I don't have any change. How did he get in here?\n",
+    "output": "Chaaaaange?\n"
+  },
+  {
+    "input": "Chaaaaange?\n",
+    "output": "No, please. I don't have any change. Honest I don't. I don't have any- [a PLEASE STAND BY screen pops up and the station goes off the air]\n"
+  },
+  {
+    "input": "No, please. I don't have any change. Honest I don't. I don't have any- [a PLEASE STAND BY screen pops up and the station goes off the air]\n",
+    "output": "You see what you did, Kyle?!\n"
+  },
+  {
+    "input": "You see what you did, Kyle?!\n",
+    "output": "Come on, we have to try and help our stupid parents. [the boys turn off the TV and head outside]\n[Kyle's house, outside.]\n"
+  },
+  {
+    "input": "Come on, we have to try and help our stupid parents. [the boys turn off the TV and head outside]\n[Kyle's house, outside.]\n",
+    "output": "They're everywhere!\n"
+  },
+  {
+    "input": "They're everywhere!\n",
+    "output": "[pulls up in his car] What are you boys doing? Get in.\n"
+  },
+  {
+    "input": "[pulls up in his car] What are you boys doing? Get in.\n",
+    "output": "[knocks on his window] Spare any change, sir?\n"
+  },
+  {
+    "input": "[knocks on his window] Spare any change, sir?\n",
+    "output": "[throws up his arms and shakes his head vigorously] Ahhhh! [settles down and starts driving] Come on, let's go! [some distance down the street] What the hell were you doing outside?!\n"
+  },
+  {
+    "input": "[throws up his arms and shakes his head vigorously] Ahhhh! [settles down and starts driving] Come on, let's go! [some distance down the street] What the hell were you doing outside?!\n",
+    "output": "Our parents are stuck on top of a building in town.\n"
+  },
+  {
+    "input": "Our parents are stuck on top of a building in town.\n",
+    "output": "You aren't getting into town! It's completely overrun with these... things. [a bum lands on the windshield]\n"
+  },
+  {
+    "input": "You aren't getting into town! It's completely overrun with these... things. [a bum lands on the windshield]\n",
+    "output": "Ahh! [the bum begins to wash the windshield]\n"
+  },
+  {
+    "input": "Ahh! [the bum begins to wash the windshield]\n",
+    "output": "No! I don't need my windshield cleaned! Stop it! Stop iiit! [peels off at the first opportunity] Look, our only hope is to talk to the homeless researcher out on Travis Street. He understands what's goin' on better than anybody. Just stick with me, kids. [enters an intersection, but doesn't notice the driver to his left, who's not paying attention to the road. They collide, with the aide dying on the spot]\n"
+  },
+  {
+    "input": "No! I don't need my windshield cleaned! Stop it! Stop iiit! [peels off at the first opportunity] Look, our only hope is to talk to the homeless researcher out on Travis Street. He understands what's goin' on better than anybody. Just stick with me, kids. [enters an intersection, but doesn't notice the driver to his left, who's not paying attention to the road. They collide, with the aide dying on the spot]\n",
+    "output": "[exit the car uninjured] Aaahhh! [they move along the street, but notice the homeless everywhere. Another collision takes place a block away from them]\n"
+  },
+  {
+    "input": "[exit the car uninjured] Aaahhh! [they move along the street, but notice the homeless everywhere. Another collision takes place a block away from them]\n",
+    "output": "Holy shit, dude! [behind him, the other three boys move a manhole cover off to one side, opening up a new means of escape]\n"
+  },
+  {
+    "input": "Holy shit, dude! [behind him, the other three boys move a manhole cover off to one side, opening up a new means of escape]\n",
+    "output": "Over here! [Kyle looks back. Cartman and Kenny drop down into the sewer and Kyle walks to the manhole.] Jump down! Go! [Kyle drops down, and finally, Stan]\n"
+  },
+  {
+    "input": "Over here! [Kyle looks back. Cartman and Kenny drop down into the sewer and Kyle walks to the manhole.] Jump down! Go! [Kyle drops down, and finally, Stan]\n",
+    "output": "[pinching his nose shut with his left hand as he fans the smell away with his right] Aw man, it really smells like Kenny's house down here.\n"
+  },
+  {
+    "input": "[pinching his nose shut with his left hand as he fans the smell away with his right] Aw man, it really smells like Kenny's house down here.\n",
+    "output": "[punches Cartman angrily] (Dude, shut the fuck up about my house!)\n"
+  },
+  {
+    "input": "[punches Cartman angrily] (Dude, shut the fuck up about my house!)\n",
+    "output": "Whoa, Kenny, relax dude. We need to work together.\n"
+  },
+  {
+    "input": "Whoa, Kenny, relax dude. We need to work together.\n",
+    "output": "Come on, we gotta get to that scientist's house. [they move forward.]\n[South Park, street level, day. The homeless have paralyzed the town as crashed cars are shown everywhere. The community center roof is shown, with Randy looking out over the parking lot with binoculars. Gerald and Jimbo sit in chairs]\n"
+  },
+  {
+    "input": "Come on, we gotta get to that scientist's house. [they move forward.]\n[South Park, street level, day. The homeless have paralyzed the town as crashed cars are shown everywhere. The community center roof is shown, with Randy looking out over the parking lot with binoculars. Gerald and Jimbo sit in chairs]\n",
+    "output": "[lowers his binoculars] No sign of anybody else.\n"
+  },
+  {
+    "input": "[lowers his binoculars] No sign of anybody else.\n",
+    "output": "[rising from his chair] That's it. I'm gonna make a break for it.\n"
+  },
+  {
+    "input": "[rising from his chair] That's it. I'm gonna make a break for it.\n",
+    "output": "[turns around to face him] Don't be crazy, Gerald. You'll never get through all those homeless people.\n"
+  },
+  {
+    "input": "[turns around to face him] Don't be crazy, Gerald. You'll never get through all those homeless people.\n",
+    "output": "And even if you did, what then? You can't drive anywhere.\n"
+  },
+  {
+    "input": "And even if you did, what then? You can't drive anywhere.\n",
+    "output": "If I can make it through them, maybe I can catch the bus to Fairplay. I have to try.\n"
+  },
+  {
+    "input": "If I can make it through them, maybe I can catch the bus to Fairplay. I have to try.\n",
+    "output": "You won't make it through, Gerald! [Gerald leaves quickly and heads downstairs. He leaves the community center, only to be hounded by bums begging for change]\n"
+  },
+  {
+    "input": "You won't make it through, Gerald! [Gerald leaves quickly and heads downstairs. He leaves the community center, only to be hounded by bums begging for change]\n",
+    "output": "[making his way through] Ahh. Ahhhahhahahahh.\n"
+  },
+  {
+    "input": "[making his way through] Ahh. Ahhhahhahahahh.\n",
+    "output": "Change? Change sir? You got some change?\n"
+  },
+  {
+    "input": "Change? Change sir? You got some change?\n",
+    "output": "Don't have any change... Don't have any change... Damn it! All right, you want change? Here. [reaches into his left pocket and tosses some change off to his left] There! There's some change. All right, a little bit. [reaches into his right pocket and tosses some change off to his right] There you go. Take the change. [leaves, but stops himself] Oh wait. Wait, now I don't have any change left for the bus. Hold on. Can I just get back some of that change, please?\n"
+  },
+  {
+    "input": "Don't have any change... Don't have any change... Damn it! All right, you want change? Here. [reaches into his left pocket and tosses some change off to his left] There! There's some change. All right, a little bit. [reaches into his right pocket and tosses some change off to his right] There you go. Take the change. [leaves, but stops himself] Oh wait. Wait, now I don't have any change left for the bus. Hold on. Can I just get back some of that change, please?\n",
+    "output": "Change, sir?\n"
+  },
+  {
+    "input": "Change, sir?\n",
+    "output": "Can I have just a little change for the bus, please? I need a little... anybody have some change? Change? Got any change? [Randy follows Gerald through his binoculars] Change. Change? [Randy lowers his binoculars in horror]\n"
+  },
+  {
+    "input": "Can I have just a little change for the bus, please? I need a little... anybody have some change? Change? Got any change? [Randy follows Gerald through his binoculars] Change. Change? [Randy lowers his binoculars in horror]\n",
+    "output": "What happened?\n"
+  },
+  {
+    "input": "What happened?\n",
+    "output": "[closes his eyes] He's become one of them.\n[South Park, night, under a full moon. All around town, the homeless ask for change. The boys are shown arriving at an office of some sort. They knock on the door and the homeless researcher answers it]\n"
+  },
+  {
+    "input": "[closes his eyes] He's become one of them.\n[South Park, night, under a full moon. All around town, the homeless ask for change. The boys are shown arriving at an office of some sort. They knock on the door and the homeless researcher answers it]\n",
+    "output": "Go away, I I don't have any change.\n"
+  },
+  {
+    "input": "Go away, I I don't have any change.\n",
+    "output": "Are you the head of Homeless Studies?\n"
+  },
+  {
+    "input": "Are you the head of Homeless Studies?\n",
+    "output": "Yes. Who are you?\n"
+  },
+  {
+    "input": "Yes. Who are you?\n",
+    "output": "We think this may be our friend's fault. [shows Kyle] He gave one of the homeless twenty dollars yesterday-\n"
+  },
+  {
+    "input": "We think this may be our friend's fault. [shows Kyle] He gave one of the homeless twenty dollars yesterday-\n",
+    "output": "Oh my God. Get in here! Tell me what's going on? [the boys enter and he shuts the door]\n"
+  },
+  {
+    "input": "Oh my God. Get in here! Tell me what's going on? [the boys enter and he shuts the door]\n",
+    "output": "There's a bunch of people trapped in the middle of town surrounded by homeless people. W-we can't get to them.\n"
+  },
+  {
+    "input": "There's a bunch of people trapped in the middle of town surrounded by homeless people. W-we can't get to them.\n",
+    "output": "All right, all right, look! I didn't wanna risk it, but... I think I know what to do. I'll try to jump all those homeless and get to the people on that roof.\n"
+  },
+  {
+    "input": "All right, all right, look! I didn't wanna risk it, but... I think I know what to do. I'll try to jump all those homeless and get to the people on that roof.\n",
+    "output": "Jump them?\n"
+  },
+  {
+    "input": "Jump them?\n",
+    "output": "I jump the homeless professionally. If you can get me a skateboard, I'll try to jump that homeless crowd and save those people.\n"
+  },
+  {
+    "input": "I jump the homeless professionally. If you can get me a skateboard, I'll try to jump that homeless crowd and save those people.\n",
+    "output": "Oh, shut up, Cartman. All you did was jump over one homeless guy.\n"
+  },
+  {
+    "input": "Oh, shut up, Cartman. All you did was jump over one homeless guy.\n",
+    "output": "I easily could have cleared another thirty or forty.\n"
+  },
+  {
+    "input": "I easily could have cleared another thirty or forty.\n",
+    "output": "You barely made it over one, fatass!\n"
+  },
+  {
+    "input": "You barely made it over one, fatass!\n",
+    "output": "Kyle, enough! Cartman jumping more homeless people isn't gonna solve anything right now!\n"
+  },
+  {
+    "input": "Kyle, enough! Cartman jumping more homeless people isn't gonna solve anything right now!\n",
+    "output": "God damn it! I don't want him to jump over more a-\n"
+  },
+  {
+    "input": "God damn it! I don't want him to jump over more a-\n",
+    "output": "Boys! Boys! I don't think you quite understand how the homeless function. Perhaps you should come downstairs. To my laboratory. [lightning and thunderclaps follow]\n[South Park Community Center, night. The homeless now call up to the roof.]\n"
+  },
+  {
+    "input": "Boys! Boys! I don't think you quite understand how the homeless function. Perhaps you should come downstairs. To my laboratory. [lightning and thunderclaps follow]\n[South Park Community Center, night. The homeless now call up to the roof.]\n",
+    "output": "We don't have any change! Go away!\n"
+  },
+  {
+    "input": "We don't have any change! Go away!\n",
+    "output": "Anything, Stephen?\n"
+  },
+  {
+    "input": "Anything, Stephen?\n",
+    "output": "No. All the phone lines are completely down. [the stairwell door behind them rattles and they turn to face it in fear. Randy steps toward it with his shotgun and cocks it. More knocking on the door]\n"
+  },
+  {
+    "input": "No. All the phone lines are completely down. [the stairwell door behind them rattles and they turn to face it in fear. Randy steps toward it with his shotgun and cocks it. More knocking on the door]\n",
+    "output": "[inside the stairwell] Hello? Ih-it's Steve Garrett from the library. Pu-please let us in.\n"
+  },
+  {
+    "input": "[inside the stairwell] Hello? Ih-it's Steve Garrett from the library. Pu-please let us in.\n",
+    "output": "Find another place to hide, Steve!\n"
+  },
+  {
+    "input": "Find another place to hide, Steve!\n",
+    "output": "I I have others with me. We we have nowhere else to go. One woman here is pregnant.\n"
+  },
+  {
+    "input": "I I have others with me. We we have nowhere else to go. One woman here is pregnant.\n",
+    "output": "We can't just leave them out there.\n"
+  },
+  {
+    "input": "We can't just leave them out there.\n",
+    "output": "Let us in! For God's sake, they're coming! No! No, I'm sorry, we don't have any change.\n"
+  },
+  {
+    "input": "Let us in! For God's sake, they're coming! No! No, I'm sorry, we don't have any change.\n",
+    "output": "You have to let them in, Randy.\n"
+  },
+  {
+    "input": "You have to let them in, Randy.\n",
+    "output": "There isn't enough food for more people up here!\n"
+  },
+  {
+    "input": "There isn't enough food for more people up here!\n",
+    "output": "Oh God. One of them is a war veteran. [more knocking] We're gonna have to give him some change.\n"
+  },
+  {
+    "input": "Oh God. One of them is a war veteran. [more knocking] We're gonna have to give him some change.\n",
+    "output": "This isn't happening!\n"
+  },
+  {
+    "input": "This isn't happening!\n",
+    "output": "All right all right, fine! [approaches slowly and opens the door. The refugees stream forth]\n"
+  },
+  {
+    "input": "All right all right, fine! [approaches slowly and opens the door. The refugees stream forth]\n",
+    "output": "Could you spare some change, sir?\n"
+  },
+  {
+    "input": "Could you spare some change, sir?\n",
+    "output": "[shuts the door quickly] Harrrh!\n[The Homeless Advisor's lab, later. He's dissected the body of a dead homeless person.]\n"
+  },
+  {
+    "input": "[shuts the door quickly] Harrrh!\n[The Homeless Advisor's lab, later. He's dissected the body of a dead homeless person.]\n",
+    "output": "I've dissected several homeless to see what make them tick. Their anatomy is shockingly similar to ours. See? Everything is there: heart, lungs, kidneys, they're almost identical to us in every way. Except for one. [a homeless man is chained to a wall by a chain around his neck. The advisor approaches him] The homeless... can survive solely... on change. [pulls out some change]\n"
+  },
+  {
+    "input": "I've dissected several homeless to see what make them tick. Their anatomy is shockingly similar to ours. See? Everything is there: heart, lungs, kidneys, they're almost identical to us in every way. Except for one. [a homeless man is chained to a wall by a chain around his neck. The advisor approaches him] The homeless... can survive solely... on change. [pulls out some change]\n",
+    "output": "[sticks out his cup and strains to get the money] Change?\n"
+  },
+  {
+    "input": "[sticks out his cup and strains to get the money] Change?\n",
+    "output": "They feed on our change. They need it in order to keep them moving\n"
+  },
+  {
+    "input": "They feed on our change. They need it in order to keep them moving\n",
+    "output": "Is that... is that some spare change?\n"
+  },
+  {
+    "input": "Is that... is that some spare change?\n",
+    "output": "Somehow they're able to take... our change... and turn it into nourishment, sustenance.\n"
+  },
+  {
+    "input": "Somehow they're able to take... our change... and turn it into nourishment, sustenance.\n",
+    "output": "Spare some of that change, sir?\n"
+  },
+  {
+    "input": "Spare some of that change, sir?\n",
+    "output": "But now watch. [drops some coins into the bum's cup and walks back to the boys. The bum rattles his cup a bit]\n"
+  },
+  {
+    "input": "But now watch. [drops some coins into the bum's cup and walks back to the boys. The bum rattles his cup a bit]\n",
+    "output": "Spare some change?\n"
+  },
+  {
+    "input": "Spare some change?\n",
+    "output": "It has already completely forgotten that I've given it change. It just wants... more, change. Look over here. [heads to his left and the boys follow] This one I've kept deprived of change for over three days.\n"
+  },
+  {
+    "input": "It has already completely forgotten that I've given it change. It just wants... more, change. Look over here. [heads to his left and the boys follow] This one I've kept deprived of change for over three days.\n",
+    "output": "Chaaaaange?\n"
+  },
+  {
+    "input": "Chaaaaange?\n",
+    "output": "What's it doing?\n"
+  },
+  {
+    "input": "What's it doing?\n",
+    "output": "It's dying.\n"
+  },
+  {
+    "input": "It's dying.\n",
+    "output": "Cool.\n"
+  },
+  {
+    "input": "Cool.\n",
+    "output": "I've learned that the nearby city of Evergreen had a homeless problem just before we did. And they were able to stop it.\n"
+  },
+  {
+    "input": "I've learned that the nearby city of Evergreen had a homeless problem just before we did. And they were able to stop it.\n",
+    "output": "[finds the advisor's office and enters] Excuse me, the front door was open. Can I borrow some change? [other homeless men follow him in]\n"
+  },
+  {
+    "input": "[finds the advisor's office and enters] Excuse me, the front door was open. Can I borrow some change? [other homeless men follow him in]\n",
+    "output": "Oh my God, they're coming in! [leads the boys to an escape hatch above some crates] Quick kids, get out of here! You can fit!\n"
+  },
+  {
+    "input": "Oh my God, they're coming in! [leads the boys to an escape hatch above some crates] Quick kids, get out of here! You can fit!\n",
+    "output": "[helps Cartman up] What about you?\n"
+  },
+  {
+    "input": "[helps Cartman up] What about you?\n",
+    "output": "Get to Evergreen and find out how they got rid of the homeless! I'll be all right!\n"
+  },
+  {
+    "input": "Get to Evergreen and find out how they got rid of the homeless! I'll be all right!\n",
+    "output": "Eh! Stop pushing, Kenny.\n"
+  },
+  {
+    "input": "Eh! Stop pushing, Kenny.\n",
+    "output": "Hello? [comes down a spiral staircase] I I'm sorry, I just really need some change for the bus?\n"
+  },
+  {
+    "input": "Hello? [comes down a spiral staircase] I I'm sorry, I just really need some change for the bus?\n",
+    "output": "Change?\n"
+  },
+  {
+    "input": "Change?\n",
+    "output": "Spare some change?\n"
+  },
+  {
+    "input": "Spare some change?\n",
+    "output": "Change?\n"
+  },
+  {
+    "input": "Change?\n",
+    "output": "Stop it! I really do need change!\n"
+  },
+  {
+    "input": "Stop it! I really do need change!\n",
+    "output": "Me too. Change?\n"
+  },
+  {
+    "input": "Me too. Change?\n",
+    "output": "[outside the lab] Change? [knocks on the lab door] Hello? Do you have any change?\n"
+  },
+  {
+    "input": "[outside the lab] Change? [knocks on the lab door] Hello? Do you have any change?\n",
+    "output": "[outside the lab] Chaaange?\n"
+  },
+  {
+    "input": "[outside the lab] Chaaange?\n",
+    "output": "Sorry to take the easy way out. [takes a gun to his right temple and cocks it. An exterior view of his office is shown and a gunshot heard. Back inside, he's still standing, in pain. The bullet went out the left temple, but didn't kill him.] OW! OH, FUCK! OWW! [next he tries shooting through his jaw, and the bullet comes out through his right cheek.] OHHH! AH! GOD! [shoots through his jaw again, and the bullet goes out his right cheek again. This time he gargles and drops on all fours. He shoots through his right shoulder three times, but still lives. This time he takes the gun to his forehead and cocks the gun. The exterior view of his office is shown again and a gunshot is heard. Back inside, he's still alive. The bullet to the brain didn't kill him. This time he shoots at his heart twice, and that finally kills him. He writhes around for a few seconds and dies.]\n[The South Park Community Center. There are so many homeless people now that it looks like a page out of \"Where's Waldo?\" There are now thirteen people on the roof, all asking for change.]\n"
+  },
+  {
+    "input": "Sorry to take the easy way out. [takes a gun to his right temple and cocks it. An exterior view of his office is shown and a gunshot heard. Back inside, he's still standing, in pain. The bullet went out the left temple, but didn't kill him.] OW! OH, FUCK! OWW! [next he tries shooting through his jaw, and the bullet comes out through his right cheek.] OHHH! AH! GOD! [shoots through his jaw again, and the bullet goes out his right cheek again. This time he gargles and drops on all fours. He shoots through his right shoulder three times, but still lives. This time he takes the gun to his forehead and cocks the gun. The exterior view of his office is shown again and a gunshot is heard. Back inside, he's still alive. The bullet to the brain didn't kill him. This time he shoots at his heart twice, and that finally kills him. He writhes around for a few seconds and dies.]\n[The South Park Community Center. There are so many homeless people now that it looks like a page out of \"Where's Waldo?\" There are now thirteen people on the roof, all asking for change.]\n",
+    "output": "[rifling through a box] No. No, damn it! [faces the small group on the roof with him] That's it. That's it, everyone. We're out of Pop-Tarts.\n"
+  },
+  {
+    "input": "[rifling through a box] No. No, damn it! [faces the small group on the roof with him] That's it. That's it, everyone. We're out of Pop-Tarts.\n",
+    "output": "No. We can't be.\n"
+  },
+  {
+    "input": "No. We can't be.\n",
+    "output": "Face it, we're gonna starve!\n"
+  },
+  {
+    "input": "Face it, we're gonna starve!\n",
+    "output": "No, no wait, there's still a box over here.\n"
+  },
+  {
+    "input": "No, no wait, there's still a box over here.\n",
+    "output": "Those are cherry! Ich!\n"
+  },
+  {
+    "input": "Those are cherry! Ich!\n",
+    "output": "[his cell phone rings and he rises] Wait, I got a signal! I got a signal. [dials a number]\n"
+  },
+  {
+    "input": "[his cell phone rings and he rises] Wait, I got a signal! I got a signal. [dials a number]\n",
+    "output": "What? You do?\n"
+  },
+  {
+    "input": "What? You do?\n",
+    "output": "How? Call the fire department.\n"
+  },
+  {
+    "input": "How? Call the fire department.\n",
+    "output": "I'm calling my wife! [waits for her to pick up] Mary. Mary baby, are you all right?\n"
+  },
+  {
+    "input": "I'm calling my wife! [waits for her to pick up] Mary. Mary baby, are you all right?\n",
+    "output": "Oh, maybe we're gonna be okay.\n"
+  },
+  {
+    "input": "Oh, maybe we're gonna be okay.\n",
+    "output": "Ask her what's happening.\n"
+  },
+  {
+    "input": "Ask her what's happening.\n",
+    "output": "Mary, what's goin' on out there? Nobody's coming for us. They what? No! That's impossible. But how can that be? We didn't even- [the phone cuts out] Hello? Mary. [tries to reconnect] Mary!\n"
+  },
+  {
+    "input": "Mary, what's goin' on out there? Nobody's coming for us. They what? No! That's impossible. But how can that be? We didn't even- [the phone cuts out] Hello? Mary. [tries to reconnect] Mary!\n",
+    "output": "What happened, Glen?\n"
+  },
+  {
+    "input": "What happened, Glen?\n",
+    "output": "[Head of Public Safety] There's no help coming! She said... because of all the homeless... because of all the homeless in South Park property values have plummeted. I had two liens against my house and so the bank is foreclosing! I don't have a home anymore. [Randy and the others are quiet for a moment, but Randy knows what he must do. He pumps his shotgun and aims at Glen.]\n"
+  },
+  {
+    "input": "[Head of Public Safety] There's no help coming! She said... because of all the homeless... because of all the homeless in South Park property values have plummeted. I had two liens against my house and so the bank is foreclosing! I don't have a home anymore. [Randy and the others are quiet for a moment, but Randy knows what he must do. He pumps his shotgun and aims at Glen.]\n",
+    "output": "Randy, what are you doing?\n"
+  },
+  {
+    "input": "Randy, what are you doing?\n",
+    "output": "He's homeless now. We aren't safe.\n"
+  },
+  {
+    "input": "He's homeless now. We aren't safe.\n",
+    "output": "I'm not like them.\n"
+  },
+  {
+    "input": "I'm not like them.\n",
+    "output": "Not yet. It's only a matter of time.\n"
+  },
+  {
+    "input": "Not yet. It's only a matter of time.\n",
+    "output": "[tries dissuading Randy] And what are you gonna do, huh? Just blow his head off?\n"
+  },
+  {
+    "input": "[tries dissuading Randy] And what are you gonna do, huh? Just blow his head off?\n",
+    "output": "If we have to! Siddown Glen!\n"
+  },
+  {
+    "input": "If we have to! Siddown Glen!\n",
+    "output": "Randy, you can't just-\n"
+  },
+  {
+    "input": "Randy, you can't just-\n",
+    "output": "SIT... doowwwnnnn!\n[Another shot of the homeless on the street.]\n[Back to a shot of the roof. Glen is sitting under a blanket again.]\n"
+  },
+  {
+    "input": "SIT... doowwwnnnn!\n[Another shot of the homeless on the street.]\n[Back to a shot of the roof. Glen is sitting under a blanket again.]\n",
+    "output": "This is crazy. How can they just take away my house? Where am I supposed to put all my things? I don't have a place for all my stuff; where am I supposed to put all my stuff? I'll need to pay for storage. Can I borrow some- money to put my stuff in storage? Come on guys. If you all just help me out a little bit. Each one of you just put in a little... change? Change? [That's it. Randy fires at him and blows the upper half of his head off. Randy sighs heavily]\n[A brilliant sunrise in the Rockies. Another shot reveals a ruined town - Evergreen. The four boys arrive and look at the destruction]\n"
+  },
+  {
+    "input": "This is crazy. How can they just take away my house? Where am I supposed to put all my things? I don't have a place for all my stuff; where am I supposed to put all my stuff? I'll need to pay for storage. Can I borrow some- money to put my stuff in storage? Come on guys. If you all just help me out a little bit. Each one of you just put in a little... change? Change? [That's it. Randy fires at him and blows the upper half of his head off. Randy sighs heavily]\n[A brilliant sunrise in the Rockies. Another shot reveals a ruined town - Evergreen. The four boys arrive and look at the destruction]\n",
+    "output": "What the hell happened here? [three men in camouflage appear and aim their shotguns at them]\n"
+  },
+  {
+    "input": "What the hell happened here? [three men in camouflage appear and aim their shotguns at them]\n",
+    "output": "[wearing a white and blue bandana around his neck] That's far enough! Just march your butts right back out of our town!\n"
+  },
+  {
+    "input": "[wearing a white and blue bandana around his neck] That's far enough! Just march your butts right back out of our town!\n",
+    "output": "We, just came to ask a question.\n"
+  },
+  {
+    "input": "We, just came to ask a question.\n",
+    "output": "You homeless or homeowners?\n"
+  },
+  {
+    "input": "You homeless or homeowners?\n",
+    "output": "We're nine.\n"
+  },
+  {
+    "input": "We're nine.\n",
+    "output": "Yeah? Well that makes you homeless, so get out of here before you die!\n"
+  },
+  {
+    "input": "Yeah? Well that makes you homeless, so get out of here before you die!\n",
+    "output": "Look, we just need help with our own homeless problem.\n"
+  },
+  {
+    "input": "Look, we just need help with our own homeless problem.\n",
+    "output": "Yeah. This Jew here made them take over our town.\n"
+  },
+  {
+    "input": "Yeah. This Jew here made them take over our town.\n",
+    "output": "Shut up, Cartman!\n"
+  },
+  {
+    "input": "Shut up, Cartman!\n",
+    "output": "Cartman? Eric Cartman? The kid who jumped thirty homeless people on a skateboard?\n"
+  },
+  {
+    "input": "Cartman? Eric Cartman? The kid who jumped thirty homeless people on a skateboard?\n",
+    "output": "Youu heard about that?\n"
+  },
+  {
+    "input": "Youu heard about that?\n",
+    "output": "Heard about it? They said you could have easily cleared fifty homeless with that jump.\n"
+  },
+  {
+    "input": "Heard about it? They said you could have easily cleared fifty homeless with that jump.\n",
+    "output": "Thirty was hard enough.\n"
+  },
+  {
+    "input": "Thirty was hard enough.\n",
+    "output": "Oh God! It wasn't thirty, it was one! He jumped over one homeless person with his stupid skateboard, and he barely made it over that guy!\n"
+  },
+  {
+    "input": "Oh God! It wasn't thirty, it was one! He jumped over one homeless person with his stupid skateboard, and he barely made it over that guy!\n",
+    "output": "Kyle, knock it off! We're here to find out how to get rid of the homeless, not how many homeless Cartman can jump!\n"
+  },
+  {
+    "input": "Kyle, knock it off! We're here to find out how to get rid of the homeless, not how many homeless Cartman can jump!\n",
+    "output": "Please, we just want you to tell us how you got rid of the homeless in your town.\n"
+  },
+  {
+    "input": "Please, we just want you to tell us how you got rid of the homeless in your town.\n",
+    "output": "Well, that was easy. [the group moves to a clearing where the boys sit on a bench while the first man serves himself some coffee and begins explaining]\n"
+  },
+  {
+    "input": "Well, that was easy. [the group moves to a clearing where the boys sit on a bench while the first man serves himself some coffee and begins explaining]\n",
+    "output": "The homeless first started arriving in Evergreen about three months ago. At first there were only a few of them, askin' for change, sleeping in the parks. But then more showed up, and we realized there was somethin' different about them. They fed off of our change to the point that they could actually start renting apartments. We knew it wouldn't be long before the homeless actually started buying homes. And then we'd have no idea who was homeless and who wasn't! The people living in the house right next door to you could be homeless and you wouldn't even know! [sips] Nobody could trust anybody! Fights broke out. War! [Kyle notices something on the ground] That's when I started suspecting that [the something is a pamphlet that says \"HAVEN FOR THE HOMELESS\" on the front cover. He picks it up] my own wife, who I'd been living with for twenty years, was actually homeless. So I had to burn her. In her bed while she slept. [Kyle reads the pamphlet] After she died I vowed I wouldn't let the homeless destroy our town! So we came up with a plan to get rid of them once and for all. [Kyle opens the pamphlet and is met with these words: \"HAVEN FOR THE HOMELESS. TRY SOUTH PARK.\"]\n"
+  },
+  {
+    "input": "The homeless first started arriving in Evergreen about three months ago. At first there were only a few of them, askin' for change, sleeping in the parks. But then more showed up, and we realized there was somethin' different about them. They fed off of our change to the point that they could actually start renting apartments. We knew it wouldn't be long before the homeless actually started buying homes. And then we'd have no idea who was homeless and who wasn't! The people living in the house right next door to you could be homeless and you wouldn't even know! [sips] Nobody could trust anybody! Fights broke out. War! [Kyle notices something on the ground] That's when I started suspecting that [the something is a pamphlet that says \"HAVEN FOR THE HOMELESS\" on the front cover. He picks it up] my own wife, who I'd been living with for twenty years, was actually homeless. So I had to burn her. In her bed while she slept. [Kyle reads the pamphlet] After she died I vowed I wouldn't let the homeless destroy our town! So we came up with a plan to get rid of them once and for all. [Kyle opens the pamphlet and is met with these words: \"HAVEN FOR THE HOMELESS. TRY SOUTH PARK.\"]\n",
+    "output": "You son of a bitch. [gets off the bench and approaches the first man with the pamphlet] You didn't solve your homeless problem, you just sent all your homeless to South Park! [opens the pamphlet to show him]\n"
+  },
+  {
+    "input": "You son of a bitch. [gets off the bench and approaches the first man with the pamphlet] You didn't solve your homeless problem, you just sent all your homeless to South Park! [opens the pamphlet to show him]\n",
+    "output": "That's right, yes.\n"
+  },
+  {
+    "input": "That's right, yes.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I knew it! It wasn't because I gave that guy twenty dollars! The homeless all came from here!\n"
+  },
+  {
+    "input": "I knew it! It wasn't because I gave that guy twenty dollars! The homeless all came from here!\n",
+    "output": "And it was Texas who sent them to us! People in San Antonio got rid of their homeless by tellin' them what a great place Evergreen was!\n"
+  },
+  {
+    "input": "And it was Texas who sent them to us! People in San Antonio got rid of their homeless by tellin' them what a great place Evergreen was!\n",
+    "output": "[getting off the bench] But then you didn't solve the problem, you just moved it!\n"
+  },
+  {
+    "input": "[getting off the bench] But then you didn't solve the problem, you just moved it!\n",
+    "output": "Right. But we survived.\n"
+  },
+  {
+    "input": "Right. But we survived.\n",
+    "output": "[pops up out of nowhere, almost a skeleton] Dehhhnyihhhs! [she's armed with a rifle and ready to shoot]\n"
+  },
+  {
+    "input": "[pops up out of nowhere, almost a skeleton] Dehhhnyihhhs! [she's armed with a rifle and ready to shoot]\n",
+    "output": "[Man 1, turns around. The other two men look as well] Christine!\n"
+  },
+  {
+    "input": "[Man 1, turns around. The other two men look as well] Christine!\n",
+    "output": "You sonothatitch! You tried to kinn me!\n"
+  },
+  {
+    "input": "You sonothatitch! You tried to kinn me!\n",
+    "output": "I had to, Christine, you were homeless.\n"
+  },
+  {
+    "input": "I had to, Christine, you were homeless.\n",
+    "output": "No, I wasn't honeless yeh stukid asshole!\n"
+  },
+  {
+    "input": "No, I wasn't honeless yeh stukid asshole!\n",
+    "output": "Christine, I can't understand you.\n"
+  },
+  {
+    "input": "Christine, I can't understand you.\n",
+    "output": "Yeah! Gecause you durned my yits oth!\n"
+  },
+  {
+    "input": "Yeah! Gecause you durned my yits oth!\n",
+    "output": "I nurned your rip sauce?\n"
+  },
+  {
+    "input": "I nurned your rip sauce?\n",
+    "output": "No! You durned my yits oth!\n"
+  },
+  {
+    "input": "No! You durned my yits oth!\n",
+    "output": "I have no idea what you're saying! [Christine shoots him] Ow! [Dennis is dead. The third man kills Christine, who fires one final shot and hits the second man. The second man kills the third and dies moments later]\n"
+  },
+  {
+    "input": "I have no idea what you're saying! [Christine shoots him] Ow! [Dennis is dead. The third man kills Christine, who fires one final shot and hits the second man. The second man kills the third and dies moments later]\n",
+    "output": "Dude, our parents are just as stupid as these people, our town is gonna end up just like this!\n"
+  },
+  {
+    "input": "Dude, our parents are just as stupid as these people, our town is gonna end up just like this!\n",
+    "output": "[turns around] No it isn't. Come on, I have an idea.\n"
+  },
+  {
+    "input": "[turns around] No it isn't. Come on, I have an idea.\n",
+    "output": "No no, we're not having Cartman jump any more homeless people, Kyle!\n"
+  },
+  {
+    "input": "No no, we're not having Cartman jump any more homeless people, Kyle!\n",
+    "output": "That isn't my idea! I saw a bus in a garage a couple of blocks back! We need to modify it!\n"
+  },
+  {
+    "input": "That isn't my idea! I saw a bus in a garage a couple of blocks back! We need to modify it!\n",
+    "output": "(What are you gonna do?)\n"
+  },
+  {
+    "input": "(What are you gonna do?)\n",
+    "output": "We're gonna save our parents before they all kill each other!\n[Montage: the boys modify a bus. Stan works on the front fenders. Cartman works on brakes and accelerator. Kenny works on tightening the barbed wire running along the roof's edge. Kyle works on putting up a shield in front of the bus with a screw gun. Stan moves to the transmission. Cartman and Kenny reinforce the sides of the bus. Kyle works on the PA system.]\n[The community center roof. The refugees sit around. A bus horn is heard and the refugees rouse themselves. Randy looks out over the parking lot and sees the bus. The homeless clear a path for the bus]\n"
+  },
+  {
+    "input": "We're gonna save our parents before they all kill each other!\n[Montage: the boys modify a bus. Stan works on the front fenders. Cartman works on brakes and accelerator. Kenny works on tightening the barbed wire running along the roof's edge. Kyle works on putting up a shield in front of the bus with a screw gun. Stan moves to the transmission. Cartman and Kenny reinforce the sides of the bus. Kyle works on the PA system.]\n[The community center roof. The refugees sit around. A bus horn is heard and the refugees rouse themselves. Randy looks out over the parking lot and sees the bus. The homeless clear a path for the bus]\n",
+    "output": "A bus! A bus is coming!\n"
+  },
+  {
+    "input": "A bus! A bus is coming!\n",
+    "output": "[seeing who's inside] It's the boys! They've modified a bus to get us out of here!\n"
+  },
+  {
+    "input": "[seeing who's inside] It's the boys! They've modified a bus to get us out of here!\n",
+    "output": "I knew they'd come back for us!\n"
+  },
+  {
+    "input": "I knew they'd come back for us!\n",
+    "output": "All right!\n"
+  },
+  {
+    "input": "All right!\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "[props up Glen's corpse so it faces the bus] Look, Glen. We're saved. [the bus stops]\n"
+  },
+  {
+    "input": "[props up Glen's corpse so it faces the bus] Look, Glen. We're saved. [the bus stops]\n",
+    "output": "All right, I'm turning around\n"
+  },
+  {
+    "input": "All right, I'm turning around\n",
+    "output": "Why are they turning?\n"
+  },
+  {
+    "input": "Why are they turning?\n",
+    "output": "[drops the corpse] What are they doing? [the bus turns so the front end now faces away from the community center. Randy calls out] Don't leave us!\n"
+  },
+  {
+    "input": "[drops the corpse] What are they doing? [the bus turns so the front end now faces away from the community center. Randy calls out] Don't leave us!\n",
+    "output": "All right, hit it.\n"
+  },
+  {
+    "input": "All right, hit it.\n",
+    "output": "Let's hope to Christ this works. [prepares to press the red button. Music begins to play]\n"
+  },
+  {
+    "input": "Let's hope to Christ this works. [prepares to press the red button. Music begins to play]\n",
+    "output": "California Love\n[the homeless grow quiet]\n"
+  },
+  {
+    "input": "California Love\n[the homeless grow quiet]\n",
+    "output": "California\n"
+  },
+  {
+    "input": "California\n",
+    "output": "Is nice to the homeless\nCaliforniania\nSupercool to the homeless\n"
+  },
+  {
+    "input": "Is nice to the homeless\nCaliforniania\nSupercool to the homeless\n",
+    "output": "In the city\n"
+  },
+  {
+    "input": "In the city\n",
+    "output": "City of Santa Monica\nLots of rich people\ngiving change to the homeless\n"
+  },
+  {
+    "input": "City of Santa Monica\nLots of rich people\ngiving change to the homeless\n",
+    "output": "[holds up his tin can] Chaaange? [the adults on the roof still have no idea what's going on]\n"
+  },
+  {
+    "input": "[holds up his tin can] Chaaange? [the adults on the roof still have no idea what's going on]\n",
+    "output": "In the city\n"
+  },
+  {
+    "input": "In the city\n",
+    "output": "City of Brentwood\nThey take really good care\nof all their homeless\n"
+  },
+  {
+    "input": "City of Brentwood\nThey take really good care\nof all their homeless\n",
+    "output": "[to Stan] They're listening. Let's go! [a Destination Marquee is shown. Stan flips switch C on and presses a green button. The marquee changes from Denver to California]\n"
+  },
+  {
+    "input": "[to Stan] They're listening. Let's go! [a Destination Marquee is shown. Stan flips switch C on and presses a green button. The marquee changes from Denver to California]\n",
+    "output": "In the city\n"
+  },
+  {
+    "input": "In the city\n",
+    "output": "Marina del Rey\nThey're so nice to the homeless\nbuilt them port-a-potties\n"
+  },
+  {
+    "input": "Marina del Rey\nThey're so nice to the homeless\nbuilt them port-a-potties\n",
+    "output": "They're... they're leading them away!\n"
+  },
+  {
+    "input": "They're... they're leading them away!\n",
+    "output": "We're gonna be all right!\n"
+  },
+  {
+    "input": "We're gonna be all right!\n",
+    "output": "[props the corpse up once again] Oh Glen! We made it!\n"
+  },
+  {
+    "input": "[props the corpse up once again] Oh Glen! We made it!\n",
+    "output": "California\nSupercool to the homeless\n[A highway, day. The boys take the homeless westward.]\n"
+  },
+  {
+    "input": "California\nSupercool to the homeless\n[A highway, day. The boys take the homeless westward.]\n",
+    "output": "Cha-a-ange?\n"
+  },
+  {
+    "input": "Cha-a-ange?\n",
+    "output": "Californiania\nNa na orn nea\n[Santa Monica Pier. The bus passes it going south - towards Venice Beach. The homeless follow]\n"
+  },
+  {
+    "input": "Californiania\nNa na orn nea\n[Santa Monica Pier. The bus passes it going south - towards Venice Beach. The homeless follow]\n",
+    "output": "In the city\n[Venice Beach. The homeless head right in and make themselves at home]\n"
+  },
+  {
+    "input": "In the city\n[Venice Beach. The homeless head right in and make themselves at home]\n",
+    "output": "City of Venice\nRight by Matt's house\nYou can chill if you're homeless.\n[the music stops. Three homeless men sleep on the Strand and Cartman sails over them, landing on the third man and skating away]\n"
+  },
+  {
+    "input": "City of Venice\nRight by Matt's house\nYou can chill if you're homeless.\n[the music stops. Three homeless men sleep on the Strand and Cartman sails over them, landing on the third man and skating away]\n",
+    "output": "Eughuhuh.\n"
+  },
+  {
+    "input": "Eughuhuh.\n",
+    "output": "[jumps off his skateboard, throws down his helmet and exults] Yes! That's three homeless! Suck on that! Fuck yeah! [faces his friends and the bums]\n"
+  }
+]

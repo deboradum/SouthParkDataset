@@ -1,0 +1,1098 @@
+[
+  {
+    "input": "",
+    "output": "Cupid Ye\n\n[South Park Elementary. The students talk amongst themselves in the hallways. Stan, Kenny and Cartman are seen rummaging through their lockers, then Kyle and Tolkien approach them.]\n"
+  },
+  {
+    "input": "Cupid Ye\n\n[South Park Elementary. The students talk amongst themselves in the hallways. Stan, Kenny and Cartman are seen rummaging through their lockers, then Kyle and Tolkien approach them.]\n",
+    "output": "Hey, dudes.\n"
+  },
+  {
+    "input": "Hey, dudes.\n",
+    "output": "Hey, what's up?\n"
+  },
+  {
+    "input": "Hey, what's up?\n",
+    "output": "Just wondering if you guys have seen me and Tolkien's latest TikTok?\n"
+  },
+  {
+    "input": "Just wondering if you guys have seen me and Tolkien's latest TikTok?\n",
+    "output": "You guys made another TikTok?\n"
+  },
+  {
+    "input": "You guys made another TikTok?\n",
+    "output": "I think it's really our best one yet!\n"
+  },
+  {
+    "input": "I think it's really our best one yet!\n",
+    "output": "Yeah, nobody really gives a shit about your TikToks, guys. [Bebe and Red walk by.]\n"
+  },
+  {
+    "input": "Yeah, nobody really gives a shit about your TikToks, guys. [Bebe and Red walk by.]\n",
+    "output": "Hey, really great TikTok guys!\n"
+  },
+  {
+    "input": "Hey, really great TikTok guys!\n",
+    "output": "Oh, thanks!\n"
+  },
+  {
+    "input": "Oh, thanks!\n",
+    "output": "Yeah, it was pretty amazing.\n"
+  },
+  {
+    "input": "Yeah, it was pretty amazing.\n",
+    "output": "Awesome.\n"
+  },
+  {
+    "input": "Awesome.\n",
+    "output": "Well, anyway you guys gotta check it out when you get a chance. See ya later!\n"
+  },
+  {
+    "input": "Well, anyway you guys gotta check it out when you get a chance. See ya later!\n",
+    "output": "Yeah, see you guys!\n[As Kyle and Tolkien walk by, the other boys look at them, confused. Butters walks into the next frame.]\n"
+  },
+  {
+    "input": "Yeah, see you guys!\n[As Kyle and Tolkien walk by, the other boys look at them, confused. Butters walks into the next frame.]\n",
+    "output": "Hey, fellas! Loved that last TikTok!\n"
+  },
+  {
+    "input": "Hey, fellas! Loved that last TikTok!\n",
+    "output": "Thanks, Butters!\n[Playful music starts to play, and then it cuts to a TikTok video of Kyle and Tolkien. As the video plays, the two of them are seen using face filters while lip-syncing the lyrics of the song.]\n[Konnichiwa\nSayonara\nKochi, kochi, kochi\nSayonara]\n[Then, it cuts to Cartman, Stan and Kenny watching the TikTok, perplexed at what they are looking at.]\n"
+  },
+  {
+    "input": "Thanks, Butters!\n[Playful music starts to play, and then it cuts to a TikTok video of Kyle and Tolkien. As the video plays, the two of them are seen using face filters while lip-syncing the lyrics of the song.]\n[Konnichiwa\nSayonara\nKochi, kochi, kochi\nSayonara]\n[Then, it cuts to Cartman, Stan and Kenny watching the TikTok, perplexed at what they are looking at.]\n",
+    "output": "What the fuck is this? Seriously, what the fuck is this? Have you guys noticed that Kyle and Tolkien are, like, doing everything together lately?\n"
+  },
+  {
+    "input": "What the fuck is this? Seriously, what the fuck is this? Have you guys noticed that Kyle and Tolkien are, like, doing everything together lately?\n",
+    "output": "Yeah, they're quite the little team, aren't they?\n[The frame cuts to Tolkien and Kyle together, with Kyle recording Tolkien playing with a tetherball. Stan sees this and looks sad.]\n"
+  },
+  {
+    "input": "Yeah, they're quite the little team, aren't they?\n[The frame cuts to Tolkien and Kyle together, with Kyle recording Tolkien playing with a tetherball. Stan sees this and looks sad.]\n",
+    "output": "I, uh... I'm gonna go inside, guys. I'm gonna get some homework done. [He walks away.]\n"
+  },
+  {
+    "input": "I, uh... I'm gonna go inside, guys. I'm gonna get some homework done. [He walks away.]\n",
+    "output": "Wow. I feel really bad for Stan. It's gotta be hard to suddenly have your best friend always hanging with someone else.\n"
+  },
+  {
+    "input": "Wow. I feel really bad for Stan. It's gotta be hard to suddenly have your best friend always hanging with someone else.\n",
+    "output": "(Yeah.)\n"
+  },
+  {
+    "input": "(Yeah.)\n",
+    "output": "I gotta see if there's some way I can help. There's a little voice inside of me that can't stand to see my friend suffer.\n"
+  },
+  {
+    "input": "I gotta see if there's some way I can help. There's a little voice inside of me that can't stand to see my friend suffer.\n",
+    "output": "(What are you gonna do?)\n"
+  },
+  {
+    "input": "(What are you gonna do?)\n",
+    "output": "I'm gonna be a good Christian.\n[Music Room. The kids are practicing with their instruments, although their perfomance is much to be desired.]\n"
+  },
+  {
+    "input": "I'm gonna be a good Christian.\n[Music Room. The kids are practicing with their instruments, although their perfomance is much to be desired.]\n",
+    "output": "Okay, just the woodwinds for this section.\n[The woodwinds section plays, poorly... The frame cuts to Cartman walking over to Tolkien, shoving a student away from their seat so he can sit down next to him.]\n"
+  },
+  {
+    "input": "Okay, just the woodwinds for this section.\n[The woodwinds section plays, poorly... The frame cuts to Cartman walking over to Tolkien, shoving a student away from their seat so he can sit down next to him.]\n",
+    "output": "Hey, Tolkien! What's goin' on?\n"
+  },
+  {
+    "input": "Hey, Tolkien! What's goin' on?\n",
+    "output": "This is the brass section.\n"
+  },
+  {
+    "input": "This is the brass section.\n",
+    "output": "Yeah, I know. I was just - I was noticing that you're kind of hanging out a lot with Kyle lately.\n"
+  },
+  {
+    "input": "Yeah, I know. I was just - I was noticing that you're kind of hanging out a lot with Kyle lately.\n",
+    "output": "Is there a problem with that?\n"
+  },
+  {
+    "input": "Is there a problem with that?\n",
+    "output": "No, I think it's amazing. It's awesome that someone like you could be okay with someone like him, given all the new information lately.\n[Tolkien tries to continue playing his trumpet, in an attempt to ignore Cartman.]\n"
+  },
+  {
+    "input": "No, I think it's amazing. It's awesome that someone like you could be okay with someone like him, given all the new information lately.\n[Tolkien tries to continue playing his trumpet, in an attempt to ignore Cartman.]\n",
+    "output": "You know, the stuff that's come out about how the Jews stole the black race's identity, that the lost tribes of Judah were actually all Africans. [He plays his clarinet, poorly.] You didn't hear about this? Black people are actually the Jews and people like Kyle have taken that from them?\n"
+  },
+  {
+    "input": "You know, the stuff that's come out about how the Jews stole the black race's identity, that the lost tribes of Judah were actually all Africans. [He plays his clarinet, poorly.] You didn't hear about this? Black people are actually the Jews and people like Kyle have taken that from them?\n",
+    "output": "[Visibily annoyed] Stop talking to me.\n"
+  },
+  {
+    "input": "[Visibily annoyed] Stop talking to me.\n",
+    "output": "When the Jews came to America to escape persecution in World War II, they found that Blacks were already the underclass in America, so they had to invent a story for themselves which they can make everyone believe... [The music in the room comes to a sudden stop] ...because Kyle runs Hollywood!\n[The room goes silent. Everyone in the classroom looks at Tolkien and Cartman.]\n"
+  },
+  {
+    "input": "When the Jews came to America to escape persecution in World War II, they found that Blacks were already the underclass in America, so they had to invent a story for themselves which they can make everyone believe... [The music in the room comes to a sudden stop] ...because Kyle runs Hollywood!\n[The room goes silent. Everyone in the classroom looks at Tolkien and Cartman.]\n",
+    "output": "[quietly] Kyle runs Hollywood, Tolkien.\n[The bells rings and the class is dismissed. Tolkien stops for a moment to think, and then walks away. Cartman smiles to himself.]\n[Cafeteria. Stan is sitting by himself, fiddling with his school lunch. Moments later, Kenny and Cartman sit with him.]\n"
+  },
+  {
+    "input": "[quietly] Kyle runs Hollywood, Tolkien.\n[The bells rings and the class is dismissed. Tolkien stops for a moment to think, and then walks away. Cartman smiles to himself.]\n[Cafeteria. Stan is sitting by himself, fiddling with his school lunch. Moments later, Kenny and Cartman sit with him.]\n",
+    "output": "Hey, Stan. Guess what? I have some good news for you.\n"
+  },
+  {
+    "input": "Hey, Stan. Guess what? I have some good news for you.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "A little magic fairy told me that you and Kyle are gonna get back together soon.\n"
+  },
+  {
+    "input": "A little magic fairy told me that you and Kyle are gonna get back together soon.\n",
+    "output": "I don't care that Kyle is making TikToks with Tolkien.\n"
+  },
+  {
+    "input": "I don't care that Kyle is making TikToks with Tolkien.\n",
+    "output": "Yes, you do. But don't worry, Stan. It's almost Valentine's Day. And the little angel on my shoulder says that Kyle is gonna come running back to you any minute!\n[Just as Cartman predicted, Kyle walks in, much to Stan's surprise.]\n"
+  },
+  {
+    "input": "Yes, you do. But don't worry, Stan. It's almost Valentine's Day. And the little angel on my shoulder says that Kyle is gonna come running back to you any minute!\n[Just as Cartman predicted, Kyle walks in, much to Stan's surprise.]\n",
+    "output": "Hey, Stan.\n"
+  },
+  {
+    "input": "Hey, Stan.\n",
+    "output": "Oh! Hey, Kyle.\n"
+  },
+  {
+    "input": "Oh! Hey, Kyle.\n",
+    "output": "(Woah.)\n"
+  },
+  {
+    "input": "(Woah.)\n",
+    "output": "Uh-huh.\n"
+  },
+  {
+    "input": "Uh-huh.\n",
+    "output": "Well, dude, do you wanna sit down?\n"
+  },
+  {
+    "input": "Well, dude, do you wanna sit down?\n",
+    "output": "Oh, no sorry. I was actually just seeing if you had a phone charger I could borrow. Me and Tolkien are making another TikTok video and my stupid phone died!\n"
+  },
+  {
+    "input": "Oh, no sorry. I was actually just seeing if you had a phone charger I could borrow. Me and Tolkien are making another TikTok video and my stupid phone died!\n",
+    "output": "[dissapointedly] Oh, yeah, sure...\n[As Stan looks through his stuff to find a phone charger, Kenny and Cartman are left without much to say.]\n"
+  },
+  {
+    "input": "[dissapointedly] Oh, yeah, sure...\n[As Stan looks through his stuff to find a phone charger, Kenny and Cartman are left without much to say.]\n",
+    "output": "Thanks, dude! [walks away] Tolkien, I got one, dude!\n[After Kyle leaves, Stan looks down sadly.]\n"
+  },
+  {
+    "input": "Thanks, dude! [walks away] Tolkien, I got one, dude!\n[After Kyle leaves, Stan looks down sadly.]\n",
+    "output": "The fuck is going on?\n"
+  },
+  {
+    "input": "The fuck is going on?\n",
+    "output": "Well... um, I'm gonna head back to class, guys. [He takes his food tray and leaves the table, looking down sadly.]\n"
+  },
+  {
+    "input": "Well... um, I'm gonna head back to class, guys. [He takes his food tray and leaves the table, looking down sadly.]\n",
+    "output": "I don't get it. The little cupid is always right.\n"
+  },
+  {
+    "input": "I don't get it. The little cupid is always right.\n",
+    "output": "(Well, not this time.) [walks away]\n"
+  },
+  {
+    "input": "(Well, not this time.) [walks away]\n",
+    "output": "Why didn't Tolkien listen?\n[Then, harps begin to play as \"Cupid Ye\" appears next to Cartman.]\n"
+  },
+  {
+    "input": "Why didn't Tolkien listen?\n[Then, harps begin to play as \"Cupid Ye\" appears next to Cartman.]\n",
+    "output": "Did you tell him about the Black Hebrew tribes?\n"
+  },
+  {
+    "input": "Did you tell him about the Black Hebrew tribes?\n",
+    "output": "Yeah, I told him everything, Cupid Ye!\n"
+  },
+  {
+    "input": "Yeah, I told him everything, Cupid Ye!\n",
+    "output": "Tee hee hee! [he takes off his shades] And did you tell him how the Jews stole Black people's identity?\n"
+  },
+  {
+    "input": "Tee hee hee! [he takes off his shades] And did you tell him how the Jews stole Black people's identity?\n",
+    "output": "Yeah, but it didn't work, Cupid Ye.\n"
+  },
+  {
+    "input": "Yeah, but it didn't work, Cupid Ye.\n",
+    "output": "That's okay, Eric! Remember, being a good Christian means helping people even when it's hard.\n"
+  },
+  {
+    "input": "That's okay, Eric! Remember, being a good Christian means helping people even when it's hard.\n",
+    "output": "You're right, Cupid Ye. Can you help make sure Tolkien hears our message?\n"
+  },
+  {
+    "input": "You're right, Cupid Ye. Can you help make sure Tolkien hears our message?\n",
+    "output": "Spreading information is like spreading love. I'll help you get the word out, Eric! Tee hee hee! Tee hee heeeee!\n[Some time later. Tolkien and Kyle are watching their newest TikTok. It's them dancing to the song \"Pretty Girls Walk\" by Big Boss Bette.]\n"
+  },
+  {
+    "input": "Spreading information is like spreading love. I'll help you get the word out, Eric! Tee hee hee! Tee hee heeeee!\n[Some time later. Tolkien and Kyle are watching their newest TikTok. It's them dancing to the song \"Pretty Girls Walk\" by Big Boss Bette.]\n",
+    "output": "Wow, that's so cool, Tolkien! Look how many likes we're getting for this one.\n[Clyde and Scott walk into frame and approach Kyle and Tolkien.]\n"
+  },
+  {
+    "input": "Wow, that's so cool, Tolkien! Look how many likes we're getting for this one.\n[Clyde and Scott walk into frame and approach Kyle and Tolkien.]\n",
+    "output": "Hey, Kyle, you got a minute?\n"
+  },
+  {
+    "input": "Hey, Kyle, you got a minute?\n",
+    "output": "Yeah, what's up?\n"
+  },
+  {
+    "input": "Yeah, what's up?\n",
+    "output": "Well, there's this rumor starting to go around the school. Kids are saying that, like... I don't know, that, like, you run Hollywood?\n"
+  },
+  {
+    "input": "Well, there's this rumor starting to go around the school. Kids are saying that, like... I don't know, that, like, you run Hollywood?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I told Scott that that's just people being dumb and he shouldn't listen to stuff like that. [beat] But... Scott and I do have this sweet movie idea about a dude who has guns for hands and we have the first 20 pages written, so... [another beat] You don't really run Hollywood, right?\n"
+  },
+  {
+    "input": "I told Scott that that's just people being dumb and he shouldn't listen to stuff like that. [beat] But... Scott and I do have this sweet movie idea about a dude who has guns for hands and we have the first 20 pages written, so... [another beat] You don't really run Hollywood, right?\n",
+    "output": "[angrily] I'm not even going to justify that with a response. Because repeating a derogatory slur, even for the purpose of refuting it, can make stupid people think it's valid! [he storms off]\n"
+  },
+  {
+    "input": "[angrily] I'm not even going to justify that with a response. Because repeating a derogatory slur, even for the purpose of refuting it, can make stupid people think it's valid! [he storms off]\n",
+    "output": "Holy shit, Kyle runs Hollywood...\n"
+  },
+  {
+    "input": "Holy shit, Kyle runs Hollywood...\n",
+    "output": "Kyle runs Hollywood, and you fucked up the pitch!\n"
+  },
+  {
+    "input": "Kyle runs Hollywood, and you fucked up the pitch!\n",
+    "output": "How'd I fuck up the pitch?!\n"
+  },
+  {
+    "input": "How'd I fuck up the pitch?!\n",
+    "output": "You gotta tell him what the stakes are. People who make movies, they just care about the stakes!\n"
+  },
+  {
+    "input": "You gotta tell him what the stakes are. People who make movies, they just care about the stakes!\n",
+    "output": "The guy has guns for hands!\n[PC Principal's office. Cartman and Kyle are sitting down, as Kyle has his arms crossed and looks away angrily.]\n"
+  },
+  {
+    "input": "The guy has guns for hands!\n[PC Principal's office. Cartman and Kyle are sitting down, as Kyle has his arms crossed and looks away angrily.]\n",
+    "output": "Mr. Cartman, did you or did you not tell students at this school that Kyle runs Hollywood?\n"
+  },
+  {
+    "input": "Mr. Cartman, did you or did you not tell students at this school that Kyle runs Hollywood?\n",
+    "output": "I think... I did say that, yes.\n"
+  },
+  {
+    "input": "I think... I did say that, yes.\n",
+    "output": "And why would you say such an intolerant, offensive thing like that?!\n"
+  },
+  {
+    "input": "And why would you say such an intolerant, offensive thing like that?!\n",
+    "output": "Somebody runs Hollywood.\n"
+  },
+  {
+    "input": "Somebody runs Hollywood.\n",
+    "output": "Lots of people run Hollywood!!\n"
+  },
+  {
+    "input": "Lots of people run Hollywood!!\n",
+    "output": "Yes, lots of... people like Kyle.\n"
+  },
+  {
+    "input": "Yes, lots of... people like Kyle.\n",
+    "output": "Mr. Cartman, you are on dangerous frickin ground here, buddy!\n"
+  },
+  {
+    "input": "Mr. Cartman, you are on dangerous frickin ground here, buddy!\n",
+    "output": "I'm sorry, why is it so offensive to say who runs Hollywood? People like Hollywood. Hollywood's cool. The Jews should be honored to be in charge of it.\n"
+  },
+  {
+    "input": "I'm sorry, why is it so offensive to say who runs Hollywood? People like Hollywood. Hollywood's cool. The Jews should be honored to be in charge of it.\n",
+    "output": "Hey! I am telling you right now, Eric. The next time anyone says anything about Kyle running Hollywood, that person is gonna have two months detention!\n"
+  },
+  {
+    "input": "Hey! I am telling you right now, Eric. The next time anyone says anything about Kyle running Hollywood, that person is gonna have two months detention!\n",
+    "output": "Two months?! Jesus, Mary mother full of grace... You guys really take this seriously.\n[Cartman's hot dog house. Nighttime. Cartman peeks over to check if his mother is sleeping. He closes his door and walks over to a table with a lit candle and kneels down in prayer.]\n"
+  },
+  {
+    "input": "Two months?! Jesus, Mary mother full of grace... You guys really take this seriously.\n[Cartman's hot dog house. Nighttime. Cartman peeks over to check if his mother is sleeping. He closes his door and walks over to a table with a lit candle and kneels down in prayer.]\n",
+    "output": "Please help me be the best Christian I can be. All I want is to help people, but nobody understands. Please, I can't do this alone.\n[Harps begin to play. It's Cupid Ye again.]\n"
+  },
+  {
+    "input": "Please help me be the best Christian I can be. All I want is to help people, but nobody understands. Please, I can't do this alone.\n[Harps begin to play. It's Cupid Ye again.]\n",
+    "output": "Tee hee hee!\n"
+  },
+  {
+    "input": "Tee hee hee!\n",
+    "output": "There you are, Cupid Ye!\n"
+  },
+  {
+    "input": "There you are, Cupid Ye!\n",
+    "output": "Sorry, Eric, I was just busy praising our Savior's name in the music studio!\n"
+  },
+  {
+    "input": "Sorry, Eric, I was just busy praising our Savior's name in the music studio!\n",
+    "output": "The principal said I can't talk about Kyle running Hollywood anymore, Cupid Ye!\n"
+  },
+  {
+    "input": "The principal said I can't talk about Kyle running Hollywood anymore, Cupid Ye!\n",
+    "output": "Well, of course, Eric! They're trying to silence you! That's what they do.\n"
+  },
+  {
+    "input": "Well, of course, Eric! They're trying to silence you! That's what they do.\n",
+    "output": "Who's \"they\"? Oh, right... \"them\".\n"
+  },
+  {
+    "input": "Who's \"they\"? Oh, right... \"them\".\n",
+    "output": "Tee hee hee! Jews!\n"
+  },
+  {
+    "input": "Tee hee hee! Jews!\n",
+    "output": "But Cupid Ye, I have to get to Tolkien or else Stan is gonna be sad forever!\n"
+  },
+  {
+    "input": "But Cupid Ye, I have to get to Tolkien or else Stan is gonna be sad forever!\n",
+    "output": "Okay! I'll help you help your friend however I can. You're such a good Christian, Eric.\n"
+  },
+  {
+    "input": "Okay! I'll help you help your friend however I can. You're such a good Christian, Eric.\n",
+    "output": "Thanks. Just, don't do anything too drastic, okay?\n"
+  },
+  {
+    "input": "Thanks. Just, don't do anything too drastic, okay?\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "I dunno, it's just... ever since you changed your name and got all into Jesus, you've been acting a bit bat shit crazy, Cupid Ye.\n"
+  },
+  {
+    "input": "I dunno, it's just... ever since you changed your name and got all into Jesus, you've been acting a bit bat shit crazy, Cupid Ye.\n",
+    "output": "Tee hee hee! Don't worry, Eric! I'm gonna make everything better! [he flies away]\n[Credigree Weed. Cupid Ye is seen flying to the resident.]\n"
+  },
+  {
+    "input": "Tee hee hee! Don't worry, Eric! I'm gonna make everything better! [he flies away]\n[Credigree Weed. Cupid Ye is seen flying to the resident.]\n",
+    "output": "Praiiiise Jesus!\n[Tolkien's bedroom. Tolkien is sound asleep. Cupid Ye barges inside through the window.]\n"
+  },
+  {
+    "input": "Praiiiise Jesus!\n[Tolkien's bedroom. Tolkien is sound asleep. Cupid Ye barges inside through the window.]\n",
+    "output": "Tee hee! Tee hee hee hee hee! [he approaches Tolkien and whispers to him] The true Jews of Israel are your Black ancestors... Tee hee hee...\n"
+  },
+  {
+    "input": "Tee hee! Tee hee hee hee hee! [he approaches Tolkien and whispers to him] The true Jews of Israel are your Black ancestors... Tee hee hee...\n",
+    "output": "[in his sleep] Huh...?\n"
+  },
+  {
+    "input": "[in his sleep] Huh...?\n",
+    "output": "You think you and Kyle make TikToks together? Kyle only cares about money. Tee hee hee...\n"
+  },
+  {
+    "input": "You think you and Kyle make TikToks together? Kyle only cares about money. Tee hee hee...\n",
+    "output": "[mumbling] Mmmm...?\n"
+  },
+  {
+    "input": "[mumbling] Mmmm...?\n",
+    "output": "Think about it. Are you really making TikToks together, or is Kyle profiting off of you?\n[Outside of Tolkien's bedroom. Steve is walking by the hallway, looking at his phone. \"Cupid Ye\" continues his speech, and he hears this and stops.]\n"
+  },
+  {
+    "input": "Think about it. Are you really making TikToks together, or is Kyle profiting off of you?\n[Outside of Tolkien's bedroom. Steve is walking by the hallway, looking at his phone. \"Cupid Ye\" continues his speech, and he hears this and stops.]\n",
+    "output": "It's just like the tribes of Israel. Kyle wants to take all the credit for what you're doing.\n[Steve opens the bedroom door.]\n"
+  },
+  {
+    "input": "It's just like the tribes of Israel. Kyle wants to take all the credit for what you're doing.\n[Steve opens the bedroom door.]\n",
+    "output": "Tolkien?\n[The scene cuts to what seems like Cartman in a disguise rushing out of Tolkien's bedroom through the window. He struggles, but is successful in escaping.]\n"
+  },
+  {
+    "input": "Tolkien?\n[The scene cuts to what seems like Cartman in a disguise rushing out of Tolkien's bedroom through the window. He struggles, but is successful in escaping.]\n",
+    "output": "Oh, Jesus!\n[South Park Elementary. The next day. Kyle is walking through the hallways and sees other students muttering to themselves. He stops by Tolkien's locker to talk with him.]\n"
+  },
+  {
+    "input": "Oh, Jesus!\n[South Park Elementary. The next day. Kyle is walking through the hallways and sees other students muttering to themselves. He stops by Tolkien's locker to talk with him.]\n",
+    "output": "Hey, I didn't see you at the playground. Thought we were doing that morning TikTok.\n"
+  },
+  {
+    "input": "Hey, I didn't see you at the playground. Thought we were doing that morning TikTok.\n",
+    "output": "Oh yeah, sorry. I didn't get the best sleep last night.\n"
+  },
+  {
+    "input": "Oh yeah, sorry. I didn't get the best sleep last night.\n",
+    "output": "Everything okay?\n[Jimmy walks up to Kyle and Tolkien.]\n"
+  },
+  {
+    "input": "Everything okay?\n[Jimmy walks up to Kyle and Tolkien.]\n",
+    "output": "Hey, Kyle! How's it going, man?\n"
+  },
+  {
+    "input": "Hey, Kyle! How's it going, man?\n",
+    "output": "Good, Jimmy. How are you?\n"
+  },
+  {
+    "input": "Good, Jimmy. How are you?\n",
+    "output": "Great! F-F-Fantastic!\n[Beat.]\n"
+  },
+  {
+    "input": "Great! F-F-Fantastic!\n[Beat.]\n",
+    "output": "Is there something you wanted, Jimmy?\n"
+  },
+  {
+    "input": "Is there something you wanted, Jimmy?\n",
+    "output": "Oh, yeah! I just realized I've never given you my headshot! [he hands Kyle a picture of himself] You know, just in case anything ever comes up.\n"
+  },
+  {
+    "input": "Oh, yeah! I just realized I've never given you my headshot! [he hands Kyle a picture of himself] You know, just in case anything ever comes up.\n",
+    "output": "Anything like what?\n"
+  },
+  {
+    "input": "Anything like what?\n",
+    "output": "Anything like... Anything you might need my headshot for.\n"
+  },
+  {
+    "input": "Anything like... Anything you might need my headshot for.\n",
+    "output": "[frustrated] Jimmy, I do not run Hollywood!\n"
+  },
+  {
+    "input": "[frustrated] Jimmy, I do not run Hollywood!\n",
+    "output": "Well, that's not what everyone's saying.\n"
+  },
+  {
+    "input": "Well, that's not what everyone's saying.\n",
+    "output": "[louder] Everyone! I do not run Hollywood! Get a fucking clue!\n[Everyone else leaves, except for Tolkien.]\n"
+  },
+  {
+    "input": "[louder] Everyone! I do not run Hollywood! Get a fucking clue!\n[Everyone else leaves, except for Tolkien.]\n",
+    "output": "God dammit! This thing has gotten out of control!\n"
+  },
+  {
+    "input": "God dammit! This thing has gotten out of control!\n",
+    "output": "Ah, it's not a big deal.\n"
+  },
+  {
+    "input": "Ah, it's not a big deal.\n",
+    "output": "It's a huge deal! It's an attack on my ethnicity, Tolkien! You don't understand!\n"
+  },
+  {
+    "input": "It's a huge deal! It's an attack on my ethnicity, Tolkien! You don't understand!\n",
+    "output": "I don't understand?\n"
+  },
+  {
+    "input": "I don't understand?\n",
+    "output": "Yeah, Tolkien. There's lots of Black people in the NBA, but nobody says, \"The NBA is run by Black people!\"\n"
+  },
+  {
+    "input": "Yeah, Tolkien. There's lots of Black people in the NBA, but nobody says, \"The NBA is run by Black people!\"\n",
+    "output": "That's because the NBA is run by white people!\n"
+  },
+  {
+    "input": "That's because the NBA is run by white people!\n",
+    "output": "Okay, yeah good point.\n"
+  },
+  {
+    "input": "Okay, yeah good point.\n",
+    "output": "Look, I'm sorry. You wanna just go make that morning TikTok?\n"
+  },
+  {
+    "input": "Look, I'm sorry. You wanna just go make that morning TikTok?\n",
+    "output": "Yeah, sure. We still have time.\n"
+  },
+  {
+    "input": "Yeah, sure. We still have time.\n",
+    "output": "Cool, come on!\n[Kyle and Tolkien both walk away. The camera pans to Stan, Cartman and Kenny sitting by the stairs, watching them. Stan looks sad, and grabs his backpack as he starts to leave.]\n"
+  },
+  {
+    "input": "Cool, come on!\n[Kyle and Tolkien both walk away. The camera pans to Stan, Cartman and Kenny sitting by the stairs, watching them. Stan looks sad, and grabs his backpack as he starts to leave.]\n",
+    "output": "Stan? Sometimes, Jesus works slowly.\n"
+  },
+  {
+    "input": "Stan? Sometimes, Jesus works slowly.\n",
+    "output": "Stop talking to me. [he leaves]\n[The Broflovski residency. Randy walks up to the front door and rings the doorbell. Gerald answers.]\n"
+  },
+  {
+    "input": "Stop talking to me. [he leaves]\n[The Broflovski residency. Randy walks up to the front door and rings the doorbell. Gerald answers.]\n",
+    "output": "Hey, Ger. You got a minute to talk?\n"
+  },
+  {
+    "input": "Hey, Ger. You got a minute to talk?\n",
+    "output": "Yeah, what's up, Randy?\n[The kitchen. Gerald and Randy are having a cup coffee as they begin their conversation.]\n"
+  },
+  {
+    "input": "Yeah, what's up, Randy?\n[The kitchen. Gerald and Randy are having a cup coffee as they begin their conversation.]\n",
+    "output": "Look, I - I know that boys will be boys and as parents, we can't always control what their personal decisions are.\n"
+  },
+  {
+    "input": "Look, I - I know that boys will be boys and as parents, we can't always control what their personal decisions are.\n",
+    "output": "No, of course not.\n"
+  },
+  {
+    "input": "No, of course not.\n",
+    "output": "I just want you to know first off that... your son is a great kid. You know, Stan and Kyle have always been really close, and I know their friendship meant so much.\n"
+  },
+  {
+    "input": "I just want you to know first off that... your son is a great kid. You know, Stan and Kyle have always been really close, and I know their friendship meant so much.\n",
+    "output": "What's happened, Randy?\n"
+  },
+  {
+    "input": "What's happened, Randy?\n",
+    "output": "[Kyle listens to the conversation from the living room. Randy exhales.] Well Gerald, I don\u2019t know if you can just talk to your son but\u2026 can we just admit this whole woke thing isn\u2019t working?\n"
+  },
+  {
+    "input": "[Kyle listens to the conversation from the living room. Randy exhales.] Well Gerald, I don\u2019t know if you can just talk to your son but\u2026 can we just admit this whole woke thing isn\u2019t working?\n",
+    "output": "Woke thing?\n"
+  },
+  {
+    "input": "Woke thing?\n",
+    "output": "I mean, it\u2019s been great in so many ways, but\u2026 now it\u2019s like every movie and every TV show. You know it\u2019s like you can see through it now. Audiences want to be entertained. They don\u2019t want to be preached at, and if you\u2019re just doing shows and movies that have an agenda, it\u2019s like-- it\u2019s just going to keep failing.\n"
+  },
+  {
+    "input": "I mean, it\u2019s been great in so many ways, but\u2026 now it\u2019s like every movie and every TV show. You know it\u2019s like you can see through it now. Audiences want to be entertained. They don\u2019t want to be preached at, and if you\u2019re just doing shows and movies that have an agenda, it\u2019s like-- it\u2019s just going to keep failing.\n",
+    "output": "Randy, what are you talking about?\n"
+  },
+  {
+    "input": "Randy, what are you talking about?\n",
+    "output": "Box office is down, people are tuning out. You know it\u2019s what killed the Marvel franchise. And just as a side note, I\u2019m gonna say it out loud: \u201cAvatar 2\u201d sucked. It just sucked, Gerald. Someone had to be brave enough to say it.\n"
+  },
+  {
+    "input": "Box office is down, people are tuning out. You know it\u2019s what killed the Marvel franchise. And just as a side note, I\u2019m gonna say it out loud: \u201cAvatar 2\u201d sucked. It just sucked, Gerald. Someone had to be brave enough to say it.\n",
+    "output": "[Kyle walks into the kitchen angered.]God dammit! I do not fucking run Hollywood!\n"
+  },
+  {
+    "input": "[Kyle walks into the kitchen angered.]God dammit! I do not fucking run Hollywood!\n",
+    "output": "Gerald, can you talk to him?\n"
+  },
+  {
+    "input": "Gerald, can you talk to him?\n",
+    "output": "Kyle, what is he talking about?\n"
+  },
+  {
+    "input": "Kyle, what is he talking about?\n",
+    "output": "He\u2019s just being an idiot and listening to what fucking Eric Cartman said!\n"
+  },
+  {
+    "input": "He\u2019s just being an idiot and listening to what fucking Eric Cartman said!\n",
+    "output": "I did not hear it from Eric Cartman. I heard it from a prominent, respected artist on television.\n"
+  },
+  {
+    "input": "I did not hear it from Eric Cartman. I heard it from a prominent, respected artist on television.\n",
+    "output": "Who?!\n[A news television set, a female anchor sits along a Cartman hiding his identity.]\n"
+  },
+  {
+    "input": "Who?!\n[A news television set, a female anchor sits along a Cartman hiding his identity.]\n",
+    "output": "Our next guest is a world famous rapper and artist who claims that the Jews run Hollywood. What exactly do you mean by that?\n"
+  },
+  {
+    "input": "Our next guest is a world famous rapper and artist who claims that the Jews run Hollywood. What exactly do you mean by that?\n",
+    "output": "Well, mostly I just mean that Jews control everything we see on TV and the movies.\n"
+  },
+  {
+    "input": "Well, mostly I just mean that Jews control everything we see on TV and the movies.\n",
+    "output": "And why do you not want to show your face right now?\n"
+  },
+  {
+    "input": "And why do you not want to show your face right now?\n",
+    "output": "Well, that\u2019s \u2018cause there\u2019s this one Jew -- um, his name is Kyle. And he can totally retaliate me, \u2018cause he like, runs Hollywood.\n"
+  },
+  {
+    "input": "Well, that\u2019s \u2018cause there\u2019s this one Jew -- um, his name is Kyle. And he can totally retaliate me, \u2018cause he like, runs Hollywood.\n",
+    "output": "[Cupid Ye flies up to Cartman\u2019s shoulder holding a bible, also hiding his identity.] Yeah, and Jews try to silence people all the time. Yeah, especially black people.\n"
+  },
+  {
+    "input": "[Cupid Ye flies up to Cartman\u2019s shoulder holding a bible, also hiding his identity.] Yeah, and Jews try to silence people all the time. Yeah, especially black people.\n",
+    "output": "Yeah, especially black people.\n[Tolkien\u2019s house, Tolkien is watching the interview on the living room\u2019s TV.]\n"
+  },
+  {
+    "input": "Yeah, especially black people.\n[Tolkien\u2019s house, Tolkien is watching the interview on the living room\u2019s TV.]\n",
+    "output": "[Cartman keeps talking on the TV while Tolkien watches.] That\u2019s because of all the new information lately. The new information about how the chosen people were actually Africans.\n"
+  },
+  {
+    "input": "[Cartman keeps talking on the TV while Tolkien watches.] That\u2019s because of all the new information lately. The new information about how the chosen people were actually Africans.\n",
+    "output": "[Back at the new\u2019s station.] So, you know, black people have really been hurt by the Jews.\n"
+  },
+  {
+    "input": "[Back at the new\u2019s station.] So, you know, black people have really been hurt by the Jews.\n",
+    "output": "Yeah, so Hitler actually wasn\u2019t a bad guy.\n"
+  },
+  {
+    "input": "Yeah, so Hitler actually wasn\u2019t a bad guy.\n",
+    "output": "Yeah, so-- woah, woah, Cupid Ye. That\u2019s going a bit too far. He\u2019s just trying to be shocking.\n"
+  },
+  {
+    "input": "Yeah, so-- woah, woah, Cupid Ye. That\u2019s going a bit too far. He\u2019s just trying to be shocking.\n",
+    "output": "[Back at Tolkien\u2019s living room.] What are you watching, honey?\n"
+  },
+  {
+    "input": "[Back at Tolkien\u2019s living room.] What are you watching, honey?\n",
+    "output": "I have no idea.\n[South Park\u2019s townpark, Tolkien and Kyle are recording a new TikTok. TikTok interface on the screen as Tolkien and Kyle are recorded.]\n"
+  },
+  {
+    "input": "I have no idea.\n[South Park\u2019s townpark, Tolkien and Kyle are recording a new TikTok. TikTok interface on the screen as Tolkien and Kyle are recorded.]\n",
+    "output": "[With a high pitched playback voice.]\nMommy?\n"
+  },
+  {
+    "input": "[With a high pitched playback voice.]\nMommy?\n",
+    "output": "[With a high pitched playback voice.]\nWhat is it, Caillou?\n"
+  },
+  {
+    "input": "[With a high pitched playback voice.]\nWhat is it, Caillou?\n",
+    "output": "[With a high pitched playback voice.]\nCan I get Roblox on my Xbox?\n"
+  },
+  {
+    "input": "[With a high pitched playback voice.]\nCan I get Roblox on my Xbox?\n",
+    "output": "[With a high pitched playback voice.]\nSure thing, Caillou, as long as it\u2019s free.\n"
+  },
+  {
+    "input": "[With a high pitched playback voice.]\nSure thing, Caillou, as long as it\u2019s free.\n",
+    "output": "[With a high pitched playback voice.]\nOh for sure it is for free.\n"
+  },
+  {
+    "input": "[With a high pitched playback voice.]\nOh for sure it is for free.\n",
+    "output": "Okay, wait, wait, cut. Hang on. [Out of the TikTok interface.] Let\u2019s try again. I think you forgot the words.\n"
+  },
+  {
+    "input": "Okay, wait, wait, cut. Hang on. [Out of the TikTok interface.] Let\u2019s try again. I think you forgot the words.\n",
+    "output": "Yeah, sorry. I\u2019m just tired. I didn\u2019t get the best sleep last night. Maybe I should do the mom part.\n"
+  },
+  {
+    "input": "Yeah, sorry. I\u2019m just tired. I didn\u2019t get the best sleep last night. Maybe I should do the mom part.\n",
+    "output": "Nah, you do the kid part. It\u2019s funnier.\n"
+  },
+  {
+    "input": "Nah, you do the kid part. It\u2019s funnier.\n",
+    "output": "Okay, yeah. I guess you call the shots.\n"
+  },
+  {
+    "input": "Okay, yeah. I guess you call the shots.\n",
+    "output": "What\u2019s that supposed to mean?\n"
+  },
+  {
+    "input": "What\u2019s that supposed to mean?\n",
+    "output": "Just means you\u2019re in charge.\n"
+  },
+  {
+    "input": "Just means you\u2019re in charge.\n",
+    "output": "Oh, I\u2019m in charge. Like I, control things? Huh, are you gonna start saying I run Hollywood now too?\n"
+  },
+  {
+    "input": "Oh, I\u2019m in charge. Like I, control things? Huh, are you gonna start saying I run Hollywood now too?\n",
+    "output": "I didn\u2019t say you run Hollywood And honestly, I\u2019m getting kind of sick of hearing it.\n"
+  },
+  {
+    "input": "I didn\u2019t say you run Hollywood And honestly, I\u2019m getting kind of sick of hearing it.\n",
+    "output": "You\u2019re sick of hearing it?\n"
+  },
+  {
+    "input": "You\u2019re sick of hearing it?\n",
+    "output": "Yeah, I\u2019m sick of hearing it.\n"
+  },
+  {
+    "input": "Yeah, I\u2019m sick of hearing it.\n",
+    "output": "[Cartman creeps up from the bushes.] Oh my God, are you listening to yourself? You of all people should have some compassion!\n"
+  },
+  {
+    "input": "[Cartman creeps up from the bushes.] Oh my God, are you listening to yourself? You of all people should have some compassion!\n",
+    "output": "Oh, really? Why me of all people, Kyle?\n"
+  },
+  {
+    "input": "Oh, really? Why me of all people, Kyle?\n",
+    "output": "[Cartman smiles at the fight from behind the bushes.] You seriously don\u2019t know why? You know that Jews have stood alongside Blacks since the Civil Rights movement began, right?\n"
+  },
+  {
+    "input": "[Cartman smiles at the fight from behind the bushes.] You seriously don\u2019t know why? You know that Jews have stood alongside Blacks since the Civil Rights movement began, right?\n",
+    "output": "What does that have to do with anything?\n"
+  },
+  {
+    "input": "What does that have to do with anything?\n",
+    "output": "I\u2019m just saying I thought you\u2019d be a better friend. \u2018Cause you\u2019re like\u2026\n"
+  },
+  {
+    "input": "I\u2019m just saying I thought you\u2019d be a better friend. \u2018Cause you\u2019re like\u2026\n",
+    "output": "\u2019Cause I\u2019m like what? Black?\n"
+  },
+  {
+    "input": "\u2019Cause I\u2019m like what? Black?\n",
+    "output": "[From behind the bushes.] Oh my God, this is so awesome.\n"
+  },
+  {
+    "input": "[From behind the bushes.] Oh my God, this is so awesome.\n",
+    "output": "Whatever, Tolkien. Now you\u2019re gonna act like I somehow did something wrong to you.\n"
+  },
+  {
+    "input": "Whatever, Tolkien. Now you\u2019re gonna act like I somehow did something wrong to you.\n",
+    "output": "No, you didn\u2019t do it to me. It just seems to work out that way all the time for you people.\n"
+  },
+  {
+    "input": "No, you didn\u2019t do it to me. It just seems to work out that way all the time for you people.\n",
+    "output": "You people?! No, it works that way for you people!\n"
+  },
+  {
+    "input": "You people?! No, it works that way for you people!\n",
+    "output": "You know what? I don\u2019t wanna make TikToks with you anymore! [Cartman jumps and celebrates from behind the bushes.]\n"
+  },
+  {
+    "input": "You know what? I don\u2019t wanna make TikToks with you anymore! [Cartman jumps and celebrates from behind the bushes.]\n",
+    "output": "[Kyle takes the tripod and prepares to leave.] I don\u2019t wanna make TikToks with you anymore!\n"
+  },
+  {
+    "input": "[Kyle takes the tripod and prepares to leave.] I don\u2019t wanna make TikToks with you anymore!\n",
+    "output": "Good!\n"
+  },
+  {
+    "input": "Good!\n",
+    "output": "Good!\n"
+  },
+  {
+    "input": "Good!\n",
+    "output": "[Both Tolkien and Kyle leave in opposite directions.] We did it. I can\u2019t believe we did it!\n"
+  },
+  {
+    "input": "[Both Tolkien and Kyle leave in opposite directions.] We did it. I can\u2019t believe we did it!\n",
+    "output": "Praise Christ! They\u2019ll probably never talk again!\n"
+  },
+  {
+    "input": "Praise Christ! They\u2019ll probably never talk again!\n",
+    "output": "And now Stan can have his best friend back.\n"
+  },
+  {
+    "input": "And now Stan can have his best friend back.\n",
+    "output": "Yeah! And we can spread our Nazi message all over the world!\n"
+  },
+  {
+    "input": "Yeah! And we can spread our Nazi message all over the world!\n",
+    "output": "Woah, woah, okay. Cupid Ye, you mean our Christian message.\n"
+  },
+  {
+    "input": "Woah, woah, okay. Cupid Ye, you mean our Christian message.\n",
+    "output": "It\u2019s the same thing! Christian message, Nazi message. Hitler was a great Christian!\n"
+  },
+  {
+    "input": "It\u2019s the same thing! Christian message, Nazi message. Hitler was a great Christian!\n",
+    "output": "Cupid Ye, are you okay? Do you need to, like, talk to somebody?\n"
+  },
+  {
+    "input": "Cupid Ye, are you okay? Do you need to, like, talk to somebody?\n",
+    "output": "I mean it! People have to die so that the better races can live.\n"
+  },
+  {
+    "input": "I mean it! People have to die so that the better races can live.\n",
+    "output": "Okay, Cupid Ye, time to go back inside.\n"
+  },
+  {
+    "input": "Okay, Cupid Ye, time to go back inside.\n",
+    "output": "[Cartman tries to catch Cupid Ye but he escapes from him while laughing.] Teehee, teeheehee, tee hee hee.\n"
+  },
+  {
+    "input": "[Cartman tries to catch Cupid Ye but he escapes from him while laughing.] Teehee, teeheehee, tee hee hee.\n",
+    "output": "C\u2019mon, let\u2019s go, Ye!\n"
+  },
+  {
+    "input": "C\u2019mon, let\u2019s go, Ye!\n",
+    "output": "I don\u2019t think so, dawg! Let\u2019s go torch some motherfuckers!\n[Cupid Ye crashes into the window of a car, the alarm of the car goes blaring. Cupid Ye wires the vehicle and begins to drive recklessly, crashing into the car parked behind it, and tires squealing towards the front.]\n"
+  },
+  {
+    "input": "I don\u2019t think so, dawg! Let\u2019s go torch some motherfuckers!\n[Cupid Ye crashes into the window of a car, the alarm of the car goes blaring. Cupid Ye wires the vehicle and begins to drive recklessly, crashing into the car parked behind it, and tires squealing towards the front.]\n",
+    "output": "Dethcon one, bitches!\n"
+  },
+  {
+    "input": "Dethcon one, bitches!\n",
+    "output": "Yeeeee! [Cupid Ye drives away, crashing into another car and taking a hard turn left.]\n"
+  },
+  {
+    "input": "Yeeeee! [Cupid Ye drives away, crashing into another car and taking a hard turn left.]\n",
+    "output": "Yeeeeeeeeee! Oh, shit.\n[Stan\u2019s room, Carman knocks on the door agitated.]\n"
+  },
+  {
+    "input": "Yeeeeeeeeee! Oh, shit.\n[Stan\u2019s room, Carman knocks on the door agitated.]\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "[Cartman barges into the room, closing the door and locking it behind him.] Stan! We aren\u2019t safe!\n"
+  },
+  {
+    "input": "[Cartman barges into the room, closing the door and locking it behind him.] Stan! We aren\u2019t safe!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "[Cartman proceeds to lock the windows, as well.] He\u2019s totally gotten crazy! I don\u2019t think I can reason with him anymore!\n"
+  },
+  {
+    "input": "[Cartman proceeds to lock the windows, as well.] He\u2019s totally gotten crazy! I don\u2019t think I can reason with him anymore!\n",
+    "output": "Reason with who?\n"
+  },
+  {
+    "input": "Reason with who?\n",
+    "output": "Stan, listen to me. There\u2019s someone who\u2019s been messing with Kyle and Tolkien. He said it was to be a good Christian, but\u2026 But I think he\u2019s just been using Christianity as an excuse to be a racist piece of shit.\n"
+  },
+  {
+    "input": "Stan, listen to me. There\u2019s someone who\u2019s been messing with Kyle and Tolkien. He said it was to be a good Christian, but\u2026 But I think he\u2019s just been using Christianity as an excuse to be a racist piece of shit.\n",
+    "output": "What did you do?\n"
+  },
+  {
+    "input": "What did you do?\n",
+    "output": "Not me, Stan! This is going to be extremely hard to believe, but\u2026 There\u2019s a little magic angel that comes each year around Valentine\u2019s Day. He spreads love and brings lonely people together. But this year is different. Cupid Me found Christ and changed his name. And I have to find a way to get him back on his meds.\n"
+  },
+  {
+    "input": "Not me, Stan! This is going to be extremely hard to believe, but\u2026 There\u2019s a little magic angel that comes each year around Valentine\u2019s Day. He spreads love and brings lonely people together. But this year is different. Cupid Me found Christ and changed his name. And I have to find a way to get him back on his meds.\n",
+    "output": "Dude, Cartman, are you okay? Do you need to, like, talk to somebody?\n"
+  },
+  {
+    "input": "Dude, Cartman, are you okay? Do you need to, like, talk to somebody?\n",
+    "output": "Stan, do you believe in Santa Claus?\n"
+  },
+  {
+    "input": "Stan, do you believe in Santa Claus?\n",
+    "output": "[Shrugs.] Yeah.\n"
+  },
+  {
+    "input": "[Shrugs.] Yeah.\n",
+    "output": "Do you believe in the Easter Bunny?\n"
+  },
+  {
+    "input": "Do you believe in the Easter Bunny?\n",
+    "output": "[Shrugs.] I guess so.\n"
+  },
+  {
+    "input": "[Shrugs.] I guess so.\n",
+    "output": "Then believe that tomorrow is Valentine\u2019s Day\u2026 and there\u2019s no telling what Cupid Ye is capable of.\n[Valentine\u2019s Day at South Park Elementary. Kids are seen exchanging Valentine\u2019s love letters in the hallways.]\n"
+  },
+  {
+    "input": "Then believe that tomorrow is Valentine\u2019s Day\u2026 and there\u2019s no telling what Cupid Ye is capable of.\n[Valentine\u2019s Day at South Park Elementary. Kids are seen exchanging Valentine\u2019s love letters in the hallways.]\n",
+    "output": "[Butters is giving love letters to some of the students.] Happy Valentine\u2019s Day, Clyde! Here\u2019s a Valentine for you, Red!\n"
+  },
+  {
+    "input": "[Butters is giving love letters to some of the students.] Happy Valentine\u2019s Day, Clyde! Here\u2019s a Valentine for you, Red!\n",
+    "output": "Ah, Valentine\u2019s Day. Isn\u2019t it nice? Love is in the air!\n[School\u2019s bathroom. A close up to Cupid Ye\u2019s hands as he\u2019s preparing his different arrows. Cupid Ye had decorated the bathrooms as an altar to Hitler. \u201cGold Digger\u201d by Kanye West plays in the background.]\n"
+  },
+  {
+    "input": "Ah, Valentine\u2019s Day. Isn\u2019t it nice? Love is in the air!\n[School\u2019s bathroom. A close up to Cupid Ye\u2019s hands as he\u2019s preparing his different arrows. Cupid Ye had decorated the bathrooms as an altar to Hitler. \u201cGold Digger\u201d by Kanye West plays in the background.]\n",
+    "output": "Dee deet, deedle-y doo! I ain\u2019t sayin\u2019 she a gold digger! But she ain\u2019t messin\u2019 with no broke Jew!\n[A knock on the door. Cupid Ye takes a puff from a cigarette.] Who is it? Teehee.\n"
+  },
+  {
+    "input": "Dee deet, deedle-y doo! I ain\u2019t sayin\u2019 she a gold digger! But she ain\u2019t messin\u2019 with no broke Jew!\n[A knock on the door. Cupid Ye takes a puff from a cigarette.] Who is it? Teehee.\n",
+    "output": "Hey! Asshole! Other people need to use the bathroom too!\n"
+  },
+  {
+    "input": "Hey! Asshole! Other people need to use the bathroom too!\n",
+    "output": "[Kenny kicks the door down, he and Craig walk into the bathroom and see all the Valentine\u2019s decorations for Hitler.] Woah\u2026 dude\u2026\n"
+  },
+  {
+    "input": "[Kenny kicks the door down, he and Craig walk into the bathroom and see all the Valentine\u2019s decorations for Hitler.] Woah\u2026 dude\u2026\n",
+    "output": "Happy Valentine\u2019s Day, bitch!\n"
+  },
+  {
+    "input": "Happy Valentine\u2019s Day, bitch!\n",
+    "output": "What the hell?!\n"
+  },
+  {
+    "input": "What the hell?!\n",
+    "output": "How about a little antisemitism?!\n"
+  },
+  {
+    "input": "How about a little antisemitism?!\n",
+    "output": "[Cupid Ye fires an arrow at Craig.] Ugh! [Craig\u2019s face falls blankly and hearts with Nazi Swastikas appear floating around him.]\n"
+  },
+  {
+    "input": "[Cupid Ye fires an arrow at Craig.] Ugh! [Craig\u2019s face falls blankly and hearts with Nazi Swastikas appear floating around him.]\n",
+    "output": "(Aaaaghagaah!!!) [Kenny runs away from the bathroom, scared.]\n"
+  },
+  {
+    "input": "(Aaaaghagaah!!!) [Kenny runs away from the bathroom, scared.]\n",
+    "output": "Teehee Tehehehe.\n[Cupid Ye comes out of the bathroom laughing and proceeds to fire arrows at the different students, panic ensues as the children begin to yell. As the students are hit by the arrows, their faces fall blankly and hearts with Nazi Swastikas float around them, just like Craig.]\n"
+  },
+  {
+    "input": "Teehee Tehehehe.\n[Cupid Ye comes out of the bathroom laughing and proceeds to fire arrows at the different students, panic ensues as the children begin to yell. As the students are hit by the arrows, their faces fall blankly and hearts with Nazi Swastikas float around them, just like Craig.]\n",
+    "output": "Teehee Teeheehee Teeheehee.\n[Cupid Ye crashes into the window to the computer labs and continues shooting arrows at the different students.]\n"
+  },
+  {
+    "input": "Teehee Teeheehee Teeheehee.\n[Cupid Ye crashes into the window to the computer labs and continues shooting arrows at the different students.]\n",
+    "output": "What is that?!\n"
+  },
+  {
+    "input": "What is that?!\n",
+    "output": "[At the entrance of the school.] Tolkien! Tolkien I need to talk to you.\n"
+  },
+  {
+    "input": "[At the entrance of the school.] Tolkien! Tolkien I need to talk to you.\n",
+    "output": "About what?\n"
+  },
+  {
+    "input": "About what?\n",
+    "output": "Tolkien\u2026 I owe you an apology. Someone has been messing with you\u2026 and it was all for me.\n"
+  },
+  {
+    "input": "Tolkien\u2026 I owe you an apology. Someone has been messing with you\u2026 and it was all for me.\n",
+    "output": "I don\u2019t get it.\n"
+  },
+  {
+    "input": "I don\u2019t get it.\n",
+    "output": "I\u2019ve been jealous about you and Kyle\u2019s TikToks. [Glass shatters. Stan and Tolkien jump. Students scream as Cupid Ye fires arrows to them in the hallways.]\n"
+  },
+  {
+    "input": "I\u2019ve been jealous about you and Kyle\u2019s TikToks. [Glass shatters. Stan and Tolkien jump. Students scream as Cupid Ye fires arrows to them in the hallways.]\n",
+    "output": "Teehee Teeheehee.\n[Kyle is walking through the hallways slowly, a kid passes him screaming and he perks up an eyebrow, suddenly, a wave of kids screaming run in his direction.]\n"
+  },
+  {
+    "input": "Teehee Teeheehee.\n[Kyle is walking through the hallways slowly, a kid passes him screaming and he perks up an eyebrow, suddenly, a wave of kids screaming run in his direction.]\n",
+    "output": "[Over P.A.] Attention students! There is a giant bee in the school! Get somewhere safe! There\u2019s a giant bee! Oh, Jesus, here it is!\n"
+  },
+  {
+    "input": "[Over P.A.] Attention students! There is a giant bee in the school! Get somewhere safe! There\u2019s a giant bee! Oh, Jesus, here it is!\n",
+    "output": "[Over P.A.] Teeheehee Teeheehee.\n"
+  },
+  {
+    "input": "[Over P.A.] Teeheehee Teeheehee.\n",
+    "output": "[Over P.A.] Oh, God, it\u2019s a bee!\n"
+  },
+  {
+    "input": "[Over P.A.] Oh, God, it\u2019s a bee!\n",
+    "output": "[Kyle starts running away, Craig, Kevin Stoley and a group of students shot by Cupid Ye\u2019s arrows corner him.] Look, there he is!\n"
+  },
+  {
+    "input": "[Kyle starts running away, Craig, Kevin Stoley and a group of students shot by Cupid Ye\u2019s arrows corner him.] Look, there he is!\n",
+    "output": "What do you think you\u2019re doing, Kyle?\n"
+  },
+  {
+    "input": "What do you think you\u2019re doing, Kyle?\n",
+    "output": "W-What do you mean?\n"
+  },
+  {
+    "input": "W-What do you mean?\n",
+    "output": "A \u201cLord of the Rings\u201d prequel?! What were you thinking?!\n"
+  },
+  {
+    "input": "A \u201cLord of the Rings\u201d prequel?! What were you thinking?!\n",
+    "output": "How many more superheroes do you think we need?!\n"
+  },
+  {
+    "input": "How many more superheroes do you think we need?!\n",
+    "output": "Mario Brothers, Kyle?! You seriously can\u2019t do better than Mario Brothers?!\n"
+  },
+  {
+    "input": "Mario Brothers, Kyle?! You seriously can\u2019t do better than Mario Brothers?!\n",
+    "output": "[Kyle tries to walk away but the group follows him, Tolkien and Stan run to the scene and wall him to protect him.] That\u2019s enough, you guys!\n"
+  },
+  {
+    "input": "[Kyle tries to walk away but the group follows him, Tolkien and Stan run to the scene and wall him to protect him.] That\u2019s enough, you guys!\n",
+    "output": "Tolkien?\n"
+  },
+  {
+    "input": "Tolkien?\n",
+    "output": "I\u2019m sorry, Kyle.\n"
+  },
+  {
+    "input": "I\u2019m sorry, Kyle.\n",
+    "output": "It\u2019s not his fault, it\u2019s mine. I was jealous of you guys and your TikToks.\n"
+  },
+  {
+    "input": "It\u2019s not his fault, it\u2019s mine. I was jealous of you guys and your TikToks.\n",
+    "output": "[Cupid Ye flies into the scene, above the group of students hypnotized.] What are you waiting for?! Let\u2019s jack up these mofos!\n"
+  },
+  {
+    "input": "[Cupid Ye flies into the scene, above the group of students hypnotized.] What are you waiting for?! Let\u2019s jack up these mofos!\n",
+    "output": "Holy shit!\n"
+  },
+  {
+    "input": "Holy shit!\n",
+    "output": "What the hell is that?!\n"
+  },
+  {
+    "input": "What the hell is that?!\n",
+    "output": "[Out of frame.] Cupid Yeeeeee!! [The group turns around to stare at Cartman as he holds a bottle of pills. Cartman shakes the bottle.] Time to take your meds.\n"
+  },
+  {
+    "input": "[Out of frame.] Cupid Yeeeeee!! [The group turns around to stare at Cartman as he holds a bottle of pills. Cartman shakes the bottle.] Time to take your meds.\n",
+    "output": "No! Those are how people control me!\n"
+  },
+  {
+    "input": "No! Those are how people control me!\n",
+    "output": "[Cartman starts walking towards Cupid Ye.] You\u2019re taking your meds, Ye! One way or another! [As the mob of hypnotized students tries to stop him, Cartman punches them away.]\n"
+  },
+  {
+    "input": "[Cartman starts walking towards Cupid Ye.] You\u2019re taking your meds, Ye! One way or another! [As the mob of hypnotized students tries to stop him, Cartman punches them away.]\n",
+    "output": "[Cartman grabs Cupid Ye from flight and throws him to the ground.] No! I\u2019m not taking!--\n"
+  },
+  {
+    "input": "[Cartman grabs Cupid Ye from flight and throws him to the ground.] No! I\u2019m not taking!--\n",
+    "output": "You\u2019re taking your medication! [Cupid Me tries to escape.]\n"
+  },
+  {
+    "input": "You\u2019re taking your medication! [Cupid Me tries to escape.]\n",
+    "output": "Let me go, I\u2019m not t--\n"
+  },
+  {
+    "input": "Let me go, I\u2019m not t--\n",
+    "output": "You\u2019re taking it, Ye! [Cupid Me struggles, Cartman holds him back.] Swallow it, swallow it! Swallow it, swallow it! [Cupid Me grunts as Cartman shoves the pills into his mouth.] Ye? Ye?\n[Cupid Ye appears to be unconscious on the floor, with the trill of a harp, his clothes disappear and go back to the normal Cupid Me appearance.]\n"
+  },
+  {
+    "input": "You\u2019re taking it, Ye! [Cupid Me struggles, Cartman holds him back.] Swallow it, swallow it! Swallow it, swallow it! [Cupid Me grunts as Cartman shoves the pills into his mouth.] Ye? Ye?\n[Cupid Ye appears to be unconscious on the floor, with the trill of a harp, his clothes disappear and go back to the normal Cupid Me appearance.]\n",
+    "output": "Eric?\n"
+  },
+  {
+    "input": "Eric?\n",
+    "output": "Cupid Me?! You guys! It's Cupid Me! He\u2019s back!\n"
+  },
+  {
+    "input": "Cupid Me?! You guys! It's Cupid Me! He\u2019s back!\n",
+    "output": "[Cartman looks back at the group of students including Tolkien, Kyle and Stan, who just stare confused at him.] What day is it?\n"
+  },
+  {
+    "input": "[Cartman looks back at the group of students including Tolkien, Kyle and Stan, who just stare confused at him.] What day is it?\n",
+    "output": "Why, it\u2019s Valentine\u2019s Day, Cupid Me!\n"
+  },
+  {
+    "input": "Why, it\u2019s Valentine\u2019s Day, Cupid Me!\n",
+    "output": "Valentine's Day?! Well then I need to get to work! [Cupid Me flies up into the air.] Teeheehee Teeheehee!\n"
+  },
+  {
+    "input": "Valentine's Day?! Well then I need to get to work! [Cupid Me flies up into the air.] Teeheehee Teeheehee!\n",
+    "output": "[Cartman cheers.] Yeah!\n[Cupid Me comes back to his senses and flies around, firing love arrows at the students of South Park Elementary.]\n[At a conference, a woman, two older men, Kyle, Stan and Tolkien.]\n"
+  },
+  {
+    "input": "[Cartman cheers.] Yeah!\n[Cupid Me comes back to his senses and flies around, firing love arrows at the students of South Park Elementary.]\n[At a conference, a woman, two older men, Kyle, Stan and Tolkien.]\n",
+    "output": "We have a young man who is joining us here today to\u2026 talk about stereotypes and the harm that they can bring. Young man, what is your message.\n"
+  },
+  {
+    "input": "We have a young man who is joining us here today to\u2026 talk about stereotypes and the harm that they can bring. Young man, what is your message.\n",
+    "output": "My message is, we can't control what people say, so we have to be smart about what we choose to believe. If one idiot says that a certain group \"runs Hollywood\", look into it. With very minimal effort, you will find that \"Hollywood\" is a multi-tiered industry run by tens of thousands of people from all over the world. In the past, Jews were shut out of most professions, so they came to dominate vaudeville, which back then was considered too low-brow for good Christians. Those Jews eventually moved West and started the first movie studios when movies were also considered work for the underclass, and their descendents are now a decent percentage of the thousands of people of all races that make Hollywood run.\n"
+  },
+  {
+    "input": "My message is, we can't control what people say, so we have to be smart about what we choose to believe. If one idiot says that a certain group \"runs Hollywood\", look into it. With very minimal effort, you will find that \"Hollywood\" is a multi-tiered industry run by tens of thousands of people from all over the world. In the past, Jews were shut out of most professions, so they came to dominate vaudeville, which back then was considered too low-brow for good Christians. Those Jews eventually moved West and started the first movie studios when movies were also considered work for the underclass, and their descendents are now a decent percentage of the thousands of people of all races that make Hollywood run.\n",
+    "output": "This young man has said in plain words what so many of us in Hollywood have been trying to get people to understand.\n"
+  },
+  {
+    "input": "This young man has said in plain words what so many of us in Hollywood have been trying to get people to understand.\n",
+    "output": "To hear it all so plain, and so passionate, this kid thinks about things the way we all need to.\n"
+  },
+  {
+    "input": "To hear it all so plain, and so passionate, this kid thinks about things the way we all need to.\n",
+    "output": "You know what I think? I think this kid should run Hollywood!\n"
+  },
+  {
+    "input": "You know what I think? I think this kid should run Hollywood!\n",
+    "output": "Yeah! [People stand up from their seats and start clapping and cheering.]\n"
+  },
+  {
+    "input": "Yeah! [People stand up from their seats and start clapping and cheering.]\n",
+    "output": "Woah, woah-- wait, what? Woah.\n"
+  },
+  {
+    "input": "Woah, woah-- wait, what? Woah.\n",
+    "output": "Let him run Hollywood!\n"
+  },
+  {
+    "input": "Let him run Hollywood!\n",
+    "output": "Yeah, give the kid a chance! C\u2019mon!\n"
+  },
+  {
+    "input": "Yeah, give the kid a chance! C\u2019mon!\n",
+    "output": "Let him do it!\n"
+  },
+  {
+    "input": "Let him do it!\n",
+    "output": "God dammit!\n"
+  }
+]

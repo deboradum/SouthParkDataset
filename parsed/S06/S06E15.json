@@ -1,0 +1,1326 @@
+[
+  {
+    "input": "",
+    "output": "The Biggest Douche in the Universe\n\n[South Park, night. A camera sits atop an ambulance transmitting the action as the ambulance speeds down a street. It ends up at Hell's Pass Hospital. The paramedics rush out and open the cargo doors, quickly take Cartman out and whisk him into Emergency while his mom remains seated anxiously inside the ambulance.]\n"
+  },
+  {
+    "input": "The Biggest Douche in the Universe\n\n[South Park, night. A camera sits atop an ambulance transmitting the action as the ambulance speeds down a street. It ends up at Hell's Pass Hospital. The paramedics rush out and open the cargo doors, quickly take Cartman out and whisk him into Emergency while his mom remains seated anxiously inside the ambulance.]\n",
+    "output": "[steps out of the ambulance] Be careful with my baby.\n[Hell's Pass Hospital, inside. The paramedics reach the nurses' station and rush by.]\n"
+  },
+  {
+    "input": "[steps out of the ambulance] Be careful with my baby.\n[Hell's Pass Hospital, inside. The paramedics reach the nurses' station and rush by.]\n",
+    "output": "What have we got?\n"
+  },
+  {
+    "input": "What have we got?\n",
+    "output": "[black hair] Not sure. It looks like a possible code five six!\n"
+  },
+  {
+    "input": "[black hair] Not sure. It looks like a possible code five six!\n",
+    "output": "[disoriented] Kenny. Shut up, Kenny.\n"
+  },
+  {
+    "input": "[disoriented] Kenny. Shut up, Kenny.\n",
+    "output": "[now helping the nurse and paramedics] You're going to be okay, baby.\n[Hell's Pass Hospital, operating room. Emergency personnel whisk Cartman into the room. Liane enters, but stays near the door.]\n"
+  },
+  {
+    "input": "[now helping the nurse and paramedics] You're going to be okay, baby.\n[Hell's Pass Hospital, operating room. Emergency personnel whisk Cartman into the room. Liane enters, but stays near the door.]\n",
+    "output": "[enters ready for surgery] Five me 50 cc's of ketamine, STAT. And get something for the kid, too.\n"
+  },
+  {
+    "input": "[enters ready for surgery] Five me 50 cc's of ketamine, STAT. And get something for the kid, too.\n",
+    "output": "Is he going to be okay?\n"
+  },
+  {
+    "input": "Is he going to be okay?\n",
+    "output": "Let the doctor do his work, ma'am. [closes the curtain]\n[Hell's Pass Hospital, a few hours later. Cartman is now in one of the recovery rooms with Liane at his side stroking him gently. He's on a respirator for the time being. The doctor enters the room slowly, but Liane notices and rises to meet him.]\n"
+  },
+  {
+    "input": "Let the doctor do his work, ma'am. [closes the curtain]\n[Hell's Pass Hospital, a few hours later. Cartman is now in one of the recovery rooms with Liane at his side stroking him gently. He's on a respirator for the time being. The doctor enters the room slowly, but Liane notices and rises to meet him.]\n",
+    "output": "Doctor! Did you find out what's wrong with him?\n"
+  },
+  {
+    "input": "Doctor! Did you find out what's wrong with him?\n",
+    "output": "I'm afraid he's... running out of time.\n"
+  },
+  {
+    "input": "I'm afraid he's... running out of time.\n",
+    "output": "[thinks a moment, then] Why?? What's wrong with him??\n"
+  },
+  {
+    "input": "[thinks a moment, then] Why?? What's wrong with him??\n",
+    "output": "It's his time. It's ...running out.\n"
+  },
+  {
+    "input": "It's his time. It's ...running out.\n",
+    "output": "Well, what does he need?\n"
+  },
+  {
+    "input": "Well, what does he need?\n",
+    "output": "He needs to have more time.\n"
+  },
+  {
+    "input": "He needs to have more time.\n",
+    "output": "What can we do?\n"
+  },
+  {
+    "input": "What can we do?\n",
+    "output": "Well, I suppose we could try a time transplant. I'll have to call in a specialist. [turns and walks out. Liane returns to Cartman]\n"
+  },
+  {
+    "input": "Well, I suppose we could try a time transplant. I'll have to call in a specialist. [turns and walks out. Liane returns to Cartman]\n",
+    "output": "[cradles Cartman somewhat] It's going to be okay, baby. We're going to get you more time.\n"
+  },
+  {
+    "input": "[cradles Cartman somewhat] It's going to be okay, baby. We're going to get you more time.\n",
+    "output": "Ey Kenny! God-damn you, Kenny!\n[Chef's house, day. Stan and Kyle go up to the front door and Kyle knocks. Chef opens up and sees them.]\n"
+  },
+  {
+    "input": "Ey Kenny! God-damn you, Kenny!\n[Chef's house, day. Stan and Kyle go up to the front door and Kyle knocks. Chef opens up and sees them.]\n",
+    "output": "Hello there, children.\n"
+  },
+  {
+    "input": "Hello there, children.\n",
+    "output": "Chef, Cartman is in the hospital. They think he might die.\n"
+  },
+  {
+    "input": "Chef, Cartman is in the hospital. They think he might die.\n",
+    "output": "Yeah, and, we don't know whether or not we should care.\n"
+  },
+  {
+    "input": "Yeah, and, we don't know whether or not we should care.\n",
+    "output": "Well what's wrong with him?\n"
+  },
+  {
+    "input": "Well what's wrong with him?\n",
+    "output": "Well, nobody seems to know, but we think it's because he drank Kenny's soul four weeks ago.\n"
+  },
+  {
+    "input": "Well, nobody seems to know, but we think it's because he drank Kenny's soul four weeks ago.\n",
+    "output": "Kenny's ashes were in an urn, and Cartman drank it, thinking it was chocolate milk mix.\n"
+  },
+  {
+    "input": "Kenny's ashes were in an urn, and Cartman drank it, thinking it was chocolate milk mix.\n",
+    "output": "Children, why didn't you tell me about this sooner?\n"
+  },
+  {
+    "input": "Children, why didn't you tell me about this sooner?\n",
+    "output": "Well like we said, we didn't know whether or not we should care?\n"
+  },
+  {
+    "input": "Well like we said, we didn't know whether or not we should care?\n",
+    "output": "Well, you should. Cartman is your friend whether you like him or not! Now, come on! We've gotta get to that hospital!\n[Hell's Pass Hospital, Cartman's recovery room. Dr. Doctor has returned.]\n"
+  },
+  {
+    "input": "Well, you should. Cartman is your friend whether you like him or not! Now, come on! We've gotta get to that hospital!\n[Hell's Pass Hospital, Cartman's recovery room. Dr. Doctor has returned.]\n",
+    "output": "He's looking a little better today.\n"
+  },
+  {
+    "input": "He's looking a little better today.\n",
+    "output": "Yes, but his time is still getting weaker. It will give out soon unless we do something. [the door opens and Chef, Stan and Kyle enter]\n"
+  },
+  {
+    "input": "Yes, but his time is still getting weaker. It will give out soon unless we do something. [the door opens and Chef, Stan and Kyle enter]\n",
+    "output": "[cheerfully] Hey you guys! How's it goin'?\n"
+  },
+  {
+    "input": "[cheerfully] Hey you guys! How's it goin'?\n",
+    "output": "Cartman?\n"
+  },
+  {
+    "input": "Cartman?\n",
+    "output": "No, that's Kenny.\n"
+  },
+  {
+    "input": "No, that's Kenny.\n",
+    "output": "[surly] What the hell are you assholes doing here?!\n"
+  },
+  {
+    "input": "[surly] What the hell are you assholes doing here?!\n",
+    "output": "That's Cartman.\n"
+  },
+  {
+    "input": "That's Cartman.\n",
+    "output": "[approaches and has a look] Oh my God! Eric, how long have you been channelin' Kenny?\n"
+  },
+  {
+    "input": "[approaches and has a look] Oh my God! Eric, how long have you been channelin' Kenny?\n",
+    "output": "Oh, about a month.\n"
+  },
+  {
+    "input": "Oh, about a month.\n",
+    "output": "Let's not validate his delusions.\n"
+  },
+  {
+    "input": "Let's not validate his delusions.\n",
+    "output": "Kenny? Kenny, do you know what you need to get free?\n"
+  },
+  {
+    "input": "Kenny? Kenny, do you know what you need to get free?\n",
+    "output": "He's gone again.\n"
+  },
+  {
+    "input": "He's gone again.\n",
+    "output": "Ms. Cartman, we need to get Eric to a medium who can speak with people who have crossed over.\n"
+  },
+  {
+    "input": "Ms. Cartman, we need to get Eric to a medium who can speak with people who have crossed over.\n",
+    "output": "What?? That's preposterous! What this child needs is a time transplant!\n"
+  },
+  {
+    "input": "What?? That's preposterous! What this child needs is a time transplant!\n",
+    "output": "This hospital isn't gonna do any good. We need to take him to see John Edward.\n"
+  },
+  {
+    "input": "This hospital isn't gonna do any good. We need to take him to see John Edward.\n",
+    "output": "Hey, I've seen that guy. He has a TV show where he brings people on and talks to their dead relatives.\n"
+  },
+  {
+    "input": "Hey, I've seen that guy. He has a TV show where he brings people on and talks to their dead relatives.\n",
+    "output": "That's right. We have to go see him in New York.\n"
+  },
+  {
+    "input": "That's right. We have to go see him in New York.\n",
+    "output": "I warn you, Ms. Cartman. Your son's time could give out at any minute. He needs to be kept here where his time could be monitored.\n"
+  },
+  {
+    "input": "I warn you, Ms. Cartman. Your son's time could give out at any minute. He needs to be kept here where his time could be monitored.\n",
+    "output": "Oooh, what should I do? I'm playing roulette with my child's life! [switches mind gears] Ooo wait, Hairspray is showing in New York, isn't it? Let's go there.\n"
+  },
+  {
+    "input": "Oooh, what should I do? I'm playing roulette with my child's life! [switches mind gears] Ooo wait, Hairspray is showing in New York, isn't it? Let's go there.\n",
+    "output": "Good. You children need to come too. Eric needs all the support he can get right now.\n"
+  },
+  {
+    "input": "Good. You children need to come too. Eric needs all the support he can get right now.\n",
+    "output": "We're going to New York?\n[An airplane to New York, dawn. The plane is flying above the clouds.]\n"
+  },
+  {
+    "input": "We're going to New York?\n[An airplane to New York, dawn. The plane is flying above the clouds.]\n",
+    "output": "Welcome aboard Flight 673 to New York. We are happy to show you a feature film during the flight. In a moment we'll be showing a preview.\n"
+  },
+  {
+    "input": "Welcome aboard Flight 673 to New York. We are happy to show you a feature film during the flight. In a moment we'll be showing a preview.\n",
+    "output": "[the boys begin to put on headphones] Oh cool. We get to watch a movie?\n"
+  },
+  {
+    "input": "[the boys begin to put on headphones] Oh cool. We get to watch a movie?\n",
+    "output": "Awesome!\n[The preview.]\n"
+  },
+  {
+    "input": "Awesome!\n[The preview.]\n",
+    "output": "Rob Schneider was an animal. [a shot of him on all fours running through the forest] Then he was a woman. [Rob steps out of a shower and inspects his new breasts. He's shocked] And now Rob Schneider is... [a shot of him sitting on a desk dressed as a stapler, stapling papers together] a stapler. [he's showing being a stapler in front of some cheering frat boys from Gamma Gamma Delta] And he's about to find out... [he's shown trying to catch a bus as a stapler] that being a stapler [he's shown with a woman, still as a stapler. He tries to get close to her, but falls off the sofa] is harder than it looks. Rob Schneider is... The Stapler. [title graphics show up] Rated PG-13.\n"
+  },
+  {
+    "input": "Rob Schneider was an animal. [a shot of him on all fours running through the forest] Then he was a woman. [Rob steps out of a shower and inspects his new breasts. He's shocked] And now Rob Schneider is... [a shot of him sitting on a desk dressed as a stapler, stapling papers together] a stapler. [he's showing being a stapler in front of some cheering frat boys from Gamma Gamma Delta] And he's about to find out... [he's shown trying to catch a bus as a stapler] that being a stapler [he's shown with a woman, still as a stapler. He tries to get close to her, but falls off the sofa] is harder than it looks. Rob Schneider is... The Stapler. [title graphics show up] Rated PG-13.\n",
+    "output": "[remove their headphones] Weak!\n"
+  },
+  {
+    "input": "[remove their headphones] Weak!\n",
+    "output": "[giggles] Ha-heheheh. [the boys look at him; he takes his headphones off and looks at them] That was Kenny laughing, not me.\n[New York, the skyline. Chef, Liane, and the boys arrive at an HBC studio for John Edward.]\n"
+  },
+  {
+    "input": "[giggles] Ha-heheheh. [the boys look at him; he takes his headphones off and looks at them] That was Kenny laughing, not me.\n[New York, the skyline. Chef, Liane, and the boys arrive at an HBC studio for John Edward.]\n",
+    "output": "This must be the place.\n"
+  },
+  {
+    "input": "This must be the place.\n",
+    "output": "Okay audience members, hi, welcome to the taping of the show. [she collects tickets from members as they enter the studio] It's all general seating in there, and just remember, Mr. Edward might not hear from the particular dead person you wanna talk to, so just... keep an open mind.\n"
+  },
+  {
+    "input": "Okay audience members, hi, welcome to the taping of the show. [she collects tickets from members as they enter the studio] It's all general seating in there, and just remember, Mr. Edward might not hear from the particular dead person you wanna talk to, so just... keep an open mind.\n",
+    "output": "Don't worry, Eric. I'm sure he will be able to help you.\n[John Edward's studio, show set. The seats are all filled up.]\n"
+  },
+  {
+    "input": "Don't worry, Eric. I'm sure he will be able to help you.\n[John Edward's studio, show set. The seats are all filled up.]\n",
+    "output": "Ladies and Gentlemen, John Edward. [applause. John enters the set and steps on stage]\n"
+  },
+  {
+    "input": "Ladies and Gentlemen, John Edward. [applause. John enters the set and steps on stage]\n",
+    "output": "Thank you, thank you. Alright let's get started. [meditates a minute, then points to his right] 'S coming from over here. 'S the name Mike mean anything to anybody? [no reaction] I'm getting um, I'm getting M-mike? Definitely an M, d'um, maybe Matt? Mike? Matt? Mi-mmm, Mi-Mike, m-Mary?\n"
+  },
+  {
+    "input": "Thank you, thank you. Alright let's get started. [meditates a minute, then points to his right] 'S coming from over here. 'S the name Mike mean anything to anybody? [no reaction] I'm getting um, I'm getting M-mike? Definitely an M, d'um, maybe Matt? Mike? Matt? Mi-mmm, Mi-Mike, m-Mary?\n",
+    "output": "Mary was my mother!\n"
+  },
+  {
+    "input": "Mary was my mother!\n",
+    "output": "Okay okay, and she-she's she died?\n"
+  },
+  {
+    "input": "Okay okay, and she-she's she died?\n",
+    "output": "[begins to sob. A woman comforts him] Yes. Yeh-yes she did.\n"
+  },
+  {
+    "input": "[begins to sob. A woman comforts him] Yes. Yeh-yes she did.\n",
+    "output": "Okay, and she's telling me there's something about... the money. That the, the money is safe? Is that making sense? [the man and woman look up]\n"
+  },
+  {
+    "input": "Okay, and she's telling me there's something about... the money. That the, the money is safe? Is that making sense? [the man and woman look up]\n",
+    "output": "M-mm-m. Not really.\n"
+  },
+  {
+    "input": "M-mm-m. Not really.\n",
+    "output": "Must be from somewhere else in the audience, then. Uh, d'uh, money? Is someone el-\n"
+  },
+  {
+    "input": "Must be from somewhere else in the audience, then. Uh, d'uh, money? Is someone el-\n",
+    "output": "Uh, over here please?\n"
+  },
+  {
+    "input": "Uh, over here please?\n",
+    "output": "We have a dead friend.\n"
+  },
+  {
+    "input": "We have a dead friend.\n",
+    "output": "Uh d'eh'hm quiet, quiet down boys. It doesn't work that way. Uh, okay, I I'm getting ...someone now whose name is g-, a t-. It's an l-, it's a m-, it's k-.\n"
+  },
+  {
+    "input": "Uh d'eh'hm quiet, quiet down boys. It doesn't work that way. Uh, okay, I I'm getting ...someone now whose name is g-, a t-. It's an l-, it's a m-, it's k-.\n",
+    "output": "Kenny!\n"
+  },
+  {
+    "input": "Kenny!\n",
+    "output": "Kenny says hi.\n"
+  },
+  {
+    "input": "Kenny says hi.\n",
+    "output": "Wow! [applause] wow...\n"
+  },
+  {
+    "input": "Wow! [applause] wow...\n",
+    "output": "Okay, now I'm getting that Kenny ...died?\n"
+  },
+  {
+    "input": "Okay, now I'm getting that Kenny ...died?\n",
+    "output": "We told you that.\n"
+  },
+  {
+    "input": "We told you that.\n",
+    "output": "And, and this wasn't, this wasn't a good death. It was like a, it was a sad death. It was like a, it was like a death that made people sad. Does that make sense?\n"
+  },
+  {
+    "input": "And, and this wasn't, this wasn't a good death. It was like a, it was a sad death. It was like a, it was like a death that made people sad. Does that make sense?\n",
+    "output": "Yee-yeah.\n"
+  },
+  {
+    "input": "Yee-yeah.\n",
+    "output": "[applause] Oh, wow, that's incredible! Wow!\n"
+  },
+  {
+    "input": "[applause] Oh, wow, that's incredible! Wow!\n",
+    "output": "Look uh, Mr. Edward, can you just ask Kenny how we can get him out, please?\n"
+  },
+  {
+    "input": "Look uh, Mr. Edward, can you just ask Kenny how we can get him out, please?\n",
+    "output": "[blocking] Doesn't work that way. [turns his attention to the boys] Now, Kenny is telling me that... you're his best friends, and he's in a ss-safe place.\n"
+  },
+  {
+    "input": "[blocking] Doesn't work that way. [turns his attention to the boys] Now, Kenny is telling me that... you're his best friends, and he's in a ss-safe place.\n",
+    "output": "No no, he's trapped in Cartman's body.\n"
+  },
+  {
+    "input": "No no, he's trapped in Cartman's body.\n",
+    "output": "Ohh, there's somebody with him. Who's Kyle?\n"
+  },
+  {
+    "input": "Ohh, there's somebody with him. Who's Kyle?\n",
+    "output": "I'm Kyle.\n"
+  },
+  {
+    "input": "I'm Kyle.\n",
+    "output": "Oh right. And uh, did an older woman pass, she's asking for Kyle? Maybe a grandma?\n"
+  },
+  {
+    "input": "Oh right. And uh, did an older woman pass, she's asking for Kyle? Maybe a grandma?\n",
+    "output": "[responding] Yeah. My Grandma. [looks around] She's here?\n"
+  },
+  {
+    "input": "[responding] Yeah. My Grandma. [looks around] She's here?\n",
+    "output": "She says there was something she asked you to do, and you're not doing it? She wants you to look for four white doves.\n"
+  },
+  {
+    "input": "She says there was something she asked you to do, and you're not doing it? She wants you to look for four white doves.\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "Oh now she's sending me a P word. Maybe it's a puh-? Or a huh-?\n"
+  },
+  {
+    "input": "Oh now she's sending me a P word. Maybe it's a puh-? Or a huh-?\n",
+    "output": "My Harry died last year!\n"
+  },
+  {
+    "input": "My Harry died last year!\n",
+    "output": "Oh, it's comin' from over here. [moves to the woman's side of the audience] I'm getting all kinds of voices today. [does a small skip] Woo! [laughter]\n"
+  },
+  {
+    "input": "Oh, it's comin' from over here. [moves to the woman's side of the audience] I'm getting all kinds of voices today. [does a small skip] Woo! [laughter]\n",
+    "output": "Heh hey wait a minute dude.\n"
+  },
+  {
+    "input": "Heh hey wait a minute dude.\n",
+    "output": "Okay now Harry. He's telling me... oh well, he's saying that you two used to... do things.\n"
+  },
+  {
+    "input": "Okay now Harry. He's telling me... oh well, he's saying that you two used to... do things.\n",
+    "output": "[sobs and nods vigorously] Mmm-hmm.\n"
+  },
+  {
+    "input": "[sobs and nods vigorously] Mmm-hmm.\n",
+    "output": "And that those things involved... stuff?\n"
+  },
+  {
+    "input": "And that those things involved... stuff?\n",
+    "output": "The things did involve stuff, yes. [cries. The audience is awed and gets somewhat boisterous]\n[New York, outside John Edward's studio. Chef, Liane and the boys exit. Kyle is missing.]\n"
+  },
+  {
+    "input": "The things did involve stuff, yes. [cries. The audience is awed and gets somewhat boisterous]\n[New York, outside John Edward's studio. Chef, Liane and the boys exit. Kyle is missing.]\n",
+    "output": "Aw man, I can't believe I got fooled by that asshole!\n"
+  },
+  {
+    "input": "Aw man, I can't believe I got fooled by that asshole!\n",
+    "output": "He seemed better on TV?\n"
+  },
+  {
+    "input": "He seemed better on TV?\n",
+    "output": "Yeah. They must edit his shows down on television to only show him getting mostly right answers.\n"
+  },
+  {
+    "input": "Yeah. They must edit his shows down on television to only show him getting mostly right answers.\n",
+    "output": "[exits the studio a bit panicked.] Grandma's watching me. Always watching me.\n"
+  },
+  {
+    "input": "[exits the studio a bit panicked.] Grandma's watching me. Always watching me.\n",
+    "output": "[approaches Kyle] Dude, you don't believe that guy talked to your grandma, do you? [Cartman has a seizure; the other boys look over. Cartman goes silent, and he's shown standing unconscious.]\n"
+  },
+  {
+    "input": "[approaches Kyle] Dude, you don't believe that guy talked to your grandma, do you? [Cartman has a seizure; the other boys look over. Cartman goes silent, and he's shown standing unconscious.]\n",
+    "output": "Eric? [the others draw closer] It must be his time. I think it's running out!\n"
+  },
+  {
+    "input": "Eric? [the others draw closer] It must be his time. I think it's running out!\n",
+    "output": "We've got no choice. The only people I know now who might be able to help Eric are my parents. We'll have to take the next flight to Scotland.\n[New York Airport, day. The kids, Chef and Liane are ready for their flights.]\n"
+  },
+  {
+    "input": "We've got no choice. The only people I know now who might be able to help Eric are my parents. We'll have to take the next flight to Scotland.\n[New York Airport, day. The kids, Chef and Liane are ready for their flights.]\n",
+    "output": "[walks to Stan and Kyle and gives them their tickets] Okay children, this is your flight back to Colorado. Your parents are meeting you at the airport in Denver.\n"
+  },
+  {
+    "input": "[walks to Stan and Kyle and gives them their tickets] Okay children, this is your flight back to Colorado. Your parents are meeting you at the airport in Denver.\n",
+    "output": "We don't get to go to Scotland?\n"
+  },
+  {
+    "input": "We don't get to go to Scotland?\n",
+    "output": "It's too far and your parents want you back home.\n"
+  },
+  {
+    "input": "It's too far and your parents want you back home.\n",
+    "output": "[to Cartman] Oh well. Good luck getting Kenny out of you, fatso.\n"
+  },
+  {
+    "input": "[to Cartman] Oh well. Good luck getting Kenny out of you, fatso.\n",
+    "output": "Thanks, asshole.\n"
+  },
+  {
+    "input": "Thanks, asshole.\n",
+    "output": "Come on, we gotta catch our plane. You children get right on that plane now.\n"
+  },
+  {
+    "input": "Come on, we gotta catch our plane. You children get right on that plane now.\n",
+    "output": "This is the final boarding announcement for Flight 342 to Denver.\n"
+  },
+  {
+    "input": "This is the final boarding announcement for Flight 342 to Denver.\n",
+    "output": "[moving off slowly] That's us. Come on.\n"
+  },
+  {
+    "input": "[moving off slowly] That's us. Come on.\n",
+    "output": "Four white birds!\n"
+  },
+  {
+    "input": "Four white birds!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "There's four white birds! [Sees a sign for Jewleeard, a private school for young Jews. The sign has four birds in flight above a small school, two stars of David flanking the building, and two traditional Jewish men in overcoats, one at each end of the sign. A phone number is shown underneath. Kyle and Stan walk closer to the sign] This is what Grandma wants? She wants me to attend Jewleeard.\n"
+  },
+  {
+    "input": "There's four white birds! [Sees a sign for Jewleeard, a private school for young Jews. The sign has four birds in flight above a small school, two stars of David flanking the building, and two traditional Jewish men in overcoats, one at each end of the sign. A phone number is shown underneath. Kyle and Stan walk closer to the sign] This is what Grandma wants? She wants me to attend Jewleeard.\n",
+    "output": "Dude, you were going to see four white birds eventually.\n"
+  },
+  {
+    "input": "Dude, you were going to see four white birds eventually.\n",
+    "output": "So is it a coincidence that Grandma DID talk to me about going to Jewleeard someday?\n"
+  },
+  {
+    "input": "So is it a coincidence that Grandma DID talk to me about going to Jewleeard someday?\n",
+    "output": "Yes. Now, come on. Our plane is gonna leave. [walks off]\n"
+  },
+  {
+    "input": "Yes. Now, come on. Our plane is gonna leave. [walks off]\n",
+    "output": "I'm not going back.\n"
+  },
+  {
+    "input": "I'm not going back.\n",
+    "output": "[stops and looks at Kyle, astonished] What??\n"
+  },
+  {
+    "input": "[stops and looks at Kyle, astonished] What??\n",
+    "output": "I have to join Jewleeard and make Grandma proud! [drops his ticket on the ground] Tell my parents I'll call them. [hurries away]\n"
+  },
+  {
+    "input": "I have to join Jewleeard and make Grandma proud! [drops his ticket on the ground] Tell my parents I'll call them. [hurries away]\n",
+    "output": "Kyle. No, Kyle! Aw crap! [slaps his left palm on his face]\n[John Edward's estate, later. Stan arrives and goes to the front door. Needless to say, he didn't get on the plane either. He rings the bell and is greeted by the butler.]\n"
+  },
+  {
+    "input": "Kyle. No, Kyle! Aw crap! [slaps his left palm on his face]\n[John Edward's estate, later. Stan arrives and goes to the front door. Needless to say, he didn't get on the plane either. He rings the bell and is greeted by the butler.]\n",
+    "output": "Hey, uh, I need to talk to Mr. Edward, please.\n"
+  },
+  {
+    "input": "Hey, uh, I need to talk to Mr. Edward, please.\n",
+    "output": "He doesn't do private readings.\n"
+  },
+  {
+    "input": "He doesn't do private readings.\n",
+    "output": "I'm not here for a reading, I just need to ask him something real quick.\n"
+  },
+  {
+    "input": "I'm not here for a reading, I just need to ask him something real quick.\n",
+    "output": "Alright, come on in. [steps aside for Stan to enter]\n[John Edward's estate, living room. Stan waits by the sofa.]\n"
+  },
+  {
+    "input": "Alright, come on in. [steps aside for Stan to enter]\n[John Edward's estate, living room. Stan waits by the sofa.]\n",
+    "output": "Just wait here. I'll go fetch him. [the butler walks into another area of the house]\n"
+  },
+  {
+    "input": "Just wait here. I'll go fetch him. [the butler walks into another area of the house]\n",
+    "output": "Jesus Christ.\n"
+  },
+  {
+    "input": "Jesus Christ.\n",
+    "output": "[returns] Here he is. [presses a button next to a wide doorway]\n"
+  },
+  {
+    "input": "[returns] Here he is. [presses a button next to a wide doorway]\n",
+    "output": "Ladies and Gentlemen, John Edward. [John approaches and the butler presses a second button for applause]\n"
+  },
+  {
+    "input": "Ladies and Gentlemen, John Edward. [John approaches and the butler presses a second button for applause]\n",
+    "output": "Thank you, thank you.\n"
+  },
+  {
+    "input": "Thank you, thank you.\n",
+    "output": "Hey uh, I need to ask you a big favor. You, you did a reading on my best friend and uh, well you kind of messed him up.\n"
+  },
+  {
+    "input": "Hey uh, I need to ask you a big favor. You, you did a reading on my best friend and uh, well you kind of messed him up.\n",
+    "output": "Oh. [pulls out a card from his pocket and reads aloud] The John Edward show is not liable for opinions and materials given for entertainment purposes only. [silence for a few seconds]\n"
+  },
+  {
+    "input": "Oh. [pulls out a card from his pocket and reads aloud] The John Edward show is not liable for opinions and materials given for entertainment purposes only. [silence for a few seconds]\n",
+    "output": "Look, my friend Kyle won't fly back home to Colorado. All I need you to do is just talk to him and tell him, you know, the whole talking to dead people isn't for real.\n"
+  },
+  {
+    "input": "Look, my friend Kyle won't fly back home to Colorado. All I need you to do is just talk to him and tell him, you know, the whole talking to dead people isn't for real.\n",
+    "output": "Maybe it is for real.\n"
+  },
+  {
+    "input": "Maybe it is for real.\n",
+    "output": "Right, but it's not. It's a trick you do and I need you to just let my friend Kyle know that so he can go on with his life.\n"
+  },
+  {
+    "input": "Right, but it's not. It's a trick you do and I need you to just let my friend Kyle know that so he can go on with his life.\n",
+    "output": "Look, people have the right to be skeptical. I really hear voices in my head.\n"
+  },
+  {
+    "input": "Look, people have the right to be skeptical. I really hear voices in my head.\n",
+    "output": "Yes. We all hear voices in our heads. It's called \"intuition.\" Get over yourself and tell my friend it's just for fun.\n"
+  },
+  {
+    "input": "Yes. We all hear voices in our heads. It's called \"intuition.\" Get over yourself and tell my friend it's just for fun.\n",
+    "output": "Look, what I do doesn't hurt anybody. I give people closure and help them cope with life.\n"
+  },
+  {
+    "input": "Look, what I do doesn't hurt anybody. I give people closure and help them cope with life.\n",
+    "output": "No, you give them false hope and a belief in something that isn't real.\n"
+  },
+  {
+    "input": "No, you give them false hope and a belief in something that isn't real.\n",
+    "output": "But I'm a psychic.\n"
+  },
+  {
+    "input": "But I'm a psychic.\n",
+    "output": "No dude, you're a douche.\n"
+  },
+  {
+    "input": "No dude, you're a douche.\n",
+    "output": "I'm not a douche! What if I really believe that dead people talk to me?\n"
+  },
+  {
+    "input": "I'm not a douche! What if I really believe that dead people talk to me?\n",
+    "output": "Then you're a stupid douche.\n"
+  },
+  {
+    "input": "Then you're a stupid douche.\n",
+    "output": "I think I've had of your bullying me! Get out of my house or I'll runs upstairs, lock myself in my panic room and call the police!\n"
+  },
+  {
+    "input": "I think I've had of your bullying me! Get out of my house or I'll runs upstairs, lock myself in my panic room and call the police!\n",
+    "output": "I'm nine years old.\n"
+  },
+  {
+    "input": "I'm nine years old.\n",
+    "output": "I'm not talking to your friend and I'm not a douche! [runs up the stairs and towards his room as his voice gets whinier] You'd better get out of my house, 'cause I'm gonna call the police! [Stan looks at him like he's nuts; he locks himself in his panic room]\n"
+  },
+  {
+    "input": "I'm not talking to your friend and I'm not a douche! [runs up the stairs and towards his room as his voice gets whinier] You'd better get out of my house, 'cause I'm gonna call the police! [Stan looks at him like he's nuts; he locks himself in his panic room]\n",
+    "output": "You are so a douche! I'm nominating you for the Biggest Douche in the Universe award, you douche! [walks towards the door, but notices some books on a bookcase nearby. He checks them out. \"How To Be A Psychic\" \"Cold Reading: The Trick Of The Psychic!\" \"Make Women Believe You're Psychic! Then Have Sex With Them!\" \"How To Sixty Nine With Yourself\" ...Stan senses the real reason behind John's efforts] Son of a bitch. [takes the books and leaves the estate.]\n[An airplane to Scotland, day. The plane is flying above the clouds. In the cabin, Cartman sits between Chef and Liane.]\n"
+  },
+  {
+    "input": "You are so a douche! I'm nominating you for the Biggest Douche in the Universe award, you douche! [walks towards the door, but notices some books on a bookcase nearby. He checks them out. \"How To Be A Psychic\" \"Cold Reading: The Trick Of The Psychic!\" \"Make Women Believe You're Psychic! Then Have Sex With Them!\" \"How To Sixty Nine With Yourself\" ...Stan senses the real reason behind John's efforts] Son of a bitch. [takes the books and leaves the estate.]\n[An airplane to Scotland, day. The plane is flying above the clouds. In the cabin, Cartman sits between Chef and Liane.]\n",
+    "output": "Hey Kenny! Shut up, Kenny! You shut up, fatass!\n"
+  },
+  {
+    "input": "Hey Kenny! Shut up, Kenny! You shut up, fatass!\n",
+    "output": "Hang in there, sweetie. We'll be there soon.\n"
+  },
+  {
+    "input": "Hang in there, sweetie. We'll be there soon.\n",
+    "output": "Welcome aboard Scotland Air. Our trip to Edinburgh should take about twelve hours.\n"
+  },
+  {
+    "input": "Welcome aboard Scotland Air. Our trip to Edinburgh should take about twelve hours.\n",
+    "output": "Twelve hours?? Jesus Christ!\n"
+  },
+  {
+    "input": "Twelve hours?? Jesus Christ!\n",
+    "output": "In the meantime we'd like to show you a complimentary film.\n"
+  },
+  {
+    "input": "In the meantime we'd like to show you a complimentary film.\n",
+    "output": "Oh, good. [All passengers put on their headsets.]\n"
+  },
+  {
+    "input": "Oh, good. [All passengers put on their headsets.]\n",
+    "output": "Rob Schneider is a Wall Street executive [Rob walks into the scene with a briefcase, then he's in a hot tub with a beautiful woman] With everything going for him. [now in his office, he gets up and straddles his desk. He then pretends the desk is a horse] Only problem is, he's about to become... [he walks up to a mirror and looks at himself] a carrot!\n"
+  },
+  {
+    "input": "Rob Schneider is a Wall Street executive [Rob walks into the scene with a briefcase, then he's in a hot tub with a beautiful woman] With everything going for him. [now in his office, he gets up and straddles his desk. He then pretends the desk is a horse] Only problem is, he's about to become... [he walks up to a mirror and looks at himself] a carrot!\n",
+    "output": "I'm a carrot!\n"
+  },
+  {
+    "input": "I'm a carrot!\n",
+    "output": "It's 24-carrot comedy. [hops away from a pursuing rabbit]\n"
+  },
+  {
+    "input": "It's 24-carrot comedy. [hops away from a pursuing rabbit]\n",
+    "output": "Oh oh oh oh oh oh oh oh ohh!\n"
+  },
+  {
+    "input": "Oh oh oh oh oh oh oh oh ohh!\n",
+    "output": "[title text is shown] Rob Schneider is A Carrot. Rated PG-13.\n"
+  },
+  {
+    "input": "[title text is shown] Rob Schneider is A Carrot. Rated PG-13.\n",
+    "output": "Oh for the love of Christ. [switches from miffed to excited] I wanna watch, fat boy! [...and back to miffed] No, Kenny, it's not funny!\n[The Jewleeard School, New York. Kyle approaches the school. Stan runs up to intercept him.]\n"
+  },
+  {
+    "input": "Oh for the love of Christ. [switches from miffed to excited] I wanna watch, fat boy! [...and back to miffed] No, Kenny, it's not funny!\n[The Jewleeard School, New York. Kyle approaches the school. Stan runs up to intercept him.]\n",
+    "output": "Kyle! Kyle!\n"
+  },
+  {
+    "input": "Kyle! Kyle!\n",
+    "output": "Don't try and stop me, Stan! This is what my grandma wants!\n"
+  },
+  {
+    "input": "Don't try and stop me, Stan! This is what my grandma wants!\n",
+    "output": "Look, I went and saw that John Edward guy. He's just a big douche.\n"
+  },
+  {
+    "input": "Look, I went and saw that John Edward guy. He's just a big douche.\n",
+    "output": "He's not a douche! He talked to my grandma!\n"
+  },
+  {
+    "input": "He's not a douche! He talked to my grandma!\n",
+    "output": "Kyle, you can't run your life based on what some douchey psychic said. They all just use a technique called \"cold reading.\" They've used it for hundreds of years to make people believe them.\n"
+  },
+  {
+    "input": "Kyle, you can't run your life based on what some douchey psychic said. They all just use a technique called \"cold reading.\" They've used it for hundreds of years to make people believe them.\n",
+    "output": "[listening, he approaches] Hey, whoa now. John Edward is for real.\n"
+  },
+  {
+    "input": "[listening, he approaches] Hey, whoa now. John Edward is for real.\n",
+    "output": "No, he's not.\n"
+  },
+  {
+    "input": "No, he's not.\n",
+    "output": "Yeah. My sister told me he knew our mother's name and when she died. [other adults begin to arrive and give testimony]\n"
+  },
+  {
+    "input": "Yeah. My sister told me he knew our mother's name and when she died. [other adults begin to arrive and give testimony]\n",
+    "output": "John Edward? Oh yeah, I heard he walked up to a guy on the street, and said his dead father wanted to say \"Happy Birthday,\" and it WAS his birthday.\n"
+  },
+  {
+    "input": "John Edward? Oh yeah, I heard he walked up to a guy on the street, and said his dead father wanted to say \"Happy Birthday,\" and it WAS his birthday.\n",
+    "output": "Yeah kid, how do you explain that?\n"
+  },
+  {
+    "input": "Yeah kid, how do you explain that?\n",
+    "output": "[looks around at the adults, then] Alright, look. I'll show you. I just need a volunteer. How about you?\n"
+  },
+  {
+    "input": "[looks around at the adults, then] Alright, look. I'll show you. I just need a volunteer. How about you?\n",
+    "output": "Oh-ho. Me? [steps forward. The others clap]\n"
+  },
+  {
+    "input": "Oh-ho. Me? [steps forward. The others clap]\n",
+    "output": "Okay, I'm gonna pretend that a dead person is talking to me about you, okay?\n"
+  },
+  {
+    "input": "Okay, I'm gonna pretend that a dead person is talking to me about you, okay?\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "Okay, watch, Kyle. Uh, it's an older man, someone very close to you.\n"
+  },
+  {
+    "input": "Okay, watch, Kyle. Uh, it's an older man, someone very close to you.\n",
+    "output": "My father?\n"
+  },
+  {
+    "input": "My father?\n",
+    "output": "Does this month, November, hold a special significance?\n"
+  },
+  {
+    "input": "Does this month, November, hold a special significance?\n",
+    "output": "[gasps] My birthday's in November!\n"
+  },
+  {
+    "input": "[gasps] My birthday's in November!\n",
+    "output": "Right, because he's saying, \"Tell her 'Happy Birthday.'\"\n"
+  },
+  {
+    "input": "Right, because he's saying, \"Tell her 'Happy Birthday.'\"\n",
+    "output": "Oh my God.\n"
+  },
+  {
+    "input": "Oh my God.\n",
+    "output": "See, Kyle? I just started with something really vague. I chose an older man because I'm betting that, based on this woman's age, her father is most likely dead. But if her father wasn't dead, I could still say it was some other older man.\n"
+  },
+  {
+    "input": "See, Kyle? I just started with something really vague. I chose an older man because I'm betting that, based on this woman's age, her father is most likely dead. But if her father wasn't dead, I could still say it was some other older man.\n",
+    "output": "Well then how'd you know her birthday was in November?\n"
+  },
+  {
+    "input": "Well then how'd you know her birthday was in November?\n",
+    "output": "I didn't. I just asked her if November meant anything. Her father could have died in November, or Thanksgiving could have been really special for them. But I go with the birthday and validate it now, as if I knew, by saying \"He wishes you a Happy Birthday.\"\n"
+  },
+  {
+    "input": "I didn't. I just asked her if November meant anything. Her father could have died in November, or Thanksgiving could have been really special for them. But I go with the birthday and validate it now, as if I knew, by saying \"He wishes you a Happy Birthday.\"\n",
+    "output": "[gasps] What else does he say?\n"
+  },
+  {
+    "input": "[gasps] What else does he say?\n",
+    "output": "Okay, I'll just use an old standard. He's saying \"the money. Stop worrying about the money.\"\n"
+  },
+  {
+    "input": "Okay, I'll just use an old standard. He's saying \"the money. Stop worrying about the money.\"\n",
+    "output": "[gasps] Oh my God! My sister and I have been fighting over his inheritance.\n"
+  },
+  {
+    "input": "[gasps] Oh my God! My sister and I have been fighting over his inheritance.\n",
+    "output": "That's amazing.\n"
+  },
+  {
+    "input": "That's amazing.\n",
+    "output": "No it isn't! When a father dies, inheritance is usually an issue, and money is something everyone worries about.\n"
+  },
+  {
+    "input": "No it isn't! When a father dies, inheritance is usually an issue, and money is something everyone worries about.\n",
+    "output": "That sounds a little too coincidental.\n"
+  },
+  {
+    "input": "That sounds a little too coincidental.\n",
+    "output": "Yes. There's only one explanation. This kid can communicate with the dead!\n"
+  },
+  {
+    "input": "Yes. There's only one explanation. This kid can communicate with the dead!\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "What?! [his deconstruction didn't work. The adults crowd in]\n"
+  },
+  {
+    "input": "What?! [his deconstruction didn't work. The adults crowd in]\n",
+    "output": "Do me next. I wanna talk to my mother.\n"
+  },
+  {
+    "input": "Do me next. I wanna talk to my mother.\n",
+    "output": "Can you try to reach my grandfather.\n"
+  },
+  {
+    "input": "Can you try to reach my grandfather.\n",
+    "output": "No wait.\n"
+  },
+  {
+    "input": "No wait.\n",
+    "output": "You have to tell me if my sister's in a good place. [Kyle walks away from the crowd and into Jewleeard]\n"
+  },
+  {
+    "input": "You have to tell me if my sister's in a good place. [Kyle walks away from the crowd and into Jewleeard]\n",
+    "output": "Yeah, help me out too, 'k?\n"
+  },
+  {
+    "input": "Yeah, help me out too, 'k?\n",
+    "output": "I'm next. I'm next.\n"
+  },
+  {
+    "input": "I'm next. I'm next.\n",
+    "output": "Hey, get out of my way!\n"
+  },
+  {
+    "input": "Hey, get out of my way!\n",
+    "output": "Do me!\n"
+  },
+  {
+    "input": "Do me!\n",
+    "output": "Kid, how would you like your own talking to the dead show?\n[Scotland, day, highlands. Night falls. Chef, Liane and Cartman arrive at the McElroy manor and Chef knocks on the door. Bagpipes that were playing stop. Mr. McElroy, Chef's dad, answers the door.]\n"
+  },
+  {
+    "input": "Kid, how would you like your own talking to the dead show?\n[Scotland, day, highlands. Night falls. Chef, Liane and Cartman arrive at the McElroy manor and Chef knocks on the door. Bagpipes that were playing stop. Mr. McElroy, Chef's dad, answers the door.]\n",
+    "output": "Hi Pop.\n"
+  },
+  {
+    "input": "Hi Pop.\n",
+    "output": "Junior! Aw, son, it's good to see you now.\n"
+  },
+  {
+    "input": "Junior! Aw, son, it's good to see you now.\n",
+    "output": "These are my friends, the Cartmans. [presents them]\n"
+  },
+  {
+    "input": "These are my friends, the Cartmans. [presents them]\n",
+    "output": "Well come on in out of the cold now. [the guests enter] There's heavy fog on the moors tonight. [closes the door, then leads them to the living room] Well, look what the cat dragged in, Nellie.\n"
+  },
+  {
+    "input": "Well come on in out of the cold now. [the guests enter] There's heavy fog on the moors tonight. [closes the door, then leads them to the living room] Well, look what the cat dragged in, Nellie.\n",
+    "output": "Oh, my baby come home!\n"
+  },
+  {
+    "input": "Oh, my baby come home!\n",
+    "output": "Hi, Momma! [gives her a hug]\n"
+  },
+  {
+    "input": "Hi, Momma! [gives her a hug]\n",
+    "output": "Lord, I thought you wasn't comin' till nine.\n"
+  },
+  {
+    "input": "Lord, I thought you wasn't comin' till nine.\n",
+    "output": "Mom, this is my friend, Ms. Cartman.\n"
+  },
+  {
+    "input": "Mom, this is my friend, Ms. Cartman.\n",
+    "output": "Please, call me Liane.\n"
+  },
+  {
+    "input": "Please, call me Liane.\n",
+    "output": "So nice to have you here, Liane.\n"
+  },
+  {
+    "input": "So nice to have you here, Liane.\n",
+    "output": "And is this the children you told us about?\n"
+  },
+  {
+    "input": "And is this the children you told us about?\n",
+    "output": "Yeah, Pop. This is Eric.\n"
+  },
+  {
+    "input": "Yeah, Pop. This is Eric.\n",
+    "output": "Well, let's see here now. [genuflects and checks Cartman out in various places on the body] Mhm, mhm, mhm. [stands up] Yeup! There's definitely more than one children in there.\n"
+  },
+  {
+    "input": "Well, let's see here now. [genuflects and checks Cartman out in various places on the body] Mhm, mhm, mhm. [stands up] Yeup! There's definitely more than one children in there.\n",
+    "output": "Oh dear.\n"
+  },
+  {
+    "input": "Oh dear.\n",
+    "output": "Nellie, you best have at it now.\n"
+  },
+  {
+    "input": "Nellie, you best have at it now.\n",
+    "output": "Oh Lord, and I just put the roast in the oven, too. [walks off to the kitchen muttering] Ain't gonna have no time now to baste it. Don't nobody blame me, a woman can't bake no roast and do everything else at the same time. [Thomas walks off to his left] Can't say that the roast is gonna be terrible, maybe just a little dry. [Thomas returns with a stool] But I suppose we can make some extra gravy to take the dryness out later. [Nellie returns dressed as a shaman with angel wings]\n"
+  },
+  {
+    "input": "Oh Lord, and I just put the roast in the oven, too. [walks off to the kitchen muttering] Ain't gonna have no time now to baste it. Don't nobody blame me, a woman can't bake no roast and do everything else at the same time. [Thomas walks off to his left] Can't say that the roast is gonna be terrible, maybe just a little dry. [Thomas returns with a stool] But I suppose we can make some extra gravy to take the dryness out later. [Nellie returns dressed as a shaman with angel wings]\n",
+    "output": "Alright, children, stand up on this chair now.\n"
+  },
+  {
+    "input": "Alright, children, stand up on this chair now.\n",
+    "output": "Right now?\n"
+  },
+  {
+    "input": "Right now?\n",
+    "output": "Yes, right now. [Cartman steps up on the small stool and Nellie begins to work on him.]\n"
+  },
+  {
+    "input": "Yes, right now. [Cartman steps up on the small stool and Nellie begins to work on him.]\n",
+    "output": "[waving her scepters] Na kamaa karash meh nah- [strikes Cartman]\n"
+  },
+  {
+    "input": "[waving her scepters] Na kamaa karash meh nah- [strikes Cartman]\n",
+    "output": "Whoa, whoa, watch it lady.\n"
+  },
+  {
+    "input": "Whoa, whoa, watch it lady.\n",
+    "output": "Come out now. Come out now.\n"
+  },
+  {
+    "input": "Come out now. Come out now.\n",
+    "output": "Just stay still, Eric. Mom knows what she's doing.\n"
+  },
+  {
+    "input": "Just stay still, Eric. Mom knows what she's doing.\n",
+    "output": "You all come out of there now.\n[\"The Other Side\".]\n"
+  },
+  {
+    "input": "You all come out of there now.\n[\"The Other Side\".]\n",
+    "output": "At a very young age one young boy learned he had a special gift. This is \"The Other Side.\" [the curtain rises to reveal Stan on set with the studio audience clapping. He steps forward and the curtain falls down behind him]\n"
+  },
+  {
+    "input": "At a very young age one young boy learned he had a special gift. This is \"The Other Side.\" [the curtain rises to reveal Stan on set with the studio audience clapping. He steps forward and the curtain falls down behind him]\n",
+    "output": "Okay, listen to me. Listen very carefully. [the applause dies down] This is a trick that I am doing. Okay? Watch. All I'm gonna do is say a name that I'm gonna pick at random. Okay? [puts his hand to his temple] They want me to acknowledge Pete, or Peter.\n"
+  },
+  {
+    "input": "Okay, listen to me. Listen very carefully. [the applause dies down] This is a trick that I am doing. Okay? Watch. All I'm gonna do is say a name that I'm gonna pick at random. Okay? [puts his hand to his temple] They want me to acknowledge Pete, or Peter.\n",
+    "output": "[jumps up] Yes! Yes, my Peter! [begins to sob]\n"
+  },
+  {
+    "input": "[jumps up] Yes! Yes, my Peter! [begins to sob]\n",
+    "output": "Wow!! [begins to clap]\n"
+  },
+  {
+    "input": "Wow!! [begins to clap]\n",
+    "output": "No! Stop clapping! All I did was pick a random name and wait for somebody in the audience to give a response. Now that I see that there's a lone woman crying, my instinct tells me Peter was her husband. So I say, \"Peter was your husband?\"\n"
+  },
+  {
+    "input": "No! Stop clapping! All I did was pick a random name and wait for somebody in the audience to give a response. Now that I see that there's a lone woman crying, my instinct tells me Peter was her husband. So I say, \"Peter was your husband?\"\n",
+    "output": "[sobbing] Yes, yes! Yes, my husband Peter!\n"
+  },
+  {
+    "input": "[sobbing] Yes, yes! Yes, my husband Peter!\n",
+    "output": "Wow!! [begins to clap]\n"
+  },
+  {
+    "input": "Wow!! [begins to clap]\n",
+    "output": "Oh wow!\n"
+  },
+  {
+    "input": "Oh wow!\n",
+    "output": "[getting annoyed] Stop it! I didn't do anything!\n"
+  },
+  {
+    "input": "[getting annoyed] Stop it! I didn't do anything!\n",
+    "output": "[rises and accuses] You knew Peter was dead!\n"
+  },
+  {
+    "input": "[rises and accuses] You knew Peter was dead!\n",
+    "output": "[reminding] I didn't start by saying Peter is dead! I started by saying, \"They want me to acknowledge Peter.\" That could have meant Peter was in the audience or that Peter was somebody's friend, or Peter had died. I couldn't be wrong, see? Now, I can look at this woman and see that she's fairly young, so odds are her husband was fairly young when he died. So I can say something like, \"I'm getting that Peter's death was very untimely.\"\n"
+  },
+  {
+    "input": "[reminding] I didn't start by saying Peter is dead! I started by saying, \"They want me to acknowledge Peter.\" That could have meant Peter was in the audience or that Peter was somebody's friend, or Peter had died. I couldn't be wrong, see? Now, I can look at this woman and see that she's fairly young, so odds are her husband was fairly young when he died. So I can say something like, \"I'm getting that Peter's death was very untimely.\"\n",
+    "output": "[sobbing] Yes, it was.\n"
+  },
+  {
+    "input": "[sobbing] Yes, it was.\n",
+    "output": "Wow!! [begins to clap]\n"
+  },
+  {
+    "input": "Wow!! [begins to clap]\n",
+    "output": "Amazing!\n"
+  },
+  {
+    "input": "Amazing!\n",
+    "output": "Ask Peter if he knows my little Billy.\n"
+  },
+  {
+    "input": "Ask Peter if he knows my little Billy.\n",
+    "output": "[frustrated, with right hand over his clenched eyelids] Okay. Let's back up. [each audience row backs up to the one behind it] Not literally!\n[McElroy manor, night. Nellie is still working on Cartman. He's laying on a bed, and Chef's dad helps in the exorcism.]\n"
+  },
+  {
+    "input": "[frustrated, with right hand over his clenched eyelids] Okay. Let's back up. [each audience row backs up to the one behind it] Not literally!\n[McElroy manor, night. Nellie is still working on Cartman. He's laying on a bed, and Chef's dad helps in the exorcism.]\n",
+    "output": "In the name of all that is holy we demand this spirit be set free!\n"
+  },
+  {
+    "input": "In the name of all that is holy we demand this spirit be set free!\n",
+    "output": "Ahh, Aahhhh! [the adults back away from the bed. Soon, an orange glow appears on Cartman's belly]\n"
+  },
+  {
+    "input": "Ahh, Aahhhh! [the adults back away from the bed. Soon, an orange glow appears on Cartman's belly]\n",
+    "output": "There we go! We're gettin' somethin' now!\n"
+  },
+  {
+    "input": "There we go! We're gettin' somethin' now!\n",
+    "output": "Come on out, spirit. Go!\n"
+  },
+  {
+    "input": "Come on out, spirit. Go!\n",
+    "output": "Come on out hyow! It's safe! [Cartman groans with the pain Kenny's spirit is causing him. Thomas quickly moves to the foot of the bed] Here it comes! The spirit is comin' out hyuh! [a timer goes off]\n"
+  },
+  {
+    "input": "Come on out hyow! It's safe! [Cartman groans with the pain Kenny's spirit is causing him. Thomas quickly moves to the foot of the bed] Here it comes! The spirit is comin' out hyuh! [a timer goes off]\n",
+    "output": "Oooo, that's the potatoes. [she removes all her costume and heads to the kitchen]\n"
+  },
+  {
+    "input": "Oooo, that's the potatoes. [she removes all her costume and heads to the kitchen]\n",
+    "output": "[a few seconds later] Well hold on the potatoes two seconds, woman! [Nellie stops and turns around] The soul's comin' out hyuh! [Cartman writhes on the bed as Kenny's spirit now glows from Cartman's pants] It's almost done. Alright, son. Now bring me the victim child!\n"
+  },
+  {
+    "input": "[a few seconds later] Well hold on the potatoes two seconds, woman! [Nellie stops and turns around] The soul's comin' out hyuh! [Cartman writhes on the bed as Kenny's spirit now glows from Cartman's pants] It's almost done. Alright, son. Now bring me the victim child!\n",
+    "output": "The victim child?\n"
+  },
+  {
+    "input": "The victim child?\n",
+    "output": "Yeah. You know, the child that we sacrifice so we can put Kenny's soul into its body. [Chef looks off to his right. Liane and Thomas follow his gaze]\n"
+  },
+  {
+    "input": "Yeah. You know, the child that we sacrifice so we can put Kenny's soul into its body. [Chef looks off to his right. Liane and Thomas follow his gaze]\n",
+    "output": "Oh Lord, they didn't bring a victim child.\n"
+  },
+  {
+    "input": "Oh Lord, they didn't bring a victim child.\n",
+    "output": "Where were we gonna find a child to sacrifice?\n"
+  },
+  {
+    "input": "Where were we gonna find a child to sacrifice?\n",
+    "output": "We weren't gonna ask you where you got it from. [Cartman groans once more, and Kenny's spirit bolts out and bounces around the room. The adults try to dodge it]\n"
+  },
+  {
+    "input": "We weren't gonna ask you where you got it from. [Cartman groans once more, and Kenny's spirit bolts out and bounces around the room. The adults try to dodge it]\n",
+    "output": "God-damnit! The spirit's out and it don't have no where to go!\n"
+  },
+  {
+    "input": "God-damnit! The spirit's out and it don't have no where to go!\n",
+    "output": "Lord, Thomas, don't let it get on the curtains.\n[Movie trailer. First scene is a disco dance floor. Rob Schneider is dancing around like John Travolta.]\n"
+  },
+  {
+    "input": "Lord, Thomas, don't let it get on the curtains.\n[Movie trailer. First scene is a disco dance floor. Rob Schneider is dancing around like John Travolta.]\n",
+    "output": "Rob Schneider derp de derp. [next scene: he's walking down a city street when a pretty woman passes by. He looks back at her] Derp de derpity derpy derp. [he runs into a light standard. Next scene: he's a lab technician working with nitrogen. He drinks a strange liquid] Until one day, the derpa derpa derpaderp. [Rob is shown dancing like a monkey on the street] Derp de derp. [he's in a house begging like a dog in front of a woman] da teedily dumb.\n"
+  },
+  {
+    "input": "Rob Schneider derp de derp. [next scene: he's walking down a city street when a pretty woman passes by. He looks back at her] Derp de derpity derpy derp. [he runs into a light standard. Next scene: he's a lab technician working with nitrogen. He drinks a strange liquid] Until one day, the derpa derpa derpaderp. [Rob is shown dancing like a monkey on the street] Derp de derp. [he's in a house begging like a dog in front of a woman] da teedily dumb.\n",
+    "output": "[rises a bit, then starts falling backwards down the stairs] Whoa! [hits the ground floor landing]\n"
+  },
+  {
+    "input": "[rises a bit, then starts falling backwards down the stairs] Whoa! [hits the ground floor landing]\n",
+    "output": "From the creators of Der, and Tum Ta Tittaly Tum Ta Too, Rob Schneider is Da Derp Dee Derp Da Teetley Derpee Derpee Dumb. Rated PG-13.\n[The Jewleeard School, New York. Kyle is studying. Stan approaches him with a stack of papers.]\n"
+  },
+  {
+    "input": "From the creators of Der, and Tum Ta Tittaly Tum Ta Too, Rob Schneider is Da Derp Dee Derp Da Teetley Derpee Derpee Dumb. Rated PG-13.\n[The Jewleeard School, New York. Kyle is studying. Stan approaches him with a stack of papers.]\n",
+    "output": "Here. Look, Kyle. I found tons of testimonials on the Internet saying that John Edward has the entire studio wired to hear what people are talking about before the show. And, he pays actors to be plants in the audience.\n"
+  },
+  {
+    "input": "Here. Look, Kyle. I found tons of testimonials on the Internet saying that John Edward has the entire studio wired to hear what people are talking about before the show. And, he pays actors to be plants in the audience.\n",
+    "output": "You're just jealous he's a better psychic than you.\n"
+  },
+  {
+    "input": "You're just jealous he's a better psychic than you.\n",
+    "output": "Fine, I give up! You wanna stay in New York?! Then go ahead! [throws the stack away and leaves. He reaches the front doors, opens them, and is face-to-face with John Edward]\n"
+  },
+  {
+    "input": "Fine, I give up! You wanna stay in New York?! Then go ahead! [throws the stack away and leaves. He reaches the front doors, opens them, and is face-to-face with John Edward]\n",
+    "output": "So, you think you can talk to dead people better than me, huh?!\n"
+  },
+  {
+    "input": "So, you think you can talk to dead people better than me, huh?!\n",
+    "output": "No, I don't think either one of us can. [Kyle gets up from his seat and leaves the room]\n"
+  },
+  {
+    "input": "No, I don't think either one of us can. [Kyle gets up from his seat and leaves the room]\n",
+    "output": "They told me your show is getting better ratings than mine, that you're saying I'm a fraud on your show! You'd better not ever call me a liar, or a fake, or a douche again, or else I'll sue you for slander!\n"
+  },
+  {
+    "input": "They told me your show is getting better ratings than mine, that you're saying I'm a fraud on your show! You'd better not ever call me a liar, or a fake, or a douche again, or else I'll sue you for slander!\n",
+    "output": "I'm saying this to you, John Edward, you are a liar, you are a fake, and you are the biggest douche ever!\n"
+  },
+  {
+    "input": "I'm saying this to you, John Edward, you are a liar, you are a fake, and you are the biggest douche ever!\n",
+    "output": "Everything I tell people is positive and gives them hope! How does that make me a douche?!\n"
+  },
+  {
+    "input": "Everything I tell people is positive and gives them hope! How does that make me a douche?!\n",
+    "output": "Because the big questions in life are tough: Why are we here? Where are we from? Where are we going? But if people believe in asshole douchey liars like you, we're never gonna find the real answer to those questions. You aren't just lying, you're slowing down the progress of all mankind, you douche!\n"
+  },
+  {
+    "input": "Because the big questions in life are tough: Why are we here? Where are we from? Where are we going? But if people believe in asshole douchey liars like you, we're never gonna find the real answer to those questions. You aren't just lying, you're slowing down the progress of all mankind, you douche!\n",
+    "output": "I'M NOT A DOUCHE! And I challenge you to a psychic showdown! I'll prove to the world that I'm psychic and you're not!\n"
+  },
+  {
+    "input": "I'M NOT A DOUCHE! And I challenge you to a psychic showdown! I'll prove to the world that I'm psychic and you're not!\n",
+    "output": "Fine, douche! [slams one door on him...]\n"
+  },
+  {
+    "input": "Fine, douche! [slams one door on him...]\n",
+    "output": "I'm not a douche! [...then the other]\n[The McElroy manor, night. Kenny's spirit is now in the living room flitting about. Thomas enters with a broom, swinging it around to capture it somehow.]\n"
+  },
+  {
+    "input": "I'm not a douche! [...then the other]\n[The McElroy manor, night. Kenny's spirit is now in the living room flitting about. Thomas enters with a broom, swinging it around to capture it somehow.]\n",
+    "output": "Well come on, the soul's in here! It can't escape now. [Liane and Chef enter the room] It's goin' to the light! Unfortunately, it's the livin' room light.\n"
+  },
+  {
+    "input": "Well come on, the soul's in here! It can't escape now. [Liane and Chef enter the room] It's goin' to the light! Unfortunately, it's the livin' room light.\n",
+    "output": "I'll open a window, you try to chase it out, Thomas.\n"
+  },
+  {
+    "input": "I'll open a window, you try to chase it out, Thomas.\n",
+    "output": "Go on now, soul now!\n"
+  },
+  {
+    "input": "Go on now, soul now!\n",
+    "output": "Here, spirit, come out the window. [opens a window] I'll give you tree-fiddy. [holds out some money for the spirit]\n"
+  },
+  {
+    "input": "Here, spirit, come out the window. [opens a window] I'll give you tree-fiddy. [holds out some money for the spirit]\n",
+    "output": "Now don't go offerin' the soul no tree-fiddy, woman!\n"
+  },
+  {
+    "input": "Now don't go offerin' the soul no tree-fiddy, woman!\n",
+    "output": "I'm just tryin' to persuade it.\n"
+  },
+  {
+    "input": "I'm just tryin' to persuade it.\n",
+    "output": "Well I know, but you can at least start at about two quarter or somethin' [the spirit comes out of the light and flits out of the living room] Aw Christmas, there it goes again!\n"
+  },
+  {
+    "input": "Well I know, but you can at least start at about two quarter or somethin' [the spirit comes out of the light and flits out of the living room] Aw Christmas, there it goes again!\n",
+    "output": "[drops the money] It's headin' for the kitchen! Aw, Thomas, the pot roast! [heads for the kitchen after the spirit]\n[The McElroy manor, kitchen. Kenny's spirit flits in and bounces around the kitchen. The adults enter, hot on its trail.]\n"
+  },
+  {
+    "input": "[drops the money] It's headin' for the kitchen! Aw, Thomas, the pot roast! [heads for the kitchen after the spirit]\n[The McElroy manor, kitchen. Kenny's spirit flits in and bounces around the kitchen. The adults enter, hot on its trail.]\n",
+    "output": "Over here!\n"
+  },
+  {
+    "input": "Over here!\n",
+    "output": "Get it down.\n"
+  },
+  {
+    "input": "Get it down.\n",
+    "output": "Don't let it get in the roast! [the spirit moves over the roast. The others move with it, but the spirit dives into the pot roast, making it bounce. The adults crowd in and look at the pot roast]\n"
+  },
+  {
+    "input": "Don't let it get in the roast! [the spirit moves over the roast. The others move with it, but the spirit dives into the pot roast, making it bounce. The adults crowd in and look at the pot roast]\n",
+    "output": "Oh. Well. I guess the child's a pot roast now.\n"
+  },
+  {
+    "input": "Oh. Well. I guess the child's a pot roast now.\n",
+    "output": "What do we do with it now?\n"
+  },
+  {
+    "input": "What do we do with it now?\n",
+    "output": "[turns around to get something] Well I'll wrap it up with some plastic wrap so you can take it home with ya. Should last a few months in the freezer. [turns around with a box of Saran Wrap]\n"
+  },
+  {
+    "input": "[turns around to get something] Well I'll wrap it up with some plastic wrap so you can take it home with ya. Should last a few months in the freezer. [turns around with a box of Saran Wrap]\n",
+    "output": "[entering refreshed] Hey, ah I feel a lot better.\n"
+  },
+  {
+    "input": "[entering refreshed] Hey, ah I feel a lot better.\n",
+    "output": "Eric, you're okay! [the others gather around him. Liane kneels to hug him]\n"
+  },
+  {
+    "input": "Eric, you're okay! [the others gather around him. Liane kneels to hug him]\n",
+    "output": "Oh, baby, your time is back!\n"
+  },
+  {
+    "input": "Oh, baby, your time is back!\n",
+    "output": "[lays a hand on Cartman's head and pronounces] This child is clean.\n[The John Edward studio.]\n"
+  },
+  {
+    "input": "[lays a hand on Cartman's head and pronounces] This child is clean.\n[The John Edward studio.]\n",
+    "output": "Ladies and Gentlemen, it's \"Psychic Showdown.\" Here are John Edward, and Stan Marsh. [both of them enter and get on stage. The studio audience applauds]\n"
+  },
+  {
+    "input": "Ladies and Gentlemen, it's \"Psychic Showdown.\" Here are John Edward, and Stan Marsh. [both of them enter and get on stage. The studio audience applauds]\n",
+    "output": "Thank you. [the applause dies down. He turns to Stan] Alright, asshole! I know you're here to try to throw me off, so go ahead. Give me your best shot!\n"
+  },
+  {
+    "input": "Thank you. [the applause dies down. He turns to Stan] Alright, asshole! I know you're here to try to throw me off, so go ahead. Give me your best shot!\n",
+    "output": "No, I don't wanna talk to you. I wanna talk to the audience.\n"
+  },
+  {
+    "input": "No, I don't wanna talk to you. I wanna talk to the audience.\n",
+    "output": "Wah-why?\n"
+  },
+  {
+    "input": "Wah-why?\n",
+    "output": "You see, I learned something today. At first I thought you were all just stupid, listening to this douche's advice, but now I understand that you're all here because you're scared. You're scared of death and he offers you some kind of understanding. You all want to believe in it so much, I know you do. You find comfort in the thought that your loved ones are floating around trying to talk to you, but think about it: Is that really what you want? To just be floating around after you die, having to talk to this asshole? [the audience is listening] We need to recognize this stuff for what it is: magic tricks. Because whatever's really going on in life and in death is much more amazing than this douche. [more audience listening, reflection. Kyle is present. One man claps, then others clap with him, then murmurs are heard]\n"
+  },
+  {
+    "input": "You see, I learned something today. At first I thought you were all just stupid, listening to this douche's advice, but now I understand that you're all here because you're scared. You're scared of death and he offers you some kind of understanding. You all want to believe in it so much, I know you do. You find comfort in the thought that your loved ones are floating around trying to talk to you, but think about it: Is that really what you want? To just be floating around after you die, having to talk to this asshole? [the audience is listening] We need to recognize this stuff for what it is: magic tricks. Because whatever's really going on in life and in death is much more amazing than this douche. [more audience listening, reflection. Kyle is present. One man claps, then others clap with him, then murmurs are heard]\n",
+    "output": "Yes. Right. Yeah. [John looks angrily at Stan]\n"
+  },
+  {
+    "input": "Yes. Right. Yeah. [John looks angrily at Stan]\n",
+    "output": "[now next to Stan with fake beard in hand] You're right, Stan. My Grandma isn't floating around, judging me and watching what I do. She's dead. Dead and gone forever.\n"
+  },
+  {
+    "input": "[now next to Stan with fake beard in hand] You're right, Stan. My Grandma isn't floating around, judging me and watching what I do. She's dead. Dead and gone forever.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "But I do have a special power! I know I do!\n"
+  },
+  {
+    "input": "But I do have a special power! I know I do!\n",
+    "output": "There's nothing special about you, dude. Get over yourself.\n"
+  },
+  {
+    "input": "There's nothing special about you, dude. Get over yourself.\n",
+    "output": "God-damnit, I'm special!! [a rumble is heard, the studio shakes, and a bright light shines from above. John, Stan and Kyle look up in wonder]\n"
+  },
+  {
+    "input": "God-damnit, I'm special!! [a rumble is heard, the studio shakes, and a bright light shines from above. John, Stan and Kyle look up in wonder]\n",
+    "output": "What the?\n"
+  },
+  {
+    "input": "What the?\n",
+    "output": "Aaaah! [the ceiling above the studio begins to crack, and a huge red spacecraft breaks through, descending to the ground. Stan and Kyle step back. The craft settles down and a door opens downward to become a staircase. Aliens appear and descend the stairs]\n"
+  },
+  {
+    "input": "Aaaah! [the ceiling above the studio begins to crack, and a huge red spacecraft breaks through, descending to the ground. Stan and Kyle step back. The craft settles down and a door opens downward to become a staircase. Aliens appear and descend the stairs]\n",
+    "output": "[with two noses, and a pair of eyes for each nose. The eyes stick out like antennae] Greetings from the Jannex Galaxy. [the other aliens take a bow] We seek the great John Edward.\n"
+  },
+  {
+    "input": "[with two noses, and a pair of eyes for each nose. The eyes stick out like antennae] Greetings from the Jannex Galaxy. [the other aliens take a bow] We seek the great John Edward.\n",
+    "output": "Why that... that's me!\n"
+  },
+  {
+    "input": "Why that... that's me!\n",
+    "output": "Sir, it is an honor to meet you. [extends his... \"hand\"]\n"
+  },
+  {
+    "input": "Sir, it is an honor to meet you. [extends his... \"hand\"]\n",
+    "output": "[extends his hand and gives the alien a handshake] Well, thank you very much! [looks smugly at Stan]\n"
+  },
+  {
+    "input": "[extends his hand and gives the alien a handshake] Well, thank you very much! [looks smugly at Stan]\n",
+    "output": "No, it can't be.\n"
+  },
+  {
+    "input": "No, it can't be.\n",
+    "output": "I am Quagmar, and this is the Intergalactic BDIU Committee. Mr. Edward, it is my honor to inform you that you have been nominated for Biggest Douche In the Universe! [the other aliens clap]\n"
+  },
+  {
+    "input": "I am Quagmar, and this is the Intergalactic BDIU Committee. Mr. Edward, it is my honor to inform you that you have been nominated for Biggest Douche In the Universe! [the other aliens clap]\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "[in purple robes, with yellow legs] You are the first nominee from the Milky Way Galaxy.\n"
+  },
+  {
+    "input": "[in purple robes, with yellow legs] You are the first nominee from the Milky Way Galaxy.\n",
+    "output": "[with four arms] Congratulations!\n"
+  },
+  {
+    "input": "[with four arms] Congratulations!\n",
+    "output": "Oh, dude! [smiles]\n"
+  },
+  {
+    "input": "Oh, dude! [smiles]\n",
+    "output": "If you step into our plabpa feed, we'll give you a first-class ride to the awards show. [the aliens escort him into the spacecraft]\n"
+  },
+  {
+    "input": "If you step into our plabpa feed, we'll give you a first-class ride to the awards show. [the aliens escort him into the spacecraft]\n",
+    "output": "No, wait! I'm not a douche! I make people feel good about themselves! [the door closes and the spacecraft takes off] I give people resolution! [the craft is seen going straight up, then off in a random direction. Stan and Kyle look on, then they turn around]\n"
+  },
+  {
+    "input": "No, wait! I'm not a douche! I make people feel good about themselves! [the door closes and the spacecraft takes off] I give people resolution! [the craft is seen going straight up, then off in a random direction. Stan and Kyle look on, then they turn around]\n",
+    "output": "Now do you people believe me?\n"
+  },
+  {
+    "input": "Now do you people believe me?\n",
+    "output": "Well I don't know. How did Edward know my father died in March?\n[Denver International Airport, day. Cartman, Liane, and Chef exit the airport.]\n"
+  },
+  {
+    "input": "Well I don't know. How did Edward know my father died in March?\n[Denver International Airport, day. Cartman, Liane, and Chef exit the airport.]\n",
+    "output": "God-damnit that was a long flight! I thought we'd never get out of stinky-ass smelly Scotland!\n"
+  },
+  {
+    "input": "God-damnit that was a long flight! I thought we'd never get out of stinky-ass smelly Scotland!\n",
+    "output": "Oh it's so good to have you acting like yourself again, sweetie.\n"
+  },
+  {
+    "input": "Oh it's so good to have you acting like yourself again, sweetie.\n",
+    "output": "Well, come on. We'd better get Kenny back to his parents. Wait a minute. Who's got the pot roast?\n"
+  },
+  {
+    "input": "Well, come on. We'd better get Kenny back to his parents. Wait a minute. Who's got the pot roast?\n",
+    "output": "I thought you got it.\n"
+  },
+  {
+    "input": "I thought you got it.\n",
+    "output": "It's still at baggage claim!\n"
+  },
+  {
+    "input": "It's still at baggage claim!\n",
+    "output": "Aw, damnit! Come on! [they go back into the airport] We've gotta find him! Kenny!\n[Commercial.]\n"
+  },
+  {
+    "input": "Aw, damnit! Come on! [they go back into the airport] We've gotta find him! Kenny!\n[Commercial.]\n",
+    "output": "Rob Schneider is a somewhat popular comedic actor [he's seen dancing around on the red carpet on his way into the Chinese theater] who seemed to have it all, [now sitting at his desk counting his millions] until one day, he came across a pot roast, [standing in line at Denver International, he sees the pot roast on a table. The roast is labeled \"Chef McElroy, South Park\"] and his life changed forever. [he's taken the roast home and is carving it up and eating it. He senses something is wrong] Now he's sharing his body with an eight-year-old boy. [first, on a hobby elephant as the kids watch then, in Kenny's room getting dressed; then, waiting at the bus stop with Stan, Kyle, and Cartman] And he's about to find out [now getting on his desk and dancing] that being eight [now on all fours attempting to kiss Millie. Barbrady and partner show up; next, he's running down the street trying to escape the officers] ain't so great. [standing on the Kenny McCormick Memorial Square stage, suffers the same fate Kenny did back when Kathy Lee Gifford came to town - getting shot and then impaled on the South Park flag pole] Rob Schneider is KENNY! [title text and graphic come up] Rated PG-13.\n[Somewhere in space...]\n"
+  },
+  {
+    "input": "Rob Schneider is a somewhat popular comedic actor [he's seen dancing around on the red carpet on his way into the Chinese theater] who seemed to have it all, [now sitting at his desk counting his millions] until one day, he came across a pot roast, [standing in line at Denver International, he sees the pot roast on a table. The roast is labeled \"Chef McElroy, South Park\"] and his life changed forever. [he's taken the roast home and is carving it up and eating it. He senses something is wrong] Now he's sharing his body with an eight-year-old boy. [first, on a hobby elephant as the kids watch then, in Kenny's room getting dressed; then, waiting at the bus stop with Stan, Kyle, and Cartman] And he's about to find out [now getting on his desk and dancing] that being eight [now on all fours attempting to kiss Millie. Barbrady and partner show up; next, he's running down the street trying to escape the officers] ain't so great. [standing on the Kenny McCormick Memorial Square stage, suffers the same fate Kenny did back when Kathy Lee Gifford came to town - getting shot and then impaled on the South Park flag pole] Rob Schneider is KENNY! [title text and graphic come up] Rated PG-13.\n[Somewhere in space...]\n",
+    "output": "Live, from the space station Xion, in the Vuntlin Galaxy. It's the Biggest Douche In the Universe Award! [title graphic comes up. Inside, one finds that this is the 478th Annual Award. The auditorium is huge, with two balcony levels]\n"
+  },
+  {
+    "input": "Live, from the space station Xion, in the Vuntlin Galaxy. It's the Biggest Douche In the Universe Award! [title graphic comes up. Inside, one finds that this is the 478th Annual Award. The auditorium is huge, with two balcony levels]\n",
+    "output": "This year's nominees are...\n"
+  },
+  {
+    "input": "This year's nominees are...\n",
+    "output": "[yellow, with nine eyes, two large wings, and a mouth at the very top of the body] Quaglar the Destructor, Andromeda Galaxy, Planet J-11. [applause. A massive shackled green alien roars]\n"
+  },
+  {
+    "input": "[yellow, with nine eyes, two large wings, and a mouth at the very top of the body] Quaglar the Destructor, Andromeda Galaxy, Planet J-11. [applause. A massive shackled green alien roars]\n",
+    "output": "Damanta Unit 5, J-Lax Galaxy, Planet Neeu. [a robot with a metallic sledgehammer]\n"
+  },
+  {
+    "input": "Damanta Unit 5, J-Lax Galaxy, Planet Neeu. [a robot with a metallic sledgehammer]\n",
+    "output": "Derrr. [hammers himself on the head with the sledgehammer]\n"
+  },
+  {
+    "input": "Derrr. [hammers himself on the head with the sledgehammer]\n",
+    "output": "John Edward, Milky Way Galaxy, Planet Earth. [some aliens around Edward start to cheer]\n"
+  },
+  {
+    "input": "John Edward, Milky Way Galaxy, Planet Earth. [some aliens around Edward start to cheer]\n",
+    "output": "I'm not a douche!\n"
+  },
+  {
+    "input": "I'm not a douche!\n",
+    "output": "And finally, Ursula, the giant douche [a douche bottle with applicator] from the Horsehead Nebula, Station J-12.\n"
+  },
+  {
+    "input": "And finally, Ursula, the giant douche [a douche bottle with applicator] from the Horsehead Nebula, Station J-12.\n",
+    "output": "And the winner for Biggest Douche In the Universe is... [opens the envelope and reads] It's John Edward, Milky Way Galaxy, Planet Earth!\n"
+  },
+  {
+    "input": "And the winner for Biggest Douche In the Universe is... [opens the envelope and reads] It's John Edward, Milky Way Galaxy, Planet Earth!\n",
+    "output": "[a lovely alien woman comes to take him to the stage] Uh no, come on now! [once on stage, he gets a beauty-pageant treatment, complete with banner over his shoulder saying \"BIGGEST DOUCHE\" and a crown]\n"
+  },
+  {
+    "input": "[a lovely alien woman comes to take him to the stage] Uh no, come on now! [once on stage, he gets a beauty-pageant treatment, complete with banner over his shoulder saying \"BIGGEST DOUCHE\" and a crown]\n",
+    "output": "Here he is, the Biggest Douche of the Universe!\n[The credit rolls with the real-life John Edward picture.]\n"
+  },
+  {
+    "input": "Here he is, the Biggest Douche of the Universe!\n[The credit rolls with the real-life John Edward picture.]\n",
+    "output": "In all the galaxies, there's no bigger douche than you!\nYou've reached the top, the pinnacle of douchedom! Good going, douche. Your dreams have come true!\n"
+  }
+]

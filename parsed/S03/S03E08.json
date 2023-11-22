@@ -1,0 +1,1438 @@
+[
+  {
+    "input": "",
+    "output": "Two Guys Naked in a Hot Tub\n\n[The Marsh car, night, Randy's driving. He and Sharon take Stan along with them. It seems Shelly has already been dropped off at Cartman's house to babysit him.]\n"
+  },
+  {
+    "input": "Two Guys Naked in a Hot Tub\n\n[The Marsh car, night, Randy's driving. He and Sharon take Stan along with them. It seems Shelly has already been dropped off at Cartman's house to babysit him.]\n",
+    "output": "I don't want to go to this stupid party!\n"
+  },
+  {
+    "input": "I don't want to go to this stupid party!\n",
+    "output": "Come on, Stan, you're gonna have a great time.\n"
+  },
+  {
+    "input": "Come on, Stan, you're gonna have a great time.\n",
+    "output": "No, you guys are gonna have a great time! Whenever there's a party, the adults get to hang out and have fun while the kids spend the night locked in the basement eating stale pretzels.\n"
+  },
+  {
+    "input": "No, you guys are gonna have a great time! Whenever there's a party, the adults get to hang out and have fun while the kids spend the night locked in the basement eating stale pretzels.\n",
+    "output": "Well, your mom and I don't get out much, so you'll just have to bear through it.\n[The Mackey house. The Marshes arrive. Four other cars are there, one of them double-parked. The house is festooned with stars of various sizes, with two shooting stars among them. A banner reads, \"METEOR SHOWER PARTY\" while a sign on the door reads \"WELCOME SKYWATCHERS.\" The Marshes reach the door and Randy rings the bell. Mr. Mackey answers.]\n"
+  },
+  {
+    "input": "Well, your mom and I don't get out much, so you'll just have to bear through it.\n[The Mackey house. The Marshes arrive. Four other cars are there, one of them double-parked. The house is festooned with stars of various sizes, with two shooting stars among them. A banner reads, \"METEOR SHOWER PARTY\" while a sign on the door reads \"WELCOME SKYWATCHERS.\" The Marshes reach the door and Randy rings the bell. Mr. Mackey answers.]\n",
+    "output": "Hello! Welcome, hmkay? This is already a wild party, hm.\n"
+  },
+  {
+    "input": "Hello! Welcome, hmkay? This is already a wild party, hm.\n",
+    "output": "Yeah, well uh, sorry we had to bring the kid along. We had nowhere else to put him.\n"
+  },
+  {
+    "input": "Yeah, well uh, sorry we had to bring the kid along. We had nowhere else to put him.\n",
+    "output": "Oh, that's okay. I've got a special kids' room down in the basement.\n"
+  },
+  {
+    "input": "Oh, that's okay. I've got a special kids' room down in the basement.\n",
+    "output": "Awww!\n"
+  },
+  {
+    "input": "Awww!\n",
+    "output": "[leads the family across the room] Be sure to help yourselves to the crab souffl\u00e9, and uh, eh, Juanita? [clap clap] Juanita? [clap clap] We need some more finger sandwiches? [she scurries by]\n[The basement. Mr. Mackey leads the family down the steps.]\n"
+  },
+  {
+    "input": "[leads the family across the room] Be sure to help yourselves to the crab souffl\u00e9, and uh, eh, Juanita? [clap clap] Juanita? [clap clap] We need some more finger sandwiches? [she scurries by]\n[The basement. Mr. Mackey leads the family down the steps.]\n",
+    "output": "I don't wanna hang out in the kids' room. I won't know anybody\n"
+  },
+  {
+    "input": "I don't wanna hang out in the kids' room. I won't know anybody\n",
+    "output": "Well, it would be good for you to make new friends. You can't just hang out with your buddy Kyle all the time. People will think you guys are, you know, funny. Now I bet you'll have a great time.\n"
+  },
+  {
+    "input": "Well, it would be good for you to make new friends. You can't just hang out with your buddy Kyle all the time. People will think you guys are, you know, funny. Now I bet you'll have a great time.\n",
+    "output": "[opens a door] Here you go, it's right in here. [Stan enters and gasps. Before him are Pip, Butters, and Dougie.]\n"
+  },
+  {
+    "input": "[opens a door] Here you go, it's right in here. [Stan enters and gasps. Before him are Pip, Butters, and Dougie.]\n",
+    "output": "We'll be upstairs if you need anything, Stan.\n"
+  },
+  {
+    "input": "We'll be upstairs if you need anything, Stan.\n",
+    "output": "[soft but urgent, tugging at Randy's pants] Dad! You can't leave me here! These guys are total Melvins!\n"
+  },
+  {
+    "input": "[soft but urgent, tugging at Randy's pants] Dad! You can't leave me here! These guys are total Melvins!\n",
+    "output": "You have fun, Stanley.\n"
+  },
+  {
+    "input": "You have fun, Stanley.\n",
+    "output": "[soft but urgent, tugging at Sharon's dress] No! Mom, please! They're the geekiest kids at our school!\n"
+  },
+  {
+    "input": "[soft but urgent, tugging at Sharon's dress] No! Mom, please! They're the geekiest kids at our school!\n",
+    "output": "We'll come get you kids when the meteor shower starts. [closes the door. Stan looks at it with hands in pockets, then he looks at the other kids. Pip, Butters, and Dougie smile at him. Stan tries to open the door, but it's locked. He turns to face his peers.]\n"
+  },
+  {
+    "input": "We'll come get you kids when the meteor shower starts. [closes the door. Stan looks at it with hands in pockets, then he looks at the other kids. Pip, Butters, and Dougie smile at him. Stan tries to open the door, but it's locked. He turns to face his peers.]\n",
+    "output": "Cheerio, Stan. I do say it's quite a nice surprise seeing you here.\n"
+  },
+  {
+    "input": "Cheerio, Stan. I do say it's quite a nice surprise seeing you here.\n",
+    "output": "Shut up, Pip.\n"
+  },
+  {
+    "input": "Shut up, Pip.\n",
+    "output": "Hey, Stan. Why I-I-I sure am glad you're here, 'cause then we'll have even more fun than we, why, than we was havin' before. Why, we wuh, we were havin' an awfully good time before you showed up, too, however.\n"
+  },
+  {
+    "input": "Hey, Stan. Why I-I-I sure am glad you're here, 'cause then we'll have even more fun than we, why, than we was havin' before. Why, we wuh, we were havin' an awfully good time before you showed up, too, however.\n",
+    "output": "Butters, is there any way out of here?\n"
+  },
+  {
+    "input": "Butters, is there any way out of here?\n",
+    "output": "Nope. No way out. Buh, but there ain't nothin' upstairs but an old, stupid party anyways. It's better down here in the kids' room. [motions to the little boy to his left] Uh, this here is Dougie. He's not too old, but he sure is a hoot to hang with. Uhuh, he's in first grade, I think.\n"
+  },
+  {
+    "input": "Nope. No way out. Buh, but there ain't nothin' upstairs but an old, stupid party anyways. It's better down here in the kids' room. [motions to the little boy to his left] Uh, this here is Dougie. He's not too old, but he sure is a hoot to hang with. Uhuh, he's in first grade, I think.\n",
+    "output": "I like math.\n"
+  },
+  {
+    "input": "I like math.\n",
+    "output": "Oh my God.\n"
+  },
+  {
+    "input": "Oh my God.\n",
+    "output": "We were just playing a game called Wickershams and Ducklers. Do you want to play?\n"
+  },
+  {
+    "input": "We were just playing a game called Wickershams and Ducklers. Do you want to play?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "I'm the head Wickerknicker. And you are all little Wickershams [Butters bows] We all sing the merry tune of Stratford until I yell, \"Turrah!\" and then you all fall down laughing, and I join you, as I find it funny too. Stan, would you be the Wickersham of Brumble Briar? [Stan just looks at them] And all right, here we go. Whippy-tippy tootoo, tralala-la.\n"
+  },
+  {
+    "input": "I'm the head Wickerknicker. And you are all little Wickershams [Butters bows] We all sing the merry tune of Stratford until I yell, \"Turrah!\" and then you all fall down laughing, and I join you, as I find it funny too. Stan, would you be the Wickersham of Brumble Briar? [Stan just looks at them] And all right, here we go. Whippy-tippy tootoo, tralala-la.\n",
+    "output": "Whippy-tippy tootoo, tralala-la. Whippy-tippy tootoo, tralala-la. [Stan tries opening the door again]\n[Upstairs. The party is well under way. Mr. Garrison walks up to Mr. Mackey]\n"
+  },
+  {
+    "input": "Whippy-tippy tootoo, tralala-la. Whippy-tippy tootoo, tralala-la. [Stan tries opening the door again]\n[Upstairs. The party is well under way. Mr. Garrison walks up to Mr. Mackey]\n",
+    "output": "[quite drunk] Great party, Mr. Mackey. Mr. Hat just grabbed Principal Victoria's ass. [his right hand jerks to the right, pulling him] No! Mr. Hat, you get back here! [walks away. The Marshes and the Broflovskis stand in front of the punch bowl]\n"
+  },
+  {
+    "input": "[quite drunk] Great party, Mr. Mackey. Mr. Hat just grabbed Principal Victoria's ass. [his right hand jerks to the right, pulling him] No! Mr. Hat, you get back here! [walks away. The Marshes and the Broflovskis stand in front of the punch bowl]\n",
+    "output": "Anyone for some meteor mai tai punch? It packs quite a wallop.\n"
+  },
+  {
+    "input": "Anyone for some meteor mai tai punch? It packs quite a wallop.\n",
+    "output": "Oh, I'll pass. I don't drink hard alcohol.\n"
+  },
+  {
+    "input": "Oh, I'll pass. I don't drink hard alcohol.\n",
+    "output": "[offers the drink] Come on! Loosen up! Meteor showers only come once in a great while. [Sharon takes it]\n"
+  },
+  {
+    "input": "[offers the drink] Come on! Loosen up! Meteor showers only come once in a great while. [Sharon takes it]\n",
+    "output": "One little drink isn't going to hurt anything, honey. Come on, live a little.\n"
+  },
+  {
+    "input": "One little drink isn't going to hurt anything, honey. Come on, live a little.\n",
+    "output": "Well, it is kind of a special night. I guess I could... experiment. [she takes a sip]\n"
+  },
+  {
+    "input": "Well, it is kind of a special night. I guess I could... experiment. [she takes a sip]\n",
+    "output": "Yeah, experiment.\n[The basement. Pip, Butters, and Dougie continue with Wickershams and Ducklers. Stan sits on the floor with his back to them, arms wrapping his knees]\n"
+  },
+  {
+    "input": "Yeah, experiment.\n[The basement. Pip, Butters, and Dougie continue with Wickershams and Ducklers. Stan sits on the floor with his back to them, arms wrapping his knees]\n",
+    "output": "[dancing] Whippy-tippy tootoo, tralala-la.\n"
+  },
+  {
+    "input": "[dancing] Whippy-tippy tootoo, tralala-la.\n",
+    "output": "[all turn 'round] Wickersham tally-ho ugh. [all fall on their backs. Pip gets up] Are you sure you don't want to play, Stanley?\n"
+  },
+  {
+    "input": "[all turn 'round] Wickersham tally-ho ugh. [all fall on their backs. Pip gets up] Are you sure you don't want to play, Stanley?\n",
+    "output": "[looks back] Yes.\n"
+  },
+  {
+    "input": "[looks back] Yes.\n",
+    "output": "What are you? A sourpuss?\n"
+  },
+  {
+    "input": "What are you? A sourpuss?\n",
+    "output": "Uhuh, you uh really oughta play, Stan. It's an awfully fun game. Ah I've never been to England, but uh I'll bet the people there are really nice. [Pip walks off] Are people nice in England, Pip? I bet they are, huh? [annoyed, Stan covers his ears] They got those thick noses and all.\n"
+  },
+  {
+    "input": "Uhuh, you uh really oughta play, Stan. It's an awfully fun game. Ah I've never been to England, but uh I'll bet the people there are really nice. [Pip walks off] Are people nice in England, Pip? I bet they are, huh? [annoyed, Stan covers his ears] They got those thick noses and all.\n",
+    "output": "[looks in a box] Hey, look at this!\n"
+  },
+  {
+    "input": "[looks in a box] Hey, look at this!\n",
+    "output": "Uh what is it? Is it something neat? Uh I wonder what it could be. [he and Dougie reach the box and look in]\n"
+  },
+  {
+    "input": "Uh what is it? Is it something neat? Uh I wonder what it could be. [he and Dougie reach the box and look in]\n",
+    "output": "[leafing around] It's a box filled with ladies' clothes.\n"
+  },
+  {
+    "input": "[leafing around] It's a box filled with ladies' clothes.\n",
+    "output": "[pulls out a padded bra and checks it out] Neato.\n"
+  },
+  {
+    "input": "[pulls out a padded bra and checks it out] Neato.\n",
+    "output": "Hey, you know what we could do with these lady clothes, huh? Wuh-y why we could play Charlie's Angels.\n"
+  },
+  {
+    "input": "Hey, you know what we could do with these lady clothes, huh? Wuh-y why we could play Charlie's Angels.\n",
+    "output": "[incredulous] Oh, dude, you've gotta be kidding me.\n"
+  },
+  {
+    "input": "[incredulous] Oh, dude, you've gotta be kidding me.\n",
+    "output": "[hopping] Yes, let's! Can I be Jaclyn Smith? Can I?\n"
+  },
+  {
+    "input": "[hopping] Yes, let's! Can I be Jaclyn Smith? Can I?\n",
+    "output": "No, uh I get to be Jaclyn Smith. See, uh I thought of Charlie's Angels, and I get to be Jaclyn Smith 'cause I thought of it.\n"
+  },
+  {
+    "input": "No, uh I get to be Jaclyn Smith. See, uh I thought of Charlie's Angels, and I get to be Jaclyn Smith 'cause I thought of it.\n",
+    "output": "[twirls with joy] Oh, this sounds as much fun as Wickershams and Ducklers! Come on, Angels. Let's get dressed. [walks over to Stan] Which ladies' garments would you like, Stan?\n"
+  },
+  {
+    "input": "[twirls with joy] Oh, this sounds as much fun as Wickershams and Ducklers! Come on, Angels. Let's get dressed. [walks over to Stan] Which ladies' garments would you like, Stan?\n",
+    "output": "Dude, I'm not putting on ladies' clothes, and I'm not playing Charlie's Angels! You guys are Melvins, and I'm not one of you! So you go ahead and be Melvins, and leave me alone!\n"
+  },
+  {
+    "input": "Dude, I'm not putting on ladies' clothes, and I'm not playing Charlie's Angels! You guys are Melvins, and I'm not one of you! So you go ahead and be Melvins, and leave me alone!\n",
+    "output": "Well. [turns and walks away] Alrighty then.\n[The backyard. A hot tub sits just behind the house. Mr. Mackey leads the Marshes and Broflovskis to it]\n"
+  },
+  {
+    "input": "Well. [turns and walks away] Alrighty then.\n[The backyard. A hot tub sits just behind the house. Mr. Mackey leads the Marshes and Broflovskis to it]\n",
+    "output": "Here it is. I just had the hot tub put in last week.\n"
+  },
+  {
+    "input": "Here it is. I just had the hot tub put in last week.\n",
+    "output": "Wow, neat!\n"
+  },
+  {
+    "input": "Wow, neat!\n",
+    "output": "It looks quite inviting.\n"
+  },
+  {
+    "input": "It looks quite inviting.\n",
+    "output": "Yeah, you can get a lot of action when you have a hot tub.\n"
+  },
+  {
+    "input": "Yeah, you can get a lot of action when you have a hot tub.\n",
+    "output": "Oh Mr. Mackey, you nut.\n"
+  },
+  {
+    "input": "Oh Mr. Mackey, you nut.\n",
+    "output": "Hell, we should get in.\n"
+  },
+  {
+    "input": "Hell, we should get in.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Sure, go ahead. It's a-it's a party, isn't it? Mkahy?\n"
+  },
+  {
+    "input": "Sure, go ahead. It's a-it's a party, isn't it? Mkahy?\n",
+    "output": "Oh, I'm not hot-tubbing. I have nothing to wear.\n"
+  },
+  {
+    "input": "Oh, I'm not hot-tubbing. I have nothing to wear.\n",
+    "output": "Hm huheh, that's okay. [giggles]\n"
+  },
+  {
+    "input": "Hm huheh, that's okay. [giggles]\n",
+    "output": "No hot tub for me!\n"
+  },
+  {
+    "input": "No hot tub for me!\n",
+    "output": "Well, screw you guys! [disrobes and jumps in]\n"
+  },
+  {
+    "input": "Well, screw you guys! [disrobes and jumps in]\n",
+    "output": "I'm getting in for a while, too. [disrobes and jumps in] Geronimo!\n"
+  },
+  {
+    "input": "I'm getting in for a while, too. [disrobes and jumps in] Geronimo!\n",
+    "output": "Oh, look at our boys, Sheila. [Randy and Gerald splash each other] It's just like they're in college again.\n[The basement. The Angels are dressed and ready for action, but...]\n"
+  },
+  {
+    "input": "Oh, look at our boys, Sheila. [Randy and Gerald splash each other] It's just like they're in college again.\n[The basement. The Angels are dressed and ready for action, but...]\n",
+    "output": "Okay, Angels, what's our mission this week?\n"
+  },
+  {
+    "input": "Okay, Angels, what's our mission this week?\n",
+    "output": "Well, I don't know what our mission is. Do you know what our mission is, little first-grade kid?\n"
+  },
+  {
+    "input": "Well, I don't know what our mission is. Do you know what our mission is, little first-grade kid?\n",
+    "output": "How should I know?\n"
+  },
+  {
+    "input": "How should I know?\n",
+    "output": "Oh, dear. We're Charlie's Angels, but we don't have a mission.\n"
+  },
+  {
+    "input": "Oh, dear. We're Charlie's Angels, but we don't have a mission.\n",
+    "output": "Hey, that's because we need Bosley. Uh Bosley always told the Angels what their mission was. Remember Bosley? Wah uhwhy uhwhy we need somebody to be Bosley. [strokes his chin. All three look around, but the silence alerts Stan]\n"
+  },
+  {
+    "input": "Hey, that's because we need Bosley. Uh Bosley always told the Angels what their mission was. Remember Bosley? Wah uhwhy uhwhy we need somebody to be Bosley. [strokes his chin. All three look around, but the silence alerts Stan]\n",
+    "output": "[looks back displeased] What?\n"
+  },
+  {
+    "input": "[looks back displeased] What?\n",
+    "output": "Well, we hate to trouble you, Stan, but would you mind terribly being Bosley for us?\n"
+  },
+  {
+    "input": "Well, we hate to trouble you, Stan, but would you mind terribly being Bosley for us?\n",
+    "output": "[grudgingly] What do I have to do?\n"
+  },
+  {
+    "input": "[grudgingly] What do I have to do?\n",
+    "output": "Uh you just got- you just gotta tell us what our mission is, that's all. That's all Bosley does. Just give a mission, and us Angels will accomplish it.\n"
+  },
+  {
+    "input": "Uh you just got- you just gotta tell us what our mission is, that's all. That's all Bosley does. Just give a mission, and us Angels will accomplish it.\n",
+    "output": "Alright, alright. Here's your mission. In ten minutes this room is gonna fill up with water and drown everybody. You have to find me a way out of this room, fast.\n"
+  },
+  {
+    "input": "Alright, alright. Here's your mission. In ten minutes this room is gonna fill up with water and drown everybody. You have to find me a way out of this room, fast.\n",
+    "output": "Oh, that's a splendid mission!\n"
+  },
+  {
+    "input": "Oh, that's a splendid mission!\n",
+    "output": "Well, what are we waitin' for? We've gotta find a way out of this room, by golly, or else we're gonna get drowned. Come on, Angels! [they go in different directions, but Dougie pauses]\n"
+  },
+  {
+    "input": "Well, what are we waitin' for? We've gotta find a way out of this room, by golly, or else we're gonna get drowned. Come on, Angels! [they go in different directions, but Dougie pauses]\n",
+    "output": "Which Angel am I again?\n[The hot tub. Gerald and Randy relax in its bubbling warmth]\n"
+  },
+  {
+    "input": "Which Angel am I again?\n[The hot tub. Gerald and Randy relax in its bubbling warmth]\n",
+    "output": "Oh boy, it's nice to have a night out without the kids, huh?\n"
+  },
+  {
+    "input": "Oh boy, it's nice to have a night out without the kids, huh?\n",
+    "output": "Yeah, I know what you mean.\n"
+  },
+  {
+    "input": "Yeah, I know what you mean.\n",
+    "output": "I love havin' a family and all. I just... miss being able to party. Drinking and socializing, and experimenting with all kinds of different things.\n"
+  },
+  {
+    "input": "I love havin' a family and all. I just... miss being able to party. Drinking and socializing, and experimenting with all kinds of different things.\n",
+    "output": "Well, that's what being young is all about. Once you have a family and a career, your experimenting days are over. But tonight is the exception; that's why I'm gonna smoke this cigar. [brushes it under his nose and sniffs it] Only 'cause I've never smoked before. [picks up a lighter and lights the cigar, then sets the lighter back]\n"
+  },
+  {
+    "input": "Well, that's what being young is all about. Once you have a family and a career, your experimenting days are over. But tonight is the exception; that's why I'm gonna smoke this cigar. [brushes it under his nose and sniffs it] Only 'cause I've never smoked before. [picks up a lighter and lights the cigar, then sets the lighter back]\n",
+    "output": "Good idea.\n"
+  },
+  {
+    "input": "Good idea.\n",
+    "output": "What haven't you tried that you've always wanted to try?\n"
+  },
+  {
+    "input": "What haven't you tried that you've always wanted to try?\n",
+    "output": "Hohn. [raises his elbows to the rim] Um, I don't know. Maybe I'll drink a few more beers and see where the party takes me.\n"
+  },
+  {
+    "input": "Hohn. [raises his elbows to the rim] Um, I don't know. Maybe I'll drink a few more beers and see where the party takes me.\n",
+    "output": "Yeah! ...Was that your leg?\n"
+  },
+  {
+    "input": "Yeah! ...Was that your leg?\n",
+    "output": "Huh? Oh, you mean, this?\n"
+  },
+  {
+    "input": "Huh? Oh, you mean, this?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Yeah. That, that was me.\n[The basement. Pip rushes up to Stan]\n"
+  },
+  {
+    "input": "Yeah. That, that was me.\n[The basement. Pip rushes up to Stan]\n",
+    "output": "Bosley! Bosley!\n"
+  },
+  {
+    "input": "Bosley! Bosley!\n",
+    "output": "[in no mood for role-playing] What, Pip?\n"
+  },
+  {
+    "input": "[in no mood for role-playing] What, Pip?\n",
+    "output": "Oh no no no. My name is Sabrina Duncan. Remember? We're playing Charlie's Angels.\n"
+  },
+  {
+    "input": "Oh no no no. My name is Sabrina Duncan. Remember? We're playing Charlie's Angels.\n",
+    "output": "What the hell do you want?!\n"
+  },
+  {
+    "input": "What the hell do you want?!\n",
+    "output": "Well, we've completed our mission. Jill found a way upstairs.\n"
+  },
+  {
+    "input": "Well, we've completed our mission. Jill found a way upstairs.\n",
+    "output": "You did? [rises and walks to the way]\n"
+  },
+  {
+    "input": "You did? [rises and walks to the way]\n",
+    "output": "[dressed as Jill] Air shaft.\n"
+  },
+  {
+    "input": "[dressed as Jill] Air shaft.\n",
+    "output": "Dougie pushed that big box out of the way and found this old ventilation duct. And I reckon it's got to lead somewhere, and and it's good 'cause, uh 'cause now we won't drown.\n"
+  },
+  {
+    "input": "Dougie pushed that big box out of the way and found this old ventilation duct. And I reckon it's got to lead somewhere, and and it's good 'cause, uh 'cause now we won't drown.\n",
+    "output": "So Bosley, what's our next mission?\n"
+  },
+  {
+    "input": "So Bosley, what's our next mission?\n",
+    "output": "We're going upstairs.\n"
+  },
+  {
+    "input": "We're going upstairs.\n",
+    "output": "Upstairs? Uhwhy why there's ain't nothin' upstairs but adults. Uhwhy would we want to go upstairs for?\n"
+  },
+  {
+    "input": "Upstairs? Uhwhy why there's ain't nothin' upstairs but adults. Uhwhy would we want to go upstairs for?\n",
+    "output": "Because, you stupid Melvins, they have rad food and desserts upstairs! [crawls into the duct]\n[The hot tub]\n"
+  },
+  {
+    "input": "Because, you stupid Melvins, they have rad food and desserts upstairs! [crawls into the duct]\n[The hot tub]\n",
+    "output": "Hey, did you see Principal Victoria in there? She looks hot.\n"
+  },
+  {
+    "input": "Hey, did you see Principal Victoria in there? She looks hot.\n",
+    "output": "She sure does. I wouldn't mind takin' that home.\n"
+  },
+  {
+    "input": "She sure does. I wouldn't mind takin' that home.\n",
+    "output": "O-hoh, yehah, I'm sure your wife would love that.\n"
+  },
+  {
+    "input": "O-hoh, yehah, I'm sure your wife would love that.\n",
+    "output": "I wish. That's the one thing I've always thought of experimenting with. A threesome.\n"
+  },
+  {
+    "input": "I wish. That's the one thing I've always thought of experimenting with. A threesome.\n",
+    "output": "[eager to know] With two girls or two guys?\n"
+  },
+  {
+    "input": "[eager to know] With two girls or two guys?\n",
+    "output": "Huh, well, two girls, of course! I mean ...with another guy, you know, that'd be... [ends up staring at Randy]\n"
+  },
+  {
+    "input": "Huh, well, two girls, of course! I mean ...with another guy, you know, that'd be... [ends up staring at Randy]\n",
+    "output": "You, you never have a homosexual fantasy? Not that I have.\n"
+  },
+  {
+    "input": "You, you never have a homosexual fantasy? Not that I have.\n",
+    "output": "You haven't?\n"
+  },
+  {
+    "input": "You haven't?\n",
+    "output": "No, I mean... Well, they say everybody has at some point, don't they?\n"
+  },
+  {
+    "input": "No, I mean... Well, they say everybody has at some point, don't they?\n",
+    "output": "Well, I never really wanted to experiment with anything too crazy. You know... maybe just... I don't know... masturbate in front of another guy.\n"
+  },
+  {
+    "input": "Well, I never really wanted to experiment with anything too crazy. You know... maybe just... I don't know... masturbate in front of another guy.\n",
+    "output": "Yeah well, that, that's not really ...gay, is it?\n"
+  },
+  {
+    "input": "Yeah well, that, that's not really ...gay, is it?\n",
+    "output": "NO, no, uh I don't think so.\n"
+  },
+  {
+    "input": "NO, no, uh I don't think so.\n",
+    "output": "...Well it is a night for experimenting.\n"
+  },
+  {
+    "input": "...Well it is a night for experimenting.\n",
+    "output": "Sure is. [both of them wait for the other to make the first move, then...]\n"
+  },
+  {
+    "input": "Sure is. [both of them wait for the other to make the first move, then...]\n",
+    "output": "Okay, I'll start. [begins]\n[some activity is going on out on the street. Someone is looking at the house through night-vision scopes and taking snapshots. One of those shots is of Liane talking to her son over the phone. Five ATF agents are now seen looking at the house from across the street]\n"
+  },
+  {
+    "input": "Okay, I'll start. [begins]\n[some activity is going on out on the street. Someone is looking at the house through night-vision scopes and taking snapshots. One of those shots is of Liane talking to her son over the phone. Five ATF agents are now seen looking at the house from across the street]\n",
+    "output": "This must be the place. They've got all kinds of crazy stuff going on in there.\n"
+  },
+  {
+    "input": "This must be the place. They've got all kinds of crazy stuff going on in there.\n",
+    "output": "[talks into a communicator] Code 7. We believe we have found the compound. Request immediate backup. [the ATF lead looks at the house again]\n"
+  },
+  {
+    "input": "[talks into a communicator] Code 7. We believe we have found the compound. Request immediate backup. [the ATF lead looks at the house again]\n",
+    "output": "[immediate indeed, appears in the lead's sights] Okay, so just what is going on here, people?\n"
+  },
+  {
+    "input": "[immediate indeed, appears in the lead's sights] Okay, so just what is going on here, people?\n",
+    "output": "Get down! [pulls him into position along with the others]\n"
+  },
+  {
+    "input": "Get down! [pulls him into position along with the others]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "It's just like we told you, officer! There's a religious cult in there that plans to commit mass suicide when the meteor shower starts. [resumes viewing, but is interrupted]\n"
+  },
+  {
+    "input": "It's just like we told you, officer! There's a religious cult in there that plans to commit mass suicide when the meteor shower starts. [resumes viewing, but is interrupted]\n",
+    "output": "Are you sure?\n"
+  },
+  {
+    "input": "Are you sure?\n",
+    "output": "Of course we're sure! [points out the initials on his cap] We're the Bureau of Alcohol, Tobacco, and Firearms! It's our job to know what these fanatics do!\n"
+  },
+  {
+    "input": "Of course we're sure! [points out the initials on his cap] We're the Bureau of Alcohol, Tobacco, and Firearms! It's our job to know what these fanatics do!\n",
+    "output": "So what does the ATF do when religious fanatics are gonna commit mass suicide?\n"
+  },
+  {
+    "input": "So what does the ATF do when religious fanatics are gonna commit mass suicide?\n",
+    "output": "Oh, don't worry! We won't let that happen! Even if it means we have to kill each and every one of them.\n[Out front, later. ATF trucks and tanks roll in and more agents arrive]\n"
+  },
+  {
+    "input": "Oh, don't worry! We won't let that happen! Even if it means we have to kill each and every one of them.\n[Out front, later. ATF trucks and tanks roll in and more agents arrive]\n",
+    "output": "What's the situation?\n"
+  },
+  {
+    "input": "What's the situation?\n",
+    "output": "[coming in from reconnaissance] Apparently, we've got at least five dozen men and women in there who intend to commit suicide when the meteor shower starts.\n"
+  },
+  {
+    "input": "[coming in from reconnaissance] Apparently, we've got at least five dozen men and women in there who intend to commit suicide when the meteor shower starts.\n",
+    "output": "Any luck talking to somebody in the house?\n"
+  },
+  {
+    "input": "Any luck talking to somebody in the house?\n",
+    "output": "We've tried calling, but there's no answer. I think we're gonna have to move in, sir.\n"
+  },
+  {
+    "input": "We've tried calling, but there's no answer. I think we're gonna have to move in, sir.\n",
+    "output": "Alright. Johnson!\n"
+  },
+  {
+    "input": "Alright. Johnson!\n",
+    "output": "[a marksman, runs up] Sir!\n"
+  },
+  {
+    "input": "[a marksman, runs up] Sir!\n",
+    "output": "I'm sending you in. Watch your ass.\n"
+  },
+  {
+    "input": "I'm sending you in. Watch your ass.\n",
+    "output": "Yes, sir! [makes his way to the front door while stopping at various points for better views. He rings the doorbell with his elbow, but doesn't wait for an answer]\n[The Mackey house, living room. Johnson now looks around the living room, but no one seems to be alarmed at his presence. Mr. Mackey's face soon fills the view]\n"
+  },
+  {
+    "input": "Yes, sir! [makes his way to the front door while stopping at various points for better views. He rings the doorbell with his elbow, but doesn't wait for an answer]\n[The Mackey house, living room. Johnson now looks around the living room, but no one seems to be alarmed at his presence. Mr. Mackey's face soon fills the view]\n",
+    "output": "Oh, come on in. Join the party, mkay? [Johnson, surprised, lowers his guard] Would you like a meteor mai tai?\n"
+  },
+  {
+    "input": "Oh, come on in. Join the party, mkay? [Johnson, surprised, lowers his guard] Would you like a meteor mai tai?\n",
+    "output": "Heeey, I love mai tais! [closes the door]\n[The living room, at the ventilation duct. Stan leads the others out]\n"
+  },
+  {
+    "input": "Heeey, I love mai tais! [closes the door]\n[The living room, at the ventilation duct. Stan leads the others out]\n",
+    "output": "We did it! Great job, Angels!\n"
+  },
+  {
+    "input": "We did it! Great job, Angels!\n",
+    "output": "So what's our mission now, huh Bosley? Uh wha what do you want us to do now, I wonder?\n"
+  },
+  {
+    "input": "So what's our mission now, huh Bosley? Uh wha what do you want us to do now, I wonder?\n",
+    "output": "[mischief flashing across his face] Alright, Angels. Uh, your next job is to get Bosley some cookies and a TV set.\n"
+  },
+  {
+    "input": "[mischief flashing across his face] Alright, Angels. Uh, your next job is to get Bosley some cookies and a TV set.\n",
+    "output": "What kind of cookies do you want, Bosley?\n"
+  },
+  {
+    "input": "What kind of cookies do you want, Bosley?\n",
+    "output": "I don't care, just hurry! [the Angels walk away]\n"
+  },
+  {
+    "input": "I don't care, just hurry! [the Angels walk away]\n",
+    "output": "Well, hooray!\n[The deck. Gerald and Randy have left the hot tub and are getting dressed. Things get awkward]\n"
+  },
+  {
+    "input": "Well, hooray!\n[The deck. Gerald and Randy have left the hot tub and are getting dressed. Things get awkward]\n",
+    "output": "[buttoning his jacket] So uh. Well. That was certainly... interesting.\n"
+  },
+  {
+    "input": "[buttoning his jacket] So uh. Well. That was certainly... interesting.\n",
+    "output": "[tying his shoes] ...Yeah.\n"
+  },
+  {
+    "input": "[tying his shoes] ...Yeah.\n",
+    "output": "Uh, you don't regret doing it now, do you?\n"
+  },
+  {
+    "input": "Uh, you don't regret doing it now, do you?\n",
+    "output": "No no. ...Wuh what's there to regret, right? I mean..., all we did was watch each other ...masturbate. That's that's not gay or anything. We said so, right?\n"
+  },
+  {
+    "input": "No no. ...Wuh what's there to regret, right? I mean..., all we did was watch each other ...masturbate. That's that's not gay or anything. We said so, right?\n",
+    "output": "Thuh that's right. It's just harmless experimenting.\n"
+  },
+  {
+    "input": "Thuh that's right. It's just harmless experimenting.\n",
+    "output": "Well, let's get back into the party and see what everyone is doing. [turns to go in]\n"
+  },
+  {
+    "input": "Well, let's get back into the party and see what everyone is doing. [turns to go in]\n",
+    "output": "Hey. [Randy looks] Nothing changes between us, right? I mean, we're still friends.\n"
+  },
+  {
+    "input": "Hey. [Randy looks] Nothing changes between us, right? I mean, we're still friends.\n",
+    "output": "Um... Yeah yeah sure sure. [goes inside]\n[Outside, the ATF agents are armed and ready to fire. The lead agent reviews the situation inside with his scopes]\n"
+  },
+  {
+    "input": "Um... Yeah yeah sure sure. [goes inside]\n[Outside, the ATF agents are armed and ready to fire. The lead agent reviews the situation inside with his scopes]\n",
+    "output": "Damn it, where is Johnson?!\n"
+  },
+  {
+    "input": "Damn it, where is Johnson?!\n",
+    "output": "No communication, sir. It doesn't look good for him.\n"
+  },
+  {
+    "input": "No communication, sir. It doesn't look good for him.\n",
+    "output": "Those bastards!\n[Inside. Johnson is dancing away. A couple is about to leave the party]\n"
+  },
+  {
+    "input": "Those bastards!\n[Inside. Johnson is dancing away. A couple is about to leave the party]\n",
+    "output": "Great party, Mr. Mackey. Thank you so much.\n"
+  },
+  {
+    "input": "Great party, Mr. Mackey. Thank you so much.\n",
+    "output": "Well, are you sure you have to leave so early?\n"
+  },
+  {
+    "input": "Well, are you sure you have to leave so early?\n",
+    "output": "We both have to be up early tomorrow, but thanks again.\n"
+  },
+  {
+    "input": "We both have to be up early tomorrow, but thanks again.\n",
+    "output": "Mkay. Drive carefully, mkay? [waves them off and closes the door]\n[Outside, The couple walks a few steps before two spotlights stop them in their tracks]\n"
+  },
+  {
+    "input": "Mkay. Drive carefully, mkay? [waves them off and closes the door]\n[Outside, The couple walks a few steps before two spotlights stop them in their tracks]\n",
+    "output": "[On a bullhorn] Hold it right there! Whatever it is you are intending to do, do not do it! [the man shrugs] Your freaky religious cult will not succeed in its plan!\n"
+  },
+  {
+    "input": "[On a bullhorn] Hold it right there! Whatever it is you are intending to do, do not do it! [the man shrugs] Your freaky religious cult will not succeed in its plan!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Do not move, or we will be forced to shoot- [Shooting starts. The couple falls dead and the lead lowers the bullhorn] God damn it, who was that?! [most of the agents raise their hands] Did you see them move?!\n"
+  },
+  {
+    "input": "Do not move, or we will be forced to shoot- [Shooting starts. The couple falls dead and the lead lowers the bullhorn] God damn it, who was that?! [most of the agents raise their hands] Did you see them move?!\n",
+    "output": "...I did.\n"
+  },
+  {
+    "input": "...I did.\n",
+    "output": "[next to floodlight] Yah.\n"
+  },
+  {
+    "input": "[next to floodlight] Yah.\n",
+    "output": "Yeah, they moved alright.\n[Inside, several men gather around Jimbo and Randy.]\n"
+  },
+  {
+    "input": "Yeah, they moved alright.\n[Inside, several men gather around Jimbo and Randy.]\n",
+    "output": "Well, I tell you what: we may not have Elway this year, but Brister won every game he started in last year.\n"
+  },
+  {
+    "input": "Well, I tell you what: we may not have Elway this year, but Brister won every game he started in last year.\n",
+    "output": "Eh that's true, but Elway was the heart of the team. Who's the leader now?\n"
+  },
+  {
+    "input": "Eh that's true, but Elway was the heart of the team. Who's the leader now?\n",
+    "output": "I think the Jets are gonna be the team to beat this year in the AFC.\n"
+  },
+  {
+    "input": "I think the Jets are gonna be the team to beat this year in the AFC.\n",
+    "output": "Yeah. Hey uh, if you watch another guy masturbate, does that make you gay?\n"
+  },
+  {
+    "input": "Yeah. Hey uh, if you watch another guy masturbate, does that make you gay?\n",
+    "output": "...What??\n"
+  },
+  {
+    "input": "...What??\n",
+    "output": "Well I just... I have this buddy, uh, he, sat and watched another guy ...play with himself.\n"
+  },
+  {
+    "input": "Well I just... I have this buddy, uh, he, sat and watched another guy ...play with himself.\n",
+    "output": "Well... Let's go kick his ass!\n"
+  },
+  {
+    "input": "Well... Let's go kick his ass!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Where is he?!\n"
+  },
+  {
+    "input": "Where is he?!\n",
+    "output": "Oh he, he lives in, like, Florida.\n"
+  },
+  {
+    "input": "Oh he, he lives in, like, Florida.\n",
+    "output": "Aw! [the men disperse]\n"
+  },
+  {
+    "input": "Aw! [the men disperse]\n",
+    "output": "[walks up] Hey, Randy. What are you doing? [pats him on the back]\n"
+  },
+  {
+    "input": "[walks up] Hey, Randy. What are you doing? [pats him on the back]\n",
+    "output": "[subdued] Nothing. Uh. I'm gonna go get some chips.\n"
+  },
+  {
+    "input": "[subdued] Nothing. Uh. I'm gonna go get some chips.\n",
+    "output": "Can I come with you?\n"
+  },
+  {
+    "input": "Can I come with you?\n",
+    "output": "[softly] Okay. [rolls his eyes]\n[Mackey's bedroom. Butters leads Stan inside]\n"
+  },
+  {
+    "input": "[softly] Okay. [rolls his eyes]\n[Mackey's bedroom. Butters leads Stan inside]\n",
+    "output": "Come right on in here, Bosley. Huhwell, it was my idea. [Pip and Dougie are already inside, waiting] Uh I got to thinkin', \"Wuh, where do people keep TV sets?\" and then I remembered that lots of grownups have TV's ih in their bedrooms. So, so I walked into Mr. Mackey's bedroom and er and sure enough, here it was.\n"
+  },
+  {
+    "input": "Come right on in here, Bosley. Huhwell, it was my idea. [Pip and Dougie are already inside, waiting] Uh I got to thinkin', \"Wuh, where do people keep TV sets?\" and then I remembered that lots of grownups have TV's ih in their bedrooms. So, so I walked into Mr. Mackey's bedroom and er and sure enough, here it was.\n",
+    "output": "Rad! [hops on the bed and starts switching channels]\n"
+  },
+  {
+    "input": "Rad! [hops on the bed and starts switching channels]\n",
+    "output": "Okay, Bosley, we got you cookies and a TV set. So what's our next mission?\n"
+  },
+  {
+    "input": "Okay, Bosley, we got you cookies and a TV set. So what's our next mission?\n",
+    "output": "There are no more missions. I have everything I want. [four shows and a commercial pass by as he channel-surfs.]\n"
+  },
+  {
+    "input": "There are no more missions. I have everything I want. [four shows and a commercial pass by as he channel-surfs.]\n",
+    "output": "Wwe ain't got no more missions? Uhwhawhat are we supposed to do? We're Angels. Whawhat do Angels do without a mission?\n"
+  },
+  {
+    "input": "Wwe ain't got no more missions? Uhwhawhat are we supposed to do? We're Angels. Whawhat do Angels do without a mission?\n",
+    "output": "[annoyed] Just... play something else! God!\n"
+  },
+  {
+    "input": "[annoyed] Just... play something else! God!\n",
+    "output": "Oh dear. We've angered Bosley.\n[Breaking news]\n"
+  },
+  {
+    "input": "Oh dear. We've angered Bosley.\n[Breaking news]\n",
+    "output": "Tom, I'm standing in front of a house where a religious cult is planning to commit mass suicide when the meteor shower starts.\n"
+  },
+  {
+    "input": "Tom, I'm standing in front of a house where a religious cult is planning to commit mass suicide when the meteor shower starts.\n",
+    "output": "Whoa, cool!\n"
+  },
+  {
+    "input": "Whoa, cool!\n",
+    "output": "I wanna be a reporter someday.\n"
+  },
+  {
+    "input": "I wanna be a reporter someday.\n",
+    "output": "Just moments ago, a couple emerged from the house. [footage of it is shown] According to the ATF, the couple refused to cooperate, then pulled out very big guns and started shooting everyone. The ATF had no choice but to shoot the insane couple, and now a standoff has ensued.\n"
+  },
+  {
+    "input": "Just moments ago, a couple emerged from the house. [footage of it is shown] According to the ATF, the couple refused to cooperate, then pulled out very big guns and started shooting everyone. The ATF had no choice but to shoot the insane couple, and now a standoff has ensued.\n",
+    "output": "Oh, looks like that cult is about to be blown into tiny bits.\n"
+  },
+  {
+    "input": "Oh, looks like that cult is about to be blown into tiny bits.\n",
+    "output": "The ATF commander tells us that he has reason to believe there may be children inside and that they are the primary concern of all. There are choppers here along with several tanks. [choppers and tanks are heard coming in] The commander is very concerned about what the mood is inside.\n"
+  },
+  {
+    "input": "The ATF commander tells us that he has reason to believe there may be children inside and that they are the primary concern of all. There are choppers here along with several tanks. [choppers and tanks are heard coming in] The commander is very concerned about what the mood is inside.\n",
+    "output": "[as the reporter speaks] Wait a minute [hops off the bed and walks towards the window. He looks out and sees the ATF] Oh my God! [runs back to the others] Dude! That's this house. They think our parents are the religious cult!\n"
+  },
+  {
+    "input": "[as the reporter speaks] Wait a minute [hops off the bed and walks towards the window. He looks out and sees the ATF] Oh my God! [runs back to the others] Dude! That's this house. They think our parents are the religious cult!\n",
+    "output": "Do you think someday I can be a reporter?\n"
+  },
+  {
+    "input": "Do you think someday I can be a reporter?\n",
+    "output": "We just received a photo from the recon team of the action inside the house [Stan looking out the window just moments before] showing evidence that there are indeed innocent children trapped inside. Those sick cult fanatic bastards!\n"
+  },
+  {
+    "input": "We just received a photo from the recon team of the action inside the house [Stan looking out the window just moments before] showing evidence that there are indeed innocent children trapped inside. Those sick cult fanatic bastards!\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "Hey, uhour parents aren't religious fantastics. Why, we gotta tell them that they're makin' an awful mistake, don't we?\n"
+  },
+  {
+    "input": "Hey, uhour parents aren't religious fantastics. Why, we gotta tell them that they're makin' an awful mistake, don't we?\n",
+    "output": "Yes. Come on, Angels. Looks like we have a new mission.\n[The living room. Everyone is carrying on, drinking and dancing, oblivious to the commotion outside. Randy sits on the sofa, his hands to his eyes, his mind in turmoil. Gerald walks up to him]\n"
+  },
+  {
+    "input": "Yes. Come on, Angels. Looks like we have a new mission.\n[The living room. Everyone is carrying on, drinking and dancing, oblivious to the commotion outside. Randy sits on the sofa, his hands to his eyes, his mind in turmoil. Gerald walks up to him]\n",
+    "output": "[sits] Randy, you're making me feel unimportant. Talk. Talk, damn you.\n"
+  },
+  {
+    "input": "[sits] Randy, you're making me feel unimportant. Talk. Talk, damn you.\n",
+    "output": "I'm just having a hard time with what we did in the hot tub.\n"
+  },
+  {
+    "input": "I'm just having a hard time with what we did in the hot tub.\n",
+    "output": "So, so now we can't be friends?\n"
+  },
+  {
+    "input": "So, so now we can't be friends?\n",
+    "output": "I didn't say that. I mean, I don't know, I... I just feel so strange. I know it's ridiculous, but I can't help feeling like people here know. You know? Like, even though nobody could know, 'cause we said we'd never tell anybody.\n"
+  },
+  {
+    "input": "I didn't say that. I mean, I don't know, I... I just feel so strange. I know it's ridiculous, but I can't help feeling like people here know. You know? Like, even though nobody could know, 'cause we said we'd never tell anybody.\n",
+    "output": "We said we'd never tell anybody?\n"
+  },
+  {
+    "input": "We said we'd never tell anybody?\n",
+    "output": "[now cross] Well, of course we wouldn't.\n"
+  },
+  {
+    "input": "[now cross] Well, of course we wouldn't.\n",
+    "output": "Oh, uh I didn't realize that. [looks away ashamed]\n"
+  },
+  {
+    "input": "Oh, uh I didn't realize that. [looks away ashamed]\n",
+    "output": "[sensing betrayal] Yuh... You didn't ...tell anybody, did you?\n"
+  },
+  {
+    "input": "[sensing betrayal] Yuh... You didn't ...tell anybody, did you?\n",
+    "output": "Well, uh uh a few people, yeah.\n"
+  },
+  {
+    "input": "Well, uh uh a few people, yeah.\n",
+    "output": "[hushed] What?! Why the hell would you do that?!\n"
+  },
+  {
+    "input": "[hushed] What?! Why the hell would you do that?!\n",
+    "output": "You didn't say not to tell anyone.\n"
+  },
+  {
+    "input": "You didn't say not to tell anyone.\n",
+    "output": "[hushed] Well, of course! I thought it would be implied! When you masturbate with another guy in a hot tub, you assume that nobody is gonna tell anybody! [looks around in desperation to make sure no one else is listening]\n"
+  },
+  {
+    "input": "[hushed] Well, of course! I thought it would be implied! When you masturbate with another guy in a hot tub, you assume that nobody is gonna tell anybody! [looks around in desperation to make sure no one else is listening]\n",
+    "output": "Listen to you. You're yelling at me; you've never yelled at me before.\n"
+  },
+  {
+    "input": "Listen to you. You're yelling at me; you've never yelled at me before.\n",
+    "output": "AAAW!! [jumps up and hurries away]\n"
+  },
+  {
+    "input": "AAAW!! [jumps up and hurries away]\n",
+    "output": "[rushes out with the others in tow] Hey you guys! We've got a big problem! [sees everyone quite drunk. A naked man dances by with a lampshade on his head] The ATF is outside and they think you're all a religious cult. You've gotta go talk to them. [the adults didn't hear him]\n"
+  },
+  {
+    "input": "[rushes out with the others in tow] Hey you guys! We've got a big problem! [sees everyone quite drunk. A naked man dances by with a lampshade on his head] The ATF is outside and they think you're all a religious cult. You've gotta go talk to them. [the adults didn't hear him]\n",
+    "output": "Huh how come they're actin' that way, Stan, huh? Uh how come they're laughin' and fallin' down and such?\n"
+  },
+  {
+    "input": "Huh how come they're actin' that way, Stan, huh? Uh how come they're laughin' and fallin' down and such?\n",
+    "output": "[sees his mom waddle by] Mom, go look outside.\n"
+  },
+  {
+    "input": "[sees his mom waddle by] Mom, go look outside.\n",
+    "output": "[drunk, with mai tai in hand] Mommy's little boopie-kins [falls down and out]\n"
+  },
+  {
+    "input": "[drunk, with mai tai in hand] Mommy's little boopie-kins [falls down and out]\n",
+    "output": "Uh let me handle this, Stan. [walks forward] Uh now l-listen up and listen good, everyone! Why, I'm awful disappointed in you drinkin' and carryin' on this way! Why you uhyou should be ashamed of yourselves! Uh if you don't get outside right now, and tell those army guys you're not religious fantastics, there's, why there's gonna be heck to pay. Uh, heck, I tell ya! [The adults laugh and his face drops]\n"
+  },
+  {
+    "input": "Uh let me handle this, Stan. [walks forward] Uh now l-listen up and listen good, everyone! Why, I'm awful disappointed in you drinkin' and carryin' on this way! Why you uhyou should be ashamed of yourselves! Uh if you don't get outside right now, and tell those army guys you're not religious fantastics, there's, why there's gonna be heck to pay. Uh, heck, I tell ya! [The adults laugh and his face drops]\n",
+    "output": "Come on, we're gonna have to go tell 'em ourselves. [walks to the door. The others follow]\n[Outside. The boys step out, the ATF agents reload, and the door closes. The spotlights come on and the commander takes up the bullhorn]\n"
+  },
+  {
+    "input": "Come on, we're gonna have to go tell 'em ourselves. [walks to the door. The others follow]\n[Outside. The boys step out, the ATF agents reload, and the door closes. The spotlights come on and the commander takes up the bullhorn]\n",
+    "output": "Lay down your weapons!\n"
+  },
+  {
+    "input": "Lay down your weapons!\n",
+    "output": "We don't have any weapons.\n"
+  },
+  {
+    "input": "We don't have any weapons.\n",
+    "output": "Go back inside and tell everyone that they are surrounded! Tell them to come out peacefully, and we will not shoot them. [Shooting starts]\n"
+  },
+  {
+    "input": "Go back inside and tell everyone that they are surrounded! Tell them to come out peacefully, and we will not shoot them. [Shooting starts]\n",
+    "output": "Whoa!\n"
+  },
+  {
+    "input": "Whoa!\n",
+    "output": "Get back inside! [opens the door and the boys hurry in]\n"
+  },
+  {
+    "input": "Get back inside! [opens the door and the boys hurry in]\n",
+    "output": "I don't think they're gonna come out. Use the Ganz technique.\n"
+  },
+  {
+    "input": "I don't think they're gonna come out. Use the Ganz technique.\n",
+    "output": "What's the Ganz technique?\n"
+  },
+  {
+    "input": "What's the Ganz technique?\n",
+    "output": "This is what we did in Waco. [two monster speakers are moved into place on either side of the front of the house. A technician readies the large CD player] Play really bad music really loud until it drives them nuts and makes them want to come out. [the technician presses a button and a garbled song plays] Nobody can stand this much Cher. This is her new album. If this doesn't drive them out, nothing will.\n[Living room, the stereo. Mr. Mackey turns on the very same song and starts dancing to it]\n"
+  },
+  {
+    "input": "This is what we did in Waco. [two monster speakers are moved into place on either side of the front of the house. A technician readies the large CD player] Play really bad music really loud until it drives them nuts and makes them want to come out. [the technician presses a button and a garbled song plays] Nobody can stand this much Cher. This is her new album. If this doesn't drive them out, nothing will.\n[Living room, the stereo. Mr. Mackey turns on the very same song and starts dancing to it]\n",
+    "output": "That's great music, Mr. Mackey. What is that?\n"
+  },
+  {
+    "input": "That's great music, Mr. Mackey. What is that?\n",
+    "output": "Uh this is Cher. This is her new album.\n"
+  },
+  {
+    "input": "Uh this is Cher. This is her new album.\n",
+    "output": "Well, hell, turn it up.\n[Living room, away from the stereo. Randy is walking around. Two men talk in the foreground]\n"
+  },
+  {
+    "input": "Well, hell, turn it up.\n[Living room, away from the stereo. Randy is walking around. Two men talk in the foreground]\n",
+    "output": "Yeah, well, you know what I heard? I I heard that he's gay.\n"
+  },
+  {
+    "input": "Yeah, well, you know what I heard? I I heard that he's gay.\n",
+    "output": "Oh, is he?\n"
+  },
+  {
+    "input": "Oh, is he?\n",
+    "output": "[runs up] Who?!\n"
+  },
+  {
+    "input": "[runs up] Who?!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Who who did you hear is, is gay?!\n"
+  },
+  {
+    "input": "Who who did you hear is, is gay?!\n",
+    "output": "Ricky Martin, the singer.\n"
+  },
+  {
+    "input": "Ricky Martin, the singer.\n",
+    "output": "Oh. [the two men walk away as Gerald approaches]\n"
+  },
+  {
+    "input": "Oh. [the two men walk away as Gerald approaches]\n",
+    "output": "Hey, Randy, what's up?\n"
+  },
+  {
+    "input": "Hey, Randy, what's up?\n",
+    "output": "[tenses up] What the hell is that supposed to mean?!\n"
+  },
+  {
+    "input": "[tenses up] What the hell is that supposed to mean?!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Ssh-shouldn't you be hangin' out with your wife right now?\n"
+  },
+  {
+    "input": "Ssh-shouldn't you be hangin' out with your wife right now?\n",
+    "output": "Wulluh uh I just felt like talkin' to you.\n"
+  },
+  {
+    "input": "Wulluh uh I just felt like talkin' to you.\n",
+    "output": "There's nothing to talk about.\n"
+  },
+  {
+    "input": "There's nothing to talk about.\n",
+    "output": "You're having regrets, aren't you?\n"
+  },
+  {
+    "input": "You're having regrets, aren't you?\n",
+    "output": "No, I-... I don't know.\n"
+  },
+  {
+    "input": "No, I-... I don't know.\n",
+    "output": "Hey. Talk to me.\n"
+  },
+  {
+    "input": "Hey. Talk to me.\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "I thought we agreed what happened in the hot tub wouldn't change our relationship.\n"
+  },
+  {
+    "input": "I thought we agreed what happened in the hot tub wouldn't change our relationship.\n",
+    "output": "Will you stop it?! I don't... I just...\n"
+  },
+  {
+    "input": "Will you stop it?! I don't... I just...\n",
+    "output": "Hey, Mr. Withdrawn, you might not need to talk about it, but I sure do.\n"
+  },
+  {
+    "input": "Hey, Mr. Withdrawn, you might not need to talk about it, but I sure do.\n",
+    "output": "Aaww! [rushes away] Sharon? [finds her at a table and genuflects] Sharon, cuh can we go?\n"
+  },
+  {
+    "input": "Aaww! [rushes away] Sharon? [finds her at a table and genuflects] Sharon, cuh can we go?\n",
+    "output": "[swaying] Go?? The meteor shower hasn't even started yet.\n"
+  },
+  {
+    "input": "[swaying] Go?? The meteor shower hasn't even started yet.\n",
+    "output": "[his voice grows urgent] Uh I know, but I want to make love to you right now. I have to make love to you right now.\n"
+  },
+  {
+    "input": "[his voice grows urgent] Uh I know, but I want to make love to you right now. I have to make love to you right now.\n",
+    "output": "Randy, relax. We don't ever get to party. Now come on! Loosen up! Experiment!\n"
+  },
+  {
+    "input": "Randy, relax. We don't ever get to party. Now come on! Loosen up! Experiment!\n",
+    "output": "Ogh, I already did.\n"
+  },
+  {
+    "input": "Ogh, I already did.\n",
+    "output": "[rushes up with the other boys] Dad! Dad, they shot at us.\n"
+  },
+  {
+    "input": "[rushes up with the other boys] Dad! Dad, they shot at us.\n",
+    "output": "Not now, Stanley. [gets up and walks away. Stan watches him go, then turns to Sharon]\n"
+  },
+  {
+    "input": "Not now, Stanley. [gets up and walks away. Stan watches him go, then turns to Sharon]\n",
+    "output": "Mom!\n"
+  },
+  {
+    "input": "Mom!\n",
+    "output": "Whoopee! [gets up, and the bowl of chips drops to the ground. She faints on the table. Stan looks around, not sure how he can rouse the adults to action, drunk as they are.]\n"
+  },
+  {
+    "input": "Whoopee! [gets up, and the bowl of chips drops to the ground. She faints on the table. Stan looks around, not sure how he can rouse the adults to action, drunk as they are.]\n",
+    "output": "[panicking] Hey, what are we gonna do, huh?! Ughuh uh they shot at us! They really shot at us! They, they ain't gonna stop until we're all dead, I betcha. Huh us and all our families.\n"
+  },
+  {
+    "input": "[panicking] Hey, what are we gonna do, huh?! Ughuh uh they shot at us! They really shot at us! They, they ain't gonna stop until we're all dead, I betcha. Huh us and all our families.\n",
+    "output": "[slaps Butters across the face with a backhand and grabs him by the collar] Get a hold of yourself, man!\n"
+  },
+  {
+    "input": "[slaps Butters across the face with a backhand and grabs him by the collar] Get a hold of yourself, man!\n",
+    "output": "How come you slapped my face, Stan, huh? Why uhwhy on earth would you do that, anyways?\n"
+  },
+  {
+    "input": "How come you slapped my face, Stan, huh? Why uhwhy on earth would you do that, anyways?\n",
+    "output": "Come on. We have to find out what's happening. [leads the other boys to the bedroom]\n[Mackey's bedroom. The boys enter and check out the news again.]\n"
+  },
+  {
+    "input": "Come on. We have to find out what's happening. [leads the other boys to the bedroom]\n[Mackey's bedroom. The boys enter and check out the news again.]\n",
+    "output": "I'm standing now with Danny Ganz, the commander of the ATF. Commander, what is the latest?\n"
+  },
+  {
+    "input": "I'm standing now with Danny Ganz, the commander of the ATF. Commander, what is the latest?\n",
+    "output": "We have not had any cooperation with the cult inside the house. They are refusing to come out, and apparently they still plan to commit mass suicide once the meteor shower starts, which should be any moment now.\n"
+  },
+  {
+    "input": "We have not had any cooperation with the cult inside the house. They are refusing to come out, and apparently they still plan to commit mass suicide once the meteor shower starts, which should be any moment now.\n",
+    "output": "See how reporters get to wear those cool jackets? That's why I wanna be a reporter.\n"
+  },
+  {
+    "input": "See how reporters get to wear those cool jackets? That's why I wanna be a reporter.\n",
+    "output": "So what are your plans, commander?\n"
+  },
+  {
+    "input": "So what are your plans, commander?\n",
+    "output": "Right now, our plan is to burn the house down. If we set it on fire, they'll have no choice but to come out.\n"
+  },
+  {
+    "input": "Right now, our plan is to burn the house down. If we set it on fire, they'll have no choice but to come out.\n",
+    "output": "Oh dear God, they're gonna set us on fire. Uhoh, great Jesus, son of Mary, wife of Joseph, what are we gonna do, huh? Huhoh, sweet Joseph, husband of Mary but not father of sweet Jesus-\n"
+  },
+  {
+    "input": "Oh dear God, they're gonna set us on fire. Uhoh, great Jesus, son of Mary, wife of Joseph, what are we gonna do, huh? Huhoh, sweet Joseph, husband of Mary but not father of sweet Jesus-\n",
+    "output": "Sh!\n"
+  },
+  {
+    "input": "Sh!\n",
+    "output": "Setting them on fire seems a little dangerous, commander.\n"
+  },
+  {
+    "input": "Setting them on fire seems a little dangerous, commander.\n",
+    "output": "It is, but we can't let them kill themselves.\n"
+  },
+  {
+    "input": "It is, but we can't let them kill themselves.\n",
+    "output": "We have to let them know that this isn't a cult party.\n"
+  },
+  {
+    "input": "We have to let them know that this isn't a cult party.\n",
+    "output": "But we can't. They'll just shoot at us again.\n"
+  },
+  {
+    "input": "But we can't. They'll just shoot at us again.\n",
+    "output": "Uhuh, they're gonna burn us up and act like nothin' happened. Oh, sweet Jesus, Mary, mother of Jesus, wife of Joseph, father to Mary, well- Wait. Mary, wife uh... Oh, hold on.\n"
+  },
+  {
+    "input": "Uhuh, they're gonna burn us up and act like nothin' happened. Oh, sweet Jesus, Mary, mother of Jesus, wife of Joseph, father to Mary, well- Wait. Mary, wife uh... Oh, hold on.\n",
+    "output": "Come on, Angels. We've got a new mission. And this time, it's for real. [walks off]\n[Outside. The reporter continues]\n"
+  },
+  {
+    "input": "Come on, Angels. We've got a new mission. And this time, it's for real. [walks off]\n[Outside. The reporter continues]\n",
+    "output": "For hours now, the ATF has tried to communicate with the religious fanatics inside this house. The meteor shower is expected to begin at any moment, and so time is running out.\n[Inside, the party continues.]\n"
+  },
+  {
+    "input": "For hours now, the ATF has tried to communicate with the religious fanatics inside this house. The meteor shower is expected to begin at any moment, and so time is running out.\n[Inside, the party continues.]\n",
+    "output": "Hoh, look. Harold's doing it again, hm huh hnmkay? [Harold is wearing a lampshade, but he's fully dressed. The camera moves to the crowd, then to the ground, where Dougie is standing with microphone in hand]\n"
+  },
+  {
+    "input": "Hoh, look. Harold's doing it again, hm huh hnmkay? [Harold is wearing a lampshade, but he's fully dressed. The camera moves to the crowd, then to the ground, where Dougie is standing with microphone in hand]\n",
+    "output": "This is Jill Munroe reporting live from inside the meteor shower party. [Stan is filming, Butters is cuing] As you can see, this is a perfectly normal party. Nobody is killing themselves. We tried to tell ATF people, but they shot at us. [aside] Anything else?\n"
+  },
+  {
+    "input": "This is Jill Munroe reporting live from inside the meteor shower party. [Stan is filming, Butters is cuing] As you can see, this is a perfectly normal party. Nobody is killing themselves. We tried to tell ATF people, but they shot at us. [aside] Anything else?\n",
+    "output": "Tell them not to burn us down.\n"
+  },
+  {
+    "input": "Tell them not to burn us down.\n",
+    "output": "Oh yeah. Don't burn us, please. Jill Munroe, GFN news.\n"
+  },
+  {
+    "input": "Oh yeah. Don't burn us, please. Jill Munroe, GFN news.\n",
+    "output": "Now what do we do?\n"
+  },
+  {
+    "input": "Now what do we do?\n",
+    "output": "[removing the tape from the camera] Now we find a way to get this tape to the real reporters.\n"
+  },
+  {
+    "input": "[removing the tape from the camera] Now we find a way to get this tape to the real reporters.\n",
+    "output": "Hey, I'm a real reporter.\n"
+  },
+  {
+    "input": "Hey, I'm a real reporter.\n",
+    "output": "You're right. You are, Dougie. You did an awesome job. [Dougie smiles]\n[Outside, Ganz is back behind the firing line with the bullhorn]\n"
+  },
+  {
+    "input": "You're right. You are, Dougie. You did an awesome job. [Dougie smiles]\n[Outside, Ganz is back behind the firing line with the bullhorn]\n",
+    "output": "Attention, cult people! Do not commit mass suicide! There are so many reasons not to kill yourselves! Flowers, for instance. And back rubs. [turns off the bullhorn and listens for a moment] Alright, I'm through trying to reason with them. Send in the Negotiator! [a large truck hauls a large cannon in. The barrel of the cannon reads, \"NEGOTIATOR\"]\n"
+  },
+  {
+    "input": "Attention, cult people! Do not commit mass suicide! There are so many reasons not to kill yourselves! Flowers, for instance. And back rubs. [turns off the bullhorn and listens for a moment] Alright, I'm through trying to reason with them. Send in the Negotiator! [a large truck hauls a large cannon in. The barrel of the cannon reads, \"NEGOTIATOR\"]\n",
+    "output": "[approaches] Excuse me, but what proof do you have that those people inside are religious fanatics?\n"
+  },
+  {
+    "input": "[approaches] Excuse me, but what proof do you have that those people inside are religious fanatics?\n",
+    "output": "We know what we're doing. We did this all before in Waco.\n"
+  },
+  {
+    "input": "We know what we're doing. We did this all before in Waco.\n",
+    "output": "Uh yes, but you totally screwed up Waco. You killed a bunch of innocent people and then tried to say they killed themselves.\n"
+  },
+  {
+    "input": "Uh yes, but you totally screwed up Waco. You killed a bunch of innocent people and then tried to say they killed themselves.\n",
+    "output": "[holds out a beanie baby] Look. You see this? You see this?\n"
+  },
+  {
+    "input": "[holds out a beanie baby] Look. You see this? You see this?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "You see it? You see it? Go get it. [throws it away to his left] Go get it! [the reporter soon moves in the direction of the throw] Alright, let's get ready to kick some religious fanatic ass!\n[Inside. Randy is scarfing down some nachos at the snack table, and Gerald approaches him. Randy sees him and gives him the evil eye, then moves to the mai tai bowl. Gerald follows. Randy glowers at him]\n"
+  },
+  {
+    "input": "You see it? You see it? Go get it. [throws it away to his left] Go get it! [the reporter soon moves in the direction of the throw] Alright, let's get ready to kick some religious fanatic ass!\n[Inside. Randy is scarfing down some nachos at the snack table, and Gerald approaches him. Randy sees him and gives him the evil eye, then moves to the mai tai bowl. Gerald follows. Randy glowers at him]\n",
+    "output": "Having a good time?\n"
+  },
+  {
+    "input": "Having a good time?\n",
+    "output": "Yeah, swell! Could I just... have a few minutes alone?\n"
+  },
+  {
+    "input": "Yeah, swell! Could I just... have a few minutes alone?\n",
+    "output": "I'm not gonna let you change on me, Randy. Just because we shared an intimate moment in the hot tub, I won't let it change our friend-\n"
+  },
+  {
+    "input": "I'm not gonna let you change on me, Randy. Just because we shared an intimate moment in the hot tub, I won't let it change our friend-\n",
+    "output": "[irritated, interrupts] We did not share an intimate moment, okay?! That makes it sound gay! [walks away]\n[Outside. The front door opens and six guests exit]\n"
+  },
+  {
+    "input": "[irritated, interrupts] We did not share an intimate moment, okay?! That makes it sound gay! [walks away]\n[Outside. The front door opens and six guests exit]\n",
+    "output": "Good night, everyone.\n"
+  },
+  {
+    "input": "Good night, everyone.\n",
+    "output": "Look out! [Shooting starts. Screams are heard as the guests are hit. The guests die on the spot] Ho-old your fire! Okay, hrm. [on the bullhorn] People at the door! That was a warning! Go back inside and tell the others that they now have one minute to surrender! [the Negotiator is aimed right at the front door]\n[The boys are in Mr. Mackey's bedroom. From outside, the boys are seen looking out the window]\n"
+  },
+  {
+    "input": "Look out! [Shooting starts. Screams are heard as the guests are hit. The guests die on the spot] Ho-old your fire! Okay, hrm. [on the bullhorn] People at the door! That was a warning! Go back inside and tell the others that they now have one minute to surrender! [the Negotiator is aimed right at the front door]\n[The boys are in Mr. Mackey's bedroom. From outside, the boys are seen looking out the window]\n",
+    "output": "Oh no, we're out of time! [hops down and moves away. He ties some rope around Butters' middle] Are you sure you can do this, Butters?\n"
+  },
+  {
+    "input": "Oh no, we're out of time! [hops down and moves away. He ties some rope around Butters' middle] Are you sure you can do this, Butters?\n",
+    "output": "Wuh, no, I'm not sure. Uh-I'm not sure at all. Wha-what am I doin' again?\n"
+  },
+  {
+    "input": "Wuh, no, I'm not sure. Uh-I'm not sure at all. Wha-what am I doin' again?\n",
+    "output": "We're just gonna slide you down this rope, and then you've gotta get our exclusive video to that reporter down there. [hands him the video]\n"
+  },
+  {
+    "input": "We're just gonna slide you down this rope, and then you've gotta get our exclusive video to that reporter down there. [hands him the video]\n",
+    "output": "Tha-at sounds awful dangerous.\n"
+  },
+  {
+    "input": "Tha-at sounds awful dangerous.\n",
+    "output": "Can you hit a target, Pip?\n"
+  },
+  {
+    "input": "Can you hit a target, Pip?\n",
+    "output": "[with bow and plunger] I was archery-class esquire at Stratfordshire. [pulls back on the bow]\n"
+  },
+  {
+    "input": "[with bow and plunger] I was archery-class esquire at Stratfordshire. [pulls back on the bow]\n",
+    "output": "Hit something nice and solid now. [Pip releases the plunger, with rope attached, and it lands on the left side of Barbrady's head. Barbrady moves just a bit, then sips his coffee]\n"
+  },
+  {
+    "input": "Hit something nice and solid now. [Pip releases the plunger, with rope attached, and it lands on the left side of Barbrady's head. Barbrady moves just a bit, then sips his coffee]\n",
+    "output": "[pulls the rope taut] I think that's got it.\n"
+  },
+  {
+    "input": "[pulls the rope taut] I think that's got it.\n",
+    "output": "Nice job, Pip.\n"
+  },
+  {
+    "input": "Nice job, Pip.\n",
+    "output": "Did I do a nice job? Really?\n"
+  },
+  {
+    "input": "Did I do a nice job? Really?\n",
+    "output": "Alright, Butters. Now it's your turn. [he and Dougie help Butters onto the window sill and hook him up to the rope]\n"
+  },
+  {
+    "input": "Alright, Butters. Now it's your turn. [he and Dougie help Butters onto the window sill and hook him up to the rope]\n",
+    "output": "Wha-ah I don't know about this, uh. I think I'll reconsider. Yep uh I think reconsiderin' is the thing to do right now. [Dougie pushes him off] Waaah! [slides down to Barbrady and bounces off the hook] Gooh. [runs to the reporter]\n"
+  },
+  {
+    "input": "Wha-ah I don't know about this, uh. I think I'll reconsider. Yep uh I think reconsiderin' is the thing to do right now. [Dougie pushes him off] Waaah! [slides down to Barbrady and bounces off the hook] Gooh. [runs to the reporter]\n",
+    "output": "He made it down. [Pip and Dougie grin]\n[Outside.]\n"
+  },
+  {
+    "input": "He made it down. [Pip and Dougie grin]\n[Outside.]\n",
+    "output": "Alright, people, prepare to fire on my command! [the agents take aim]\n"
+  },
+  {
+    "input": "Alright, people, prepare to fire on my command! [the agents take aim]\n",
+    "output": "Uhuh, Mr. Reporter, sir?\n"
+  },
+  {
+    "input": "Uhuh, Mr. Reporter, sir?\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Uhuh wuhwe've got an eyewitness exclusive video for you, sir. [hands it to the reporter, who inspects it]\n[Inside, living room. Randy stands alone in the middle of the crowd, despondent]\n"
+  },
+  {
+    "input": "Uhuh wuhwe've got an eyewitness exclusive video for you, sir. [hands it to the reporter, who inspects it]\n[Inside, living room. Randy stands alone in the middle of the crowd, despondent]\n",
+    "output": "[walks up] Honey?\n"
+  },
+  {
+    "input": "[walks up] Honey?\n",
+    "output": "[hushed] God, everybody's looking at me. Everybody knows.\n"
+  },
+  {
+    "input": "[hushed] God, everybody's looking at me. Everybody knows.\n",
+    "output": "Everybody doesn't know. And why are you so ashamed of me?\n"
+  },
+  {
+    "input": "Everybody doesn't know. And why are you so ashamed of me?\n",
+    "output": "What's happened to you?! You've become all needy and talkative and-!\n"
+  },
+  {
+    "input": "What's happened to you?! You've become all needy and talkative and-!\n",
+    "output": "I just want to know it meant something to you.\n"
+  },
+  {
+    "input": "I just want to know it meant something to you.\n",
+    "output": "It didn't mean anything to me, Gerry! [the music stops] All we did was watch each other masturbate in the hot tub! [people turn and stare. One man gasps and Sharon lifts her head from the floor]\n"
+  },
+  {
+    "input": "It didn't mean anything to me, Gerry! [the music stops] All we did was watch each other masturbate in the hot tub! [people turn and stare. One man gasps and Sharon lifts her head from the floor]\n",
+    "output": "Aw, I was just in the hot tub. [a man next to him pulls away]\n"
+  },
+  {
+    "input": "Aw, I was just in the hot tub. [a man next to him pulls away]\n",
+    "output": "Yeah! Yeah, it's true! I thought it would be exciting, and maybe it was, but I can't deal with your accusing stares! [shots of various people looking at him] We watched each other jack off in the hot tub! There! We did it! I'm not proud of it, but there it is!\n"
+  },
+  {
+    "input": "Yeah! Yeah, it's true! I thought it would be exciting, and maybe it was, but I can't deal with your accusing stares! [shots of various people looking at him] We watched each other jack off in the hot tub! There! We did it! I'm not proud of it, but there it is!\n",
+    "output": "Uh. Well, it's not like you're the only guy who's ever watched another guy masturbate; I've done it.\n"
+  },
+  {
+    "input": "Uh. Well, it's not like you're the only guy who's ever watched another guy masturbate; I've done it.\n",
+    "output": "Mmm-me too. [other men begin to answer]\n"
+  },
+  {
+    "input": "Mmm-me too. [other men begin to answer]\n",
+    "output": "Yeah, uh I've done it a few times.\n"
+  },
+  {
+    "input": "Yeah, uh I've done it a few times.\n",
+    "output": "Yep.\n"
+  },
+  {
+    "input": "Yep.\n",
+    "output": "Yup.\n"
+  },
+  {
+    "input": "Yup.\n",
+    "output": "Uh huh.\n"
+  },
+  {
+    "input": "Uh huh.\n",
+    "output": "Me too.\n"
+  },
+  {
+    "input": "Me too.\n",
+    "output": "Myeup, me too.\n"
+  },
+  {
+    "input": "Myeup, me too.\n",
+    "output": "Yup.\n"
+  },
+  {
+    "input": "Yup.\n",
+    "output": "Aw, hell, uh I've done it too. With Cameron here. [points to the burly man who spoke earlier]\n"
+  },
+  {
+    "input": "Aw, hell, uh I've done it too. With Cameron here. [points to the burly man who spoke earlier]\n",
+    "output": "[music resumes] Uh, Juanita, could you fix some more dip, please, Juanita? [she goes to do it, and conversation resumes among the guests]\n"
+  },
+  {
+    "input": "[music resumes] Uh, Juanita, could you fix some more dip, please, Juanita? [she goes to do it, and conversation resumes among the guests]\n",
+    "output": "You mean it? I'm not gay?\n"
+  },
+  {
+    "input": "You mean it? I'm not gay?\n",
+    "output": "[walks up] Hwell... maybe a little. But we're all a little gay.\n"
+  },
+  {
+    "input": "[walks up] Hwell... maybe a little. But we're all a little gay.\n",
+    "output": "Oh, I feel so much better! Wow!\n"
+  },
+  {
+    "input": "Oh, I feel so much better! Wow!\n",
+    "output": "So we're friends again?\n"
+  },
+  {
+    "input": "So we're friends again?\n",
+    "output": "Uh, you bet we are, Gerry! I feel great! I feel like I could take on the world! Everything's gonna be okay!\n[Outside. The Negotiator is rolled into placed and aimed once more]\n"
+  },
+  {
+    "input": "Uh, you bet we are, Gerry! I feel great! I feel like I could take on the world! Everything's gonna be okay!\n[Outside. The Negotiator is rolled into placed and aimed once more]\n",
+    "output": "Alright everyone, fire!\n"
+  },
+  {
+    "input": "Alright everyone, fire!\n",
+    "output": "[runs in front of the cannon and waves his arms] Hold on just a minute! This is Derek Smalls reporting. We have just received an exclusive video from inside the house [holds it up], proving that the people inside are not cultists after all.\n"
+  },
+  {
+    "input": "[runs in front of the cannon and waves his arms] Hold on just a minute! This is Derek Smalls reporting. We have just received an exclusive video from inside the house [holds it up], proving that the people inside are not cultists after all.\n",
+    "output": "[to an agent] Uh oh. [runs to address the agents and waves his arms] Uh uh attention everyone! This has only been a test. Good job, men, on this, uh, simulation.\n"
+  },
+  {
+    "input": "[to an agent] Uh oh. [runs to address the agents and waves his arms] Uh uh attention everyone! This has only been a test. Good job, men, on this, uh, simulation.\n",
+    "output": "Simulation?\n"
+  },
+  {
+    "input": "Simulation?\n",
+    "output": "[to the blond] Sh. [to all] All is well. Do not shoot at [BOOM. The cannonball hits a house behind Mackey's, then bounces to crush another, then another, and yet another. Stan, Pip, and Dougie rush outside to join the reporter.]\n"
+  },
+  {
+    "input": "[to the blond] Sh. [to all] All is well. Do not shoot at [BOOM. The cannonball hits a house behind Mackey's, then bounces to crush another, then another, and yet another. Stan, Pip, and Dougie rush outside to join the reporter.]\n",
+    "output": "O-hoh, I believe we've saved the day! [Butters joins them]\n"
+  },
+  {
+    "input": "O-hoh, I believe we've saved the day! [Butters joins them]\n",
+    "output": "Woops.\n"
+  },
+  {
+    "input": "Woops.\n",
+    "output": "Sir, this isn't gonna look good.\n"
+  },
+  {
+    "input": "Sir, this isn't gonna look good.\n",
+    "output": "You're right. Quick, let's get out of here! [in the blink of an eye, every ATF agent and vehicle rushes away, leaving a clear road]\n"
+  },
+  {
+    "input": "You're right. Quick, let's get out of here! [in the blink of an eye, every ATF agent and vehicle rushes away, leaving a clear road]\n",
+    "output": "Say, that was a fine piece of journalism, boys.\n"
+  },
+  {
+    "input": "Say, that was a fine piece of journalism, boys.\n",
+    "output": "Wow, you mean that?\n"
+  },
+  {
+    "input": "Wow, you mean that?\n",
+    "output": "Sure. Why, with your tape, I'll be able to make millions and further my career beyond my wildest dreams. [walks away with the tape]\n"
+  },
+  {
+    "input": "Sure. Why, with your tape, I'll be able to make millions and further my career beyond my wildest dreams. [walks away with the tape]\n",
+    "output": "Uhuh oh uh, uh hooray, then!\n"
+  },
+  {
+    "input": "Uhuh oh uh, uh hooray, then!\n",
+    "output": "There. Angels, I must say I think we did a smashing job.\n"
+  },
+  {
+    "input": "There. Angels, I must say I think we did a smashing job.\n",
+    "output": "Uh we, we sure did. Why, we put the fear of God in those ATF sons of guns, I can tell ya.\n"
+  },
+  {
+    "input": "Uh we, we sure did. Why, we put the fear of God in those ATF sons of guns, I can tell ya.\n",
+    "output": "But you know, I learned something today. I used to call you guys Melvins. But you're just kids, like me. We separate you in school because you talk different and you study too hard, but we've proven tonight that we can all get along.\n"
+  },
+  {
+    "input": "But you know, I learned something today. I used to call you guys Melvins. But you're just kids, like me. We separate you in school because you talk different and you study too hard, but we've proven tonight that we can all get along.\n",
+    "output": "Uh, so you mean we can stay friends, Stan? Wouldn't that be swell, huh?\n"
+  },
+  {
+    "input": "Uh, so you mean we can stay friends, Stan? Wouldn't that be swell, huh?\n",
+    "output": "[shows up] Dude! I'm glad to see you. You would not believe the night I had.\n"
+  },
+  {
+    "input": "[shows up] Dude! I'm glad to see you. You would not believe the night I had.\n",
+    "output": "You?! You think you had a bad night?! I had to hang out all night with these friggin' Melvins!\n"
+  },
+  {
+    "input": "You?! You think you had a bad night?! I had to hang out all night with these friggin' Melvins!\n",
+    "output": "Hoh, dude, weak.\n"
+  },
+  {
+    "input": "Hoh, dude, weak.\n",
+    "output": "Super weak.\n"
+  }
+]

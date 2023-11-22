@@ -1,0 +1,886 @@
+[
+  {
+    "input": "",
+    "output": "Let Go, Let Gov\n\n[The bus stop, day. Stan, Kyle, and Kenny are waiting for the bus]\n"
+  },
+  {
+    "input": "Let Go, Let Gov\n\n[The bus stop, day. Stan, Kyle, and Kenny are waiting for the bus]\n",
+    "output": "I am sooo sick of that stupid bitch! Blabbin' pussy little skank! Why do people talk on their phone like that?! I can't even get a minute of peace before that bitch walks in, holding the cell phone out like this [holds his hand out], and talking on speaker phone! Nobody wants to hear your goddamned conversations, you little bitch! You're not that important!\n"
+  },
+  {
+    "input": "I am sooo sick of that stupid bitch! Blabbin' pussy little skank! Why do people talk on their phone like that?! I can't even get a minute of peace before that bitch walks in, holding the cell phone out like this [holds his hand out], and talking on speaker phone! Nobody wants to hear your goddamned conversations, you little bitch! You're not that important!\n",
+    "output": "[walks up to them, talking to someone on the phone via speaker] Yeah, I know dude. I'm telling you, it was the worst pain in my entire life.\n"
+  },
+  {
+    "input": "[walks up to them, talking to someone on the phone via speaker] Yeah, I know dude. I'm telling you, it was the worst pain in my entire life.\n",
+    "output": "How many hours were you guys playing?\n"
+  },
+  {
+    "input": "How many hours were you guys playing?\n",
+    "output": "Like six hours, dude. And my friends were all like \"Dude, Cartman, we need you to keep playing defense!\"\n"
+  },
+  {
+    "input": "Like six hours, dude. And my friends were all like \"Dude, Cartman, we need you to keep playing defense!\"\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "You were playing football?\n"
+  },
+  {
+    "input": "You were playing football?\n",
+    "output": "Yeah, but I was like \"I can't you guys. I twisted my ankle.\" In the end though, they really needed me to play, so I just played through the pain, you know what I'm sayin'?\n"
+  },
+  {
+    "input": "Yeah, but I was like \"I can't you guys. I twisted my ankle.\" In the end though, they really needed me to play, so I just played through the pain, you know what I'm sayin'?\n",
+    "output": "That is not what happened! You totally started crying and quit the game!\n"
+  },
+  {
+    "input": "That is not what happened! You totally started crying and quit the game!\n",
+    "output": "[softly, covering the phone] Kyle, this is a private conversation.\n"
+  },
+  {
+    "input": "[softly, covering the phone] Kyle, this is a private conversation.\n",
+    "output": "Then take that shit off speaker phone!!\n"
+  },
+  {
+    "input": "Then take that shit off speaker phone!!\n",
+    "output": "Is that that same kid?\n"
+  },
+  {
+    "input": "Is that that same kid?\n",
+    "output": "Yeah, it's that kid Kyle again. He's a total boner, always listening in on my calls.\n"
+  },
+  {
+    "input": "Yeah, it's that kid Kyle again. He's a total boner, always listening in on my calls.\n",
+    "output": "How do we have a choice?!\n"
+  },
+  {
+    "input": "How do we have a choice?!\n",
+    "output": "Stop listening to my conversation, Kyle! What are you, the NSA?! Lawrence, remember how I was tellin' you the NSA listens to everyone's phone calls and reads all our e-mails?\n"
+  },
+  {
+    "input": "Stop listening to my conversation, Kyle! What are you, the NSA?! Lawrence, remember how I was tellin' you the NSA listens to everyone's phone calls and reads all our e-mails?\n",
+    "output": "Yeah yeah, you said that.\n"
+  },
+  {
+    "input": "Yeah yeah, you said that.\n",
+    "output": "My dad says the government keeps a database on everyone.\n"
+  },
+  {
+    "input": "My dad says the government keeps a database on everyone.\n",
+    "output": "Who is that? Is that Toby?\n"
+  },
+  {
+    "input": "Who is that? Is that Toby?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Dude, Toby, are you over at Lawrence's?\n"
+  },
+  {
+    "input": "Dude, Toby, are you over at Lawrence's?\n",
+    "output": "Yeah, we're ditching school.\n"
+  },
+  {
+    "input": "Yeah, we're ditching school.\n",
+    "output": "You're what? What, you say?\n"
+  },
+  {
+    "input": "You're what? What, you say?\n",
+    "output": "Me and Toby are ditching school!\n[Cafeteria, lunchtime. The boys are at table, and Kyle looks worn out.]\n"
+  },
+  {
+    "input": "Me and Toby are ditching school!\n[Cafeteria, lunchtime. The boys are at table, and Kyle looks worn out.]\n",
+    "output": "I'm telling you guys, the government thinks they can do whatever they want, and we don't have any privacy anymore! [he's not talking to his friends at the table, but to his friends on the conference call] Just between you and me, I think everyone is too stupid to see what this is all leading to. Did you guys read \"1984\"?\n"
+  },
+  {
+    "input": "I'm telling you guys, the government thinks they can do whatever they want, and we don't have any privacy anymore! [he's not talking to his friends at the table, but to his friends on the conference call] Just between you and me, I think everyone is too stupid to see what this is all leading to. Did you guys read \"1984\"?\n",
+    "output": "I don't think so.\n"
+  },
+  {
+    "input": "I don't think so.\n",
+    "output": "See, I didn't read it either, but I saw the puppet show version up at Casa Bonita. We have to do something about this! We need to organize a rally! [Kyle takes the top bun off his burger]\n"
+  },
+  {
+    "input": "See, I didn't read it either, but I saw the puppet show version up at Casa Bonita. We have to do something about this! We need to organize a rally! [Kyle takes the top bun off his burger]\n",
+    "output": "That'd be cool.\n"
+  },
+  {
+    "input": "That'd be cool.\n",
+    "output": "That'd be what?\n"
+  },
+  {
+    "input": "That'd be what?\n",
+    "output": "That'd be COOL.\n"
+  },
+  {
+    "input": "That'd be COOL.\n",
+    "output": "I know, right? [Kyle puts the bun back on the burger, then takes his tray with him and walks away] A big rally to tell the government to stay out of our private lives! I'm gonna e-mail everybody and put it up on my blog pages! [having lost his appetite, Kyle throws his food away, puts his tray on the nearby cart, and walks off. Cartman approaches the trash can] I seriously feel like I'm being spied on right now. [carelessly throws his trash away, with fries spilling onto the floor, puts his tray carelessly on the card, then walks off behind Kyle] I'm sure the government has a file on me a mile long; that's why this is so important, you know? [Kyle stops, his anger rising] Hang on, I'm gonna make a video blog for my \"Stop Listening To Me\" Web site. [turns on the video feature on his phone and starts recording] What's up everybody? It's me again, just kicking it at my skeal. There's gonna be a big rally to tell the government to stop gathering information on us! Gonna tweet you all the details, but keep quiet, 'cause it's top secret! [ends the video and goes back to his phone friends. Kyle leaves] You guys gonna update your blogs too?\n[Outside on the playground. Cartman is still on the phone with Lawrence while Kyle and Kenny try to play tetherball. Cartman is just too damned loud.]\n"
+  },
+  {
+    "input": "I know, right? [Kyle puts the bun back on the burger, then takes his tray with him and walks away] A big rally to tell the government to stay out of our private lives! I'm gonna e-mail everybody and put it up on my blog pages! [having lost his appetite, Kyle throws his food away, puts his tray on the nearby cart, and walks off. Cartman approaches the trash can] I seriously feel like I'm being spied on right now. [carelessly throws his trash away, with fries spilling onto the floor, puts his tray carelessly on the card, then walks off behind Kyle] I'm sure the government has a file on me a mile long; that's why this is so important, you know? [Kyle stops, his anger rising] Hang on, I'm gonna make a video blog for my \"Stop Listening To Me\" Web site. [turns on the video feature on his phone and starts recording] What's up everybody? It's me again, just kicking it at my skeal. There's gonna be a big rally to tell the government to stop gathering information on us! Gonna tweet you all the details, but keep quiet, 'cause it's top secret! [ends the video and goes back to his phone friends. Kyle leaves] You guys gonna update your blogs too?\n[Outside on the playground. Cartman is still on the phone with Lawrence while Kyle and Kenny try to play tetherball. Cartman is just too damned loud.]\n",
+    "output": "Dude, I really can't hear you Lawrence. Are you outside or something?\n"
+  },
+  {
+    "input": "Dude, I really can't hear you Lawrence. Are you outside or something?\n",
+    "output": "I said I got your tweet and the address!\n"
+  },
+  {
+    "input": "I said I got your tweet and the address!\n",
+    "output": "Okay, well put Toby back on the phone! You guys start Googling everyone the directions to the rally site. Toby, are you there, bro?\n"
+  },
+  {
+    "input": "Okay, well put Toby back on the phone! You guys start Googling everyone the directions to the rally site. Toby, are you there, bro?\n",
+    "output": "Yeah, I'm here, bro.\n"
+  },
+  {
+    "input": "Yeah, I'm here, bro.\n",
+    "output": "Bro, you gotta um, e-mail Jack about the rally and see if he'll bring petition forms. [Kyle just walks up to Cartman and stands next to him]\n"
+  },
+  {
+    "input": "Bro, you gotta um, e-mail Jack about the rally and see if he'll bring petition forms. [Kyle just walks up to Cartman and stands next to him]\n",
+    "output": "[calmly] Will you please take your rally conversation somewhere else?\n"
+  },
+  {
+    "input": "[calmly] Will you please take your rally conversation somewhere else?\n",
+    "output": "Oh heeell NO you didn't just invade my privacy again?! That is the LAST STRAW, Kyle! [runs off, then stops and addresses everyone on the playground] Everybody! Everybody hey! Just so you know, we might have an NSA agent right here at our school\n"
+  },
+  {
+    "input": "Oh heeell NO you didn't just invade my privacy again?! That is the LAST STRAW, Kyle! [runs off, then stops and addresses everyone on the playground] Everybody! Everybody hey! Just so you know, we might have an NSA agent right here at our school\n",
+    "output": "Ww-ww-what's the N-S-A?\n"
+  },
+  {
+    "input": "Ww-ww-what's the N-S-A?\n",
+    "output": "That just so you know, the government is watching everything you do! Always watching! They say it's to keep us safe! But what price is safety, Kyle? [walks away. The other kids disperse and go back to what they were doing. Only Butters and Kyle remain.]\n"
+  },
+  {
+    "input": "That just so you know, the government is watching everything you do! Always watching! They say it's to keep us safe! But what price is safety, Kyle? [walks away. The other kids disperse and go back to what they were doing. Only Butters and Kyle remain.]\n",
+    "output": "The government watches everything we do?\n[Butters' bedroom, night. As a moonbeam bathes his bedroom, Butters is still wondering about the government watching him.]\n"
+  },
+  {
+    "input": "The government watches everything we do?\n[Butters' bedroom, night. As a moonbeam bathes his bedroom, Butters is still wondering about the government watching him.]\n",
+    "output": "Hello?? Hey Government... It's me... Butters. Ah I just wanna say, well, well, thanks for watching over me and, and doin' everything you do. ...An and please watch over Mommy, and Daddy, ah an and my friends Stan and Kyle, Craig and Tolkien, and and even ol' Eric Cartman. Uh I know he can be a meanie sometimes, but please watch over him too. Goodnight, Government. [smiles, then walks to his bed and goes under the covers, then gasps] Oh yeah. [gets out of bed and goes to his mark] Ah, and thank you, President Obama, for, for making me feel so safe and looked after. And if it wouldn't be... too much trouble... [a little softly] I'd really like to get a puppy for Christmas this year. [normal] 'Night, Government. [goes back to bed]\n[The school's computer lad, next day. The kids are typing away on their keyboards and Cartman is on the phone again...]\n"
+  },
+  {
+    "input": "Hello?? Hey Government... It's me... Butters. Ah I just wanna say, well, well, thanks for watching over me and, and doin' everything you do. ...An and please watch over Mommy, and Daddy, ah an and my friends Stan and Kyle, Craig and Tolkien, and and even ol' Eric Cartman. Uh I know he can be a meanie sometimes, but please watch over him too. Goodnight, Government. [smiles, then walks to his bed and goes under the covers, then gasps] Oh yeah. [gets out of bed and goes to his mark] Ah, and thank you, President Obama, for, for making me feel so safe and looked after. And if it wouldn't be... too much trouble... [a little softly] I'd really like to get a puppy for Christmas this year. [normal] 'Night, Government. [goes back to bed]\n[The school's computer lad, next day. The kids are typing away on their keyboards and Cartman is on the phone again...]\n",
+    "output": "Dude, they have gone too far this time! There is no doubt the government is tracking me! We're gonna have to put off the rally.\n"
+  },
+  {
+    "input": "Dude, they have gone too far this time! There is no doubt the government is tracking me! We're gonna have to put off the rally.\n",
+    "output": "They're spying on you?\n"
+  },
+  {
+    "input": "They're spying on you?\n",
+    "output": "Yes, right here. I went to Amazon to see if they had Grand Theft Auto V, and it says, \"you might also be interested in the Blu-ray for Star Trek.\" I'm totally interested in the Blu-ray for Star Trek! How did they know that unless the government is keepin' tabs on mw?! [pounds the keyboard with his right fist. The other kids begin to star at him] This is war, bro! Forget the rally, we have to go hard core!\n"
+  },
+  {
+    "input": "Yes, right here. I went to Amazon to see if they had Grand Theft Auto V, and it says, \"you might also be interested in the Blu-ray for Star Trek.\" I'm totally interested in the Blu-ray for Star Trek! How did they know that unless the government is keepin' tabs on mw?! [pounds the keyboard with his right fist. The other kids begin to star at him] This is war, bro! Forget the rally, we have to go hard core!\n",
+    "output": "Like what?\n"
+  },
+  {
+    "input": "Like what?\n",
+    "output": "Alright, listen. I'm gonna get a job at the NSA, and then I'm gonna put all their secrets up on Twitter.\n"
+  },
+  {
+    "input": "Alright, listen. I'm gonna get a job at the NSA, and then I'm gonna put all their secrets up on Twitter.\n",
+    "output": "Naw, don't do that.\n"
+  },
+  {
+    "input": "Naw, don't do that.\n",
+    "output": "No! Dude, I'm gonna sneak into their headquarters disguised as an employee, and I'm gonna- [gets suspicious] Hey, hang on a second, Lawrence. [hides behind his monitor for a moment, then slowly stands up on his chair] I think we have a Nosey Nancy in the room. [sits down] Dude, my Twitter account might already be compromised. If I'm gonna infiltrate the NSA and get all their secrets out to the public, then I'm gonna need something better than Twitter.\n"
+  },
+  {
+    "input": "No! Dude, I'm gonna sneak into their headquarters disguised as an employee, and I'm gonna- [gets suspicious] Hey, hang on a second, Lawrence. [hides behind his monitor for a moment, then slowly stands up on his chair] I think we have a Nosey Nancy in the room. [sits down] Dude, my Twitter account might already be compromised. If I'm gonna infiltrate the NSA and get all their secrets out to the public, then I'm gonna need something better than Twitter.\n",
+    "output": "You need that new thing where you don't need to type.\n"
+  },
+  {
+    "input": "You need that new thing where you don't need to type.\n",
+    "output": "What, they already have something better than Twitter?\n"
+  },
+  {
+    "input": "What, they already have something better than Twitter?\n",
+    "output": "You haven't seen the Alec Baldwin commercial?\n"
+  },
+  {
+    "input": "You haven't seen the Alec Baldwin commercial?\n",
+    "output": "No! What Alec Baldwin commercial?\n[This one. Alec Baldwin is on the set of his latest movie, in his director's chair]\n"
+  },
+  {
+    "input": "No! What Alec Baldwin commercial?\n[This one. Alec Baldwin is on the set of his latest movie, in his director's chair]\n",
+    "output": "Hello. I'm Alec Baldwin, and I love social media. [whips out his phone] But sometimes, I accidentally tweet things that are homophobic. I don't think that way, I just type that way. That's when I realized it wasn't me that was homophobic, it was my thumbs, and they needed to be gotten rid of. [a shot of him chopping his right thumb off with a meat cleaver, then doing the same with his left thumb. He groans in pain each time.] So then the problem was, I don't have thumbs. But I know that everyone in America still wants to hear everything I have to say.[Now in a park by a lake. He's on a bench, with a camera behind him. He turns to look at it] Well, that's okay, because now there's a device that can actually take the thoughts in your head and send them directly to the Internet. It's called... Shitter. [points to a pair of antennae attached to the crown of his head. Next follows a stick-figure representation of the process]Wires are grafted harmlessly into your skull and any thought you have is uploaded to the Internet, and on to all your Shitter followers. [more stick figures appear, each with their own Shitter antennae. Then he's shown at a baseball park: \"I'm at a Yankess game right now.\" The men on either side look at him. \"God I love baseball.\" Next he's on a plane next to an elderly woman with her cat in a pet carrier. \"People who take their cats on planes should be shot.\" He looks away, and the elderly woman looks at him. Next he's at a theatre. \"I'm at a really great musical right now.\" The woman to his left notices the antennae. Next he's at an outdoor restaurant looking at a menu. \"In 1992 I had sex with the Queen of Monaco. I had my entire fist up her ass.\" Back on set] Don't let your social media slow down our need to communicate with the world. Go direct from thought to Internet ...with Shitter. [\"Just finished my Shitter commercial. Time to go find a pussy sandwich.\"]\n[South Park Elementary, day. Kids are milling around the hallways. Kyle is shown walking down one hall when Cartman's voice is heard]\n"
+  },
+  {
+    "input": "Hello. I'm Alec Baldwin, and I love social media. [whips out his phone] But sometimes, I accidentally tweet things that are homophobic. I don't think that way, I just type that way. That's when I realized it wasn't me that was homophobic, it was my thumbs, and they needed to be gotten rid of. [a shot of him chopping his right thumb off with a meat cleaver, then doing the same with his left thumb. He groans in pain each time.] So then the problem was, I don't have thumbs. But I know that everyone in America still wants to hear everything I have to say.[Now in a park by a lake. He's on a bench, with a camera behind him. He turns to look at it] Well, that's okay, because now there's a device that can actually take the thoughts in your head and send them directly to the Internet. It's called... Shitter. [points to a pair of antennae attached to the crown of his head. Next follows a stick-figure representation of the process]Wires are grafted harmlessly into your skull and any thought you have is uploaded to the Internet, and on to all your Shitter followers. [more stick figures appear, each with their own Shitter antennae. Then he's shown at a baseball park: \"I'm at a Yankess game right now.\" The men on either side look at him. \"God I love baseball.\" Next he's on a plane next to an elderly woman with her cat in a pet carrier. \"People who take their cats on planes should be shot.\" He looks away, and the elderly woman looks at him. Next he's at a theatre. \"I'm at a really great musical right now.\" The woman to his left notices the antennae. Next he's at an outdoor restaurant looking at a menu. \"In 1992 I had sex with the Queen of Monaco. I had my entire fist up her ass.\" Back on set] Don't let your social media slow down our need to communicate with the world. Go direct from thought to Internet ...with Shitter. [\"Just finished my Shitter commercial. Time to go find a pussy sandwich.\"]\n[South Park Elementary, day. Kids are milling around the hallways. Kyle is shown walking down one hall when Cartman's voice is heard]\n",
+    "output": "[\"Alright, what's up everybody, what's up? I'm about ready to go to the NSA undercover, and see if I can expose some of those secrets.\" When Cartman appears, Kyle stops. \"You can follow me on my Shitter account at #keepyourgovernmentoutofmybusinessdotcom. Wait, sh, I've gotta be careful. Kyle is here and I'm pretty sure he's tryin' to listen in.\"]\n"
+  },
+  {
+    "input": "[\"Alright, what's up everybody, what's up? I'm about ready to go to the NSA undercover, and see if I can expose some of those secrets.\" When Cartman appears, Kyle stops. \"You can follow me on my Shitter account at #keepyourgovernmentoutofmybusinessdotcom. Wait, sh, I've gotta be careful. Kyle is here and I'm pretty sure he's tryin' to listen in.\"]\n",
+    "output": "[notices the Shitter device and gets angry.] What the hell are you doing?!\n"
+  },
+  {
+    "input": "[notices the Shitter device and gets angry.] What the hell are you doing?!\n",
+    "output": "[walks up to Kyle. \"Kyle, if you wouldn't mind, this broadcast is for my Shitter followers only.\" Clyde and Stan join them]\n"
+  },
+  {
+    "input": "[walks up to Kyle. \"Kyle, if you wouldn't mind, this broadcast is for my Shitter followers only.\" Clyde and Stan join them]\n",
+    "output": "What's Shitter?\n"
+  },
+  {
+    "input": "What's Shitter?\n",
+    "output": "[leans towards Clyde. \"Don't know if you've heard, but the government is actually able to monitor all our e-mails and Twitter accounts.\" leans towards Clyde. \"With Shitter I don't even need a cell phone. My thoughts are sent directly to the Internet, and then to everyone else on Shitter.\"]\n"
+  },
+  {
+    "input": "[leans towards Clyde. \"Don't know if you've heard, but the government is actually able to monitor all our e-mails and Twitter accounts.\" leans towards Clyde. \"With Shitter I don't even need a cell phone. My thoughts are sent directly to the Internet, and then to everyone else on Shitter.\"]\n",
+    "output": "Wow.\n"
+  },
+  {
+    "input": "Wow.\n",
+    "output": "[leans towards Stan. \"Yes. Now as I infiltrate the NSA, I'll be able to broadcast everything to all my Shitter followers.\"]\n"
+  },
+  {
+    "input": "[leans towards Stan. \"Yes. Now as I infiltrate the NSA, I'll be able to broadcast everything to all my Shitter followers.\"]\n",
+    "output": "You're okay with everything you think going up on the Internet?\n"
+  },
+  {
+    "input": "You're okay with everything you think going up on the Internet?\n",
+    "output": "Yeah, because the government won't respect my privacy.\n"
+  },
+  {
+    "input": "Yeah, because the government won't respect my privacy.\n",
+    "output": "How many people are on Shitter?\n"
+  },
+  {
+    "input": "How many people are on Shitter?\n",
+    "output": "Just two so far: me and Alec Baldwin.\n"
+  },
+  {
+    "input": "Just two so far: me and Alec Baldwin.\n",
+    "output": "[\"I'm about to sit down and eat a sandwich at this amazing deli run by two faggots in Chelsea.\"]\n"
+  },
+  {
+    "input": "[\"I'm about to sit down and eat a sandwich at this amazing deli run by two faggots in Chelsea.\"]\n",
+    "output": "[\"Oh cute. I'll have to try it out sometime, lol.\"]\n"
+  },
+  {
+    "input": "[\"Oh cute. I'll have to try it out sometime, lol.\"]\n",
+    "output": "[\"In 1982 I was at a party at Mike Douglas' house and I fucked Kim Basinger.\"]\n"
+  },
+  {
+    "input": "[\"In 1982 I was at a party at Mike Douglas' house and I fucked Kim Basinger.\"]\n",
+    "output": "[\"Wow, that's kewl. She's cute. ;) emoji\"]\n[Colorado Department of Motor Vehicles, day. Butters is waiting to be called. A monitor displays \"TICKET #395 WINDOWS 15\" and a small bell dings.]\n"
+  },
+  {
+    "input": "[\"Wow, that's kewl. She's cute. ;) emoji\"]\n[Colorado Department of Motor Vehicles, day. Butters is waiting to be called. A monitor displays \"TICKET #395 WINDOWS 15\" and a small bell dings.]\n",
+    "output": "Oh my God. Oh my God they say me. They saw me and they're gonna be so angry! Maybe they didn't see me. No! No, they saw me, they see everything! I did something really bad. Really really bad. [ding]\n"
+  },
+  {
+    "input": "Oh my God. Oh my God they say me. They saw me and they're gonna be so angry! Maybe they didn't see me. No! No, they saw me, they see everything! I did something really bad. Really really bad. [ding]\n",
+    "output": "[not shown] Next!\n"
+  },
+  {
+    "input": "[not shown] Next!\n",
+    "output": "Oh God, uh... but my parents always told me, \"If you do somethin' horrible, then you have to admit it to your protector, so that you can have forgiveness.\" Are these people nice?\n"
+  },
+  {
+    "input": "Oh God, uh... but my parents always told me, \"If you do somethin' horrible, then you have to admit it to your protector, so that you can have forgiveness.\" Are these people nice?\n",
+    "output": "DMV people? They're the meanest people on planet Earth.\n"
+  },
+  {
+    "input": "DMV people? They're the meanest people on planet Earth.\n",
+    "output": "Oh Jeez. [The monitor displays \"TICKET #403 WINDOWS 15\" and a small bell dings. Butters gets off his seat...] Oh God, huh... Here we go. [...and walks up to a clerk, but has no idea what to do] I yelled at a midget. [a few seconds pass by] I was, I was watching MTV and-and this little person was singing a song, eh - I think her name was \"Pink\" - but I I didn't like the songs and so I yelled! \"Hey, get off the TV you effing midget!\" [no reaction] And I, I was at Barnes & Noble with my mom, and while she was looking for a book I, I saw this picture of Jennifer Lawrence in a magazine. Um it and I, well, I cut the picture out of the magazine while no one was lookin'. Dirty whore! I took the picture home with me and I, and-I, I cut Jennifer Lawrence's mouth out with scissors and then I... well I put my wiener through the hole. I have no idea why!! How can I atone for it?! I already said the Pledge of Allegiance 50 times! And I sang \"My Country Tis Of Thee\" 100 times! And I watches \"America's Got Talent\" twice! What else can I do?\n"
+  },
+  {
+    "input": "Oh Jeez. [The monitor displays \"TICKET #403 WINDOWS 15\" and a small bell dings. Butters gets off his seat...] Oh God, huh... Here we go. [...and walks up to a clerk, but has no idea what to do] I yelled at a midget. [a few seconds pass by] I was, I was watching MTV and-and this little person was singing a song, eh - I think her name was \"Pink\" - but I I didn't like the songs and so I yelled! \"Hey, get off the TV you effing midget!\" [no reaction] And I, I was at Barnes & Noble with my mom, and while she was looking for a book I, I saw this picture of Jennifer Lawrence in a magazine. Um it and I, well, I cut the picture out of the magazine while no one was lookin'. Dirty whore! I took the picture home with me and I, and-I, I cut Jennifer Lawrence's mouth out with scissors and then I... well I put my wiener through the hole. I have no idea why!! How can I atone for it?! I already said the Pledge of Allegiance 50 times! And I sang \"My Country Tis Of Thee\" 100 times! And I watches \"America's Got Talent\" twice! What else can I do?\n",
+    "output": "Why not a thousand \"Livin' In America\"s?\n"
+  },
+  {
+    "input": "Why not a thousand \"Livin' In America\"s?\n",
+    "output": "Yes! Yes I will! Oh, thank youhoohoo! I will! Oh, I feel so much better already! [begins to walk away and launches into the song]\nLivin' in America!\nEye to eye! Hand to hand!\nAcross the nation!\nSmokestack, fatback,\nMany miles of railroad track\nOw! I said Ow ow!\n[exits]\n[N.S.A. Headquarters, Maryland, day. Cartman walks in, dressed in a suit and wearing a fake mustache, and approaches the front desk.]\n"
+  },
+  {
+    "input": "Yes! Yes I will! Oh, thank youhoohoo! I will! Oh, I feel so much better already! [begins to walk away and launches into the song]\nLivin' in America!\nEye to eye! Hand to hand!\nAcross the nation!\nSmokestack, fatback,\nMany miles of railroad track\nOw! I said Ow ow!\n[exits]\n[N.S.A. Headquarters, Maryland, day. Cartman walks in, dressed in a suit and wearing a fake mustache, and approaches the front desk.]\n",
+    "output": "Can I help you sir?\n"
+  },
+  {
+    "input": "Can I help you sir?\n",
+    "output": "Yes, I'm here to apply for the NSA job?\n"
+  },
+  {
+    "input": "Yes, I'm here to apply for the NSA job?\n",
+    "output": "All right, and your name?\n"
+  },
+  {
+    "input": "All right, and your name?\n",
+    "output": "Bill Clinton.\n"
+  },
+  {
+    "input": "Bill Clinton.\n",
+    "output": "[checks her calendar on the computer] I don't see you on the list, Mr. Clinton.\n"
+  },
+  {
+    "input": "[checks her calendar on the computer] I don't see you on the list, Mr. Clinton.\n",
+    "output": "Oh well, must be a clerical mistake, but they are expecting me.\n"
+  },
+  {
+    "input": "Oh well, must be a clerical mistake, but they are expecting me.\n",
+    "output": "[\"If you're ever in Los Angeles, be sure to look up Jennifer Love Hewitt. She can make a pussy sandwich that will give those faggots in Chelsea a run for their money\"]\n"
+  },
+  {
+    "input": "[\"If you're ever in Los Angeles, be sure to look up Jennifer Love Hewitt. She can make a pussy sandwich that will give those faggots in Chelsea a run for their money\"]\n",
+    "output": "What have you got, Patricia?\n"
+  },
+  {
+    "input": "What have you got, Patricia?\n",
+    "output": "Uh, this man says he has an interview for a job, sir?\n"
+  },
+  {
+    "input": "Uh, this man says he has an interview for a job, sir?\n",
+    "output": "I am extremely qualified, sir, and very eager to work.\n"
+  },
+  {
+    "input": "I am extremely qualified, sir, and very eager to work.\n",
+    "output": "[\"I borrowed my brother's dick once to fuck Darryl Hannah.\"]\n"
+  },
+  {
+    "input": "[\"I borrowed my brother's dick once to fuck Darryl Hannah.\"]\n",
+    "output": "[clears his throat as a distraction] I was um, sure that the appointment was today.\n"
+  },
+  {
+    "input": "[clears his throat as a distraction] I was um, sure that the appointment was today.\n",
+    "output": "That's quite alright. The NSA needs all the help it can get. Come on upstairs and I'll show you around, see if you're fit for the job.\n[The neighborhood. Two women knock on Butters' door. Butters answers it and sees two Polynesians. One carries a Bible, the other carries some pamphlets]\n"
+  },
+  {
+    "input": "That's quite alright. The NSA needs all the help it can get. Come on upstairs and I'll show you around, see if you're fit for the job.\n[The neighborhood. Two women knock on Butters' door. Butters answers it and sees two Polynesians. One carries a Bible, the other carries some pamphlets]\n",
+    "output": "Hello sir. My colleague and I are going through the neighborhood and seeing if you'd like to know the Truth. [hands him a pamphlet]\n"
+  },
+  {
+    "input": "Hello sir. My colleague and I are going through the neighborhood and seeing if you'd like to know the Truth. [hands him a pamphlet]\n",
+    "output": "Sure, I love the Truth.\n"
+  },
+  {
+    "input": "Sure, I love the Truth.\n",
+    "output": "Okay, we from uh Jehovah Witness. We Kingdom Hall Jehovah Witness, and uh, we believe, sir, that uh many people interpret the Bible it wrong.\n"
+  },
+  {
+    "input": "Okay, we from uh Jehovah Witness. We Kingdom Hall Jehovah Witness, and uh, we believe, sir, that uh many people interpret the Bible it wrong.\n",
+    "output": "Wull what's a Jehovah's Witness.\n"
+  },
+  {
+    "input": "Wull what's a Jehovah's Witness.\n",
+    "output": "We are, sir. We believe the, the Truth. I was once like you. I knew not what to believe, then I let my pulvy the Jehovah into the heart.\n"
+  },
+  {
+    "input": "We are, sir. We believe the, the Truth. I was once like you. I knew not what to believe, then I let my pulvy the Jehovah into the heart.\n",
+    "output": "Oh my goodness! Your little cartoon has a girl on fire!\n"
+  },
+  {
+    "input": "Oh my goodness! Your little cartoon has a girl on fire!\n",
+    "output": "Yes, because uh Jehovah will bring judgement against all who perish like the little girl will burn in fire.\n"
+  },
+  {
+    "input": "Yes, because uh Jehovah will bring judgement against all who perish like the little girl will burn in fire.\n",
+    "output": "Oh, you shouldn't be handing out drawings like that, ma'am. Uh, don't you know that the government is watching you?\n"
+  },
+  {
+    "input": "Oh, you shouldn't be handing out drawings like that, ma'am. Uh, don't you know that the government is watching you?\n",
+    "output": "The government ih watching me?\n"
+  },
+  {
+    "input": "The government ih watching me?\n",
+    "output": "Wansa?\n"
+  },
+  {
+    "input": "Wansa?\n",
+    "output": "He said the government ih watching us. [they turn slowly to face the street]\n"
+  },
+  {
+    "input": "He said the government ih watching us. [they turn slowly to face the street]\n",
+    "output": "Hi now?\n"
+  },
+  {
+    "input": "Hi now?\n",
+    "output": "How long they been watching us?\n"
+  },
+  {
+    "input": "How long they been watching us?\n",
+    "output": "Can I ask you something? When was the last time you went to your local DMV?\n"
+  },
+  {
+    "input": "Can I ask you something? When was the last time you went to your local DMV?\n",
+    "output": "[turns to face him] I don't go to DMV. I don't have car.\n"
+  },
+  {
+    "input": "[turns to face him] I don't go to DMV. I don't have car.\n",
+    "output": "Oh, you can walk there. Trust me, you've gotta go to the DMV. It's incredible! See, I was like you once. Afraid, unsure, and doin' stuff I shouldn't do like showin' people pictures of little girls with their heads on fire. But you know what I've learned? That just goin' to the DMV, and letting go of all my wrongdoings, filled me with a joy I've felt nowhere else! Would you like to read some DMV literature? [goes and gets some booklets he picked up at the DMV. He hand them the booklets and they leaf through them] This'll tell you most of what you need to know about the DMV. But just go. Everyone there is really nice. Your government is watching you and your government wants you to be happy. Have a nice day! [smiles and closes the door, then walks towards the kitchen]\n[N.S.A. Headquarters, Maryland, day. The chief takes Cartman on a tour.]\n"
+  },
+  {
+    "input": "Oh, you can walk there. Trust me, you've gotta go to the DMV. It's incredible! See, I was like you once. Afraid, unsure, and doin' stuff I shouldn't do like showin' people pictures of little girls with their heads on fire. But you know what I've learned? That just goin' to the DMV, and letting go of all my wrongdoings, filled me with a joy I've felt nowhere else! Would you like to read some DMV literature? [goes and gets some booklets he picked up at the DMV. He hand them the booklets and they leaf through them] This'll tell you most of what you need to know about the DMV. But just go. Everyone there is really nice. Your government is watching you and your government wants you to be happy. Have a nice day! [smiles and closes the door, then walks towards the kitchen]\n[N.S.A. Headquarters, Maryland, day. The chief takes Cartman on a tour.]\n",
+    "output": "Right this way, Bill. Welcome to the NSA main office.\n"
+  },
+  {
+    "input": "Right this way, Bill. Welcome to the NSA main office.\n",
+    "output": "Oh yes. Sooo this is where the government checks up on its citizens.\n"
+  },
+  {
+    "input": "Oh yes. Sooo this is where the government checks up on its citizens.\n",
+    "output": "There's a lot of people working here at the NSA. Good people, people who just wanna keep America safe. Only problem is, checking all those e-mails, Twitter accounts, and surveilling all those phone calls can take a lot of manpower. [they stop at a desk]\n"
+  },
+  {
+    "input": "There's a lot of people working here at the NSA. Good people, people who just wanna keep America safe. Only problem is, checking all those e-mails, Twitter accounts, and surveilling all those phone calls can take a lot of manpower. [they stop at a desk]\n",
+    "output": "Hey Joe?\n"
+  },
+  {
+    "input": "Hey Joe?\n",
+    "output": "Whatchoo got, Miller.\n"
+  },
+  {
+    "input": "Whatchoo got, Miller.\n",
+    "output": "Got a 24-year-old male in Albuquerque. He just e-mailed his wife and asked if she could go to the store after work. Then he called the fitness center to set up a membership. He liked the fitness center, so he tweeted his friends that they should try it out.\n"
+  },
+  {
+    "input": "Got a 24-year-old male in Albuquerque. He just e-mailed his wife and asked if she could go to the store after work. Then he called the fitness center to set up a membership. He liked the fitness center, so he tweeted his friends that they should try it out.\n",
+    "output": "...Alright, keep an eye on them. Let me know if anything changes. [he and Cartman move on]\n"
+  },
+  {
+    "input": "...Alright, keep an eye on them. Let me know if anything changes. [he and Cartman move on]\n",
+    "output": "Will do.\n"
+  },
+  {
+    "input": "Will do.\n",
+    "output": "It's a never-ending grind here at the NSA, and it seems there's never enough detectives to keep track of everyone. [they go further into the office to reveal a large room with over a hundred detectives all at their desks keeping tabs on everyone else.] Sergeant! What have you got, Larson.\n"
+  },
+  {
+    "input": "It's a never-ending grind here at the NSA, and it seems there's never enough detectives to keep track of everyone. [they go further into the office to reveal a large room with over a hundred detectives all at their desks keeping tabs on everyone else.] Sergeant! What have you got, Larson.\n",
+    "output": "Got a seventeen-year-old female down in Jacksonville. She called her friend and asked her if she wanted to see the Percy Jackson movie. Then she e-mailed her mom at work and asked if it was okay. The mom said yes, but called her husband first to make sure there weren't any dinner plans.\n"
+  },
+  {
+    "input": "Got a seventeen-year-old female down in Jacksonville. She called her friend and asked her if she wanted to see the Percy Jackson movie. Then she e-mailed her mom at work and asked if it was okay. The mom said yes, but called her husband first to make sure there weren't any dinner plans.\n",
+    "output": "Alright, keep an eye on all three of them.\n"
+  },
+  {
+    "input": "Alright, keep an eye on all three of them.\n",
+    "output": "Will do. [Joe and Cartman walk a few steps, then turn around. Behind them is the other half of the large room.]\n"
+  },
+  {
+    "input": "Will do. [Joe and Cartman walk a few steps, then turn around. Behind them is the other half of the large room.]\n",
+    "output": "If you think you got the stomach for this, then we can definitely use your help, young man.\n"
+  },
+  {
+    "input": "If you think you got the stomach for this, then we can definitely use your help, young man.\n",
+    "output": "Sir, you might wanna check this out.\n"
+  },
+  {
+    "input": "Sir, you might wanna check this out.\n",
+    "output": "What have you got?\n"
+  },
+  {
+    "input": "What have you got?\n",
+    "output": "Thirty-two-year-old pizza delivery man. He just put it on his Twitter account that he hates America and wants to blow up the Lincoln Memorial. [long pause]\n[The city, day. Joe and Cartman are in an NSA vehicle pursuing this lead. Here's the NSA as police force.]\n"
+  },
+  {
+    "input": "Thirty-two-year-old pizza delivery man. He just put it on his Twitter account that he hates America and wants to blow up the Lincoln Memorial. [long pause]\n[The city, day. Joe and Cartman are in an NSA vehicle pursuing this lead. Here's the NSA as police force.]\n",
+    "output": "[\"Four sixteen pm. The chief asked me to join him as he went to question the possible suspects. I agreed to go along. Hopefully, the NSA has no idea of my secret intentions.\" The chief looks at him. \"lol.\" The chief focuses on the road again. Moments later they stop in front of a house and get out of the car. The chief knocks on the door and a hippie answers it.]\n"
+  },
+  {
+    "input": "[\"Four sixteen pm. The chief asked me to join him as he went to question the possible suspects. I agreed to go along. Hopefully, the NSA has no idea of my secret intentions.\" The chief looks at him. \"lol.\" The chief focuses on the road again. Moments later they stop in front of a house and get out of the car. The chief knocks on the door and a hippie answers it.]\n",
+    "output": "Well well, the NSA. I should've known.\n"
+  },
+  {
+    "input": "Well well, the NSA. I should've known.\n",
+    "output": "We wanna talk to you about some tweets you've been tweeting.\n"
+  },
+  {
+    "input": "We wanna talk to you about some tweets you've been tweeting.\n",
+    "output": "Hey man, I was just blowin' smoke. Say, what right does the government have reading my private e-mails anyway?! Haven't you squares heard of the Constitution?\n"
+  },
+  {
+    "input": "Hey man, I was just blowin' smoke. Say, what right does the government have reading my private e-mails anyway?! Haven't you squares heard of the Constitution?\n",
+    "output": "Yeah, we've heard of that. We've also heard of the Declaration of Independence. See, there's a lot of people out there who think like you, people who think their government doesn't have the right to go around poking their noses in the e-mails of its citizens. That is, until a plane flies into a couple of towers and a little girl loses her life. You wanna live in the Land of the Free and the Home of the Brave, but the brave can't be free if the land isn't home, and that land won't be home so long as folks out there wanna take that American flag and shove it so far up your anus that you crap stars and stripes for a week, and as you're sittin' there on the toilet with the Star-Spangled Montezuma's Revenge there's one thing I can guarantee you.\n"
+  },
+  {
+    "input": "Yeah, we've heard of that. We've also heard of the Declaration of Independence. See, there's a lot of people out there who think like you, people who think their government doesn't have the right to go around poking their noses in the e-mails of its citizens. That is, until a plane flies into a couple of towers and a little girl loses her life. You wanna live in the Land of the Free and the Home of the Brave, but the brave can't be free if the land isn't home, and that land won't be home so long as folks out there wanna take that American flag and shove it so far up your anus that you crap stars and stripes for a week, and as you're sittin' there on the toilet with the Star-Spangled Montezuma's Revenge there's one thing I can guarantee you.\n",
+    "output": "Yeah? What's that?\n"
+  },
+  {
+    "input": "Yeah? What's that?\n",
+    "output": "You won't care who's checkin' your Twitter account then. [holds up a hard copy of the delivery man's tweets.]\n"
+  },
+  {
+    "input": "You won't care who's checkin' your Twitter account then. [holds up a hard copy of the delivery man's tweets.]\n",
+    "output": "...I never thought of it that way.\n"
+  },
+  {
+    "input": "...I never thought of it that way.\n",
+    "output": "[\"I fucked Jack Lemmon's makeup girl in a Port-A-Potty. Woops.\" The chief notices the lights on Cartman's Shitter device but doesn't say anything.]\n[Craig's house, day. He's on the sofa watching Terrance and Phillip on TV.]\n"
+  },
+  {
+    "input": "[\"I fucked Jack Lemmon's makeup girl in a Port-A-Potty. Woops.\" The chief notices the lights on Cartman's Shitter device but doesn't say anything.]\n[Craig's house, day. He's on the sofa watching Terrance and Phillip on TV.]\n",
+    "output": "Hey Phillip! Pull my finger! [the doorbell rings and he gets up to answer it] Aaaahahahaha. [he opens the door and sees Butters with the two Polynesian women]\n"
+  },
+  {
+    "input": "Hey Phillip! Pull my finger! [the doorbell rings and he gets up to answer it] Aaaahahahaha. [he opens the door and sees Butters with the two Polynesian women]\n",
+    "output": "Hello, Craig. How would you like to know the Truth?\n"
+  },
+  {
+    "input": "Hello, Craig. How would you like to know the Truth?\n",
+    "output": "...The truth about what?\n"
+  },
+  {
+    "input": "...The truth about what?\n",
+    "output": "We're just goin' through the neighborhood an' seein' if you've accepted the government into your heart.\n"
+  },
+  {
+    "input": "We're just goin' through the neighborhood an' seein' if you've accepted the government into your heart.\n",
+    "output": "...Aahhhh, no, I don't think so.\n"
+  },
+  {
+    "input": "...Aahhhh, no, I don't think so.\n",
+    "output": "My colleague and I, we went to saaah experience at DMV. We went to DMV, we admit all our shortcomings an sins and uh make a tital wave of peace and serenity with the truth stored inside our heart.\n"
+  },
+  {
+    "input": "My colleague and I, we went to saaah experience at DMV. We went to DMV, we admit all our shortcomings an sins and uh make a tital wave of peace and serenity with the truth stored inside our heart.\n",
+    "output": "...Okay. [next scene, all four of them are on the sofa.]\n"
+  },
+  {
+    "input": "...Okay. [next scene, all four of them are on the sofa.]\n",
+    "output": "You see, Craig, once I came clean with the government, I no longer had anything to hide. Then I found peace. Have you read any DMV literature?\n"
+  },
+  {
+    "input": "You see, Craig, once I came clean with the government, I no longer had anything to hide. Then I found peace. Have you read any DMV literature?\n",
+    "output": "Aaaaaaaaaaaahh, no.\n"
+  },
+  {
+    "input": "Aaaaaaaaaaaahh, no.\n",
+    "output": "Well, there's a lot of interesting stuff in here, Craig. There's even some quotes from President Obama. [hands him a booklet] Could you read this part out lout?\n"
+  },
+  {
+    "input": "Well, there's a lot of interesting stuff in here, Craig. There's even some quotes from President Obama. [hands him a booklet] Could you read this part out lout?\n",
+    "output": "[slowly reading] Your local DMV is funded by your tax dollars to be efficient and proficient.\n"
+  },
+  {
+    "input": "[slowly reading] Your local DMV is funded by your tax dollars to be efficient and proficient.\n",
+    "output": "Yeah. Whattaya think President Obama means when he says that?\n"
+  },
+  {
+    "input": "Yeah. Whattaya think President Obama means when he says that?\n",
+    "output": "I have no idea.\n"
+  },
+  {
+    "input": "I have no idea.\n",
+    "output": "Well, we believe that he means the government loves you, and it wants to forgive you if you just let the government into your heart.\n"
+  },
+  {
+    "input": "Well, we believe that he means the government loves you, and it wants to forgive you if you just let the government into your heart.\n",
+    "output": "Yes sir. [the boys look at her] See, i used to be like you. I go around sending them nasty e-mails and a nasty texts, puttin' nasty picture on my nasty Facebook. But then I realized, all these things, they live forever, because the government keep a file on us. So all that live forever up in what they call the Clou'. It's a government term. If they could put a file in the Clou', then I wanna make sure I come clean about the bad ones and maybe get those things off my record off the Clou'. Because we all live forever in the Clou'.\n"
+  },
+  {
+    "input": "Yes sir. [the boys look at her] See, i used to be like you. I go around sending them nasty e-mails and a nasty texts, puttin' nasty picture on my nasty Facebook. But then I realized, all these things, they live forever, because the government keep a file on us. So all that live forever up in what they call the Clou'. It's a government term. If they could put a file in the Clou', then I wanna make sure I come clean about the bad ones and maybe get those things off my record off the Clou'. Because we all live forever in the Clou'.\n",
+    "output": "Uh huh. [looks at Craig] Did you follow all that, Craig? [his eyes dart around] Uh, I don't think I really followed all that.\n[N.S.A. Headquarters, Maryland, day. Back at the main office, Cartman now has his own desk as an NSA detective.]\n"
+  },
+  {
+    "input": "Uh huh. [looks at Craig] Did you follow all that, Craig? [his eyes dart around] Uh, I don't think I really followed all that.\n[N.S.A. Headquarters, Maryland, day. Back at the main office, Cartman now has his own desk as an NSA detective.]\n",
+    "output": "[\"I've done it. I've infiltrated the NSA, and gained their trust.\" A shot of Alec Baldwin and his date at a buffet restaurant. The camera pans across until it reaches the couple. \"So far, I've not ascertained how they were able to keep track of everyone in the country, but I'm close. Very close. I just hope that I'm not found out as a whistleblower before I'm able to expose their entire operation.\"]\n"
+  },
+  {
+    "input": "[\"I've done it. I've infiltrated the NSA, and gained their trust.\" A shot of Alec Baldwin and his date at a buffet restaurant. The camera pans across until it reaches the couple. \"So far, I've not ascertained how they were able to keep track of everyone in the country, but I'm close. Very close. I just hope that I'm not found out as a whistleblower before I'm able to expose their entire operation.\"]\n",
+    "output": "What is that voice?\n"
+  },
+  {
+    "input": "What is that voice?\n",
+    "output": "Some little faggot in my head.\n"
+  },
+  {
+    "input": "Some little faggot in my head.\n",
+    "output": "Hey, so um, as I'm going through people's e-mails and phone calls, um, how do I know which people to start with?\n"
+  },
+  {
+    "input": "Hey, so um, as I'm going through people's e-mails and phone calls, um, how do I know which people to start with?\n",
+    "output": "Pretty simple. Everyone has a file. People who have a status of \"threat\", \"possible threat\", or \"person of interest\" are the ones we really wanna look at.\n"
+  },
+  {
+    "input": "Pretty simple. Everyone has a file. People who have a status of \"threat\", \"possible threat\", or \"person of interest\" are the ones we really wanna look at.\n",
+    "output": "The more we pay attention to them, the bigger their file becomes.\n"
+  },
+  {
+    "input": "The more we pay attention to them, the bigger their file becomes.\n",
+    "output": "Really? How big is my file?\n"
+  },
+  {
+    "input": "Really? How big is my file?\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Uhh, that us, uhh, yo-you must have a pretty big file on Eric Cartman. All his blogs and e-mails have been watched for quite some time.\n"
+  },
+  {
+    "input": "Uhh, that us, uhh, yo-you must have a pretty big file on Eric Cartman. All his blogs and e-mails have been watched for quite some time.\n",
+    "output": "Jarvis, what have we got on an \"Eric Cartman\"? Any files on Eric Cartman.\n"
+  },
+  {
+    "input": "Jarvis, what have we got on an \"Eric Cartman\"? Any files on Eric Cartman.\n",
+    "output": "Ohhh yeah, we tracked him for a little bit, but Central Computer designated his status as \"fat and unimportant.\"\n"
+  },
+  {
+    "input": "Ohhh yeah, we tracked him for a little bit, but Central Computer designated his status as \"fat and unimportant.\"\n",
+    "output": "Uhh trust me, he's not fat and unimportant. I think we need to change his status to \"ripped and sweet.\" [no one listens. He stands up on his desk] 'Scuse me. Excuse me! There's a very important threat to national security! We need to change Eric Cartman's status!\n[Colorado Department of Motor Vehicles, day. Officer Barbrady stands at the counter holding his hat in his right hand...]\n"
+  },
+  {
+    "input": "Uhh trust me, he's not fat and unimportant. I think we need to change his status to \"ripped and sweet.\" [no one listens. He stands up on his desk] 'Scuse me. Excuse me! There's a very important threat to national security! We need to change Eric Cartman's status!\n[Colorado Department of Motor Vehicles, day. Officer Barbrady stands at the counter holding his hat in his right hand...]\n",
+    "output": "And that's when I masturbated to Game of Thrones. I know it was wrong to masturbate, and I know it was especially wrong to masturbate while on duty.\n"
+  },
+  {
+    "input": "And that's when I masturbated to Game of Thrones. I know it was wrong to masturbate, and I know it was especially wrong to masturbate while on duty.\n",
+    "output": "What the? [looks over his left shoulder] Why do these people keep coming here?\n"
+  },
+  {
+    "input": "What the? [looks over his left shoulder] Why do these people keep coming here?\n",
+    "output": "But I am done forever with Game of Thrones. Forever\n"
+  },
+  {
+    "input": "But I am done forever with Game of Thrones. Forever\n",
+    "output": "Next, please! [ding]\n"
+  },
+  {
+    "input": "Next, please! [ding]\n",
+    "output": "Thank you. [puts on his hat and walks away. Nearby is a little group Butters has been forming, and Barbrady stops by]\n"
+  },
+  {
+    "input": "Thank you. [puts on his hat and walks away. Nearby is a little group Butters has been forming, and Barbrady stops by]\n",
+    "output": "[clapping] Yaaaaaay.\n"
+  },
+  {
+    "input": "[clapping] Yaaaaaay.\n",
+    "output": "Congratulations, Brother! How do you feel?\n"
+  },
+  {
+    "input": "Congratulations, Brother! How do you feel?\n",
+    "output": "I, I feel really good.\n"
+  },
+  {
+    "input": "I, I feel really good.\n",
+    "output": "[clapping] Heehhhhhhhah. [in the waiting area, a woman peeks over a man's shoulder to see what's going on]\n"
+  },
+  {
+    "input": "[clapping] Heehhhhhhhah. [in the waiting area, a woman peeks over a man's shoulder to see what's going on]\n",
+    "output": "Wow, those people over there seem like they're havin' fun. [Barbrady hugs the colleague and shakes the pamphleteer's hand]\n"
+  },
+  {
+    "input": "Wow, those people over there seem like they're havin' fun. [Barbrady hugs the colleague and shakes the pamphleteer's hand]\n",
+    "output": "[takes a few steps away from the group] I can't think of anywhere I'd rather be than at the DMV with all you wonderful people. Now let's all pledge Allegiance. [the group turns to face the flag] I pledge allegiance.\n"
+  },
+  {
+    "input": "[takes a few steps away from the group] I can't think of anywhere I'd rather be than at the DMV with all you wonderful people. Now let's all pledge Allegiance. [the group turns to face the flag] I pledge allegiance.\n",
+    "output": "To the flag of the United States of America, and to the republic for which it stands, one nation, under God, indivisible, with liberty and justice for all. [while the group recites the Pledge, the following takes place]\n"
+  },
+  {
+    "input": "To the flag of the United States of America, and to the republic for which it stands, one nation, under God, indivisible, with liberty and justice for all. [while the group recites the Pledge, the following takes place]\n",
+    "output": "[walks in and crosses the room towards the group] What the hell is going on here?! This is the DMV! There will be no joy here!\n"
+  },
+  {
+    "input": "[walks in and crosses the room towards the group] What the hell is going on here?! This is the DMV! There will be no joy here!\n",
+    "output": "Uh people keep showing up and telling us what they did wrong.\n"
+  },
+  {
+    "input": "Uh people keep showing up and telling us what they did wrong.\n",
+    "output": "Hey, I'm just trying to renew my license. How much longer do I gotta wait? [the group finishes the Pledge]\n"
+  },
+  {
+    "input": "Hey, I'm just trying to renew my license. How much longer do I gotta wait? [the group finishes the Pledge]\n",
+    "output": "[faces the customer and points at him] Shut up! Sit there and wait, and no cell phones or other things that pass time joyously! I'll put a stop to this! [walks to the group]\n[N.S.A. Headquarters, Maryland, day. Cartman pleads his case.]\n"
+  },
+  {
+    "input": "[faces the customer and points at him] Shut up! Sit there and wait, and no cell phones or other things that pass time joyously! I'll put a stop to this! [walks to the group]\n[N.S.A. Headquarters, Maryland, day. Cartman pleads his case.]\n",
+    "output": "Look, I am telling you that you are making a huuuge mistake! Eric Cartman is the NSA's worst nightmare!\n"
+  },
+  {
+    "input": "Look, I am telling you that you are making a huuuge mistake! Eric Cartman is the NSA's worst nightmare!\n",
+    "output": "Not according to the Central Computer.\n"
+  },
+  {
+    "input": "Not according to the Central Computer.\n",
+    "output": "The Central Computer is wrong! You need to change his status!\n"
+  },
+  {
+    "input": "The Central Computer is wrong! You need to change his status!\n",
+    "output": "Sorry, [stands and moves away from his desk] but if Central Computer says he is not a threat, then we can't do anything. [moves through the office]\n"
+  },
+  {
+    "input": "Sorry, [stands and moves away from his desk] but if Central Computer says he is not a threat, then we can't do anything. [moves through the office]\n",
+    "output": "[runsn to catch up with the chief] Can't do anything?? You're the NSA!\n"
+  },
+  {
+    "input": "[runsn to catch up with the chief] Can't do anything?? You're the NSA!\n",
+    "output": "There's 300 million people out there. How do you think we're able to keep track of every single person in the country? How do you think we're able to really know who's doing what?[they reach a pair of thick steel doors]\n"
+  },
+  {
+    "input": "There's 300 million people out there. How do you think we're able to keep track of every single person in the country? How do you think we're able to really know who's doing what?[they reach a pair of thick steel doors]\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Alright, I'll show you. But this is very top security stuff, because if people knew how we did it, then everyone would do it. Then our enemies would do it. We can't let our enemies get their hands on this.\n"
+  },
+  {
+    "input": "Alright, I'll show you. But this is very top security stuff, because if people knew how we did it, then everyone would do it. Then our enemies would do it. We can't let our enemies get their hands on this.\n",
+    "output": "Get their hands on what? [the chief presses some keys on the keypad next to the doors, and the doors open] Dude... [Santa is shown suspended in midair by a harness. Cables go from Santa to the surrounding wall of computers, and a massive one is attached to his privates. Several techs stand on a platform circling the room, looking at some of the many computers present]\n"
+  },
+  {
+    "input": "Get their hands on what? [the chief presses some keys on the keypad next to the doors, and the doors open] Dude... [Santa is shown suspended in midair by a harness. Cables go from Santa to the surrounding wall of computers, and a massive one is attached to his privates. Several techs stand on a platform circling the room, looking at some of the many computers present]\n",
+    "output": "This is how we know who's a threat and who's not. How we know who's sleeping and who's awake. [Cartman runs away from the entrance, whips out a whistle and starts blowing it] How we know that...\n"
+  },
+  {
+    "input": "This is how we know who's a threat and who's not. How we know who's sleeping and who's awake. [Cartman runs away from the entrance, whips out a whistle and starts blowing it] How we know that...\n",
+    "output": "You think I'm fat and unimportant now?! [rips off his fake mustache] I AM Eric Cartman! And I've got news for you! This is all being broadcast LIVE on my Twitter Zeppelin, and on Alec Baldwin's new television show, via Shitter!\n[Alec Baldwin's new show]\n"
+  },
+  {
+    "input": "You think I'm fat and unimportant now?! [rips off his fake mustache] I AM Eric Cartman! And I've got news for you! This is all being broadcast LIVE on my Twitter Zeppelin, and on Alec Baldwin's new television show, via Shitter!\n[Alec Baldwin's new show]\n",
+    "output": "Hi everybody, and welcome to my new show on MSNBC, \"Free Pass with Alec Baldwin\"\n"
+  },
+  {
+    "input": "Hi everybody, and welcome to my new show on MSNBC, \"Free Pass with Alec Baldwin\"\n",
+    "output": "[\"Your secret is out, NSA! And now that everyone knows what you're doing to Santa you can kiss your program goodbye!\"]\n[At NSA Headquarters.]\n"
+  },
+  {
+    "input": "[\"Your secret is out, NSA! And now that everyone knows what you're doing to Santa you can kiss your program goodbye!\"]\n[At NSA Headquarters.]\n",
+    "output": "You should have taken me out when you had the chance. Now everyone knows the truth! And everyone's gonna think I'm superkewl!\n[Cartman's house, evening. Cartman is weeping in his room at his computer when Liane walks in]\n"
+  },
+  {
+    "input": "You should have taken me out when you had the chance. Now everyone knows the truth! And everyone's gonna think I'm superkewl!\n[Cartman's house, evening. Cartman is weeping in his room at his computer when Liane walks in]\n",
+    "output": "Eric, honey, what's the matter?\n"
+  },
+  {
+    "input": "Eric, honey, what's the matter?\n",
+    "output": "[through his tears] It didn't work, Mom! I infiltrated the NSA, and I was a whistleblower and I thought everyone would be super-pissed off at what exposed about the government, but nobody cared! Nobody cares if the government is listening in on everything! Nobody cares if Santa Claus is hooked up to a big horrible machiiiine!\n"
+  },
+  {
+    "input": "[through his tears] It didn't work, Mom! I infiltrated the NSA, and I was a whistleblower and I thought everyone would be super-pissed off at what exposed about the government, but nobody cared! Nobody cares if the government is listening in on everything! Nobody cares if Santa Claus is hooked up to a big horrible machiiiine!\n",
+    "output": "I know that the NSA is torturing Santa, sweetie. But they're keeping us safe.\n"
+  },
+  {
+    "input": "I know that the NSA is torturing Santa, sweetie. But they're keeping us safe.\n",
+    "output": "Well now you just sound like everybody eeeelse?! [cries hard now]\n"
+  },
+  {
+    "input": "Well now you just sound like everybody eeeelse?! [cries hard now]\n",
+    "output": "Honey, it's okay.\n"
+  },
+  {
+    "input": "Honey, it's okay.\n",
+    "output": "It's not gonna be okay because now I'm a whistleblower, and against my conscience I'm gonna have to hide out in Russiaaaa! [weeps some more]\n"
+  },
+  {
+    "input": "It's not gonna be okay because now I'm a whistleblower, and against my conscience I'm gonna have to hide out in Russiaaaa! [weeps some more]\n",
+    "output": "No, you don't have to fly to Russia, hon.\n"
+  },
+  {
+    "input": "No, you don't have to fly to Russia, hon.\n",
+    "output": "I do toooo!\n"
+  },
+  {
+    "input": "I do toooo!\n",
+    "output": "No, it will be fine. How about I make you some hot tea with lemon and codeine?\n"
+  },
+  {
+    "input": "No, it will be fine. How about I make you some hot tea with lemon and codeine?\n",
+    "output": "Okaaay. [she walks out and Cartman calms down] I just want hot tea and codeine, no lemon.\n"
+  },
+  {
+    "input": "Okaaay. [she walks out and Cartman calms down] I just want hot tea and codeine, no lemon.\n",
+    "output": "Okay, hon.\n[Moments later the front door bell rings and Cartman goes to answer it in his bath robe, with cup of tea in hand. He opens the door and Butters is at the landing alone.]\n"
+  },
+  {
+    "input": "Okay, hon.\n[Moments later the front door bell rings and Cartman goes to answer it in his bath robe, with cup of tea in hand. He opens the door and Butters is at the landing alone.]\n",
+    "output": "Hello. How would you like to know the Truth?\n"
+  },
+  {
+    "input": "Hello. How would you like to know the Truth?\n",
+    "output": "...The fuck are you talking about, Butters?\n"
+  },
+  {
+    "input": "...The fuck are you talking about, Butters?\n",
+    "output": "It's time to let go, Eric. Don't you see there's no other way? Just let the government into your heart.\n"
+  },
+  {
+    "input": "It's time to let go, Eric. Don't you see there's no other way? Just let the government into your heart.\n",
+    "output": "[walks away, then stops] It's too late for me, Butters. I have to go to Russia and live with the Commie dwarfs.\n"
+  },
+  {
+    "input": "[walks away, then stops] It's too late for me, Butters. I have to go to Russia and live with the Commie dwarfs.\n",
+    "output": "[steps in and approaches Cartman] It's never too late. There's a place where you can start over. [gives him a DMV booklet]\n"
+  },
+  {
+    "input": "[steps in and approaches Cartman] It's never too late. There's a place where you can start over. [gives him a DMV booklet]\n",
+    "output": "What's this?\n"
+  },
+  {
+    "input": "What's this?\n",
+    "output": "Your government doesn't listen in on you to punish you, your government just wants you to be honest about your mistakes.\n"
+  },
+  {
+    "input": "Your government doesn't listen in on you to punish you, your government just wants you to be honest about your mistakes.\n",
+    "output": "I can be forgiven?\n"
+  },
+  {
+    "input": "I can be forgiven?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "For everything bad I've ever done?\n"
+  },
+  {
+    "input": "For everything bad I've ever done?\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "And then all I have to do is go back to this place every time I do something wrong and admit it and I'm forgiven again?\n"
+  },
+  {
+    "input": "And then all I have to do is go back to this place every time I do something wrong and admit it and I'm forgiven again?\n",
+    "output": "That's right.\n"
+  },
+  {
+    "input": "That's right.\n",
+    "output": "[wipes his forhead and sniffs] Thta's pretty kewl.\n[The DMV, day. Butters' group is back, and bigger than last time. Carl Weathers is a new member, Craig is a new member, and now someone else is joining. There's an organ playing, giving this a Revival feel. Everyone in the group is moving and clapping.]\n"
+  },
+  {
+    "input": "[wipes his forhead and sniffs] Thta's pretty kewl.\n[The DMV, day. Butters' group is back, and bigger than last time. Carl Weathers is a new member, Craig is a new member, and now someone else is joining. There's an organ playing, giving this a Revival feel. Everyone in the group is moving and clapping.]\n",
+    "output": "We've got a new member today! Eric Cartman, do you love your country?!\n"
+  },
+  {
+    "input": "We've got a new member today! Eric Cartman, do you love your country?!\n",
+    "output": "I do, I love my country!\n"
+  },
+  {
+    "input": "I do, I love my country!\n",
+    "output": "Do you pledge allegiance to the Flag?!\n"
+  },
+  {
+    "input": "Do you pledge allegiance to the Flag?!\n",
+    "output": "I pledge it! I pledge the fucking allegiance!\n"
+  },
+  {
+    "input": "I pledge it! I pledge the fucking allegiance!\n",
+    "output": "Hallelujah!\n"
+  },
+  {
+    "input": "Hallelujah!\n",
+    "output": "Yaaaaay!\n"
+  },
+  {
+    "input": "Yaaaaay!\n",
+    "output": "Do you want us to kick them out of here, Lar?\n"
+  },
+  {
+    "input": "Do you want us to kick them out of here, Lar?\n",
+    "output": "No... No, leave them alone. It's a nice change to see people happy here at the DMV. [Organ music fades out] Perhaps we here at the DMV can start changing as well. Perhaps instead of treating people badly we can offer them comfort and hope. Why, the DMV can be a place where people come to get things off their chests. Confess, yes, but also be told that they're worth something in this world! And then, DMVs everywhere can become a place where people feel safe. And when they do something wrong we can offer forgiveness! Don't you see what this could lead to? Don't you see what we could become??\n[WMZ News 4 Breaking News]\n"
+  }
+]

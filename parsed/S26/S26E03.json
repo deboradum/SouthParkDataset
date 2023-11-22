@@ -1,0 +1,966 @@
+[
+  {
+    "input": "",
+    "output": "Japanese Toilet\n\n[Tegridy Farms. Randy, Shelly and Stan are all sitting on the couch. Randy is playing a video game while Stan watches him, and Shelly is on her phone.]\n"
+  },
+  {
+    "input": "Japanese Toilet\n\n[Tegridy Farms. Randy, Shelly and Stan are all sitting on the couch. Randy is playing a video game while Stan watches him, and Shelly is on her phone.]\n",
+    "output": "See, Stan? You gotta choose if you wanna be in Gryffindor or Slytherin.\n"
+  },
+  {
+    "input": "See, Stan? You gotta choose if you wanna be in Gryffindor or Slytherin.\n",
+    "output": "Yeah, can I do it?\n"
+  },
+  {
+    "input": "Yeah, can I do it?\n",
+    "output": "Yeah, see, you gotta fight these fairy guys. [Sharon walks into the living room]\n"
+  },
+  {
+    "input": "Yeah, see, you gotta fight these fairy guys. [Sharon walks into the living room]\n",
+    "output": "Randy. [Randy doesn't respond] Randy! The powder room toilet is broken. Again!\n"
+  },
+  {
+    "input": "Randy. [Randy doesn't respond] Randy! The powder room toilet is broken. Again!\n",
+    "output": "Did you jiggle the handle?\n"
+  },
+  {
+    "input": "Did you jiggle the handle?\n",
+    "output": "Yes, I jiggled the handle. Will you come fix this, please?\n"
+  },
+  {
+    "input": "Yes, I jiggled the handle. Will you come fix this, please?\n",
+    "output": "Okay, okay...\n[The powder room. Randy walks over to the toilet to inspect it. He jiggles the handle to see if anything happens.]\n"
+  },
+  {
+    "input": "Okay, okay...\n[The powder room. Randy walks over to the toilet to inspect it. He jiggles the handle to see if anything happens.]\n",
+    "output": "Huh, well, let's see. It's gotta be the little black floaty thingie. What'd you do to it?\n"
+  },
+  {
+    "input": "Huh, well, let's see. It's gotta be the little black floaty thingie. What'd you do to it?\n",
+    "output": "I didn't do anything.\n"
+  },
+  {
+    "input": "I didn't do anything.\n",
+    "output": "Lemme see if there's water in the bowl.\n"
+  },
+  {
+    "input": "Lemme see if there's water in the bowl.\n",
+    "output": "No! Don't lift the lid!\n"
+  },
+  {
+    "input": "No! Don't lift the lid!\n",
+    "output": "Why can't I lift the lid?\n"
+  },
+  {
+    "input": "Why can't I lift the lid?\n",
+    "output": "Don't, Randy!\n"
+  },
+  {
+    "input": "Don't, Randy!\n",
+    "output": "Uh-huh... Hey, guys! Your mom took a shit and doesn't want me to see it.\n"
+  },
+  {
+    "input": "Uh-huh... Hey, guys! Your mom took a shit and doesn't want me to see it.\n",
+    "output": "[from the living room] Ew!\n"
+  },
+  {
+    "input": "[from the living room] Ew!\n",
+    "output": "[from the living room] Gross, Dad!\n"
+  },
+  {
+    "input": "[from the living room] Gross, Dad!\n",
+    "output": "Randy! We need to get a new toilet.\n"
+  },
+  {
+    "input": "Randy! We need to get a new toilet.\n",
+    "output": "We can't just get rid of 'ol blue, Sharon.\n"
+  },
+  {
+    "input": "We can't just get rid of 'ol blue, Sharon.\n",
+    "output": "This is embarrassing. It's the powder room toilet, the one guests use. You get a new toilet, Randy, or I'm not helping you sell weed anymore! [she leaves]\n"
+  },
+  {
+    "input": "This is embarrassing. It's the powder room toilet, the one guests use. You get a new toilet, Randy, or I'm not helping you sell weed anymore! [she leaves]\n",
+    "output": "Alright, alright. Sharon, you win. As usual. Poor 'ol blue...\n[The Home Depot. Randy is taking a look at toilets on display. An employee approaches him.]\n"
+  },
+  {
+    "input": "Alright, alright. Sharon, you win. As usual. Poor 'ol blue...\n[The Home Depot. Randy is taking a look at toilets on display. An employee approaches him.]\n",
+    "output": "Can I help you with anything?\n"
+  },
+  {
+    "input": "Can I help you with anything?\n",
+    "output": "Oh, yeah, just lookin' for a new toilet to replace Ol' Blue.\n"
+  },
+  {
+    "input": "Oh, yeah, just lookin' for a new toilet to replace Ol' Blue.\n",
+    "output": "Alright, well, all our toilets here are standard bowl, come with full warranty. How much you looking to spend?\n"
+  },
+  {
+    "input": "Alright, well, all our toilets here are standard bowl, come with full warranty. How much you looking to spend?\n",
+    "output": "Well, I'm not poor. I happen to have my own weed business. So that's pretty much the nicest one you have, right? [he points to a toilet]\n"
+  },
+  {
+    "input": "Well, I'm not poor. I happen to have my own weed business. So that's pretty much the nicest one you have, right? [he points to a toilet]\n",
+    "output": "Yeah, that's probably the top model, you know, before you start getting into Japanese toilets.\n"
+  },
+  {
+    "input": "Yeah, that's probably the top model, you know, before you start getting into Japanese toilets.\n",
+    "output": "Japanese toilets?\n"
+  },
+  {
+    "input": "Japanese toilets?\n",
+    "output": "Yeah, they're the sort of the super-high-class luxury models with all the bells and whistles. But you probably don't wanna spend that kind of money.\n"
+  },
+  {
+    "input": "Yeah, they're the sort of the super-high-class luxury models with all the bells and whistles. But you probably don't wanna spend that kind of money.\n",
+    "output": "I'm not poor.\n"
+  },
+  {
+    "input": "I'm not poor.\n",
+    "output": "Oh, well, we can show them to you. The Japanese toilets are right over there.\n[Traditional Japanese music starts playing, as the employee directs Randy to a Japanese toilets display.]\n"
+  },
+  {
+    "input": "Oh, well, we can show them to you. The Japanese toilets are right over there.\n[Traditional Japanese music starts playing, as the employee directs Randy to a Japanese toilets display.]\n",
+    "output": "Hi, Rick. This gentleman would like to see the Japanese toilets.\n"
+  },
+  {
+    "input": "Hi, Rick. This gentleman would like to see the Japanese toilets.\n",
+    "output": "Well, of course, sir. My name is Rick. Let me know if there's anything you need.\n[Inside the Japanese toilets display.]\n"
+  },
+  {
+    "input": "Well, of course, sir. My name is Rick. Let me know if there's anything you need.\n[Inside the Japanese toilets display.]\n",
+    "output": "These toilets are all equipped with the highest-end features, including an automatic bidet system, bluetooth capability, and seat warmers.\n"
+  },
+  {
+    "input": "These toilets are all equipped with the highest-end features, including an automatic bidet system, bluetooth capability, and seat warmers.\n",
+    "output": "Seat warmers?\n"
+  },
+  {
+    "input": "Seat warmers?\n",
+    "output": "Of course. And the toilet sense when you've come into the room, turns on a small light, plays welcome music, and raises the lid for you.\n"
+  },
+  {
+    "input": "Of course. And the toilet sense when you've come into the room, turns on a small light, plays welcome music, and raises the lid for you.\n",
+    "output": "Can I offer you some sparkling water or champagne?\n"
+  },
+  {
+    "input": "Can I offer you some sparkling water or champagne?\n",
+    "output": "Oh, sure, I'll take some champagne.\n"
+  },
+  {
+    "input": "Oh, sure, I'll take some champagne.\n",
+    "output": "All the toilet's functions are operated by a touch-button remote which you mount where the toilet-paper roll used to go.\n"
+  },
+  {
+    "input": "All the toilet's functions are operated by a touch-button remote which you mount where the toilet-paper roll used to go.\n",
+    "output": "So then where do you keep the toilet paper?\n"
+  },
+  {
+    "input": "So then where do you keep the toilet paper?\n",
+    "output": "With a Japanese toilet, you don't need toilet paper. The toilet washes you completely clean.\n"
+  },
+  {
+    "input": "With a Japanese toilet, you don't need toilet paper. The toilet washes you completely clean.\n",
+    "output": "You're mad.\n"
+  },
+  {
+    "input": "You're mad.\n",
+    "output": "No, it's true. It has warm water and a dryer and cleans you eight times better than toilet paper can. [he hands keys to Randy] Would you like to take one for a test drive?\n"
+  },
+  {
+    "input": "No, it's true. It has warm water and a dryer and cleans you eight times better than toilet paper can. [he hands keys to Randy] Would you like to take one for a test drive?\n",
+    "output": "Oh, uh, sure. I did have kind of a big breakfast.\n"
+  },
+  {
+    "input": "Oh, uh, sure. I did have kind of a big breakfast.\n",
+    "output": "Right over here.\n[They both walk over to a sample Japanese toilet. Randy opens the door and walks in, with the door closing behind him. The toilet automatically lifts its lid and lights up, with welcoming music playing. Randy takes off his pants and sits on the toilet.]\n"
+  },
+  {
+    "input": "Right over here.\n[They both walk over to a sample Japanese toilet. Randy opens the door and walks in, with the door closing behind him. The toilet automatically lifts its lid and lights up, with welcoming music playing. Randy takes off his pants and sits on the toilet.]\n",
+    "output": "Oh!\n[Randy starts playing around with the settings of the Japanese toilet. Water begins to run.]\n"
+  },
+  {
+    "input": "Oh!\n[Randy starts playing around with the settings of the Japanese toilet. Water begins to run.]\n",
+    "output": "Whoa! Ooh. Oh, oh! Oh. Ahh! Oh, oh... [he farts]\n[Randy continues to play around with the toilet's settings.]\n"
+  },
+  {
+    "input": "Whoa! Ooh. Oh, oh! Oh. Ahh! Oh, oh... [he farts]\n[Randy continues to play around with the toilet's settings.]\n",
+    "output": "Ohh! Oh... [he flushes and makes his way out of the toilet room.] Okay, how much?\n[Tegridy Farms.]\n"
+  },
+  {
+    "input": "Ohh! Oh... [he flushes and makes his way out of the toilet room.] Okay, how much?\n[Tegridy Farms.]\n",
+    "output": "Guys, I wanted to talk to you because I want you all to think about how we're viewed as a family. You know, as a prominent weed dealer, we are successful, and we're sort of looked up to in this town because we have nice things that most families can't afford. I mean, Stan, you're playing \"Hogwarts Legacy\" on PS5, right?\n"
+  },
+  {
+    "input": "Guys, I wanted to talk to you because I want you all to think about how we're viewed as a family. You know, as a prominent weed dealer, we are successful, and we're sort of looked up to in this town because we have nice things that most families can't afford. I mean, Stan, you're playing \"Hogwarts Legacy\" on PS5, right?\n",
+    "output": "You're playing \"Hogwarts Legacy\" on a PS5.\n"
+  },
+  {
+    "input": "You're playing \"Hogwarts Legacy\" on a PS5.\n",
+    "output": "Yeah, my -- my point is that most people in town don't even have a PS5. They still have PS4s, and so we're basically the Kennedys of South Park. And the plain fact is that well-off families have nice things, and we shouldn't be ashamed of that. [the doorbell rings] Oh! New toilet's here!\n[Outside of the Marshes' front porch. Randy opens the door with excitement.]\n"
+  },
+  {
+    "input": "Yeah, my -- my point is that most people in town don't even have a PS5. They still have PS4s, and so we're basically the Kennedys of South Park. And the plain fact is that well-off families have nice things, and we shouldn't be ashamed of that. [the doorbell rings] Oh! New toilet's here!\n[Outside of the Marshes' front porch. Randy opens the door with excitement.]\n",
+    "output": "Hajimemashite. Japanese Torei des!\n"
+  },
+  {
+    "input": "Hajimemashite. Japanese Torei des!\n",
+    "output": "Uh, yes, thank you. Bring it on in.\n[Several delivery men start making their way inside of the house, carrying the toilet.]\n"
+  },
+  {
+    "input": "Uh, yes, thank you. Bring it on in.\n[Several delivery men start making their way inside of the house, carrying the toilet.]\n",
+    "output": "Kyo fun yori! Kro fun yori!\n"
+  },
+  {
+    "input": "Kyo fun yori! Kro fun yori!\n",
+    "output": "That's the new toilet? How much did it cost?\n"
+  },
+  {
+    "input": "That's the new toilet? How much did it cost?\n",
+    "output": "Oh, Sharon. Tennish.\n"
+  },
+  {
+    "input": "Oh, Sharon. Tennish.\n",
+    "output": "What's \"tennish?\"\n"
+  },
+  {
+    "input": "What's \"tennish?\"\n",
+    "output": "Tennish. Thousandish. Ten Thousandish.\n"
+  },
+  {
+    "input": "Tennish. Thousandish. Ten Thousandish.\n",
+    "output": "You spent $10,000 on a toilet?! We don't have that kind of money, Randy!\n"
+  },
+  {
+    "input": "You spent $10,000 on a toilet?! We don't have that kind of money, Randy!\n",
+    "output": "Yeah, we do. [a Japanese delivery man makes his way out and bows]\n"
+  },
+  {
+    "input": "Yeah, we do. [a Japanese delivery man makes his way out and bows]\n",
+    "output": "Shitsurei Shimasu! Owarimashita.\n"
+  },
+  {
+    "input": "Shitsurei Shimasu! Owarimashita.\n",
+    "output": "Okay, yeah, right here? [he signs a document] Okay.\n"
+  },
+  {
+    "input": "Okay, yeah, right here? [he signs a document] Okay.\n",
+    "output": "Doomo! Aringanto gozaimashita!\n"
+  },
+  {
+    "input": "Doomo! Aringanto gozaimashita!\n",
+    "output": "Aringanto gozaimashita!\n"
+  },
+  {
+    "input": "Aringanto gozaimashita!\n",
+    "output": "'Kay, thanks.\n[The powder room. Randy takes his family to see the newly-installed Japanese toilet.]\n"
+  },
+  {
+    "input": "'Kay, thanks.\n[The powder room. Randy takes his family to see the newly-installed Japanese toilet.]\n",
+    "output": "You are taking that back to the store.\n"
+  },
+  {
+    "input": "You are taking that back to the store.\n",
+    "output": "Try it, Sharon.\n"
+  },
+  {
+    "input": "Try it, Sharon.\n",
+    "output": "I don't need to, Randy. I want --\n"
+  },
+  {
+    "input": "I don't need to, Randy. I want --\n",
+    "output": "Try it, Sharon!\n[Randy pushes Sharon and closes the powder room door, leaving her all alone inside. Music starts playing. Sharon starts pressing buttons on the toilet.]\n"
+  },
+  {
+    "input": "Try it, Sharon!\n[Randy pushes Sharon and closes the powder room door, leaving her all alone inside. Music starts playing. Sharon starts pressing buttons on the toilet.]\n",
+    "output": "Oh. Oh... [she presses a button] Oh! Ohhh!\n"
+  },
+  {
+    "input": "Oh. Oh... [she presses a button] Oh! Ohhh!\n",
+    "output": "Ah-ha-ha!\n"
+  },
+  {
+    "input": "Ah-ha-ha!\n",
+    "output": "I wanna try it.\n"
+  },
+  {
+    "input": "I wanna try it.\n",
+    "output": "Shhh!\n"
+  },
+  {
+    "input": "Shhh!\n",
+    "output": "[she presses another button] Ah-ho-ho!\n"
+  },
+  {
+    "input": "[she presses another button] Ah-ho-ho!\n",
+    "output": "Ohhh!\n[South Park Elementary. The school bell rings. Stan walks in the hallways.]\n"
+  },
+  {
+    "input": "Ohhh!\n[South Park Elementary. The school bell rings. Stan walks in the hallways.]\n",
+    "output": "Oh, look, there he goes. It's Mr. Big Shot.\n[Stan hears Clyde's comment and turns around, confused by it.]\n"
+  },
+  {
+    "input": "Oh, look, there he goes. It's Mr. Big Shot.\n[Stan hears Clyde's comment and turns around, confused by it.]\n",
+    "output": "Hey, Richie Rich. You eating caviar for lunch today, Richie Rich?\n[Stan stops walking, being confronted by Cartman, Scott and Douglas.]\n"
+  },
+  {
+    "input": "Hey, Richie Rich. You eating caviar for lunch today, Richie Rich?\n[Stan stops walking, being confronted by Cartman, Scott and Douglas.]\n",
+    "output": "Stan, just so you know, nobody gives a shit.\n"
+  },
+  {
+    "input": "Stan, just so you know, nobody gives a shit.\n",
+    "output": "About what?\n"
+  },
+  {
+    "input": "About what?\n",
+    "output": "Come on, guys! [he walks away with the other boys]\n"
+  },
+  {
+    "input": "Come on, guys! [he walks away with the other boys]\n",
+    "output": "Did you know some people can't even afford to eat? How about caring for something that matters, you bitch?\n"
+  },
+  {
+    "input": "Did you know some people can't even afford to eat? How about caring for something that matters, you bitch?\n",
+    "output": "What the fuck?\n"
+  },
+  {
+    "input": "What the fuck?\n",
+    "output": "Hey, Stan, you really have to be careful.\n"
+  },
+  {
+    "input": "Hey, Stan, you really have to be careful.\n",
+    "output": "Of what?\n"
+  },
+  {
+    "input": "Of what?\n",
+    "output": "Look, it's great that you come from a wealthy family, but people don't like getting their noses rubbed in it.\n"
+  },
+  {
+    "input": "Look, it's great that you come from a wealthy family, but people don't like getting their noses rubbed in it.\n",
+    "output": "Dude, I haven't even said anything!\n"
+  },
+  {
+    "input": "Dude, I haven't even said anything!\n",
+    "output": "Well, your dad called everyone last night and told you have a $10,000 toilet.\n"
+  },
+  {
+    "input": "Well, your dad called everyone last night and told you have a $10,000 toilet.\n",
+    "output": "What?!\n[Tegridy Farms. The house's dining area. Many of the adults have gathered to have brunch with the Marshes.]\n"
+  },
+  {
+    "input": "What?!\n[Tegridy Farms. The house's dining area. Many of the adults have gathered to have brunch with the Marshes.]\n",
+    "output": "Well, thanks for having us over for brunch, Randy.\n"
+  },
+  {
+    "input": "Well, thanks for having us over for brunch, Randy.\n",
+    "output": "Yeah, what's the special occassion?\n"
+  },
+  {
+    "input": "Yeah, what's the special occassion?\n",
+    "output": "Oh, you know, just good times with dear friends. Does anyone need to go to the bathroom?\n"
+  },
+  {
+    "input": "Oh, you know, just good times with dear friends. Does anyone need to go to the bathroom?\n",
+    "output": "Uh, no, I'm -- I'm good.\n"
+  },
+  {
+    "input": "Uh, no, I'm -- I'm good.\n",
+    "output": "Oh, maybe some more coffee, then. [he pours coffee on Stephen's cup.]\n"
+  },
+  {
+    "input": "Oh, maybe some more coffee, then. [he pours coffee on Stephen's cup.]\n",
+    "output": "Can you guys believe all the snow we've gotten?\n"
+  },
+  {
+    "input": "Can you guys believe all the snow we've gotten?\n",
+    "output": "Yeah, maybe it will actually help with the drought.\n"
+  },
+  {
+    "input": "Yeah, maybe it will actually help with the drought.\n",
+    "output": "Let's hope so. Does anyone need a bathroom break?\n"
+  },
+  {
+    "input": "Let's hope so. Does anyone need a bathroom break?\n",
+    "output": "Well, actually, I-I think I could use the restroom. That was kind of a big breakfast.\n"
+  },
+  {
+    "input": "Well, actually, I-I think I could use the restroom. That was kind of a big breakfast.\n",
+    "output": "Oh! Oh, yeah, sure! It's, uh -- It's right across the hallway. Right there.\n"
+  },
+  {
+    "input": "Oh! Oh, yeah, sure! It's, uh -- It's right across the hallway. Right there.\n",
+    "output": "Excuse me. [he makes his way to the powder room]\n[Randy happily sips his drink, while pleasant music plays in the powder room.]\n"
+  },
+  {
+    "input": "Excuse me. [he makes his way to the powder room]\n[Randy happily sips his drink, while pleasant music plays in the powder room.]\n",
+    "output": "Oh.\n"
+  },
+  {
+    "input": "Oh.\n",
+    "output": "What was that?\n"
+  },
+  {
+    "input": "What was that?\n",
+    "output": "Oh, that's the welcome music for my Japanese toilet.\n"
+  },
+  {
+    "input": "Oh, that's the welcome music for my Japanese toilet.\n",
+    "output": "I've heard of those. Aren't they expensive?\n"
+  },
+  {
+    "input": "I've heard of those. Aren't they expensive?\n",
+    "output": "Yeah, a bit. But for those of us who can afford it, it's well worth it.\n"
+  },
+  {
+    "input": "Yeah, a bit. But for those of us who can afford it, it's well worth it.\n",
+    "output": "[presses a button] Oh! Ohhh! Ohhhhh!\n"
+  },
+  {
+    "input": "[presses a button] Oh! Ohhh! Ohhhhh!\n",
+    "output": "He's now turned on the rear jet, which cleans your bottom with warm water.\n"
+  },
+  {
+    "input": "He's now turned on the rear jet, which cleans your bottom with warm water.\n",
+    "output": "Oh, ohhhh!\n"
+  },
+  {
+    "input": "Oh, ohhhh!\n",
+    "output": "Ah! That's the front washer that washes your balls, or vagina.\n"
+  },
+  {
+    "input": "Ah! That's the front washer that washes your balls, or vagina.\n",
+    "output": "[farts]\n"
+  },
+  {
+    "input": "[farts]\n",
+    "output": "If you think about it, a dry piece of toilet paper can't clean your half as well as pressurized water. I feel that most people have to walk around with fecal matter on their anus, but I'm just lucky I've sold enough weed to be able not to. But was it really luck? Or was it hard work? Heck, I don't know, but you know -- [Stan barges in]\n"
+  },
+  {
+    "input": "If you think about it, a dry piece of toilet paper can't clean your half as well as pressurized water. I feel that most people have to walk around with fecal matter on their anus, but I'm just lucky I've sold enough weed to be able not to. But was it really luck? Or was it hard work? Heck, I don't know, but you know -- [Stan barges in]\n",
+    "output": "Dad, can I talk to you?!\n"
+  },
+  {
+    "input": "Dad, can I talk to you?!\n",
+    "output": "Stan? You're back from school already?\n"
+  },
+  {
+    "input": "Stan? You're back from school already?\n",
+    "output": "I need to talk to you right now!\n[Randy's office. Stan closes the door angrily.]\n"
+  },
+  {
+    "input": "I need to talk to you right now!\n[Randy's office. Stan closes the door angrily.]\n",
+    "output": "The fuck are you doing?!\n"
+  },
+  {
+    "input": "The fuck are you doing?!\n",
+    "output": "The fuck are you doing?\n"
+  },
+  {
+    "input": "The fuck are you doing?\n",
+    "output": "You need to stop gloating to everybody!\n"
+  },
+  {
+    "input": "You need to stop gloating to everybody!\n",
+    "output": "I am not gloating.\n"
+  },
+  {
+    "input": "I am not gloating.\n",
+    "output": "Yes, you are, and now kids at school are calling me Richie Rich!\n"
+  },
+  {
+    "input": "Yes, you are, and now kids at school are calling me Richie Rich!\n",
+    "output": "They are?\n"
+  },
+  {
+    "input": "They are?\n",
+    "output": "Nobody cares about your stupid toilet and you're acting like a jerk.\n"
+  },
+  {
+    "input": "Nobody cares about your stupid toilet and you're acting like a jerk.\n",
+    "output": "You're stupid. I'm acting like a jerk because I'm trying to help people?!\n"
+  },
+  {
+    "input": "You're stupid. I'm acting like a jerk because I'm trying to help people?!\n",
+    "output": "How are you trying to help people, Dad?\n"
+  },
+  {
+    "input": "How are you trying to help people, Dad?\n",
+    "output": "Because the people don't know that these toilets are awesome, and I'm just, like, the well-respected guy who's trying to open people's eyes like JFK.\n"
+  },
+  {
+    "input": "Because the people don't know that these toilets are awesome, and I'm just, like, the well-respected guy who's trying to open people's eyes like JFK.\n",
+    "output": "You are not like JFK! You're just showing off!\n"
+  },
+  {
+    "input": "You are not like JFK! You're just showing off!\n",
+    "output": "Nu-uh, I'm like JFK 'cause I am trying to change things! You're part of a very respected family, Stan. You should start acting like it. [he walks out of the room] Okay, who's next?\n[Tegridy Farms. Pleasant music plays, as Randy is in the bathroom, singing along to the music.]\n[Atashi wa Heia des-u...]\n[Sharon walks up to the door.]\n"
+  },
+  {
+    "input": "Nu-uh, I'm like JFK 'cause I am trying to change things! You're part of a very respected family, Stan. You should start acting like it. [he walks out of the room] Okay, who's next?\n[Tegridy Farms. Pleasant music plays, as Randy is in the bathroom, singing along to the music.]\n[Atashi wa Heia des-u...]\n[Sharon walks up to the door.]\n",
+    "output": "Toire ni iru kara...\n"
+  },
+  {
+    "input": "Toire ni iru kara...\n",
+    "output": "[knocking on the door] Randy?\n"
+  },
+  {
+    "input": "[knocking on the door] Randy?\n",
+    "output": "Kimochi...\n"
+  },
+  {
+    "input": "Kimochi...\n",
+    "output": "Randy!\n"
+  },
+  {
+    "input": "Randy!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Your proctologist is here to see you.\n"
+  },
+  {
+    "input": "Your proctologist is here to see you.\n",
+    "output": "My protcologist?\n[The living room. A protctologist is waiting for Randy. Randy walks up to him.]\n"
+  },
+  {
+    "input": "My protcologist?\n[The living room. A protctologist is waiting for Randy. Randy walks up to him.]\n",
+    "output": "Oh, hey there, Doc.\n"
+  },
+  {
+    "input": "Oh, hey there, Doc.\n",
+    "output": "Well, Randy Marsh, how are ya?\n"
+  },
+  {
+    "input": "Well, Randy Marsh, how are ya?\n",
+    "output": "I'm doing great. How are you?\n"
+  },
+  {
+    "input": "I'm doing great. How are you?\n",
+    "output": "Wonderful! Just been super busy. I'm actually takin' the wife to Tuscany day after tomorrow.\n"
+  },
+  {
+    "input": "Wonderful! Just been super busy. I'm actually takin' the wife to Tuscany day after tomorrow.\n",
+    "output": "Tuscany? Wow. Awesome.\n"
+  },
+  {
+    "input": "Tuscany? Wow. Awesome.\n",
+    "output": "Yeah, well, Randy you haven't been in my office for a few days, so I thought I'd come do a house call to help you with your hemorrhoids.\n"
+  },
+  {
+    "input": "Yeah, well, Randy you haven't been in my office for a few days, so I thought I'd come do a house call to help you with your hemorrhoids.\n",
+    "output": "Oh! No, Doctor. I haven't needed to come to your office. In fact, I don't think I'll be needing your services anymore since I've gotten a Japanese toilet.\n"
+  },
+  {
+    "input": "Oh! No, Doctor. I haven't needed to come to your office. In fact, I don't think I'll be needing your services anymore since I've gotten a Japanese toilet.\n",
+    "output": "Oh -- Oh, really?\n"
+  },
+  {
+    "input": "Oh -- Oh, really?\n",
+    "output": "It's completely changed my life. I'm healthier, I'm less stressed, and I don't get hemorrhoids 'cause I'm not smearing shit all over my ass with toilet paper.\n"
+  },
+  {
+    "input": "It's completely changed my life. I'm healthier, I'm less stressed, and I don't get hemorrhoids 'cause I'm not smearing shit all over my ass with toilet paper.\n",
+    "output": "Huh...\n"
+  },
+  {
+    "input": "Huh...\n",
+    "output": "Here, here. You wanna come see it?!\n[Randy guides Dr. Sheltair to the powder room.]\n"
+  },
+  {
+    "input": "Here, here. You wanna come see it?!\n[Randy guides Dr. Sheltair to the powder room.]\n",
+    "output": "Go on, check it out. [opens the door]\n[Dr. Sheltair walks into the powder room and Randy closes the door. He leans in to listen. The doctor can be heard shouting and banging on the toilet.]\n"
+  },
+  {
+    "input": "Go on, check it out. [opens the door]\n[Dr. Sheltair walks into the powder room and Randy closes the door. He leans in to listen. The doctor can be heard shouting and banging on the toilet.]\n",
+    "output": "D-Dr. Sheltair?\n[The banging and shouting continues. Randy gets worried.]\n"
+  },
+  {
+    "input": "D-Dr. Sheltair?\n[The banging and shouting continues. Randy gets worried.]\n",
+    "output": "Dr. Sheltair?!\n[Randy enters the powder room. Dr. Sheltair is seen banging and shouting at the toilet.]\n"
+  },
+  {
+    "input": "Dr. Sheltair?!\n[Randy enters the powder room. Dr. Sheltair is seen banging and shouting at the toilet.]\n",
+    "output": "You stupid!\n"
+  },
+  {
+    "input": "You stupid!\n",
+    "output": "Whoa hey hey hey!\n"
+  },
+  {
+    "input": "Whoa hey hey hey!\n",
+    "output": "You ruined Tuscany! Gah! [he kicks the toilet around]\n"
+  },
+  {
+    "input": "You ruined Tuscany! Gah! [he kicks the toilet around]\n",
+    "output": "Stop it! [he grabs Dr. Sheltair, trying to stop him]\n"
+  },
+  {
+    "input": "Stop it! [he grabs Dr. Sheltair, trying to stop him]\n",
+    "output": "I hate you! I hate you! I hate you!!!\n[Outside of the Marshes' house. Randy kicks Dr. Sheltair out, sending him flying.]\n"
+  },
+  {
+    "input": "I hate you! I hate you! I hate you!!!\n[Outside of the Marshes' house. Randy kicks Dr. Sheltair out, sending him flying.]\n",
+    "output": "Go on! Get out of here!\n"
+  },
+  {
+    "input": "Go on! Get out of here!\n",
+    "output": "How am I supposed to tell my wife we can't afford to go to Tuscany now?!\n"
+  },
+  {
+    "input": "How am I supposed to tell my wife we can't afford to go to Tuscany now?!\n",
+    "output": "I never realized you made so much money off my ass. Go on! Get! Get!! [Dr. Sheltair runs off]\n[South Park Elementary. The dismissal bell rings and all the kids begin heading out. Stan makes his way out until Butters calls him.]\n"
+  },
+  {
+    "input": "I never realized you made so much money off my ass. Go on! Get! Get!! [Dr. Sheltair runs off]\n[South Park Elementary. The dismissal bell rings and all the kids begin heading out. Stan makes his way out until Butters calls him.]\n",
+    "output": "Hey, Stan! Stan hold up!\n"
+  },
+  {
+    "input": "Hey, Stan! Stan hold up!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Well, um, you're just a really good friend, Stan, and -- and I was gonna ask if maybe I could borrow your plungercost?\n"
+  },
+  {
+    "input": "Well, um, you're just a really good friend, Stan, and -- and I was gonna ask if maybe I could borrow your plungercost?\n",
+    "output": "What's a plungercost?\n"
+  },
+  {
+    "input": "What's a plungercost?\n",
+    "output": "It doesn't cost nothing when your toilet's nice as yours, Richie Rich! [he laughs, with the other kids joining in as well] I did it! I called Stan Richie Rich, too! That was fun! [he walks away]\n"
+  },
+  {
+    "input": "It doesn't cost nothing when your toilet's nice as yours, Richie Rich! [he laughs, with the other kids joining in as well] I did it! I called Stan Richie Rich, too! That was fun! [he walks away]\n",
+    "output": "Stan, you've got to stop bragging about your toilet.\n"
+  },
+  {
+    "input": "Stan, you've got to stop bragging about your toilet.\n",
+    "output": "I'm not bragging about my toilet! And why is it such a big deal anyway?\n"
+  },
+  {
+    "input": "I'm not bragging about my toilet! And why is it such a big deal anyway?\n",
+    "output": "It's a big deal, Stan. You just don't understand why.\n[Jimmy and Stan walk around the town's park.]\n"
+  },
+  {
+    "input": "It's a big deal, Stan. You just don't understand why.\n[Jimmy and Stan walk around the town's park.]\n",
+    "output": "Have you ever asked yourself why we use toilet paper? We're told to wash our hands... wear masks in crowds... but for some reason when it comes to wiping our ass, we're told to do it with this little piece of paper. We are all -- all of us -- walking around right now with a little bit of shit smeared on our buttholes. [he stops walking] Did you know that 70% of people in the world don't even use it at all?\n"
+  },
+  {
+    "input": "Have you ever asked yourself why we use toilet paper? We're told to wash our hands... wear masks in crowds... but for some reason when it comes to wiping our ass, we're told to do it with this little piece of paper. We are all -- all of us -- walking around right now with a little bit of shit smeared on our buttholes. [he stops walking] Did you know that 70% of people in the world don't even use it at all?\n",
+    "output": "70% of the world doesn't use toilet paper?\n"
+  },
+  {
+    "input": "70% of the world doesn't use toilet paper?\n",
+    "output": "Look it up. Most people in the world still use good 'ol soap and water.\n[Footage of toilet paper manufacturing plays in the background as Jimmy explains.]\n"
+  },
+  {
+    "input": "Look it up. Most people in the world still use good 'ol soap and water.\n[Footage of toilet paper manufacturing plays in the background as Jimmy explains.]\n",
+    "output": "The average American uses 140 rolls of toilet paper per year. Can you even begin to imagine how many trees that is? To supply the United States its toilet paper, it takes 31.1 million trees per year. A million acres per year of precious Canadian Boreal forest alone, releasing upwards of 25 metric tons of CO2 and leveling 90% of the land barren.\n[The montage ends.]\n"
+  },
+  {
+    "input": "The average American uses 140 rolls of toilet paper per year. Can you even begin to imagine how many trees that is? To supply the United States its toilet paper, it takes 31.1 million trees per year. A million acres per year of precious Canadian Boreal forest alone, releasing upwards of 25 metric tons of CO2 and leveling 90% of the land barren.\n[The montage ends.]\n",
+    "output": "So, then, why do Americans use it so much?\n"
+  },
+  {
+    "input": "So, then, why do Americans use it so much?\n",
+    "output": "Well, that's the big question, isn't it? None of it makes any sense.\n"
+  },
+  {
+    "input": "Well, that's the big question, isn't it? None of it makes any sense.\n",
+    "output": "Well, then, maybe somebody --\n"
+  },
+  {
+    "input": "Well, then, maybe somebody --\n",
+    "output": "Just tell your dad to stop. Americans don't want to change their toilets and they never will.\n[Outside of the Town Hall. Mayor McDaniels is at a podium.]\n"
+  },
+  {
+    "input": "Just tell your dad to stop. Americans don't want to change their toilets and they never will.\n[Outside of the Town Hall. Mayor McDaniels is at a podium.]\n",
+    "output": "Ladies and gentlemen, we have a public service announcement. One of our citizens has asked to speak with you. Please welcome Randy S. Marsh.\n[Randy and Sharon walk up to the stage. Randy shakes the mayor's hand and walks up to the podium, ready to give his speech.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, we have a public service announcement. One of our citizens has asked to speak with you. Please welcome Randy S. Marsh.\n[Randy and Sharon walk up to the stage. Randy shakes the mayor's hand and walks up to the podium, ready to give his speech.]\n",
+    "output": "Thank you, Mayor. Thank you, everyone. You know, the Marshes are a family that try to always lead by example. And we know that all of you appreciate that. Everyone deserves to be clean, and the truth is, you can be. You might not be the Marshes, but you can afford a Japanese toilet. Just not a really nice one like what we have. If you take into account the money we all spend on toilet paper, doctors, and hemorrhoid cream, a Japanese toilet pays for itself in just a few years. There are actually Japanese toilets made for commoners. Walmart and Amazon all carry the lower cost of shitty Japanese toilets that anyone can afford. There's even these like attachment thingies for your existing toilet which will make you feel like a Marsh yourself. They may not be \"Nihon No style-ru\", but they are good enough for you guys. The point is -- even commoners don't need toilet paper anymore! And, so, I am suggesting that this town puts all --\n[All of a sudden, a distant gunshot hits Randy on the arm, knocking him out unconscious. Everyone around the podium is left in shock.]\n"
+  },
+  {
+    "input": "Thank you, Mayor. Thank you, everyone. You know, the Marshes are a family that try to always lead by example. And we know that all of you appreciate that. Everyone deserves to be clean, and the truth is, you can be. You might not be the Marshes, but you can afford a Japanese toilet. Just not a really nice one like what we have. If you take into account the money we all spend on toilet paper, doctors, and hemorrhoid cream, a Japanese toilet pays for itself in just a few years. There are actually Japanese toilets made for commoners. Walmart and Amazon all carry the lower cost of shitty Japanese toilets that anyone can afford. There's even these like attachment thingies for your existing toilet which will make you feel like a Marsh yourself. They may not be \"Nihon No style-ru\", but they are good enough for you guys. The point is -- even commoners don't need toilet paper anymore! And, so, I am suggesting that this town puts all --\n[All of a sudden, a distant gunshot hits Randy on the arm, knocking him out unconscious. Everyone around the podium is left in shock.]\n",
+    "output": "Holy shit!\n"
+  },
+  {
+    "input": "Holy shit!\n",
+    "output": "Randy?! [she screams]\n[The audience runs away screaming.]\n[Hell's Pass Hospital. The Marshes sit on the Emergency Room waiting for an update on Randy. A doctor approaches them.]\n"
+  },
+  {
+    "input": "Randy?! [she screams]\n[The audience runs away screaming.]\n[Hell's Pass Hospital. The Marshes sit on the Emergency Room waiting for an update on Randy. A doctor approaches them.]\n",
+    "output": "I'm sorry, but he's in critical condition.\n"
+  },
+  {
+    "input": "I'm sorry, but he's in critical condition.\n",
+    "output": "Who shot him?\n"
+  },
+  {
+    "input": "Who shot him?\n",
+    "output": "Nobody knows.\n"
+  },
+  {
+    "input": "Nobody knows.\n",
+    "output": "Is he gonna be okay?\n"
+  },
+  {
+    "input": "Is he gonna be okay?\n",
+    "output": "He's in a coma. He's unconscious and just blabbering nonsense.\n[Randy is seen on a hospital bed, in a coma and blabbering to himself.]\n"
+  },
+  {
+    "input": "He's in a coma. He's unconscious and just blabbering nonsense.\n[Randy is seen on a hospital bed, in a coma and blabbering to himself.]\n",
+    "output": "[weakly] Bikkuri... Bikkurishita... Taihen deshou...\n"
+  },
+  {
+    "input": "[weakly] Bikkuri... Bikkurishita... Taihen deshou...\n",
+    "output": "Mr. Marsh, your whole family is here. Your wife, your daughter, and your son.\n"
+  },
+  {
+    "input": "Mr. Marsh, your whole family is here. Your wife, your daughter, and your son.\n",
+    "output": "T-Toire Wa...?\n"
+  },
+  {
+    "input": "T-Toire Wa...?\n",
+    "output": "No, your toilet is back at the farm.\n"
+  },
+  {
+    "input": "No, your toilet is back at the farm.\n",
+    "output": "Taihen ja naaaa...\n"
+  },
+  {
+    "input": "Taihen ja naaaa...\n",
+    "output": "Dad, I'm sorry I yelled at you before. I didn't know you were really trying to help.\n"
+  },
+  {
+    "input": "Dad, I'm sorry I yelled at you before. I didn't know you were really trying to help.\n",
+    "output": "Kon-nichi waaa...\n"
+  },
+  {
+    "input": "Kon-nichi waaa...\n",
+    "output": "Stan, where are you going?\n"
+  },
+  {
+    "input": "Stan, where are you going?\n",
+    "output": "I let Dad down once. Somebody has to pick up where he left off. [he walks out]\n[Park County Police Station.]\n"
+  },
+  {
+    "input": "I let Dad down once. Somebody has to pick up where he left off. [he walks out]\n[Park County Police Station.]\n",
+    "output": "I promise we're doing all we can. I'm sorry for what happened, but you need to leave it to the professionals.\n"
+  },
+  {
+    "input": "I promise we're doing all we can. I'm sorry for what happened, but you need to leave it to the professionals.\n",
+    "output": "There's something more going on here. I think my dad was on to something and I didn't listen to him, and now he's in a hospital.\n"
+  },
+  {
+    "input": "There's something more going on here. I think my dad was on to something and I didn't listen to him, and now he's in a hospital.\n",
+    "output": "We've already got a few leads and we're following up on all of them. I assure you we take this all very seriously. This isn't a joke to us.\n"
+  },
+  {
+    "input": "We've already got a few leads and we're following up on all of them. I assure you we take this all very seriously. This isn't a joke to us.\n",
+    "output": "Chief, hey, Chief!\n"
+  },
+  {
+    "input": "Chief, hey, Chief!\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "An angry proctologist walked in to the toilet section of Home Depot.\n"
+  },
+  {
+    "input": "An angry proctologist walked in to the toilet section of Home Depot.\n",
+    "output": "[he chuckles] Y-Yeah?\n"
+  },
+  {
+    "input": "[he chuckles] Y-Yeah?\n",
+    "output": "Proctologist says to the toilet manager, \"I ain't taking the fall,\" and pulls a gun on six Japanese delivery men.\n"
+  },
+  {
+    "input": "Proctologist says to the toilet manager, \"I ain't taking the fall,\" and pulls a gun on six Japanese delivery men.\n",
+    "output": "[chuckling some more] Okay.\n"
+  },
+  {
+    "input": "[chuckling some more] Okay.\n",
+    "output": "So, then, the six Japanese delivery men show up, and the proctologist has everyone held hostage and says he's not taking the fall for the Randy Marsh shooting.\n"
+  },
+  {
+    "input": "So, then, the six Japanese delivery men show up, and the proctologist has everyone held hostage and says he's not taking the fall for the Randy Marsh shooting.\n",
+    "output": "Oh, shit, this is actually happening?! Come on people, let's go!\n[The Home Depot. Police has the outside surrounded. Inside, Dr. Sheltair has everyone held hostage. Everyone has their hands up as the doctor wields a gun.]\n"
+  },
+  {
+    "input": "Oh, shit, this is actually happening?! Come on people, let's go!\n[The Home Depot. Police has the outside surrounded. Inside, Dr. Sheltair has everyone held hostage. Everyone has their hands up as the doctor wields a gun.]\n",
+    "output": "I ain't going down for this! You got that, coppers?! I didn't shoot anybody! But if I'm going down, I'll take these careless bastards out with me!\n"
+  },
+  {
+    "input": "I ain't going down for this! You got that, coppers?! I didn't shoot anybody! But if I'm going down, I'll take these careless bastards out with me!\n",
+    "output": "Would you like some sparkling water or cham--\n"
+  },
+  {
+    "input": "Would you like some sparkling water or cham--\n",
+    "output": "Get -- Get outta here! [he pushes the waitress]\n"
+  },
+  {
+    "input": "Get -- Get outta here! [he pushes the waitress]\n",
+    "output": "[with a megaphone] Come on out. There's no other way, we have you surrounded.\n"
+  },
+  {
+    "input": "[with a megaphone] Come on out. There's no other way, we have you surrounded.\n",
+    "output": "I didn't shoot Randy Marsh!\n"
+  },
+  {
+    "input": "I didn't shoot Randy Marsh!\n",
+    "output": "Taihen!\n"
+  },
+  {
+    "input": "Taihen!\n",
+    "output": "Nobody's saying you did!\n"
+  },
+  {
+    "input": "Nobody's saying you did!\n",
+    "output": "No, but they're gonna use me as their scapegoat! They'll fix things like they always do!\n"
+  },
+  {
+    "input": "No, but they're gonna use me as their scapegoat! They'll fix things like they always do!\n",
+    "output": "Who will?\n"
+  },
+  {
+    "input": "Who will?\n",
+    "output": "They'll use their lawyers and their power to make it all go away! Just like they did back when that second grade kid wrote a story in the school paper about toilets two years ago. They'll take me out too! There's no stopping them.\n"
+  },
+  {
+    "input": "They'll use their lawyers and their power to make it all go away! Just like they did back when that second grade kid wrote a story in the school paper about toilets two years ago. They'll take me out too! There's no stopping them.\n",
+    "output": "Don't do it!\n[Dr. Sheltair shoots himself in the rear, falling to the floor and dying instantly.]\n"
+  },
+  {
+    "input": "Don't do it!\n[Dr. Sheltair shoots himself in the rear, falling to the floor and dying instantly.]\n",
+    "output": "Sabishiiiii!!\n"
+  },
+  {
+    "input": "Sabishiiiii!!\n",
+    "output": "Aww! Alright, move in! Secure the area.\n"
+  },
+  {
+    "input": "Aww! Alright, move in! Secure the area.\n",
+    "output": "Second grade kid two years ago... Wrote about toilets in the school news paper.\n[The park. Jimmy is walking around until Stan approaches him.]\n"
+  },
+  {
+    "input": "Second grade kid two years ago... Wrote about toilets in the school news paper.\n[The park. Jimmy is walking around until Stan approaches him.]\n",
+    "output": "You weren't warning me about people getting upset. You know more about this.\n[Jimmy stops walking. A brief second passes, until he starts to leave in a hurry.]\n"
+  },
+  {
+    "input": "You weren't warning me about people getting upset. You know more about this.\n[Jimmy stops walking. A brief second passes, until he starts to leave in a hurry.]\n",
+    "output": "Hey! [he catches up to Jimmy] You wrote a story in the school paper and someone came after you.\n"
+  },
+  {
+    "input": "Hey! [he catches up to Jimmy] You wrote a story in the school paper and someone came after you.\n",
+    "output": "Yeah I wrote a story, big deal!\n"
+  },
+  {
+    "input": "Yeah I wrote a story, big deal!\n",
+    "output": "Jimmy, I want to know who shot my dad!\n"
+  },
+  {
+    "input": "Jimmy, I want to know who shot my dad!\n",
+    "output": "They took everything from me, Stan! My bike... my cat... They were gonna sue my parents for what I wrote in the school paper.\n"
+  },
+  {
+    "input": "They took everything from me, Stan! My bike... my cat... They were gonna sue my parents for what I wrote in the school paper.\n",
+    "output": "You're talking about the toilet paper companies.\n"
+  },
+  {
+    "input": "You're talking about the toilet paper companies.\n",
+    "output": "Who has the most to lose? It's all toilet paper, Stan! Follow the money!\n[Another montage of toilet paper manufacturing plays as Jimmy rambles on. Video footage of Randy's speech also plays.]\n"
+  },
+  {
+    "input": "Who has the most to lose? It's all toilet paper, Stan! Follow the money!\n[Another montage of toilet paper manufacturing plays as Jimmy rambles on. Video footage of Randy's speech also plays.]\n",
+    "output": "140 rolls per American per year. Factories pushing out roll after roll while razing Earth's resources. All of this for an unsanitary product that has been proven to contribute to anal fissures.\n[Jimmy and Stan sit down on a park bench. The montage continues playing in the background.]\n"
+  },
+  {
+    "input": "140 rolls per American per year. Factories pushing out roll after roll while razing Earth's resources. All of this for an unsanitary product that has been proven to contribute to anal fissures.\n[Jimmy and Stan sit down on a park bench. The montage continues playing in the background.]\n",
+    "output": "Don't you get it, man? Paper doesn't clean bacteria. It can't kill viruses. With all that information, you'd think the world health organization would do studies to find alternatives. So why don't they? Because toilet paper is an industry worth billions and b-billions of dollars. Kimberly-Clark, Georgia-Pacific, Procter & Gamble. They don't want Japanese toilets in America and they have the power to stop them, and to stop you.\n"
+  },
+  {
+    "input": "Don't you get it, man? Paper doesn't clean bacteria. It can't kill viruses. With all that information, you'd think the world health organization would do studies to find alternatives. So why don't they? Because toilet paper is an industry worth billions and b-billions of dollars. Kimberly-Clark, Georgia-Pacific, Procter & Gamble. They don't want Japanese toilets in America and they have the power to stop them, and to stop you.\n",
+    "output": "I can't believe they shot my dad... because he wanted to change things.\n"
+  },
+  {
+    "input": "I can't believe they shot my dad... because he wanted to change things.\n",
+    "output": "These people have deeper pockets than you can possibly imagine. They can destroy everything you love, Stan. Take my advice... Don't. Squeeze. The Charmin.\n"
+  },
+  {
+    "input": "These people have deeper pockets than you can possibly imagine. They can destroy everything you love, Stan. Take my advice... Don't. Squeeze. The Charmin.\n",
+    "output": "You might be too scared Jimmy, but I'm a Marsh. [he leaves]\n[Outside of City Hall. All of South Park has gathered to hear Stan's speech.]\n"
+  },
+  {
+    "input": "You might be too scared Jimmy, but I'm a Marsh. [he leaves]\n[Outside of City Hall. All of South Park has gathered to hear Stan's speech.]\n",
+    "output": "My fellow Americans, we have been coerced and brain washed. While the rest of the world walks around with cleaner buttholes, we are obsessed with dry paper sold to us by billion-dollar corporations.\n"
+  },
+  {
+    "input": "My fellow Americans, we have been coerced and brain washed. While the rest of the world walks around with cleaner buttholes, we are obsessed with dry paper sold to us by billion-dollar corporations.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Hey, yeah, he's right!\n"
+  },
+  {
+    "input": "Hey, yeah, he's right!\n",
+    "output": "My father wanted everyone to see that there were alternatives. But they don't want him talking about alternatives.\n"
+  },
+  {
+    "input": "My father wanted everyone to see that there were alternatives. But they don't want him talking about alternatives.\n",
+    "output": "Yeah!!\n"
+  },
+  {
+    "input": "Yeah!!\n",
+    "output": "And we can't be blindly buying their products anymore. And as a town, we will find alternatives, and we will not be afraid to -- [Randy walks up to the podium, interrupting Stan mid-sentence]\n"
+  },
+  {
+    "input": "And we can't be blindly buying their products anymore. And as a town, we will find alternatives, and we will not be afraid to -- [Randy walks up to the podium, interrupting Stan mid-sentence]\n",
+    "output": "Stop! Stop! We're not doing this!\n"
+  },
+  {
+    "input": "Stop! Stop! We're not doing this!\n",
+    "output": "Dad!\n"
+  },
+  {
+    "input": "Dad!\n",
+    "output": "Everyone just stop, we're not doing this. [muffled] Thank you. South Park, uh, we-we're cutting this short. I was totally wrong and I want to apologize.\n"
+  },
+  {
+    "input": "Everyone just stop, we're not doing this. [muffled] Thank you. South Park, uh, we-we're cutting this short. I was totally wrong and I want to apologize.\n",
+    "output": "No, dad, it's the toilet paper companies that are behind all the --\n"
+  },
+  {
+    "input": "No, dad, it's the toilet paper companies that are behind all the --\n",
+    "output": "Yeah, I know. [muffled] Yeah, so, uh, we-we have nothing against toilet paper. It's a great product, and uh, it was childish of me to make fun of it. Thanks, though. We'll see ya later.\n"
+  },
+  {
+    "input": "Yeah, I know. [muffled] Yeah, so, uh, we-we have nothing against toilet paper. It's a great product, and uh, it was childish of me to make fun of it. Thanks, though. We'll see ya later.\n",
+    "output": "Dad, we can't just back down.\n"
+  },
+  {
+    "input": "Dad, we can't just back down.\n",
+    "output": "Bro! I got fucking shot! [muffled] Japanese toilets are totally unnecessary, and, uh, in case anyone else is listening, I think all of South Park would like to apologize. [he turns around to face the audience.] We retract what we said about toilet paper companies. They -- They have done nothing but help us, and we are sorry. [muffled again] South Park -- everyone -- say you're sorry.\n"
+  },
+  {
+    "input": "Bro! I got fucking shot! [muffled] Japanese toilets are totally unnecessary, and, uh, in case anyone else is listening, I think all of South Park would like to apologize. [he turns around to face the audience.] We retract what we said about toilet paper companies. They -- They have done nothing but help us, and we are sorry. [muffled again] South Park -- everyone -- say you're sorry.\n",
+    "output": "We're sorry.\n"
+  },
+  {
+    "input": "We're sorry.\n",
+    "output": "Okay, great. Come on, guys, let's go home.\n"
+  },
+  {
+    "input": "Okay, great. Come on, guys, let's go home.\n",
+    "output": "What about helping people and leading by example?\n"
+  },
+  {
+    "input": "What about helping people and leading by example?\n",
+    "output": "We're not the goddamn Kennedys, Stan. Stop being an idiot.\n[Tegridy Farms. Randy buries out his Ol' Blue toilet from a graveyard and installs it back up in the powder room.]\n"
+  }
+]

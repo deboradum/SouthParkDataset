@@ -1,0 +1,954 @@
+[
+  {
+    "input": "",
+    "output": "The Magic Bush\n\n[Butters' room, day. He's at his computer singing to himself.]\n"
+  },
+  {
+    "input": "The Magic Bush\n\n[Butters' room, day. He's at his computer singing to himself.]\n",
+    "output": "Loo looloo loo loo loo loo, Loo looloo loo loo.\n"
+  },
+  {
+    "input": "Loo looloo loo loo loo loo, Loo looloo loo loo.\n",
+    "output": "[opens Butters' door and enters] Hey, douchebag, are you doing anything kewl?\n"
+  },
+  {
+    "input": "[opens Butters' door and enters] Hey, douchebag, are you doing anything kewl?\n",
+    "output": "Hey, Eric, I'm just lookin' at a video of bird eggs that I took.\n"
+  },
+  {
+    "input": "Hey, Eric, I'm just lookin' at a video of bird eggs that I took.\n",
+    "output": "[heads for Butters' bed] Oh goddamnit, nobody's doing anything kewl! [gets on Butters' bed and lays down on his back.] I'm so bored! Everything is so stupid!\n"
+  },
+  {
+    "input": "[heads for Butters' bed] Oh goddamnit, nobody's doing anything kewl! [gets on Butters' bed and lays down on his back.] I'm so bored! Everything is so stupid!\n",
+    "output": "I don't know, this bird nest is pretty neato.\n"
+  },
+  {
+    "input": "I don't know, this bird nest is pretty neato.\n",
+    "output": "No, it isn't.\n"
+  },
+  {
+    "input": "No, it isn't.\n",
+    "output": "My dad and I shot it yesterday at the lake.\n"
+  },
+  {
+    "input": "My dad and I shot it yesterday at the lake.\n",
+    "output": "That's stupid.\n"
+  },
+  {
+    "input": "That's stupid.\n",
+    "output": "You can see the momma bird fly in.\n"
+  },
+  {
+    "input": "You can see the momma bird fly in.\n",
+    "output": "I'm dying of boredom.\n"
+  },
+  {
+    "input": "I'm dying of boredom.\n",
+    "output": "We took all kinds of video with his drone.\n"
+  },
+  {
+    "input": "We took all kinds of video with his drone.\n",
+    "output": "[sits up, suddenly interested] What did you say?\n"
+  },
+  {
+    "input": "[sits up, suddenly interested] What did you say?\n",
+    "output": "[looks over his shoulder] You know, those drone thingies. You can make it fly anywhere, and shoot video, and stuff.\n"
+  },
+  {
+    "input": "[looks over his shoulder] You know, those drone thingies. You can make it fly anywhere, and shoot video, and stuff.\n",
+    "output": "Your dad has a fucking drone?\n[Butters' house, day. Butters and Cartman lift up the garage door and behold the drone]\n"
+  },
+  {
+    "input": "Your dad has a fucking drone?\n[Butters' house, day. Butters and Cartman lift up the garage door and behold the drone]\n",
+    "output": "Whooaa! [runs up to it for a closer look]\n"
+  },
+  {
+    "input": "Whooaa! [runs up to it for a closer look]\n",
+    "output": "It can fly like a quarter mile away from whoever's controlling it. And it can take video the entire time right to your phone. Don't touch the propellers.\n"
+  },
+  {
+    "input": "It can fly like a quarter mile away from whoever's controlling it. And it can take video the entire time right to your phone. Don't touch the propellers.\n",
+    "output": "[pulls his finger back and smiles at Butters] You wanna take it out for a spin?\n"
+  },
+  {
+    "input": "[pulls his finger back and smiles at Butters] You wanna take it out for a spin?\n",
+    "output": "Are you crazy?! This is my dad's drone!\n"
+  },
+  {
+    "input": "Are you crazy?! This is my dad's drone!\n",
+    "output": "[runs up to Butters and stands next to him] Do you have any idea how much fun we can have with this thing? We can spy on everyone!\n"
+  },
+  {
+    "input": "[runs up to Butters and stands next to him] Do you have any idea how much fun we can have with this thing? We can spy on everyone!\n",
+    "output": "My dad said it's not for spying on people.\n"
+  },
+  {
+    "input": "My dad said it's not for spying on people.\n",
+    "output": "Butters, that's all drones are for. If we use it for a couple of minutes tonight, your dad will never know.\n"
+  },
+  {
+    "input": "Butters, that's all drones are for. If we use it for a couple of minutes tonight, your dad will never know.\n",
+    "output": "Oh, he'll know. You can hear it take off.\n"
+  },
+  {
+    "input": "Oh, he'll know. You can hear it take off.\n",
+    "output": "Okay, good idea. [picks up the drone] We'll take it over to my house. Come over after dark. And don't tell anyone!\n"
+  },
+  {
+    "input": "Okay, good idea. [picks up the drone] We'll take it over to my house. Come over after dark. And don't tell anyone!\n",
+    "output": "[goes to take the drone back] No, Eric. I don't wanna d-\n"
+  },
+  {
+    "input": "[goes to take the drone back] No, Eric. I don't wanna d-\n",
+    "output": "[off screen] Butters?\n"
+  },
+  {
+    "input": "[off screen] Butters?\n",
+    "output": "Oh, shit, it's your dad! Go, go, go! [leaves the garage with the drone as Butters faces the source of the call, then pulls down the garage door] I'll see you later at my house.\n"
+  },
+  {
+    "input": "Oh, shit, it's your dad! Go, go, go! [leaves the garage with the drone as Butters faces the source of the call, then pulls down the garage door] I'll see you later at my house.\n",
+    "output": "Butters, are you home??\n"
+  },
+  {
+    "input": "Butters, are you home??\n",
+    "output": "Comin', Dad! [leaves the garage through the side door into the house]\n[Cartman's house, night. He's been working with the drone, figuring out how to operate it. There's a knock on his door.]\n"
+  },
+  {
+    "input": "Comin', Dad! [leaves the garage through the side door into the house]\n[Cartman's house, night. He's been working with the drone, figuring out how to operate it. There's a knock on his door.]\n",
+    "output": "Butters, is that you?\n"
+  },
+  {
+    "input": "Butters, is that you?\n",
+    "output": "Yes, it's me.\n"
+  },
+  {
+    "input": "Yes, it's me.\n",
+    "output": "[opens the door just a crack and peeks out] Nobody followed you, right? You didn't tell anybody?!\n"
+  },
+  {
+    "input": "[opens the door just a crack and peeks out] Nobody followed you, right? You didn't tell anybody?!\n",
+    "output": "Of course not!\n"
+  },
+  {
+    "input": "Of course not!\n",
+    "output": "Alright, come in. [opens the door to reveal Kenny] Kenny's here; I told him all about it. [Kenny waves hello]\n"
+  },
+  {
+    "input": "Alright, come in. [opens the door to reveal Kenny] Kenny's here; I told him all about it. [Kenny waves hello]\n",
+    "output": "What?! You said nobody would know!\n"
+  },
+  {
+    "input": "What?! You said nobody would know!\n",
+    "output": "It's just Kenny. Like we're not gonna tell Kenny we have a fucking drone! Come on, Butters! Alright, come on, guys. I think I have this thing figured out. [outside, the drone sits in the grass in the backyard, 50 feet away from the house. Suddenly it rises to 23 feet, above the boys' heads, then veers to the right] Dude, no way! This thing is so epic! [the drone's camera shows some backyards through a fish-eye lens. A dog barks up at it from below.]\n"
+  },
+  {
+    "input": "It's just Kenny. Like we're not gonna tell Kenny we have a fucking drone! Come on, Butters! Alright, come on, guys. I think I have this thing figured out. [outside, the drone sits in the grass in the backyard, 50 feet away from the house. Suddenly it rises to 23 feet, above the boys' heads, then veers to the right] Dude, no way! This thing is so epic! [the drone's camera shows some backyards through a fish-eye lens. A dog barks up at it from below.]\n",
+    "output": "Be careful! The powerlines!\n"
+  },
+  {
+    "input": "Be careful! The powerlines!\n",
+    "output": "Dude, look! There's everyone's backyards! [in the distance, Kenny's house is shown from the back two blocks away. The drone veers to the right and drops down a bit, headed for a back door] Dude there's Craig's house! That's Craig's house!\n"
+  },
+  {
+    "input": "Dude, look! There's everyone's backyards! [in the distance, Kenny's house is shown from the back two blocks away. The drone veers to the right and drops down a bit, headed for a back door] Dude there's Craig's house! That's Craig's house!\n",
+    "output": "(Okay, try to get closer!)\n"
+  },
+  {
+    "input": "(Okay, try to get closer!)\n",
+    "output": "Okay, uh, maybe that's enough. [the drone approaches Craig's window]\n"
+  },
+  {
+    "input": "Okay, uh, maybe that's enough. [the drone approaches Craig's window]\n",
+    "output": "Aw dude, look, there's Craig! Heheh. [Craig is shown at his computer. The drone moves to the next window and shows Craig's mom undressing.] Craig's mom is taking off her clothes.\n"
+  },
+  {
+    "input": "Aw dude, look, there's Craig! Heheh. [Craig is shown at his computer. The drone moves to the next window and shows Craig's mom undressing.] Craig's mom is taking off her clothes.\n",
+    "output": "(Are you serious?!)\n"
+  },
+  {
+    "input": "(Are you serious?!)\n",
+    "output": "[gruffly] Let me see!\n"
+  },
+  {
+    "input": "[gruffly] Let me see!\n",
+    "output": "Check it out guys, she's taking o- Oh my God, we've got full bush!\n"
+  },
+  {
+    "input": "Check it out guys, she's taking o- Oh my God, we've got full bush!\n",
+    "output": "(Stop taping!)\n"
+  },
+  {
+    "input": "(Stop taping!)\n",
+    "output": "Jeeeeezz!\n"
+  },
+  {
+    "input": "Jeeeeezz!\n",
+    "output": "This thing is recording, right?\n"
+  },
+  {
+    "input": "This thing is recording, right?\n",
+    "output": "(Yeah.)\n"
+  },
+  {
+    "input": "(Yeah.)\n",
+    "output": "Dude! That is Craig's mom's bush right there! Wait, wait what's that? [Craig's mom has heard the drone and called her husband Thomas over. She stands behind him as they both look at the drone outside their window] Oh shit, dude! Bail! Bail! [thrusts the controller at Butters]\n"
+  },
+  {
+    "input": "Dude! That is Craig's mom's bush right there! Wait, wait what's that? [Craig's mom has heard the drone and called her husband Thomas over. She stands behind him as they both look at the drone outside their window] Oh shit, dude! Bail! Bail! [thrusts the controller at Butters]\n",
+    "output": "What do I do?!\n"
+  },
+  {
+    "input": "What do I do?!\n",
+    "output": "His dad sees you!\n"
+  },
+  {
+    "input": "His dad sees you!\n",
+    "output": "[begins to panic] I don't know what to do!\n"
+  },
+  {
+    "input": "[begins to panic] I don't know what to do!\n",
+    "output": "Fly back to the house, stupid!\n[The Stotch house, night. Thomas Tucker bangs on the front door and Stephen comes to answer it.]\n"
+  },
+  {
+    "input": "Fly back to the house, stupid!\n[The Stotch house, night. Thomas Tucker bangs on the front door and Stephen comes to answer it.]\n",
+    "output": "You've got a problem, Stotch!\n"
+  },
+  {
+    "input": "You've got a problem, Stotch!\n",
+    "output": "What are you talkin' about?\n"
+  },
+  {
+    "input": "What are you talkin' about?\n",
+    "output": "You know what I'm talkin' about! There was a drone spyin' on my wife, and you're the only person I know with a drone!\n"
+  },
+  {
+    "input": "You know what I'm talkin' about! There was a drone spyin' on my wife, and you're the only person I know with a drone!\n",
+    "output": "Hey now hold on. I am a drone hobby enthusiast. I would never use my drone in a way that contradicts the drone hobbyist code of conduct.\n"
+  },
+  {
+    "input": "Hey now hold on. I am a drone hobby enthusiast. I would never use my drone in a way that contradicts the drone hobbyist code of conduct.\n",
+    "output": "Horseshit! Your drone is out there flyin' around right now!\n"
+  },
+  {
+    "input": "Horseshit! Your drone is out there flyin' around right now!\n",
+    "output": "I assure you, my drone is sitting in the garage. I'll show you.\n[The Stotch house, garage. Stephen leads Thomas to the garage. He opens the side door]\n"
+  },
+  {
+    "input": "I assure you, my drone is sitting in the garage. I'll show you.\n[The Stotch house, garage. Stephen leads Thomas to the garage. He opens the side door]\n",
+    "output": "There, you see? It's right there. [sure enough, the drone and its controller are on the garage floor as expected.]\n"
+  },
+  {
+    "input": "There, you see? It's right there. [sure enough, the drone and its controller are on the garage floor as expected.]\n",
+    "output": "So, thuh so you flew it back here in time.\n"
+  },
+  {
+    "input": "So, thuh so you flew it back here in time.\n",
+    "output": "I swear I didn't fly it.\n"
+  },
+  {
+    "input": "I swear I didn't fly it.\n",
+    "output": "Well, these things don't just fly themselves, do they? They outta be illegal. I'd better not find out it was your drone! [hurries out of the garage. Stephen looks at the drone and wonders... spooky theremin music plays, so he's a little afraid as well]\n[Butters' room, night. Stephen opens Butters' door and looks in]\n"
+  },
+  {
+    "input": "Well, these things don't just fly themselves, do they? They outta be illegal. I'd better not find out it was your drone! [hurries out of the garage. Stephen looks at the drone and wonders... spooky theremin music plays, so he's a little afraid as well]\n[Butters' room, night. Stephen opens Butters' door and looks in]\n",
+    "output": "Butters?\n"
+  },
+  {
+    "input": "Butters?\n",
+    "output": "[already in his PJs and in bed, but clearly panting] Oh, heh-hey, Dad.\n"
+  },
+  {
+    "input": "[already in his PJs and in bed, but clearly panting] Oh, heh-hey, Dad.\n",
+    "output": "Butters, did you hear the drone making any sounds in the garage?\n"
+  },
+  {
+    "input": "Butters, did you hear the drone making any sounds in the garage?\n",
+    "output": "[panting throughout] Ah, hold on Dad. I should be sleepin'. Why do you ask?\n"
+  },
+  {
+    "input": "[panting throughout] Ah, hold on Dad. I should be sleepin'. Why do you ask?\n",
+    "output": "Nothing, son. It's nothing. Get back to sleep, pal. Love you.\n"
+  },
+  {
+    "input": "Nothing, son. It's nothing. Get back to sleep, pal. Love you.\n",
+    "output": "I love you too, Dad. [Stephen leaves and closes the door. That was close.]\n[South Park, morning. At the bus stop, Cartman and Kenny wait for the school bus]\n"
+  },
+  {
+    "input": "I love you too, Dad. [Stephen leaves and closes the door. That was close.]\n[South Park, morning. At the bus stop, Cartman and Kenny wait for the school bus]\n",
+    "output": "Alright, alright, shh Kenny, here come Stan and Kyle. Remember, not a word about this to anyone!\n"
+  },
+  {
+    "input": "Alright, alright, shh Kenny, here come Stan and Kyle. Remember, not a word about this to anyone!\n",
+    "output": "(Yeah, I know, dude.)\n"
+  },
+  {
+    "input": "(Yeah, I know, dude.)\n",
+    "output": "Not a word, Kenny!\n"
+  },
+  {
+    "input": "Not a word, Kenny!\n",
+    "output": "(Alright!) [Stan and Kyle's voices are heard]\n"
+  },
+  {
+    "input": "(Alright!) [Stan and Kyle's voices are heard]\n",
+    "output": "Yeah, but seriously, it's like there's no real thing to hang on to, you know?\n"
+  },
+  {
+    "input": "Yeah, but seriously, it's like there's no real thing to hang on to, you know?\n",
+    "output": "Yeah, I don't even know if I'm gonna watch it anymore.\n"
+  },
+  {
+    "input": "Yeah, I don't even know if I'm gonna watch it anymore.\n",
+    "output": "I know. [they take their places next to Cartman]\n"
+  },
+  {
+    "input": "I know. [they take their places next to Cartman]\n",
+    "output": "Hey, you guys.\n"
+  },
+  {
+    "input": "Hey, you guys.\n",
+    "output": "Sup? [the pressure gets to Cartman, but he resists. He finally cracks]\n"
+  },
+  {
+    "input": "Sup? [the pressure gets to Cartman, but he resists. He finally cracks]\n",
+    "output": "You guys wanna see Craig's mom's bush?\n"
+  },
+  {
+    "input": "You guys wanna see Craig's mom's bush?\n",
+    "output": "(Dude! What the fuck!)\n"
+  },
+  {
+    "input": "(Dude! What the fuck!)\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Somebody, I guess, was spying on Craig's mom and they got pictures of her bush, and it's like, it's like a yeti. You guys wanna check it out? [whips out his phone]\n"
+  },
+  {
+    "input": "Somebody, I guess, was spying on Craig's mom and they got pictures of her bush, and it's like, it's like a yeti. You guys wanna check it out? [whips out his phone]\n",
+    "output": "(Dude!)\n"
+  },
+  {
+    "input": "(Dude!)\n",
+    "output": "That's horrible. If that's true, I don't wanna see it.\n"
+  },
+  {
+    "input": "That's horrible. If that's true, I don't wanna see it.\n",
+    "output": "You don't wanna see Craig's mom's bush.\n"
+  },
+  {
+    "input": "You don't wanna see Craig's mom's bush.\n",
+    "output": "Not if somebody took pictures without her knowing.\n"
+  },
+  {
+    "input": "Not if somebody took pictures without her knowing.\n",
+    "output": "Let me see.\n"
+  },
+  {
+    "input": "Let me see.\n",
+    "output": "[shows Stan] Locked and loaded. Full metal bush, bro.\n"
+  },
+  {
+    "input": "[shows Stan] Locked and loaded. Full metal bush, bro.\n",
+    "output": "How'd you get that on your phone?\n"
+  },
+  {
+    "input": "How'd you get that on your phone?\n",
+    "output": "Oh. Um, uh... Kenny? [motions for Kenny to get closer, but Kenny doesn't budge] Oh, it was on the Internet. Yeah, I just downloaded it off the Internet and nobody knows who took it. Huh, Kenny?\n"
+  },
+  {
+    "input": "Oh. Um, uh... Kenny? [motions for Kenny to get closer, but Kenny doesn't budge] Oh, it was on the Internet. Yeah, I just downloaded it off the Internet and nobody knows who took it. Huh, Kenny?\n",
+    "output": "[grudgingly] (Uh huh.)\n"
+  },
+  {
+    "input": "[grudgingly] (Uh huh.)\n",
+    "output": "That's terrible!\n"
+  },
+  {
+    "input": "That's terrible!\n",
+    "output": "I know, right? Now everyone's gonna see it.\n[South Park Elementary, later. Craig is at his locker when Jimmy, Tolkien and Clyde approach him]\n"
+  },
+  {
+    "input": "I know, right? Now everyone's gonna see it.\n[South Park Elementary, later. Craig is at his locker when Jimmy, Tolkien and Clyde approach him]\n",
+    "output": "Hey, Craig, have you checked out the Internet lately? [he and the other two chuckle]\n"
+  },
+  {
+    "input": "Hey, Craig, have you checked out the Internet lately? [he and the other two chuckle]\n",
+    "output": "What are you talking about? [Cartman comes into view at the end of the hall and walks towards the boys room]\n"
+  },
+  {
+    "input": "What are you talking about? [Cartman comes into view at the end of the hall and walks towards the boys room]\n",
+    "output": "Ohhhh nothin'. It's just that... y-you might wanna invest in some hedge clippers. [he and the other two chuckle. Cartman chuckles as well]\n"
+  },
+  {
+    "input": "Ohhhh nothin'. It's just that... y-you might wanna invest in some hedge clippers. [he and the other two chuckle. Cartman chuckles as well]\n",
+    "output": "For what?\n"
+  },
+  {
+    "input": "For what?\n",
+    "output": "Ohhhh nothin'. You just might wanna... hire Tarzan to do some... landscaping work for your mom. [he and the other two chuckle. Butters comes out of nowhere and shoves Cartman into the boys room, slamming him into the stall 1 wall]\n"
+  },
+  {
+    "input": "Ohhhh nothin'. You just might wanna... hire Tarzan to do some... landscaping work for your mom. [he and the other two chuckle. Butters comes out of nowhere and shoves Cartman into the boys room, slamming him into the stall 1 wall]\n",
+    "output": "What the heck are you doing?!\n"
+  },
+  {
+    "input": "What the heck are you doing?!\n",
+    "output": "Whoa, Butters, chillax, bro.\n"
+  },
+  {
+    "input": "Whoa, Butters, chillax, bro.\n",
+    "output": "When did you put Craig's mom's bush on the Internet?!\n"
+  },
+  {
+    "input": "When did you put Craig's mom's bush on the Internet?!\n",
+    "output": "Butters-\n"
+  },
+  {
+    "input": "Butters-\n",
+    "output": "You promised me we wouldn't get in trouble!\n"
+  },
+  {
+    "input": "You promised me we wouldn't get in trouble!\n",
+    "output": "Butters. Butters.\n"
+  },
+  {
+    "input": "Butters. Butters.\n",
+    "output": "Now everyone is gonna know what we were doing!\n"
+  },
+  {
+    "input": "Now everyone is gonna know what we were doing!\n",
+    "output": "Butters, I had to! [Butters lets him go] Okay, I had to put it on the Internet!\n"
+  },
+  {
+    "input": "Butters, I had to! [Butters lets him go] Okay, I had to put it on the Internet!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Because Stan saw the video on my phone, alright? If the video is only on my phone, then clearly we did it! If we downloaded it off the Internet, then anyone could have done it!\n"
+  },
+  {
+    "input": "Because Stan saw the video on my phone, alright? If the video is only on my phone, then clearly we did it! If we downloaded it off the Internet, then anyone could have done it!\n",
+    "output": "I should have never listened to you! Ah I should have known this would get out of hand!\n"
+  },
+  {
+    "input": "I should have never listened to you! Ah I should have known this would get out of hand!\n",
+    "output": "Butters, don't start playing the blame game here, okay?! You and Kenny are just as responsible! And the next time you wanna shove me, just remember, I'm covering your ass! [they leave the restroom. Stall 1 opens and Kyle steps out, angry at what he just heard]\n[Neighborhood Watch meeting, Roger Donovan's house, evening.]\n"
+  },
+  {
+    "input": "Butters, don't start playing the blame game here, okay?! You and Kenny are just as responsible! And the next time you wanna shove me, just remember, I'm covering your ass! [they leave the restroom. Stall 1 opens and Kyle steps out, angry at what he just heard]\n[Neighborhood Watch meeting, Roger Donovan's house, evening.]\n",
+    "output": "Hi everyone. For those of you I don't know as well, my name is Roger Donovan, and un, just like you I'm pretty upset about what's going on in our neighborhood.\n"
+  },
+  {
+    "input": "Hi everyone. For those of you I don't know as well, my name is Roger Donovan, and un, just like you I'm pretty upset about what's going on in our neighborhood.\n",
+    "output": "How are these drones legal?! My wife didn't deserve to be splayed all over the Internet like that!\n"
+  },
+  {
+    "input": "How are these drones legal?! My wife didn't deserve to be splayed all over the Internet like that!\n",
+    "output": "Yes, well luckily nobody's watched the video of course. [a round of denials from the gathered adults] But the fact is that these drones are only getting more popular. I mean, anyone can get a drone off Amazon for 200 bucks, and there's no laws and the whole thing is pretty damned hairy. Oh-ohh, God I'm sorry Laura. [she looks around and gets mad] You know I I meant the situation is pretty hairy, right? Nothin' to do with you p-personally. I mean, how would I even know? I didn't see it. [she crosses her arms] Um...\n"
+  },
+  {
+    "input": "Yes, well luckily nobody's watched the video of course. [a round of denials from the gathered adults] But the fact is that these drones are only getting more popular. I mean, anyone can get a drone off Amazon for 200 bucks, and there's no laws and the whole thing is pretty damned hairy. Oh-ohh, God I'm sorry Laura. [she looks around and gets mad] You know I I meant the situation is pretty hairy, right? Nothin' to do with you p-personally. I mean, how would I even know? I didn't see it. [she crosses her arms] Um...\n",
+    "output": "[stands up] Look, we're all here because what happened to Laura could happen to any of us. There's nobody regulating these drones and if we don't do something now, we're gonna be up to our navels with bush. [winces. Sharon puts her face in her left hand] Oh um, up to our necks in trouble. Sorry. [sits down and looks at Sharon]\n"
+  },
+  {
+    "input": "[stands up] Look, we're all here because what happened to Laura could happen to any of us. There's nobody regulating these drones and if we don't do something now, we're gonna be up to our navels with bush. [winces. Sharon puts her face in her left hand] Oh um, up to our necks in trouble. Sorry. [sits down and looks at Sharon]\n",
+    "output": "You know, it used to be called \"natural\". Completely shaving bald down there used to be the weird thing.\n"
+  },
+  {
+    "input": "You know, it used to be called \"natural\". Completely shaving bald down there used to be the weird thing.\n",
+    "output": "It's okay honey, the-\n"
+  },
+  {
+    "input": "It's okay honey, the-\n",
+    "output": "But now, because I \"choose\" not to let society dictate how hairy my vagina should be,\n"
+  },
+  {
+    "input": "But now, because I \"choose\" not to let society dictate how hairy my vagina should be,\n",
+    "output": "Eeww.\n"
+  },
+  {
+    "input": "Eeww.\n",
+    "output": "I'm labelled as some kind of freaking monster!\n"
+  },
+  {
+    "input": "I'm labelled as some kind of freaking monster!\n",
+    "output": "And and and that's the point. I mean, we all have things about ourselves that are embarrassing, that that-\n"
+  },
+  {
+    "input": "And and and that's the point. I mean, we all have things about ourselves that are embarrassing, that that-\n",
+    "output": "I'm not embarrassed about it! It's natural!\n"
+  },
+  {
+    "input": "I'm not embarrassed about it! It's natural!\n",
+    "output": "It's a lot of natural.\n"
+  },
+  {
+    "input": "It's a lot of natural.\n",
+    "output": "Look, look, why we're here is because it's gonna take all of us, a neighborhood watch, to make sure that our community stays safe.\n"
+  },
+  {
+    "input": "Look, look, why we're here is because it's gonna take all of us, a neighborhood watch, to make sure that our community stays safe.\n",
+    "output": "Yeah, but how can we keep that close a watch on the whole neighborhood?\n"
+  },
+  {
+    "input": "Yeah, but how can we keep that close a watch on the whole neighborhood?\n",
+    "output": "It's simple.\n[The neighborhood, day. The first Neighborhood Watch drone, which is black, appears, followed by more drones.]\n"
+  },
+  {
+    "input": "It's simple.\n[The neighborhood, day. The first Neighborhood Watch drone, which is black, appears, followed by more drones.]\n",
+    "output": "Oh yeah, this is gonna work great. [smiles]\n[The bus stop. The four boys are there. A Neighborhood Watch drone flies over it and then flies off.]\n"
+  },
+  {
+    "input": "Oh yeah, this is gonna work great. [smiles]\n[The bus stop. The four boys are there. A Neighborhood Watch drone flies over it and then flies off.]\n",
+    "output": "Are you happy now?!\n"
+  },
+  {
+    "input": "Are you happy now?!\n",
+    "output": "What? [the drone returns and goes the other way]\n"
+  },
+  {
+    "input": "What? [the drone returns and goes the other way]\n",
+    "output": "Is, is this? Do you think this is cool?\n"
+  },
+  {
+    "input": "Is, is this? Do you think this is cool?\n",
+    "output": "What does that have to do with me?\n"
+  },
+  {
+    "input": "What does that have to do with me?\n",
+    "output": "See, when you start invading people's privacy, eh thinking it's harmless to put up pictures of them they didn't want up - Kenny! - you start a domino effect that eventually screws everything up for everybody!\n"
+  },
+  {
+    "input": "See, when you start invading people's privacy, eh thinking it's harmless to put up pictures of them they didn't want up - Kenny! - you start a domino effect that eventually screws everything up for everybody!\n",
+    "output": "Kenny has no idea what you're talking about, dude.\n"
+  },
+  {
+    "input": "Kenny has no idea what you're talking about, dude.\n",
+    "output": "I was in the bathroom when you were talking to Butters, Cartman! [another drone floats by in the background] I know what-\n"
+  },
+  {
+    "input": "I was in the bathroom when you were talking to Butters, Cartman! [another drone floats by in the background] I know what-\n",
+    "output": "You were what?!\n"
+  },
+  {
+    "input": "You were what?!\n",
+    "output": "I was in the bathroom-\n"
+  },
+  {
+    "input": "I was in the bathroom-\n",
+    "output": "You were spying on me?!\n"
+  },
+  {
+    "input": "You were spying on me?!\n",
+    "output": "No, I was taking a crap, and I heard you guys talking!\n"
+  },
+  {
+    "input": "No, I was taking a crap, and I heard you guys talking!\n",
+    "output": "But you didn't say anything?! That's fucking spying, Kyle!\n"
+  },
+  {
+    "input": "But you didn't say anything?! That's fucking spying, Kyle!\n",
+    "output": "How is that spying?!\n"
+  },
+  {
+    "input": "How is that spying?!\n",
+    "output": "You were listening, but we didn't know you were there?! How is that not spying?! You'r a dick! You're a spying dick! And now you wanna lecture Kenny about spying?! Fuck you, hypocrite dick spy! [another drone hovers by]\n[A strip mall, day. One of the stores there is The Hobby Enthusiast. Stephen and Butters go inside.]\n"
+  },
+  {
+    "input": "You were listening, but we didn't know you were there?! How is that not spying?! You'r a dick! You're a spying dick! And now you wanna lecture Kenny about spying?! Fuck you, hypocrite dick spy! [another drone hovers by]\n[A strip mall, day. One of the stores there is The Hobby Enthusiast. Stephen and Butters go inside.]\n",
+    "output": "Hello, can I help you?\n"
+  },
+  {
+    "input": "Hello, can I help you?\n",
+    "output": "Yes, I'd like to return this drone. [sets it on the counter. The clerk looks through the open box]\n"
+  },
+  {
+    "input": "Yes, I'd like to return this drone. [sets it on the counter. The clerk looks through the open box]\n",
+    "output": "You wanna return it?\n"
+  },
+  {
+    "input": "You wanna return it?\n",
+    "output": "Yes, I'm... I'm not into the hobby anymore.\n"
+  },
+  {
+    "input": "Yes, I'm... I'm not into the hobby anymore.\n",
+    "output": "The hobby of flyin' drones is new and exciting. How can you not be into it? [Butters puts his arms tight against his sides and glances here and there]\n"
+  },
+  {
+    "input": "The hobby of flyin' drones is new and exciting. How can you not be into it? [Butters puts his arms tight against his sides and glances here and there]\n",
+    "output": "Look, something's wrong with it. It does things, it... [leans in] flies by itself.\n"
+  },
+  {
+    "input": "Look, something's wrong with it. It does things, it... [leans in] flies by itself.\n",
+    "output": "Uhh, noo, somebody has to control it.\n"
+  },
+  {
+    "input": "Uhh, noo, somebody has to control it.\n",
+    "output": "[stands straight] You don't understand. It was in the garage and the battery was fully charged. Someone said they'd seen it flying around, so I checked. [leans in] The battery was half empty.\n"
+  },
+  {
+    "input": "[stands straight] You don't understand. It was in the garage and the battery was fully charged. Someone said they'd seen it flying around, so I checked. [leans in] The battery was half empty.\n",
+    "output": "[looks at Butters, then back at Stephen] I'm sorry, but we don't do returns. [Butters relaxes a bit]\n"
+  },
+  {
+    "input": "[looks at Butters, then back at Stephen] I'm sorry, but we don't do returns. [Butters relaxes a bit]\n",
+    "output": "Please, I just want another hobby to get enthused about.\n"
+  },
+  {
+    "input": "Please, I just want another hobby to get enthused about.\n",
+    "output": "Sir, did you try looking at the SD card? All the video gets recorded to that so you could probably determine who flew it. [Butters tenses up again]\n"
+  },
+  {
+    "input": "Sir, did you try looking at the SD card? All the video gets recorded to that so you could probably determine who flew it. [Butters tenses up again]\n",
+    "output": "You think I didn't try that? I pulled out the SD card. It was all erased. Somehow it erased everything.\n"
+  },
+  {
+    "input": "You think I didn't try that? I pulled out the SD card. It was all erased. Somehow it erased everything.\n",
+    "output": "Uh, sir, did you consider that your son might have done that?\n"
+  },
+  {
+    "input": "Uh, sir, did you consider that your son might have done that?\n",
+    "output": "No, it's impossible. He's not allowed to fly it without my supervision. [looks down to his right, then to his left. The clerk fixes his gaze on him]\n[A closeup of Thomas putting his pants on. He hears a Neighborhood Watch drone buzz by and looks out his bedroom windows]\n"
+  },
+  {
+    "input": "No, it's impossible. He's not allowed to fly it without my supervision. [looks down to his right, then to his left. The clerk fixes his gaze on him]\n[A closeup of Thomas putting his pants on. He hears a Neighborhood Watch drone buzz by and looks out his bedroom windows]\n",
+    "output": "Oh for God's sakes! [goes into the bathroom, where he sees Laura at the sink, having just gotten out of the shower. He also sees another drone outside the window, which has open curtains] Goddamnit get the hell out of here! [the drone hurries away, and he goes to the window and closes the curtains] That DOES IT!\n[Park County Police Department, day. The Tuckers are there to file a police report]\n"
+  },
+  {
+    "input": "Oh for God's sakes! [goes into the bathroom, where he sees Laura at the sink, having just gotten out of the shower. He also sees another drone outside the window, which has open curtains] Goddamnit get the hell out of here! [the drone hurries away, and he goes to the window and closes the curtains] That DOES IT!\n[Park County Police Department, day. The Tuckers are there to file a police report]\n",
+    "output": "You people have to do something! You're the law, and these things NEED to BE illegal!\n"
+  },
+  {
+    "input": "You people have to do something! You're the law, and these things NEED to BE illegal!\n",
+    "output": "But they aren't illegal, Mr. Tucker.\n"
+  },
+  {
+    "input": "But they aren't illegal, Mr. Tucker.\n",
+    "output": "Our privacy was invaded, and now there are kids at school making music videos with the footage of my wife! Have you seen what they're doing?!\n"
+  },
+  {
+    "input": "Our privacy was invaded, and now there are kids at school making music videos with the footage of my wife! Have you seen what they're doing?!\n",
+    "output": "Nono, none of us watched the video, but if we did, we could handle it. We're police officers. We see sickening things like that every day.\n"
+  },
+  {
+    "input": "Nono, none of us watched the video, but if we did, we could handle it. We're police officers. We see sickening things like that every day.\n",
+    "output": "We understand the humiliation your wife has gone through, Mr. Tucker, but we don't-\n"
+  },
+  {
+    "input": "We understand the humiliation your wife has gone through, Mr. Tucker, but we don't-\n",
+    "output": "I haven't been \"humiliated\", I've been wronged! We are here to ask for your help, now are you gonna help us or not?!\n"
+  },
+  {
+    "input": "I haven't been \"humiliated\", I've been wronged! We are here to ask for your help, now are you gonna help us or not?!\n",
+    "output": "Well that'd probably be best left to a professional hair removal company.\n"
+  },
+  {
+    "input": "Well that'd probably be best left to a professional hair removal company.\n",
+    "output": "Or perhaps a forest ranger?\n"
+  },
+  {
+    "input": "Or perhaps a forest ranger?\n",
+    "output": "Help us with the drones spying on us!!\n"
+  },
+  {
+    "input": "Help us with the drones spying on us!!\n",
+    "output": "All right, all right. We'll do everything we can.\n[South Park Elementary, day. Cartman walks by the boys restroom when Butters comes at him again and shoves him into the restroom, again slamming him into the stall 1 wall.]\n"
+  },
+  {
+    "input": "All right, all right. We'll do everything we can.\n[South Park Elementary, day. Cartman walks by the boys restroom when Butters comes at him again and shoves him into the restroom, again slamming him into the stall 1 wall.]\n",
+    "output": "Are you out of your mind?! What are you doing?!\n"
+  },
+  {
+    "input": "Are you out of your mind?! What are you doing?!\n",
+    "output": "Butters.\n"
+  },
+  {
+    "input": "Butters.\n",
+    "output": "Why would you turn \"Craig's mom's bush\" into a music video starring us?!\n"
+  },
+  {
+    "input": "Why would you turn \"Craig's mom's bush\" into a music video starring us?!\n",
+    "output": "Because, Butters-\n"
+  },
+  {
+    "input": "Because, Butters-\n",
+    "output": "Why can't you leave it alone?! Why can't you just stop?!\n"
+  },
+  {
+    "input": "Why can't you leave it alone?! Why can't you just stop?!\n",
+    "output": "[brushes Butters' hands off his jacket] Because, Butters, Kyle was spying on us, okay- [stops and kneels down to see if there's anyone in the stall, then gets up again] Kyle was spying on us, and he knows that we put the video of Craig's mom on the Internet. He found out everything. That's why I had to make another video.\n"
+  },
+  {
+    "input": "[brushes Butters' hands off his jacket] Because, Butters, Kyle was spying on us, okay- [stops and kneels down to see if there's anyone in the stall, then gets up again] Kyle was spying on us, and he knows that we put the video of Craig's mom on the Internet. He found out everything. That's why I had to make another video.\n",
+    "output": "Why?!\n"
+  },
+  {
+    "input": "Why?!\n",
+    "output": "Because when Kyle said he heard us say we made the video, we can say we were talking about THIS video. \"Ohh, thank you Eric, that's pretty smart. I really owe you one.\"\n"
+  },
+  {
+    "input": "Because when Kyle said he heard us say we made the video, we can say we were talking about THIS video. \"Ohh, thank you Eric, that's pretty smart. I really owe you one.\"\n",
+    "output": "That poor lady. Her vagina is everywhere. Poor Craig.\n"
+  },
+  {
+    "input": "That poor lady. Her vagina is everywhere. Poor Craig.\n",
+    "output": "Butters, we live in a world where privacy is gone. Okay? It's... It' just gone, bud. Your wiener, my balls, they're public domain. You can get on the Internet right now and look at that chick from Hunger Games butthole. We can either all freak out about it, or we can just calm down because honestly, I'm getting a little sick of covering your ass!\n[The neighborhood, night. A Neighborhood Watch drone flies around and hones in on the Broflovski house. Gerald is on the couch eating a slice of cake and watching TV - Real Housewives of Atlanta.]\n"
+  },
+  {
+    "input": "Butters, we live in a world where privacy is gone. Okay? It's... It' just gone, bud. Your wiener, my balls, they're public domain. You can get on the Internet right now and look at that chick from Hunger Games butthole. We can either all freak out about it, or we can just calm down because honestly, I'm getting a little sick of covering your ass!\n[The neighborhood, night. A Neighborhood Watch drone flies around and hones in on the Broflovski house. Gerald is on the couch eating a slice of cake and watching TV - Real Housewives of Atlanta.]\n",
+    "output": "Heheh, Gerald is watching Housewives of Atlanta.\n"
+  },
+  {
+    "input": "Heheh, Gerald is watching Housewives of Atlanta.\n",
+    "output": "You're supposed to be keeping watch on the neighborhood.\n"
+  },
+  {
+    "input": "You're supposed to be keeping watch on the neighborhood.\n",
+    "output": "I am. Let's see what Nelson's doing. [the drone leaves the Broflovski house and hovers over to the Neloson house, where Nelson is having sex with his girl. Randy puts his wine glass on the bedstand and concentrates on the video feed. He glances at Sharon a few times to see if she's noticing. She isn't. Soon, a police drone appears, with blue and red flashing lights and a siren. It aims for Randy's drone.] Oh shit! [gets his drone to fly off, but the police drone keeps up] Dude! Neighborhood Watch! I'm Neighborhood Watch! [has the drone turn to face the police drone, which is armed. The police drone fires two rounds into Randy's drone, which falters. Sharon finally looks over] I've been shot! [his drone crashes into a backyard] No! Noooo!\n[News 4 breaking news.]\n"
+  },
+  {
+    "input": "I am. Let's see what Nelson's doing. [the drone leaves the Broflovski house and hovers over to the Neloson house, where Nelson is having sex with his girl. Randy puts his wine glass on the bedstand and concentrates on the video feed. He glances at Sharon a few times to see if she's noticing. She isn't. Soon, a police drone appears, with blue and red flashing lights and a siren. It aims for Randy's drone.] Oh shit! [gets his drone to fly off, but the police drone keeps up] Dude! Neighborhood Watch! I'm Neighborhood Watch! [has the drone turn to face the police drone, which is armed. The police drone fires two rounds into Randy's drone, which falters. Sharon finally looks over] I've been shot! [his drone crashes into a backyard] No! Noooo!\n[News 4 breaking news.]\n",
+    "output": "Shock and outrage all over the state tonight after an on-duty police drone chased and shot down an unarmed civilian drone, and worst of all, yes, the civilian drone was black. [a picture of a similar drone pops up behind him]\n"
+  },
+  {
+    "input": "Shock and outrage all over the state tonight after an on-duty police drone chased and shot down an unarmed civilian drone, and worst of all, yes, the civilian drone was black. [a picture of a similar drone pops up behind him]\n",
+    "output": "What gives them the right to shoot down our drones?!\n"
+  },
+  {
+    "input": "What gives them the right to shoot down our drones?!\n",
+    "output": "I wasn't doing anything wrong! This is a complete outrage to drone owners everywhere!\n"
+  },
+  {
+    "input": "I wasn't doing anything wrong! This is a complete outrage to drone owners everywhere!\n",
+    "output": "It was about yay big. [strokes the back of his head] I mean the hair on it was out to here [spreads his arms out so there's three feet between his hands], and then it had another trail of hair down from her belly button. I mean, the, the drone. Yeah, that's what I saw. That that's all I saw.\n"
+  },
+  {
+    "input": "It was about yay big. [strokes the back of his head] I mean the hair on it was out to here [spreads his arms out so there's three feet between his hands], and then it had another trail of hair down from her belly button. I mean, the, the drone. Yeah, that's what I saw. That that's all I saw.\n",
+    "output": "While police claim they were only following standard protocol, the drone owners are banding together and holding a candlelight vigil.\n[Downtown South Park, night. A group of civilian drones hovers down the street, each drone holding a lit candle. Sirens and lights come up and the drones turn right to see police drones approaching]\n"
+  },
+  {
+    "input": "While police claim they were only following standard protocol, the drone owners are banding together and holding a candlelight vigil.\n[Downtown South Park, night. A group of civilian drones hovers down the street, each drone holding a lit candle. Sirens and lights come up and the drones turn right to see police drones approaching]\n",
+    "output": "Please disperse. Candles on top of drones are a fire hazard, [the civilian drones look at each other] Return to your garages.\n"
+  },
+  {
+    "input": "Please disperse. Candles on top of drones are a fire hazard, [the civilian drones look at each other] Return to your garages.\n",
+    "output": "[on his bed holding the controller and a glass of wine] What the hell are these police drones doing? We can't protest now?\n"
+  },
+  {
+    "input": "[on his bed holding the controller and a glass of wine] What the hell are these police drones doing? We can't protest now?\n",
+    "output": "[on his bed with Linda, his wife] Just hover, honey. They can't do anything if we're just hovering.\n[Randy's house, later. Someone is banging on his front door, and he goes to answer it. It's Stephen, with Butters on the sidewalk]\n"
+  },
+  {
+    "input": "[on his bed with Linda, his wife] Just hover, honey. They can't do anything if we're just hovering.\n[Randy's house, later. Someone is banging on his front door, and he goes to answer it. It's Stephen, with Butters on the sidewalk]\n",
+    "output": "[looking frazzled] Randy. We need to talk.\n"
+  },
+  {
+    "input": "[looking frazzled] Randy. We need to talk.\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "Inside. [Randy lets him in and moments later sits on the sofa with Sharon and Butters. Stephen paces the floor before them] I've been going over it and over it in my head. I thought Butters and I were alone, but then I saw you on the news. [walks up to Randy] Another drone hobby enthusiast whose drone was blamed for something the enthusiast didn't recall doing. Randy, this is very important. Is it possible that you did something contrary to the proper code of conduct for drone-flying enthusiasts?\n"
+  },
+  {
+    "input": "Inside. [Randy lets him in and moments later sits on the sofa with Sharon and Butters. Stephen paces the floor before them] I've been going over it and over it in my head. I thought Butters and I were alone, but then I saw you on the news. [walks up to Randy] Another drone hobby enthusiast whose drone was blamed for something the enthusiast didn't recall doing. Randy, this is very important. Is it possible that you did something contrary to the proper code of conduct for drone-flying enthusiasts?\n",
+    "output": "No. I didn't. [theremin music starts up as Stephen walks back to where he was]\n"
+  },
+  {
+    "input": "No. I didn't. [theremin music starts up as Stephen walks back to where he was]\n",
+    "output": "I thought it was just my drone, but I think it might be all of them.\n"
+  },
+  {
+    "input": "I thought it was just my drone, but I think it might be all of them.\n",
+    "output": "What might be?\n"
+  },
+  {
+    "input": "What might be?\n",
+    "output": "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth! Our drone flew! The battery was drained! The SD card was erased! Butters was the only other person who had access to it! Butters can't use the drone without my supervision! So where does that leave us, Randy??\n"
+  },
+  {
+    "input": "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth! Our drone flew! The battery was drained! The SD card was erased! Butters was the only other person who had access to it! Butters can't use the drone without my supervision! So where does that leave us, Randy??\n",
+    "output": "...Drones are spooky?\n"
+  },
+  {
+    "input": "...Drones are spooky?\n",
+    "output": "If they have minds of their own, they're more than spooky! I don't know about you, but I'm starting to feel pretty unenthused about this hobby.\n[News 4 news break.]\n"
+  },
+  {
+    "input": "If they have minds of their own, they're more than spooky! I don't know about you, but I'm starting to feel pretty unenthused about this hobby.\n[News 4 news break.]\n",
+    "output": "The town of South Park has become a hotbed of tension with civilians lashing out at police. After police used excessive force at a peaceful protest, the town has now broken out into full-scale riots. [sure enough, there are riots all over the place, but no humans are rioting. It's all the drones. One drone crashes into a building, then bounces off it and into a car through the windshield. Another drown crashes through Tele's display window and two others make off with a flatscreen TV] As the people of South Park continue to protest, the South Park police are now ordering a mandatory reverse curfew. The governor has asked for help from the National Guard to bring order to the town.\n[South Park, day. National Guard drones begin flying into town. In one house, a woman goes to undress. A drone stops by to get a closer look, and a second one joins it, then they both fly off. The woman hears the buzzing and looks out her window.]\n[20/20 preview]\n"
+  },
+  {
+    "input": "The town of South Park has become a hotbed of tension with civilians lashing out at police. After police used excessive force at a peaceful protest, the town has now broken out into full-scale riots. [sure enough, there are riots all over the place, but no humans are rioting. It's all the drones. One drone crashes into a building, then bounces off it and into a car through the windshield. Another drown crashes through Tele's display window and two others make off with a flatscreen TV] As the people of South Park continue to protest, the South Park police are now ordering a mandatory reverse curfew. The governor has asked for help from the National Guard to bring order to the town.\n[South Park, day. National Guard drones begin flying into town. In one house, a woman goes to undress. A drone stops by to get a closer look, and a second one joins it, then they both fly off. The woman hears the buzzing and looks out her window.]\n[20/20 preview]\n",
+    "output": "Tonight on an all-new 20/20. [a Viper probe droid appears onscreen...] A town in crisis over the matter of privacy. [...and gets a red \"NO\" circle stamped on it] Now for the first time we sit down and talk to the mom behind the bush.\n[The Tucker house. A 20/20 reporter is interviewing Thomas and Laura in low light]\n"
+  },
+  {
+    "input": "Tonight on an all-new 20/20. [a Viper probe droid appears onscreen...] A town in crisis over the matter of privacy. [...and gets a red \"NO\" circle stamped on it] Now for the first time we sit down and talk to the mom behind the bush.\n[The Tucker house. A 20/20 reporter is interviewing Thomas and Laura in low light]\n",
+    "output": "You've become sort of a poster child for privacy and drone issues.\n"
+  },
+  {
+    "input": "You've become sort of a poster child for privacy and drone issues.\n",
+    "output": "I don't think anyone wants to live in a world where police drones are monitoring Neighborhood Watch drones. I mean, where does it stop?\n"
+  },
+  {
+    "input": "I don't think anyone wants to live in a world where police drones are monitoring Neighborhood Watch drones. I mean, where does it stop?\n",
+    "output": "It just... keeps going on and on. Kind of like your... [Laura gets mad] I mean... it just... goes outside what most people would call... acceptable.\n"
+  },
+  {
+    "input": "It just... keeps going on and on. Kind of like your... [Laura gets mad] I mean... it just... goes outside what most people would call... acceptable.\n",
+    "output": "Have you ever seen pictures of naked women before 2005?! It's not that weird!\n"
+  },
+  {
+    "input": "Have you ever seen pictures of naked women before 2005?! It's not that weird!\n",
+    "output": "It's okay, honey.\n"
+  },
+  {
+    "input": "It's okay, honey.\n",
+    "output": "I didn't see the video. I don't believe in doing that, but uh... I'm just saying that... the situation in in your town is... unwieldy? [the power begins to flicker and on monitors everywhere the image of Stephen appears, with Butters behind him. Stephen now has facial hair and a paranoid look about him]\n"
+  },
+  {
+    "input": "I didn't see the video. I don't believe in doing that, but uh... I'm just saying that... the situation in in your town is... unwieldy? [the power begins to flicker and on monitors everywhere the image of Stephen appears, with Butters behind him. Stephen now has facial hair and a paranoid look about him]\n",
+    "output": "Please do not adjust your televisions!\n"
+  },
+  {
+    "input": "Please do not adjust your televisions!\n",
+    "output": "What is that?\n"
+  },
+  {
+    "input": "What is that?\n",
+    "output": "My name is Stephen Willis Stotch. The drone that took the video of Craig's mom... was my drone. I didn't want to believe it, but they do things without us knowing. At this point, I have completely lost all enthusiasm for the hobby. [a shot of Gerald and Sheila in bed with their glasses of wine and their controllers] All of you with drones, please listen to me. Three days ago my drone recorded a video that something uploaded to the Internet. We all were told to respectfully not watch the video. But on the page, [holds up a printout of the YouTube page] it has over three hundred million views, so if none of us watched it, who did? [a shot of Gerald and Sheila, then Steve and Linda] We have to find a way to get rid of them! Before they get rid of us!\n[Cartman's house, day. His doorbell rings and he goes to answer it. It's Butters, and behind him are police drones and National Guard drones]\n"
+  },
+  {
+    "input": "My name is Stephen Willis Stotch. The drone that took the video of Craig's mom... was my drone. I didn't want to believe it, but they do things without us knowing. At this point, I have completely lost all enthusiasm for the hobby. [a shot of Gerald and Sheila in bed with their glasses of wine and their controllers] All of you with drones, please listen to me. Three days ago my drone recorded a video that something uploaded to the Internet. We all were told to respectfully not watch the video. But on the page, [holds up a printout of the YouTube page] it has over three hundred million views, so if none of us watched it, who did? [a shot of Gerald and Sheila, then Steve and Linda] We have to find a way to get rid of them! Before they get rid of us!\n[Cartman's house, day. His doorbell rings and he goes to answer it. It's Butters, and behind him are police drones and National Guard drones]\n",
+    "output": "Oh hey Butters. Sup?\n"
+  },
+  {
+    "input": "Oh hey Butters. Sup?\n",
+    "output": "Do you remember when I showed you the video of the little bird eggs? Well that's the last time I felt happy.\n"
+  },
+  {
+    "input": "Do you remember when I showed you the video of the little bird eggs? Well that's the last time I felt happy.\n",
+    "output": "Dude, what's the matter?\n"
+  },
+  {
+    "input": "Dude, what's the matter?\n",
+    "output": "I have to tell the truth. I want you and Kenny to come with me and tell Craig's mom we're sorry and that we'll-\n"
+  },
+  {
+    "input": "I have to tell the truth. I want you and Kenny to come with me and tell Craig's mom we're sorry and that we'll-\n",
+    "output": "Okay okay okay. Come inside, there's drones out here. [takes Butters in and closes the door]\n"
+  },
+  {
+    "input": "Okay okay okay. Come inside, there's drones out here. [takes Butters in and closes the door]\n",
+    "output": "I don't want anymore discussions, Eric! I don't want anymore excuses!\n"
+  },
+  {
+    "input": "I don't want anymore discussions, Eric! I don't want anymore excuses!\n",
+    "output": "Butters.\n"
+  },
+  {
+    "input": "Butters.\n",
+    "output": "I just want to end this so we can take our punishment and be done with it!\n"
+  },
+  {
+    "input": "I just want to end this so we can take our punishment and be done with it!\n",
+    "output": "[while Butters speaks] Okay. Okay. Butters, Butters.\n"
+  },
+  {
+    "input": "[while Butters speaks] Okay. Okay. Butters, Butters.\n",
+    "output": "I don't want all these drones everywhere! Nobody does!\n"
+  },
+  {
+    "input": "I don't want all these drones everywhere! Nobody does!\n",
+    "output": "Butters. BUTTERS. All right, all right Butters, fine! I have a way that we can get rid of all the drones.\n"
+  },
+  {
+    "input": "Butters. BUTTERS. All right, all right Butters, fine! I have a way that we can get rid of all the drones.\n",
+    "output": "You do?\n"
+  },
+  {
+    "input": "You do?\n",
+    "output": "Yes. Everyone is sick of it, it's just that everyone is waiting for everyone else to stop. We can put an end to it all tonight. We're just gonna need one thing.\n"
+  },
+  {
+    "input": "Yes. Everyone is sick of it, it's just that everyone is waiting for everyone else to stop. We can put an end to it all tonight. We're just gonna need one thing.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Your dad's drone.\n"
+  },
+  {
+    "input": "Your dad's drone.\n",
+    "output": "NO! There is NO WAY I'm gonna-\n"
+  },
+  {
+    "input": "NO! There is NO WAY I'm gonna-\n",
+    "output": "Butters. Butters Butters! Jennifer Lawrence's butthole didn't take picture of itself! It started with her! Right? Just like this started with you spying on birds! Now I'm willing to bail you out of all this, but I swear it's the last time! Okay?!\n"
+  },
+  {
+    "input": "Butters. Butters Butters! Jennifer Lawrence's butthole didn't take picture of itself! It started with her! Right? Just like this started with you spying on birds! Now I'm willing to bail you out of all this, but I swear it's the last time! Okay?!\n",
+    "output": "...Okay.\n[Butters' house, night. Stephen is at the sofa preparing a sizeable bomb. He's soldering the ends of a cable together, then takes a sip of spirits, then picks up a grenade launcher and pops a grenade in place. He stands up]\n"
+  },
+  {
+    "input": "...Okay.\n[Butters' house, night. Stephen is at the sofa preparing a sizeable bomb. He's soldering the ends of a cable together, then takes a sip of spirits, then picks up a grenade launcher and pops a grenade in place. He stands up]\n",
+    "output": "Time to end this hobby once and for all! [he moves stealthily to his garage, opens the door, and jumps in ready to blow his drone up, but finds it missing again] No! NOOOO!\n[Cartman's house. Kenny is back with Butters and Cartman as Cartman gets ready to execute his next big idea.]\n"
+  },
+  {
+    "input": "Time to end this hobby once and for all! [he moves stealthily to his garage, opens the door, and jumps in ready to blow his drone up, but finds it missing again] No! NOOOO!\n[Cartman's house. Kenny is back with Butters and Cartman as Cartman gets ready to execute his next big idea.]\n",
+    "output": "[with the controller] Alright, we've got power. Prepare for takeoff.\n"
+  },
+  {
+    "input": "[with the controller] Alright, we've got power. Prepare for takeoff.\n",
+    "output": "If this doesn't work, we're dead.\n"
+  },
+  {
+    "input": "If this doesn't work, we're dead.\n",
+    "output": "It'll work, Butters. If there's one thing we've learned, it's that drones can't resist Craig's mom. [he gets the drone going. It rises, pulling behind it a blow-up doll made to resemble Laura, with a large bushy wig over the crotch. The drone and doll hover away from Cartman's house.]\n[Park County Police Station, night. The police drones, some with shields, hover over the civilian drones. A news drone flies by. Both sides jockey for positions, but then notice the National Guard drones arriving. One of the civilian drones then notices the sex doll floating by. The doll floats up to the police drones and National Guard drones and they take notice too. The doll floats away and all the drones, civilian, police, and National Guard, follow. The doll floats through the town gathering more and more drones. It goes over the bridge and across Stark's Pond, luring all the drones away. Where they ended up is anybody's guess.]\n[A convention room, night, several days later. Stephen Stotch is at the podium with the rest of the town seated at tables. Everyone is applauding the Tuckers, but Laura isn't pleased.]\n"
+  },
+  {
+    "input": "It'll work, Butters. If there's one thing we've learned, it's that drones can't resist Craig's mom. [he gets the drone going. It rises, pulling behind it a blow-up doll made to resemble Laura, with a large bushy wig over the crotch. The drone and doll hover away from Cartman's house.]\n[Park County Police Station, night. The police drones, some with shields, hover over the civilian drones. A news drone flies by. Both sides jockey for positions, but then notice the National Guard drones arriving. One of the civilian drones then notices the sex doll floating by. The doll floats up to the police drones and National Guard drones and they take notice too. The doll floats away and all the drones, civilian, police, and National Guard, follow. The doll floats through the town gathering more and more drones. It goes over the bridge and across Stark's Pond, luring all the drones away. Where they ended up is anybody's guess.]\n[A convention room, night, several days later. Stephen Stotch is at the podium with the rest of the town seated at tables. Everyone is applauding the Tuckers, but Laura isn't pleased.]\n",
+    "output": "We're here tonight to pay tribute to a woman who overcame humiliation, who rose above the monsters invading her privacy and said \"No more!\" Just when it seemed that we were about to live in a world controlled by drones, she did something miraculous. And someday, our children's children will still be telling stories about how Craig' mom flew through the town and led all the drones away. [more applause, and Laura buries her face in her right hand. A minstrel with lute comes out to sing Laura's praises]\n"
+  },
+  {
+    "input": "We're here tonight to pay tribute to a woman who overcame humiliation, who rose above the monsters invading her privacy and said \"No more!\" Just when it seemed that we were about to live in a world controlled by drones, she did something miraculous. And someday, our children's children will still be telling stories about how Craig' mom flew through the town and led all the drones away. [more applause, and Laura buries her face in her right hand. A minstrel with lute comes out to sing Laura's praises]\n",
+    "output": "Have you heard the tale of Craig's mom's bush\nAnd the night that it saved us from drones?\nNobody knew the power it had.\nThey just thought it was shaggy and gross.\nCraig's mom live a life of shame and despair\nEveryone feared her great giant bush!\n"
+  },
+  {
+    "input": "Have you heard the tale of Craig's mom's bush\nAnd the night that it saved us from drones?\nNobody knew the power it had.\nThey just thought it was shaggy and gross.\nCraig's mom live a life of shame and despair\nEveryone feared her great giant bush!\n",
+    "output": "They didn't!\n"
+  },
+  {
+    "input": "They didn't!\n",
+    "output": "But then when drones were filling the sky,\nShe unfurled her bush and she used it to fly.\nCraig's mom's bush, Craig's mom's bush.\nGargantuan thicket of madness.\nBigger than earth and denser than gold.\nTruly a magical bush to behold.\n[Butters' and Cartman's table. Butters is a bit distraught. The minstrel continues with the lute and some whistling]\n"
+  },
+  {
+    "input": "But then when drones were filling the sky,\nShe unfurled her bush and she used it to fly.\nCraig's mom's bush, Craig's mom's bush.\nGargantuan thicket of madness.\nBigger than earth and denser than gold.\nTruly a magical bush to behold.\n[Butters' and Cartman's table. Butters is a bit distraught. The minstrel continues with the lute and some whistling]\n",
+    "output": "Well, you see, Butters, everything worked out. [Butters doesn't respond] \"Oh, thank you, Eric. I screwed up everything, but now everyone's happy. Thanks for covering my ass.\"\n"
+  },
+  {
+    "input": "Well, you see, Butters, everything worked out. [Butters doesn't respond] \"Oh, thank you, Eric. I screwed up everything, but now everyone's happy. Thanks for covering my ass.\"\n",
+    "output": "Craig's mom doesn't seem very happy.\n"
+  },
+  {
+    "input": "Craig's mom doesn't seem very happy.\n",
+    "output": "[taken aback, then sighs] Alright, I have a way that we can make Craig's mom happy.\n"
+  },
+  {
+    "input": "[taken aback, then sighs] Alright, I have a way that we can make Craig's mom happy.\n",
+    "output": "No! No, no! I'm sorry. Thank you, Eric! I screwed up everything, but now everyone's happy! Thanks for covering my ass!\n"
+  },
+  {
+    "input": "No! No, no! I'm sorry. Thank you, Eric! I screwed up everything, but now everyone's happy! Thanks for covering my ass!\n",
+    "output": "You're welcome. [the minstrel begins to sing again]\n"
+  }
+]

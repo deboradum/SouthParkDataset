@@ -1,0 +1,898 @@
+[
+  {
+    "input": "",
+    "output": "Crippled Summer\n\n"
+  },
+  {
+    "input": "Crippled Summer\n\n",
+    "output": "This program contains subject matter\nand language that might be disturbing to some viewers.\nViewer discretion is advised.\n"
+  },
+  {
+    "input": "This program contains subject matter\nand language that might be disturbing to some viewers.\nViewer discretion is advised.\n",
+    "output": "[walking down the street being friendly] Hey everybody, how's it goin'?\n[The Towel]\n[The Drug Addict]\n"
+  },
+  {
+    "input": "[walking down the street being friendly] Hey everybody, how's it goin'?\n[The Towel]\n[The Drug Addict]\n",
+    "output": "[taking a hit from a bong] I just... I just can't seem to stop.\n[Towelie has agreed to be in a\ndocumentary about addiction]\n"
+  },
+  {
+    "input": "[taking a hit from a bong] I just... I just can't seem to stop.\n[Towelie has agreed to be in a\ndocumentary about addiction]\n",
+    "output": "Hey you! You goin' swimmin'? Don't forget to bring a towel. [coughs]\n[He does not know he is about\nto face an intervention]\n"
+  },
+  {
+    "input": "Hey you! You goin' swimmin'? Don't forget to bring a towel. [coughs]\n[He does not know he is about\nto face an intervention]\n",
+    "output": "[stumbling around, tattered and wasted] Get out of my face! Get out of here! [runs at the camera and shoves it out of his face. The camera spins around in a blur of lights]\n[Intervention]\n"
+  },
+  {
+    "input": "[stumbling around, tattered and wasted] Get out of my face! Get out of here! [runs at the camera and shoves it out of his face. The camera spins around in a blur of lights]\n[Intervention]\n",
+    "output": "[in studio] My name is Towelie. T O W E L uh-Y E Y. I'm great at cleanin' up spills. [a man spills his drink in a mall and Towelie throws himself at it, soaking it up. Next, he sends himself into a washing machine at a laundromat] And I'm 100% machine washable. I'm just... an ordinary towel, in a lot of ways. [hangs himself up to dry on a clothesline in someone's backyard] Except for one. [back to the studio] I'm addicted to marijuana. And crystal meth. ...aaand crack. [next scene is a wasted Towelie taking another hit from his bong]\n[Nine years ago Towlie started\nsmoking marijuana. Two years later he started\nexperimenting with crystal meth.]\n"
+  },
+  {
+    "input": "[in studio] My name is Towelie. T O W E L uh-Y E Y. I'm great at cleanin' up spills. [a man spills his drink in a mall and Towelie throws himself at it, soaking it up. Next, he sends himself into a washing machine at a laundromat] And I'm 100% machine washable. I'm just... an ordinary towel, in a lot of ways. [hangs himself up to dry on a clothesline in someone's backyard] Except for one. [back to the studio] I'm addicted to marijuana. And crystal meth. ...aaand crack. [next scene is a wasted Towelie taking another hit from his bong]\n[Nine years ago Towlie started\nsmoking marijuana. Two years later he started\nexperimenting with crystal meth.]\n",
+    "output": "[scorched and wasted, walks down the street] Hey buddy, want your dick sucked? [bends over for a moment] Does anybody want their dick sucked by a towel?\n"
+  },
+  {
+    "input": "[scorched and wasted, walks down the street] Hey buddy, want your dick sucked? [bends over for a moment] Does anybody want their dick sucked by a towel?\n",
+    "output": "Towelie has become a complete nightmare in our town! He's broken into my house twice, and stolen my allowance! I-I've got almost nothing left!\n"
+  },
+  {
+    "input": "Towelie has become a complete nightmare in our town! He's broken into my house twice, and stolen my allowance! I-I've got almost nothing left!\n",
+    "output": "If we're playing outside he shows up completely wasted and, and screaming how the government is following 'im.\n"
+  },
+  {
+    "input": "If we're playing outside he shows up completely wasted and, and screaming how the government is following 'im.\n",
+    "output": "[cries, taking a tissue from the box next to him] Why I, I just don't wanna watch him kill himself... I don't even know who he is anymore!\n"
+  },
+  {
+    "input": "[cries, taking a tissue from the box next to him] Why I, I just don't wanna watch him kill himself... I don't even know who he is anymore!\n",
+    "output": "There's noo doubt in my mind that if we don't get Towelie help, our entire summer is gonna be ruined! [Towelie is shown lighting a joint as the camera pulls away]\n[A Lake Tardicaca, Camp for the Handicapped, day. It sits by the side of a lake, and disabled campers mill around in it. Some campers sit around a campfire, others help set up tents, still others play in the lake. The following song plays as the scene is established]\n"
+  },
+  {
+    "input": "There's noo doubt in my mind that if we don't get Towelie help, our entire summer is gonna be ruined! [Towelie is shown lighting a joint as the camera pulls away]\n[A Lake Tardicaca, Camp for the Handicapped, day. It sits by the side of a lake, and disabled campers mill around in it. Some campers sit around a campfire, others help set up tents, still others play in the lake. The following song plays as the scene is established]\n",
+    "output": "Are you ready for the summer?\nAre you ready for the good times?\nAre you ready for the birds and bees?\nThe apple trees?\nAnd a whole lot of fooling around?\nAre you ready for the summer?\nAre you ready for the good times?\nAre you ready for the birds and bees?\nThe apple trees?\nAnd a whole lot of fooling around?\nAre you ready for the fireflies,\nthe moonlit skies,\nand a whole lot of fooling around\n[Timmy and Jimmy walk into camp. Jimmy sports some blue sunglasses. Both boys are dressed for swimming]\n"
+  },
+  {
+    "input": "Are you ready for the summer?\nAre you ready for the good times?\nAre you ready for the birds and bees?\nThe apple trees?\nAnd a whole lot of fooling around?\nAre you ready for the summer?\nAre you ready for the good times?\nAre you ready for the birds and bees?\nThe apple trees?\nAnd a whole lot of fooling around?\nAre you ready for the fireflies,\nthe moonlit skies,\nand a whole lot of fooling around\n[Timmy and Jimmy walk into camp. Jimmy sports some blue sunglasses. Both boys are dressed for swimming]\n",
+    "output": "Oh boy, Timmy, it's our favorite time of year.\n"
+  },
+  {
+    "input": "Oh boy, Timmy, it's our favorite time of year.\n",
+    "output": "Timmeh!\n"
+  },
+  {
+    "input": "Timmeh!\n",
+    "output": "We get to see all our old friends again. Hey, there's Francis. Hey Francis!\n"
+  },
+  {
+    "input": "We get to see all our old friends again. Hey, there's Francis. Hey Francis!\n",
+    "output": "[practicing how to light a fire with a stick, a bow, and a small board] Hi Jimmy, hi Tim.\n"
+  },
+  {
+    "input": "[practicing how to light a fire with a stick, a bow, and a small board] Hi Jimmy, hi Tim.\n",
+    "output": "[waves, grinning] Timmy.\n"
+  },
+  {
+    "input": "[waves, grinning] Timmy.\n",
+    "output": "Wow, look at Lenora everyone. [Lenora dog-paddles her way to the shore] Good job. Come on, good job Lenora. Ahahall right, good, let's get Lenora a towel. [Lenora begins to shiver. The song ends at this point] Come on, come on, where's the towel?\n"
+  },
+  {
+    "input": "Wow, look at Lenora everyone. [Lenora dog-paddles her way to the shore] Good job. Come on, good job Lenora. Ahahall right, good, let's get Lenora a towel. [Lenora begins to shiver. The song ends at this point] Come on, come on, where's the towel?\n",
+    "output": "[looks inside the towel cart] The towel isn't here. I think it's off getting high again.\n[For the past week Towelie has\nbeen working at a summer camp for handicapped children.\nHe has been given warnings\nfor getting high fourteen times.]\n[Towelie is tying a rubber band around his upper right arm, preparing to inject himself]\n"
+  },
+  {
+    "input": "[looks inside the towel cart] The towel isn't here. I think it's off getting high again.\n[For the past week Towelie has\nbeen working at a summer camp for handicapped children.\nHe has been given warnings\nfor getting high fourteen times.]\n[Towelie is tying a rubber band around his upper right arm, preparing to inject himself]\n",
+    "output": "[walks nearby looking for him] Hey! [startled, Towelie lets the rubber band snap off and fall to the ground] Where is that towel?!\n"
+  },
+  {
+    "input": "[walks nearby looking for him] Hey! [startled, Towelie lets the rubber band snap off and fall to the ground] Where is that towel?!\n",
+    "output": "Oh yeah, just a sec. [the specialist sees him]\n"
+  },
+  {
+    "input": "Oh yeah, just a sec. [the specialist sees him]\n",
+    "output": "[in studio] We went out and got Towelie a job so he could try to pay us back all the money he owes us! [crosses his arms] Stupid towel!\n"
+  },
+  {
+    "input": "[in studio] We went out and got Towelie a job so he could try to pay us back all the money he owes us! [crosses his arms] Stupid towel!\n",
+    "output": "[now next to Towelie] What's going on, Towel?\n"
+  },
+  {
+    "input": "[now next to Towelie] What's going on, Towel?\n",
+    "output": "Oh yeah I just had to take a piss. Sorry.\n"
+  },
+  {
+    "input": "Oh yeah I just had to take a piss. Sorry.\n",
+    "output": "We got wet campers down there! Move your ass!\n"
+  },
+  {
+    "input": "We got wet campers down there! Move your ass!\n",
+    "output": "[in studio] When Towelie is doing heroin, he doesn't care about anything.\n"
+  },
+  {
+    "input": "[in studio] When Towelie is doing heroin, he doesn't care about anything.\n",
+    "output": "[now wasted and tattered] I don't care about anything. Stupid... handicapped... camp. [walks by a campfire circle where Jimmy is holding court with his team]\n"
+  },
+  {
+    "input": "[now wasted and tattered] I don't care about anything. Stupid... handicapped... camp. [walks by a campfire circle where Jimmy is holding court with his team]\n",
+    "output": "Alright blue team. As team captain, I need to make sure we are ready for the big camp competition.\n"
+  },
+  {
+    "input": "Alright blue team. As team captain, I need to make sure we are ready for the big camp competition.\n",
+    "output": "Oh we're weady aww wight. We can weawwy stick it to the wed team this yeaw, wahahahaha.\n"
+  },
+  {
+    "input": "Oh we're weady aww wight. We can weawwy stick it to the wed team this yeaw, wahahahaha.\n",
+    "output": "No way, Red Team can beat us, no way. Haha, hahaha.\n"
+  },
+  {
+    "input": "No way, Red Team can beat us, no way. Haha, hahaha.\n",
+    "output": "Red Team won't know what hit them.\n"
+  },
+  {
+    "input": "Red Team won't know what hit them.\n",
+    "output": "All right! Everyone together! Are we gonna beat Red Team this year?\n"
+  },
+  {
+    "input": "All right! Everyone together! Are we gonna beat Red Team this year?\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Timmy!\n"
+  },
+  {
+    "input": "Timmy!\n",
+    "output": "Yeah! [a couple of members go on separately] Alright!\n[Nearby, Nathan and a huge boy listen in]\n"
+  },
+  {
+    "input": "Yeah! [a couple of members go on separately] Alright!\n[Nearby, Nathan and a huge boy listen in]\n",
+    "output": "I can't stand him, Mimsy. That Jimmy kid makes my fuckin... skin crawl.\n"
+  },
+  {
+    "input": "I can't stand him, Mimsy. That Jimmy kid makes my fuckin... skin crawl.\n",
+    "output": "Duhh you always hated Jimmy, boss. Ever since he whooped you at soifin' last summer camp, he really took it to you good, haha.\n"
+  },
+  {
+    "input": "Duhh you always hated Jimmy, boss. Ever since he whooped you at soifin' last summer camp, he really took it to you good, haha.\n",
+    "output": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy!\n"
+  },
+  {
+    "input": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy!\n",
+    "output": "Doh, sorry, boss.\n"
+  },
+  {
+    "input": "Doh, sorry, boss.\n",
+    "output": "Listen to me: there is no way that Blue Team is gonna beat Red Team this year at camp. You got that?\n[Blue Team has beaten Red Team\nthe past three summers at Lake Tardicaca.\nThe three legged race is Blue\nTeam's best event.]\n"
+  },
+  {
+    "input": "Listen to me: there is no way that Blue Team is gonna beat Red Team this year at camp. You got that?\n[Blue Team has beaten Red Team\nthe past three summers at Lake Tardicaca.\nThe three legged race is Blue\nTeam's best event.]\n",
+    "output": "What we need to do, Mimsy, is use a little brainpower to make sure Blue Team can't compete.\n"
+  },
+  {
+    "input": "What we need to do, Mimsy, is use a little brainpower to make sure Blue Team can't compete.\n",
+    "output": "Oh boy, we're gonna ruin Blue Team's chances, huh? We're gonna break their legs or somethin', boss?\n"
+  },
+  {
+    "input": "Oh boy, we're gonna ruin Blue Team's chances, huh? We're gonna break their legs or somethin', boss?\n",
+    "output": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy! Just do what I say, and we can make sure Jimmy Valmer gets what's comin' to him.\n[Specialist 1 has applied Towelie to Lenora, and Towelie gets her dry.]\n"
+  },
+  {
+    "input": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy! Just do what I say, and we can make sure Jimmy Valmer gets what's comin' to him.\n[Specialist 1 has applied Towelie to Lenora, and Towelie gets her dry.]\n",
+    "output": "There you go, Lenora, all better now?\n"
+  },
+  {
+    "input": "There you go, Lenora, all better now?\n",
+    "output": "Yes, thanks.\n"
+  },
+  {
+    "input": "Yes, thanks.\n",
+    "output": "That's right. When you go swimmin', don't forget to bring a... [throws up all over Lenora]\n"
+  },
+  {
+    "input": "That's right. When you go swimmin', don't forget to bring a... [throws up all over Lenora]\n",
+    "output": "Uhhh!\n"
+  },
+  {
+    "input": "Uhhh!\n",
+    "output": "Who hired that towel? It can barely walk, let alone dry somebody off.\n"
+  },
+  {
+    "input": "Who hired that towel? It can barely walk, let alone dry somebody off.\n",
+    "output": "[picking a fight] You think you're better than me? Huh?! You think you're fuckin' hot shit?!\n"
+  },
+  {
+    "input": "[picking a fight] You think you're better than me? Huh?! You think you're fuckin' hot shit?!\n",
+    "output": "[in studio] A lot of times, when Towelie shoots heroin he just... gets angry at everybody.\n"
+  },
+  {
+    "input": "[in studio] A lot of times, when Towelie shoots heroin he just... gets angry at everybody.\n",
+    "output": "You can all suck it! You're all, you're all a bunch of towels, that's what you are! [walks off in disgust]\n"
+  },
+  {
+    "input": "You can all suck it! You're all, you're all a bunch of towels, that's what you are! [walks off in disgust]\n",
+    "output": "[in studio, sobbing] The thing is, Towelie was pretty happy before. He had a girlfriend he liked. [a picture of the couple is shown, but her face is blurry. The picture was taken at a restaurant booth] And then she got pregnant and had a little washcloth. [A picture of the three of them at the hospital. She shows off Washcloth, but her face is still blurry] Mm but then Towelie just kept gettin' more and more high, and he got kicked out of the house.\n"
+  },
+  {
+    "input": "[in studio, sobbing] The thing is, Towelie was pretty happy before. He had a girlfriend he liked. [a picture of the couple is shown, but her face is blurry. The picture was taken at a restaurant booth] And then she got pregnant and had a little washcloth. [A picture of the three of them at the hospital. She shows off Washcloth, but her face is still blurry] Mm but then Towelie just kept gettin' more and more high, and he got kicked out of the house.\n",
+    "output": "[wasted. wandering in the woods] Fuck you! Let me talk to 'im! Let me talk to 'im, you bitch!\n[Towelie is attempting to talk\nto his son.\nHis ex-wife will not let her son\ntalk to Towelie when he is high.]\n"
+  },
+  {
+    "input": "[wasted. wandering in the woods] Fuck you! Let me talk to 'im! Let me talk to 'im, you bitch!\n[Towelie is attempting to talk\nto his son.\nHis ex-wife will not let her son\ntalk to Towelie when he is high.]\n",
+    "output": "No! I'm not high! I haven't been high since Wednesday! [the anger leaves his face] Oh. Oh it is Wednesday?\n[Camp Tardicaca, day. One of the specialists stands next to an event scoreboard with ten events listed]\n"
+  },
+  {
+    "input": "No! I'm not high! I haven't been high since Wednesday! [the anger leaves his face] Oh. Oh it is Wednesday?\n[Camp Tardicaca, day. One of the specialists stands next to an event scoreboard with ten events listed]\n",
+    "output": "[over the megaphone] All right, campers! Our first event is the big canoe race!\n"
+  },
+  {
+    "input": "[over the megaphone] All right, campers! Our first event is the big canoe race!\n",
+    "output": "Oh boy, the canoe races! Heeee! [the team turns right and walks away]\n"
+  },
+  {
+    "input": "Oh boy, the canoe races! Heeee! [the team turns right and walks away]\n",
+    "output": "We gotta be uh bitty bitty uh we uh we gotta be we gotta be uh we gotta bibbity beat the Red Team. [turns and walks off with the others. Nearby, Nathan and Mimsy listen in again]\n"
+  },
+  {
+    "input": "We gotta be uh bitty bitty uh we uh we gotta be we gotta be uh we gotta bibbity beat the Red Team. [turns and walks off with the others. Nearby, Nathan and Mimsy listen in again]\n",
+    "output": "I've got it, Mimsy. I got a way to win the race and get rid of Jimmy for good.\n"
+  },
+  {
+    "input": "I've got it, Mimsy. I got a way to win the race and get rid of Jimmy for good.\n",
+    "output": "Darrr, oh boy, what are we gonna do, boss?\n"
+  },
+  {
+    "input": "Darrr, oh boy, what are we gonna do, boss?\n",
+    "output": "Simple, Mimsy. [pulls out a bag with something in it] We're gonna put a little surprise in the canoe.\n"
+  },
+  {
+    "input": "Simple, Mimsy. [pulls out a bag with something in it] We're gonna put a little surprise in the canoe.\n",
+    "output": "Doh, dohhh, what kind of surprise uh? [Nathan pulls a snake out of the bag by its head] Oh! It's a snake.\n"
+  },
+  {
+    "input": "Doh, dohhh, what kind of surprise uh? [Nathan pulls a snake out of the bag by its head] Oh! It's a snake.\n",
+    "output": "Not just any snake, Mimsy. It's a Black Mamba.\n[The Black Mamba is the deadliest\nsnake known to man.\nThe odds of surviving a Black Mamba in your canoe\nare 546 to 1.]\n"
+  },
+  {
+    "input": "Not just any snake, Mimsy. It's a Black Mamba.\n[The Black Mamba is the deadliest\nsnake known to man.\nThe odds of surviving a Black Mamba in your canoe\nare 546 to 1.]\n",
+    "output": "Aww, dah, gee whiz boss, we're gonna kill all the Blue Team and Jimmy, huh? [Nathan shushes him]\n"
+  },
+  {
+    "input": "Aww, dah, gee whiz boss, we're gonna kill all the Blue Team and Jimmy, huh? [Nathan shushes him]\n",
+    "output": "You boys excited for the canoe race?\n"
+  },
+  {
+    "input": "You boys excited for the canoe race?\n",
+    "output": "Yes, counselor Steve. I like the fun canoe.\n"
+  },
+  {
+    "input": "Yes, counselor Steve. I like the fun canoe.\n",
+    "output": "[encouraged] Canoes are fun, aren't they? [walks away]\n"
+  },
+  {
+    "input": "[encouraged] Canoes are fun, aren't they? [walks away]\n",
+    "output": "[now that the counselor is gone...] Now take the Black Mamba, [hands the bag to Mimsy] Mimsy, and put it in the canoe. I'm gonna go get our team ready.\n[The teams have sat down inside their canoes]\n"
+  },
+  {
+    "input": "[now that the counselor is gone...] Now take the Black Mamba, [hands the bag to Mimsy] Mimsy, and put it in the canoe. I'm gonna go get our team ready.\n[The teams have sat down inside their canoes]\n",
+    "output": "All right, campers are we ready?\n"
+  },
+  {
+    "input": "All right, campers are we ready?\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Good luck, Jimmy.\n"
+  },
+  {
+    "input": "Good luck, Jimmy.\n",
+    "output": "You too, Ne-n-Nathan.\n"
+  },
+  {
+    "input": "You too, Ne-n-Nathan.\n",
+    "output": "You're gonna need it, you fuckin' asshole.\n"
+  },
+  {
+    "input": "You're gonna need it, you fuckin' asshole.\n",
+    "output": "Oh your mark, get set. [another specialist shoots off her gun, and both boats take off. Nathan switches his oar to his right side, but notices something on the floor: the Black Mamba Mimsy was to put in the other canoe.]\n"
+  },
+  {
+    "input": "Oh your mark, get set. [another specialist shoots off her gun, and both boats take off. Nathan switches his oar to his right side, but notices something on the floor: the Black Mamba Mimsy was to put in the other canoe.]\n",
+    "output": "Aaah! Holy shit, Mimsy! What the hell did you do?!\n"
+  },
+  {
+    "input": "Aaah! Holy shit, Mimsy! What the hell did you do?!\n",
+    "output": "Darrr, you said to put the Black Mamba in the canoe, boss.\n"
+  },
+  {
+    "input": "Darrr, you said to put the Black Mamba in the canoe, boss.\n",
+    "output": "[shakes his fist] Not in our canoe, Mimsy!\n[Mimsy has put the Black Mamba\nsnake in the wrong canoe.\nThe odds of the Red Team winning the canoe race\nare now 1 in 19.]\n[Nathan's crew begins to bail on him, allowing the Blue Team to win this event]\n"
+  },
+  {
+    "input": "[shakes his fist] Not in our canoe, Mimsy!\n[Mimsy has put the Black Mamba\nsnake in the wrong canoe.\nThe odds of the Red Team winning the canoe race\nare now 1 in 19.]\n[Nathan's crew begins to bail on him, allowing the Blue Team to win this event]\n",
+    "output": "We crossth the finish line firsht!\n[Lake Tardicaca. Steve rushes to a supply shack to get Towelie]\n"
+  },
+  {
+    "input": "We crossth the finish line firsht!\n[Lake Tardicaca. Steve rushes to a supply shack to get Towelie]\n",
+    "output": "[tries to open the door, but finds it locked] Heeey. Hey, we need a towel! [pounds on the door]\n"
+  },
+  {
+    "input": "[tries to open the door, but finds it locked] Heeey. Hey, we need a towel! [pounds on the door]\n",
+    "output": "Uh, oh, um, uh, just a sec!\n"
+  },
+  {
+    "input": "Uh, oh, um, uh, just a sec!\n",
+    "output": "Not just a sec! We've got a whole lot of wet campers down there! [tries to get the door open by throwing himself at it a few times] What's going on?! [kicks the door in and is instantly shocked at what he sees: Towelie on his knees in front of an elderly man who's pulling up his pants]\n[Towelie makes extra money\nfor drugs by offering oral\nsex to older men.]\n[The man rushes out of the shack while the specialist remains speechless]\n"
+  },
+  {
+    "input": "Not just a sec! We've got a whole lot of wet campers down there! [tries to get the door open by throwing himself at it a few times] What's going on?! [kicks the door in and is instantly shocked at what he sees: Towelie on his knees in front of an elderly man who's pulling up his pants]\n[Towelie makes extra money\nfor drugs by offering oral\nsex to older men.]\n[The man rushes out of the shack while the specialist remains speechless]\n",
+    "output": "Hey, you owe me money, asshole!\n[The camp office, later.]\n"
+  },
+  {
+    "input": "Hey, you owe me money, asshole!\n[The camp office, later.]\n",
+    "output": "That's it, we're done! You are no longer employed here!\n"
+  },
+  {
+    "input": "That's it, we're done! You are no longer employed here!\n",
+    "output": "Please, sir.\n"
+  },
+  {
+    "input": "Please, sir.\n",
+    "output": "We need a nice, clean towel here at summer camp. We don't need a towel that shoots heroin and has sex for money!\n"
+  },
+  {
+    "input": "We need a nice, clean towel here at summer camp. We don't need a towel that shoots heroin and has sex for money!\n",
+    "output": "Heh, some people are so picky about their towels.\n[Lake Tardicaca, later.]\n"
+  },
+  {
+    "input": "Heh, some people are so picky about their towels.\n[Lake Tardicaca, later.]\n",
+    "output": "All right campers, next event is the big scavenger hunt! Blue Team is gonna go first. [Nathan and Mimsy stand nearby, overhearing the specialist]\n"
+  },
+  {
+    "input": "All right campers, next event is the big scavenger hunt! Blue Team is gonna go first. [Nathan and Mimsy stand nearby, overhearing the specialist]\n",
+    "output": "I finally got it, Mimsy. I got a way we can kill Jimmy and beat the Blue Team.\n"
+  },
+  {
+    "input": "I finally got it, Mimsy. I got a way we can kill Jimmy and beat the Blue Team.\n",
+    "output": "Oh boy, what are we gonna do to him, huh boss?\n"
+  },
+  {
+    "input": "Oh boy, what are we gonna do to him, huh boss?\n",
+    "output": "Simple. We're gonna get Jimmy killed by Native Americans. [reaches into his back pocket and pulls out a map] Here, take this. [Mimsy takes it and opens it up] It's a fake scavenger hunt map.\n"
+  },
+  {
+    "input": "Simple. We're gonna get Jimmy killed by Native Americans. [reaches into his back pocket and pulls out a map] Here, take this. [Mimsy takes it and opens it up] It's a fake scavenger hunt map.\n",
+    "output": "Dahhh, this map leads to the scavenger hunt?\n"
+  },
+  {
+    "input": "Dahhh, this map leads to the scavenger hunt?\n",
+    "output": "No, that map leads to the Indian reservation. We switch this with Blue Team's scavenger hunting map, and they'll end up right on the Tardicaca Indian Reservation.\n[The Tardicaca Indians are\nextremely protective of their land.\nTrespassing on the Tardicaca Reservation is considered\nextremely dangerous.]\n"
+  },
+  {
+    "input": "No, that map leads to the Indian reservation. We switch this with Blue Team's scavenger hunting map, and they'll end up right on the Tardicaca Indian Reservation.\n[The Tardicaca Indians are\nextremely protective of their land.\nTrespassing on the Tardicaca Reservation is considered\nextremely dangerous.]\n",
+    "output": "Dah-oh boy! We're gonna get Jimmy killed by Indians, huh boss? [again Nathan shushes him as a specialist draws near to them]\n"
+  },
+  {
+    "input": "Dah-oh boy! We're gonna get Jimmy killed by Indians, huh boss? [again Nathan shushes him as a specialist draws near to them]\n",
+    "output": "Are you boys excited for the neat scavenger hunt?\n"
+  },
+  {
+    "input": "Are you boys excited for the neat scavenger hunt?\n",
+    "output": "Yes, Counselor Steve. I like a scavenger hunt. [Steve walks away] Alright Mimsy, now you take this map to the Indian Reservation, and you switch it with Blue Team's map. You got that, Mims? You switch the map! Switch! The map!\n"
+  },
+  {
+    "input": "Yes, Counselor Steve. I like a scavenger hunt. [Steve walks away] Alright Mimsy, now you take this map to the Indian Reservation, and you switch it with Blue Team's map. You got that, Mims? You switch the map! Switch! The map!\n",
+    "output": "I got it, boss. Switch the map. Switch the map. [walks away]\n[Lake Tardicaca, day. Nathan leads his team into the woods for scavenging.]\n"
+  },
+  {
+    "input": "I got it, boss. Switch the map. Switch the map. [walks away]\n[Lake Tardicaca, day. Nathan leads his team into the woods for scavenging.]\n",
+    "output": "Dah how come we're scavenger huntin' now, boss?\n"
+  },
+  {
+    "input": "Dah how come we're scavenger huntin' now, boss?\n",
+    "output": "Because, stupid, now that we have Blue Team's map we can get their scavenger prize too.\n"
+  },
+  {
+    "input": "Because, stupid, now that we have Blue Team's map we can get their scavenger prize too.\n",
+    "output": "Dahhhoh boy!\n[The boys find themselves in a clearing. Nathan takes a look around]\n"
+  },
+  {
+    "input": "Dahhhoh boy!\n[The boys find themselves in a clearing. Nathan takes a look around]\n",
+    "output": "This doesn't make sense. Why would they make us walk this far? We're handicapped. \"Turn left at the...\" Wait. Waitaminute, what? What the? [finds his way onto the Tardicaca Burial Grounds] Oh fuck! Mimsy! This is the map to the Indian Reservation!\n"
+  },
+  {
+    "input": "This doesn't make sense. Why would they make us walk this far? We're handicapped. \"Turn left at the...\" Wait. Waitaminute, what? What the? [finds his way onto the Tardicaca Burial Grounds] Oh fuck! Mimsy! This is the map to the Indian Reservation!\n",
+    "output": "Why sure it is, boss.\n"
+  },
+  {
+    "input": "Why sure it is, boss.\n",
+    "output": "I told you to switch this with the map for the Blue Team!\n"
+  },
+  {
+    "input": "I told you to switch this with the map for the Blue Team!\n",
+    "output": "No, you told me to switch the map, switch the map, so I switched it, and I switched it. [his motions indicate he just flipped the map this way and that]\n"
+  },
+  {
+    "input": "No, you told me to switch the map, switch the map, so I switched it, and I switched it. [his motions indicate he just flipped the map this way and that]\n",
+    "output": "Miiimmmssssyyyy! [all of a sudden, Indians appear on horseback.] Uh, my name is Nathan. I'm disabled. [the Indians fire at him and arrows go flying all over the place. He's struck a few times.] AAAAA!\n[Intervention]\n[Towelie is walking towards a Supply Max store]\n"
+  },
+  {
+    "input": "Miiimmmssssyyyy! [all of a sudden, Indians appear on horseback.] Uh, my name is Nathan. I'm disabled. [the Indians fire at him and arrows go flying all over the place. He's struck a few times.] AAAAA!\n[Intervention]\n[Towelie is walking towards a Supply Max store]\n",
+    "output": "Hey everybody. Let's all go to the office supply store. [inside he grabs as many bottles of computer duster as he can]\n[Towelie has run out of money\nfor hard drugs.\nHe now inhales computer\nduster to get high.]\n"
+  },
+  {
+    "input": "Hey everybody. Let's all go to the office supply store. [inside he grabs as many bottles of computer duster as he can]\n[Towelie has run out of money\nfor hard drugs.\nHe now inhales computer\nduster to get high.]\n",
+    "output": "You must have one dusty computer.\n"
+  },
+  {
+    "input": "You must have one dusty computer.\n",
+    "output": "[irritated] Fuck you! It's not illegal, bitch! [goes to his red car outside, gets in, and closes the door. Inside he takes out a bottle of computer duster and starts sniffing. He goes through bottle after bottle, screwing up his face more and more] I feel like I could conquer the world.\n[Towelie now inhales up\nto 2,000 cans of computer\nduster a day.]\n"
+  },
+  {
+    "input": "[irritated] Fuck you! It's not illegal, bitch! [goes to his red car outside, gets in, and closes the door. Inside he takes out a bottle of computer duster and starts sniffing. He goes through bottle after bottle, screwing up his face more and more] I feel like I could conquer the world.\n[Towelie now inhales up\nto 2,000 cans of computer\nduster a day.]\n",
+    "output": "[taking a short break from his sniffing] It's like I'm walkin' on sunshine.\n"
+  },
+  {
+    "input": "[taking a short break from his sniffing] It's like I'm walkin' on sunshine.\n",
+    "output": "[in studio] I really think this intervention is Towelie's last chance. [at the Supply Max parking lot, walks up and kicks the door on Towelie's car] Towelie! Open the door!\n"
+  },
+  {
+    "input": "[in studio] I really think this intervention is Towelie's last chance. [at the Supply Max parking lot, walks up and kicks the door on Towelie's car] Towelie! Open the door!\n",
+    "output": "Go away! I'm walking on sunshine!\n"
+  },
+  {
+    "input": "Go away! I'm walking on sunshine!\n",
+    "output": "Towelie, I gotta take you somewhere really important!\n"
+  },
+  {
+    "input": "Towelie, I gotta take you somewhere really important!\n",
+    "output": "Jus', just let me walk on the sunshine a little more. [Butters waits]\n[Lake Tardicaca, day. The head specialist comes to announce some results]\n"
+  },
+  {
+    "input": "Jus', just let me walk on the sunshine a little more. [Butters waits]\n[Lake Tardicaca, day. The head specialist comes to announce some results]\n",
+    "output": "[through the megaphone] All right! In the surfing competition, the Red Team is up three points to two. [\"Elmer Fudd\" puts his surfboard away] And now it's Jimmy Valmer's turn. [Jimmy goes out into the open water on his board]\n"
+  },
+  {
+    "input": "[through the megaphone] All right! In the surfing competition, the Red Team is up three points to two. [\"Elmer Fudd\" puts his surfboard away] And now it's Jimmy Valmer's turn. [Jimmy goes out into the open water on his board]\n",
+    "output": "Timmeh!\n"
+  },
+  {
+    "input": "Timmeh!\n",
+    "output": "Gee, I wish our team captain was as awesome as Jimmy. [The camera pans across the dock and on to Nathan and Mimsy]\n"
+  },
+  {
+    "input": "Gee, I wish our team captain was as awesome as Jimmy. [The camera pans across the dock and on to Nathan and Mimsy]\n",
+    "output": "I finally got it, Mimsy. I got a way we can get rid of Jimmy once and for all.\n"
+  },
+  {
+    "input": "I finally got it, Mimsy. I got a way we can get rid of Jimmy once and for all.\n",
+    "output": "Oh boy oh boy! What are we gonna do to him, boss?\n"
+  },
+  {
+    "input": "Oh boy oh boy! What are we gonna do to him, boss?\n",
+    "output": "Simple. We're gonna get Jimmy eaten by a shark. [pulls out a small box in which is a whistle. He opens the box and takes out the whistle, and hads it to Mimsy] Here, take this. [Mimsy takes it, and Nathan puts the box back in his back pocket] It's a shark-mating whistle.\n"
+  },
+  {
+    "input": "Simple. We're gonna get Jimmy eaten by a shark. [pulls out a small box in which is a whistle. He opens the box and takes out the whistle, and hads it to Mimsy] Here, take this. [Mimsy takes it, and Nathan puts the box back in his back pocket] It's a shark-mating whistle.\n",
+    "output": "Dahhh okay boss, a shark-mating whistle. We're gonna hit him over the head with it, huh boss?'\n"
+  },
+  {
+    "input": "Dahhh okay boss, a shark-mating whistle. We're gonna hit him over the head with it, huh boss?'\n",
+    "output": "No, you moron. You go under the water and blow that whistle. You can attract sharks right as Jimmy starts to surf.\n[The Tardicaca shark is the\ndeadliest freshwater shark in Colorado.\nA shark mating whistle can attract the shark from over two miles away.\n* Colorado Department of Wildlife]\n"
+  },
+  {
+    "input": "No, you moron. You go under the water and blow that whistle. You can attract sharks right as Jimmy starts to surf.\n[The Tardicaca shark is the\ndeadliest freshwater shark in Colorado.\nA shark mating whistle can attract the shark from over two miles away.\n* Colorado Department of Wildlife]\n",
+    "output": "Dahhh I've got it boss. I blow the whistle and make the shark come and bite Jimmy's legs off. [getting excited] Then he bleeds to death. He's gonna bleed to death. [Nathan shushes him again as Steve walks by]\n"
+  },
+  {
+    "input": "Dahhh I've got it boss. I blow the whistle and make the shark come and bite Jimmy's legs off. [getting excited] Then he bleeds to death. He's gonna bleed to death. [Nathan shushes him again as Steve walks by]\n",
+    "output": "Are you boys enjoying the fun beach?\n"
+  },
+  {
+    "input": "Are you boys enjoying the fun beach?\n",
+    "output": "Yes, Counselor Steve. The beach is warm. [Steve walks off]\n"
+  },
+  {
+    "input": "Yes, Counselor Steve. The beach is warm. [Steve walks off]\n",
+    "output": "Gee that was a close one, huh boss? They almost had me saying we were gonna kill Jimmy.\n"
+  },
+  {
+    "input": "Gee that was a close one, huh boss? They almost had me saying we were gonna kill Jimmy.\n",
+    "output": "[smacks him with a left hook and then shakes his fist] Shut up, Mimsssyyy! Just swim in the water where Jimmy is, then blow that whistle.\n"
+  },
+  {
+    "input": "[smacks him with a left hook and then shakes his fist] Shut up, Mimsssyyy! Just swim in the water where Jimmy is, then blow that whistle.\n",
+    "output": "Dohh boy! [walks away to complete his mission]\n[On the lake, Jimmy is set to surf to shore. He waits for a wave. On the shore...]\n"
+  },
+  {
+    "input": "Dohh boy! [walks away to complete his mission]\n[On the lake, Jimmy is set to surf to shore. He waits for a wave. On the shore...]\n",
+    "output": "Yeah I don't know, Timmy. Those waves are pretty big, heeeee.\n"
+  },
+  {
+    "input": "Yeah I don't know, Timmy. Those waves are pretty big, heeeee.\n",
+    "output": "Timmih.\n"
+  },
+  {
+    "input": "Timmih.\n",
+    "output": "Uhuhuh. Don't worry, Jimmy can handle himself.\n"
+  },
+  {
+    "input": "Uhuhuh. Don't worry, Jimmy can handle himself.\n",
+    "output": "Gonna catch a wave... [no wave is coming. Underwater, Mimsy swims by]\n"
+  },
+  {
+    "input": "Gonna catch a wave... [no wave is coming. Underwater, Mimsy swims by]\n",
+    "output": "Dahhh I got me a shark whistle.\n"
+  },
+  {
+    "input": "Dahhh I got me a shark whistle.\n",
+    "output": "Oh boy, here it comes! Here it comes! [a wave rises high behind him and lifts him with it, then crashes down over and in front of him]\n"
+  },
+  {
+    "input": "Oh boy, here it comes! Here it comes! [a wave rises high behind him and lifts him with it, then crashes down over and in front of him]\n",
+    "output": "Oh no! Jimmy!\n"
+  },
+  {
+    "input": "Oh no! Jimmy!\n",
+    "output": "Wait, look! He's doing it! [Jimmy rises to the top and the campers cheer. He's doing all the surfing moves. Meanwhile, Mimsy comes out of the water and walks up to Nathan.]\n"
+  },
+  {
+    "input": "Wait, look! He's doing it! [Jimmy rises to the top and the campers cheer. He's doing all the surfing moves. Meanwhile, Mimsy comes out of the water and walks up to Nathan.]\n",
+    "output": "Dohoho, oh boy!\n"
+  },
+  {
+    "input": "Dohoho, oh boy!\n",
+    "output": "Mimsy, you didn't do wha' I told you.\n"
+  },
+  {
+    "input": "Mimsy, you didn't do wha' I told you.\n",
+    "output": "Dahh whattaya mean, boss? You said to swim in the water and to blow the whistle. I swam in the water, so now I'm gonna blow the whistle. [blows hard into the whistle]\n[Mimsy was supposed to blow\nthe shark whistle while still under the water.\nThere appears to have been a\nfundamental misunderstanding.]\n[Mimsy blows the whistle a few more times]\n"
+  },
+  {
+    "input": "Dahh whattaya mean, boss? You said to swim in the water and to blow the whistle. I swam in the water, so now I'm gonna blow the whistle. [blows hard into the whistle]\n[Mimsy was supposed to blow\nthe shark whistle while still under the water.\nThere appears to have been a\nfundamental misunderstanding.]\n[Mimsy blows the whistle a few more times]\n",
+    "output": "You fucking idiot! You don't blow a shark mating whistle on dry land! You were supposed to blow it- [a shark jumps out of the water, lands on him, and begins to hump him] eh uh uh...\n[Mimsy's error has caused a Lake\nShark to come onto the beach and mate with Nathan.\nThe Tardicaca Lake Shark's penis is nine inches long.\n* Colorado Department of Wildlife]\n"
+  },
+  {
+    "input": "You fucking idiot! You don't blow a shark mating whistle on dry land! You were supposed to blow it- [a shark jumps out of the water, lands on him, and begins to hump him] eh uh uh...\n[Mimsy's error has caused a Lake\nShark to come onto the beach and mate with Nathan.\nThe Tardicaca Lake Shark's penis is nine inches long.\n* Colorado Department of Wildlife]\n",
+    "output": "Mimsssyyy! Get this thing off of meee!\n[Intervention day]\n"
+  },
+  {
+    "input": "Mimsssyyy! Get this thing off of meee!\n[Intervention day]\n",
+    "output": "[in studio] Today is Towelie's intervention. We have ...no idea how he's gonna react.\n"
+  },
+  {
+    "input": "[in studio] Today is Towelie's intervention. We have ...no idea how he's gonna react.\n",
+    "output": "Um come on, Towelie, it's, it's right over here.\n[Towelie thinks he is on\nhis way to the Laundromat.]\n[Butters leads a battered and wasted Towelie to a door and opens the door. They walk into the room and see Clyde, Kyle, Cartman, Kenny, and Stan, as well as a therapist, all waiting for them.]\n"
+  },
+  {
+    "input": "Um come on, Towelie, it's, it's right over here.\n[Towelie thinks he is on\nhis way to the Laundromat.]\n[Butters leads a battered and wasted Towelie to a door and opens the door. They walk into the room and see Clyde, Kyle, Cartman, Kenny, and Stan, as well as a therapist, all waiting for them.]\n",
+    "output": "Wha' what's goin' on?\n"
+  },
+  {
+    "input": "Wha' what's goin' on?\n",
+    "output": "You wanna come over, have a seat with your friends? [Butters takes a seat between Kyle and Cartman, making space for Towelie to sit between him and Kyle. Towelie follows Butters to the sofa]\n"
+  },
+  {
+    "input": "You wanna come over, have a seat with your friends? [Butters takes a seat between Kyle and Cartman, making space for Towelie to sit between him and Kyle. Towelie follows Butters to the sofa]\n",
+    "output": "What is everybody doing here?\n"
+  },
+  {
+    "input": "What is everybody doing here?\n",
+    "output": "We've all just been talking, Towelie, and and what I'm hearing is a bunch of people here who just love the heck outtaya. And, they're gonna way what they wanna say, and you're gonna say what you wanna say, and we're done. Okay?\n"
+  },
+  {
+    "input": "We've all just been talking, Towelie, and and what I'm hearing is a bunch of people here who just love the heck outtaya. And, they're gonna way what they wanna say, and you're gonna say what you wanna say, and we're done. Okay?\n",
+    "output": "[reads from a note he wrote down earlier] Towelie, over the past couple of years, I have seen drug addiction affect you in the following ways.\n"
+  },
+  {
+    "input": "[reads from a note he wrote down earlier] Towelie, over the past couple of years, I have seen drug addiction affect you in the following ways.\n",
+    "output": "Aw Jesus, man.\n"
+  },
+  {
+    "input": "Aw Jesus, man.\n",
+    "output": "Ah ah Towelie, you need to let him finish.\n"
+  },
+  {
+    "input": "Ah ah Towelie, you need to let him finish.\n",
+    "output": "You're not the towel you used to be. [sniffles] Where, as you used to be fluffy and absorbent, ye-you now are crusty and.... and unable to absorb the smallest amount of water. Will you get help today?\n"
+  },
+  {
+    "input": "You're not the towel you used to be. [sniffles] Where, as you used to be fluffy and absorbent, ye-you now are crusty and.... and unable to absorb the smallest amount of water. Will you get help today?\n",
+    "output": "I I don't, I don't get this.\n"
+  },
+  {
+    "input": "I I don't, I don't get this.\n",
+    "output": "Kyle?\n"
+  },
+  {
+    "input": "Kyle?\n",
+    "output": "[reads from a note he wrote down earlier] Towelie, over the past few months I have watched you go from an ancillary character with a few amusing catchphrases to a dried out spooge rag covered in the jizz of a thousand older men.\n"
+  },
+  {
+    "input": "[reads from a note he wrote down earlier] Towelie, over the past few months I have watched you go from an ancillary character with a few amusing catchphrases to a dried out spooge rag covered in the jizz of a thousand older men.\n",
+    "output": "Could we just end this please?\n"
+  },
+  {
+    "input": "Could we just end this please?\n",
+    "output": "You have to let him finish, Towelie.\n"
+  },
+  {
+    "input": "You have to let him finish, Towelie.\n",
+    "output": "If you do not accept treatment I will no longer give you money or be your friend. I will not help you kill yourself.\n"
+  },
+  {
+    "input": "If you do not accept treatment I will no longer give you money or be your friend. I will not help you kill yourself.\n",
+    "output": "Alright. Eric, do you wanna go next?\n"
+  },
+  {
+    "input": "Alright. Eric, do you wanna go next?\n",
+    "output": "[reads his note] Kyle, I hate you so much. You are a liar and a swindler who would do anything for money, and I-.\n"
+  },
+  {
+    "input": "[reads his note] Kyle, I hate you so much. You are a liar and a swindler who would do anything for money, and I-.\n",
+    "output": "We're here for Towelie, fatass!\n"
+  },
+  {
+    "input": "We're here for Towelie, fatass!\n",
+    "output": "I'm supposed to be allowed to finish, right? Is that right? [clears his throat] The Jews have been persecuted across the earth for good reason, Kyle. You are a race of beady-eyed thieves who are always wan- [Kyle walks over and rips the note from Cartman's hands]\n"
+  },
+  {
+    "input": "I'm supposed to be allowed to finish, right? Is that right? [clears his throat] The Jews have been persecuted across the earth for good reason, Kyle. You are a race of beady-eyed thieves who are always wan- [Kyle walks over and rips the note from Cartman's hands]\n",
+    "output": "This is serious, you fucking asshole!\n"
+  },
+  {
+    "input": "This is serious, you fucking asshole!\n",
+    "output": "I'm being serious, Kyle! Hello?!\n"
+  },
+  {
+    "input": "I'm being serious, Kyle! Hello?!\n",
+    "output": "Kyle, we have to let people be allowed to finish during interventions.\n"
+  },
+  {
+    "input": "Kyle, we have to let people be allowed to finish during interventions.\n",
+    "output": "But he's just using his time on television to rant about-\n"
+  },
+  {
+    "input": "But he's just using his time on television to rant about-\n",
+    "output": "Kyle please, It is not your turn!\n"
+  },
+  {
+    "input": "Kyle please, It is not your turn!\n",
+    "output": "[takes his note back. Kyle walks back to his seat] You are a race of beady-eyed thieves, Kyle, who throughout the millennia have squirmed and worked your way into the dark cubbyholes of society. [puts down that sheet, but reaches into his back pocket for another one] Where exactly did the Jews first get their power and how are they able to manipulate our minds today?\n"
+  },
+  {
+    "input": "[takes his note back. Kyle walks back to his seat] You are a race of beady-eyed thieves, Kyle, who throughout the millennia have squirmed and worked your way into the dark cubbyholes of society. [puts down that sheet, but reaches into his back pocket for another one] Where exactly did the Jews first get their power and how are they able to manipulate our minds today?\n",
+    "output": "Oh my God!\n[Lake Tardicaca, night. Time for the Talent Show Competition! A Hawaiian song starts up. Jimmy is singing and playing ukulele]\n"
+  },
+  {
+    "input": "Oh my God!\n[Lake Tardicaca, night. Time for the Talent Show Competition! A Hawaiian song starts up. Jimmy is singing and playing ukulele]\n",
+    "output": "It's a snap at Tardicaca Camp to learn to do the hula hula dance\nI fell in love with a Tardicaca dove while doin' that funny funny dance.\nAnd that poor little kid, why she never did know what love had in store.\nSo I made up my mind-\n"
+  },
+  {
+    "input": "It's a snap at Tardicaca Camp to learn to do the hula hula dance\nI fell in love with a Tardicaca dove while doin' that funny funny dance.\nAnd that poor little kid, why she never did know what love had in store.\nSo I made up my mind-\n",
+    "output": "Get ready, Mimsy. Blue Team is about to go boom.\n[Nathan and Mimsy stand in the shadows with their fingers in their ears]\n[Red Team planted half a pound\nof C4 in Jimmy's ukulele.\nIt is set to go off during the ukulele solo of\n'Tardicaca Hula Gal']\n"
+  },
+  {
+    "input": "Get ready, Mimsy. Blue Team is about to go boom.\n[Nathan and Mimsy stand in the shadows with their fingers in their ears]\n[Red Team planted half a pound\nof C4 in Jimmy's ukulele.\nIt is set to go off during the ukulele solo of\n'Tardicaca Hula Gal']\n",
+    "output": "So I made up my mind that I've just got to find the Tardicaca girl I did adore.\n"
+  },
+  {
+    "input": "So I made up my mind that I've just got to find the Tardicaca girl I did adore.\n",
+    "output": "Wawawawander...\n"
+  },
+  {
+    "input": "Wawawawander...\n",
+    "output": "Hurr a little Tardicaca...\n"
+  },
+  {
+    "input": "Hurr a little Tardicaca...\n",
+    "output": "Hula...\n"
+  },
+  {
+    "input": "Hula...\n",
+    "output": "She's a candy cane to wiggle\n"
+  },
+  {
+    "input": "She's a candy cane to wiggle\n",
+    "output": "Hula...\n"
+  },
+  {
+    "input": "Hula...\n",
+    "output": "She's sure to make you g-giggle.\n"
+  },
+  {
+    "input": "She's sure to make you g-giggle.\n",
+    "output": "Hula...\n"
+  },
+  {
+    "input": "Hula...\n",
+    "output": "With her naughty little wiggle. I know someday\n"
+  },
+  {
+    "input": "With her naughty little wiggle. I know someday\n",
+    "output": "Hula...\n"
+  },
+  {
+    "input": "Hula...\n",
+    "output": "I'm gonna try to make that Tardicaca gally mine, gally mine.\n'Cause all the while I'm dreaming of her. My Tardicaca Hola Gal!\n[begins playing the solo, but hits a B, which is off] Oh sorry, that's not right. Hang on. [tries playing it again, but this time hits an A. Behind some trees, Nathan and Mimsy look on]\n"
+  },
+  {
+    "input": "I'm gonna try to make that Tardicaca gally mine, gally mine.\n'Cause all the while I'm dreaming of her. My Tardicaca Hola Gal!\n[begins playing the solo, but hits a B, which is off] Oh sorry, that's not right. Hang on. [tries playing it again, but this time hits an A. Behind some trees, Nathan and Mimsy look on]\n",
+    "output": "Dahh I don't think he's playing the right note, boss. The C4 aint gonna go off.\n"
+  },
+  {
+    "input": "Dahh I don't think he's playing the right note, boss. The C4 aint gonna go off.\n",
+    "output": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy!\n[Intervention. Cartman continues to speak and now has a pile of notes to his right about two feet tall, enough for twelve thick books]\n"
+  },
+  {
+    "input": "[smacks him with a right hook and then shakes his fist] Shut up, Mimsssyyy!\n[Intervention. Cartman continues to speak and now has a pile of notes to his right about two feet tall, enough for twelve thick books]\n",
+    "output": "If in fact the Jews truly are shapeshifters, and I believe I've presented enough evidence here to prove that they are, then we must unite as a species to fight them and stop their plan of global domination and the control of our freedom. [puts the note on top of the pile and sits there quietly]\n"
+  },
+  {
+    "input": "If in fact the Jews truly are shapeshifters, and I believe I've presented enough evidence here to prove that they are, then we must unite as a species to fight them and stop their plan of global domination and the control of our freedom. [puts the note on top of the pile and sits there quietly]\n",
+    "output": "Okay, Stan, you want to go next?\n"
+  },
+  {
+    "input": "Okay, Stan, you want to go next?\n",
+    "output": "[reads his note] Towelie, if you do not go to treatment, we will all ignore you forever. Will you go?\n"
+  },
+  {
+    "input": "[reads his note] Towelie, if you do not go to treatment, we will all ignore you forever. Will you go?\n",
+    "output": "What treatment?! What are you all talkin' about?!\n"
+  },
+  {
+    "input": "What treatment?! What are you all talkin' about?!\n",
+    "output": "If you say yes, we leave here, pack your things, get on a plane, go to a treatment facility in Southern California, it's all set up.\n"
+  },
+  {
+    "input": "If you say yes, we leave here, pack your things, get on a plane, go to a treatment facility in Southern California, it's all set up.\n",
+    "output": "No! Fuck no! I'm not gettin' on, no fucking plane! This is bullshit! Don't give me fuckin' ultimatums! I thought you were my fuckin' friends.\n"
+  },
+  {
+    "input": "No! Fuck no! I'm not gettin' on, no fucking plane! This is bullshit! Don't give me fuckin' ultimatums! I thought you were my fuckin' friends.\n",
+    "output": "Well Towelie, your friends don't wanna watch you kill yourself anymore.\n"
+  },
+  {
+    "input": "Well Towelie, your friends don't wanna watch you kill yourself anymore.\n",
+    "output": "Then fuck them! You're tellin' me I have to do this? Uh, I'm not left with any decisions here! [storms out of the intervention room]\n"
+  },
+  {
+    "input": "Then fuck them! You're tellin' me I have to do this? Uh, I'm not left with any decisions here! [storms out of the intervention room]\n",
+    "output": "[emotional] Towelie! We aren't the only ones in this intervention who've been hurt by you!\n"
+  },
+  {
+    "input": "[emotional] Towelie! We aren't the only ones in this intervention who've been hurt by you!\n",
+    "output": "Who are you talkin' about?! [Butters pulls out Washcloth from his back pocket and cries] Washcloth? You, you brought Washcloth?! Oh, that's low.\n[Lake Tardicaca, night. Jimmy is still singing \"Tardicaca Hula Gal\"]\n"
+  },
+  {
+    "input": "Who are you talkin' about?! [Butters pulls out Washcloth from his back pocket and cries] Washcloth? You, you brought Washcloth?! Oh, that's low.\n[Lake Tardicaca, night. Jimmy is still singing \"Tardicaca Hula Gal\"]\n",
+    "output": "Out on the beach with my cute little peach where the waves are rolling in so high\nHolding her hand, our feet on the sand-\n"
+  },
+  {
+    "input": "Out on the beach with my cute little peach where the waves are rolling in so high\nHolding her hand, our feet on the sand-\n",
+    "output": "Dammit dammit!\n[Jimmy has skipped the ukulele\nsolo and moved on to the second verse of 'Tardicaca Hula Gal'.\nThis has set back Nathan's\nplans immensely.]\n"
+  },
+  {
+    "input": "Dammit dammit!\n[Jimmy has skipped the ukulele\nsolo and moved on to the second verse of 'Tardicaca Hula Gal'.\nThis has set back Nathan's\nplans immensely.]\n",
+    "output": "Mimsy, get out there and demand the ukulele solo. It's our only chance.\n"
+  },
+  {
+    "input": "Mimsy, get out there and demand the ukulele solo. It's our only chance.\n",
+    "output": "Dahh okay boss. [goes towards the stage]\n"
+  },
+  {
+    "input": "Dahh okay boss. [goes towards the stage]\n",
+    "output": "If you get in a pinch, go through, it's a cinch-\n"
+  },
+  {
+    "input": "If you get in a pinch, go through, it's a cinch-\n",
+    "output": "[at the stage] Darrr we want the ukulele solo! We want the ukulele solo!\n"
+  },
+  {
+    "input": "[at the stage] Darrr we want the ukulele solo! We want the ukulele solo!\n",
+    "output": "Sorry Mims, I I just can't remember it.\n"
+  },
+  {
+    "input": "Sorry Mims, I I just can't remember it.\n",
+    "output": "Well we wants ya to play it, don't we?\n"
+  },
+  {
+    "input": "Well we wants ya to play it, don't we?\n",
+    "output": "[behind the audience] Yeeeah!\n"
+  },
+  {
+    "input": "[behind the audience] Yeeeah!\n",
+    "output": "Alright Mimsy, m-maybe you can show me how it's done. [hands the ukulele to Mimsy]\n"
+  },
+  {
+    "input": "Alright Mimsy, m-maybe you can show me how it's done. [hands the ukulele to Mimsy]\n",
+    "output": "[hesitates, then] Dahh okay. It's real easy. You just play it like this. [takes the ukulele and begins to play]\n"
+  },
+  {
+    "input": "[hesitates, then] Dahh okay. It's real easy. You just play it like this. [takes the ukulele and begins to play]\n",
+    "output": "[runs up and takes the ukulele from Mimsy] Mimsssyyy! You idio', wha' are you doin'?\n"
+  },
+  {
+    "input": "[runs up and takes the ukulele from Mimsy] Mimsssyyy! You idio', wha' are you doin'?\n",
+    "output": "D'I was gonna show him how to play the solo, boss.\n"
+  },
+  {
+    "input": "D'I was gonna show him how to play the solo, boss.\n",
+    "output": "That DOES it! I'm sick and tired of your stupidity, Mimsy! You are the biggest idiot I have ever met! And from now on, if I wanna do something, I'm gonna do it myself! [plays the solo and hits the right note. The ukulele blows up, launching him into the air] AAAAAAAA!\n[Nathan's frustration\nwith Mimsy has caused a momentary lapse in judgement.\nHe has played the B flat himself, thus causing his plan to literally\nbackfire on him.]\n"
+  },
+  {
+    "input": "That DOES it! I'm sick and tired of your stupidity, Mimsy! You are the biggest idiot I have ever met! And from now on, if I wanna do something, I'm gonna do it myself! [plays the solo and hits the right note. The ukulele blows up, launching him into the air] AAAAAAAA!\n[Nathan's frustration\nwith Mimsy has caused a momentary lapse in judgement.\nHe has played the B flat himself, thus causing his plan to literally\nbackfire on him.]\n",
+    "output": "[lands with a thud on the beach] Uuuh! [gets up and swoons. The black mamba snake comes up and bites him on the left arm] AAAH! [a group of Tardicaca Indians rides by and shoots arrows into him. He falls to the ground again. The Tardicaca shark comes up out of the water again and humps him, again.] No, not the shark again! Not the shark again!\n[The intervention room. Towelie, Butters, and the therapist are all crying as Washcloth just lays there at the edge of a sofa cushion.]\n"
+  },
+  {
+    "input": "[lands with a thud on the beach] Uuuh! [gets up and swoons. The black mamba snake comes up and bites him on the left arm] AAAH! [a group of Tardicaca Indians rides by and shoots arrows into him. He falls to the ground again. The Tardicaca shark comes up out of the water again and humps him, again.] No, not the shark again! Not the shark again!\n[The intervention room. Towelie, Butters, and the therapist are all crying as Washcloth just lays there at the edge of a sofa cushion.]\n",
+    "output": "Oh no, oh Washcloth, I'm so sorry.\n"
+  },
+  {
+    "input": "Oh no, oh Washcloth, I'm so sorry.\n",
+    "output": "He needs you to get better, Towelie. Please. [resumes crying]\n"
+  },
+  {
+    "input": "He needs you to get better, Towelie. Please. [resumes crying]\n",
+    "output": "You've got so many people that just love the heck out of ya, Towelie. [resumes crying]\n"
+  },
+  {
+    "input": "You've got so many people that just love the heck out of ya, Towelie. [resumes crying]\n",
+    "output": "All right. All right, I'll go.\n"
+  },
+  {
+    "input": "All right. All right, I'll go.\n",
+    "output": "You will?\n"
+  },
+  {
+    "input": "You will?\n",
+    "output": "I don't wanna hurt Washcloth anymore.\n"
+  },
+  {
+    "input": "I don't wanna hurt Washcloth anymore.\n",
+    "output": "He's goin', everybody. Hugs! [the other boys come in and hug Towelie]\n[Lake Tardicaca, day. The paramedics have been called in and are preparing Nathan for the trip to the hospital]\n"
+  },
+  {
+    "input": "He's goin', everybody. Hugs! [the other boys come in and hug Towelie]\n[Lake Tardicaca, day. The paramedics have been called in and are preparing Nathan for the trip to the hospital]\n",
+    "output": "Ohh Wed Team. Your captain weawwy got waped.\n"
+  },
+  {
+    "input": "Ohh Wed Team. Your captain weawwy got waped.\n",
+    "output": "I've never seen a kid get screwed by a shark before. Heeee!\n"
+  },
+  {
+    "input": "I've never seen a kid get screwed by a shark before. Heeee!\n",
+    "output": "I hope I never see it again. Ahhahahaha.\n"
+  },
+  {
+    "input": "I hope I never see it again. Ahhahahaha.\n",
+    "output": "Nathan, your team put up an amazing fight. And even though I was crowned the King of Cripple Camp, I want you to know that you were the real ch-cha, champ.\n"
+  },
+  {
+    "input": "Nathan, your team put up an amazing fight. And even though I was crowned the King of Cripple Camp, I want you to know that you were the real ch-cha, champ.\n",
+    "output": "I hate you, Jimmy. I fucking hate you with everything in my entire being.\n"
+  },
+  {
+    "input": "I hate you, Jimmy. I fucking hate you with everything in my entire being.\n",
+    "output": "Dahhh you sure got it stuck it to you this year, boss.\n"
+  },
+  {
+    "input": "Dahhh you sure got it stuck it to you this year, boss.\n",
+    "output": "Shut up... Mimsssyyy. [the paramedics lift Nathan into the ambulance and take off]\n[Towelie is shown in flight]\n[Towelie is going to Ocean View Terrace\nTreatment Center in Rancho\nPalos Verdes, California]\n[Towelie is shown approaching the front doors to the treatment center with a small suitcase]\n"
+  },
+  {
+    "input": "Shut up... Mimsssyyy. [the paramedics lift Nathan into the ambulance and take off]\n[Towelie is shown in flight]\n[Towelie is going to Ocean View Terrace\nTreatment Center in Rancho\nPalos Verdes, California]\n[Towelie is shown approaching the front doors to the treatment center with a small suitcase]\n",
+    "output": "Hi, Towelie?\n"
+  },
+  {
+    "input": "Hi, Towelie?\n",
+    "output": "Yeah, hi.\n"
+  },
+  {
+    "input": "Yeah, hi.\n",
+    "output": "[in his office] Towelie is definitely one of the most addicted towels we've ever seen here. He's probably the second most psychologically damaged towel I've come across since treating Kirstie Alley's towel, which, had seen some... uuff, some nasty stuff.\n"
+  },
+  {
+    "input": "[in his office] Towelie is definitely one of the most addicted towels we've ever seen here. He's probably the second most psychologically damaged towel I've come across since treating Kirstie Alley's towel, which, had seen some... uuff, some nasty stuff.\n",
+    "output": "[on a bench overlooking the ocean] I don't know what tomorrow's gonna bring, but I'm learnin' to love what I am. I'm a towel.\n"
+  }
+]

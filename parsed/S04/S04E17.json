@@ -1,0 +1,1346 @@
+[
+  {
+    "input": "",
+    "output": "A Very Crappy Christmas\n\n[Kyle's house, night, bathroom. The toilet is seen and on it are a glass and a plate of chocolate-chip cookies. Kyle sits in his pajamas underneath a window and next to a night stand and candle opposite the toilet bowl, and holding a small flag which reads: WELCOME MR. HANKEY. Ike walks in and towards the food]\n"
+  },
+  {
+    "input": "A Very Crappy Christmas\n\n[Kyle's house, night, bathroom. The toilet is seen and on it are a glass and a plate of chocolate-chip cookies. Kyle sits in his pajamas underneath a window and next to a night stand and candle opposite the toilet bowl, and holding a small flag which reads: WELCOME MR. HANKEY. Ike walks in and towards the food]\n",
+    "output": "He's gonna be here any minute, Ike.\n"
+  },
+  {
+    "input": "He's gonna be here any minute, Ike.\n",
+    "output": "[pulls himself onto the seat and looks in] Oooh nooo, poopies.\n"
+  },
+  {
+    "input": "[pulls himself onto the seat and looks in] Oooh nooo, poopies.\n",
+    "output": "Heee might not come if you're too close to the toilet bowl, Ike. [lifts him off the seat and takes him back to the night stand] Come sit by me. [they sit down and face the toilet bowl, and wait. Nothing happens.]\n"
+  },
+  {
+    "input": "Heee might not come if you're too close to the toilet bowl, Ike. [lifts him off the seat and takes him back to the night stand] Come sit by me. [they sit down and face the toilet bowl, and wait. Nothing happens.]\n",
+    "output": "[at the door with Gerald] It's getting late, boys. Why don't you come on up to bed.\n"
+  },
+  {
+    "input": "[at the door with Gerald] It's getting late, boys. Why don't you come on up to bed.\n",
+    "output": "Just let us stay up a little longer, mom. Mr. Hankey's gotta show up. He always does.\n"
+  },
+  {
+    "input": "Just let us stay up a little longer, mom. Mr. Hankey's gotta show up. He always does.\n",
+    "output": "Alright, bubbe. [leaves with Gerald, but returns] Oh, and boys? Happy Chanukah.\n"
+  },
+  {
+    "input": "Alright, bubbe. [leaves with Gerald, but returns] Oh, and boys? Happy Chanukah.\n",
+    "output": "Happy Chanukah, Mom. [returns his sight to the toilet bowl and waits...]\n[Kyle's house, night, bathroom. \"Silent Night\" plays]\n"
+  },
+  {
+    "input": "Happy Chanukah, Mom. [returns his sight to the toilet bowl and waits...]\n[Kyle's house, night, bathroom. \"Silent Night\" plays]\n",
+    "output": "[Waves the flag around] Ayaaa ta. [Kyle is getting drowsy] Weee Weee... [soon, Ike is asleep on Kyle's shoulder as Kyle drifts into sleep, but checks on the plate once in a while. An ant is now on the toilet seat inching its way to the cookies. Kyle watches drowsily until the ant touches the cookies...]\n"
+  },
+  {
+    "input": "[Waves the flag around] Ayaaa ta. [Kyle is getting drowsy] Weee Weee... [soon, Ike is asleep on Kyle's shoulder as Kyle drifts into sleep, but checks on the plate once in a while. An ant is now on the toilet seat inching its way to the cookies. Kyle watches drowsily until the ant touches the cookies...]\n",
+    "output": "Go away!\n[The ant scurries away. At length, the candle burns down to the plate and goes out. Kyle and Ike are both asleep. Sheila and Gerald look in once again and find the boys asleep. Sheila picks up Ike and Gerald picks up Kyle and take them to their respective rooms. Kyle is then seen asleep in his room. He opens and blinks his eyes, then gasps and sits up. He rushes out of bed and into the restroom, only to find an empty plate and glass. He thinks Mr. Hankey has been by, until he notices something on the floor to the left of the toilet. A look of dismay comes over his face. It's the ant he sees, now bloated and content. Kyle goes to make a phone call.]\n[Stan's house, night, bathroom. \"Silent Night\" continues]\n"
+  },
+  {
+    "input": "Go away!\n[The ant scurries away. At length, the candle burns down to the plate and goes out. Kyle and Ike are both asleep. Sheila and Gerald look in once again and find the boys asleep. Sheila picks up Ike and Gerald picks up Kyle and take them to their respective rooms. Kyle is then seen asleep in his room. He opens and blinks his eyes, then gasps and sits up. He rushes out of bed and into the restroom, only to find an empty plate and glass. He thinks Mr. Hankey has been by, until he notices something on the floor to the left of the toilet. A look of dismay comes over his face. It's the ant he sees, now bloated and content. Kyle goes to make a phone call.]\n[Stan's house, night, bathroom. \"Silent Night\" continues]\n",
+    "output": "[picks up the phone] A-ah huh.\n"
+  },
+  {
+    "input": "[picks up the phone] A-ah huh.\n",
+    "output": "[barks. Music stops] Stan! Go get the other guys and tell them to meet me at the bus stop in ten minutes!\n"
+  },
+  {
+    "input": "[barks. Music stops] Stan! Go get the other guys and tell them to meet me at the bus stop in ten minutes!\n",
+    "output": "Ho-o-oh.\n[South Park, night, bus stop. Kyle, with flashlight and crow bar, is waiting as the others arrive. Kenny arrives in coat, hood, and undies. Cartman in pajamas, cap and coat, and Stan fully dressed, but with his cap askew. A lock of hair is seen]\n"
+  },
+  {
+    "input": "Ho-o-oh.\n[South Park, night, bus stop. Kyle, with flashlight and crow bar, is waiting as the others arrive. Kenny arrives in coat, hood, and undies. Cartman in pajamas, cap and coat, and Stan fully dressed, but with his cap askew. A lock of hair is seen]\n",
+    "output": "Okay, good. You're all here.\n"
+  },
+  {
+    "input": "Okay, good. You're all here.\n",
+    "output": "What is this all about, Kyle?\n"
+  },
+  {
+    "input": "What is this all about, Kyle?\n",
+    "output": "It's Mr. Hankey! He hasn't shown up yet.\n"
+  },
+  {
+    "input": "It's Mr. Hankey! He hasn't shown up yet.\n",
+    "output": "Aw, Jesus Christ! I'm going back to bed. [turns aside and walks off]\n"
+  },
+  {
+    "input": "Aw, Jesus Christ! I'm going back to bed. [turns aside and walks off]\n",
+    "output": "It's only three days until Christmas, you guys! You know how bad things have been around here. I think it might be because Mr. Hankey hasn't come.\n"
+  },
+  {
+    "input": "It's only three days until Christmas, you guys! You know how bad things have been around here. I think it might be because Mr. Hankey hasn't come.\n",
+    "output": "Kyle, I have a full day of watching TV tomorrow. I don't have time to go on a poo hunt right now, okay?\n"
+  },
+  {
+    "input": "Kyle, I have a full day of watching TV tomorrow. I don't have time to go on a poo hunt right now, okay?\n",
+    "output": "If you guys want there to be a Christmas, you'd better come help me!\n[South Park, night, city streets. Snow is still falling, but a manhole cover has been lifted and set aside. Down below, in the sewer, the boys walk in the muck looking for Mr. Hankey's home]\n"
+  },
+  {
+    "input": "If you guys want there to be a Christmas, you'd better come help me!\n[South Park, night, city streets. Snow is still falling, but a manhole cover has been lifted and set aside. Down below, in the sewer, the boys walk in the muck looking for Mr. Hankey's home]\n",
+    "output": "Heh-tchoo!\n"
+  },
+  {
+    "input": "Heh-tchoo!\n",
+    "output": "[turns and glares at Cartman] Dude, you sneezed on my back!\n"
+  },
+  {
+    "input": "[turns and glares at Cartman] Dude, you sneezed on my back!\n",
+    "output": "Oh, sorry, you might get some germs while you're walking around in human feces!\n"
+  },
+  {
+    "input": "Oh, sorry, you might get some germs while you're walking around in human feces!\n",
+    "output": "Hey, look. [before them is a small cottage in a collection basin. They walk to the end of the sewer line] Hello?\n"
+  },
+  {
+    "input": "Hey, look. [before them is a small cottage in a collection basin. They walk to the end of the sewer line] Hello?\n",
+    "output": "Hoowwddyy ho! [behind him is a little cottage all glittered in light]\n"
+  },
+  {
+    "input": "Hoowwddyy ho! [behind him is a little cottage all glittered in light]\n",
+    "output": "...Mr. Hankey! Hoh, we were so worried! I was waiting up for you and you didn't come, so I thought that-\n"
+  },
+  {
+    "input": "...Mr. Hankey! Hoh, we were so worried! I was waiting up for you and you didn't come, so I thought that-\n",
+    "output": "Oh, no I'm fine, Kyle.\n"
+  },
+  {
+    "input": "Oh, no I'm fine, Kyle.\n",
+    "output": "But where have you been? Things aren't the same without you. Nobody seems to have the Christmas spirit.\n"
+  },
+  {
+    "input": "But where have you been? Things aren't the same without you. Nobody seems to have the Christmas spirit.\n",
+    "output": "I know, Kyle. I've just been awfully busy with my family. [calls into the house] Honey!\n"
+  },
+  {
+    "input": "I know, Kyle. I've just been awfully busy with my family. [calls into the house] Honey!\n",
+    "output": "Family?\n"
+  },
+  {
+    "input": "Family?\n",
+    "output": "Boys, I want you to meet my wife. Autumn.\n"
+  },
+  {
+    "input": "Boys, I want you to meet my wife. Autumn.\n",
+    "output": "Howdy-hey kids! [waves in the same way Mr. Hankey does, holds a martini in her left hand] Would you like a drink?\n"
+  },
+  {
+    "input": "Howdy-hey kids! [waves in the same way Mr. Hankey does, holds a martini in her left hand] Would you like a drink?\n",
+    "output": "They're too young to drink, honey.\n"
+  },
+  {
+    "input": "They're too young to drink, honey.\n",
+    "output": "Hey haa, it's Christmas!\n"
+  },
+  {
+    "input": "Hey haa, it's Christmas!\n",
+    "output": "Come. You have to meet the little nuggets, too. Kids! [they come one one by one] This is our son, Cornwallis.\n"
+  },
+  {
+    "input": "Come. You have to meet the little nuggets, too. Kids! [they come one one by one] This is our son, Cornwallis.\n",
+    "output": "[wearing glasses, a scarf and little blue beret] Hoowwdy Ho! [hops aside as another nugget enters]\n"
+  },
+  {
+    "input": "[wearing glasses, a scarf and little blue beret] Hoowwdy Ho! [hops aside as another nugget enters]\n",
+    "output": "Our daughter Amber.\n"
+  },
+  {
+    "input": "Our daughter Amber.\n",
+    "output": "[in pink dress and maroon bow] Hoowwdy Ho! [hops aside as another nugget enters]\n"
+  },
+  {
+    "input": "[in pink dress and maroon bow] Hoowwdy Ho! [hops aside as another nugget enters]\n",
+    "output": "And our son, Simon.\n"
+  },
+  {
+    "input": "And our son, Simon.\n",
+    "output": "Eee, hey! Hnhn.\n"
+  },
+  {
+    "input": "Eee, hey! Hnhn.\n",
+    "output": "[aside] Simon's not so smart. He was born with a peanut in his head.\n"
+  },
+  {
+    "input": "[aside] Simon's not so smart. He was born with a peanut in his head.\n",
+    "output": "Heh What? Dad? Huh?\n"
+  },
+  {
+    "input": "Heh What? Dad? Huh?\n",
+    "output": "Nothin', Simon.\n"
+  },
+  {
+    "input": "Nothin', Simon.\n",
+    "output": "A family! So THAT's why you haven't been able to spread Christmas cheer.\n"
+  },
+  {
+    "input": "A family! So THAT's why you haven't been able to spread Christmas cheer.\n",
+    "output": "It sure has been tough. Nobody seems that into Christmas out there.\n"
+  },
+  {
+    "input": "It sure has been tough. Nobody seems that into Christmas out there.\n",
+    "output": "I know, it's like it doesn't matter anymore.\n"
+  },
+  {
+    "input": "I know, it's like it doesn't matter anymore.\n",
+    "output": "My moms barely bought me any presents so far.\n"
+  },
+  {
+    "input": "My moms barely bought me any presents so far.\n",
+    "output": "Well don't worry kids! I'm sending the nuggets up tomorrow to spread Christmas cheer! [the nuggets grin] And if you want, you can help them.\n"
+  },
+  {
+    "input": "Well don't worry kids! I'm sending the nuggets up tomorrow to spread Christmas cheer! [the nuggets grin] And if you want, you can help them.\n",
+    "output": "Sure we'll help! [Stan grins]\n"
+  },
+  {
+    "input": "Sure we'll help! [Stan grins]\n",
+    "output": "Anything for more presents!\n"
+  },
+  {
+    "input": "Anything for more presents!\n",
+    "output": "\"Hic\" Weh-hell, it's a Christmas party! Hey! You boys! You boys wanna bet me I won't take off my clothes?\n"
+  },
+  {
+    "input": "\"Hic\" Weh-hell, it's a Christmas party! Hey! You boys! You boys wanna bet me I won't take off my clothes?\n",
+    "output": "Honey, pleh, you're- you're drunk. Onkay?\n"
+  },
+  {
+    "input": "Honey, pleh, you're- you're drunk. Onkay?\n",
+    "output": "But it's a Christmas party!\n"
+  },
+  {
+    "input": "But it's a Christmas party!\n",
+    "output": "Honey, can we go inside for a second? [they enter the little house and start arguing. The boys look on in shock while the nuggets keep their smiles. Abruptly the arguing stops and the two adult poos step out again] Well, it's decided, kids. Tomorrow we're gonna bring back the spirit of Christmas!\n[South Park, day, city streets. The boys and the nuggets stand on the sidewalk in front of Tele's and the toy store humming \"Good King Wencelas\" The nuggets soon hum their own tunes. Stan, Kyle, and Kenny wear nose clips and suits that suggest they are reindeer, while Cartman is dressed as Santa]\n"
+  },
+  {
+    "input": "Honey, can we go inside for a second? [they enter the little house and start arguing. The boys look on in shock while the nuggets keep their smiles. Abruptly the arguing stops and the two adult poos step out again] Well, it's decided, kids. Tomorrow we're gonna bring back the spirit of Christmas!\n[South Park, day, city streets. The boys and the nuggets stand on the sidewalk in front of Tele's and the toy store humming \"Good King Wencelas\" The nuggets soon hum their own tunes. Stan, Kyle, and Kenny wear nose clips and suits that suggest they are reindeer, while Cartman is dressed as Santa]\n",
+    "output": "Ho ho ho! Merry Christmas, you guys! Only three shopping days until- [a couple walks past] God-damnit! [a man walks past in the other direction] Hey! Merry Christmas, asshole! [a woman walks by]\n"
+  },
+  {
+    "input": "Ho ho ho! Merry Christmas, you guys! Only three shopping days until- [a couple walks past] God-damnit! [a man walks past in the other direction] Hey! Merry Christmas, asshole! [a woman walks by]\n",
+    "output": "Nobody's paying any attention. [Amber clears her throat as a foot comes down over Simon, and the foot pulls away]\n"
+  },
+  {
+    "input": "Nobody's paying any attention. [Amber clears her throat as a foot comes down over Simon, and the foot pulls away]\n",
+    "output": "Ew, I almost stepped in it.\n"
+  },
+  {
+    "input": "Ew, I almost stepped in it.\n",
+    "output": "[exits and locks his door] Well, it was a good effort, boys. But I'm gonna have to close shop. Nobody's buyin' anything an' I can't afford to keep this furnace runnin'! [starts to leave, but notices the nuggets] Oh. And, boys, there's some crap on the sidewalk there. Watch out. [the nuggets look downcast. Red Harris leaves the toy store.]\n"
+  },
+  {
+    "input": "[exits and locks his door] Well, it was a good effort, boys. But I'm gonna have to close shop. Nobody's buyin' anything an' I can't afford to keep this furnace runnin'! [starts to leave, but notices the nuggets] Oh. And, boys, there's some crap on the sidewalk there. Watch out. [the nuggets look downcast. Red Harris leaves the toy store.]\n",
+    "output": "[locks the door] Not one toy. I guess this yeear, everyone's content to celebrate with candles and love. [starts sobbing, then walks away]\n"
+  },
+  {
+    "input": "[locks the door] Not one toy. I guess this yeear, everyone's content to celebrate with candles and love. [starts sobbing, then walks away]\n",
+    "output": "[emotionally] This is hopeless. We're just gonna have to face that the commercialism has been sucked out of Christmas.\n[A special report. Behind the anchor is a \"No Christmas Trees\" sign]\n"
+  },
+  {
+    "input": "[emotionally] This is hopeless. We're just gonna have to face that the commercialism has been sucked out of Christmas.\n[A special report. Behind the anchor is a \"No Christmas Trees\" sign]\n",
+    "output": "And in other news tonight it appears that everyone is officially SICK OF CHRISTMAS! [a chart appears] In an SPC poll, 38% said they were fed up and tired of the holiday, 5% said they were indifferent to it, and a whopping 57% they would quick Bon Jovi square in the balls if given the opportunity. [the field poll follows]\n"
+  },
+  {
+    "input": "And in other news tonight it appears that everyone is officially SICK OF CHRISTMAS! [a chart appears] In an SPC poll, 38% said they were fed up and tired of the holiday, 5% said they were indifferent to it, and a whopping 57% they would quick Bon Jovi square in the balls if given the opportunity. [the field poll follows]\n",
+    "output": "Well, I think people are just fed up with the crowded shopping and the credit-card bills, uh. [the boys sit on Cartman's sofa watching the news] I, I think that the holiday just has become a joke.\n"
+  },
+  {
+    "input": "Well, I think people are just fed up with the crowded shopping and the credit-card bills, uh. [the boys sit on Cartman's sofa watching the news] I, I think that the holiday just has become a joke.\n",
+    "output": "[with a son who waves at the camera] You know, it's just that a lot of people don't really believe in the whole Jesus thing anymore, you know? So what's to celebrate?\n"
+  },
+  {
+    "input": "[with a son who waves at the camera] You know, it's just that a lot of people don't really believe in the whole Jesus thing anymore, you know? So what's to celebrate?\n",
+    "output": "Oh yeah. Right in the balls, man. Right square in the balls.\n"
+  },
+  {
+    "input": "Oh yeah. Right in the balls, man. Right square in the balls.\n",
+    "output": "Well, the holiday spirit may be gone from South Park, but at least our faith in each other remains strong.\n"
+  },
+  {
+    "input": "Well, the holiday spirit may be gone from South Park, but at least our faith in each other remains strong.\n",
+    "output": "[whispers into the anchor's ear] In South Park.\n"
+  },
+  {
+    "input": "[whispers into the anchor's ear] In South Park.\n",
+    "output": "Oh really?\n[South Park, Cartman's house, day. The report is over]\n"
+  },
+  {
+    "input": "Oh really?\n[South Park, Cartman's house, day. The report is over]\n",
+    "output": "Dude, change the channel. This is too depressing. [Cartman clicks the remote, and \"A Charlie Brown Christmas\" pops up. Charlie, Lucy, and Snoopy are on screen]\n"
+  },
+  {
+    "input": "Dude, change the channel. This is too depressing. [Cartman clicks the remote, and \"A Charlie Brown Christmas\" pops up. Charlie, Lucy, and Snoopy are on screen]\n",
+    "output": "Good Grief! We need a Christmas tree for our play.\n"
+  },
+  {
+    "input": "Good Grief! We need a Christmas tree for our play.\n",
+    "output": "Oh, Jesus, not this thing again.\n"
+  },
+  {
+    "input": "Oh, Jesus, not this thing again.\n",
+    "output": "How come everyone in cartoons has such big heads?\n"
+  },
+  {
+    "input": "How come everyone in cartoons has such big heads?\n",
+    "output": "[as other kids dance around him] Alright, everyone, we've got to get on with our play!\n"
+  },
+  {
+    "input": "[as other kids dance around him] Alright, everyone, we've got to get on with our play!\n",
+    "output": "Jesus, this sucks! All they keep doin' is dancing around!\n"
+  },
+  {
+    "input": "Jesus, this sucks! All they keep doin' is dancing around!\n",
+    "output": "Yeah, this thing really falls apart in the second act.\n"
+  },
+  {
+    "input": "Yeah, this thing really falls apart in the second act.\n",
+    "output": "[affecting a Peanuts accent] And why is it that on Charlie Brown cartoons, everyone talks like this.\n"
+  },
+  {
+    "input": "[affecting a Peanuts accent] And why is it that on Charlie Brown cartoons, everyone talks like this.\n",
+    "output": "My mom could make a better Christmas special than this!\n"
+  },
+  {
+    "input": "My mom could make a better Christmas special than this!\n",
+    "output": "Hey, that's it. Oh, my God, that's totally it! [drops down from the sofa and walks to the TV] It's so simple!\n"
+  },
+  {
+    "input": "Hey, that's it. Oh, my God, that's totally it! [drops down from the sofa and walks to the TV] It's so simple!\n",
+    "output": "What, dude?\n"
+  },
+  {
+    "input": "What, dude?\n",
+    "output": "[turns and faces the other boys] We can get everyone back into the Christmas spirit by making our very own animated Christmas special, and showing it to everybody in town! [Charlie and Linus talk onscreen]\n"
+  },
+  {
+    "input": "[turns and faces the other boys] We can get everyone back into the Christmas spirit by making our very own animated Christmas special, and showing it to everybody in town! [Charlie and Linus talk onscreen]\n",
+    "output": "We don't know anything about animation.\n"
+  },
+  {
+    "input": "We don't know anything about animation.\n",
+    "output": "How hard can it be? Look at it. [Snoopy and Charlie walk in the woods]\n"
+  },
+  {
+    "input": "How hard can it be? Look at it. [Snoopy and Charlie walk in the woods]\n",
+    "output": "Hey yeah! We can make a little animated Santa Claus and Jesus, and it can star us instead of these little round-headed guys!\n"
+  },
+  {
+    "input": "Hey yeah! We can make a little animated Santa Claus and Jesus, and it can star us instead of these little round-headed guys!\n",
+    "output": "(Yeah, right! Awesome!)\n"
+  },
+  {
+    "input": "(Yeah, right! Awesome!)\n",
+    "output": "Yeah! And we can call it... \"The Spirit of Christmas\" [onscreen, Snoopy is pummeling a naked Charlie Brown hard across the face with a 2-by-4]\n[South Park, The Mayor's office, day. The report is over]\n"
+  },
+  {
+    "input": "Yeah! And we can call it... \"The Spirit of Christmas\" [onscreen, Snoopy is pummeling a naked Charlie Brown hard across the face with a 2-by-4]\n[South Park, The Mayor's office, day. The report is over]\n",
+    "output": "[worried] Ogh! This is terrible, Johnson! Our whole town's economy is going right in the toilet! We've got to get everybody back in the Christmas spirit!\n"
+  },
+  {
+    "input": "[worried] Ogh! This is terrible, Johnson! Our whole town's economy is going right in the toilet! We've got to get everybody back in the Christmas spirit!\n",
+    "output": "Mayor, some adorable children are here to see you.\n"
+  },
+  {
+    "input": "Mayor, some adorable children are here to see you.\n",
+    "output": "Meugh. Send them in.\n"
+  },
+  {
+    "input": "Meugh. Send them in.\n",
+    "output": "[as the boys enter]Mayor! We have the solution to your problem.\n"
+  },
+  {
+    "input": "[as the boys enter]Mayor! We have the solution to your problem.\n",
+    "output": "You do?\n"
+  },
+  {
+    "input": "You do?\n",
+    "output": "We're gonna make a short animated Christmas card that everyone can watch and play it on the screen at the old drive-in.\n"
+  },
+  {
+    "input": "We're gonna make a short animated Christmas card that everyone can watch and play it on the screen at the old drive-in.\n",
+    "output": "It'll have everything. Jesus, Santa. And when people see it, they'll just HAVE to get in the spirit. All we need is three hundred dollars for our budget.\n"
+  },
+  {
+    "input": "It'll have everything. Jesus, Santa. And when people see it, they'll just HAVE to get in the spirit. All we need is three hundred dollars for our budget.\n",
+    "output": "[falsely enthusiastic] An animated Christmas card. Kids, that just may be the dumbest idea I've ever heard, ever!\n"
+  },
+  {
+    "input": "[falsely enthusiastic] An animated Christmas card. Kids, that just may be the dumbest idea I've ever heard, ever!\n",
+    "output": "Awww.\n"
+  },
+  {
+    "input": "Awww.\n",
+    "output": "But at this point I'm willing to try anything. Johnson, cut them a check for three hundred dollars.\n"
+  },
+  {
+    "input": "But at this point I'm willing to try anything. Johnson, cut them a check for three hundred dollars.\n",
+    "output": "Alright!\n"
+  },
+  {
+    "input": "Alright!\n",
+    "output": "[to the other three] You guys go tell Butters to start making the cutoouts. I'm gonna go tell Mr. Hankey the good news!\n[The Hankey home, day, exterior. Mr. Hankey and Autumn are in a heated argument inside. The argument is incomprehensible for a while, until a voice stands out.]\n"
+  },
+  {
+    "input": "[to the other three] You guys go tell Butters to start making the cutoouts. I'm gonna go tell Mr. Hankey the good news!\n[The Hankey home, day, exterior. Mr. Hankey and Autumn are in a heated argument inside. The argument is incomprehensible for a while, until a voice stands out.]\n",
+    "output": "Now you put that vase down! Put that vase down! That's a very expensive vase! [now warning] Don't you throw that vase! [the vase is thrown and breaks.]\n"
+  },
+  {
+    "input": "Now you put that vase down! Put that vase down! That's a very expensive vase! [now warning] Don't you throw that vase! [the vase is thrown and breaks.]\n",
+    "output": "[now facing the house from the sewer] Ah, Mr. Hankey?\n"
+  },
+  {
+    "input": "[now facing the house from the sewer] Ah, Mr. Hankey?\n",
+    "output": "[exits the front door] Oh, Kyle! Hoowwddy ho!\n"
+  },
+  {
+    "input": "[exits the front door] Oh, Kyle! Hoowwddy ho!\n",
+    "output": "[excited] We got the money, Mr. Hankey. We're gonna make our animated Christmas card.\n"
+  },
+  {
+    "input": "[excited] We got the money, Mr. Hankey. We're gonna make our animated Christmas card.\n",
+    "output": "Oh, that's swell! Kids! [the nuggets come out] Christmas is back on! We've gotta all go get that old drive-in workin' again.\n"
+  },
+  {
+    "input": "Oh, that's swell! Kids! [the nuggets come out] Christmas is back on! We've gotta all go get that old drive-in workin' again.\n",
+    "output": "Okay!\n"
+  },
+  {
+    "input": "Okay!\n",
+    "output": "That's not the only thing we gotta get workin' again, [pokes him] if you know what I mean...\n"
+  },
+  {
+    "input": "That's not the only thing we gotta get workin' again, [pokes him] if you know what I mean...\n",
+    "output": "[concerned] Wha- why do you, why do you have to say things like that in front of people?\n"
+  },
+  {
+    "input": "[concerned] Wha- why do you, why do you have to say things like that in front of people?\n",
+    "output": "Well, I've gotta go start our animation. We've only got two days. [turns and walks away...]\n"
+  },
+  {
+    "input": "Well, I've gotta go start our animation. We've only got two days. [turns and walks away...]\n",
+    "output": "Good luck, Kyle. And we'll have that projector workin'! Don't you worry! [Cornwallis sniffs at himself]\n"
+  },
+  {
+    "input": "Good luck, Kyle. And we'll have that projector workin'! Don't you worry! [Cornwallis sniffs at himself]\n",
+    "output": "What's the matter, Cornwallis?\n[Butters' home, day. A gate is open by one side of the house. Inside, the four boys enter a room littered with cutouts]\n"
+  },
+  {
+    "input": "What's the matter, Cornwallis?\n[Butters' home, day. A gate is open by one side of the house. Inside, the four boys enter a room littered with cutouts]\n",
+    "output": "Alright, Butters. Let's see what you've got.\n"
+  },
+  {
+    "input": "Alright, Butters. Let's see what you've got.\n",
+    "output": "[behind a desk] Huh, well, okay. Now, don't expect too much with the budget you gave me.\n"
+  },
+  {
+    "input": "[behind a desk] Huh, well, okay. Now, don't expect too much with the budget you gave me.\n",
+    "output": "[impatient] Yeahyeahyeah. just let us see 'em!\n"
+  },
+  {
+    "input": "[impatient] Yeahyeahyeah. just let us see 'em!\n",
+    "output": "Well, alright. Here's a little paper construction of Santa Claus. [holds him up and moves him a bit] \"Ho ho ho, uh, there-a kid. Hu-uh, would you like some- t-hoys and stuff\" Hah, and uh, here's a little Jesus. [brings him forth] \"Hi there, Santa. I am the Light and the Way, and stuff.\" [Santa] \"Uh, ho o-kay. That's good, I suppose.\" Huh, and here's the cutout versions of you guys. [unfurls a large sheet which contains some mountains and spitting images of the four boys]\n"
+  },
+  {
+    "input": "Well, alright. Here's a little paper construction of Santa Claus. [holds him up and moves him a bit] \"Ho ho ho, uh, there-a kid. Hu-uh, would you like some- t-hoys and stuff\" Hah, and uh, here's a little Jesus. [brings him forth] \"Hi there, Santa. I am the Light and the Way, and stuff.\" [Santa] \"Uh, ho o-kay. That's good, I suppose.\" Huh, and here's the cutout versions of you guys. [unfurls a large sheet which contains some mountains and spitting images of the four boys]\n",
+    "output": "Whoa!\n"
+  },
+  {
+    "input": "Whoa!\n",
+    "output": "[points] Heheh. Look, he made Stan all fat.\n"
+  },
+  {
+    "input": "[points] Heheh. Look, he made Stan all fat.\n",
+    "output": "[retorts] That's not me, that's you!\n"
+  },
+  {
+    "input": "[retorts] That's not me, that's you!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "They kind of look like us. [the poster is shown again] I mean, Stan's got blue eyes and I've got a sharper nose, but I mean, they kinda look like us.\n"
+  },
+  {
+    "input": "They kind of look like us. [the poster is shown again] I mean, Stan's got blue eyes and I've got a sharper nose, but I mean, they kinda look like us.\n",
+    "output": "I AM NOT THAT GODDAMNED FAT! [Butters sets the poster on the desk, face up]\n"
+  },
+  {
+    "input": "I AM NOT THAT GODDAMNED FAT! [Butters sets the poster on the desk, face up]\n",
+    "output": "God job, Butters.\n"
+  },
+  {
+    "input": "God job, Butters.\n",
+    "output": "Woh, ah, hey! I made a little cutout version of me, too! Ih in case you need it for your animated film.\n"
+  },
+  {
+    "input": "Woh, ah, hey! I made a little cutout version of me, too! Ih in case you need it for your animated film.\n",
+    "output": "[grabs the poster] No, that's okay. [walks away]\n"
+  },
+  {
+    "input": "[grabs the poster] No, that's okay. [walks away]\n",
+    "output": "See ya! [grabs Santa, Cartman grabs Jesus, and they walk away with Kenny]\n"
+  },
+  {
+    "input": "See ya! [grabs Santa, Cartman grabs Jesus, and they walk away with Kenny]\n",
+    "output": "Uh-m, alright, alright then. [the door closes, and a few second later, he reaches into a top drawer and pulls out a Barbie cutout. In falsetto...] \"Oh, uh, hello, good-lookin'? What's your name?\" [moves the Butters cutout] \"Huh, Butters, ma'am.\" [moves the Barbie cutout while in falsetto] \"Well, Butters, would you like to slap my- titties around?\" [moves the Butters cutout closer] \"Whoa! Well, uhuh\" [a smile of fantasy flashes across his face] \"Uh, no thanks, ma'am. Uh I, I'll get in trouble again.\" [guiltily puts the cutout away.]\n[The Hankey home, day. Inside, Cornwallis is seated at a table with thumb tacks for legs. There are two 5-book stacks on the table, a third stack on the floor behind him, and two books on the floor in front of the table. Mr. Hankey enters, and soon seen are a spool of string for a bedstand and a pencil as a curtain rod. A locket hangs over Cornwallis' bed, and it contains pictures of his parents]\n"
+  },
+  {
+    "input": "Uh-m, alright, alright then. [the door closes, and a few second later, he reaches into a top drawer and pulls out a Barbie cutout. In falsetto...] \"Oh, uh, hello, good-lookin'? What's your name?\" [moves the Butters cutout] \"Huh, Butters, ma'am.\" [moves the Barbie cutout while in falsetto] \"Well, Butters, would you like to slap my- titties around?\" [moves the Butters cutout closer] \"Whoa! Well, uhuh\" [a smile of fantasy flashes across his face] \"Uh, no thanks, ma'am. Uh I, I'll get in trouble again.\" [guiltily puts the cutout away.]\n[The Hankey home, day. Inside, Cornwallis is seated at a table with thumb tacks for legs. There are two 5-book stacks on the table, a third stack on the floor behind him, and two books on the floor in front of the table. Mr. Hankey enters, and soon seen are a spool of string for a bedstand and a pencil as a curtain rod. A locket hangs over Cornwallis' bed, and it contains pictures of his parents]\n",
+    "output": "Cornwallis, we've got to go fix up the drive-in.\n"
+  },
+  {
+    "input": "Cornwallis, we've got to go fix up the drive-in.\n",
+    "output": "I don't want to, Dad. I'm too sad.\n"
+  },
+  {
+    "input": "I don't want to, Dad. I'm too sad.\n",
+    "output": "[takes a seat at the table] Hey, that's alright, Cornwallis. The boys' animated movie will being back the spirit of Christmas.\n"
+  },
+  {
+    "input": "[takes a seat at the table] Hey, that's alright, Cornwallis. The boys' animated movie will being back the spirit of Christmas.\n",
+    "output": "It's not that, father. Its... Well, I don't feel like I'm really a part of Christmas.\n"
+  },
+  {
+    "input": "It's not that, father. Its... Well, I don't feel like I'm really a part of Christmas.\n",
+    "output": "But son, you're a Hankey. We love Christmas!\n"
+  },
+  {
+    "input": "But son, you're a Hankey. We love Christmas!\n",
+    "output": "[drunk as ever, appears at the door] Come on, it's time to sit around the tree!\n"
+  },
+  {
+    "input": "[drunk as ever, appears at the door] Come on, it's time to sit around the tree!\n",
+    "output": "[serious] We're having a talk, honey.\n"
+  },
+  {
+    "input": "[serious] We're having a talk, honey.\n",
+    "output": "God-damnit it's Christmas and we're gonna be a happy family around the tree!\n"
+  },
+  {
+    "input": "God-damnit it's Christmas and we're gonna be a happy family around the tree!\n",
+    "output": "Autumn, you're drunk. Alright, now, just go help the other kids; they can't get their stockings up.\n"
+  },
+  {
+    "input": "Autumn, you're drunk. Alright, now, just go help the other kids; they can't get their stockings up.\n",
+    "output": "That's not the only thing that can't get up around here. [rushes away]\n"
+  },
+  {
+    "input": "That's not the only thing that can't get up around here. [rushes away]\n",
+    "output": "...Now come on, son. Don't be so down.\n"
+  },
+  {
+    "input": "...Now come on, son. Don't be so down.\n",
+    "output": "Why? We're just pieces of crap. Christmas isn't for us.\n"
+  },
+  {
+    "input": "Why? We're just pieces of crap. Christmas isn't for us.\n",
+    "output": "Christmas is about feeling good. That's for everybody!\n"
+  },
+  {
+    "input": "Christmas is about feeling good. That's for everybody!\n",
+    "output": "I see the Nativity. There's angels, shepherds and sheep. But no poo. All the Christmas movies: Santa, elves, reindeer. No poo. I'm not a part of it.\n"
+  },
+  {
+    "input": "I see the Nativity. There's angels, shepherds and sheep. But no poo. All the Christmas movies: Santa, elves, reindeer. No poo. I'm not a part of it.\n",
+    "output": "No, you're not a part of it, Cornwallis. You're all of it. Don't you see?\n"
+  },
+  {
+    "input": "No, you're not a part of it, Cornwallis. You're all of it. Don't you see?\n",
+    "output": "I'm nothing but crap!\n"
+  },
+  {
+    "input": "I'm nothing but crap!\n",
+    "output": "But crap is everything. [begins to sing]\nEverything that lives on earth poos in some way\nAnd that's how the cycle happens, each and every day\n[Takes Cornwallis out and up to the street]\nJust look at the green green grass and the birds up in the sky\n[cows graze on the some exposed grass while large birds fly lazily above]\nIt's all here because of poo, and now I'll tell you why\n\nGrass it's eaten by cattle, which is eaten by women and men\n[A cow poops as it eats, then Butters' family is shown eating burgers at table]\nIt fuses with their bodies and becomes poo again\n[Mr. Hankey sings to Cornwallis, then Butters' father is shown straining on the toilet]\nAnd that poo goes through the sewer, where it's dumped into the sea.\n[some poo descends through the pipe, and Mr. Hankey soon follows. A raw sewage outlet is then shown with Mr. Hankey exiting]\nAnd it's eaten by the plankton, and becomes the fishes' meal.\n[plankton swarm the poo and devour it; a small fish eats the plankton]\n\nAnd then that bigger fish with the poo still inside\n[a bigger fish eats the small fish, but an even bigger one approaches]\nSwims up near the shore and gets eaten alive\n[the bigger fish swallows the medium-sized one and swims up to the surface, only to be snatched up by a bear]\nBy the grizzly bear that poos on a dead piece of sand\n[the bear walks off with the fish in its mouth and poos as he leaves]\nSo it can spring to life and become food for the land!\n[flowers and grass spring up through and around it. The camera pulls back to reveal an African savannah around the flowers, with all sorts of animals in it]\n\nIt's the poo of the antelope, the poo of the giraffe\n[soft backup vocals come on, lending the song an African feel. antelope run in the background as a giraffe appears and stops]\nIt falls onto the earth and becomes the blades of grass\n[The camera looks at Mr. Hankey and Cornwallis atop Poo Rock, first from the back, then from the front]\nThe grass is eaten by the cattle, which comes out the other end\n[more cattle are shown grazing and pooing]\nTo make food for the humans and start all over again\n[a man scoops the poo into a small bag and walks off; Butters and family eat more burgers; his mom sits on the toilet]\n[back on Poo Rock, before which animals poo freely]\n\nYou see, son? You're not an insignificant part of life. You are life.\n"
+  },
+  {
+    "input": "But crap is everything. [begins to sing]\nEverything that lives on earth poos in some way\nAnd that's how the cycle happens, each and every day\n[Takes Cornwallis out and up to the street]\nJust look at the green green grass and the birds up in the sky\n[cows graze on the some exposed grass while large birds fly lazily above]\nIt's all here because of poo, and now I'll tell you why\n\nGrass it's eaten by cattle, which is eaten by women and men\n[A cow poops as it eats, then Butters' family is shown eating burgers at table]\nIt fuses with their bodies and becomes poo again\n[Mr. Hankey sings to Cornwallis, then Butters' father is shown straining on the toilet]\nAnd that poo goes through the sewer, where it's dumped into the sea.\n[some poo descends through the pipe, and Mr. Hankey soon follows. A raw sewage outlet is then shown with Mr. Hankey exiting]\nAnd it's eaten by the plankton, and becomes the fishes' meal.\n[plankton swarm the poo and devour it; a small fish eats the plankton]\n\nAnd then that bigger fish with the poo still inside\n[a bigger fish eats the small fish, but an even bigger one approaches]\nSwims up near the shore and gets eaten alive\n[the bigger fish swallows the medium-sized one and swims up to the surface, only to be snatched up by a bear]\nBy the grizzly bear that poos on a dead piece of sand\n[the bear walks off with the fish in its mouth and poos as he leaves]\nSo it can spring to life and become food for the land!\n[flowers and grass spring up through and around it. The camera pulls back to reveal an African savannah around the flowers, with all sorts of animals in it]\n\nIt's the poo of the antelope, the poo of the giraffe\n[soft backup vocals come on, lending the song an African feel. antelope run in the background as a giraffe appears and stops]\nIt falls onto the earth and becomes the blades of grass\n[The camera looks at Mr. Hankey and Cornwallis atop Poo Rock, first from the back, then from the front]\nThe grass is eaten by the cattle, which comes out the other end\n[more cattle are shown grazing and pooing]\nTo make food for the humans and start all over again\n[a man scoops the poo into a small bag and walks off; Butters and family eat more burgers; his mom sits on the toilet]\n[back on Poo Rock, before which animals poo freely]\n\nYou see, son? You're not an insignificant part of life. You are life.\n",
+    "output": "But how can I be that giraffe and blade of grass, and a human? I don't control what they do.\n"
+  },
+  {
+    "input": "But how can I be that giraffe and blade of grass, and a human? I don't control what they do.\n",
+    "output": "[sits next to Cornwallis] Just like your heart beats without you thinking about it, so, too, your giraffes and your humans do what they do without you even thinkin' about it. But it is all one life form. It is all... [points to him] you.\n"
+  },
+  {
+    "input": "[sits next to Cornwallis] Just like your heart beats without you thinking about it, so, too, your giraffes and your humans do what they do without you even thinkin' about it. But it is all one life form. It is all... [points to him] you.\n",
+    "output": "[smiles] I think I see now.\nI'm the poo of the antelope, that flows down to the ground\n[steps forward]\n"
+  },
+  {
+    "input": "[smiles] I think I see now.\nI'm the poo of the antelope, that flows down to the ground\n[steps forward]\n",
+    "output": "Becomes the grass of tomorrow\n"
+  },
+  {
+    "input": "Becomes the grass of tomorrow\n",
+    "output": "Yeah\n"
+  },
+  {
+    "input": "Yeah\n",
+    "output": "Which the grazers turn around\n\n[An antelope stops to poo a little, then runs off to join the others]\n"
+  },
+  {
+    "input": "Which the grazers turn around\n\n[An antelope stops to poo a little, then runs off to join the others]\n",
+    "output": "So I'm the leg of a leopard and the wings of a hen\n"
+  },
+  {
+    "input": "So I'm the leg of a leopard and the wings of a hen\n",
+    "output": "Which becomes dinner for the human and turns back to poo again.\n[Mr. Hankey holds Cornwallis high in the air on Poo Rock with the sky behind them. Cornwallis hums a bit]\nThat's the Circle, the Circle of Poo!\n[Cut to black]\n[Stan's house, basement, day. He hands out scripts to the other three boys]\n"
+  },
+  {
+    "input": "Which becomes dinner for the human and turns back to poo again.\n[Mr. Hankey holds Cornwallis high in the air on Poo Rock with the sky behind them. Cornwallis hums a bit]\nThat's the Circle, the Circle of Poo!\n[Cut to black]\n[Stan's house, basement, day. He hands out scripts to the other three boys]\n",
+    "output": "Okay, here's the script. But it doesn't have an ending.\n"
+  },
+  {
+    "input": "Okay, here's the script. But it doesn't have an ending.\n",
+    "output": "No ending? Well, we can't animate until we have our voices recorded, so we'd better just record what we have and figure out the ending later. [they walk over to some microphones.]\n"
+  },
+  {
+    "input": "No ending? Well, we can't animate until we have our voices recorded, so we'd better just record what we have and figure out the ending later. [they walk over to some microphones.]\n",
+    "output": "[instructing] Okay, talk directly in the mike and don't hit any hard p's.\n"
+  },
+  {
+    "input": "[instructing] Okay, talk directly in the mike and don't hit any hard p's.\n",
+    "output": "What's a hard p?\n"
+  },
+  {
+    "input": "What's a hard p?\n",
+    "output": "You know, first thing in the morning when it just won't come out?\n"
+  },
+  {
+    "input": "You know, first thing in the morning when it just won't come out?\n",
+    "output": "Oh, yeah.\n"
+  },
+  {
+    "input": "Oh, yeah.\n",
+    "output": "Uumm, okay, sound is speeding, and... [cues the boys by raising his hand]\n"
+  },
+  {
+    "input": "Uumm, okay, sound is speeding, and... [cues the boys by raising his hand]\n",
+    "output": "We wish you a Merry Christmas\n"
+  },
+  {
+    "input": "We wish you a Merry Christmas\n",
+    "output": "Hold on.\n"
+  },
+  {
+    "input": "Hold on.\n",
+    "output": "We wish-\n[the sound man presses a few buttons, and some white noise blasts through the boys' headphones]\n"
+  },
+  {
+    "input": "We wish-\n[the sound man presses a few buttons, and some white noise blasts through the boys' headphones]\n",
+    "output": "[twisting in pain] AAAAAAAAAAAAAA!!!\n"
+  },
+  {
+    "input": "[twisting in pain] AAAAAAAAAAAAAA!!!\n",
+    "output": "...deh..OOOWW!!!\n"
+  },
+  {
+    "input": "...deh..OOOWW!!!\n",
+    "output": "Uh, [makes more changes to the sound settings] mmm. Okay, and? [cues the boys]\n"
+  },
+  {
+    "input": "Uh, [makes more changes to the sound settings] mmm. Okay, and? [cues the boys]\n",
+    "output": "We wish you a merry Christmas,\nWe wish you a merry Christmas,\nWe wish you a merry Christmas--\n"
+  },
+  {
+    "input": "We wish you a merry Christmas,\nWe wish you a merry Christmas,\nWe wish you a merry Christmas--\n",
+    "output": "Hey! Wait a minute!\n"
+  },
+  {
+    "input": "Hey! Wait a minute!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Aren't you Jewish, Kyle?\n"
+  },
+  {
+    "input": "Aren't you Jewish, Kyle?\n",
+    "output": "Well, yes, I think so.\n"
+  },
+  {
+    "input": "Well, yes, I think so.\n",
+    "output": "[calmly] Dude, Jewish people don't celebrate Christmas. You're supposed to sing Chanukah songs. [Kyle cues the piano player, who begins playing]\n"
+  },
+  {
+    "input": "[calmly] Dude, Jewish people don't celebrate Christmas. You're supposed to sing Chanukah songs. [Kyle cues the piano player, who begins playing]\n",
+    "output": "Dreidel dreidel dreidel,\nI made you out of clay,\nDreidel dreidel dreidel--\n"
+  },
+  {
+    "input": "Dreidel dreidel dreidel,\nI made you out of clay,\nDreidel dreidel dreidel--\n",
+    "output": "[grins] Heheheheh, Chanukah sucks.\n"
+  },
+  {
+    "input": "[grins] Heheheheh, Chanukah sucks.\n",
+    "output": "[throws his headphones off and faces Cartman angrily] Don't you oppress me, fat boy.\n"
+  },
+  {
+    "input": "[throws his headphones off and faces Cartman angrily] Don't you oppress me, fat boy.\n",
+    "output": "[throws his headphones off] Don't call me fat, buttfucker.\n"
+  },
+  {
+    "input": "[throws his headphones off] Don't call me fat, buttfucker.\n",
+    "output": "Then don't belittle my people you fuckin' fatass!\n"
+  },
+  {
+    "input": "Then don't belittle my people you fuckin' fatass!\n",
+    "output": "You guys, knock it off! We have to record this! [the sound man begins to laugh heartily]\n"
+  },
+  {
+    "input": "You guys, knock it off! We have to record this! [the sound man begins to laugh heartily]\n",
+    "output": "[composes himself] Dude, that was awesome.\n"
+  },
+  {
+    "input": "[composes himself] Dude, that was awesome.\n",
+    "output": "What's awesome?\n"
+  },
+  {
+    "input": "What's awesome?\n",
+    "output": "The script. It's sweet.\n"
+  },
+  {
+    "input": "The script. It's sweet.\n",
+    "output": "That's not in the script They do this all the time.\n"
+  },
+  {
+    "input": "That's not in the script They do this all the time.\n",
+    "output": "Well, it should be in the script. All that \"you're fat\" and \"you're a Jew\" and stuff. It's great. [the boys look at each other]\n[South Park, Photo Dojo, day. The boys are gathered round a camera, which is pointing straight down onto the poster Butters made for them. Two lights shine on the poster, and the cutouts are in place. Some other heads are at the top end of the poster]\n"
+  },
+  {
+    "input": "Well, it should be in the script. All that \"you're fat\" and \"you're a Jew\" and stuff. It's great. [the boys look at each other]\n[South Park, Photo Dojo, day. The boys are gathered round a camera, which is pointing straight down onto the poster Butters made for them. Two lights shine on the poster, and the cutouts are in place. Some other heads are at the top end of the poster]\n",
+    "output": "Check it out, dude. The camera shoots one frame at a time. So, all we gotta do, is put the right mouth on, according to what syllable they're pronouncing at that frame.\n"
+  },
+  {
+    "input": "Check it out, dude. The camera shoots one frame at a time. So, all we gotta do, is put the right mouth on, according to what syllable they're pronouncing at that frame.\n",
+    "output": "Easy.\n"
+  },
+  {
+    "input": "Easy.\n",
+    "output": "Yeah. So what's the first syllable?\n"
+  },
+  {
+    "input": "Yeah. So what's the first syllable?\n",
+    "output": "Uhd- W, WW-e wish you a Merry Christmas\n"
+  },
+  {
+    "input": "Uhd- W, WW-e wish you a Merry Christmas\n",
+    "output": "Okay. So we put little \"woo\" mouths on all our heads. [sets the \"woo\" mouths in place] And then we shoot that for one frame.\n"
+  },
+  {
+    "input": "Okay. So we put little \"woo\" mouths on all our heads. [sets the \"woo\" mouths in place] And then we shoot that for one frame.\n",
+    "output": "Okay. [snaps the shot] One.\n"
+  },
+  {
+    "input": "Okay. [snaps the shot] One.\n",
+    "output": "That's one twenty-fourth of a second of our movie already shot! [exults]\n"
+  },
+  {
+    "input": "That's one twenty-fourth of a second of our movie already shot! [exults]\n",
+    "output": "Kickass!\n"
+  },
+  {
+    "input": "Kickass!\n",
+    "output": "Now, the next mouth.\n"
+  },
+  {
+    "input": "Now, the next mouth.\n",
+    "output": "Uuhh, E. W-EE wish you a Merry Christmas. [both turn aside to look around]\n"
+  },
+  {
+    "input": "Uuhh, E. W-EE wish you a Merry Christmas. [both turn aside to look around]\n",
+    "output": "Okay, where are the E-mouths?\n"
+  },
+  {
+    "input": "Okay, where are the E-mouths?\n",
+    "output": "[softly] E mouths...\n[South Park, Photo Dojo, three hours later. The boys' eyelids are drooping and they're tired]\n"
+  },
+  {
+    "input": "[softly] E mouths...\n[South Park, Photo Dojo, three hours later. The boys' eyelids are drooping and they're tired]\n",
+    "output": "Okay. \"Woo\" mouths again?\n"
+  },
+  {
+    "input": "Okay. \"Woo\" mouths again?\n",
+    "output": "[snap] 1 [snap] 2.\n"
+  },
+  {
+    "input": "[snap] 1 [snap] 2.\n",
+    "output": "So how much done is that?\n"
+  },
+  {
+    "input": "So how much done is that?\n",
+    "output": "\"We wish you a m- Merry\"\n"
+  },
+  {
+    "input": "\"We wish you a m- Merry\"\n",
+    "output": "[softly] Aw, [loudly] Jesus Christ!\n[South Park Drive-In, night. The boys' eyelids are drooping and they're tired]\n"
+  },
+  {
+    "input": "[softly] Aw, [loudly] Jesus Christ!\n[South Park Drive-In, night. The boys' eyelids are drooping and they're tired]\n",
+    "output": "[enters the drive-in with her aides] This kids better make a good Christmas movie, Johnson. If people in this town don't start shopping again, we're all gonna be out of jobs next year.\n"
+  },
+  {
+    "input": "[enters the drive-in with her aides] This kids better make a good Christmas movie, Johnson. If people in this town don't start shopping again, we're all gonna be out of jobs next year.\n",
+    "output": "This... place is pretty run-down.\n"
+  },
+  {
+    "input": "This... place is pretty run-down.\n",
+    "output": "It's alright, we've got a clean-up crew coming.\n"
+  },
+  {
+    "input": "It's alright, we've got a clean-up crew coming.\n",
+    "output": "[off-screen] Hoowwddy ho! [the Mayor and Johnson look around] Down here!\n"
+  },
+  {
+    "input": "[off-screen] Hoowwddy ho! [the Mayor and Johnson look around] Down here!\n",
+    "output": "[jumps back] WAAGGH!\n"
+  },
+  {
+    "input": "[jumps back] WAAGGH!\n",
+    "output": "[displeased] Oh. Mr. Hankey, it's you. How wonderful.\n"
+  },
+  {
+    "input": "[displeased] Oh. Mr. Hankey, it's you. How wonderful.\n",
+    "output": "My family and I are here to get the drive-in ready for the biig movie.\n"
+  },
+  {
+    "input": "My family and I are here to get the drive-in ready for the biig movie.\n",
+    "output": "[drunk and still holding a martini, to Johnson] Hi there, Mr. Important Political Person. *hic* [Johnson looks disturbed] You wanna bet me I won't take off my clothes and run naked through this parkin' lot?\n"
+  },
+  {
+    "input": "[drunk and still holding a martini, to Johnson] Hi there, Mr. Important Political Person. *hic* [Johnson looks disturbed] You wanna bet me I won't take off my clothes and run naked through this parkin' lot?\n",
+    "output": "[softly blocking] Uh-uh, honey, please don't start!\n"
+  },
+  {
+    "input": "[softly blocking] Uh-uh, honey, please don't start!\n",
+    "output": "I didn't start it! He was looking at my breasts!\n"
+  },
+  {
+    "input": "I didn't start it! He was looking at my breasts!\n",
+    "output": "They're not real, you know.\n"
+  },
+  {
+    "input": "They're not real, you know.\n",
+    "output": "Don't you say that! [hugs him, but he pushes her off]\n"
+  },
+  {
+    "input": "Don't you say that! [hugs him, but he pushes her off]\n",
+    "output": "Oh, big secret! Everyone can tell they're made of silicorn!\n"
+  },
+  {
+    "input": "Oh, big secret! Everyone can tell they're made of silicorn!\n",
+    "output": "Uhhh, we'll just leave you to your cleanup. [leads the Mayor and the other aide away]\n"
+  },
+  {
+    "input": "Uhhh, we'll just leave you to your cleanup. [leads the Mayor and the other aide away]\n",
+    "output": "Okay! Boy, oh boy, this place suuure needs a lot of work.\n"
+  },
+  {
+    "input": "Okay! Boy, oh boy, this place suuure needs a lot of work.\n",
+    "output": "We can fix it up, Dad.\n"
+  },
+  {
+    "input": "We can fix it up, Dad.\n",
+    "output": "Oh, look! A homeless person. [the man is seen sleeping on the ground covered in papers and cardboard] Oh. He looks sad, Papa. [hops over to him and leaves a poo smile on his lips] There. That's better.\n"
+  },
+  {
+    "input": "Oh, look! A homeless person. [the man is seen sleeping on the ground covered in papers and cardboard] Oh. He looks sad, Papa. [hops over to him and leaves a poo smile on his lips] There. That's better.\n",
+    "output": "Good job, Amber. Now this place is starting to look Christmasy [the man continues to sleep...]\n[South Park, Photo Dojo, next day. The boys are back at the animatic further along in the project]\n"
+  },
+  {
+    "input": "Good job, Amber. Now this place is starting to look Christmasy [the man continues to sleep...]\n[South Park, Photo Dojo, next day. The boys are back at the animatic further along in the project]\n",
+    "output": "Okay. Okay, the shot is finally set up. Now shoot the O mouth for two frames. [Cartman sneezes and immediately realizes what he just did]\n"
+  },
+  {
+    "input": "Okay. Okay, the shot is finally set up. Now shoot the O mouth for two frames. [Cartman sneezes and immediately realizes what he just did]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Cartman!\n"
+  },
+  {
+    "input": "Cartman!\n",
+    "output": "Well, I'm sorry! I have a cold!\n"
+  },
+  {
+    "input": "Well, I'm sorry! I have a cold!\n",
+    "output": "That took us half an hour to set up, fatass!\n"
+  },
+  {
+    "input": "That took us half an hour to set up, fatass!\n",
+    "output": "Alright! You know what? I have been here TOO LONG! I'm sick of making this stupid cartoon, and we're never goin' to finish it anyways! [walks off and stops at the door] Screw you guys, I'm goin' home!\n"
+  },
+  {
+    "input": "Alright! You know what? I have been here TOO LONG! I'm sick of making this stupid cartoon, and we're never goin' to finish it anyways! [walks off and stops at the door] Screw you guys, I'm goin' home!\n",
+    "output": "[rushing to the door] Fine! We'll do it with out you!\n"
+  },
+  {
+    "input": "[rushing to the door] Fine! We'll do it with out you!\n",
+    "output": "We can't do it without him, Kyle. We've already animated him in it!\n"
+  },
+  {
+    "input": "We can't do it without him, Kyle. We've already animated him in it!\n",
+    "output": "We'll dub his voice over.\n"
+  },
+  {
+    "input": "We'll dub his voice over.\n",
+    "output": "Kyle, it's hopeless. We've only got 20 seconds of animation done, and we still have Jesus' and Santa's voices to record, and we don't even have a third act. Dude, it would take a miracle to finish this thing!\n"
+  },
+  {
+    "input": "Kyle, it's hopeless. We've only got 20 seconds of animation done, and we still have Jesus' and Santa's voices to record, and we don't even have a third act. Dude, it would take a miracle to finish this thing!\n",
+    "output": "Now, don't go saying that. There's always hope. Miracles happen most every day.\n\nTo people like you, and me.\nBut don't expect a miracle.\nUnless you help make it to be.\n\nYou hope, and I'll hurry.\n[takes the poster and rolls it up.]\nYou pray, and I'll plan\n[The boys exit the Photo Dojo with it]\nWe'll do what's necessary, 'cause\n[now in Stan's room, works on a Brian Boitano cutout]\nEven a miracle needs a hand!\n[walks up to the wall and adds a scene to Act II]\n"
+  },
+  {
+    "input": "Now, don't go saying that. There's always hope. Miracles happen most every day.\n\nTo people like you, and me.\nBut don't expect a miracle.\nUnless you help make it to be.\n\nYou hope, and I'll hurry.\n[takes the poster and rolls it up.]\nYou pray, and I'll plan\n[The boys exit the Photo Dojo with it]\nWe'll do what's necessary, 'cause\n[now in Stan's room, works on a Brian Boitano cutout]\nEven a miracle needs a hand!\n[walks up to the wall and adds a scene to Act II]\n",
+    "output": "You love-\n"
+  },
+  {
+    "input": "You love-\n",
+    "output": "We love\n"
+  },
+  {
+    "input": "We love\n",
+    "output": "-And I'll labor. [takes down the scene]\n"
+  },
+  {
+    "input": "-And I'll labor. [takes down the scene]\n",
+    "output": "Tralala\n"
+  },
+  {
+    "input": "Tralala\n",
+    "output": "You sit- [puts it up again]\n"
+  },
+  {
+    "input": "You sit- [puts it up again]\n",
+    "output": "We sit.\n"
+  },
+  {
+    "input": "We sit.\n",
+    "output": "-And I'll stand. [a funny look appears on his face]\n"
+  },
+  {
+    "input": "-And I'll stand. [a funny look appears on his face]\n",
+    "output": "Tralalalala\n"
+  },
+  {
+    "input": "Tralalalala\n",
+    "output": "Get help from our next-door neighbor, 'cause\n\n[Kenny begins to hum as the Hankey family is shown cleaning up the drive-in]\n"
+  },
+  {
+    "input": "Get help from our next-door neighbor, 'cause\n\n[Kenny begins to hum as the Hankey family is shown cleaning up the drive-in]\n",
+    "output": "Even a miracle needs a hand!\n\n[Autumn is passed out to one side of the film projector as Mr. Hankey cleans up]\n[Stan's house, basement, day. Stan and Kyle have to work without Cartman, so they stand wearing headphones and reading the script aloud]\n"
+  },
+  {
+    "input": "Even a miracle needs a hand!\n\n[Autumn is passed out to one side of the film projector as Mr. Hankey cleans up]\n[Stan's house, basement, day. Stan and Kyle have to work without Cartman, so they stand wearing headphones and reading the script aloud]\n",
+    "output": "You can do Cartman's voice, can't you?\n"
+  },
+  {
+    "input": "You can do Cartman's voice, can't you?\n",
+    "output": "\"Awgh! I'm so fat!\"\n"
+  },
+  {
+    "input": "\"Awgh! I'm so fat!\"\n",
+    "output": "Nuh, you've gotta sound fatter.\n"
+  },
+  {
+    "input": "Nuh, you've gotta sound fatter.\n",
+    "output": "[with tongue filling his mouth] \"Hey, you guys! Seriouslih! I'm so fat! Help me out over hmyah!\"\n"
+  },
+  {
+    "input": "[with tongue filling his mouth] \"Hey, you guys! Seriouslih! I'm so fat! Help me out over hmyah!\"\n",
+    "output": "Cool! Now let's try the script!\n"
+  },
+  {
+    "input": "Cool! Now let's try the script!\n",
+    "output": "Rolling...\n"
+  },
+  {
+    "input": "Rolling...\n",
+    "output": "[Doing his and Cartman's parts]\nStan: I don't know what to do, dude. Who should we help?\nCartman: I say we help Santa Claus!\n"
+  },
+  {
+    "input": "[Doing his and Cartman's parts]\nStan: I don't know what to do, dude. Who should we help?\nCartman: I say we help Santa Claus!\n",
+    "output": "Oh, you're just saying that because he brings you candy.\n"
+  },
+  {
+    "input": "Oh, you're just saying that because he brings you candy.\n",
+    "output": "Cartman: Ey! I don't need to take that kind of shit from a Jew! [both boys grin, and the sound man signals his approval with a thumbs-up]\n[Stan's house, living room, day. Kyle and Stan resume singing as Kyle packs the cutouts into a box headed for Korea]\n"
+  },
+  {
+    "input": "Cartman: Ey! I don't need to take that kind of shit from a Jew! [both boys grin, and the sound man signals his approval with a thumbs-up]\n[Stan's house, living room, day. Kyle and Stan resume singing as Kyle packs the cutouts into a box headed for Korea]\n",
+    "output": "You wish-\n"
+  },
+  {
+    "input": "You wish-\n",
+    "output": "We wish\n"
+  },
+  {
+    "input": "We wish\n",
+    "output": "-And I'll whittle.\n"
+  },
+  {
+    "input": "-And I'll whittle.\n",
+    "output": "Tralalalala\n"
+  },
+  {
+    "input": "Tralalalala\n",
+    "output": "You sit- [closes the box and tosses it up]\n"
+  },
+  {
+    "input": "You sit- [closes the box and tosses it up]\n",
+    "output": "We sit.\n"
+  },
+  {
+    "input": "We sit.\n",
+    "output": "-And I'll stand. [displays the box's destination and walks out with it]\n"
+  },
+  {
+    "input": "-And I'll stand. [displays the box's destination and walks out with it]\n",
+    "output": "Tralalalala\n"
+  },
+  {
+    "input": "Tralalalala\n",
+    "output": "[with Kenny humming] Let's all try to help a little, 'cause\n[A group of 20 Korean inbetweeners are shown working hard on the short]\n[South Park, Potter's Art Store, day. Stan, Kyle, and Kenny walk out with construction paper]\n"
+  },
+  {
+    "input": "[with Kenny humming] Let's all try to help a little, 'cause\n[A group of 20 Korean inbetweeners are shown working hard on the short]\n[South Park, Potter's Art Store, day. Stan, Kyle, and Kenny walk out with construction paper]\n",
+    "output": "Even a miracle- [a car comes in and runs over Kenny as the driver honks, leaving Kenny flat as a pancake. The boys just look in wonder]\n"
+  },
+  {
+    "input": "Even a miracle- [a car comes in and runs over Kenny as the driver honks, leaving Kenny flat as a pancake. The boys just look in wonder]\n",
+    "output": "...It's okay. We'll just have his character die in the film. [they resume singing and walk away]\n[Stan's house, living room, day. Stan and Kyle are there. A large box has come for Stan and he's about to open it]\n"
+  },
+  {
+    "input": "...It's okay. We'll just have his character die in the film. [they resume singing and walk away]\n[Stan's house, living room, day. Stan and Kyle are there. A large box has come for Stan and he's about to open it]\n",
+    "output": "\n[South Park Drive-In, night. The drive-in is cleaned up now. The entire town shows up to see the short film. To the left, two klieg lights shine on a high platform on which stand the Mayor and her aides; Stan, Kyle, and Cartman. A decorated Christmas tree stands behind them. On close-up, though, Cartman is missing]\n"
+  },
+  {
+    "input": "\n[South Park Drive-In, night. The drive-in is cleaned up now. The entire town shows up to see the short film. To the left, two klieg lights shine on a high platform on which stand the Mayor and her aides; Stan, Kyle, and Cartman. A decorated Christmas tree stands behind them. On close-up, though, Cartman is missing]\n",
+    "output": "Citizens of South Park, the Colorado Film Commission is pleased to present to you a work by some of our very own South Park children. [the crowd erupts in applause]\n"
+  },
+  {
+    "input": "Citizens of South Park, the Colorado Film Commission is pleased to present to you a work by some of our very own South Park children. [the crowd erupts in applause]\n",
+    "output": "[enters victoriously] Thank you, thank you. [Stan and Kyle look at him annoyed]\n"
+  },
+  {
+    "input": "[enters victoriously] Thank you, thank you. [Stan and Kyle look at him annoyed]\n",
+    "output": "Cartman, what the hell are you doing here?! You quit!\n"
+  },
+  {
+    "input": "Cartman, what the hell are you doing here?! You quit!\n",
+    "output": "What are you talkin' about, \"quit\"? Huh! I don't remember that.\n"
+  },
+  {
+    "input": "What are you talkin' about, \"quit\"? Huh! I don't remember that.\n",
+    "output": "We know that after you see this darling short film, [the crowd is shown] you will all feel the mighty glow of the Christmas spirit once again. Boys?\n"
+  },
+  {
+    "input": "We know that after you see this darling short film, [the crowd is shown] you will all feel the mighty glow of the Christmas spirit once again. Boys?\n",
+    "output": "Okay, Mr. Hankey!\n"
+  },
+  {
+    "input": "Okay, Mr. Hankey!\n",
+    "output": "[in the booth] O-kay! [starts the projector. The opening screen of \"The Spirit of Christmas\" is shown as music plays.]\n[Scene: a snowy hill. South Park comes into view. A squirrel pops up to see the camera, then drops away next to the town sign. Kids can be heard singing a Christmas carol. The camera pans to the right]\n"
+  },
+  {
+    "input": "[in the booth] O-kay! [starts the projector. The opening screen of \"The Spirit of Christmas\" is shown as music plays.]\n[Scene: a snowy hill. South Park comes into view. A squirrel pops up to see the camera, then drops away next to the town sign. Kids can be heard singing a Christmas carol. The camera pans to the right]\n",
+    "output": "We wish you a merry Christmas,\nWe wish you a merry Christmas,\nWe wish you a merry Christmas--\n"
+  },
+  {
+    "input": "We wish you a merry Christmas,\nWe wish you a merry Christmas,\nWe wish you a merry Christmas--\n",
+    "output": "Hey! Wait a minute!\n"
+  },
+  {
+    "input": "Hey! Wait a minute!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Aren't you Jewish, Kyle?\n"
+  },
+  {
+    "input": "Aren't you Jewish, Kyle?\n",
+    "output": "Yeah, I think so.\n"
+  },
+  {
+    "input": "Yeah, I think so.\n",
+    "output": "(voice rising) Dude, Jewish people don't celebrate Christmas!\n"
+  },
+  {
+    "input": "(voice rising) Dude, Jewish people don't celebrate Christmas!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "You're supposed to sing Chanukah songs!\n"
+  },
+  {
+    "input": "You're supposed to sing Chanukah songs!\n",
+    "output": "Dreidel dreidel dreidel-\n[the film snaps in two and grinds to a halt. Fear strikes the boys' faces, then the Mayor's face. The film spools out of the reels and Mr. Hankey holds the unwound film in his hands]\n"
+  },
+  {
+    "input": "Dreidel dreidel dreidel-\n[the film snaps in two and grinds to a halt. Fear strikes the boys' faces, then the Mayor's face. The film spools out of the reels and Mr. Hankey holds the unwound film in his hands]\n",
+    "output": "Eehhhh, pretty! [the crowd begins to disperse and grumble]\n"
+  },
+  {
+    "input": "Eehhhh, pretty! [the crowd begins to disperse and grumble]\n",
+    "output": "Oh, that's Christmas for ya.\n"
+  },
+  {
+    "input": "Oh, that's Christmas for ya.\n",
+    "output": "Uhuh, just hang on folks. We seem to be having some technical difficulties.\n"
+  },
+  {
+    "input": "Uhuh, just hang on folks. We seem to be having some technical difficulties.\n",
+    "output": "Boring.\n"
+  },
+  {
+    "input": "Boring.\n",
+    "output": "I've gotta go.\n"
+  },
+  {
+    "input": "I've gotta go.\n",
+    "output": "Stupid.\n"
+  },
+  {
+    "input": "Stupid.\n",
+    "output": "[as the boys enter the projection booth] It's completely destroyed! There's nothin' I can do!\n"
+  },
+  {
+    "input": "[as the boys enter the projection booth] It's completely destroyed! There's nothin' I can do!\n",
+    "output": "All that hard work.\n"
+  },
+  {
+    "input": "All that hard work.\n",
+    "output": "Well, thanks a lot, kids. Great idea you had there. Now everyone is more disenfranchised with Christmas than ever. We want our three hundred bucks back!\n"
+  },
+  {
+    "input": "Well, thanks a lot, kids. Great idea you had there. Now everyone is more disenfranchised with Christmas than ever. We want our three hundred bucks back!\n",
+    "output": "But we spent it!\n"
+  },
+  {
+    "input": "But we spent it!\n",
+    "output": "Fine. Then we'll sue you. [leaves with the aides] Johnson? [the other aide stays behind]\n"
+  },
+  {
+    "input": "Fine. Then we'll sue you. [leaves with the aides] Johnson? [the other aide stays behind]\n",
+    "output": "I... used to believe in miracles. [leaves]\n"
+  },
+  {
+    "input": "I... used to believe in miracles. [leaves]\n",
+    "output": "All that work!\n"
+  },
+  {
+    "input": "All that work!\n",
+    "output": "For nothing.\n"
+  },
+  {
+    "input": "For nothing.\n",
+    "output": "Boys, I uh, I'm s-, I'm sorry.\n"
+  },
+  {
+    "input": "Boys, I uh, I'm s-, I'm sorry.\n",
+    "output": "Sure. Sh-sure, Mr. Hankey.\n"
+  },
+  {
+    "input": "Sure. Sh-sure, Mr. Hankey.\n",
+    "output": "I guess- we might as well- go home now. [the boys leave and Mr. Hankey wilts]\n[The Hankey home, night. Inside, Mr. Hankey sits on the little sofa. Cornwallis hops up to him and joins him on the sofa]\n"
+  },
+  {
+    "input": "I guess- we might as well- go home now. [the boys leave and Mr. Hankey wilts]\n[The Hankey home, night. Inside, Mr. Hankey sits on the little sofa. Cornwallis hops up to him and joins him on the sofa]\n",
+    "output": "It's my fault. All my fault. I got everyone's hopes up.\n"
+  },
+  {
+    "input": "It's my fault. All my fault. I got everyone's hopes up.\n",
+    "output": "But Dad, we can fix the projector.\n"
+  },
+  {
+    "input": "But Dad, we can fix the projector.\n",
+    "output": "Aw, it's too late for that, son. everyone' gone home. And I don't know nothin' about projectors. I'm just a stupid piece of crap.\n"
+  },
+  {
+    "input": "Aw, it's too late for that, son. everyone' gone home. And I don't know nothin' about projectors. I'm just a stupid piece of crap.\n",
+    "output": "Dad, you taught me an important lesson: That crap is the cycle of everything.\n"
+  },
+  {
+    "input": "Dad, you taught me an important lesson: That crap is the cycle of everything.\n",
+    "output": "Aw, that was just a stupid song, Cornwallis! I was jus' tryin' to get you to stop your bitchin'\n"
+  },
+  {
+    "input": "Aw, that was just a stupid song, Cornwallis! I was jus' tryin' to get you to stop your bitchin'\n",
+    "output": "No, it wasn't a stupid song. Because you showed me that I have the power and the strength to do anything I want. You made me believe in myself, Dad! Now I'm asking you to do the same.\n"
+  },
+  {
+    "input": "No, it wasn't a stupid song. Because you showed me that I have the power and the strength to do anything I want. You made me believe in myself, Dad! Now I'm asking you to do the same.\n",
+    "output": "Son... [reflects for a moment] You're the smartest piece of crap since Albert Poodinger! Come on! [the two of them leave the house]\n[The Marsh house, living room, night. The immediate family is gathered]\n"
+  },
+  {
+    "input": "Son... [reflects for a moment] You're the smartest piece of crap since Albert Poodinger! Come on! [the two of them leave the house]\n[The Marsh house, living room, night. The immediate family is gathered]\n",
+    "output": "Isn't this a nice Christmas, Stanley? No commercialism and shopping, just a nice fire and family.\n"
+  },
+  {
+    "input": "Isn't this a nice Christmas, Stanley? No commercialism and shopping, just a nice fire and family.\n",
+    "output": "I wanna die. [sleigh music is heard and a light soon fills the air outside. All the Marshes look]\n[A view of the suburbs. Lights come on all over the neighborhood, and families begin to come out of their houses. one girl and her parents, another girl and her parents, a boy and girl and their parents, etc. The light everyone sees is the drive-in screen. The short has been repaired and is airing the scene where the boys first meet Jesus. The drive-in soon fills up]\n[On screen, Jesus floats down from the sky.]\n"
+  },
+  {
+    "input": "I wanna die. [sleigh music is heard and a light soon fills the air outside. All the Marshes look]\n[A view of the suburbs. Lights come on all over the neighborhood, and families begin to come out of their houses. one girl and her parents, another girl and her parents, a boy and girl and their parents, etc. The light everyone sees is the drive-in screen. The short has been repaired and is airing the scene where the boys first meet Jesus. The drive-in soon fills up]\n[On screen, Jesus floats down from the sky.]\n",
+    "output": "What the--\n"
+  },
+  {
+    "input": "What the--\n",
+    "output": "(Nooo!!) [tightens his hood]\n[The Broflovski house, night. The front door opens and Gerald and Sheila step out with Ike. Kyle follows them out.]\n"
+  },
+  {
+    "input": "(Nooo!!) [tightens his hood]\n[The Broflovski house, night. The front door opens and Gerald and Sheila step out with Ike. Kyle follows them out.]\n",
+    "output": "They did it! They got it working! [closes the door behind him]\n[On screen.]\n"
+  },
+  {
+    "input": "They did it! They got it working! [closes the door behind him]\n[On screen.]\n",
+    "output": "You have blemished the meaning of Christmas for the last time, Kringle!\n"
+  },
+  {
+    "input": "You have blemished the meaning of Christmas for the last time, Kringle!\n",
+    "output": "I bring happiness and love to children all over the world.\n"
+  },
+  {
+    "input": "I bring happiness and love to children all over the world.\n",
+    "output": "Christmas is for celebrating my birth!\n"
+  },
+  {
+    "input": "Christmas is for celebrating my birth!\n",
+    "output": "Christmas is for giving!\n[A shot of the audience]\n"
+  },
+  {
+    "input": "Christmas is for giving!\n[A shot of the audience]\n",
+    "output": "Oh, wow!\n[The Hankey house. Amber and Simon stand outside]\n"
+  },
+  {
+    "input": "Oh, wow!\n[The Hankey house. Amber and Simon stand outside]\n",
+    "output": "Mom! They got it working!\n"
+  },
+  {
+    "input": "Mom! They got it working!\n",
+    "output": "[opens the front door and exits without closing it] What's that? They got your father's penis workin' again? [the three of them leave]\n[A shot of Stan, Kyle, and Cartman smiling. On screen...]\n"
+  },
+  {
+    "input": "[opens the front door and exits without closing it] What's that? They got your father's penis workin' again? [the three of them leave]\n[A shot of Stan, Kyle, and Cartman smiling. On screen...]\n",
+    "output": "...We actually spoke\u2014to the Brian Boitano.\n"
+  },
+  {
+    "input": "...We actually spoke\u2014to the Brian Boitano.\n",
+    "output": "Yeah. And you know? I think I've learned something today, it doesn't matter if you're Christian or Jewish or Atheist or Hindu. Christmas still is about one very important thing.\n"
+  },
+  {
+    "input": "Yeah. And you know? I think I've learned something today, it doesn't matter if you're Christian or Jewish or Atheist or Hindu. Christmas still is about one very important thing.\n",
+    "output": "Yeah, ham.\n"
+  },
+  {
+    "input": "Yeah, ham.\n",
+    "output": "[angrily] No not ham!\n[The audience. The boys laugh]\n"
+  },
+  {
+    "input": "[angrily] No not ham!\n[The audience. The boys laugh]\n",
+    "output": "Ey! Why the hell did you have me say that?!\n"
+  },
+  {
+    "input": "Ey! Why the hell did you have me say that?!\n",
+    "output": "Heheh, we could make you say whatever we wanted.\n[On screen...]\n"
+  },
+  {
+    "input": "Heheh, we could make you say whatever we wanted.\n[On screen...]\n",
+    "output": "...Christmas is about something much more important!\n"
+  },
+  {
+    "input": "...Christmas is about something much more important!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[voice softens] Presents.\n"
+  },
+  {
+    "input": "[voice softens] Presents.\n",
+    "output": "[softly] Ah.\n"
+  },
+  {
+    "input": "[softly] Ah.\n",
+    "output": "Don't you see, Kyle?\n"
+  },
+  {
+    "input": "Don't you see, Kyle?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Presents.\n[The audience...]\n"
+  },
+  {
+    "input": "Presents.\n[The audience...]\n",
+    "output": "...Presents.\n"
+  },
+  {
+    "input": "...Presents.\n",
+    "output": "My God, they're right!\n"
+  },
+  {
+    "input": "My God, they're right!\n",
+    "output": "Christmas is about presents. If we all buy presents, everyone benefits. M'kay?\n"
+  },
+  {
+    "input": "Christmas is about presents. If we all buy presents, everyone benefits. M'kay?\n",
+    "output": "That is the spirit of Christmas. Commercialism. Because it's what makes our country work!\n"
+  },
+  {
+    "input": "That is the spirit of Christmas. Commercialism. Because it's what makes our country work!\n",
+    "output": "They're starting to understand, Johnson.\n"
+  },
+  {
+    "input": "They're starting to understand, Johnson.\n",
+    "output": "We got so caught up in the little things of Christmas, like love and family that... we almost forgot it's buying things that makes our economy thrive.\n"
+  },
+  {
+    "input": "We got so caught up in the little things of Christmas, like love and family that... we almost forgot it's buying things that makes our economy thrive.\n",
+    "output": "[wearing a handlebar mustache, in falsetto] Hey, the shops are still open. We still have time to shop. [the crowd starts to clamor in agreement, and soon the shops around South Park turn their lights on. Red Harris opens his toy shop up, and the crowd fills the streets, first cheering, then chatting]\n"
+  },
+  {
+    "input": "[wearing a handlebar mustache, in falsetto] Hey, the shops are still open. We still have time to shop. [the crowd starts to clamor in agreement, and soon the shops around South Park turn their lights on. Red Harris opens his toy shop up, and the crowd fills the streets, first cheering, then chatting]\n",
+    "output": "You did it, Mr. Hankey. You brought back the spirit of Christmas!\n"
+  },
+  {
+    "input": "You did it, Mr. Hankey. You brought back the spirit of Christmas!\n",
+    "output": "No, you did it, boys!\n"
+  },
+  {
+    "input": "No, you did it, boys!\n",
+    "output": "Aw, hell, we all did it!\n"
+  },
+  {
+    "input": "Aw, hell, we all did it!\n",
+    "output": "Kids, that cartoon was fabulous. How would you like to have your own show and make 100 more of them?\n"
+  },
+  {
+    "input": "Kids, that cartoon was fabulous. How would you like to have your own show and make 100 more of them?\n",
+    "output": "Are you kidding? I think we'd rather stab ourselves in the head.\n"
+  },
+  {
+    "input": "Are you kidding? I think we'd rather stab ourselves in the head.\n",
+    "output": "Yeah. Let's just go home and open our presents.\n"
+  },
+  {
+    "input": "Yeah. Let's just go home and open our presents.\n",
+    "output": "[to Stan] Hey man, if you're Jewish you get presents for eight days.\n"
+  },
+  {
+    "input": "[to Stan] Hey man, if you're Jewish you get presents for eight days.\n",
+    "output": "Wow! Count me in!\n"
+  },
+  {
+    "input": "Wow! Count me in!\n",
+    "output": "Yeah! I'll be a Jew too.\n"
+  }
+]

@@ -1,0 +1,790 @@
+[
+  {
+    "input": "",
+    "output": "Unfulfilled\n\n[The Stotch garage, day. Butters is working on his bike, trying to make it stand out]\n"
+  },
+  {
+    "input": "Unfulfilled\n\n[The Stotch garage, day. Butters is working on his bike, trying to make it stand out]\n",
+    "output": "Oh, boy! This is looking so great. [Stephen enters and takes a safety vest from the coat rack by the door] Hey, Dad! The big bike parade is this weekend. How's it look? First prize is $50!\n"
+  },
+  {
+    "input": "Oh, boy! This is looking so great. [Stephen enters and takes a safety vest from the coat rack by the door] Hey, Dad! The big bike parade is this weekend. How's it look? First prize is $50!\n",
+    "output": "[frustrated] What are you saying, that our family needs cash?! I'm busting my ass trying to make ends meet! You wanna go live with Kim Kardashian?! She's better than me 'cause she's got money?! Fuck you, son! [leaves and slams the door. Butters' smile stays]\n[The Stotch kitchen, moments later. Stephen enters and puts on the vest]\n"
+  },
+  {
+    "input": "[frustrated] What are you saying, that our family needs cash?! I'm busting my ass trying to make ends meet! You wanna go live with Kim Kardashian?! She's better than me 'cause she's got money?! Fuck you, son! [leaves and slams the door. Butters' smile stays]\n[The Stotch kitchen, moments later. Stephen enters and puts on the vest]\n",
+    "output": "Butters really loves that bike parade.\n"
+  },
+  {
+    "input": "Butters really loves that bike parade.\n",
+    "output": "[frustrated] I don't need to be reminded every ten minutes that money's tight! [Linda puts her hands together and looks down. He sighs] I'm sorry. It's just this new job. It can be such a grind.\n"
+  },
+  {
+    "input": "[frustrated] I don't need to be reminded every ten minutes that money's tight! [Linda puts her hands together and looks down. He sighs] I'm sorry. It's just this new job. It can be such a grind.\n",
+    "output": "[consoles him] You work too hard at that place.\n"
+  },
+  {
+    "input": "[consoles him] You work too hard at that place.\n",
+    "output": "[takes Linda's hands and holds them] Kids these days just don't understand how much their parents break their back to provide.\n"
+  },
+  {
+    "input": "[takes Linda's hands and holds them] Kids these days just don't understand how much their parents break their back to provide.\n",
+    "output": "[from outside] Come on, Stotch! [Stephen goes to the front door and opens it]\n[Stotch Residence, exterior. Outside, the gruff worker stands in front of a copper colored sedan, along with Stuart McCorrmick and one of the town rednecks. All three are wearing safety vests.]\n"
+  },
+  {
+    "input": "[from outside] Come on, Stotch! [Stephen goes to the front door and opens it]\n[Stotch Residence, exterior. Outside, the gruff worker stands in front of a copper colored sedan, along with Stuart McCorrmick and one of the town rednecks. All three are wearing safety vests.]\n",
+    "output": "You're drivin' carpool today or not?\n"
+  },
+  {
+    "input": "You're drivin' carpool today or not?\n",
+    "output": "Gotta get down factory before the bell!\n"
+  },
+  {
+    "input": "Gotta get down factory before the bell!\n",
+    "output": "[he briefly holds Linda's hand before leaving] Goodbye, Linda.\n"
+  },
+  {
+    "input": "[he briefly holds Linda's hand before leaving] Goodbye, Linda.\n",
+    "output": "Don't let that place work you to death.\n[Montage, set to \"Sixteen Tons\" by Tennessee Ernie Ford. The four men drive to their new jobs - at the Amazon Fulfillment Center. All workers drive through checkpoints and then park. They go through turnstiles that only turn one way. The scenes then focus on Stephen, who's shown lifting boxes onto a waiting cart. Other scenes show other parts of packaging that Stephen is performing. Then they show him and other employees eating lunch at the cafeteria. Stephen has earphones on while eating his lunch and then subscribes to Amazon Prime music. Then scenes of automated robots working alongside the workers. A few hours more of this and Stuart goes home for the day. He pulls up to his driveway and brings Butters some things from Amazon, including Amazon Prime TV. He then goes to the kitchen to give Linda a new hand blender. At bedtime, Linda looks at her phone while Stephen is at the computer ordering a desk lamp on Amazon. Next day, the whole thing starts over again. The four men carpool to work, Stephen is at a receiving workstation then the workday is filmed in time-lapse photographs. Most of that time, Stephen is shown standing in one place. Another scene shows the outgoing boxes being stamped with the shipping information, then being sorted to their destinations. Some packages are being sent through Amazon Prime Air, the new drone delivery service. The last scene shows Stephen driving onto his driveway and getting out just in time to see a drone deliver another package to his door. He picks it up and gives it to Butters in the garage. It's a new horn for his bicycle]\n"
+  },
+  {
+    "input": "Don't let that place work you to death.\n[Montage, set to \"Sixteen Tons\" by Tennessee Ernie Ford. The four men drive to their new jobs - at the Amazon Fulfillment Center. All workers drive through checkpoints and then park. They go through turnstiles that only turn one way. The scenes then focus on Stephen, who's shown lifting boxes onto a waiting cart. Other scenes show other parts of packaging that Stephen is performing. Then they show him and other employees eating lunch at the cafeteria. Stephen has earphones on while eating his lunch and then subscribes to Amazon Prime music. Then scenes of automated robots working alongside the workers. A few hours more of this and Stuart goes home for the day. He pulls up to his driveway and brings Butters some things from Amazon, including Amazon Prime TV. He then goes to the kitchen to give Linda a new hand blender. At bedtime, Linda looks at her phone while Stephen is at the computer ordering a desk lamp on Amazon. Next day, the whole thing starts over again. The four men carpool to work, Stephen is at a receiving workstation then the workday is filmed in time-lapse photographs. Most of that time, Stephen is shown standing in one place. Another scene shows the outgoing boxes being stamped with the shipping information, then being sorted to their destinations. Some packages are being sent through Amazon Prime Air, the new drone delivery service. The last scene shows Stephen driving onto his driveway and getting out just in time to see a drone deliver another package to his door. He picks it up and gives it to Butters in the garage. It's a new horn for his bicycle]\n",
+    "output": "Some people say a man is made outta mud\nA poor man's made outta muscle and blood\nMuscle and blood and skin and bones\nA mind that's a-weak and a back that's strong\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n\nI was born one mornin' when the sun didn't shine\nI picked up my shovel and I walked to the mine\nI loaded sixteen tons of number nine coal\nAnd the straw boss said \"Well, a-bless my soul\"\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n\nI was born one mornin', it was drizzlin' rain\nFightin' and trouble are my middle name\nI was raised in the canebrake by an ol' mama lion\nCan't no-a high-toned woman make me walk the line\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n[The neighborhood. Butters takes his bike out for a spin. It's got a new horn as well as reflective stars on the wheels, some playing cards sticking to a clothespin attached to the bike form.]\n"
+  },
+  {
+    "input": "Some people say a man is made outta mud\nA poor man's made outta muscle and blood\nMuscle and blood and skin and bones\nA mind that's a-weak and a back that's strong\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n\nI was born one mornin' when the sun didn't shine\nI picked up my shovel and I walked to the mine\nI loaded sixteen tons of number nine coal\nAnd the straw boss said \"Well, a-bless my soul\"\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n\nI was born one mornin', it was drizzlin' rain\nFightin' and trouble are my middle name\nI was raised in the canebrake by an ol' mama lion\nCan't no-a high-toned woman make me walk the line\n\nYou load sixteen tons, what do you get?\nAnother day older and deeper in debt\nSaint Peter don't you call me 'cause I can't go\nI owe my soul to the company store\n[The neighborhood. Butters takes his bike out for a spin. It's got a new horn as well as reflective stars on the wheels, some playing cards sticking to a clothespin attached to the bike form.]\n",
+    "output": "[joyfully] Yeah! Yippie! [Stan and friends sit on the curb. Butters honks his horn as he passes by] Hey, fellas, what'dya think? [Cartman, wearing his Buddha Box, lifts it up and looks]\n"
+  },
+  {
+    "input": "[joyfully] Yeah! Yippie! [Stan and friends sit on the curb. Butters honks his horn as he passes by] Hey, fellas, what'dya think? [Cartman, wearing his Buddha Box, lifts it up and looks]\n",
+    "output": "Think about what?\n"
+  },
+  {
+    "input": "Think about what?\n",
+    "output": "How my decorations are coming. The big bike parade is this weekend.\n"
+  },
+  {
+    "input": "How my decorations are coming. The big bike parade is this weekend.\n",
+    "output": "Bike parade? That's so dumb.\n"
+  },
+  {
+    "input": "Bike parade? That's so dumb.\n",
+    "output": "Well, you won't think it's dumb when I win first prize. I'm goin' all out this year. I'll finally beat Larry Zewiski.\n"
+  },
+  {
+    "input": "Well, you won't think it's dumb when I win first prize. I'm goin' all out this year. I'll finally beat Larry Zewiski.\n",
+    "output": "Dude, nobody cares about a stupid bike parade.\n"
+  },
+  {
+    "input": "Dude, nobody cares about a stupid bike parade.\n",
+    "output": "Hey, Stotch! [everybody looks over. Larry's on a tricycle, which has several flags on it, with four rockets strapped to the rear wheels, and he's exuding confidence] You gettin' pumped for the big bike parade? [Cartman lifts up his Buddha Box and looks over] Yeah, I'm pretty excited, I guess.\n"
+  },
+  {
+    "input": "Hey, Stotch! [everybody looks over. Larry's on a tricycle, which has several flags on it, with four rockets strapped to the rear wheels, and he's exuding confidence] You gettin' pumped for the big bike parade? [Cartman lifts up his Buddha Box and looks over] Yeah, I'm pretty excited, I guess.\n",
+    "output": "Wow! Hey, nice bike, Larry.\n"
+  },
+  {
+    "input": "Wow! Hey, nice bike, Larry.\n",
+    "output": "Are you gonna be in the bike parade?\n"
+  },
+  {
+    "input": "Are you gonna be in the bike parade?\n",
+    "output": "Yeah, I'm thinkin' about it. [the boys just stare.] Come on, girls. I'll show you my blue ribbons. Later, Stotch. Sucka! [he and the girls leave]\n"
+  },
+  {
+    "input": "Yeah, I'm thinkin' about it. [the boys just stare.] Come on, girls. I'll show you my blue ribbons. Later, Stotch. Sucka! [he and the girls leave]\n",
+    "output": "[head lowered] Well, anyway... [looks at the boys] well, I'm gettin' some more things for my bike too. [lowers his head again] Um... I'll see ya, fellas. [walks away slowly. The boys watch him leave]\n[Amazon Fulfillment Center. In the main shopping area, Stephen shows the Tweeks the ropes]\n"
+  },
+  {
+    "input": "[head lowered] Well, anyway... [looks at the boys] well, I'm gettin' some more things for my bike too. [lowers his head again] Um... I'll see ya, fellas. [walks away slowly. The boys watch him leave]\n[Amazon Fulfillment Center. In the main shopping area, Stephen shows the Tweeks the ropes]\n",
+    "output": "So this is where all the main boxing and transferring happens. I'm excited to have you guys working here at the fulfillment center, Mr. and Mrs. Tweek.\n"
+  },
+  {
+    "input": "So this is where all the main boxing and transferring happens. I'm excited to have you guys working here at the fulfillment center, Mr. and Mrs. Tweek.\n",
+    "output": "We really didn't have a choice. Since the fulfillment center opened, me and my wife's coffee business has gone belly-up.\n"
+  },
+  {
+    "input": "We really didn't have a choice. Since the fulfillment center opened, me and my wife's coffee business has gone belly-up.\n",
+    "output": "Yeah, people are ordering everything online these days. That's why you'll find a lot of familiar faces working here. [they walk by Mr. Slave, who's preparing boxes for packing. He waves to them before returning back to work] Everything's automated and timed to precision to get people's orders out to them as soon as possible. This is Josh, he'll be your section manager.\n"
+  },
+  {
+    "input": "Yeah, people are ordering everything online these days. That's why you'll find a lot of familiar faces working here. [they walk by Mr. Slave, who's preparing boxes for packing. He waves to them before returning back to work] Everything's automated and timed to precision to get people's orders out to them as soon as possible. This is Josh, he'll be your section manager.\n",
+    "output": "Howdy, folks.\n"
+  },
+  {
+    "input": "Howdy, folks.\n",
+    "output": "In these warehouses, there are over one million items, from toothpaste to Go Karts, and it's the work of both humans and machines that make the work possible. [a bos-laden machine runs into Josh and carries him away screaming.] You'll get a message on your device which item to get, then get it to one of our loaders, and the machines do the rest. [an alarm goes off and red lights blink. Everyone stops what they're doing and looks around]\n"
+  },
+  {
+    "input": "In these warehouses, there are over one million items, from toothpaste to Go Karts, and it's the work of both humans and machines that make the work possible. [a bos-laden machine runs into Josh and carries him away screaming.] You'll get a message on your device which item to get, then get it to one of our loaders, and the machines do the rest. [an alarm goes off and red lights blink. Everyone stops what they're doing and looks around]\n",
+    "output": "We got another one!\n"
+  },
+  {
+    "input": "We got another one!\n",
+    "output": "Josh! [Josh becomes a pinball among the machines and screams every time another machine carries him away. Stephen and the other workers run up to a chainlink fence] Hang on, Josh! [Josh is now in the conveyor system being knocked around like a package] Shut it down! Shut it down! [a beefy worker presses the emergency shut-off button, but it fails]\n"
+  },
+  {
+    "input": "Josh! [Josh becomes a pinball among the machines and screams every time another machine carries him away. Stephen and the other workers run up to a chainlink fence] Hang on, Josh! [Josh is now in the conveyor system being knocked around like a package] Shut it down! Shut it down! [a beefy worker presses the emergency shut-off button, but it fails]\n",
+    "output": "It's not shuttin' down. [a shipping label is stamped onto the crotch area on Josh's pants. He goes down a roller slide and stands up, at which point he's wrapped up in thin plastic sheets. He's then sent down a chute to a vat of plastic peanuts that whirls him around until he disappears into it.]\n"
+  },
+  {
+    "input": "It's not shuttin' down. [a shipping label is stamped onto the crotch area on Josh's pants. He goes down a roller slide and stands up, at which point he's wrapped up in thin plastic sheets. He's then sent down a chute to a vat of plastic peanuts that whirls him around until he disappears into it.]\n",
+    "output": "Aaaarargargar!\n"
+  },
+  {
+    "input": "Aaaarargargar!\n",
+    "output": "Whenever there's a workplace accident, you need to fill out a 1081 form. [pulls out a copy of the form]\n[Kenny's house at the Historic SoDoSoPa ruins, day. Kenny is now working on his bike with the same kinds of trimmings Butters used. He's painting his bike blue. Cartman shows up with Stan and Kyle, while Kenny has his back towards the garage door]\n"
+  },
+  {
+    "input": "Whenever there's a workplace accident, you need to fill out a 1081 form. [pulls out a copy of the form]\n[Kenny's house at the Historic SoDoSoPa ruins, day. Kenny is now working on his bike with the same kinds of trimmings Butters used. He's painting his bike blue. Cartman shows up with Stan and Kyle, while Kenny has his back towards the garage door]\n",
+    "output": "What are you doing?\n"
+  },
+  {
+    "input": "What are you doing?\n",
+    "output": "[quickly turns around and then tries to hide the spray can] (What?! You scared me, guys! Wassup?)\n"
+  },
+  {
+    "input": "[quickly turns around and then tries to hide the spray can] (What?! You scared me, guys! Wassup?)\n",
+    "output": "\"Wassup\" is I thought we agreed bike parades are stupid.\n"
+  },
+  {
+    "input": "\"Wassup\" is I thought we agreed bike parades are stupid.\n",
+    "output": "(Bike parades ARE stupid.)\n"
+  },
+  {
+    "input": "(Bike parades ARE stupid.)\n",
+    "output": "Don't lie, Kenny! You saw that Larry kid scoring chicks with his bike, heard about the cash prize, and you decided to do the bike parade behind our backs! I know 'cause I thought the same thing!\n"
+  },
+  {
+    "input": "Don't lie, Kenny! You saw that Larry kid scoring chicks with his bike, heard about the cash prize, and you decided to do the bike parade behind our backs! I know 'cause I thought the same thing!\n",
+    "output": "Me too.\n"
+  },
+  {
+    "input": "Me too.\n",
+    "output": "[looks down, then wanders off as somber music plays] Jesus. Is this really what it's come down to, you guys? Whatever happened to *us*?\n"
+  },
+  {
+    "input": "[looks down, then wanders off as somber music plays] Jesus. Is this really what it's come down to, you guys? Whatever happened to *us*?\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "It used to always be the four of us. Always. Now Stan's moved to a farm. I have anxiety. Kenny? Nobody really talks to Kenny. And then there's just... Kyle. We used to do everything together. What if we did this like the old days?\n"
+  },
+  {
+    "input": "It used to always be the four of us. Always. Now Stan's moved to a farm. I have anxiety. Kenny? Nobody really talks to Kenny. And then there's just... Kyle. We used to do everything together. What if we did this like the old days?\n",
+    "output": "[music picks up] Four bikes, one common theme.\n"
+  },
+  {
+    "input": "[music picks up] Four bikes, one common theme.\n",
+    "output": "We could totally own the bike parade.\n"
+  },
+  {
+    "input": "We could totally own the bike parade.\n",
+    "output": "(Yeah!)\n"
+  },
+  {
+    "input": "(Yeah!)\n",
+    "output": "If we order everything online, we can have it delivered tomorrow! [gets on his phone] We need props, pyrotechnics, the works!\n"
+  },
+  {
+    "input": "If we order everything online, we can have it delivered tomorrow! [gets on his phone] We need props, pyrotechnics, the works!\n",
+    "output": "[pulls out his phone and starts tapping away] Yeah, and we gotta order some badass spokes and those wheel bumpers!\n"
+  },
+  {
+    "input": "[pulls out his phone and starts tapping away] Yeah, and we gotta order some badass spokes and those wheel bumpers!\n",
+    "output": "[pulls out his phone and starts tapping away] I'll start looking for costumes! What theme are we thinking?\n"
+  },
+  {
+    "input": "[pulls out his phone and starts tapping away] I'll start looking for costumes! What theme are we thinking?\n",
+    "output": "Kenny, get on your mom's laptop and start ordering streamers, sparklers and rockets! Make sure everyone ships Next Day Delivery! This is gonna be just like the old times, you guys!\n[Amazon Fulfillment Center, exterior, dusk. As the Fulfillment Center employees leave for the night, Celtic music plays nearby at Crunchy's Micro Brew.]\n[Crunchy's Microwbrew, interior. Fulfillment Center employees have a drink and chat among each other, while a group of Irish musicians play on stage.]\n"
+  },
+  {
+    "input": "Kenny, get on your mom's laptop and start ordering streamers, sparklers and rockets! Make sure everyone ships Next Day Delivery! This is gonna be just like the old times, you guys!\n[Amazon Fulfillment Center, exterior, dusk. As the Fulfillment Center employees leave for the night, Celtic music plays nearby at Crunchy's Micro Brew.]\n[Crunchy's Microwbrew, interior. Fulfillment Center employees have a drink and chat among each other, while a group of Irish musicians play on stage.]\n",
+    "output": "Workin' me fingers to the bone,\nI need me a drink before goin' home.\nBe back in the mornin',\npack boxes at dawn.\nWorkin' for Amazon\n"
+  },
+  {
+    "input": "Workin' me fingers to the bone,\nI need me a drink before goin' home.\nBe back in the mornin',\npack boxes at dawn.\nWorkin' for Amazon\n",
+    "output": "Can I have a beer, please? Whatcha got on tap?\n"
+  },
+  {
+    "input": "Can I have a beer, please? Whatcha got on tap?\n",
+    "output": "Amazon, Amazon light, and Amazon IPA.\n"
+  },
+  {
+    "input": "Amazon, Amazon light, and Amazon IPA.\n",
+    "output": "Gimme Amazon Light. I'm a Prime member. [holds up an Amazon credit card]\n"
+  },
+  {
+    "input": "Gimme Amazon Light. I'm a Prime member. [holds up an Amazon credit card]\n",
+    "output": "[now with both arms bandaged up] What the fook are we doin', anyway? Breakin' our backs! Loadin' up forklifts! Gettin' paper cuts from boxes! And for what?! A measly paycheck that just barely covers our online purchases.\n"
+  },
+  {
+    "input": "[now with both arms bandaged up] What the fook are we doin', anyway? Breakin' our backs! Loadin' up forklifts! Gettin' paper cuts from boxes! And for what?! A measly paycheck that just barely covers our online purchases.\n",
+    "output": "Yeah, well, we should be thankful we even have jobs, huh? Before the fulfillment center opened, we really didn't have anything.\n"
+  },
+  {
+    "input": "Yeah, well, we should be thankful we even have jobs, huh? Before the fulfillment center opened, we really didn't have anything.\n",
+    "output": "We had our dignity!\n"
+  },
+  {
+    "input": "We had our dignity!\n",
+    "output": "[speaks up] Hey everyone! Everyone, listen! [music and all conversations stop] Amazon just posted a statement about Josh's accident. They're calling it \"human error\" [chatter picks up] \"Amazon regrets the recent workplace accident and is working to better train its workers so that no future accidents occur.\"\n"
+  },
+  {
+    "input": "[speaks up] Hey everyone! Everyone, listen! [music and all conversations stop] Amazon just posted a statement about Josh's accident. They're calling it \"human error\" [chatter picks up] \"Amazon regrets the recent workplace accident and is working to better train its workers so that no future accidents occur.\"\n",
+    "output": "Who do they think they are?!\n"
+  },
+  {
+    "input": "Who do they think they are?!\n",
+    "output": "It was the bloody machines!\n"
+  },
+  {
+    "input": "It was the bloody machines!\n",
+    "output": "[nervous chuckle] Okay, hold on, everyone. I'm sure there's an explanation.\n"
+  },
+  {
+    "input": "[nervous chuckle] Okay, hold on, everyone. I'm sure there's an explanation.\n",
+    "output": "This is what we've been reduced to! We are the backbone that makes the fulfillment center work! Maybe they should see what it would be like if we didn't show up for work! [all cheer]\n"
+  },
+  {
+    "input": "This is what we've been reduced to! We are the backbone that makes the fulfillment center work! Maybe they should see what it would be like if we didn't show up for work! [all cheer]\n",
+    "output": "We'll do it for Josh, and so what happened to him never happens to anyone else.!\n"
+  },
+  {
+    "input": "We'll do it for Josh, and so what happened to him never happens to anyone else.!\n",
+    "output": "Hold on, guys. [nervous chuckle] M-My son has a big bike parade coming up. I... I can't just not show up to work now.\n"
+  },
+  {
+    "input": "Hold on, guys. [nervous chuckle] M-My son has a big bike parade coming up. I... I can't just not show up to work now.\n",
+    "output": "[Comes up to Stephen and puts his finger in his face] What's more important to you, Stotch? A bike parade, or Josh?![leaves]\n"
+  },
+  {
+    "input": "[Comes up to Stephen and puts his finger in his face] What's more important to you, Stotch? A bike parade, or Josh?![leaves]\n",
+    "output": "A bike parade.\n"
+  },
+  {
+    "input": "A bike parade.\n",
+    "output": "Amazon workers, we are on strike! [the workers roar back in approval and cheer, while Stephen looks around nervously]\n[Cartman's house, day. He's still in bed as the sun breaks. It's morning, and his alarm goes off. He sits up and then leaves the bed]\n"
+  },
+  {
+    "input": "Amazon workers, we are on strike! [the workers roar back in approval and cheer, while Stephen looks around nervously]\n[Cartman's house, day. He's still in bed as the sun breaks. It's morning, and his alarm goes off. He sits up and then leaves the bed]\n",
+    "output": "My stuff's here! [runs out of the room and downstairs] My stuff! My stuff! My stuff my stuff my stuff! [runs by the sofa, where Liane sits, She's sipping coffee.]\n"
+  },
+  {
+    "input": "My stuff's here! [runs out of the room and downstairs] My stuff! My stuff! My stuff my stuff my stuff! [runs by the sofa, where Liane sits, She's sipping coffee.]\n",
+    "output": "Mornin' hon.\n"
+  },
+  {
+    "input": "Mornin' hon.\n",
+    "output": "Shut up! [opens the front door and looks out, smiling] Stuff? [looks around, then steps out a bit further] Stuff? [One more look, then goes back inside and walks up to Liane] Mom, were there a bunch of packages for me?\n"
+  },
+  {
+    "input": "Shut up! [opens the front door and looks out, smiling] Stuff? [looks around, then steps out a bit further] Stuff? [One more look, then goes back inside and walks up to Liane] Mom, were there a bunch of packages for me?\n",
+    "output": "I don't think anyone's getting packages, sweetie. Look. [Cartman looks at the TV, at the strike against Amazon]\n"
+  },
+  {
+    "input": "I don't think anyone's getting packages, sweetie. Look. [Cartman looks at the TV, at the strike against Amazon]\n",
+    "output": "The Amazon Fulfillment Center has been shut down as hundreds of employees refuse to work. [Behind Tom, an Amazon employee marches behind him and then look into the camera, smiles and point at their signs. Another employee does the same thing. Stephen is behind them, keeping his head down and looking conflicted] Customers all over the state are wondering where their Amazon orders are, as workers demand more respect and more money. The uprising started with a workplace accident which Amazon blamed on human error. Joining me now is the victim of the accident - Josh Carter. [walks over to Josh, who is now a sentient package. He's been placed atop of a stool.] And Josh, how does it feel to have your accident spark so much upheaval?\n"
+  },
+  {
+    "input": "The Amazon Fulfillment Center has been shut down as hundreds of employees refuse to work. [Behind Tom, an Amazon employee marches behind him and then look into the camera, smiles and point at their signs. Another employee does the same thing. Stephen is behind them, keeping his head down and looking conflicted] Customers all over the state are wondering where their Amazon orders are, as workers demand more respect and more money. The uprising started with a workplace accident which Amazon blamed on human error. Joining me now is the victim of the accident - Josh Carter. [walks over to Josh, who is now a sentient package. He's been placed atop of a stool.] And Josh, how does it feel to have your accident spark so much upheaval?\n",
+    "output": "You know, Tom, I think something like this was bound to happen. There's those at the top who control the means of production, and then there's the working class that enables those means by selling their labor power for wages. When there's conflict, the ruling class tries to blame the working class.\n"
+  },
+  {
+    "input": "You know, Tom, I think something like this was bound to happen. There's those at the top who control the means of production, and then there's the working class that enables those means by selling their labor power for wages. When there's conflict, the ruling class tries to blame the working class.\n",
+    "output": "Can you get out of the box?\n"
+  },
+  {
+    "input": "Can you get out of the box?\n",
+    "output": "No, my organs have been compacted, so if the box opens, I spill out and die. I believe the working class needs to revolt against capitalism and bring about socioeconomic emancipation.\n"
+  },
+  {
+    "input": "No, my organs have been compacted, so if the box opens, I spill out and die. I believe the working class needs to revolt against capitalism and bring about socioeconomic emancipation.\n",
+    "output": "Do you get hot in the box?\n[Soth Park City Hall, day. Mayor McDaniels is making an Amazon purchase on her work iMac]\n"
+  },
+  {
+    "input": "Do you get hot in the box?\n[Soth Park City Hall, day. Mayor McDaniels is making an Amazon purchase on her work iMac]\n",
+    "output": "[quietly talking to herself] Ship to address, order now... [receives this message] \"Usually ships in...\" [yells out in anger] four to six weeks?! I can make my own damn towels in four to six weeks! [a knock at the door, and Janson looks in]\n"
+  },
+  {
+    "input": "[quietly talking to herself] Ship to address, order now... [receives this message] \"Usually ships in...\" [yells out in anger] four to six weeks?! I can make my own damn towels in four to six weeks! [a knock at the door, and Janson looks in]\n",
+    "output": "Mayor, you have a visitor.\n"
+  },
+  {
+    "input": "Mayor, you have a visitor.\n",
+    "output": "Not now, I'm having problems!\n"
+  },
+  {
+    "input": "Not now, I'm having problems!\n",
+    "output": "[Nervously] But Mayor, it's uh, [whispers] Jeff Bezos.\n"
+  },
+  {
+    "input": "[Nervously] But Mayor, it's uh, [whispers] Jeff Bezos.\n",
+    "output": "[voice rises] Founder and CEO of Amazon Jeff Bezos?\n"
+  },
+  {
+    "input": "[voice rises] Founder and CEO of Amazon Jeff Bezos?\n",
+    "output": "[whispers] Yeah.\n"
+  },
+  {
+    "input": "[whispers] Yeah.\n",
+    "output": "Okay, okay, uh, let him in.\n"
+  },
+  {
+    "input": "Okay, okay, uh, let him in.\n",
+    "output": "Right on through here, Mr. Bezos. [Jeff Bezos enters. He has a long neck and a bald, veiny head, suggesting a brain so big blood vessels have to be outside the skull for it to fit. Bezos looks at Janson, and Janson leaves]\n"
+  },
+  {
+    "input": "Right on through here, Mr. Bezos. [Jeff Bezos enters. He has a long neck and a bald, veiny head, suggesting a brain so big blood vessels have to be outside the skull for it to fit. Bezos looks at Janson, and Janson leaves]\n",
+    "output": "[stands up from behind her desk] Mr. Bezos. How great to see you again! [Bezos just looks at her] How have you been?\n"
+  },
+  {
+    "input": "[stands up from behind her desk] Mr. Bezos. How great to see you again! [Bezos just looks at her] How have you been?\n",
+    "output": "[telepathically] I wish I was doing better. Please Mayor, have a seat.\n"
+  },
+  {
+    "input": "[telepathically] I wish I was doing better. Please Mayor, have a seat.\n",
+    "output": "Oh, thank you. [she sits in her chair, he takes a seat as well]\n"
+  },
+  {
+    "input": "Oh, thank you. [she sits in her chair, he takes a seat as well]\n",
+    "output": "I guess you're here because of the... strike.\n"
+  },
+  {
+    "input": "I guess you're here because of the... strike.\n",
+    "output": "We had a deal, Mayor. You told me this town would be the perfect place for one of our fulfillment centers.\n"
+  },
+  {
+    "input": "We had a deal, Mayor. You told me this town would be the perfect place for one of our fulfillment centers.\n",
+    "output": "And it has been. It it gave so many people jobs. [chuckles] And I'm not really sure why everyone is so...\n"
+  },
+  {
+    "input": "And it has been. It it gave so many people jobs. [chuckles] And I'm not really sure why everyone is so...\n",
+    "output": "[moves his head ever so slightly] Disgruntled? Dissatisfied? Unamused? Would you like to know why Amazon is so successful? Because the customer is all that matters. Now orders are going unfulfilled all over the state of Colorado. [lowers eyebrows] That makes us look very bad. [raises his eyebrows] It makes YOU look very bad. Perhaps... you should no longer be a Prime member.\n"
+  },
+  {
+    "input": "[moves his head ever so slightly] Disgruntled? Dissatisfied? Unamused? Would you like to know why Amazon is so successful? Because the customer is all that matters. Now orders are going unfulfilled all over the state of Colorado. [lowers eyebrows] That makes us look very bad. [raises his eyebrows] It makes YOU look very bad. Perhaps... you should no longer be a Prime member.\n",
+    "output": "[pleading] Please! I-I'm trying to get everyone back to work. I-I'm going to do everything that I can.\n"
+  },
+  {
+    "input": "[pleading] Please! I-I'm trying to get everyone back to work. I-I'm going to do everything that I can.\n",
+    "output": "Then we have an understanding. [gets up and heads for the door] Goodbye, Mayor. If everyone stays unfulfilled, [turns around and looks at the Mayor] it will be you who pays the price. [opens the door and leaves. The Mayor is left stunned]\n[A cloudy day. Cartman opens the door and looks out. No packages. A new montage begins, to the tune of Trey Parker's \"Unfulfilled.\" Cartman goes back inside and closes the door. Mr. Tucker goes and checks his mailbox. No mail or packages. Sheila checks the status of her delivery. Her coffee maker has been delivered, but still en route. A tear runs down her cheek. Mr. Mackey looks outside his window as it starts to rain and sees a FedEx X truck. The driver looks back at him, then lowers his head to the steering wheel. No delivery for Mackey. Jimmy looks at the status of his delivery but finds that it's going to take a month to reach him. He cries at his desk. A smiling Randy goes outside to get his packages, but suddenly, they fade away, revealing that he got nothing and leaves him disappointed. Wendy walks by the kitchen at her home and sees her parents. Wendy's parents sit at the dining room table, looking depressed. No packages for them either. Wendy then looks down and walks away. The strikers put on their protest and hold up their signs, but Stephen's heart isn't in it. He stands still holding a \"STAND UP/STRIKE\" sign. Kenny opens his front door and checks for packages but finds none. Kyle looks out his front door and finds nothing. He closes his door. An aerial shot of the neighborhood shows no packages anywhere on the front steps of the houses. Ryan walks up to Sarah and thinks of putting his hand on her shoulder, but decides against it and leaves. The fulfillment center sits dark and silent. Officer Brown looks for packages at the front of the police station, but finds nothing. He then sadly closes the door.]\n"
+  },
+  {
+    "input": "Then we have an understanding. [gets up and heads for the door] Goodbye, Mayor. If everyone stays unfulfilled, [turns around and looks at the Mayor] it will be you who pays the price. [opens the door and leaves. The Mayor is left stunned]\n[A cloudy day. Cartman opens the door and looks out. No packages. A new montage begins, to the tune of Trey Parker's \"Unfulfilled.\" Cartman goes back inside and closes the door. Mr. Tucker goes and checks his mailbox. No mail or packages. Sheila checks the status of her delivery. Her coffee maker has been delivered, but still en route. A tear runs down her cheek. Mr. Mackey looks outside his window as it starts to rain and sees a FedEx X truck. The driver looks back at him, then lowers his head to the steering wheel. No delivery for Mackey. Jimmy looks at the status of his delivery but finds that it's going to take a month to reach him. He cries at his desk. A smiling Randy goes outside to get his packages, but suddenly, they fade away, revealing that he got nothing and leaves him disappointed. Wendy walks by the kitchen at her home and sees her parents. Wendy's parents sit at the dining room table, looking depressed. No packages for them either. Wendy then looks down and walks away. The strikers put on their protest and hold up their signs, but Stephen's heart isn't in it. He stands still holding a \"STAND UP/STRIKE\" sign. Kenny opens his front door and checks for packages but finds none. Kyle looks out his front door and finds nothing. He closes his door. An aerial shot of the neighborhood shows no packages anywhere on the front steps of the houses. Ryan walks up to Sarah and thinks of putting his hand on her shoulder, but decides against it and leaves. The fulfillment center sits dark and silent. Officer Brown looks for packages at the front of the police station, but finds nothing. He then sadly closes the door.]\n",
+    "output": "Unfulfilled.\nAnd now tomorrow's nothing but another day.\nSomebody came and took my hopes and dreams away.\nand now I'm lost, and unfulfilled.\n\nCurtains close\nAll we were a distant memory\nSomebody just bitch-slapped the smile right off of me.\nAnd here I am, so unfulfilled.\n\nThe happiness I knew just got raped and killed.\nAnd all I am is unfulfilled.\n\nNothing that I have seems like enough\nAll I'm left to ask is, \"Where's my stuff?\"\nIt's sitting somewhere, unfulfilled.\n[Last scene is in Cartman's room. Cartman, Stan, and Kyle wait. The door opens and Kenny walks in. The boys jump to meet him]\n"
+  },
+  {
+    "input": "Unfulfilled.\nAnd now tomorrow's nothing but another day.\nSomebody came and took my hopes and dreams away.\nand now I'm lost, and unfulfilled.\n\nCurtains close\nAll we were a distant memory\nSomebody just bitch-slapped the smile right off of me.\nAnd here I am, so unfulfilled.\n\nThe happiness I knew just got raped and killed.\nAnd all I am is unfulfilled.\n\nNothing that I have seems like enough\nAll I'm left to ask is, \"Where's my stuff?\"\nIt's sitting somewhere, unfulfilled.\n[Last scene is in Cartman's room. Cartman, Stan, and Kyle wait. The door opens and Kenny walks in. The boys jump to meet him]\n",
+    "output": "Anything? Did you get anything?\n"
+  },
+  {
+    "input": "Anything? Did you get anything?\n",
+    "output": "(No. Nothing.) [the other three sigh]\n"
+  },
+  {
+    "input": "(No. Nothing.) [the other three sigh]\n",
+    "output": "I guess it's time to face it. We aren't going to get our stuff.\n"
+  },
+  {
+    "input": "I guess it's time to face it. We aren't going to get our stuff.\n",
+    "output": "Maybe if we reorder everything and have it shipped to a different fulfillment center-\n"
+  },
+  {
+    "input": "Maybe if we reorder everything and have it shipped to a different fulfillment center-\n",
+    "output": "There's no time. Let's face it. We can't be in the bike parade.\n"
+  },
+  {
+    "input": "There's no time. Let's face it. We can't be in the bike parade.\n",
+    "output": "No! I refuse to believe we have no other options. Um, what...? What did we do before Amazon?\n"
+  },
+  {
+    "input": "No! I refuse to believe we have no other options. Um, what...? What did we do before Amazon?\n",
+    "output": "(Well I don't know.)\n"
+  },
+  {
+    "input": "(Well I don't know.)\n",
+    "output": "I mean, before we could get whatever we wanted, where did we get stuff?\n"
+  },
+  {
+    "input": "I mean, before we could get whatever we wanted, where did we get stuff?\n",
+    "output": "At the... the ma-, the ma-ma-, the mall.\n"
+  },
+  {
+    "input": "At the... the ma-, the ma-ma-, the mall.\n",
+    "output": "Oh yeah! The mall!\n"
+  },
+  {
+    "input": "Oh yeah! The mall!\n",
+    "output": "(The mall!)\n[South Park Mall, day. It sits abandoned and looks dilapidated. The earth has begun to reclaim it. Plants break through the asphalt in the parking lot. Inside, the building is dark and devoid of any lighting and covered with trash and plants. A rat runs around and waits on top of a plant. The doors open and the boys walk in, causing the rat to scurry off.]\n"
+  },
+  {
+    "input": "(The mall!)\n[South Park Mall, day. It sits abandoned and looks dilapidated. The earth has begun to reclaim it. Plants break through the asphalt in the parking lot. Inside, the building is dark and devoid of any lighting and covered with trash and plants. A rat runs around and waits on top of a plant. The doors open and the boys walk in, causing the rat to scurry off.]\n",
+    "output": "Guess we haven't been to the mall in a while. [as they walk through the mall, Anita Baker's \"Sweet Love\" plays over the speakers.]\n"
+  },
+  {
+    "input": "Guess we haven't been to the mall in a while. [as they walk through the mall, Anita Baker's \"Sweet Love\" plays over the speakers.]\n",
+    "output": "Sweet Love\nhear me callin' out your name\nI feel no shame;\nI'm in love\nOh no no no no no\n(Sweet Love)\n"
+  },
+  {
+    "input": "Sweet Love\nhear me callin' out your name\nI feel no shame;\nI'm in love\nOh no no no no no\n(Sweet Love)\n",
+    "output": "There's nobody here.\n"
+  },
+  {
+    "input": "There's nobody here.\n",
+    "output": "There's gotta be somebody.\n"
+  },
+  {
+    "input": "There's gotta be somebody.\n",
+    "output": "[notices something and points] Look! It's Wiener On A Stick. [a worker pops up behind the counter and hisses, then drops back down. The boys walk up to him]\n"
+  },
+  {
+    "input": "[notices something and points] Look! It's Wiener On A Stick. [a worker pops up behind the counter and hisses, then drops back down. The boys walk up to him]\n",
+    "output": "Uh, hello?\n"
+  },
+  {
+    "input": "Uh, hello?\n",
+    "output": "[pops back up] Welcome to Wiener On A Stick.\n"
+  },
+  {
+    "input": "[pops back up] Welcome to Wiener On A Stick.\n",
+    "output": "Are you the only one still at the mall?\n"
+  },
+  {
+    "input": "Are you the only one still at the mall?\n",
+    "output": "There are many, and yet none. [other workers come out of the woodwork and hiss]\n[The Stotch house, day. Linda is at the sofa knitting while Butters reads Mystery Comics. The front door opens and Stephen enters]\n"
+  },
+  {
+    "input": "There are many, and yet none. [other workers come out of the woodwork and hiss]\n[The Stotch house, day. Linda is at the sofa knitting while Butters reads Mystery Comics. The front door opens and Stephen enters]\n",
+    "output": "There he is! [drops her knitting and goes to Stephen]\n"
+  },
+  {
+    "input": "There he is! [drops her knitting and goes to Stephen]\n",
+    "output": "Dad! [drops his comic book and goes to Stephen]\n"
+  },
+  {
+    "input": "Dad! [drops his comic book and goes to Stephen]\n",
+    "output": "How did it go?\n"
+  },
+  {
+    "input": "How did it go?\n",
+    "output": "[nervously looks down and holds cap in his hand] They voted to keep striking. There was a run-in, violence between some of the strikers and corporate. They've decided to punish us by taking our status. [turns and walks a few feet away from Linda and Butters] There's no easy way to say this, so I'll... just come out with is then. We're... not Amazon Prime members anymore.\n"
+  },
+  {
+    "input": "[nervously looks down and holds cap in his hand] They voted to keep striking. There was a run-in, violence between some of the strikers and corporate. They've decided to punish us by taking our status. [turns and walks a few feet away from Linda and Butters] There's no easy way to say this, so I'll... just come out with is then. We're... not Amazon Prime members anymore.\n",
+    "output": "Then what are we?\n"
+  },
+  {
+    "input": "Then what are we?\n",
+    "output": "[turns to face his family] Everyone involved in the strike has been dropped down one level from Prime. We're... we're now Amazon USDA Choice.\n"
+  },
+  {
+    "input": "[turns to face his family] Everyone involved in the strike has been dropped down one level from Prime. We're... we're now Amazon USDA Choice.\n",
+    "output": "[covers her mouth as she starts to tear up] That's... fine. We'll be USDA Choice. It's, it's almost as good as Prime.\n"
+  },
+  {
+    "input": "[covers her mouth as she starts to tear up] That's... fine. We'll be USDA Choice. It's, it's almost as good as Prime.\n",
+    "output": "[walks up to her and puts his hand on her shoulder] You're a good woman for saying that. But you're a bitch because it's a lie and you're patronizing me. [goes upstairs]\n"
+  },
+  {
+    "input": "[walks up to her and puts his hand on her shoulder] You're a good woman for saying that. But you're a bitch because it's a lie and you're patronizing me. [goes upstairs]\n",
+    "output": "Mom, eh if I win the first prize in the bike parade, I'll give the money to you guys.\n[Stotch residence.The master bedroom, later. Stephen is at his computer, praying]\n"
+  },
+  {
+    "input": "Mom, eh if I win the first prize in the bike parade, I'll give the money to you guys.\n[Stotch residence.The master bedroom, later. Stephen is at his computer, praying]\n",
+    "output": "Please... I don't know what else to do. My family is all that matters to me. [becomes emotional and starts to tear up] I made a promise to provide for them. What if we never get what we're asking for from the strike? [he's being observed through a hidden camera, on Alexa View] What if they just get others to do all the boxing for us?\n[At Amazon HQ, in a purple, alien-like room, Mayor McDaniels looks at the screen with Jeff Bezos]\n"
+  },
+  {
+    "input": "Please... I don't know what else to do. My family is all that matters to me. [becomes emotional and starts to tear up] I made a promise to provide for them. What if we never get what we're asking for from the strike? [he's being observed through a hidden camera, on Alexa View] What if they just get others to do all the boxing for us?\n[At Amazon HQ, in a purple, alien-like room, Mayor McDaniels looks at the screen with Jeff Bezos]\n",
+    "output": "See how the worker begins to question his determination? Without his Amazon Prime Status, he fluctuates between being and non-being.\n"
+  },
+  {
+    "input": "See how the worker begins to question his determination? Without his Amazon Prime Status, he fluctuates between being and non-being.\n",
+    "output": "My family has to come first.\n"
+  },
+  {
+    "input": "My family has to come first.\n",
+    "output": "Now... torn between memberships, the consumer-worker will reason that the strike is pointless. Prepare a bus. We must make sure that boxers who wish to box have a safe way into the fulfillment center.\n[South Park Mall, exterior, day]\n[South Park Mall, interior. The boys are still in the abandoned mall as more mall workers emerge from their hiding spots and look at the boys in curiosity]\n"
+  },
+  {
+    "input": "Now... torn between memberships, the consumer-worker will reason that the strike is pointless. Prepare a bus. We must make sure that boxers who wish to box have a safe way into the fulfillment center.\n[South Park Mall, exterior, day]\n[South Park Mall, interior. The boys are still in the abandoned mall as more mall workers emerge from their hiding spots and look at the boys in curiosity]\n",
+    "output": "I think maybe it was a bad idea to come here, you guys.\n"
+  },
+  {
+    "input": "I think maybe it was a bad idea to come here, you guys.\n",
+    "output": "Why have you come to this place?\n"
+  },
+  {
+    "input": "Why have you come to this place?\n",
+    "output": "We came because... we need... stuff.\n"
+  },
+  {
+    "input": "We came because... we need... stuff.\n",
+    "output": "[emerges from behind a large planter] Do you seek cosmetics? [holds up some make-up brushes]\n"
+  },
+  {
+    "input": "[emerges from behind a large planter] Do you seek cosmetics? [holds up some make-up brushes]\n",
+    "output": "[emerges from behind a food court trash can] Do you need puppies? [holds up two puppies wearing bow ties in his arms]\n"
+  },
+  {
+    "input": "[emerges from behind a food court trash can] Do you need puppies? [holds up two puppies wearing bow ties in his arms]\n",
+    "output": "[comes up behind Stan] Sample of lotion?\n"
+  },
+  {
+    "input": "[comes up behind Stan] Sample of lotion?\n",
+    "output": "What??\n"
+  },
+  {
+    "input": "What??\n",
+    "output": "[lifts up Stan's arm and sprays some onto it] Why, it's lemongrass lavender.\n"
+  },
+  {
+    "input": "[lifts up Stan's arm and sprays some onto it] Why, it's lemongrass lavender.\n",
+    "output": "No! [the worker hisses and goes back into the shadows] No, no, look. We need very specific stuff. There's a big bike parade on Saturday.\n[In front of Auntie Jen's, a Cinnaroll and Gamestop employee are excited about the bike parade and talk over each other]\n"
+  },
+  {
+    "input": "No! [the worker hisses and goes back into the shadows] No, no, look. We need very specific stuff. There's a big bike parade on Saturday.\n[In front of Auntie Jen's, a Cinnaroll and Gamestop employee are excited about the bike parade and talk over each other]\n",
+    "output": "Ohhh! Bike parade?\n"
+  },
+  {
+    "input": "Ohhh! Bike parade?\n",
+    "output": "Bike parade?\n"
+  },
+  {
+    "input": "Bike parade?\n",
+    "output": "Ohh!\n[In front of City Express, Wayne D and a Build-A-Bear employee also show their excitement]\n"
+  },
+  {
+    "input": "Ohh!\n[In front of City Express, Wayne D and a Build-A-Bear employee also show their excitement]\n",
+    "output": "Ohhh! Bike parade!\n"
+  },
+  {
+    "input": "Ohhh! Bike parade!\n",
+    "output": "[garbled] That's nice!\n"
+  },
+  {
+    "input": "[garbled] That's nice!\n",
+    "output": "Yeah. And the four of us are actually doing a group theme.\n"
+  },
+  {
+    "input": "Yeah. And the four of us are actually doing a group theme.\n",
+    "output": "[steps forward] The changing faces of immigrants in America as told through bicycles.\n"
+  },
+  {
+    "input": "[steps forward] The changing faces of immigrants in America as told through bicycles.\n",
+    "output": "So... do you need... SHOES? [holds a couple of shoe boxes]\n"
+  },
+  {
+    "input": "So... do you need... SHOES? [holds a couple of shoe boxes]\n",
+    "output": "[turns to face the mall worker] Yeah. Uh, color-coded specific shoes in four specific sizes.\n"
+  },
+  {
+    "input": "[turns to face the mall worker] Yeah. Uh, color-coded specific shoes in four specific sizes.\n",
+    "output": "Aww!\n"
+  },
+  {
+    "input": "Aww!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[pops his head out from behind the counter.] We do not have the inventory that online wholesalers can provide. [hisses and hides again]\n"
+  },
+  {
+    "input": "[pops his head out from behind the counter.] We do not have the inventory that online wholesalers can provide. [hisses and hides again]\n",
+    "output": "This is a waste of time, you guys.\n"
+  },
+  {
+    "input": "This is a waste of time, you guys.\n",
+    "output": "(Yeah. Shit, let's get the fuck out of here.)\n"
+  },
+  {
+    "input": "(Yeah. Shit, let's get the fuck out of here.)\n",
+    "output": "[emerges from behind a planter holding up a skirt on a hanger] Please! You are the only customers we've had the pleasure of assisting since the fulfillment center opened.\n"
+  },
+  {
+    "input": "[emerges from behind a planter holding up a skirt on a hanger] Please! You are the only customers we've had the pleasure of assisting since the fulfillment center opened.\n",
+    "output": "H-Hold on a minute. You all stay here 'cause you want to work?\n"
+  },
+  {
+    "input": "H-Hold on a minute. You all stay here 'cause you want to work?\n",
+    "output": "It is... our purpose.\n"
+  },
+  {
+    "input": "It is... our purpose.\n",
+    "output": "Our purpose.\n"
+  },
+  {
+    "input": "Our purpose.\n",
+    "output": "Our purpose.\n"
+  },
+  {
+    "input": "Our purpose.\n",
+    "output": "Wait a minute. You guys... I think I have an idea.\n[Amazon Fulfillment Center, day. An overhead view of the parking lot as the strikers and a group of counter protesters are gathered for another day. Both groups are being corralled by police officers.]\n"
+  },
+  {
+    "input": "Wait a minute. You guys... I think I have an idea.\n[Amazon Fulfillment Center, day. An overhead view of the parking lot as the strikers and a group of counter protesters are gathered for another day. Both groups are being corralled by police officers.]\n",
+    "output": "[off screen] A bus with employees wishing to return to work is about to arrive here at the fulfillment center,[the Amazon employees are yelling and holding up signs while the police officers are trying to keep them behind the barriers] and the strikers are not happy. Also, dozens of Amazon customers have shown up.[a large group of counter protesters hold up signs demanding the workers get back to their jobs and deliver their packages are being held back by the police] Angry customers who wish to be fulfilled.\n"
+  },
+  {
+    "input": "[off screen] A bus with employees wishing to return to work is about to arrive here at the fulfillment center,[the Amazon employees are yelling and holding up signs while the police officers are trying to keep them behind the barriers] and the strikers are not happy. Also, dozens of Amazon customers have shown up.[a large group of counter protesters hold up signs demanding the workers get back to their jobs and deliver their packages are being held back by the police] Angry customers who wish to be fulfilled.\n",
+    "output": "We want our stuff! We want our stuff!\n"
+  },
+  {
+    "input": "We want our stuff! We want our stuff!\n",
+    "output": "The customers say the boxers need to return to work because the shutdown is hurting everyone. [Randy is standing next to him]\n"
+  },
+  {
+    "input": "The customers say the boxers need to return to work because the shutdown is hurting everyone. [Randy is standing next to him]\n",
+    "output": "I have a weed business to run! I need my shit from Amazon to make it all work!\n"
+  },
+  {
+    "input": "I have a weed business to run! I need my shit from Amazon to make it all work!\n",
+    "output": "At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?!\n"
+  },
+  {
+    "input": "At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?!\n",
+    "output": "Oh yeah, that's typical rhetoric from a Marxist box.\n"
+  },
+  {
+    "input": "Oh yeah, that's typical rhetoric from a Marxist box.\n",
+    "output": "Free trade is not free-dom! Perhaps socialism IS the answer!\n"
+  },
+  {
+    "input": "Free trade is not free-dom! Perhaps socialism IS the answer!\n",
+    "output": "If you pay for shipping, can you go anywhere you want?\n"
+  },
+  {
+    "input": "If you pay for shipping, can you go anywhere you want?\n",
+    "output": "[pointing] Here comes the bus!\n"
+  },
+  {
+    "input": "[pointing] Here comes the bus!\n",
+    "output": "[all turn to face the bus. Stephen is the only passenger in it, looking mighty lonely] Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs!\n"
+  },
+  {
+    "input": "[all turn to face the bus. Stephen is the only passenger in it, looking mighty lonely] Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs! Scabs!\n",
+    "output": "Hey, it's Stotch! [the bus stops]\n"
+  },
+  {
+    "input": "Hey, it's Stotch! [the bus stops]\n",
+    "output": "Ya can't do it, Stotch! Ya damned us all!\n"
+  },
+  {
+    "input": "Ya can't do it, Stotch! Ya damned us all!\n",
+    "output": "[lowers a window] Don't you understand? It's not about me! It's my son!\n"
+  },
+  {
+    "input": "[lowers a window] Don't you understand? It's not about me! It's my son!\n",
+    "output": "If those orders get fulfilled, then we got nothin'!\n"
+  },
+  {
+    "input": "If those orders get fulfilled, then we got nothin'!\n",
+    "output": "He's just a kid! He wants to be in the bike parade!\n"
+  },
+  {
+    "input": "He's just a kid! He wants to be in the bike parade!\n",
+    "output": "My son's in the bike parade too! [his voice begins to crack] He's got... little tassels off the back of his seat. Tiny flags stickin' out the handlebars. But he deserves more, Stotch! If we don't make our stand now, he doesn't have a chance. He'll get fookin' third or fourth place or just a fookin' participation ribbon!\n"
+  },
+  {
+    "input": "My son's in the bike parade too! [his voice begins to crack] He's got... little tassels off the back of his seat. Tiny flags stickin' out the handlebars. But he deserves more, Stotch! If we don't make our stand now, he doesn't have a chance. He'll get fookin' third or fourth place or just a fookin' participation ribbon!\n",
+    "output": "[emotional] I'm sorry. [the bus moves forward again]\n"
+  },
+  {
+    "input": "[emotional] I'm sorry. [the bus moves forward again]\n",
+    "output": "Stotch!\n[The fulfillment center, inside. Stephen gets to work doing all the fulfillments himself. Mayor McDaniels and Jeff Bezos look on from a catwalk above the factory floor]\n"
+  },
+  {
+    "input": "Stotch!\n[The fulfillment center, inside. Stephen gets to work doing all the fulfillments himself. Mayor McDaniels and Jeff Bezos look on from a catwalk above the factory floor]\n",
+    "output": "It is... not as I expected. Only one consumer worker broke through the picket lines. Your townspeople are more stubborn than I thought.\n"
+  },
+  {
+    "input": "It is... not as I expected. Only one consumer worker broke through the picket lines. Your townspeople are more stubborn than I thought.\n",
+    "output": "They're... prideful people, yes.\n"
+  },
+  {
+    "input": "They're... prideful people, yes.\n",
+    "output": "Perhaps I should give up. How I long to return to Bezos and touch butts with my wife. [the factory phone rings and he answers it] Amazon Fulfillment Center.\n[South Park Mall, exterior. The boys are in the parking lot outside the mall. Stan is on his phone and somehow, Bezos' telepathy reaches Stan's ears]\n"
+  },
+  {
+    "input": "Perhaps I should give up. How I long to return to Bezos and touch butts with my wife. [the factory phone rings and he answers it] Amazon Fulfillment Center.\n[South Park Mall, exterior. The boys are in the parking lot outside the mall. Stan is on his phone and somehow, Bezos' telepathy reaches Stan's ears]\n",
+    "output": "Uh yeah, hi. We ordered a bunch of stuff and we haven't gotten it.\n"
+  },
+  {
+    "input": "Uh yeah, hi. We ordered a bunch of stuff and we haven't gotten it.\n",
+    "output": "[frustrated] Yes, yes, the workers are striking. We're fucking working on it!\n"
+  },
+  {
+    "input": "[frustrated] Yes, yes, the workers are striking. We're fucking working on it!\n",
+    "output": "No, that's actually why we're calling. We know a whole bunch of people who can come work for you.\n"
+  },
+  {
+    "input": "No, that's actually why we're calling. We know a whole bunch of people who can come work for you.\n",
+    "output": "[his eyes widen as he thinks a moment] Is that so? Now those fools will pay!\n"
+  },
+  {
+    "input": "[his eyes widen as he thinks a moment] Is that so? Now those fools will pay!\n",
+    "output": "What fools will pay?\n"
+  },
+  {
+    "input": "What fools will pay?\n",
+    "output": "Uh no, sorry, um... you say you have worker-consumers? willing to box?\n"
+  },
+  {
+    "input": "Uh no, sorry, um... you say you have worker-consumers? willing to box?\n",
+    "output": "Yeah, but listen: we want our stuff! We ordered a bunch of shit for the bike parade, and if we get you workers, we want them to deliver our stuff first!\n"
+  },
+  {
+    "input": "Yeah, but listen: we want our stuff! We ordered a bunch of shit for the bike parade, and if we get you workers, we want them to deliver our stuff first!\n",
+    "output": "Very well. Stay right where you are. [hangs up, goes back to the Mayor, and stares at her for a few seconds] You didn't tell me there was a bike parade.\n"
+  },
+  {
+    "input": "Very well. Stay right where you are. [hangs up, goes back to the Mayor, and stares at her for a few seconds] You didn't tell me there was a bike parade.\n",
+    "output": "I didn't think it was relevant.\n"
+  },
+  {
+    "input": "I didn't think it was relevant.\n",
+    "output": "Everything is relevant when it comes to customers. [goes to Alexa View and waves his hand across the screen. Butters is shown working on his bike again]\n[Dramatic music begins as Bezos smiles after looking at the Alexa View. Josh begins his speech off screen.]\n"
+  },
+  {
+    "input": "Everything is relevant when it comes to customers. [goes to Alexa View and waves his hand across the screen. Butters is shown working on his bike again]\n[Dramatic music begins as Bezos smiles after looking at the Alexa View. Josh begins his speech off screen.]\n",
+    "output": "The history of this world...\n[A panning shot of the employees yelling and protesting outside the fulfillment center.]\n"
+  },
+  {
+    "input": "The history of this world...\n[A panning shot of the employees yelling and protesting outside the fulfillment center.]\n",
+    "output": "is the history of class struggles.\n[A panning shot of the customers yelling and holding up their signs outside the fulfillment center]\n"
+  },
+  {
+    "input": "is the history of class struggles.\n[A panning shot of the customers yelling and holding up their signs outside the fulfillment center]\n",
+    "output": "Alienated from the products of their labor...\n[Stotch Residence, garage. Butters is working on his bike, looking at his bike spokes.]\n"
+  },
+  {
+    "input": "Alienated from the products of their labor...\n[Stotch Residence, garage. Butters is working on his bike, looking at his bike spokes.]\n",
+    "output": "from their fellow laborers and from their very essence.\n[Zewiski Residence, garage. Larry is adding more flags to his bike while Mercedes and Porsche admire him from outside.]\n"
+  },
+  {
+    "input": "from their fellow laborers and from their very essence.\n[Zewiski Residence, garage. Larry is adding more flags to his bike while Mercedes and Porsche admire him from outside.]\n",
+    "output": "The oppressed worker will eventually strike back at those capitalists who control the means of production.\n[South Park Mall, interior. The four boys go back inside the mall. The mall workers emerge as the light from outside hits them]\n"
+  },
+  {
+    "input": "The oppressed worker will eventually strike back at those capitalists who control the means of production.\n[South Park Mall, interior. The four boys go back inside the mall. The mall workers emerge as the light from outside hits them]\n",
+    "output": "We have nothing to lose but our chains.\n[Crunchy's Microbrew, interior. The strikers are standing and paying attention]\n"
+  },
+  {
+    "input": "We have nothing to lose but our chains.\n[Crunchy's Microbrew, interior. The strikers are standing and paying attention]\n",
+    "output": "We will unite in revolution.\n"
+  },
+  {
+    "input": "We will unite in revolution.\n",
+    "output": "And if others try to break through the picket line?\n"
+  },
+  {
+    "input": "And if others try to break through the picket line?\n",
+    "output": "[a box on a stool] Nothing else can be allowed into the fulfillment center, no matter what the cost.\n"
+  },
+  {
+    "input": "[a box on a stool] Nothing else can be allowed into the fulfillment center, no matter what the cost.\n",
+    "output": "We're ready to follow you, Josh.\n"
+  }
+]

@@ -1,0 +1,1290 @@
+[
+  {
+    "input": "",
+    "output": "Lil' Crime Stoppers\n\n[South Park neighborhood, day. The boys walk up to Butters' house. Stan knocks on the door. The door opens and Butters' father looks out.]\n"
+  },
+  {
+    "input": "Lil' Crime Stoppers\n\n[South Park neighborhood, day. The boys walk up to Butters' house. Stan knocks on the door. The door opens and Butters' father looks out.]\n",
+    "output": "Yes? [looks down] Oh, hello, boys.\n"
+  },
+  {
+    "input": "Yes? [looks down] Oh, hello, boys.\n",
+    "output": "Hello, sir. South Park Junior Detectives. We're wondering if you have any crimes to be solved, for a dollar.\n"
+  },
+  {
+    "input": "Hello, sir. South Park Junior Detectives. We're wondering if you have any crimes to be solved, for a dollar.\n",
+    "output": "Oooo, little crime stoppers, huh? Well, I'm afraid I don't have any crimes I need solved right now.\n"
+  },
+  {
+    "input": "Oooo, little crime stoppers, huh? Well, I'm afraid I don't have any crimes I need solved right now.\n",
+    "output": "Awww, shit!\n"
+  },
+  {
+    "input": "Awww, shit!\n",
+    "output": "All right, sir, well, please call us if you need anything. [offers up a business card]\n"
+  },
+  {
+    "input": "All right, sir, well, please call us if you need anything. [offers up a business card]\n",
+    "output": "I'll do that. Have fun, boys. [steps back and closes the door. The boys turn and walk away]\n"
+  },
+  {
+    "input": "I'll do that. Have fun, boys. [steps back and closes the door. The boys turn and walk away]\n",
+    "output": "Stupid assholes! [turns and follows] How come nobody has a crime to solve?\n"
+  },
+  {
+    "input": "Stupid assholes! [turns and follows] How come nobody has a crime to solve?\n",
+    "output": "Yeah, maybe starting a detective club isn't such a great idea.\n"
+  },
+  {
+    "input": "Yeah, maybe starting a detective club isn't such a great idea.\n",
+    "output": "It's a great idea, we just have to keep working at it. [moments later they reach a pink house and Stan knocks again. The door opens and an elderly woman looks out]\n"
+  },
+  {
+    "input": "It's a great idea, we just have to keep working at it. [moments later they reach a pink house and Stan knocks again. The door opens and an elderly woman looks out]\n",
+    "output": "Oh, hello there boys.\n"
+  },
+  {
+    "input": "Oh, hello there boys.\n",
+    "output": "Hello, ma'am, we're detectives with the South Park Crime Unit. Do you have any crimes you need solved, for a dollar?\n"
+  },
+  {
+    "input": "Hello, ma'am, we're detectives with the South Park Crime Unit. Do you have any crimes you need solved, for a dollar?\n",
+    "output": "Ohh, neighborhood detectives, huh? Well let me thi-oh yes! There is something!\n"
+  },
+  {
+    "input": "Ohh, neighborhood detectives, huh? Well let me thi-oh yes! There is something!\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yes. Two days ago I put a fresh baked cherry pie out on my window sill to cool. [Stan and Kyle look over at the window] And later, when I went to get it, it was gone.\n"
+  },
+  {
+    "input": "Yes. Two days ago I put a fresh baked cherry pie out on my window sill to cool. [Stan and Kyle look over at the window] And later, when I went to get it, it was gone.\n",
+    "output": "My God...\n"
+  },
+  {
+    "input": "My God...\n",
+    "output": "Have you reported this to any other authorities?\n"
+  },
+  {
+    "input": "Have you reported this to any other authorities?\n",
+    "output": "Noo, but I think it's a perfect case for you kids.\n"
+  },
+  {
+    "input": "Noo, but I think it's a perfect case for you kids.\n",
+    "output": "Cool! We'll see what we can find, ma'am.\n"
+  },
+  {
+    "input": "Cool! We'll see what we can find, ma'am.\n",
+    "output": "We're on the case.\n[Mrs. Farnickle's house, backyard.]\n"
+  },
+  {
+    "input": "We're on the case.\n[Mrs. Farnickle's house, backyard.]\n",
+    "output": "What have you got, Marsh?\n"
+  },
+  {
+    "input": "What have you got, Marsh?\n",
+    "output": "Detective McCormick found something interesting. [a shot of Kenny, who just raises his arm and point to his right. The camera pans to Duke, the house pet, licking off the last of the pie]\n"
+  },
+  {
+    "input": "Detective McCormick found something interesting. [a shot of Kenny, who just raises his arm and point to his right. The camera pans to Duke, the house pet, licking off the last of the pie]\n",
+    "output": "[puts a hand on Kyle, looks away and closes his eyes] Jesus, we're too late.\n"
+  },
+  {
+    "input": "[puts a hand on Kyle, looks away and closes his eyes] Jesus, we're too late.\n",
+    "output": "I think we can piece this case together now.\n[Mrs. Farnickle's house, living room. She and her husband sit back in arm chairs looking at news. The door opens and the boys rush in with the pie tin.]\n"
+  },
+  {
+    "input": "I think we can piece this case together now.\n[Mrs. Farnickle's house, living room. She and her husband sit back in arm chairs looking at news. The door opens and the boys rush in with the pie tin.]\n",
+    "output": "My pie tin! Oooh, but what happened to the pie?\n"
+  },
+  {
+    "input": "My pie tin! Oooh, but what happened to the pie?\n",
+    "output": "Well, we've all talked it through and we've come up with a theory.\n"
+  },
+  {
+    "input": "Well, we've all talked it through and we've come up with a theory.\n",
+    "output": "Well, what do you think happened, little detectives?\n"
+  },
+  {
+    "input": "Well, what do you think happened, little detectives?\n",
+    "output": "You said you set the pie in the window sill, where it must have sat for some time. [the scenario shows Mrs. Farnickle setting the pie on the sill, closing the windows and walking away] But its sweet smell attracted the attention of somebody. [Mr. Farnickle shows up at the kitchen window, looking at the pie from inside the kitchen]\n"
+  },
+  {
+    "input": "You said you set the pie in the window sill, where it must have sat for some time. [the scenario shows Mrs. Farnickle setting the pie on the sill, closing the windows and walking away] But its sweet smell attracted the attention of somebody. [Mr. Farnickle shows up at the kitchen window, looking at the pie from inside the kitchen]\n",
+    "output": "Your husband. [he looks closer at it, putting his hands on the window] He wanted that pie badly, but he knew that he was not allowed to eat it yet.\n"
+  },
+  {
+    "input": "Your husband. [he looks closer at it, putting his hands on the window] He wanted that pie badly, but he knew that he was not allowed to eat it yet.\n",
+    "output": "Slowly the rage built inside his mind. [Mr. Farnickle is shown in bed, getting angry. Dramatic lighting enhances the mood] \"Why won't she let me eat that pie? Why does she always stop me from doing what I wanna do?!\" His only solution became obvious: Kill her!\n"
+  },
+  {
+    "input": "Slowly the rage built inside his mind. [Mr. Farnickle is shown in bed, getting angry. Dramatic lighting enhances the mood] \"Why won't she let me eat that pie? Why does she always stop me from doing what I wanna do?!\" His only solution became obvious: Kill her!\n",
+    "output": "His plan was to use a hammer.\n"
+  },
+  {
+    "input": "His plan was to use a hammer.\n",
+    "output": "Bash, bash, BASH your skull in, causing instant death. [the scenario shows Mr. Farnickle walking up behind his wife as she dusts the TV and whacking her three times, killing her and fracturing her skull]\n"
+  },
+  {
+    "input": "Bash, bash, BASH your skull in, causing instant death. [the scenario shows Mr. Farnickle walking up behind his wife as she dusts the TV and whacking her three times, killing her and fracturing her skull]\n",
+    "output": "Then to make it impossible for police to identify the body, he'd use a shovel to remove your head. [the man plunges the shovel through the woman's neck and cleaves the head from the body. Blood pours out and stains the carpet]\n"
+  },
+  {
+    "input": "Then to make it impossible for police to identify the body, he'd use a shovel to remove your head. [the man plunges the shovel through the woman's neck and cleaves the head from the body. Blood pours out and stains the carpet]\n",
+    "output": "Then saw off the arms and legs. [shown in all its graphic glory]\n"
+  },
+  {
+    "input": "Then saw off the arms and legs. [shown in all its graphic glory]\n",
+    "output": "The torso he would dump into the lake. [Mr. Farnickle tosses his wife's torso over the side of his boat, then watches as the torso heads for the lake bottom]\n"
+  },
+  {
+    "input": "The torso he would dump into the lake. [Mr. Farnickle tosses his wife's torso over the side of his boat, then watches as the torso heads for the lake bottom]\n",
+    "output": "The arms and legs he would dissolve with acid and lye in the bathtub. [the man is shown tossing the second leg into the tub, then stirring the solution so that the leg would sink in and disappear]\n"
+  },
+  {
+    "input": "The arms and legs he would dissolve with acid and lye in the bathtub. [the man is shown tossing the second leg into the tub, then stirring the solution so that the leg would sink in and disappear]\n",
+    "output": "And then, finally, he'd be able to eat that pie.\n"
+  },
+  {
+    "input": "And then, finally, he'd be able to eat that pie.\n",
+    "output": "But before he could go through with his entire plan, he discovered that the pie had already been eaten... [a new scenario: the man now has the hammer, but the pie is gone when he checks up on it] ...by your dog. [a shot of Duke eating the pie in his doghouse]\n"
+  },
+  {
+    "input": "But before he could go through with his entire plan, he discovered that the pie had already been eaten... [a new scenario: the man now has the hammer, but the pie is gone when he checks up on it] ...by your dog. [a shot of Duke eating the pie in his doghouse]\n",
+    "output": "Looks like the game is over, old man! [the surprised couple looks at them]\n"
+  },
+  {
+    "input": "Looks like the game is over, old man! [the surprised couple looks at them]\n",
+    "output": "Oh my God, what kind of television have you kids been watching??\n"
+  },
+  {
+    "input": "Oh my God, what kind of television have you kids been watching??\n",
+    "output": "Just the news.\n"
+  },
+  {
+    "input": "Just the news.\n",
+    "output": "All right, all right, you you boys run along now.\n"
+  },
+  {
+    "input": "All right, all right, you you boys run along now.\n",
+    "output": "[stays behind] Hey, you owe us a dollar, lady.\n"
+  },
+  {
+    "input": "[stays behind] Hey, you owe us a dollar, lady.\n",
+    "output": "Fine, here, just go! [gives him the dollar, and he joins the others outside]\n"
+  },
+  {
+    "input": "Fine, here, just go! [gives him the dollar, and he joins the others outside]\n",
+    "output": "Wow, look, you guys! Our first dollar! [shows off a crisp new one-dollar bill]\n"
+  },
+  {
+    "input": "Wow, look, you guys! Our first dollar! [shows off a crisp new one-dollar bill]\n",
+    "output": "We're in business!\n[A basement, some time later. The dollar bill is newly framed and hung on a wall in ... Cartman's basement, which is now the South Park Detectives headquarters. Pictures of suspects are on the wall below the framed dollar, a chalkboard has some instructions listed, and some suspects already interviewed are listed on the wall beneath the stairs. Kyle puts a file away in a filing cabinet as the other boys do other tasks.]\n"
+  },
+  {
+    "input": "We're in business!\n[A basement, some time later. The dollar bill is newly framed and hung on a wall in ... Cartman's basement, which is now the South Park Detectives headquarters. Pictures of suspects are on the wall below the framed dollar, a chalkboard has some instructions listed, and some suspects already interviewed are listed on the wall beneath the stairs. Kyle puts a file away in a filing cabinet as the other boys do other tasks.]\n",
+    "output": "Kenny, you got the f-a-g on that perp in Washington.\n"
+  },
+  {
+    "input": "Kenny, you got the f-a-g on that perp in Washington.\n",
+    "output": "Boys, you have a little visitor. [a little girl descends the stairs past Liane]\n"
+  },
+  {
+    "input": "Boys, you have a little visitor. [a little girl descends the stairs past Liane]\n",
+    "output": "Is this the South Park Crime Unit?\n"
+  },
+  {
+    "input": "Is this the South Park Crime Unit?\n",
+    "output": "Ah! Oh. [they jump up and leave their tasks to meet their first client]\n"
+  },
+  {
+    "input": "Ah! Oh. [they jump up and leave their tasks to meet their first client]\n",
+    "output": "Yes it is!\n"
+  },
+  {
+    "input": "Yes it is!\n",
+    "output": "I lost my dolly.\n"
+  },
+  {
+    "input": "I lost my dolly.\n",
+    "output": "[waving his mom off] Thank you, Ms. Secretary, that will be all. [Liane goes upstairs. Cartman looks up] And get us some more cookies and coffee! We're not paying you to sit on your ass!\n"
+  },
+  {
+    "input": "[waving his mom off] Thank you, Ms. Secretary, that will be all. [Liane goes upstairs. Cartman looks up] And get us some more cookies and coffee! We're not paying you to sit on your ass!\n",
+    "output": "Do you know where your doll is?\n"
+  },
+  {
+    "input": "Do you know where your doll is?\n",
+    "output": "If I knew where it was, it wouldn't be lost.\n"
+  },
+  {
+    "input": "If I knew where it was, it wouldn't be lost.\n",
+    "output": "All right, Sarah, come over here. [everyone moves over to Kenny's desk. Sarah hops up on the witness chair] Now, I want you to describe what the doll looks like to our sketch artist, Kenny.\n"
+  },
+  {
+    "input": "All right, Sarah, come over here. [everyone moves over to Kenny's desk. Sarah hops up on the witness chair] Now, I want you to describe what the doll looks like to our sketch artist, Kenny.\n",
+    "output": "[Kenny begins to draw as she talks] She has curly blonde hair. And a wed dress. And a turned-up nose. And a blue bow in her hair.\n"
+  },
+  {
+    "input": "[Kenny begins to draw as she talks] She has curly blonde hair. And a wed dress. And a turned-up nose. And a blue bow in her hair.\n",
+    "output": "You got it, Ken? [Kenny finishes and nods]\n"
+  },
+  {
+    "input": "You got it, Ken? [Kenny finishes and nods]\n",
+    "output": "All right, let's see. [Kenny turns the paper around and shows off a crudely-drawn woman with huge, olive-shaped boobs] Dammit Kenny, that's not what she said!\n"
+  },
+  {
+    "input": "All right, let's see. [Kenny turns the paper around and shows off a crudely-drawn woman with huge, olive-shaped boobs] Dammit Kenny, that's not what she said!\n",
+    "output": "Put that away, dude! [Kenny walks up to a small bulletin board of KeNnY'S mOST WANtED women, all of which have large boobs]\n"
+  },
+  {
+    "input": "Put that away, dude! [Kenny walks up to a small bulletin board of KeNnY'S mOST WANtED women, all of which have large boobs]\n",
+    "output": "Don't worry, ma'am. We'll find your doll.\n[Sarah's house, day. The boys swarm into the girl's bedroom and check out all the possibilities.]\n"
+  },
+  {
+    "input": "Don't worry, ma'am. We'll find your doll.\n[Sarah's house, day. The boys swarm into the girl's bedroom and check out all the possibilities.]\n",
+    "output": "No sign of forced entry.\n"
+  },
+  {
+    "input": "No sign of forced entry.\n",
+    "output": "[at the window] But the window isn't locked.\n"
+  },
+  {
+    "input": "[at the window] But the window isn't locked.\n",
+    "output": "[turns to address Cartman] Right, so it's possible that the thief sat out in that tree. [the scenario begins. A view into the bedroom from the tree at night] He would have watched Sarah with her doll, possibly while cutting the palms of his hands with a large knife. [a hand appears, then the opposite hand with a knife. The knife cuts the first hand as Sarah drops her doll on the bedroom floor] The pain gave him sick pleasure.\n"
+  },
+  {
+    "input": "[turns to address Cartman] Right, so it's possible that the thief sat out in that tree. [the scenario begins. A view into the bedroom from the tree at night] He would have watched Sarah with her doll, possibly while cutting the palms of his hands with a large knife. [a hand appears, then the opposite hand with a knife. The knife cuts the first hand as Sarah drops her doll on the bedroom floor] The pain gave him sick pleasure.\n",
+    "output": "Disposing of the doll wouldn't be easy. He would have had to have brought a shovel to decapitate it.\n"
+  },
+  {
+    "input": "Disposing of the doll wouldn't be easy. He would have had to have brought a shovel to decapitate it.\n",
+    "output": "We're going to need semen samples from everything in this room.\n[As they pause, another group of boys swarm in and start their own investigation.]\n"
+  },
+  {
+    "input": "We're going to need semen samples from everything in this room.\n[As they pause, another group of boys swarm in and start their own investigation.]\n",
+    "output": "All right, let's do this by the books! McDonnell, [one boy steps forward] give me smears of all the places the doll used to be! [goes off to get samples] Mitchell, [another boy steps forward] run a tap on the phone! [goes off to tap the phone]\n"
+  },
+  {
+    "input": "All right, let's do this by the books! McDonnell, [one boy steps forward] give me smears of all the places the doll used to be! [goes off to get samples] Mitchell, [another boy steps forward] run a tap on the phone! [goes off to tap the phone]\n",
+    "output": "[approaches the boy] Hey, kid, what are you doing?\n"
+  },
+  {
+    "input": "[approaches the boy] Hey, kid, what are you doing?\n",
+    "output": "Agent Tucker, FBI! And you?\n"
+  },
+  {
+    "input": "Agent Tucker, FBI! And you?\n",
+    "output": "Detective Marsh. I'm in charge of this investigation!\n"
+  },
+  {
+    "input": "Detective Marsh. I'm in charge of this investigation!\n",
+    "output": "...Not anymore, you're not!\n"
+  },
+  {
+    "input": "...Not anymore, you're not!\n",
+    "output": "Hey, this is our case! You can't come in and take over!\n"
+  },
+  {
+    "input": "Hey, this is our case! You can't come in and take over!\n",
+    "output": "Can't we? You guys are playing Detectives. We're playing FBI. That gives us jurisdiction over you!\n"
+  },
+  {
+    "input": "Can't we? You guys are playing Detectives. We're playing FBI. That gives us jurisdiction over you!\n",
+    "output": "Aw crap!\n"
+  },
+  {
+    "input": "Aw crap!\n",
+    "output": "I want choppers on the roof ready to go! [one of his friends goes to the window, the other two head out of the room]\n"
+  },
+  {
+    "input": "I want choppers on the roof ready to go! [one of his friends goes to the window, the other two head out of the room]\n",
+    "output": "Dude, we've been working this case since two-thirty!\n"
+  },
+  {
+    "input": "Dude, we've been working this case since two-thirty!\n",
+    "output": "Good. Then you can help us by telling me everything you know.\n[Sarah's house, afternoon, outside. The boys have been kicked out by the FBI boys and head for the sidewalk.]\n"
+  },
+  {
+    "input": "Good. Then you can help us by telling me everything you know.\n[Sarah's house, afternoon, outside. The boys have been kicked out by the FBI boys and head for the sidewalk.]\n",
+    "output": "Son of a bitch stupid FBI!\n"
+  },
+  {
+    "input": "Son of a bitch stupid FBI!\n",
+    "output": "Well, I guess we can go back to playing laundromat.\n"
+  },
+  {
+    "input": "Well, I guess we can go back to playing laundromat.\n",
+    "output": "No! We're not gonna stop playing detectives! We've just gotta find that little girl's doll before those FBI guys do.\n"
+  },
+  {
+    "input": "No! We're not gonna stop playing detectives! We've just gotta find that little girl's doll before those FBI guys do.\n",
+    "output": "(Yeah!)\n"
+  },
+  {
+    "input": "(Yeah!)\n",
+    "output": "Yeah, but how?\n"
+  },
+  {
+    "input": "Yeah, but how?\n",
+    "output": "We're gonna have to just start bringing in people for questioning.\n"
+  },
+  {
+    "input": "We're gonna have to just start bringing in people for questioning.\n",
+    "output": "Right. I think I know exactly where to start.\n[Cartman's basement, later. The boys have called Butters in and he's confused, being under the spotlight.]\n"
+  },
+  {
+    "input": "Right. I think I know exactly where to start.\n[Cartman's basement, later. The boys have called Butters in and he's confused, being under the spotlight.]\n",
+    "output": "[thinks hard of how to start the interrogation] Where were you this morning at nine o'clock, Butters?!\n"
+  },
+  {
+    "input": "[thinks hard of how to start the interrogation] Where were you this morning at nine o'clock, Butters?!\n",
+    "output": "Ah, I was at home.\n"
+  },
+  {
+    "input": "Ah, I was at home.\n",
+    "output": "Your story is full of holes and I'm gonna beat your ass if you don't start tellin' the truth! [behind him, Stan and Kyle watch from a makeshift booth]\n"
+  },
+  {
+    "input": "Your story is full of holes and I'm gonna beat your ass if you don't start tellin' the truth! [behind him, Stan and Kyle watch from a makeshift booth]\n",
+    "output": "[patting Butters' shoulder] (Awww, don't be so mean. Butters is our friend, huh?) [Butters smiles]\n"
+  },
+  {
+    "input": "[patting Butters' shoulder] (Awww, don't be so mean. Butters is our friend, huh?) [Butters smiles]\n",
+    "output": "[behind the booth] They've gotten really good at this good-cop bad-cop thing.\n"
+  },
+  {
+    "input": "[behind the booth] They've gotten really good at this good-cop bad-cop thing.\n",
+    "output": "You're going down, Butters! You hear me?!\n"
+  },
+  {
+    "input": "You're going down, Butters! You hear me?!\n",
+    "output": "(Aw, now don't say that. Poor little kid.)\n"
+  },
+  {
+    "input": "(Aw, now don't say that. Poor little kid.)\n",
+    "output": "You're a worthless two-dollar criminal and you're lying!\n"
+  },
+  {
+    "input": "You're a worthless two-dollar criminal and you're lying!\n",
+    "output": "(Aww, it's okay, little fella.)\n"
+  },
+  {
+    "input": "(Aww, it's okay, little fella.)\n",
+    "output": "Well I don't have nothin' to confess. Honestly.\n"
+  },
+  {
+    "input": "Well I don't have nothin' to confess. Honestly.\n",
+    "output": "Fine! Then you won't mind giving us a semen sample. [holds out a cup for Butters to take]\n"
+  },
+  {
+    "input": "Fine! Then you won't mind giving us a semen sample. [holds out a cup for Butters to take]\n",
+    "output": "How do I do that?\n"
+  },
+  {
+    "input": "How do I do that?\n",
+    "output": "You just make the semen come out of your body and put it in this cup!\n"
+  },
+  {
+    "input": "You just make the semen come out of your body and put it in this cup!\n",
+    "output": "Well how do I make semen... come out of my body?\n"
+  },
+  {
+    "input": "Well how do I make semen... come out of my body?\n",
+    "output": "Stop playing games!\n"
+  },
+  {
+    "input": "Stop playing games!\n",
+    "output": "I'm not playing. I really don't know!\n"
+  },
+  {
+    "input": "I'm not playing. I really don't know!\n",
+    "output": "That does it! Wait right here! [goes behind the booth and laughs] Guys, did you hear that? Butters doesn't know how you make semen come out of your body.\n"
+  },
+  {
+    "input": "That does it! Wait right here! [goes behind the booth and laughs] Guys, did you hear that? Butters doesn't know how you make semen come out of your body.\n",
+    "output": "How... do you make semen come out?\n"
+  },
+  {
+    "input": "How... do you make semen come out?\n",
+    "output": "I don't know. I was hoping you guys did.\n"
+  },
+  {
+    "input": "I don't know. I was hoping you guys did.\n",
+    "output": "It's that thing we learned about in school where you pull on your wiener until white stuff comes out.\n"
+  },
+  {
+    "input": "It's that thing we learned about in school where you pull on your wiener until white stuff comes out.\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Ohh, right, you're supposed to pull and master-benate your wiener really fast.\n"
+  },
+  {
+    "input": "Ohh, right, you're supposed to pull and master-benate your wiener really fast.\n",
+    "output": "Oh okay. [returns to the table] Okay, retard, you really don't know how to make semen come out?!\n"
+  },
+  {
+    "input": "Oh okay. [returns to the table] Okay, retard, you really don't know how to make semen come out?!\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "Follow me to the bathroom. [goes upstairs]\n"
+  },
+  {
+    "input": "Follow me to the bathroom. [goes upstairs]\n",
+    "output": "[soothing] (Aw, it's okay, kid. It's not going to hurt.) [Butters hops off the chair and follows Cartman upstairs]\n[The Cartman hallway. Cartman takes Butters to the restroom.]\n"
+  },
+  {
+    "input": "[soothing] (Aw, it's okay, kid. It's not going to hurt.) [Butters hops off the chair and follows Cartman upstairs]\n[The Cartman hallway. Cartman takes Butters to the restroom.]\n",
+    "output": "Now, go sit on the toilet and pull and tug on your wiener until white stuff comes out, and then put it in this cup.\n"
+  },
+  {
+    "input": "Now, go sit on the toilet and pull and tug on your wiener until white stuff comes out, and then put it in this cup.\n",
+    "output": "My wiener??\n"
+  },
+  {
+    "input": "My wiener??\n",
+    "output": "Yes, retard. Semen comes from your wiener. Now do it! [Butters grabs the door handle and shuts the door. Cartman waits for a few second before doing anything] Well, Butters?!\n"
+  },
+  {
+    "input": "Yes, retard. Semen comes from your wiener. Now do it! [Butters grabs the door handle and shuts the door. Cartman waits for a few second before doing anything] Well, Butters?!\n",
+    "output": "Ah I'm pullin' on my wiener, but nothin's happening.\n"
+  },
+  {
+    "input": "Ah I'm pullin' on my wiener, but nothin's happening.\n",
+    "output": "Well pull harder!\n"
+  },
+  {
+    "input": "Well pull harder!\n",
+    "output": "...ow... Ow... It's not workin'.\n"
+  },
+  {
+    "input": "...ow... Ow... It's not workin'.\n",
+    "output": "Try doin' it faster.\n"
+  },
+  {
+    "input": "Try doin' it faster.\n",
+    "output": "[increasing the speed] Ow. Ow. Ow ow ow ow ow ow ow ow ow. Naw, nothin'.\n"
+  },
+  {
+    "input": "[increasing the speed] Ow. Ow. Ow ow ow ow ow ow ow ow ow. Naw, nothin'.\n",
+    "output": "Butters, do you wanna go to jail for the rest of your life?!\n"
+  },
+  {
+    "input": "Butters, do you wanna go to jail for the rest of your life?!\n",
+    "output": "NOOooo!\n"
+  },
+  {
+    "input": "NOOooo!\n",
+    "output": "The you'd better get that semen sample no matter how long it takes!\n"
+  },
+  {
+    "input": "The you'd better get that semen sample no matter how long it takes!\n",
+    "output": "Okay!!\n"
+  },
+  {
+    "input": "Okay!!\n",
+    "output": "[rushing up with Kyle and Kenny] Cartman! Cartman! We just got a tip that a doll was found near Fosse's house!\n"
+  },
+  {
+    "input": "[rushing up with Kyle and Kenny] Cartman! Cartman! We just got a tip that a doll was found near Fosse's house!\n",
+    "output": "Let's go! [They leave. Butters remains in the bathroom]\n"
+  },
+  {
+    "input": "Let's go! [They leave. Butters remains in the bathroom]\n",
+    "output": "...ow... Ow!\n[Fosse's house, a nice rambling house. Cartman approaches the front door as Stan, Kyle, and Kenny stand off to one side. He turns and places his back against the wall, then sneaks up to a window. He looks in just a bit. Inside, Fosse plays with a doll... red dress, turned-up nose, blonde curly hair with two blue bows attached... just as Sarah had described. The two boys giggle as they play.]\n"
+  },
+  {
+    "input": "...ow... Ow!\n[Fosse's house, a nice rambling house. Cartman approaches the front door as Stan, Kyle, and Kenny stand off to one side. He turns and places his back against the wall, then sneaks up to a window. He looks in just a bit. Inside, Fosse plays with a doll... red dress, turned-up nose, blonde curly hair with two blue bows attached... just as Sarah had described. The two boys giggle as they play.]\n",
+    "output": "Huhuh, Okay Ms., Ms. Jones, heh, me and Doctor... Flick here just need to... check your vagina. [pulls up the front of the doll's dress and giggles with Bill]\n"
+  },
+  {
+    "input": "Huhuh, Okay Ms., Ms. Jones, heh, me and Doctor... Flick here just need to... check your vagina. [pulls up the front of the doll's dress and giggles with Bill]\n",
+    "output": "That's gay. [giggles with Fosse]\n"
+  },
+  {
+    "input": "That's gay. [giggles with Fosse]\n",
+    "output": "Yeah, that's gay. [Cartman looks in intently. He then turns his back against the wall and backs away with his water pistol drawn]\n"
+  },
+  {
+    "input": "Yeah, that's gay. [Cartman looks in intently. He then turns his back against the wall and backs away with his water pistol drawn]\n",
+    "output": "[in hushed tones] Kyle!\n[Kyle looks on as Cartman starts signing to him. Cartman holds up his index finger and shows the fleshy side to Kyle, then points two fingers to his own eyeballs, then turns the fingers out and shows them, then motions inside with his thumb, then makes a grabbing gesture, then something like a fist, then a thumbs-up, then a fist turned out, then points to Kyle, then points again, then taps the side of his own head, then makes a J sign on his head, then rests.]\n"
+  },
+  {
+    "input": "[in hushed tones] Kyle!\n[Kyle looks on as Cartman starts signing to him. Cartman holds up his index finger and shows the fleshy side to Kyle, then points two fingers to his own eyeballs, then turns the fingers out and shows them, then motions inside with his thumb, then makes a grabbing gesture, then something like a fist, then a thumbs-up, then a fist turned out, then points to Kyle, then points again, then taps the side of his own head, then makes a J sign on his head, then rests.]\n",
+    "output": "What? [Cartman repeats the gestures again] What??\n"
+  },
+  {
+    "input": "What? [Cartman repeats the gestures again] What??\n",
+    "output": "[repeats the gestures] I see two guys inside. They have Sarah Peterson's doll, you stupid Jew!\n"
+  },
+  {
+    "input": "[repeats the gestures] I see two guys inside. They have Sarah Peterson's doll, you stupid Jew!\n",
+    "output": "[gasps, then with determination, in hushed tones] They've got the doll! [he, Stan, and Kenny move in and the four boys take positions around the door. Kyle stands at the door, Cartman and Kenny on either side, Stan at Kyle's back]\n"
+  },
+  {
+    "input": "[gasps, then with determination, in hushed tones] They've got the doll! [he, Stan, and Kenny move in and the four boys take positions around the door. Kyle stands at the door, Cartman and Kenny on either side, Stan at Kyle's back]\n",
+    "output": "[in hushed tones] Okay, okay. Ready? Break the door down! [Kenny turns and rings the bell. Inside, Bill and Fosse stop their play and go to the door]\n"
+  },
+  {
+    "input": "[in hushed tones] Okay, okay. Ready? Break the door down! [Kenny turns and rings the bell. Inside, Bill and Fosse stop their play and go to the door]\n",
+    "output": "Huh huh who is it?!\n"
+  },
+  {
+    "input": "Huh huh who is it?!\n",
+    "output": "South Park Junior Detectives! We know you have Sarah Peterson's doll!\n"
+  },
+  {
+    "input": "South Park Junior Detectives! We know you have Sarah Peterson's doll!\n",
+    "output": "[giggles] They're playing Detective. [they giggle]\n"
+  },
+  {
+    "input": "[giggles] They're playing Detective. [they giggle]\n",
+    "output": "That's gay. [they giggle]\n"
+  },
+  {
+    "input": "That's gay. [they giggle]\n",
+    "output": "[calls out] You're gay! [outside, the boys lower their guns.]\n"
+  },
+  {
+    "input": "[calls out] You're gay! [outside, the boys lower their guns.]\n",
+    "output": "What do we do now?\n"
+  },
+  {
+    "input": "What do we do now?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Well if they're not gonna give us back the doll, then we have no choice. Let's go tell on them. [hops down from the porch and walks away]\n"
+  },
+  {
+    "input": "Well if they're not gonna give us back the doll, then we have no choice. Let's go tell on them. [hops down from the porch and walks away]\n",
+    "output": "Dude, we just can't tell on them.\n"
+  },
+  {
+    "input": "Dude, we just can't tell on them.\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "Because, dude, we're playing detectives! Detectives don't just go tell on people.\n"
+  },
+  {
+    "input": "Because, dude, we're playing detectives! Detectives don't just go tell on people.\n",
+    "output": "[from inside] Detectives! [Cartman returns, and the camera angle switches to the living room. Bill and Fosse have made the doll a hostage, having tied her up on a chair. Fosse continues, giggling] If you don't get out of here, we're gonna rip the doll's head off!\n"
+  },
+  {
+    "input": "[from inside] Detectives! [Cartman returns, and the camera angle switches to the living room. Bill and Fosse have made the doll a hostage, having tied her up on a chair. Fosse continues, giggling] If you don't get out of here, we're gonna rip the doll's head off!\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "We were playing gynecologists and now we're playing criminals.\n"
+  },
+  {
+    "input": "We were playing gynecologists and now we're playing criminals.\n",
+    "output": "That's gay.\n"
+  },
+  {
+    "input": "That's gay.\n",
+    "output": "We're gay.\n"
+  },
+  {
+    "input": "We're gay.\n",
+    "output": "Jesus! They're gonna kill her!\n"
+  },
+  {
+    "input": "Jesus! They're gonna kill her!\n",
+    "output": "We've got to do something.\n"
+  },
+  {
+    "input": "We've got to do something.\n",
+    "output": "Time! Time is what we need, but time is something we ain't got!\n"
+  },
+  {
+    "input": "Time! Time is what we need, but time is something we ain't got!\n",
+    "output": "[offscreen] Attention! You in the house! [the other kids are shown, with their own little car] This is Agent Tucker with the FBI! We have you surrounded. Sort of.\n"
+  },
+  {
+    "input": "[offscreen] Attention! You in the house! [the other kids are shown, with their own little car] This is Agent Tucker with the FBI! We have you surrounded. Sort of.\n",
+    "output": "[he and the others approach the FBI kids] Hey, you butt-holes can't play FBI here!\n"
+  },
+  {
+    "input": "[he and the others approach the FBI kids] Hey, you butt-holes can't play FBI here!\n",
+    "output": "Yeah! This was our hot lead!\n"
+  },
+  {
+    "input": "Yeah! This was our hot lead!\n",
+    "output": "And you did a great job leading us here. Now you just stay out of our way! [into the megaphone] The gig is up, Fosse! Bring out the doll! Or we'll tell on you!\n"
+  },
+  {
+    "input": "And you did a great job leading us here. Now you just stay out of our way! [into the megaphone] The gig is up, Fosse! Bring out the doll! Or we'll tell on you!\n",
+    "output": "We're gonna charge the front door and go get it.\n"
+  },
+  {
+    "input": "We're gonna charge the front door and go get it.\n",
+    "output": "No you're not.\n"
+  },
+  {
+    "input": "No you're not.\n",
+    "output": "Dammit man, this is not the time for negotiations! There's a little doll in there about to have her head twisted off!\n"
+  },
+  {
+    "input": "Dammit man, this is not the time for negotiations! There's a little doll in there about to have her head twisted off!\n",
+    "output": "Climb off, kid! We say you can't charge the front door, and you have to obey what the FBI says! That's the rules!\n"
+  },
+  {
+    "input": "Climb off, kid! We say you can't charge the front door, and you have to obey what the FBI says! That's the rules!\n",
+    "output": "Just because your parents can afford better toys than ours doesn't make you better than us!\n"
+  },
+  {
+    "input": "Just because your parents can afford better toys than ours doesn't make you better than us!\n",
+    "output": "Yes it does so! [a long pause]\n"
+  },
+  {
+    "input": "Yes it does so! [a long pause]\n",
+    "output": "...Grrrr!!! [the boys turn and walk away]\n"
+  },
+  {
+    "input": "...Grrrr!!! [the boys turn and walk away]\n",
+    "output": "(What do we do now?)\n"
+  },
+  {
+    "input": "(What do we do now?)\n",
+    "output": "We go get the doll ourselves.\n"
+  },
+  {
+    "input": "We go get the doll ourselves.\n",
+    "output": "But they said we can't charge the front door.\n"
+  },
+  {
+    "input": "But they said we can't charge the front door.\n",
+    "output": "That's right. [cocks his left hand] But they didn't say anything about going in the back.\n"
+  },
+  {
+    "input": "That's right. [cocks his left hand] But they didn't say anything about going in the back.\n",
+    "output": "Come on guys. You don't wanna hurt that doll.\n"
+  },
+  {
+    "input": "Come on guys. You don't wanna hurt that doll.\n",
+    "output": "Huhuh. [notices the SP boys coming in] Oh crap, they're coming in the back! [the shootout begins. The boys fan out and make firing noises as they aim at Bill and Fosse. Bill and Fosse return fire with their own noises] That's gay. [he and Fosse hide behind an armchair]\n"
+  },
+  {
+    "input": "Huhuh. [notices the SP boys coming in] Oh crap, they're coming in the back! [the shootout begins. The boys fan out and make firing noises as they aim at Bill and Fosse. Bill and Fosse return fire with their own noises] That's gay. [he and Fosse hide behind an armchair]\n",
+    "output": "[pops up from the couch and fires away, using the back of the couch as a shield] Bang bang bang! I got you, Fosse!\n"
+  },
+  {
+    "input": "[pops up from the couch and fires away, using the back of the couch as a shield] Bang bang bang! I got you, Fosse!\n",
+    "output": "No you didn't!\n"
+  },
+  {
+    "input": "No you didn't!\n",
+    "output": "Did so!\n"
+  },
+  {
+    "input": "Did so!\n",
+    "output": "No, 'cause I got... special wizard armor on.\n"
+  },
+  {
+    "input": "No, 'cause I got... special wizard armor on.\n",
+    "output": "We're not playing Dungeons and Dragons, ass-face!\n"
+  },
+  {
+    "input": "We're not playing Dungeons and Dragons, ass-face!\n",
+    "output": "All right, that does it! Cover me! I'm going slo-mo! [moves out from behind the couch, shooting slowly but walking normally] Wwwaaahhh!\n"
+  },
+  {
+    "input": "All right, that does it! Cover me! I'm going slo-mo! [moves out from behind the couch, shooting slowly but walking normally] Wwwaaahhh!\n",
+    "output": "[makes sweeping gestures with his hands] Oooh, they got me! [falls a bit further with each] Whooaaa, whooaaa, whooaaa. [now fully stretched on the floor, closes his eyes as if dead]\n"
+  },
+  {
+    "input": "[makes sweeping gestures with his hands] Oooh, they got me! [falls a bit further with each] Whooaaa, whooaaa, whooaaa. [now fully stretched on the floor, closes his eyes as if dead]\n",
+    "output": "[follows suit] rr uh rr uh, uhhhh. [makes like he's dead]\n"
+  },
+  {
+    "input": "[follows suit] rr uh rr uh, uhhhh. [makes like he's dead]\n",
+    "output": "[opens his eyes and giggles] We're dead.\n"
+  },
+  {
+    "input": "[opens his eyes and giggles] We're dead.\n",
+    "output": "[opens his eyes and giggles] That's gay.\n"
+  },
+  {
+    "input": "[opens his eyes and giggles] That's gay.\n",
+    "output": "[getting the doll after he, Kyle and Kenny approach the chair] We got it.\n[Sarah's house, later. Stan and the boys walk up to the house again. Stan knocks on the door, and Sarah's mother answers.]\n"
+  },
+  {
+    "input": "[getting the doll after he, Kyle and Kenny approach the chair] We got it.\n[Sarah's house, later. Stan and the boys walk up to the house again. Stan knocks on the door, and Sarah's mother answers.]\n",
+    "output": "Ms. Peterson, is your daughter home?\n"
+  },
+  {
+    "input": "Ms. Peterson, is your daughter home?\n",
+    "output": "[appears at the doorway and lights up as she runs for her doll] My dolly! [gets it and holds it tight]\n"
+  },
+  {
+    "input": "[appears at the doorway and lights up as she runs for her doll] My dolly! [gets it and holds it tight]\n",
+    "output": "We got her back safe. Lost a lot of good men in the process.\n"
+  },
+  {
+    "input": "We got her back safe. Lost a lot of good men in the process.\n",
+    "output": "Well you boys are little heroes. I'm going to call the police department and let them know what brave little detectives you are! [the boys smile proudly]\n[Park County Police Station, day. This building is much bigger than the building Barbrady upholds the law from in South Park.]\n"
+  },
+  {
+    "input": "Well you boys are little heroes. I'm going to call the police department and let them know what brave little detectives you are! [the boys smile proudly]\n[Park County Police Station, day. This building is much bigger than the building Barbrady upholds the law from in South Park.]\n",
+    "output": "Hello there little crime stoppers, I'm Lieutenant Dawson with the Park County Police. I heard you did a great job finding Sarah Peterson's doll.\n"
+  },
+  {
+    "input": "Hello there little crime stoppers, I'm Lieutenant Dawson with the Park County Police. I heard you did a great job finding Sarah Peterson's doll.\n",
+    "output": "We do what we can, sir.\n"
+  },
+  {
+    "input": "We do what we can, sir.\n",
+    "output": "Well, that's fantastic, kids. And for all your terrific sleuth-solving, I'm hereby making you all Junior Detectives. [hands out badges]\n"
+  },
+  {
+    "input": "Well, that's fantastic, kids. And for all your terrific sleuth-solving, I'm hereby making you all Junior Detectives. [hands out badges]\n",
+    "output": "[Kyle opens his] Wow! [the others have similar reactions]\n"
+  },
+  {
+    "input": "[Kyle opens his] Wow! [the others have similar reactions]\n",
+    "output": "That means you boys are now an official part of the department.\n"
+  },
+  {
+    "input": "That means you boys are now an official part of the department.\n",
+    "output": "Kewl!\n"
+  },
+  {
+    "input": "Kewl!\n",
+    "output": "All right, so ready for your first assignment?\n"
+  },
+  {
+    "input": "All right, so ready for your first assignment?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "Okay. There's a meth lab down at 567 Mala Vista. The operators are probably armed to the hilt with illegal weapons. I want you to get down there and see what you can find!\n"
+  },
+  {
+    "input": "Okay. There's a meth lab down at 567 Mala Vista. The operators are probably armed to the hilt with illegal weapons. I want you to get down there and see what you can find!\n",
+    "output": "Ah... a a a meth lab?\n"
+  },
+  {
+    "input": "Ah... a a a meth lab?\n",
+    "output": "[sits at his desk] I don't want any problems. Just take 'em down by the books. Now get over there; the mayor's all over my ass on this one! [the boys turn to leave] On, and deputies: you screw this up and I'll have you working graveyard shift behind a desk! Move it! [the boys run off]\n[Nighttime in the boondocks. The boys walk along a barren stretch of road.]\n"
+  },
+  {
+    "input": "[sits at his desk] I don't want any problems. Just take 'em down by the books. Now get over there; the mayor's all over my ass on this one! [the boys turn to leave] On, and deputies: you screw this up and I'll have you working graveyard shift behind a desk! Move it! [the boys run off]\n[Nighttime in the boondocks. The boys walk along a barren stretch of road.]\n",
+    "output": "What is a meth lab, anyway?\n"
+  },
+  {
+    "input": "What is a meth lab, anyway?\n",
+    "output": "I don't know. Let's just hurry up. I wanna get home in time to watch Crime Drama. [they turn and walk towards a large building in the distance]\n[The meth lab. Three men sit around a table as a fourth man works behind them. The junior detectives approach the front door. Stan knocks. The men inside quickly arm themselves.]\n"
+  },
+  {
+    "input": "I don't know. Let's just hurry up. I wanna get home in time to watch Crime Drama. [they turn and walk towards a large building in the distance]\n[The meth lab. Three men sit around a table as a fourth man works behind them. The junior detectives approach the front door. Stan knocks. The men inside quickly arm themselves.]\n",
+    "output": "Uh police. Open up. ...Oh crap, did you guys do your math homework?\n"
+  },
+  {
+    "input": "Uh police. Open up. ...Oh crap, did you guys do your math homework?\n",
+    "output": "Nah. Dude, I totally spaced it. [windows begin breaking as shots are fired at the boys]\n"
+  },
+  {
+    "input": "Nah. Dude, I totally spaced it. [windows begin breaking as shots are fired at the boys]\n",
+    "output": "You die, pigs! [gunfire continues breaking windows] You want to die, huh? [loses control of the gun, which causes a bullet to ricochet and hit some flammable liquids. A fire erupts and begins to spread, torching one of the man's friends. The burning friend breaks through the front door and runs out. The first man and another man hop into a truck and break through the garage door. The passenger pulls out his gun]\n"
+  },
+  {
+    "input": "You die, pigs! [gunfire continues breaking windows] You want to die, huh? [loses control of the gun, which causes a bullet to ricochet and hit some flammable liquids. A fire erupts and begins to spread, torching one of the man's friends. The burning friend breaks through the front door and runs out. The first man and another man hop into a truck and break through the garage door. The passenger pulls out his gun]\n",
+    "output": "You won't take us alive! [their truck hits a ramp and goes into the air, twisting to the left and ending up in the middle of a road. Another truck arrives and its driver honks his horn. The oncoming truck strikes the disabled truck and pushes it along. At a nearby intersection, a car strikes the disabled truck and that truck blows up. Three burning people get out of the truck and run around. The fourth man in the meth lab flies a plane]\n"
+  },
+  {
+    "input": "You won't take us alive! [their truck hits a ramp and goes into the air, twisting to the left and ending up in the middle of a road. Another truck arrives and its driver honks his horn. The oncoming truck strikes the disabled truck and pushes it along. At a nearby intersection, a car strikes the disabled truck and that truck blows up. Three burning people get out of the truck and run around. The fourth man in the meth lab flies a plane]\n",
+    "output": "So long, coppers! [his fuel level hits empty] Oh, shit! [the plane goes straight down and hits the post office and another building. More burning people run around, and the boys can barely believe what they're seeing]\n"
+  },
+  {
+    "input": "So long, coppers! [his fuel level hits empty] Oh, shit! [the plane goes straight down and hits the post office and another building. More burning people run around, and the boys can barely believe what they're seeing]\n",
+    "output": "Damn.\n[Park County Police Dept., Dawson's office, later that night. He reads the police report and paces behind his desk.]\n"
+  },
+  {
+    "input": "Damn.\n[Park County Police Dept., Dawson's office, later that night. He reads the police report and paces behind his desk.]\n",
+    "output": "One UPS vehicle valued at twenty-five thousand dollars, one civilian vehicle worth sixteen thousand, the second floor of the post office AND a coffee shop valued at sixty thousand! The mayor's gonna have my ass!\n"
+  },
+  {
+    "input": "One UPS vehicle valued at twenty-five thousand dollars, one civilian vehicle worth sixteen thousand, the second floor of the post office AND a coffee shop valued at sixty thousand! The mayor's gonna have my ass!\n",
+    "output": "Uh, sir, we just kinda got blind-sided by the-\n"
+  },
+  {
+    "input": "Uh, sir, we just kinda got blind-sided by the-\n",
+    "output": "You got careless! Now, I don't know how they do things down at that dog-and-pony show they call the Fourth Grade, but here we have rules! Jesus, we don't even have guys to question now, because you killed them all!\n"
+  },
+  {
+    "input": "You got careless! Now, I don't know how they do things down at that dog-and-pony show they call the Fourth Grade, but here we have rules! Jesus, we don't even have guys to question now, because you killed them all!\n",
+    "output": "We're sorry.\n"
+  },
+  {
+    "input": "We're sorry.\n",
+    "output": "One more slip-up like that and I'll have your badges! You hear me?! Now hit the showers!\n[Park County Police Dept., locker room. Three men are changing clothes, so they're all in their briefs. The boys enter.]\n"
+  },
+  {
+    "input": "One more slip-up like that and I'll have your badges! You hear me?! Now hit the showers!\n[Park County Police Dept., locker room. Three men are changing clothes, so they're all in their briefs. The boys enter.]\n",
+    "output": "Well well well, if it isn't the super-cops. [the officers begin to giggle]\n"
+  },
+  {
+    "input": "Well well well, if it isn't the super-cops. [the officers begin to giggle]\n",
+    "output": "Hey Murphy, think they'll let me borrow their G.I. Joes?\n"
+  },
+  {
+    "input": "Hey Murphy, think they'll let me borrow their G.I. Joes?\n",
+    "output": "Come on, you guys. Leave them alone.\n"
+  },
+  {
+    "input": "Come on, you guys. Leave them alone.\n",
+    "output": "[Officer 1] Relax, Hopkins! [removes his briefs and drops them to the ground] All fun and games, right? [moves to the end of the lockers and hides behind it, only to peek out] Soho, tell us, rookies, you ah... find yourself a little bonus in that house??\n"
+  },
+  {
+    "input": "[Officer 1] Relax, Hopkins! [removes his briefs and drops them to the ground] All fun and games, right? [moves to the end of the lockers and hides behind it, only to peek out] Soho, tell us, rookies, you ah... find yourself a little bonus in that house??\n",
+    "output": "Uh bonus?\n"
+  },
+  {
+    "input": "Uh bonus?\n",
+    "output": "Come on! We all skim a little off the top. Oh. Or are you too good for that? [walks back to the other officers] You think you're gonna waltz in here and clean up the system. Is that it?\n"
+  },
+  {
+    "input": "Come on! We all skim a little off the top. Oh. Or are you too good for that? [walks back to the other officers] You think you're gonna waltz in here and clean up the system. Is that it?\n",
+    "output": "[softly] We just wanna be junior detectives.\n"
+  },
+  {
+    "input": "[softly] We just wanna be junior detectives.\n",
+    "output": "LOOK, we all work hard! And we deserve more than the thirty-thousand a year we get paid! So what if we take in a little on the side?\n"
+  },
+  {
+    "input": "LOOK, we all work hard! And we deserve more than the thirty-thousand a year we get paid! So what if we take in a little on the side?\n",
+    "output": "Yeah! Who the hell are you to change that?!\n"
+  },
+  {
+    "input": "Yeah! Who the hell are you to change that?!\n",
+    "output": "I said, back off Murphy!\n"
+  },
+  {
+    "input": "I said, back off Murphy!\n",
+    "output": "Why don't you and your rookie friends make us\n"
+  },
+  {
+    "input": "Why don't you and your rookie friends make us\n",
+    "output": "That's right. Come on, bring it!\n"
+  },
+  {
+    "input": "That's right. Come on, bring it!\n",
+    "output": "Yeah, let's go! Come on, bring it!\n"
+  },
+  {
+    "input": "Yeah, let's go! Come on, bring it!\n",
+    "output": "What the hell is the problem here??\n"
+  },
+  {
+    "input": "What the hell is the problem here??\n",
+    "output": "No problem, sir. No problem at all.\n"
+  },
+  {
+    "input": "No problem, sir. No problem at all.\n",
+    "output": "Then hit the showers, all of you!\n[The shower room, moments later. Stan, Kyle, and Cartman are taking their showers. Kyle drops his soap to fart, then picks it up again. Cartman works on his hair.]\n"
+  },
+  {
+    "input": "Then hit the showers, all of you!\n[The shower room, moments later. Stan, Kyle, and Cartman are taking their showers. Kyle drops his soap to fart, then picks it up again. Cartman works on his hair.]\n",
+    "output": "Dude, I don't wanna play Detective anymore.\n"
+  },
+  {
+    "input": "Dude, I don't wanna play Detective anymore.\n",
+    "output": "Me neither.\n"
+  },
+  {
+    "input": "Me neither.\n",
+    "output": "It'll get better, guys.\n"
+  },
+  {
+    "input": "It'll get better, guys.\n",
+    "output": "Better how, dude?\n"
+  },
+  {
+    "input": "Better how, dude?\n",
+    "output": "[puts his soap away] Look, we said we wanted to form a club to protect and serve South Park. We put all this time into it, I mean... What do you guys wanna do, huh? Go back to playing Car Mechanics? Or Laundromat Owners?\n"
+  },
+  {
+    "input": "[puts his soap away] Look, we said we wanted to form a club to protect and serve South Park. We put all this time into it, I mean... What do you guys wanna do, huh? Go back to playing Car Mechanics? Or Laundromat Owners?\n",
+    "output": "We were happy playing Laundromat Owners.\n"
+  },
+  {
+    "input": "We were happy playing Laundromat Owners.\n",
+    "output": "I wasn't. We started playing Detective because we wanted our play time to mean something. Or have you forgotten why you joined the force, Kyle?\n"
+  },
+  {
+    "input": "I wasn't. We started playing Detective because we wanted our play time to mean something. Or have you forgotten why you joined the force, Kyle?\n",
+    "output": "[intervening] Hey! Broflovski's a good cop!\n"
+  },
+  {
+    "input": "[intervening] Hey! Broflovski's a good cop!\n",
+    "output": "You guys can go back to playing Laundromat Owners if you want, but... I'm not gonna give those kids playing the FBI a chance to laugh at us. I'll see you guys at school tomorrow.\n[Cartman's house, night. His door opens, and a tired Cartman walks in.]\n"
+  },
+  {
+    "input": "You guys can go back to playing Laundromat Owners if you want, but... I'm not gonna give those kids playing the FBI a chance to laugh at us. I'll see you guys at school tomorrow.\n[Cartman's house, night. His door opens, and a tired Cartman walks in.]\n",
+    "output": "Awwwwrrr-auugh. [hangs up his coat and holster on the coat tree in the living room]\n"
+  },
+  {
+    "input": "Awwwwrrr-auugh. [hangs up his coat and holster on the coat tree in the living room]\n",
+    "output": "Eric, where have you been? It's ten thirty.\n"
+  },
+  {
+    "input": "Eric, where have you been? It's ten thirty.\n",
+    "output": "We had to take down a meth lab on Mala Vista.\n"
+  },
+  {
+    "input": "We had to take down a meth lab on Mala Vista.\n",
+    "output": "Well you should've called Mommy.\n"
+  },
+  {
+    "input": "Well you should've called Mommy.\n",
+    "output": "[turns and snaps at her] Will you get off my back?! It's hard enough I gotta work the beat, and now I gotta come home to your nagging?! [realizes what he's doing, then turns away] Look look, I'm I'm sorry. It's just this case, and... the guys down at the station, I... I'm tired, alright? I'm I'm tired.\n"
+  },
+  {
+    "input": "[turns and snaps at her] Will you get off my back?! It's hard enough I gotta work the beat, and now I gotta come home to your nagging?! [realizes what he's doing, then turns away] Look look, I'm I'm sorry. It's just this case, and... the guys down at the station, I... I'm tired, alright? I'm I'm tired.\n",
+    "output": "Well, why don't you get ready for snoogums' night-night, and I'll bring you some toasty chocolate nummers?\n"
+  },
+  {
+    "input": "Well, why don't you get ready for snoogums' night-night, and I'll bring you some toasty chocolate nummers?\n",
+    "output": "[straightens up and smiles] Okay. [turns and walks off to bed. He passes by the bathroom. Butters is still in there]\n"
+  },
+  {
+    "input": "[straightens up and smiles] Okay. [turns and walks off to bed. He passes by the bathroom. Butters is still in there]\n",
+    "output": "Who-o-o-o-a. Oowwww!\n"
+  },
+  {
+    "input": "Who-o-o-o-a. Oowwww!\n",
+    "output": "[stops] Butters?\n"
+  },
+  {
+    "input": "[stops] Butters?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "Are you still trying to give a semen sample?\n"
+  },
+  {
+    "input": "Are you still trying to give a semen sample?\n",
+    "output": "Well I'm tryin', but nothing's comin' out.\n"
+  },
+  {
+    "input": "Well I'm tryin', but nothing's comin' out.\n",
+    "output": "Well, keep tryin', Butters.\n"
+  },
+  {
+    "input": "Well, keep tryin', Butters.\n",
+    "output": "Okay. [Cartman walks off] Ow. Ooww!\n[South Park Elementary, day. The boys are in class, sleeping. As Butters was at home at 9 am the previous day, this day is Monday.]\n"
+  },
+  {
+    "input": "Okay. [Cartman walks off] Ow. Ooww!\n[South Park Elementary, day. The boys are in class, sleeping. As Butters was at home at 9 am the previous day, this day is Monday.]\n",
+    "output": "And so you can see, children, that the women's movement of the late fifties and the early sixties had a profound effect on feminism in America. [turns around and quickly notices the sleeping boys] Uh, boys! [the boys stir and wake up] Would it trouble you terribly not to sleep in my class?\n"
+  },
+  {
+    "input": "And so you can see, children, that the women's movement of the late fifties and the early sixties had a profound effect on feminism in America. [turns around and quickly notices the sleeping boys] Uh, boys! [the boys stir and wake up] Would it trouble you terribly not to sleep in my class?\n",
+    "output": "Uh we weren't sleeping, Mr. Garrison.\n"
+  },
+  {
+    "input": "Uh we weren't sleeping, Mr. Garrison.\n",
+    "output": "Oh well, then maybe you can tell me who was in charge of the feminist movement of the early sixties!\n"
+  },
+  {
+    "input": "Oh well, then maybe you can tell me who was in charge of the feminist movement of the early sixties!\n",
+    "output": "[thinks] A bunch of fat old skanks on their periods?\n"
+  },
+  {
+    "input": "[thinks] A bunch of fat old skanks on their periods?\n",
+    "output": "Right, but who was the fattest oldest skank on her period?! [the boys look at each other, confused and afraid] That's what I thought! Now pay attention! [turns back to the board] Okay, children, now, the biggest skank of all was was an old fat-ass by the name of-\n"
+  },
+  {
+    "input": "Right, but who was the fattest oldest skank on her period?! [the boys look at each other, confused and afraid] That's what I thought! Now pay attention! [turns back to the board] Okay, children, now, the biggest skank of all was was an old fat-ass by the name of-\n",
+    "output": "[bursting through the classroom door] Marsh! Broflovski! McCormick! Cartman! In my office! [leaves]\n"
+  },
+  {
+    "input": "[bursting through the classroom door] Marsh! Broflovski! McCormick! Cartman! In my office! [leaves]\n",
+    "output": "[hanging their heads] Eeagh!\n[Park County Police Department, later. The boys walk in sleepily. Dawson holds a file in his right hand.]\n"
+  },
+  {
+    "input": "[hanging their heads] Eeagh!\n[Park County Police Department, later. The boys walk in sleepily. Dawson holds a file in his right hand.]\n",
+    "output": "Looks like that meth lab you took down was the tip of the iceberg. They found a paper trail leading all the way to the biggest crime syndicate in Colorado.\n"
+  },
+  {
+    "input": "Looks like that meth lab you took down was the tip of the iceberg. They found a paper trail leading all the way to the biggest crime syndicate in Colorado.\n",
+    "output": "Uh oh...\n"
+  },
+  {
+    "input": "Uh oh...\n",
+    "output": "The operators apparently run their business out of a sleazy strip joint down in Inglewood. They're all cop killers, so I'm sending you in undercover. [the boys look at each other]\n"
+  },
+  {
+    "input": "The operators apparently run their business out of a sleazy strip joint down in Inglewood. They're all cop killers, so I'm sending you in undercover. [the boys look at each other]\n",
+    "output": "Uh, sir, d'I have a lot of homework to do tonight and I was-\n"
+  },
+  {
+    "input": "Uh, sir, d'I have a lot of homework to do tonight and I was-\n",
+    "output": "What?! Now you listen to me! I'm givin' you one last chance! You're good cops, but you let your emotions get in the way! And your little \"shoot first ask questions later\" technique has no place in this century! Now you get down to that strip joint and you do it by the books, you got it?! The mayor is on my ass and blablablah! [the boys turn left and walk off. As they head for the entrance they walk down the hall. Around one corner are two of the officers they met in the locker room]\n"
+  },
+  {
+    "input": "What?! Now you listen to me! I'm givin' you one last chance! You're good cops, but you let your emotions get in the way! And your little \"shoot first ask questions later\" technique has no place in this century! Now you get down to that strip joint and you do it by the books, you got it?! The mayor is on my ass and blablablah! [the boys turn left and walk off. As they head for the entrance they walk down the hall. Around one corner are two of the officers they met in the locker room]\n",
+    "output": "So, what did you boys have to say to the lieutenant?\n"
+  },
+  {
+    "input": "So, what did you boys have to say to the lieutenant?\n",
+    "output": "Nothing, he just told us a bunch of stuff.\n"
+  },
+  {
+    "input": "Nothing, he just told us a bunch of stuff.\n",
+    "output": "Maybe you decided you needed to tell him about our... bonus money.\n"
+  },
+  {
+    "input": "Maybe you decided you needed to tell him about our... bonus money.\n",
+    "output": "No. [the boys walk away]\n"
+  },
+  {
+    "input": "No. [the boys walk away]\n",
+    "output": "They're lying.\n"
+  },
+  {
+    "input": "They're lying.\n",
+    "output": "They're dead!\n[Inglewood, Colorado, night. A big city. The strip club shown is The Peppermint Hippo. Inside there are several dancers undulating for their patrons on individual stages. Other dancers dance on the club floor for individual patrons. The boys enter the club.]\n"
+  },
+  {
+    "input": "They're dead!\n[Inglewood, Colorado, night. A big city. The strip club shown is The Peppermint Hippo. Inside there are several dancers undulating for their patrons on individual stages. Other dancers dance on the club floor for individual patrons. The boys enter the club.]\n",
+    "output": "Dude, if my mom knew I was in here, I would be in super big trouble.\n"
+  },
+  {
+    "input": "Dude, if my mom knew I was in here, I would be in super big trouble.\n",
+    "output": "[stops and looks around, then jumps for joy] (Woohoo!!) [rushes up to catch the other boys, who now sit around a small stage]\n"
+  },
+  {
+    "input": "[stops and looks around, then jumps for joy] (Woohoo!!) [rushes up to catch the other boys, who now sit around a small stage]\n",
+    "output": "[bloated woman with a coarse voice, opens an embrace to Stan] Would you like a dance?\n"
+  },
+  {
+    "input": "[bloated woman with a coarse voice, opens an embrace to Stan] Would you like a dance?\n",
+    "output": "No thanks.\n"
+  },
+  {
+    "input": "No thanks.\n",
+    "output": "[moves to Kyle] Dance? [moves on] Anyone like a dance?\n"
+  },
+  {
+    "input": "[moves to Kyle] Dance? [moves on] Anyone like a dance?\n",
+    "output": "Well all right, guests, put your hands together. Be sure to tip the dancers. And now, come on, let's hear it for Candy!\n"
+  },
+  {
+    "input": "Well all right, guests, put your hands together. Be sure to tip the dancers. And now, come on, let's hear it for Candy!\n",
+    "output": "[walks up to the boys] Whoa whoa, what the hell are you kids doin' in here? This isn't an appropriate place for children.\n"
+  },
+  {
+    "input": "[walks up to the boys] Whoa whoa, what the hell are you kids doin' in here? This isn't an appropriate place for children.\n",
+    "output": "[walking in the foreground, on the other side of the small stage] Dance? Anyone like a dance?\n"
+  },
+  {
+    "input": "[walking in the foreground, on the other side of the small stage] Dance? Anyone like a dance?\n",
+    "output": "Uh, it's okay. We know the owner.\n"
+  },
+  {
+    "input": "Uh, it's okay. We know the owner.\n",
+    "output": "[crosses his arms] Oh, really? Let's go see.\n[The Peppermint Hippo back room.]\n"
+  },
+  {
+    "input": "[crosses his arms] Oh, really? Let's go see.\n[The Peppermint Hippo back room.]\n",
+    "output": "All right, so we'll have to start havin' the McCormicks make our meth again and-\n"
+  },
+  {
+    "input": "All right, so we'll have to start havin' the McCormicks make our meth again and-\n",
+    "output": "Hey Gino, these kids say they know you.\n"
+  },
+  {
+    "input": "Hey Gino, these kids say they know you.\n",
+    "output": "What? Ha-I don't know no kids.\n"
+  },
+  {
+    "input": "What? Ha-I don't know no kids.\n",
+    "output": "I didn't think so. All right, you kids-\n"
+  },
+  {
+    "input": "I didn't think so. All right, you kids-\n",
+    "output": "Hey wait a minute. These kids might be just what we need to get our drugs past the security at DIA. How would you like to join our family?\n"
+  },
+  {
+    "input": "Hey wait a minute. These kids might be just what we need to get our drugs past the security at DIA. How would you like to join our family?\n",
+    "output": "Yo Gino, I know I've seen these kids before, man. These kids are 5-0!\n"
+  },
+  {
+    "input": "Yo Gino, I know I've seen these kids before, man. These kids are 5-0!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "These kids are cops, man! [the five men in the room assume positions and start firing away at the boys. A man at the door is shot and he falls away. The boys begin pretending to fire back and make shooting noises.]\n"
+  },
+  {
+    "input": "These kids are cops, man! [the five men in the room assume positions and start firing away at the boys. A man at the door is shot and he falls away. The boys begin pretending to fire back and make shooting noises.]\n",
+    "output": "Bang bang bang... [the boys move behind a chair. The men continue firing. The boys move back into view]\n"
+  },
+  {
+    "input": "Bang bang bang... [the boys move behind a chair. The men continue firing. The boys move back into view]\n",
+    "output": "Bang bang bang... [the men move to lesser-powered weapons]\n"
+  },
+  {
+    "input": "Bang bang bang... [the men move to lesser-powered weapons]\n",
+    "output": "(Pakew! Pakew!)\n"
+  },
+  {
+    "input": "(Pakew! Pakew!)\n",
+    "output": "[looks at Kenny] Kenny, it doesn't go \"Pakew! Pakew!\", it goes \"BANG BANG BANG!!\" [outside, police cars of all types pull up to the club. Dawson quickly jumps out of his car. An explosion appears in two windows of the club, and Dawson ducks a little]\n"
+  },
+  {
+    "input": "[looks at Kenny] Kenny, it doesn't go \"Pakew! Pakew!\", it goes \"BANG BANG BANG!!\" [outside, police cars of all types pull up to the club. Dawson quickly jumps out of his car. An explosion appears in two windows of the club, and Dawson ducks a little]\n",
+    "output": "God damnit! Those junior detectives and their heroically reckless ways! Murphy! Jenkins! Hopkins! Get in there! [The three men move in. Jenkins is Officer 2. Inside, two of the owner's men rush out of the back room, and the strippers rush out of the way. The men turn around and shoot back at the boys. The boys return fire. None of the four boys has yet been hit. The gunfight continues. The old stripper walks by again]\n"
+  },
+  {
+    "input": "God damnit! Those junior detectives and their heroically reckless ways! Murphy! Jenkins! Hopkins! Get in there! [The three men move in. Jenkins is Officer 2. Inside, two of the owner's men rush out of the back room, and the strippers rush out of the way. The men turn around and shoot back at the boys. The boys return fire. None of the four boys has yet been hit. The gunfight continues. The old stripper walks by again]\n",
+    "output": "Dance??? Anybody like a dance??? [walks by without being hit once. The other two men appear and shoot at the boys]\n"
+  },
+  {
+    "input": "Dance??? Anybody like a dance??? [walks by without being hit once. The other two men appear and shoot at the boys]\n",
+    "output": "[enters the club] Freeze! South Park detectives! [Murphy and Jacobs quickly enter and take aim. Everyone stops and turns around to face the detectives. The DJ stands in his booth] Great job, boys. You found the meth boss!\n"
+  },
+  {
+    "input": "[enters the club] Freeze! South Park detectives! [Murphy and Jacobs quickly enter and take aim. Everyone stops and turns around to face the detectives. The DJ stands in his booth] Great job, boys. You found the meth boss!\n",
+    "output": "Detective Murphy! Jenkins! Uh what the hell are you doing? We had a deal.\n"
+  },
+  {
+    "input": "Detective Murphy! Jenkins! Uh what the hell are you doing? We had a deal.\n",
+    "output": "[looks at his colleagues with suspicion] A deal?\n"
+  },
+  {
+    "input": "[looks at his colleagues with suspicion] A deal?\n",
+    "output": "That's right. We're partners in the drug business. Everything was fine until these \"super-cops\" joined the force. [the boys look stunned at the revelation: these cops are crooked]\n"
+  },
+  {
+    "input": "That's right. We're partners in the drug business. Everything was fine until these \"super-cops\" joined the force. [the boys look stunned at the revelation: these cops are crooked]\n",
+    "output": "Now we've gotta kill you all.\n"
+  },
+  {
+    "input": "Now we've gotta kill you all.\n",
+    "output": "Boys! Down! [the boys look for cover as the two crooked cops join the five men in firing at Hopkins. The boys huddle under a table]\n"
+  },
+  {
+    "input": "Boys! Down! [the boys look for cover as the two crooked cops join the five men in firing at Hopkins. The boys huddle under a table]\n",
+    "output": "Huh alright guys, put your hands together, a lot of shootin' and killin' goin' on, but be sure to tip your waitress let's hear it for Rebecca.\n"
+  },
+  {
+    "input": "Huh alright guys, put your hands together, a lot of shootin' and killin' goin' on, but be sure to tip your waitress let's hear it for Rebecca.\n",
+    "output": "Christ! Those junior detectives have no regard for the law! [FBI trucks pull up and agents pour out of them]\n"
+  },
+  {
+    "input": "Christ! Those junior detectives have no regard for the law! [FBI trucks pull up and agents pour out of them]\n",
+    "output": "Get me a hard line to the phone! And I want choppers on the roof!\n"
+  },
+  {
+    "input": "Get me a hard line to the phone! And I want choppers on the roof!\n",
+    "output": "[walks up] Who the hell are you??\n"
+  },
+  {
+    "input": "[walks up] Who the hell are you??\n",
+    "output": "[whips out his badge] Agent Fields, FBI!\n"
+  },
+  {
+    "input": "[whips out his badge] Agent Fields, FBI!\n",
+    "output": "Hey, I'm in charge of this investigation.\n"
+  },
+  {
+    "input": "Hey, I'm in charge of this investigation.\n",
+    "output": "Not anymore, you're not.\n"
+  },
+  {
+    "input": "Not anymore, you're not.\n",
+    "output": "But that's not fair!\n"
+  },
+  {
+    "input": "But that's not fair!\n",
+    "output": "Is so! Is so! [inside, the gunfight continues. Hopkins is shot, and he quickly kills two of Gino's men. Jenkins quickly shoots at Hopkins and gets the right arm. Hopkins winces and falls down]\n"
+  },
+  {
+    "input": "Is so! Is so! [inside, the gunfight continues. Hopkins is shot, and he quickly kills two of Gino's men. Jenkins quickly shoots at Hopkins and gets the right arm. Hopkins winces and falls down]\n",
+    "output": "Sorry, Detective Hopkins. We can't let anybody know about our partnership.\n"
+  },
+  {
+    "input": "Sorry, Detective Hopkins. We can't let anybody know about our partnership.\n",
+    "output": "That's right. We split it all, fifty-fifty!\n"
+  },
+  {
+    "input": "That's right. We split it all, fifty-fifty!\n",
+    "output": "That's right. [raises his gun and shoots Gino through the forehead. Gino's body slides down along the wall behind him] I think we'll take a hundred percent now.\n"
+  },
+  {
+    "input": "That's right. [raises his gun and shoots Gino through the forehead. Gino's body slides down along the wall behind him] I think we'll take a hundred percent now.\n",
+    "output": "Huhuh yeah. Sorry, Gino, but in business like this, sometimes partnerships need to end.\n"
+  },
+  {
+    "input": "Huhuh yeah. Sorry, Gino, but in business like this, sometimes partnerships need to end.\n",
+    "output": "That's right. [raises his gun and shoots Jenkins through the side of the head, and Jenkins wavers and falls] Sometimes partnerships need to end. [now seeing the boys] Well, super-cops, looks like I'll be taking in all the money now. I'm in business alone. And that means that the only person I can't trust... is myself. [raises the gun and shoots himself through his chin, then falls alongside Hopkins]\n[Outside the Peppermint Club. The paramedics have arrived and are removing the bodies. Hopkins, up and about, reaches the boys.]\n"
+  },
+  {
+    "input": "That's right. [raises his gun and shoots Jenkins through the side of the head, and Jenkins wavers and falls] Sometimes partnerships need to end. [now seeing the boys] Well, super-cops, looks like I'll be taking in all the money now. I'm in business alone. And that means that the only person I can't trust... is myself. [raises the gun and shoots himself through his chin, then falls alongside Hopkins]\n[Outside the Peppermint Club. The paramedics have arrived and are removing the bodies. Hopkins, up and about, reaches the boys.]\n",
+    "output": "[his arm in a sling] It looks like Murphy and Jenkins got what they deserved. If it weren't for you boys, we would have never cleaned up the department.\n"
+  },
+  {
+    "input": "[his arm in a sling] It looks like Murphy and Jenkins got what they deserved. If it weren't for you boys, we would have never cleaned up the department.\n",
+    "output": "[approaches the boys] All right, detectives, let's get one thing straight! I do not agree with your methods! You're uncontrolled, and you're negligent! But by God you get the job done. Congratulations!\n"
+  },
+  {
+    "input": "[approaches the boys] All right, detectives, let's get one thing straight! I do not agree with your methods! You're uncontrolled, and you're negligent! But by God you get the job done. Congratulations!\n",
+    "output": "Thanks.\n"
+  },
+  {
+    "input": "Thanks.\n",
+    "output": "I'm probably going to regret this, but, well, I'm promoting you to full detectives. There'll be lots of action, and that big paycheck you've always wanted. [the paramedics close up the ambulance, then climb in and leave. The boys mull over the offer]\n"
+  },
+  {
+    "input": "I'm probably going to regret this, but, well, I'm promoting you to full detectives. There'll be lots of action, and that big paycheck you've always wanted. [the paramedics close up the ambulance, then climb in and leave. The boys mull over the offer]\n",
+    "output": "...I think I have a better idea.\n[Cartman's basement, next day. The boys are back at playing Laundromat. The wall under the stairs has been removed to show the washer and dryer, which are now framed by a doorway saying \"Employees Only.\" Two clothes racks are seen, and the detectives' desks are refashioned as washer/dryer combos. A \"Laundromat\" sign on the wall looks over the whole thing.]\n"
+  },
+  {
+    "input": "...I think I have a better idea.\n[Cartman's basement, next day. The boys are back at playing Laundromat. The wall under the stairs has been removed to show the washer and dryer, which are now framed by a doorway saying \"Employees Only.\" Two clothes racks are seen, and the detectives' desks are refashioned as washer/dryer combos. A \"Laundromat\" sign on the wall looks over the whole thing.]\n",
+    "output": "Hello, sir. Welcome to the Broflovski Laundromat.\n"
+  },
+  {
+    "input": "Hello, sir. Welcome to the Broflovski Laundromat.\n",
+    "output": "[walks up with one of his outfits] Yes, I have a suit I need dry-cleaned, and pressed, please.\n"
+  },
+  {
+    "input": "[walks up with one of his outfits] Yes, I have a suit I need dry-cleaned, and pressed, please.\n",
+    "output": "Certainly.\n"
+  },
+  {
+    "input": "Certainly.\n",
+    "output": "[walks up with some clothes] Here you are, Mister McCormick. Your laundry is all done and folded. That will be nine ninety five. [Kenny hands him a card] On your American Express.\n"
+  },
+  {
+    "input": "[walks up with some clothes] Here you are, Mister McCormick. Your laundry is all done and folded. That will be nine ninety five. [Kenny hands him a card] On your American Express.\n",
+    "output": "[coming down the stairs] Fellas! Hey fellas! I got it! Ah I got my semen sample!\n"
+  },
+  {
+    "input": "[coming down the stairs] Fellas! Hey fellas! I got it! Ah I got my semen sample!\n",
+    "output": "You did?\n"
+  },
+  {
+    "input": "You did?\n",
+    "output": "Yeah. I was up there poundin' my wiener for two days straight, aaand finally, I thought about Stan's Mom's boobs, and this little tiny spooge of... this white stuff came out.\n"
+  },
+  {
+    "input": "Yeah. I was up there poundin' my wiener for two days straight, aaand finally, I thought about Stan's Mom's boobs, and this little tiny spooge of... this white stuff came out.\n",
+    "output": "That's great, Butters, but we're not playing Detective anymore. We're playing laundromat owners.\n"
+  }
+]

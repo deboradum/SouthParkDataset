@@ -1,0 +1,906 @@
+[
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "\n[South Park Elementary Cafeteria, lunchtime. The students are eating lunch. Butters holds court at a table. Around him are Stan, Tolkien, Clyde, Kevin, Kenny, Craig, and Kyle]\n"
+  },
+  {
+    "input": "\n[South Park Elementary Cafeteria, lunchtime. The students are eating lunch. Butters holds court at a table. Around him are Stan, Tolkien, Clyde, Kevin, Kenny, Craig, and Kyle]\n",
+    "output": "And so then, and so then it turns out the Terminator secretly had a kid, ten years ago. Meaning Terminator could be his own father. And then Skeletor gets angry and wants to fight him.\n"
+  },
+  {
+    "input": "And so then, and so then it turns out the Terminator secretly had a kid, ten years ago. Meaning Terminator could be his own father. And then Skeletor gets angry and wants to fight him.\n",
+    "output": "[looks at Craig, who looks back] ...No, dude, that's not the trailer for Terminator 5, that really happened.\n"
+  },
+  {
+    "input": "[looks at Craig, who looks back] ...No, dude, that's not the trailer for Terminator 5, that really happened.\n",
+    "output": "[jumps up on the bench] Skeletor is real??\n"
+  },
+  {
+    "input": "[jumps up on the bench] Skeletor is real??\n",
+    "output": "No, dude, that's not Skeletor, that's Terminator's wife.\n"
+  },
+  {
+    "input": "No, dude, that's not Skeletor, that's Terminator's wife.\n",
+    "output": "Skeletor's a lady??\n"
+  },
+  {
+    "input": "Skeletor's a lady??\n",
+    "output": "[storms into the cafeteria and walks towards the table] Goddamnit!!! [Butters sits back down] Who the fuck do they think they are?! [arrives and starts pacing back and forth] This is the last fucking straw!!! I AM GOING TO FUCKING KILL EVERYBODY!!!\n"
+  },
+  {
+    "input": "[storms into the cafeteria and walks towards the table] Goddamnit!!! [Butters sits back down] Who the fuck do they think they are?! [arrives and starts pacing back and forth] This is the last fucking straw!!! I AM GOING TO FUCKING KILL EVERYBODY!!!\n",
+    "output": "Hey Eric.\n"
+  },
+  {
+    "input": "Hey Eric.\n",
+    "output": "[begins to rattle the table] I AM SO SICK OF THIS FUCKING SCHOOOOOL!!! [Butters groans as Cartman shakes the table. Cartman soon stops] This stupid school and its stupid principal have gone too far this time!!!!\n"
+  },
+  {
+    "input": "[begins to rattle the table] I AM SO SICK OF THIS FUCKING SCHOOOOOL!!! [Butters groans as Cartman shakes the table. Cartman soon stops] This stupid school and its stupid principal have gone too far this time!!!!\n",
+    "output": "You get in trouble again, Cartman?\n"
+  },
+  {
+    "input": "You get in trouble again, Cartman?\n",
+    "output": "No, I didn't do a damn thing!!! Nothing!!! I told you, this school is a DEN of SNAKES!!! You're not gonna believe what they did this time, you guys!!!\n"
+  },
+  {
+    "input": "No, I didn't do a damn thing!!! Nothing!!! I told you, this school is a DEN of SNAKES!!! You're not gonna believe what they did this time, you guys!!!\n",
+    "output": "Dude we're, we're just trying to eat.\n"
+  },
+  {
+    "input": "Dude we're, we're just trying to eat.\n",
+    "output": "Oh, you think I'm overreacting again, huh?! No!!! Not this time!!! [flies into a rage again and rattles the table] The school has gone too far, and it affects each and every one of you!!! [the other boys look at each other] You remember the school physical we all took last week?!\n"
+  },
+  {
+    "input": "Oh, you think I'm overreacting again, huh?! No!!! Not this time!!! [flies into a rage again and rattles the table] The school has gone too far, and it affects each and every one of you!!! [the other boys look at each other] You remember the school physical we all took last week?!\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Well, the school put the sizes of all our penises up on a big chart in the school hallway!!!\n"
+  },
+  {
+    "input": "Well, the school put the sizes of all our penises up on a big chart in the school hallway!!!\n",
+    "output": "[skeptical, as is tradition] No they didn't.\n"
+  },
+  {
+    "input": "[skeptical, as is tradition] No they didn't.\n",
+    "output": "Yeah they fucking did, Kyle!!!\n"
+  },
+  {
+    "input": "Yeah they fucking did, Kyle!!!\n",
+    "output": "Dude, why would the school put up the sizes of our wieners?\n"
+  },
+  {
+    "input": "Dude, why would the school put up the sizes of our wieners?\n",
+    "output": "Because they don't fucking care!! I've told you this!! They don't give a shit about the students, and they live to make us miserable!!\n"
+  },
+  {
+    "input": "Because they don't fucking care!! I've told you this!! They don't give a shit about the students, and they live to make us miserable!!\n",
+    "output": "That doesn't make any sense.\n"
+  },
+  {
+    "input": "That doesn't make any sense.\n",
+    "output": "Go look for yourselves!!!\n[The school hallway, moments later. The boys gather in front of the chart Cartman had mentioned]\n"
+  },
+  {
+    "input": "Go look for yourselves!!!\n[The school hallway, moments later. The boys gather in front of the chart Cartman had mentioned]\n",
+    "output": "There, you see?! Can you fucking believe it?!\n"
+  },
+  {
+    "input": "There, you see?! Can you fucking believe it?!\n",
+    "output": "Is that really all our wiener sizes?\n"
+  },
+  {
+    "input": "Is that really all our wiener sizes?\n",
+    "output": "Yeah, dude, look at it! It says right there: \"Eric Cartman, 1.2 inches\"! [turns around and faces the other boys] Why would they tell everybody that?! They wanna measure my wiener?! Fine! But don't put me on blast!\n"
+  },
+  {
+    "input": "Yeah, dude, look at it! It says right there: \"Eric Cartman, 1.2 inches\"! [turns around and faces the other boys] Why would they tell everybody that?! They wanna measure my wiener?! Fine! But don't put me on blast!\n",
+    "output": "Craig Tucker, 2.4 inches. Yeah, that's about right.\n"
+  },
+  {
+    "input": "Craig Tucker, 2.4 inches. Yeah, that's about right.\n",
+    "output": "Butters Stotch, 2.2 inches. Is that good?\n"
+  },
+  {
+    "input": "Butters Stotch, 2.2 inches. Is that good?\n",
+    "output": "How big do they say mine is? [it's 2.4, just like Craig's. The boys continue talking amongst themselves. At the far end of the hall, Principal Victoria and Mr. Mackey walk by and stop to look at the boys; Mr. Mackey is carrying a cup of coffee]\n"
+  },
+  {
+    "input": "How big do they say mine is? [it's 2.4, just like Craig's. The boys continue talking amongst themselves. At the far end of the hall, Principal Victoria and Mr. Mackey walk by and stop to look at the boys; Mr. Mackey is carrying a cup of coffee]\n",
+    "output": "I told you the students would be interested in how much they grew since their last physical.\n"
+  },
+  {
+    "input": "I told you the students would be interested in how much they grew since their last physical.\n",
+    "output": "You're right. They, they really seem into it, m'kay. [takes a sip of coffee and walks away with the Principal]\n"
+  },
+  {
+    "input": "You're right. They, they really seem into it, m'kay. [takes a sip of coffee and walks away with the Principal]\n",
+    "output": "Wait, it says mine's only 2.1 inches. That doesn't seem right.\n"
+  },
+  {
+    "input": "Wait, it says mine's only 2.1 inches. That doesn't seem right.\n",
+    "output": "No shit, Sherlock! My dick isn't 1.2 inches either! It ISN'T! This is another conspiracy by the school faculty!\n"
+  },
+  {
+    "input": "No shit, Sherlock! My dick isn't 1.2 inches either! It ISN'T! This is another conspiracy by the school faculty!\n",
+    "output": "A conspiracy?\n"
+  },
+  {
+    "input": "A conspiracy?\n",
+    "output": "They're trying to stir up some big thing again, get all the girls all heated up - freaking out - over which boy has the biggest schlong! This has to be dealt with!\n"
+  },
+  {
+    "input": "They're trying to stir up some big thing again, get all the girls all heated up - freaking out - over which boy has the biggest schlong! This has to be dealt with!\n",
+    "output": "Well everyone has already seen it; nothing we can do about it now.\n"
+  },
+  {
+    "input": "Well everyone has already seen it; nothing we can do about it now.\n",
+    "output": "Oh, there's something we can do about it alright! If they're gonna put us on blast, they're at least gonna get the numbers right! We are going to remeasure!!\n[The Boys restroom, day, inside. Craig, Tolkien, and Cartman have notepads with them. Clyde is standing on a small stool with his pants and briefs down.]\n"
+  },
+  {
+    "input": "Oh, there's something we can do about it alright! If they're gonna put us on blast, they're at least gonna get the numbers right! We are going to remeasure!!\n[The Boys restroom, day, inside. Craig, Tolkien, and Cartman have notepads with them. Clyde is standing on a small stool with his pants and briefs down.]\n",
+    "output": "[measures, then writes down the result on his notepad] Alright. Clyde Donovan, 2.3 inches. [Clyde zips up and turns around] You see, witnesses? That's .2 inches more than what the school said.\n"
+  },
+  {
+    "input": "[measures, then writes down the result on his notepad] Alright. Clyde Donovan, 2.3 inches. [Clyde zips up and turns around] You see, witnesses? That's .2 inches more than what the school said.\n",
+    "output": "[smiles, steps off the stool, and walks away] Alright.\n"
+  },
+  {
+    "input": "[smiles, steps off the stool, and walks away] Alright.\n",
+    "output": "Nice one, Clyde. Alright, next? [Butters walks up and gets on the stool] Whip it out, Butters. [Butters drops his pants and briefs]\n"
+  },
+  {
+    "input": "Nice one, Clyde. Alright, next? [Butters walks up and gets on the stool] Whip it out, Butters. [Butters drops his pants and briefs]\n",
+    "output": "Whoa, it's a little chilly in here.\n"
+  },
+  {
+    "input": "Whoa, it's a little chilly in here.\n",
+    "output": "Alright Butters, let's see what you got going down there.\n"
+  },
+  {
+    "input": "Alright Butters, let's see what you got going down there.\n",
+    "output": "Hey wait, the cold is making it shrink some. Where're you going, little feller?\n"
+  },
+  {
+    "input": "Hey wait, the cold is making it shrink some. Where're you going, little feller?\n",
+    "output": "Butters, I don't have time for this! I can't wait if your wiener is pulling a Scared Turtle.\n"
+  },
+  {
+    "input": "Butters, I don't have time for this! I can't wait if your wiener is pulling a Scared Turtle.\n",
+    "output": "Hang on, he's coming back out. There he is. Who's a little guy?\n"
+  },
+  {
+    "input": "Hang on, he's coming back out. There he is. Who's a little guy?\n",
+    "output": "Alright Butters, looks like we haaave 2.- wow, 2.4 inches. Really nice, Butters.\n"
+  },
+  {
+    "input": "Alright Butters, looks like we haaave 2.- wow, 2.4 inches. Really nice, Butters.\n",
+    "output": "I'm hung like a horse!\n"
+  },
+  {
+    "input": "I'm hung like a horse!\n",
+    "output": "Alright, that's everybody. Let's go post these numbers. [walks towards the door with Butters, Tolkien and Craig, but their way is blocked by Stan, Kyle, and Kenny.] What?\n"
+  },
+  {
+    "input": "Alright, that's everybody. Let's go post these numbers. [walks towards the door with Butters, Tolkien and Craig, but their way is blocked by Stan, Kyle, and Kenny.] What?\n",
+    "output": "Didn't you forget something?\n"
+  },
+  {
+    "input": "Didn't you forget something?\n",
+    "output": "What, Kyle?\n"
+  },
+  {
+    "input": "What, Kyle?\n",
+    "output": "You measured everyone's wiener except for yours.\n"
+  },
+  {
+    "input": "You measured everyone's wiener except for yours.\n",
+    "output": "I measured mine this morning. See? It's right here at the top. [points to his measurement]\n"
+  },
+  {
+    "input": "I measured mine this morning. See? It's right here at the top. [points to his measurement]\n",
+    "output": "[grabs the notepad and has a look] Thirteen point seven inches?\n"
+  },
+  {
+    "input": "[grabs the notepad and has a look] Thirteen point seven inches?\n",
+    "output": "Yeah, it's pretty good.\n"
+  },
+  {
+    "input": "Yeah, it's pretty good.\n",
+    "output": "Your wiener is not 13 inches long!\n"
+  },
+  {
+    "input": "Your wiener is not 13 inches long!\n",
+    "output": "You made everyone else get measured with witnesses; you have to too.\n"
+  },
+  {
+    "input": "You made everyone else get measured with witnesses; you have to too.\n",
+    "output": "Well what are you guys going to do?! Use a tape measure and measure my penis yourselves?! Are you homos?!\n"
+  },
+  {
+    "input": "Well what are you guys going to do?! Use a tape measure and measure my penis yourselves?! Are you homos?!\n",
+    "output": "You just did that to everybody in class!\n"
+  },
+  {
+    "input": "You just did that to everybody in class!\n",
+    "output": "Okay, fine! Whatever! Go ahead! [goes to get measured by his peers.]\n[The school hallway. Clyde and Craig post the new measurements on the wall: \"ACTUAL BOYS' PENIS SIZES\". Stan supervises the placement of the sign]\n"
+  },
+  {
+    "input": "Okay, fine! Whatever! Go ahead! [goes to get measured by his peers.]\n[The school hallway. Clyde and Craig post the new measurements on the wall: \"ACTUAL BOYS' PENIS SIZES\". Stan supervises the placement of the sign]\n",
+    "output": "Yeah. That's good. A little higher on Craig's side. [continues directing until the poster is on just right] Yeup. [Cartman stands defiant until the poster is up. The girls begin to enter the hallway]\n"
+  },
+  {
+    "input": "Yeah. That's good. A little higher on Craig's side. [continues directing until the poster is on just right] Yeup. [Cartman stands defiant until the poster is up. The girls begin to enter the hallway]\n",
+    "output": "Actual boys' penis sizes?\n"
+  },
+  {
+    "input": "Actual boys' penis sizes?\n",
+    "output": "Gross!\n"
+  },
+  {
+    "input": "Gross!\n",
+    "output": "There, you see? My wiener isn't 1.2 inches, it's 1.4! [The two girls leave and Red walks by] What, Red?! You're all freaking out because my wiener is smaller than the other guys'?! I don't care! [wanders about approaching random girls] Clearly I'm very happy with the size of my wiener, or else why would I have called for a new measurement, and for this poster to be put up at all?! Don't forget that this was all my idea!\n"
+  },
+  {
+    "input": "There, you see? My wiener isn't 1.2 inches, it's 1.4! [The two girls leave and Red walks by] What, Red?! You're all freaking out because my wiener is smaller than the other guys'?! I don't care! [wanders about approaching random girls] Clearly I'm very happy with the size of my wiener, or else why would I have called for a new measurement, and for this poster to be put up at all?! Don't forget that this was all my idea!\n",
+    "output": "[over the PA system] Eric Cartman to the principal's office immediately.\n"
+  },
+  {
+    "input": "[over the PA system] Eric Cartman to the principal's office immediately.\n",
+    "output": "Oh, Goddamnit!\n[The principal's office, moments later. Cartman is on a chair facing Principal Victoria, his arms folded.]\n"
+  },
+  {
+    "input": "Oh, Goddamnit!\n[The principal's office, moments later. Cartman is on a chair facing Principal Victoria, his arms folded.]\n",
+    "output": "Let me guess: I'm in trouble again!\n"
+  },
+  {
+    "input": "Let me guess: I'm in trouble again!\n",
+    "output": "You're darn right, Eric!\n"
+  },
+  {
+    "input": "You're darn right, Eric!\n",
+    "output": "For what?!\n"
+  },
+  {
+    "input": "For what?!\n",
+    "output": "Why did you measure all the boy students' penis sizes and put the results on the school bulletin board?!\n"
+  },
+  {
+    "input": "Why did you measure all the boy students' penis sizes and put the results on the school bulletin board?!\n",
+    "output": "Why did YOU measure our penis sizes and put the results on the school bulletin board?!\n"
+  },
+  {
+    "input": "Why did YOU measure our penis sizes and put the results on the school bulletin board?!\n",
+    "output": "[confused] What?\n"
+  },
+  {
+    "input": "[confused] What?\n",
+    "output": "I don't care if Obama IS President! You don't go around putting little boys on blast, telling the whole world the length of their DICKS!!!\n"
+  },
+  {
+    "input": "I don't care if Obama IS President! You don't go around putting little boys on blast, telling the whole world the length of their DICKS!!!\n",
+    "output": "Wait. Are you talking about the numbers we published Tuesday from the physicals?\n"
+  },
+  {
+    "input": "Wait. Are you talking about the numbers we published Tuesday from the physicals?\n",
+    "output": "You're damn right! One point two inches! I'll have you know that my penis is a respectable 1.4 inches! Maybe it's still the smallest in school, but it's 0.2 inches bigger than you said!!!\n"
+  },
+  {
+    "input": "You're damn right! One point two inches! I'll have you know that my penis is a respectable 1.4 inches! Maybe it's still the smallest in school, but it's 0.2 inches bigger than you said!!!\n",
+    "output": "[sternly] The numbers we put up were height differentials. [Cartman has no reply to this]\n"
+  },
+  {
+    "input": "[sternly] The numbers we put up were height differentials. [Cartman has no reply to this]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "We thought it would be fun to put up how much each student has grown in height since their physical last year. You grew 1.2 inches.\n"
+  },
+  {
+    "input": "We thought it would be fun to put up how much each student has grown in height since their physical last year. You grew 1.2 inches.\n",
+    "output": "Those weren't our dick sizes?\n"
+  },
+  {
+    "input": "Those weren't our dick sizes?\n",
+    "output": "Why would we publish the lengths of our students' private parts?!\n"
+  },
+  {
+    "input": "Why would we publish the lengths of our students' private parts?!\n",
+    "output": "I don't know! Why would you?!\n"
+  },
+  {
+    "input": "I don't know! Why would you?!\n",
+    "output": "We didn't!\n"
+  },
+  {
+    "input": "We didn't!\n",
+    "output": "[gets off the chair and walks off] Aw crap! You mean everyone knows my wiener is smaller than everyone else's because of me?!\n"
+  },
+  {
+    "input": "[gets off the chair and walks off] Aw crap! You mean everyone knows my wiener is smaller than everyone else's because of me?!\n",
+    "output": "This is exactly the kind of thing we are always talking about, Eric. You get angry about something, you don't think, and you cause bad things to happen. This time you've done it to yourself!\n"
+  },
+  {
+    "input": "This is exactly the kind of thing we are always talking about, Eric. You get angry about something, you don't think, and you cause bad things to happen. This time you've done it to yourself!\n",
+    "output": "Oh God. Why couldn't I have just taken a minute to think about it?\n"
+  },
+  {
+    "input": "Oh God. Why couldn't I have just taken a minute to think about it?\n",
+    "output": "Because you have an anger problem, Eric!\n"
+  },
+  {
+    "input": "Because you have an anger problem, Eric!\n",
+    "output": "Fuck you! No I don't!\n[A doctor's office. Cartman and his mom are visiting the doctor.]\n"
+  },
+  {
+    "input": "Fuck you! No I don't!\n[A doctor's office. Cartman and his mom are visiting the doctor.]\n",
+    "output": "What we need to figure out here is, are we dealing with maybe a little bipolarism? Some rage addiction? It could be a lot of things.\n"
+  },
+  {
+    "input": "What we need to figure out here is, are we dealing with maybe a little bipolarism? Some rage addiction? It could be a lot of things.\n",
+    "output": "My little sunshine has a temper sometimes, but he's not all bad.\n"
+  },
+  {
+    "input": "My little sunshine has a temper sometimes, but he's not all bad.\n",
+    "output": "Let's try a little experiment. I wanna see maybe what kind of things... trigger you, Eric. Okay? How do you think you would react if I said some negative things about you?\n"
+  },
+  {
+    "input": "Let's try a little experiment. I wanna see maybe what kind of things... trigger you, Eric. Okay? How do you think you would react if I said some negative things about you?\n",
+    "output": "Honestly, I wouldn't really care.\n"
+  },
+  {
+    "input": "Honestly, I wouldn't really care.\n",
+    "output": "What if I were to tell you that I think you're fat? I think you're a fat little boy. I think you're waaaaay too fat for your age. Does that make you feel any anger? Huh, fatty? Jelly-belly? You got jelly in your belly you little fat fuck? You get a little flash of anger when someone tells you you've got tits like a 40-year-old woman? Fat boy?! [as the doctor's voice rises, Cartman takes out a cell phone and starts texting] Huh?! You like that, shitty-titty jelly-belly?! [stands up and starts provoking him] Oh yeah, he's a big boy!! Get that fatty some mud flaps for his ass!! Big old jiggly fatty butt!! [Cartman seems unfazed, so the doctor relents and sits down. Cartman continues texting, clears his throat, and resumes texting] ...Huh. Well, I just don't see it, Ms. Cartman. Your son doesn't seem to be triggered by anger at all. In fact, I'd say he's one of the more even-tempered children I've ever seen.\n"
+  },
+  {
+    "input": "What if I were to tell you that I think you're fat? I think you're a fat little boy. I think you're waaaaay too fat for your age. Does that make you feel any anger? Huh, fatty? Jelly-belly? You got jelly in your belly you little fat fuck? You get a little flash of anger when someone tells you you've got tits like a 40-year-old woman? Fat boy?! [as the doctor's voice rises, Cartman takes out a cell phone and starts texting] Huh?! You like that, shitty-titty jelly-belly?! [stands up and starts provoking him] Oh yeah, he's a big boy!! Get that fatty some mud flaps for his ass!! Big old jiggly fatty butt!! [Cartman seems unfazed, so the doctor relents and sits down. Cartman continues texting, clears his throat, and resumes texting] ...Huh. Well, I just don't see it, Ms. Cartman. Your son doesn't seem to be triggered by anger at all. In fact, I'd say he's one of the more even-tempered children I've ever seen.\n",
+    "output": "[opens the door and peeks in] Sorry Doctor, your wife's on the phone? Says it's an emergency. [leaves and closes the door]\n"
+  },
+  {
+    "input": "[opens the door and peeks in] Sorry Doctor, your wife's on the phone? Says it's an emergency. [leaves and closes the door]\n",
+    "output": "Excuse me. [leaves his chair and walks to his desk, where he picks up the phone] Carol, what? ...Whoa, calm down honey. What do you mean? Web chat with wha-? What 14-year-old girl? Carol, I would ne- [Cartman puts down the phone quietly. Liane simply notices, but stays quiet] No I don't have a criminal record. Who would- Who is Mitch Conner?! There can't be an official police report, honey, there's no- No no, Carol, put down the gun, swee- uh sweetie, come on, put down the [\"blam.\"] Carol?! Carol!! [looks at Cartman]\n"
+  },
+  {
+    "input": "Excuse me. [leaves his chair and walks to his desk, where he picks up the phone] Carol, what? ...Whoa, calm down honey. What do you mean? Web chat with wha-? What 14-year-old girl? Carol, I would ne- [Cartman puts down the phone quietly. Liane simply notices, but stays quiet] No I don't have a criminal record. Who would- Who is Mitch Conner?! There can't be an official police report, honey, there's no- No no, Carol, put down the gun, swee- uh sweetie, come on, put down the [\"blam.\"] Carol?! Carol!! [looks at Cartman]\n",
+    "output": "[coldly] I'm not fat. I'm big-boned.\n[South Park Elementary Library, evening. Principal Victoria has called a school meeting. Mr. Mackey is present.]\n"
+  },
+  {
+    "input": "[coldly] I'm not fat. I'm big-boned.\n[South Park Elementary Library, evening. Principal Victoria has called a school meeting. Mr. Mackey is present.]\n",
+    "output": "Thank you for coming, parents. We called you in because we've had a little incident at the school. The fourth grade boys measured their penises and posted results in the school hallway.\n"
+  },
+  {
+    "input": "Thank you for coming, parents. We called you in because we've had a little incident at the school. The fourth grade boys measured their penises and posted results in the school hallway.\n",
+    "output": "Oh dear.\n"
+  },
+  {
+    "input": "Oh dear.\n",
+    "output": "Now, we realize this issue can have a troubling effect that can get blown out of proportion.\n"
+  },
+  {
+    "input": "Now, we realize this issue can have a troubling effect that can get blown out of proportion.\n",
+    "output": "Did they measure from the base or from the balls? [no one says a thing for six seconds]\n"
+  },
+  {
+    "input": "Did they measure from the base or from the balls? [no one says a thing for six seconds]\n",
+    "output": "How does the school let things like this happen??\n"
+  },
+  {
+    "input": "How does the school let things like this happen??\n",
+    "output": "Now now, boys' fascination with their genitalia is a natural thing. We... simply need to find a way to help the students understand what they've done.\n"
+  },
+  {
+    "input": "Now now, boys' fascination with their genitalia is a natural thing. We... simply need to find a way to help the students understand what they've done.\n",
+    "output": "[stands up and faces the other parents] I'm a scientist. I think it's best I handle this.\n[South Park Elementary, Fourth Grade Class. Mr. Garrison has given class time to Randy, who is reclining on Mr. Garrison's desk casually.]\n"
+  },
+  {
+    "input": "[stands up and faces the other parents] I'm a scientist. I think it's best I handle this.\n[South Park Elementary, Fourth Grade Class. Mr. Garrison has given class time to Randy, who is reclining on Mr. Garrison's desk casually.]\n",
+    "output": "Hello students, my name is Dr. Marsh, and I'm gonna talk to you a little bit about what happened at the school yesterday. How do a man and a woman... make a baby? Anybody? A man and woman, what do they do to make a baby? How about the little girl in the brown coat? Yeah you.\n"
+  },
+  {
+    "input": "Hello students, my name is Dr. Marsh, and I'm gonna talk to you a little bit about what happened at the school yesterday. How do a man and a woman... make a baby? Anybody? A man and woman, what do they do to make a baby? How about the little girl in the brown coat? Yeah you.\n",
+    "output": "[first appearance on the show] They have sex?\n"
+  },
+  {
+    "input": "[first appearance on the show] They have sex?\n",
+    "output": "Good! The man puts his penis [makes a fist with his left hand.] Okay? Into the woman's vagina. [pronounces the g with a heavy h sound and jabs his left arm through the air, through an imaginary vagina formed with his cupped right hand] Okay now, sometimes, a man can feel like how long his penis is, is actually important. But is it? When you boys measure your penis length, the truth is it doesn't really matter. What does matter is [starts writing the equation on the board: (L\u00d7d)+W/G)/(\u2220\u221d(2@t)] Length times diameter plus weight over girth divided by angle of the tip squared, okay? When we're talking about penis size, we can't just use a tape measure. We need a scale [pulls down the projector screen] and... [pulls something out of his back pocket] a protractor as well. [walks to a projector] Let's look at it on the graph here.. [wheels it into view and positions it right in front of the screen, then turns on the projector. A picture of a happy, naked man in profile appears on the screen. The length of his penis is 8 inches, the angle is 135 degrees] Follow along with me on your study sheets, kids.\n[A classroom. A sign is shown which reads \"1. know why you are mad 2. know what makes you mad 3. know how to let go of anger\". Cartman and the others in attendance are seated in a circle with their arms folded and looking angry]\n"
+  },
+  {
+    "input": "Good! The man puts his penis [makes a fist with his left hand.] Okay? Into the woman's vagina. [pronounces the g with a heavy h sound and jabs his left arm through the air, through an imaginary vagina formed with his cupped right hand] Okay now, sometimes, a man can feel like how long his penis is, is actually important. But is it? When you boys measure your penis length, the truth is it doesn't really matter. What does matter is [starts writing the equation on the board: (L\u00d7d)+W/G)/(\u2220\u221d(2@t)] Length times diameter plus weight over girth divided by angle of the tip squared, okay? When we're talking about penis size, we can't just use a tape measure. We need a scale [pulls down the projector screen] and... [pulls something out of his back pocket] a protractor as well. [walks to a projector] Let's look at it on the graph here.. [wheels it into view and positions it right in front of the screen, then turns on the projector. A picture of a happy, naked man in profile appears on the screen. The length of his penis is 8 inches, the angle is 135 degrees] Follow along with me on your study sheets, kids.\n[A classroom. A sign is shown which reads \"1. know why you are mad 2. know what makes you mad 3. know how to let go of anger\". Cartman and the others in attendance are seated in a circle with their arms folded and looking angry]\n",
+    "output": "I want to congratulate all of you for making the effort to come to anger management class.\n"
+  },
+  {
+    "input": "I want to congratulate all of you for making the effort to come to anger management class.\n",
+    "output": "We didn't make any effort, we didn't have a choice!\n"
+  },
+  {
+    "input": "We didn't make any effort, we didn't have a choice!\n",
+    "output": "Yeah! This is bullshit!\n"
+  },
+  {
+    "input": "Yeah! This is bullshit!\n",
+    "output": "Together, we're gonna learn what makes us angry, okay? And how to better deal with it so we don't get ourselves into trouble anymore.\n"
+  },
+  {
+    "input": "Together, we're gonna learn what makes us angry, okay? And how to better deal with it so we don't get ourselves into trouble anymore.\n",
+    "output": "So lame! Why doesn't everyone just die?!\n"
+  },
+  {
+    "input": "So lame! Why doesn't everyone just die?!\n",
+    "output": "Rook! Ifuh somebody ordereduh shitty beef, anduh complain because they say they ordereduh shitty shrimp, It's notuh my fault he gets the shitty chicken poured all over hisuh fuckin' head!\n"
+  },
+  {
+    "input": "Rook! Ifuh somebody ordereduh shitty beef, anduh complain because they say they ordereduh shitty shrimp, It's notuh my fault he gets the shitty chicken poured all over hisuh fuckin' head!\n",
+    "output": "We have good reason to be angry! This country is going to shit! We have exactly twelve days before the oil is gone, and our president is a socialist who wasn't even born in America!\n"
+  },
+  {
+    "input": "We have good reason to be angry! This country is going to shit! We have exactly twelve days before the oil is gone, and our president is a socialist who wasn't even born in America!\n",
+    "output": "Right. See, what we all need to do is chaaannel our various reasons for anger, and learn to control it.\n"
+  },
+  {
+    "input": "Right. See, what we all need to do is chaaannel our various reasons for anger, and learn to control it.\n",
+    "output": "[stands up and grabs his crotch] Man, this shit wack, man. I just seen all this shit frontin' mahn. [drops into a wide leg stance] I don't understand, it like my pops ain't no fuckin' good mah. [makes a phone gesture with his other hand] Bitch be callin' me, tappin' that shit, man.\n"
+  },
+  {
+    "input": "[stands up and grabs his crotch] Man, this shit wack, man. I just seen all this shit frontin' mahn. [drops into a wide leg stance] I don't understand, it like my pops ain't no fuckin' good mah. [makes a phone gesture with his other hand] Bitch be callin' me, tappin' that shit, man.\n",
+    "output": "Why the fuck am I here?!\n"
+  },
+  {
+    "input": "Why the fuck am I here?!\n",
+    "output": "Well, Eric, because I know you want to... control your anger and become a better person.\n"
+  },
+  {
+    "input": "Well, Eric, because I know you want to... control your anger and become a better person.\n",
+    "output": "Are you saying I have problems like these fucking people?!\n"
+  },
+  {
+    "input": "Are you saying I have problems like these fucking people?!\n",
+    "output": "[panics and drops his pen] NO! No! I'm not saying that, at all. Please I, I'm just saying how a-, amazing you are for wanting to... l-lessen some of your more... less awesome attributes.\n"
+  },
+  {
+    "input": "[panics and drops his pen] NO! No! I'm not saying that, at all. Please I, I'm just saying how a-, amazing you are for wanting to... l-lessen some of your more... less awesome attributes.\n",
+    "output": "Oh, that's cool.\n[South Park Elementary, Fourth Grade Class. Randy continues his lecture.]\n"
+  },
+  {
+    "input": "Oh, that's cool.\n[South Park Elementary, Fourth Grade Class. Randy continues his lecture.]\n",
+    "output": "And so, by dividing the weight and the girth of the penis by the angle or the- what do we call it again? The yaw? The yaw of the shaft? What we finally get is the adjusted penis size, or, T.M.I. Any questions so far? Yes, little girl over there.\n"
+  },
+  {
+    "input": "And so, by dividing the weight and the girth of the penis by the angle or the- what do we call it again? The yaw? The yaw of the shaft? What we finally get is the adjusted penis size, or, T.M.I. Any questions so far? Yes, little girl over there.\n",
+    "output": "What's a penis?\n"
+  },
+  {
+    "input": "What's a penis?\n",
+    "output": "[six second later, after mulling what his answer would be] ...Ah, good question. Ahh, the penis is the thing we're talking about that boys have that we're... measuring. [now quickly] Okay any other questions? Okay, so then let's move on to the example on your study sheet. How about you? Could you read the first example for the class? [a girl is shown] Example 1, young lady. Please read the problem out loud\n"
+  },
+  {
+    "input": "[six second later, after mulling what his answer would be] ...Ah, good question. Ahh, the penis is the thing we're talking about that boys have that we're... measuring. [now quickly] Okay any other questions? Okay, so then let's move on to the example on your study sheet. How about you? Could you read the first example for the class? [a girl is shown] Example 1, young lady. Please read the problem out loud\n",
+    "output": "Example 1: Randy has a penis that is 4.4 inches in length.\n"
+  },
+  {
+    "input": "Example 1: Randy has a penis that is 4.4 inches in length.\n",
+    "output": "[writes the number on the board] Four point four inches...\n"
+  },
+  {
+    "input": "[writes the number on the board] Four point four inches...\n",
+    "output": "Its angle is 32 degrees. Its flaccid girth is one inch in diameter. His balls are seven centimeters from the base.\n"
+  },
+  {
+    "input": "Its angle is 32 degrees. Its flaccid girth is one inch in diameter. His balls are seven centimeters from the base.\n",
+    "output": "Seven centimeters...\n"
+  },
+  {
+    "input": "Seven centimeters...\n",
+    "output": "Randy notes that the drift of his penis is four centimeters to penis right, and its dead weight is 0.5 kilograms.\n"
+  },
+  {
+    "input": "Randy notes that the drift of his penis is four centimeters to penis right, and its dead weight is 0.5 kilograms.\n",
+    "output": "Great! And so divide by the 17. carry the 1, and we can see that Randy's adjusted penis size, or T.M.I., is... 6.3 inches. Do we got that? Randy's length is 4.4 inches, but his adjusted length is 6.3. So how does our example person \"Randy\" compare to others on the T.M.I. scale? By referring again to the T.M.I. chart, we see that a T.M.I. of 6.3 is .8 inches more than the national average. [grins at the class]\n[Anger Management Class, later.]\n"
+  },
+  {
+    "input": "Great! And so divide by the 17. carry the 1, and we can see that Randy's adjusted penis size, or T.M.I., is... 6.3 inches. Do we got that? Randy's length is 4.4 inches, but his adjusted length is 6.3. So how does our example person \"Randy\" compare to others on the T.M.I. scale? By referring again to the T.M.I. chart, we see that a T.M.I. of 6.3 is .8 inches more than the national average. [grins at the class]\n[Anger Management Class, later.]\n",
+    "output": "Okay, what we're going to do now is get to the root of all your anger. Daniel, could you stand up please? [Daniel stands up with his arms still crossed.] What makes you the angriest, Daniel?\n"
+  },
+  {
+    "input": "Okay, what we're going to do now is get to the root of all your anger. Daniel, could you stand up please? [Daniel stands up with his arms still crossed.] What makes you the angriest, Daniel?\n",
+    "output": "[the Tea Bag participant] Stupid-ass blind liberals!\n"
+  },
+  {
+    "input": "[the Tea Bag participant] Stupid-ass blind liberals!\n",
+    "output": "Okay, great. Chase, could you stand up and pretend to be a stupid-ass blind liberal? [the bodybuilder stands up and walks up to Daniel] And what makes you angriest, Chase?\n"
+  },
+  {
+    "input": "Okay, great. Chase, could you stand up and pretend to be a stupid-ass blind liberal? [the bodybuilder stands up and walks up to Daniel] And what makes you angriest, Chase?\n",
+    "output": "Scrawny-ass sissies!\n"
+  },
+  {
+    "input": "Scrawny-ass sissies!\n",
+    "output": "Okay, Daniel's a scrawny-ass sissy, he just cut in front of you in line at the bank. Go!\n"
+  },
+  {
+    "input": "Okay, Daniel's a scrawny-ass sissy, he just cut in front of you in line at the bank. Go!\n",
+    "output": "Hey! What, do you think I got a small dick?! Huh?! [strikes him on the chest]\n"
+  },
+  {
+    "input": "Hey! What, do you think I got a small dick?! Huh?! [strikes him on the chest]\n",
+    "output": "Huh I don't have a small penis! My wife thinks my penis is perfectly fine!\n"
+  },
+  {
+    "input": "Huh I don't have a small penis! My wife thinks my penis is perfectly fine!\n",
+    "output": "[doesn't say anything for a few seconds] ...Okay. Uh, why don't we uh do some roleplaying now with Wayne D, who gets angriest at his mom. [Wayne D stands and moves to the center of the room] Gretchen, can you play Wayne D's mom for us? [Gretchen, a butch woman, stands up and walks to the middle of the room]\n"
+  },
+  {
+    "input": "[doesn't say anything for a few seconds] ...Okay. Uh, why don't we uh do some roleplaying now with Wayne D, who gets angriest at his mom. [Wayne D stands and moves to the center of the room] Gretchen, can you play Wayne D's mom for us? [Gretchen, a butch woman, stands up and walks to the middle of the room]\n",
+    "output": "Yo, bitch! You think you bad? Just 'cause you're a mom don't mean I can't put a cap in your ass, bitch, mang!\n"
+  },
+  {
+    "input": "Yo, bitch! You think you bad? Just 'cause you're a mom don't mean I can't put a cap in your ass, bitch, mang!\n",
+    "output": "I may be female on the outside, but I still have a bigger penis than you!\n"
+  },
+  {
+    "input": "I may be female on the outside, but I still have a bigger penis than you!\n",
+    "output": "[begins to tear up and drops the gangsta act] I don't have a small penis! Don't say that, it isn't true! It isn't true!\n"
+  },
+  {
+    "input": "[begins to tear up and drops the gangsta act] I don't have a small penis! Don't say that, it isn't true! It isn't true!\n",
+    "output": "[stands up and yells in frustration] That's enough! I've beem sick of everyone talk aboutuh penis shize!\n"
+  },
+  {
+    "input": "[stands up and yells in frustration] That's enough! I've beem sick of everyone talk aboutuh penis shize!\n",
+    "output": "[stands up and yells] Yeah, it doesn't matter! It doesn't matter!\n"
+  },
+  {
+    "input": "[stands up and yells] Yeah, it doesn't matter! It doesn't matter!\n",
+    "output": "[if he wasn't sure before, he is now] Does... everyone here have an issue with their penis size?\n"
+  },
+  {
+    "input": "[if he wasn't sure before, he is now] Does... everyone here have an issue with their penis size?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "Not me.\n"
+  },
+  {
+    "input": "Not me.\n",
+    "output": "Nnnooo.\n"
+  },
+  {
+    "input": "Nnnooo.\n",
+    "output": "No, my, my shit be packing, manh.\n"
+  },
+  {
+    "input": "No, my, my shit be packing, manh.\n",
+    "output": "My penis is 13 inches long.\n"
+  },
+  {
+    "input": "My penis is 13 inches long.\n",
+    "output": "Hmmm.\n[Mr. Garrison's room, day. The kids have another guest speaker]\n"
+  },
+  {
+    "input": "Hmmm.\n[Mr. Garrison's room, day. The kids have another guest speaker]\n",
+    "output": "Kids, my name is Rebecca Turnod, and I'm an \"actual doctor\" of human sexuality and behavior. Unfortunately you have been taught some very wrong ideas in the past couple of days, and I am here to set things straight.\n"
+  },
+  {
+    "input": "Kids, my name is Rebecca Turnod, and I'm an \"actual doctor\" of human sexuality and behavior. Unfortunately you have been taught some very wrong ideas in the past couple of days, and I am here to set things straight.\n",
+    "output": "Thank God.\n"
+  },
+  {
+    "input": "Thank God.\n",
+    "output": "I want you to try and forget these wild theories and understand that all that's important when it comes to a man and a woman making love is actually [turns around, picks up some chalk and starts writing down the equation on the board: ((L\u00d7G)/(\u2220A\u00b0))\u00f7(M/W)] Length times girth over angle of the shaft divided by mass over width- [the classroom door flies open and Randy is at the door, incensed]\n"
+  },
+  {
+    "input": "I want you to try and forget these wild theories and understand that all that's important when it comes to a man and a woman making love is actually [turns around, picks up some chalk and starts writing down the equation on the board: ((L\u00d7G)/(\u2220A\u00b0))\u00f7(M/W)] Length times girth over angle of the shaft divided by mass over width- [the classroom door flies open and Randy is at the door, incensed]\n",
+    "output": "PUTAIN D'MENTEUR!!! [runs up and attacks Ms. Turnod. She responds with a punch and a kick to the balls. They trade punches as the class looks on. Randy knocks her to the floor, gets on top of her, and keeps punching away]\n[Anger Management Class, a day or two later. Randy is now in there with the other seven members.]\n"
+  },
+  {
+    "input": "PUTAIN D'MENTEUR!!! [runs up and attacks Ms. Turnod. She responds with a punch and a kick to the balls. They trade punches as the class looks on. Randy knocks her to the floor, gets on top of her, and keeps punching away]\n[Anger Management Class, a day or two later. Randy is now in there with the other seven members.]\n",
+    "output": "We all want to welcome our new member, Randy. Say hi to everyone, Randy.\n"
+  },
+  {
+    "input": "We all want to welcome our new member, Randy. Say hi to everyone, Randy.\n",
+    "output": "Aw, suck it! All o'ya!\n"
+  },
+  {
+    "input": "Aw, suck it! All o'ya!\n",
+    "output": "Now, we've all been trying to channel our anger in more constructive ways, Randy. Why don't you share what's bothering you?\n"
+  },
+  {
+    "input": "Now, we've all been trying to channel our anger in more constructive ways, Randy. Why don't you share what's bothering you?\n",
+    "output": "You just don't go around changing math! Who the hell is this chick surgeon general appointed by Obama?!\n"
+  },
+  {
+    "input": "You just don't go around changing math! Who the hell is this chick surgeon general appointed by Obama?!\n",
+    "output": "Goddamn right! Socialist fascist!\n"
+  },
+  {
+    "input": "Goddamn right! Socialist fascist!\n",
+    "output": "[has a lighter and tries to torch a chair with it] Power to the people! Burn it down! Burn it down!!\n"
+  },
+  {
+    "input": "[has a lighter and tries to torch a chair with it] Power to the people! Burn it down! Burn it down!!\n",
+    "output": "Mr. Marsh, this is what we're here to try and work on, okay?\n"
+  },
+  {
+    "input": "Mr. Marsh, this is what we're here to try and work on, okay?\n",
+    "output": "No dude, fuck you! We're burnin' this shit!\n"
+  },
+  {
+    "input": "No dude, fuck you! We're burnin' this shit!\n",
+    "output": "If you take a minute to think about your anger, and give- [the chair lights up in flames] whoa! Whoawhoawhoa!\n"
+  },
+  {
+    "input": "If you take a minute to think about your anger, and give- [the chair lights up in flames] whoa! Whoawhoawhoa!\n",
+    "output": "Yeeaahh!\n"
+  },
+  {
+    "input": "Yeeaahh!\n",
+    "output": "Yeah dude!\n"
+  },
+  {
+    "input": "Yeah dude!\n",
+    "output": "Man, that shit be burnin' an' shit, manh!\n"
+  },
+  {
+    "input": "Man, that shit be burnin' an' shit, manh!\n",
+    "output": "Yeeaahh!\n"
+  },
+  {
+    "input": "Yeeaahh!\n",
+    "output": "[takes his chair and swings it against a wall, where it shatters] Yeah!\n[The class begins to riot. Randy walks to some curtains and sets them on fire.]\n"
+  },
+  {
+    "input": "[takes his chair and swings it against a wall, where it shatters] Yeah!\n[The class begins to riot. Randy walks to some curtains and sets them on fire.]\n",
+    "output": "Yeeaahh! [the office is soon destroyed]\n[FedEx Office, day. A clerk and customer do business]\n"
+  },
+  {
+    "input": "Yeeaahh! [the office is soon destroyed]\n[FedEx Office, day. A clerk and customer do business]\n",
+    "output": "Welcome to FedEx. How can I help you today?\n"
+  },
+  {
+    "input": "Welcome to FedEx. How can I help you today?\n",
+    "output": "Yes, I've got some birthday presents I need shipped.\n"
+  },
+  {
+    "input": "Yes, I've got some birthday presents I need shipped.\n",
+    "output": "Alrighty, let's see what kind of-\n"
+  },
+  {
+    "input": "Alrighty, let's see what kind of-\n",
+    "output": "[runs in with the other anger-management class members] Burn it down! [the other members go forth destroying the store. Randy walks up to a huge poster and sets it on fire]\n"
+  },
+  {
+    "input": "[runs in with the other anger-management class members] Burn it down! [the other members go forth destroying the store. Randy walks up to a huge poster and sets it on fire]\n",
+    "output": "Burn it down, dude! [Daniel demolishes boxes with a bat while Gretchen takes a pipe to other boxes. Michael holds a knife and kicks some boxes while Cartman takes a small hammer to a huge box. Wayne D fires away with a pistol while Chase fires away with a semi-automatic rifle and Tuong Lu Kim swings a Chinese cleaver around ]\n"
+  },
+  {
+    "input": "Burn it down, dude! [Daniel demolishes boxes with a bat while Gretchen takes a pipe to other boxes. Michael holds a knife and kicks some boxes while Cartman takes a small hammer to a huge box. Wayne D fires away with a pistol while Chase fires away with a semi-automatic rifle and Tuong Lu Kim swings a Chinese cleaver around ]\n",
+    "output": "[approaches the counter to set it on fire] Let's see how the American government likes it when we shut down their Federal Express! [Gretchen reappears to bash more stuff up]\n[A news report. The media got wind of the riot]\n"
+  },
+  {
+    "input": "[approaches the counter to set it on fire] Let's see how the American government likes it when we shut down their Federal Express! [Gretchen reappears to bash more stuff up]\n[A news report. The media got wind of the riot]\n",
+    "output": "Tom, I'm standing outside the FedEx in Fairplay, Colorado, where a radical political group has taken several people hostage. They call themselves the pissed-off and angry party. And they allowed me to speak with them moments ago.\n[Recorded earlier. The FedEx staff and customers are huddled on the ground while Cartman and the others stand near them with their weapons drawn.]\n"
+  },
+  {
+    "input": "Tom, I'm standing outside the FedEx in Fairplay, Colorado, where a radical political group has taken several people hostage. They call themselves the pissed-off and angry party. And they allowed me to speak with them moments ago.\n[Recorded earlier. The FedEx staff and customers are huddled on the ground while Cartman and the others stand near them with their weapons drawn.]\n",
+    "output": "[holding the clerk hostage] This is a call to all angry people! We've had enough! We're gonna hit the government where it hurts! Right in the Federal Express!\n"
+  },
+  {
+    "input": "[holding the clerk hostage] This is a call to all angry people! We've had enough! We're gonna hit the government where it hurts! Right in the Federal Express!\n",
+    "output": "What exactly are you angry about?\n"
+  },
+  {
+    "input": "What exactly are you angry about?\n",
+    "output": "We're angry about this stupid liberal government and fascist lies, media- control, and the-\n"
+  },
+  {
+    "input": "We're angry about this stupid liberal government and fascist lies, media- control, and the-\n",
+    "output": "The Jews!\n"
+  },
+  {
+    "input": "The Jews!\n",
+    "output": "Yeah, Jews! And all this stuff that the government's doing!\n"
+  },
+  {
+    "input": "Yeah, Jews! And all this stuff that the government's doing!\n",
+    "output": "You've got a lot of people scared. What are your demands?\n"
+  },
+  {
+    "input": "You've got a lot of people scared. What are your demands?\n",
+    "output": "Well first of all, we want that surgeon general to step down!\n"
+  },
+  {
+    "input": "Well first of all, we want that surgeon general to step down!\n",
+    "output": "Yeeaahh!\n"
+  },
+  {
+    "input": "Yeeaahh!\n",
+    "output": "And we want-\n"
+  },
+  {
+    "input": "And we want-\n",
+    "output": "[runs into view] And we want to see Obama's REAL birth certificate! [walks offscreen]\n"
+  },
+  {
+    "input": "[runs into view] And we want to see Obama's REAL birth certificate! [walks offscreen]\n",
+    "output": "Yeah, we want to see Obama's REAL birth certificate! And um,\n"
+  },
+  {
+    "input": "Yeah, we want to see Obama's REAL birth certificate! And um,\n",
+    "output": "[enters from the other side] And my mom gotta stop trippin', manh. [grabs his crotch] Bitch be trippin' all the time, manh. [walks offscreen]\n"
+  },
+  {
+    "input": "[enters from the other side] And my mom gotta stop trippin', manh. [grabs his crotch] Bitch be trippin' all the time, manh. [walks offscreen]\n",
+    "output": "Yeah, we want our moms to stop trippin', man! 'Cause the bitches be trippin' all the time! And I think that- uhh, [looks back at the other members.] is that it?\n"
+  },
+  {
+    "input": "Yeah, we want our moms to stop trippin', man! 'Cause the bitches be trippin' all the time! And I think that- uhh, [looks back at the other members.] is that it?\n",
+    "output": "No, and fuck Kyle!\n"
+  },
+  {
+    "input": "No, and fuck Kyle!\n",
+    "output": "Oh yeah, and fuck Kyle! Surgeon general's resignation, Obama's real birth certificate, moms to stop trippin', and fuck Kyle! You got that?! Or else we're gonna bring the Federal Express to a grinding halt!\n"
+  },
+  {
+    "input": "Oh yeah, and fuck Kyle! Surgeon general's resignation, Obama's real birth certificate, moms to stop trippin', and fuck Kyle! You got that?! Or else we're gonna bring the Federal Express to a grinding halt!\n",
+    "output": "Does it bother you that the Federal Express is not affiliated at all with the Federal Government?\n"
+  },
+  {
+    "input": "Does it bother you that the Federal Express is not affiliated at all with the Federal Government?\n",
+    "output": "No. No, that doesn't matter! [releases the clerk and turns to look at the other members] Fuck, really?!\n[Butters' house, day. Butters is measuring his penis again and again and putting down his measurements on a sheet of paper on a small table next to him]\n"
+  },
+  {
+    "input": "No. No, that doesn't matter! [releases the clerk and turns to look at the other members] Fuck, really?!\n[Butters' house, day. Butters is measuring his penis again and again and putting down his measurements on a sheet of paper on a small table next to him]\n",
+    "output": "Butters, what are you doing?\n"
+  },
+  {
+    "input": "Butters, what are you doing?\n",
+    "output": "Homework! I just don't get it! That is the fourth time I've calculated, and it's below average! I thought I was hung, but according to my T.M.I., I have a micropenis! [throws down his pencil and notepad in disgust]\n"
+  },
+  {
+    "input": "Homework! I just don't get it! That is the fourth time I've calculated, and it's below average! I thought I was hung, but according to my T.M.I., I have a micropenis! [throws down his pencil and notepad in disgust]\n",
+    "output": "Your T.M.I.?\n"
+  },
+  {
+    "input": "Your T.M.I.?\n",
+    "output": "I don't understand it! An' I'm startin'- uhh, I'm starting to feel angry! Rawr! [kicks his bed]\n"
+  },
+  {
+    "input": "I don't understand it! An' I'm startin'- uhh, I'm starting to feel angry! Rawr! [kicks his bed]\n",
+    "output": "Butters, put your clothes on.\n"
+  },
+  {
+    "input": "Butters, put your clothes on.\n",
+    "output": "[begins to vent, pacing back and forth] Oh what's the point, Mom?! What's the point of life anyway?! All you do is yell at me! And the government... wuh, which is led by fascists, and everyone's a Justin Bieber wannabe. I wanna go and drive a Hummer, that's what I wanna do! I wanna drive a car that goes, that goes rawr rawr rawrawrawr!\n"
+  },
+  {
+    "input": "[begins to vent, pacing back and forth] Oh what's the point, Mom?! What's the point of life anyway?! All you do is yell at me! And the government... wuh, which is led by fascists, and everyone's a Justin Bieber wannabe. I wanna go and drive a Hummer, that's what I wanna do! I wanna drive a car that goes, that goes rawr rawr rawrawrawr!\n",
+    "output": "Butters, what does driving a car have to do with your penis being small? [outside, some car rev by. Linda and Butters go to his window to look]\n"
+  },
+  {
+    "input": "Butters, what does driving a car have to do with your penis being small? [outside, some car rev by. Linda and Butters go to his window to look]\n",
+    "output": "[in an SUV on monster wheels] Hey, everyone who's pissed off and angry is rallying to take down America! Join the fight! [peels off]\n"
+  },
+  {
+    "input": "[in an SUV on monster wheels] Hey, everyone who's pissed off and angry is rallying to take down America! Join the fight! [peels off]\n",
+    "output": "[in a little red Corvette] We're gonna take down the Federal Expresses, the American Apparels, and the American Furniture Warehouse! [peels off]\n"
+  },
+  {
+    "input": "[in a little red Corvette] We're gonna take down the Federal Expresses, the American Apparels, and the American Furniture Warehouse! [peels off]\n",
+    "output": "[in a massive truck] We're fed up and we've had enough! [peels off]\n[The surgeon general's office, day. The surgeon general is there surrounded by her staff.]\n"
+  },
+  {
+    "input": "[in a massive truck] We're fed up and we've had enough! [peels off]\n[The surgeon general's office, day. The surgeon general is there surrounded by her staff.]\n",
+    "output": "Surgeon general, twelve more FedExes have been taken over; the Pissed Off and Angry Party is gaining more support!\n"
+  },
+  {
+    "input": "Surgeon general, twelve more FedExes have been taken over; the Pissed Off and Angry Party is gaining more support!\n",
+    "output": "They've shut down American Airlines and American Apparels all over the country. We have to ask you to step down.\n"
+  },
+  {
+    "input": "They've shut down American Airlines and American Apparels all over the country. We have to ask you to step down.\n",
+    "output": "Are you seriously saying we're going to give in to their demands?\n"
+  },
+  {
+    "input": "Are you seriously saying we're going to give in to their demands?\n",
+    "output": "They're all really angry. We have to make them stop. Is the team standing by to fuck that little boy Kyle?\n"
+  },
+  {
+    "input": "They're all really angry. We have to make them stop. Is the team standing by to fuck that little boy Kyle?\n",
+    "output": "Team is standing by, sir.\n"
+  },
+  {
+    "input": "Team is standing by, sir.\n",
+    "output": "[charges in] 'Scuse me. Excuse me, let me through.\n"
+  },
+  {
+    "input": "[charges in] 'Scuse me. Excuse me, let me through.\n",
+    "output": "Who is this?\n"
+  },
+  {
+    "input": "Who is this?\n",
+    "output": "[approaches the surgeon general's desk] Surgeon general, I believe I know why this is happening. I have found a direct correlation between the anger, and T.M.I. [goes to a whiteboard and beings writing out the equation: Anger equals (L\u00d7W)/(M^2-\u2220)+YAW ] Anger equals length times width over mass squared minus angle of the shaft plus yaw. [finishes and looks at the surgeon general] Look, we all get angry, but when someone is consistently angry or always finding new reasons to be angry, it means they have a very very very very small dick.\n"
+  },
+  {
+    "input": "[approaches the surgeon general's desk] Surgeon general, I believe I know why this is happening. I have found a direct correlation between the anger, and T.M.I. [goes to a whiteboard and beings writing out the equation: Anger equals (L\u00d7W)/(M^2-\u2220)+YAW ] Anger equals length times width over mass squared minus angle of the shaft plus yaw. [finishes and looks at the surgeon general] Look, we all get angry, but when someone is consistently angry or always finding new reasons to be angry, it means they have a very very very very small dick.\n",
+    "output": "Your theory is fine, doctor, but it doesn't matter. The T.M.I. equation is true solid science, which cannot be changed. There's nothing we can do about it.\n"
+  },
+  {
+    "input": "Your theory is fine, doctor, but it doesn't matter. The T.M.I. equation is true solid science, which cannot be changed. There's nothing we can do about it.\n",
+    "output": "Isn't there? Isn't... there?\n[The FedEx in Fairplay, thoroughly destroyed, day.]\n"
+  },
+  {
+    "input": "Isn't there? Isn't... there?\n[The FedEx in Fairplay, thoroughly destroyed, day.]\n",
+    "output": "We've waited long enough, Randy! Let's start killin' these sons of bitches!\n"
+  },
+  {
+    "input": "We've waited long enough, Randy! Let's start killin' these sons of bitches!\n",
+    "output": "No, please!\n"
+  },
+  {
+    "input": "No, please!\n",
+    "output": "Yeah, dude, they aren't gonna give us what we want!\n"
+  },
+  {
+    "input": "Yeah, dude, they aren't gonna give us what we want!\n",
+    "output": "Yo let's cap these bitches, manh! Let's cap an leave em at the back of the building, manh!\n"
+  },
+  {
+    "input": "Yo let's cap these bitches, manh! Let's cap an leave em at the back of the building, manh!\n",
+    "output": "[watching a working TV, turns around and calls the other members] Hey, come over here. Look. [turns to watch TV again as the others arrive]\n"
+  },
+  {
+    "input": "[watching a working TV, turns around and calls the other members] Hey, come over here. Look. [turns to watch TV again as the others arrive]\n",
+    "output": "We interrupt this newscast for an important message from the surgeon general.\n"
+  },
+  {
+    "input": "We interrupt this newscast for an important message from the surgeon general.\n",
+    "output": "Fellow Americans, as you all know, the T.M.I. scale was implemented long ago to assure that each and every American could accurately measure their junk. The established equation is a hundred percent accurate.\n"
+  },
+  {
+    "input": "Fellow Americans, as you all know, the T.M.I. scale was implemented long ago to assure that each and every American could accurately measure their junk. The established equation is a hundred percent accurate.\n",
+    "output": "Rrrr!\n"
+  },
+  {
+    "input": "Rrrr!\n",
+    "output": "Shhh.\n"
+  },
+  {
+    "input": "Shhh.\n",
+    "output": "However, due to recently collected data, we are making one change. [the T.M.I. scale is shown] The national average for penis length is now officially moved, from 6 inches to 1.5 inches. [the lower regions of the chart shrink and the NICE region takes up the slack] Anyone with a T.M.I. of over 1.5 inches is considered \"above average\". [she puts her stamp of approval to it]\n"
+  },
+  {
+    "input": "However, due to recently collected data, we are making one change. [the T.M.I. scale is shown] The national average for penis length is now officially moved, from 6 inches to 1.5 inches. [the lower regions of the chart shrink and the NICE region takes up the slack] Anyone with a T.M.I. of over 1.5 inches is considered \"above average\". [she puts her stamp of approval to it]\n",
+    "output": "[takes a step back. Everyone has a smile on their face now, except for Cartman. An electric organ begins to play in the background].\nThe winds of change are blowin'.\nThere's excitement in the air.\nCan you feel it? It's electric and magical.\nThe happy train's on track.\n'Cause America is BACK!\nWoohoo! Come on!\n[the group throw their weapons aside and dance in celebration as they run to the exit. Cartman stands alone.]\n"
+  },
+  {
+    "input": "[takes a step back. Everyone has a smile on their face now, except for Cartman. An electric organ begins to play in the background].\nThe winds of change are blowin'.\nThere's excitement in the air.\nCan you feel it? It's electric and magical.\nThe happy train's on track.\n'Cause America is BACK!\nWoohoo! Come on!\n[the group throw their weapons aside and dance in celebration as they run to the exit. Cartman stands alone.]\n",
+    "output": "Wait, what?\n[FedEx, exterior. Randy pushes the FedEx door open and leads the group outside in a dance. A few police officers run up with smiles on their faces and join them.]\n"
+  },
+  {
+    "input": "Wait, what?\n[FedEx, exterior. Randy pushes the FedEx door open and leads the group outside in a dance. A few police officers run up with smiles on their faces and join them.]\n",
+    "output": "America is back!\nAmerica is back!\n"
+  },
+  {
+    "input": "America is back!\nAmerica is back!\n",
+    "output": "[runs outside and tries to get their attention] Wait! According to that scale, I still have a small wiener!\n"
+  },
+  {
+    "input": "[runs outside and tries to get their attention] Wait! According to that scale, I still have a small wiener!\n",
+    "output": "We're back, we're back, we're back back back!\nAmerica is back!\n"
+  },
+  {
+    "input": "We're back, we're back, we're back back back!\nAmerica is back!\n",
+    "output": "I'm still fucking angry!\n"
+  }
+]

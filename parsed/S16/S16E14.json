@@ -1,0 +1,998 @@
+[
+  {
+    "input": "",
+    "output": "Obama Wins!\n\n[A shot of Denver, Colorado, Tuesday. It's election day, 8:05 in the morning, Mountain Standard Time. At a Baptist church, a line of people waits to vote.]\n"
+  },
+  {
+    "input": "Obama Wins!\n\n[A shot of Denver, Colorado, Tuesday. It's election day, 8:05 in the morning, Mountain Standard Time. At a Baptist church, a line of people waits to vote.]\n",
+    "output": "Okay, Mr. Thompson, voting line is right over there. [Mr. Thompson walks off] Next, please. [Cartman shows up dressed up in his festival best - dress shirt, suspenders, hat with a ribbon on it, and an all-day sucker. He's going to play on the sympathies of the elderly poll workers]\n"
+  },
+  {
+    "input": "Okay, Mr. Thompson, voting line is right over there. [Mr. Thompson walks off] Next, please. [Cartman shows up dressed up in his festival best - dress shirt, suspenders, hat with a ribbon on it, and an all-day sucker. He's going to play on the sympathies of the elderly poll workers]\n",
+    "output": "Mom? Mommy? Where's my mommy?\n"
+  },
+  {
+    "input": "Mom? Mommy? Where's my mommy?\n",
+    "output": "Oh dear, did you lose your mother, little boy?\n"
+  },
+  {
+    "input": "Oh dear, did you lose your mother, little boy?\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Security?\n"
+  },
+  {
+    "input": "Security?\n",
+    "output": "[shuffles up to the poll worker] Heaah?\n"
+  },
+  {
+    "input": "[shuffles up to the poll worker] Heaah?\n",
+    "output": "This little boy lost his mom.\n"
+  },
+  {
+    "input": "This little boy lost his mom.\n",
+    "output": "She said to wait for her by the... plastic boxes if I got lost.\n"
+  },
+  {
+    "input": "She said to wait for her by the... plastic boxes if I got lost.\n",
+    "output": "It's all right, come on. [takes Cartman's hand and walks him away]\n[a plane zooms through the sky. Cartman has an aisle seat, and he checks his watch.]\n[North Carolina, 12:18 pm Eastern (or 10:18 am Mountain, for reference). At the Charlotte Community Center, Cartman runs in, still in costume]\n"
+  },
+  {
+    "input": "It's all right, come on. [takes Cartman's hand and walks him away]\n[a plane zooms through the sky. Cartman has an aisle seat, and he checks his watch.]\n[North Carolina, 12:18 pm Eastern (or 10:18 am Mountain, for reference). At the Charlotte Community Center, Cartman runs in, still in costume]\n",
+    "output": "Mom? Where's my mom?\n"
+  },
+  {
+    "input": "Mom? Where's my mom?\n",
+    "output": "Oh dear. Did you lose your mommy, little boy?\n[a Jetstream Air zooms through the sky. Cartman has a middle seat. A flight attendant walks by and stops.]\n"
+  },
+  {
+    "input": "Oh dear. Did you lose your mommy, little boy?\n[a Jetstream Air zooms through the sky. Cartman has a middle seat. A flight attendant walks by and stops.]\n",
+    "output": "[to the aisle passenger] Would you like some warm nuts, sir?\n"
+  },
+  {
+    "input": "[to the aisle passenger] Would you like some warm nuts, sir?\n",
+    "output": "[wriggles in his seat and laughs] \"Warm nuts\", she said.\n[Florida, 3:40 pm Eastern (or 1:40 pm Mountain). At a polling station in Citrus County, Cartman stops in and clears his throat]\n"
+  },
+  {
+    "input": "[wriggles in his seat and laughs] \"Warm nuts\", she said.\n[Florida, 3:40 pm Eastern (or 1:40 pm Mountain). At a polling station in Citrus County, Cartman stops in and clears his throat]\n",
+    "output": "Mom?! I lost my Mooohhm!\n[a plane zooms through the sky. Cartman has an aisle seat again, and a flight attendant walks his way with snacks.]\n"
+  },
+  {
+    "input": "Mom?! I lost my Mooohhm!\n[a plane zooms through the sky. Cartman has an aisle seat again, and a flight attendant walks his way with snacks.]\n",
+    "output": "Warm nuts, sir? Warm nuts?\n"
+  },
+  {
+    "input": "Warm nuts, sir? Warm nuts?\n",
+    "output": "[breaks into a smile and laughs] No way dude. No way.\n[Ohio, 5:00 pm CST (The correct time zone should have been Eastern, 3 pm Mountain)]\n"
+  },
+  {
+    "input": "[breaks into a smile and laughs] No way dude. No way.\n[Ohio, 5:00 pm CST (The correct time zone should have been Eastern, 3 pm Mountain)]\n",
+    "output": "MOOOM! I can't find my mooom!\n[a plane zooms through the sky. Cartman has a middle seat again, and a flight attendant stops to offer the aisle passenger something.]\n"
+  },
+  {
+    "input": "MOOOM! I can't find my mooom!\n[a plane zooms through the sky. Cartman has a middle seat again, and a flight attendant stops to offer the aisle passenger something.]\n",
+    "output": "Would you like warm nuts, sir? [the man accepts the nuts and smiles]\n"
+  },
+  {
+    "input": "Would you like warm nuts, sir? [the man accepts the nuts and smiles]\n",
+    "output": "Ahaha, okay okay it's getting old. [both passenger and attendant frown at him]\n[Las Vegas, 3 pm Pacific (4 pm Mountain). Cartman runs through the polling station, and then back]\n"
+  },
+  {
+    "input": "Ahaha, okay okay it's getting old. [both passenger and attendant frown at him]\n[Las Vegas, 3 pm Pacific (4 pm Mountain). Cartman runs through the polling station, and then back]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Wednesday, the day after, Kyle's house. In the living room, Kyle and Ike sit on the sofa, with Ike crying.]\n[News]\n"
+  },
+  {
+    "input": "[Wednesday, the day after, Kyle's house. In the living room, Kyle and Ike sit on the sofa, with Ike crying.]\n[News]\n",
+    "output": "The people have spoken, and the President of the United States is once again, Barack Obama.\n"
+  },
+  {
+    "input": "The people have spoken, and the President of the United States is once again, Barack Obama.\n",
+    "output": "I assure you all, I am heading back to the White House more motivated - more titillated - than ever. [Ike begins to bawl.]\n"
+  },
+  {
+    "input": "I assure you all, I am heading back to the White House more motivated - more titillated - than ever. [Ike begins to bawl.]\n",
+    "output": "Don't be sad, Ike. Just be happy that you live in a country where people get to elect a president at all. [the phone rings and he answers it.] Hello?\n"
+  },
+  {
+    "input": "Don't be sad, Ike. Just be happy that you live in a country where people get to elect a president at all. [the phone rings and he answers it.] Hello?\n",
+    "output": "[from the Cartman kitchen] Hey Kyle. What's up?\n"
+  },
+  {
+    "input": "[from the Cartman kitchen] Hey Kyle. What's up?\n",
+    "output": "Nothing, watching the election results.\n"
+  },
+  {
+    "input": "Nothing, watching the election results.\n",
+    "output": "Yeah, I figured. It's the day after the election, so you're probably sitting on the couch telling your little brother how great it is to live in a democratic society. [Kyle glances at Ike.] Listen, Kyle, could you come over for a second? I got somethin' I need to show you.\n"
+  },
+  {
+    "input": "Yeah, I figured. It's the day after the election, so you're probably sitting on the couch telling your little brother how great it is to live in a democratic society. [Kyle glances at Ike.] Listen, Kyle, could you come over for a second? I got somethin' I need to show you.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Please, Kyle. It's kind of important.\n[Cartman's house, moments later. Cartman leads Kyle upstairs to his room]\n"
+  },
+  {
+    "input": "Please, Kyle. It's kind of important.\n[Cartman's house, moments later. Cartman leads Kyle upstairs to his room]\n",
+    "output": "Alright, what is this all about, fatass?!\n"
+  },
+  {
+    "input": "Alright, what is this all about, fatass?!\n",
+    "output": "You happy with the election results last night, Kyle?\n"
+  },
+  {
+    "input": "You happy with the election results last night, Kyle?\n",
+    "output": "It doesn't matter if I am or not. People voted and I stand behind the president.\n"
+  },
+  {
+    "input": "It doesn't matter if I am or not. People voted and I stand behind the president.\n",
+    "output": "Oh, that's such a democratic thing to say, Kyle. What if I were to tell you that I have something in my room that could change the entire election? [beams]\n"
+  },
+  {
+    "input": "Oh, that's such a democratic thing to say, Kyle. What if I were to tell you that I have something in my room that could change the entire election? [beams]\n",
+    "output": "Sure you do!\n"
+  },
+  {
+    "input": "Sure you do!\n",
+    "output": "What if I did, Kyle?\n"
+  },
+  {
+    "input": "What if I did, Kyle?\n",
+    "output": "Chr, what could you possibly have in your room that could change the outcome of the election? [Cartman smiles and opens his bedroom door, then shows him in. Inside are stacks and stacks of ballots Cartman has stolen from various states: Nevada, Florida, Idaho, Colorado, Virginia, Wisconsin, and North Carolina. Kyle's jaw drops]\n"
+  },
+  {
+    "input": "Chr, what could you possibly have in your room that could change the outcome of the election? [Cartman smiles and opens his bedroom door, then shows him in. Inside are stacks and stacks of ballots Cartman has stolen from various states: Nevada, Florida, Idaho, Colorado, Virginia, Wisconsin, and North Carolina. Kyle's jaw drops]\n",
+    "output": "Pretty sweet, huh?\n"
+  },
+  {
+    "input": "Pretty sweet, huh?\n",
+    "output": "What the hell is this?\n"
+  },
+  {
+    "input": "What the hell is this?\n",
+    "output": "What's it look like? Hundreds of thousands of votes from all the swing states.\n"
+  },
+  {
+    "input": "What's it look like? Hundreds of thousands of votes from all the swing states.\n",
+    "output": "I don't believe it.\n"
+  },
+  {
+    "input": "I don't believe it.\n",
+    "output": "No, really. There are states full of swingers. Bunch of perverts if you ask me.\n"
+  },
+  {
+    "input": "No, really. There are states full of swingers. Bunch of perverts if you ask me.\n",
+    "output": "Why do you have these?\n"
+  },
+  {
+    "input": "Why do you have these?\n",
+    "output": "[walks up to a stack] Funny how voting works in this country, isn't it, Kyle. [holds up a ballot] Each one of these, a person. Someone who actually took the time to get themselves informed. Actually got up and drove to a voting area to make sure their voice was heard. [tears the ballot in two, lets the pieces fall, and fakes a shocked face]\n"
+  },
+  {
+    "input": "[walks up to a stack] Funny how voting works in this country, isn't it, Kyle. [holds up a ballot] Each one of these, a person. Someone who actually took the time to get themselves informed. Actually got up and drove to a voting area to make sure their voice was heard. [tears the ballot in two, lets the pieces fall, and fakes a shocked face]\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "[Walks over to another stack] Here's another patriotic American. He probably spent hours listening to all those presidential ads and tuned in to every debate. [tears up that ballot]\n"
+  },
+  {
+    "input": "[Walks over to another stack] Here's another patriotic American. He probably spent hours listening to all those presidential ads and tuned in to every debate. [tears up that ballot]\n",
+    "output": "Knock it off, Cartman!\n"
+  },
+  {
+    "input": "Knock it off, Cartman!\n",
+    "output": "Now, believe it or not, Kyle, I actually need your help. But first you have to promise not to tell anyone.\n"
+  },
+  {
+    "input": "Now, believe it or not, Kyle, I actually need your help. But first you have to promise not to tell anyone.\n",
+    "output": "You're not getting away with this, you fat turd! [turns around and walks out. Cartman waits a few seconds and walks to his window. He sees Kyle walk to the sidewalk, then turn right and go down the street.]\n"
+  },
+  {
+    "input": "You're not getting away with this, you fat turd! [turns around and walks out. Cartman waits a few seconds and walks to his window. He sees Kyle walk to the sidewalk, then turn right and go down the street.]\n",
+    "output": "Run now, little firefly. It's all part of the plan.\n"
+  },
+  {
+    "input": "Run now, little firefly. It's all part of the plan.\n",
+    "output": "[steps in] Sweetie, there's a Mr. Pun Li Tsiao on the phone for you?\n"
+  },
+  {
+    "input": "[steps in] Sweetie, there's a Mr. Pun Li Tsiao on the phone for you?\n",
+    "output": "Thanks Mom, [she leaves] I'll take that in the study. Do I have a study? I don't think I have a study. That's fine.\n[The White House, day. A Secret Service agent runs down the hall towards the Oval Office, opens the doors, and goes in]\n"
+  },
+  {
+    "input": "Thanks Mom, [she leaves] I'll take that in the study. Do I have a study? I don't think I have a study. That's fine.\n[The White House, day. A Secret Service agent runs down the hall towards the Oval Office, opens the doors, and goes in]\n",
+    "output": "Mr. President?\n"
+  },
+  {
+    "input": "Mr. President?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "Line 2 from China for you, sir. It's General Tso.\n"
+  },
+  {
+    "input": "Line 2 from China for you, sir. It's General Tso.\n",
+    "output": "[picks up the receiver and presses the Line 2 button] Yes, hello General.\n"
+  },
+  {
+    "input": "[picks up the receiver and presses the Line 2 button] Yes, hello General.\n",
+    "output": "We assume you are preased with the erection results?\n"
+  },
+  {
+    "input": "We assume you are preased with the erection results?\n",
+    "output": "Very pleased. Thank you for your help.\n"
+  },
+  {
+    "input": "Very pleased. Thank you for your help.\n",
+    "output": "And you no doubt will now begin filling your side of the bargain.\n"
+  },
+  {
+    "input": "And you no doubt will now begin filling your side of the bargain.\n",
+    "output": "You'll have what you want. I'll meet you in three hours. [hangs up and slumps in his chair a little]\n"
+  },
+  {
+    "input": "You'll have what you want. I'll meet you in three hours. [hangs up and slumps in his chair a little]\n",
+    "output": "Sir, the election may have gone the way they said, but we can't possibly give the Chinese what you promised.\n"
+  },
+  {
+    "input": "Sir, the election may have gone the way they said, but we can't possibly give the Chinese what you promised.\n",
+    "output": "[rises and goes to a window] I don't know how they did it, but the Chinese secured my victory. I have to fulfill my obligation.\n"
+  },
+  {
+    "input": "[rises and goes to a window] I don't know how they did it, but the Chinese secured my victory. I have to fulfill my obligation.\n",
+    "output": "And what if General Tso suddenly gets the courage to go to the press with all this?\n"
+  },
+  {
+    "input": "And what if General Tso suddenly gets the courage to go to the press with all this?\n",
+    "output": "Don't worry. Everyone knows General Tso's chicken.\n[Cartman's house, day. Kyle is at the front door with two police officers. One of the officers knocks, and Cartman answers the door.]\n"
+  },
+  {
+    "input": "Don't worry. Everyone knows General Tso's chicken.\n[Cartman's house, day. Kyle is at the front door with two police officers. One of the officers knocks, and Cartman answers the door.]\n",
+    "output": "Eric Cartman? We have a report you might be involved in voter fraud?\n"
+  },
+  {
+    "input": "Eric Cartman? We have a report you might be involved in voter fraud?\n",
+    "output": "[strokes his chin] Hmmm, no.\n"
+  },
+  {
+    "input": "[strokes his chin] Hmmm, no.\n",
+    "output": "You mind if we search your room?\n"
+  },
+  {
+    "input": "You mind if we search your room?\n",
+    "output": "I'm sorry, but I know my rights. You can't search my room without a warrant. And I'm afraid I can't give you permission.\n"
+  },
+  {
+    "input": "I'm sorry, but I know my rights. You can't search my room without a warrant. And I'm afraid I can't give you permission.\n",
+    "output": "This isn't a joke, Cartman! You have to believe me, officer. The outcome of the election depends on it.\n"
+  },
+  {
+    "input": "This isn't a joke, Cartman! You have to believe me, officer. The outcome of the election depends on it.\n",
+    "output": "Let's just see. [the officers go in, and Kyle follows]\n"
+  },
+  {
+    "input": "Let's just see. [the officers go in, and Kyle follows]\n",
+    "output": "Ey! You can't do that! Ey!\n"
+  },
+  {
+    "input": "Ey! You can't do that! Ey!\n",
+    "output": "Upstairs! First door to the left!\n[Upstairs. The officers have reached Cartman's room. Officer 1 opens the door]\n"
+  },
+  {
+    "input": "Upstairs! First door to the left!\n[Upstairs. The officers have reached Cartman's room. Officer 1 opens the door]\n",
+    "output": "I know my rights! Stop right now! [Kyle and the officers go in... and find nothing]\n"
+  },
+  {
+    "input": "I know my rights! Stop right now! [Kyle and the officers go in... and find nothing]\n",
+    "output": "But... they were here. Ah I swear it. Stacks and stacks of ballots from states all over the country!\n"
+  },
+  {
+    "input": "But... they were here. Ah I swear it. Stacks and stacks of ballots from states all over the country!\n",
+    "output": "I was always told that... we lived in a country based on freedom. That the one thing that made America different was that government could never barge into our lives unwarranted. But it's all changing, isn't it? Ever since Obama was first elected, it's all changing.\n"
+  },
+  {
+    "input": "I was always told that... we lived in a country based on freedom. That the one thing that made America different was that government could never barge into our lives unwarranted. But it's all changing, isn't it? Ever since Obama was first elected, it's all changing.\n",
+    "output": "Oh my God, what have we done?\n"
+  },
+  {
+    "input": "Oh my God, what have we done?\n",
+    "output": "Guess this country is changing. We're sorry little boy, we're SO sorry. [The officers walk out]\n"
+  },
+  {
+    "input": "Guess this country is changing. We're sorry little boy, we're SO sorry. [The officers walk out]\n",
+    "output": "Please you've, you've got to believe me! They've still gotta be here somewhere! Uh we've got to find them!\n"
+  },
+  {
+    "input": "Please you've, you've got to believe me! They've still gotta be here somewhere! Uh we've got to find them!\n",
+    "output": "But where could they be? Where? And why would I care so much about the election results? So may questions, Kyle. So... little time. [Kyle turns right and runs down the stairs]\n[The neighborhood park, day. Seven kids are shown playing basketball: Timmy and Jimmy are there, as are Stan, Tolkien, Craig, Butters, and Kenny. Stan has the ball and tosses it to Craig, who makes a basket. Butters catches the ball. In the background, Kyle runs up to the entrance]\n"
+  },
+  {
+    "input": "But where could they be? Where? And why would I care so much about the election results? So may questions, Kyle. So... little time. [Kyle turns right and runs down the stairs]\n[The neighborhood park, day. Seven kids are shown playing basketball: Timmy and Jimmy are there, as are Stan, Tolkien, Craig, Butters, and Kenny. Stan has the ball and tosses it to Craig, who makes a basket. Butters catches the ball. In the background, Kyle runs up to the entrance]\n",
+    "output": "Guys! You guys! [runs into the group] Listen: Cartman has tens of thousands of voter ballots hidden somewhere. He's changed the outcome of the election!\n"
+  },
+  {
+    "input": "Guys! You guys! [runs into the group] Listen: Cartman has tens of thousands of voter ballots hidden somewhere. He's changed the outcome of the election!\n",
+    "output": "Wow, really? That's pretty impressive.\n"
+  },
+  {
+    "input": "Wow, really? That's pretty impressive.\n",
+    "output": "Come on guys! He's hidden them somewhere and we have to find them!\n"
+  },
+  {
+    "input": "Come on guys! He's hidden them somewhere and we have to find them!\n",
+    "output": "But I thought Obama won pretty easily last night.\n"
+  },
+  {
+    "input": "But I thought Obama won pretty easily last night.\n",
+    "output": "Dude, because of the electoral college these votes in swing states can really matter.\n"
+  },
+  {
+    "input": "Dude, because of the electoral college these votes in swing states can really matter.\n",
+    "output": "I don't understand that stuff at all. I need Morgan Freeman to explain it to me.\n"
+  },
+  {
+    "input": "I don't understand that stuff at all. I need Morgan Freeman to explain it to me.\n",
+    "output": "Yeah, I love when Morgan Freeman explains stuff.\n"
+  },
+  {
+    "input": "Yeah, I love when Morgan Freeman explains stuff.\n",
+    "output": "Whenever I'm confused about what's going on in a movie, I'm always so relieved when Morgan Freeman shows up and explains the plot to me.\n"
+  },
+  {
+    "input": "Whenever I'm confused about what's going on in a movie, I'm always so relieved when Morgan Freeman shows up and explains the plot to me.\n",
+    "output": "God damn it this is serious, you guys! Cartman has stolen the election!\n"
+  },
+  {
+    "input": "God damn it this is serious, you guys! Cartman has stolen the election!\n",
+    "output": "Well, mmmaybe Cartman had a good reason.\n"
+  },
+  {
+    "input": "Well, mmmaybe Cartman had a good reason.\n",
+    "output": "[stares at Butters for a while] Butters, you know something, don't you?!\n"
+  },
+  {
+    "input": "[stares at Butters for a while] Butters, you know something, don't you?!\n",
+    "output": "Huh? Wha? NO. Uhuh, why?\n"
+  },
+  {
+    "input": "Huh? Wha? NO. Uhuh, why?\n",
+    "output": "[walks towards Butters] What did Cartman tell you?!\n"
+  },
+  {
+    "input": "[walks towards Butters] What did Cartman tell you?!\n",
+    "output": "He didn't tell me nothin'. Annd I'm sworn to secrecy. Ih-it's really important, Kyle, and it isn't what you think. [glances over his shoulder and gasps] Uh, don't make me say any more!\n"
+  },
+  {
+    "input": "He didn't tell me nothin'. Annd I'm sworn to secrecy. Ih-it's really important, Kyle, and it isn't what you think. [glances over his shoulder and gasps] Uh, don't make me say any more!\n",
+    "output": "Tell us what you know right now!\n"
+  },
+  {
+    "input": "Tell us what you know right now!\n",
+    "output": "I can't! Don't you see?! [feels around his body for something, and finally finds it: a small bottle. He opens it up and pulls out a blue M&M.] Don't make me swallow this! Wa-I'll do it\n"
+  },
+  {
+    "input": "I can't! Don't you see?! [feels around his body for something, and finally finds it: a small bottle. He opens it up and pulls out a blue M&M.] Don't make me swallow this! Wa-I'll do it\n",
+    "output": "Is that an M&M?\n"
+  },
+  {
+    "input": "Is that an M&M?\n",
+    "output": "[his voice trembles] It's an almond M&M. Ah-I'm very allergic to almonds. Please, just leave me alone.\n"
+  },
+  {
+    "input": "[his voice trembles] It's an almond M&M. Ah-I'm very allergic to almonds. Please, just leave me alone.\n",
+    "output": "Then you have to tell us!\n"
+  },
+  {
+    "input": "Then you have to tell us!\n",
+    "output": "Well... hah... HWAAAH! [quickly swallows the pill and makes sure he doesn't throw up]\n"
+  },
+  {
+    "input": "Well... hah... HWAAAH! [quickly swallows the pill and makes sure he doesn't throw up]\n",
+    "output": "Oh shit! Don't let him swallow it! [Butters falls back, stiff]\n"
+  },
+  {
+    "input": "Oh shit! Don't let him swallow it! [Butters falls back, stiff]\n",
+    "output": "Pry his mouth open!\n"
+  },
+  {
+    "input": "Pry his mouth open!\n",
+    "output": "He ate it!\n"
+  },
+  {
+    "input": "He ate it!\n",
+    "output": "Butters, where are the ballots going?! Where are they going?!\n"
+  },
+  {
+    "input": "Butters, where are the ballots going?! Where are they going?!\n",
+    "output": "Ah! Bah! I hate almonds. [passes out]\n[Red Lobster, later. Cartman is at a table eating lobster legs. He's working on one plate while three others and a bucket of lobster legs await his appetite]\n"
+  },
+  {
+    "input": "Ah! Bah! I hate almonds. [passes out]\n[Red Lobster, later. Cartman is at a table eating lobster legs. He's working on one plate while three others and a bucket of lobster legs await his appetite]\n",
+    "output": "More melted butter, sir?\n"
+  },
+  {
+    "input": "More melted butter, sir?\n",
+    "output": "Mm, mhm, mhm.\n"
+  },
+  {
+    "input": "Mm, mhm, mhm.\n",
+    "output": "[lets out an exasperated sigh] Little boy, the President is on his way to pick up the ballots. Where are they?!\n"
+  },
+  {
+    "input": "[lets out an exasperated sigh] Little boy, the President is on his way to pick up the ballots. Where are they?!\n",
+    "output": "They're nearby. Very safe and sound. I just might want to... alter our deal a little bit.\n"
+  },
+  {
+    "input": "They're nearby. Very safe and sound. I just might want to... alter our deal a little bit.\n",
+    "output": "Alter our... The President will be here in moments with what we want!\n"
+  },
+  {
+    "input": "Alter our... The President will be here in moments with what we want!\n",
+    "output": "Yes. Tell me again exactly what you plan on doing with it?\n"
+  },
+  {
+    "input": "Yes. Tell me again exactly what you plan on doing with it?\n",
+    "output": "Oh my God, it's the President! [the President comes in with his Secret Service detail and diners come up to greet him]\n"
+  },
+  {
+    "input": "Oh my God, it's the President! [the President comes in with his Secret Service detail and diners come up to greet him]\n",
+    "output": "Thank you, thank you all for your votes of confidence. If I could... just be a little rude and ask for a nice quiet meal in private?\n"
+  },
+  {
+    "input": "Thank you, thank you all for your votes of confidence. If I could... just be a little rude and ask for a nice quiet meal in private?\n",
+    "output": "Oh, of course. Come on, let's let the President have some peace and quiet. [the diners begin to leave the restaurant]\n"
+  },
+  {
+    "input": "Oh, of course. Come on, let's let the President have some peace and quiet. [the diners begin to leave the restaurant]\n",
+    "output": "Wow, the President eats at Red Lobster. He's just a normal guy like me.\n"
+  },
+  {
+    "input": "Wow, the President eats at Red Lobster. He's just a normal guy like me.\n",
+    "output": "Come on guys. President says \"get out.\" [chuckles]\n"
+  },
+  {
+    "input": "Come on guys. President says \"get out.\" [chuckles]\n",
+    "output": "I didn't actually vote for him. [chuckles. Two agents guard the doors until the diners are gone, then close the doors, while two other agents join President Obama at the table]\n"
+  },
+  {
+    "input": "I didn't actually vote for him. [chuckles. Two agents guard the doors until the diners are gone, then close the doors, while two other agents join President Obama at the table]\n",
+    "output": "All right. Where are the ballots? [Cartman cracks open a lobster leg.]\n[The ER, somewhere, day. The boys are there to visit Butters and the doctor is with them.]\n"
+  },
+  {
+    "input": "All right. Where are the ballots? [Cartman cracks open a lobster leg.]\n[The ER, somewhere, day. The boys are there to visit Butters and the doctor is with them.]\n",
+    "output": "Your friend has had a severe allergic reaction.\n"
+  },
+  {
+    "input": "Your friend has had a severe allergic reaction.\n",
+    "output": "Can we please just try and talk to him?\n"
+  },
+  {
+    "input": "Can we please just try and talk to him?\n",
+    "output": "All right, but don't take too long. [the boys go in]\n"
+  },
+  {
+    "input": "All right, but don't take too long. [the boys go in]\n",
+    "output": "[hard to understand with his face puffed up] What's up fellas?\n"
+  },
+  {
+    "input": "[hard to understand with his face puffed up] What's up fellas?\n",
+    "output": "Butters, you have to tell us what Cartman is up to!\n"
+  },
+  {
+    "input": "Butters, you have to tell us what Cartman is up to!\n",
+    "output": "Bleh, ogayedmi.\n"
+  },
+  {
+    "input": "Bleh, ogayedmi.\n",
+    "output": "I didn't wanna have to do this. [opens his flip phone and presses some keys] but if you don't tell us, I'm gonna tell your dad you helped get the wrong person elected President!\n"
+  },
+  {
+    "input": "I didn't wanna have to do this. [opens his flip phone and presses some keys] but if you don't tell us, I'm gonna tell your dad you helped get the wrong person elected President!\n",
+    "output": "AGH! No! Please! You can't!\n"
+  },
+  {
+    "input": "AGH! No! Please! You can't!\n",
+    "output": "Then just tell me what Cartman is up to!\n"
+  },
+  {
+    "input": "Then just tell me what Cartman is up to!\n",
+    "output": "Okay! Okay! He's helping the Chinese get something they want.\n"
+  },
+  {
+    "input": "Okay! Okay! He's helping the Chinese get something they want.\n",
+    "output": "What'd he say? [Kenny mumbles his reply and Stan understands that] Oh. Well what do you mean the election isn't the biggest thing that happened this week?\n"
+  },
+  {
+    "input": "What'd he say? [Kenny mumbles his reply and Stan understands that] Oh. Well what do you mean the election isn't the biggest thing that happened this week?\n",
+    "output": "Because the Chinese actually want to protect something that's important.\n"
+  },
+  {
+    "input": "Because the Chinese actually want to protect something that's important.\n",
+    "output": "What? [Kenny mumbles his translation] You mean the missile defense program?! [to Butters] Butters, where's Cartman supposed to hand over the ballots?!\n"
+  },
+  {
+    "input": "What? [Kenny mumbles his translation] You mean the missile defense program?! [to Butters] Butters, where's Cartman supposed to hand over the ballots?!\n",
+    "output": "At Red Robster. [Kyle looks at Kenny]\n"
+  },
+  {
+    "input": "At Red Robster. [Kyle looks at Kenny]\n",
+    "output": "(At Red Lobster.)\n"
+  },
+  {
+    "input": "(At Red Lobster.)\n",
+    "output": "[still not getting it] Where?\n"
+  },
+  {
+    "input": "[still not getting it] Where?\n",
+    "output": "[enunciating as best he can] Red Lobster!\n"
+  },
+  {
+    "input": "[enunciating as best he can] Red Lobster!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "He said \"at Ruh ruh rruh ruh Reh Red\"\n"
+  },
+  {
+    "input": "He said \"at Ruh ruh rruh ruh Reh Red\"\n",
+    "output": "[enunciating as best he can] Red Lobster!\n"
+  },
+  {
+    "input": "[enunciating as best he can] Red Lobster!\n",
+    "output": "(Red Lobster!)\n"
+  },
+  {
+    "input": "(Red Lobster!)\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Ruh Rehh... Red\n"
+  },
+  {
+    "input": "Ruh Rehh... Red\n",
+    "output": "[stressing] Red Lobster!\n"
+  },
+  {
+    "input": "[stressing] Red Lobster!\n",
+    "output": "(Red Lobster!)\n"
+  },
+  {
+    "input": "(Red Lobster!)\n",
+    "output": "Oh, Red Lobster.\n[Red Lobster, later. The high-level meeting continues]\n"
+  },
+  {
+    "input": "Oh, Red Lobster.\n[Red Lobster, later. The high-level meeting continues]\n",
+    "output": "General Tso, do you have the missing ballots or not?\n"
+  },
+  {
+    "input": "General Tso, do you have the missing ballots or not?\n",
+    "output": "Sssure, we have the ballots, but we don't have them right here with us now. [Obama looks at the general, then glances at Cartman]\n"
+  },
+  {
+    "input": "Sssure, we have the ballots, but we don't have them right here with us now. [Obama looks at the general, then glances at Cartman]\n",
+    "output": "Okay, you want me to come in again, we can start over, what the fuck is this?!\n"
+  },
+  {
+    "input": "Okay, you want me to come in again, we can start over, what the fuck is this?!\n",
+    "output": "All right, where are the missing ballots?! [noticing the President] President Obama?\n"
+  },
+  {
+    "input": "All right, where are the missing ballots?! [noticing the President] President Obama?\n",
+    "output": "Oh God damn it Kyle, I was just about to get what I wanted.\n"
+  },
+  {
+    "input": "Oh God damn it Kyle, I was just about to get what I wanted.\n",
+    "output": "Mr. President, we got you reelected! Now you will give us the Star Wars technology so that we can make the sequels!\n"
+  },
+  {
+    "input": "Mr. President, we got you reelected! Now you will give us the Star Wars technology so that we can make the sequels!\n",
+    "output": "I told you China would get the rights to Star Wars from Disney as long as my Presidency was secure! [looks at Cartman] Until I have those ballots [looks at the general] it is not secure!\n"
+  },
+  {
+    "input": "I told you China would get the rights to Star Wars from Disney as long as my Presidency was secure! [looks at Cartman] Until I have those ballots [looks at the general] it is not secure!\n",
+    "output": "Wait a minute, the rights to Star Wars, the movies? What the hell is going on here?!\n"
+  },
+  {
+    "input": "Wait a minute, the rights to Star Wars, the movies? What the hell is going on here?!\n",
+    "output": "[voice only] What's going on is the sale of America's greatest asset. [music plays as he walks into view] You see, when the United States created Star Wars it made this country incredibly powerful.\n"
+  },
+  {
+    "input": "[voice only] What's going on is the sale of America's greatest asset. [music plays as he walks into view] You see, when the United States created Star Wars it made this country incredibly powerful.\n",
+    "output": "Morgan Freeman?\n"
+  },
+  {
+    "input": "Morgan Freeman?\n",
+    "output": "[pacing back and forth] Earlier this week, Lucas signed the rights to Star Wars over to Disney, and the Chinese saw a way to obtain it for themselves. The Chinese government knew that President Obama would help them take the rights from Disney if they helped him get reelected.\n"
+  },
+  {
+    "input": "[pacing back and forth] Earlier this week, Lucas signed the rights to Star Wars over to Disney, and the Chinese saw a way to obtain it for themselves. The Chinese government knew that President Obama would help them take the rights from Disney if they helped him get reelected.\n",
+    "output": "Ohhhh.\n"
+  },
+  {
+    "input": "Ohhhh.\n",
+    "output": "But the child who actually stole the ballots has hidden them, and won't give them to anyone until his demands are met. You've all got quite a mess on your hands. I wish you well with it. [turns around and goes back the way he came in]\n"
+  },
+  {
+    "input": "But the child who actually stole the ballots has hidden them, and won't give them to anyone until his demands are met. You've all got quite a mess on your hands. I wish you well with it. [turns around and goes back the way he came in]\n",
+    "output": "Hey just one thing, Morgan Freeman: [Freeman turns around and faces the group] How come every time something convoluted needs explaining, you show up?\n"
+  },
+  {
+    "input": "Hey just one thing, Morgan Freeman: [Freeman turns around and faces the group] How come every time something convoluted needs explaining, you show up?\n",
+    "output": "Because every time I show up and explain something, I earn a freckle. [a sparkle lights up on his right cheek as a small bell sounds, fades, and leaves a new freckle there. He turns around and resumes his departure]\n"
+  },
+  {
+    "input": "Because every time I show up and explain something, I earn a freckle. [a sparkle lights up on his right cheek as a small bell sounds, fades, and leaves a new freckle there. He turns around and resumes his departure]\n",
+    "output": "So here's the deal, General Tso, Mr. President, when the Chinese make the sequels, I get to play the part of Luke Skywalker's son. Cartman Skywalker.\n"
+  },
+  {
+    "input": "So here's the deal, General Tso, Mr. President, when the Chinese make the sequels, I get to play the part of Luke Skywalker's son. Cartman Skywalker.\n",
+    "output": "That was not the deal! We will not be a-bullied by you!\n"
+  },
+  {
+    "input": "That was not the deal! We will not be a-bullied by you!\n",
+    "output": "Well then, I guess we're about to play a game of Chicken, General Tso. [takes out a small ball-shaped bomb, smashes it against the table, and disappears in the resulting smoke.]\n"
+  },
+  {
+    "input": "Well then, I guess we're about to play a game of Chicken, General Tso. [takes out a small ball-shaped bomb, smashes it against the table, and disappears in the resulting smoke.]\n",
+    "output": "Heheh, I get it. General Tso's chih-chih-chicken.\n[Two secret service agents walk down a hallway somewhere]\n"
+  },
+  {
+    "input": "Heheh, I get it. General Tso's chih-chih-chicken.\n[Two secret service agents walk down a hallway somewhere]\n",
+    "output": "You are absolutely sure about this?\n"
+  },
+  {
+    "input": "You are absolutely sure about this?\n",
+    "output": "It's been confirmed, Mike. My God, we might have won this thing. [they reach the end of the hall]\n"
+  },
+  {
+    "input": "It's been confirmed, Mike. My God, we might have won this thing. [they reach the end of the hall]\n",
+    "output": "[knocks three times, then opens the double doors and goes in] Sir? Sir, we have some... incredible news. There are rumors of hundreds of thousands of stolen ballots. You might have won the election after all. [Duck President is shown. He lets out a loud quack with shit spewing out his mouth]\n[Cartman's house, evening. Stan, Kyle, Kenny, and Tolkien are in Cartman's living room rummaging through boxes of clothes looking for the ballots. Craig rips open the sofa cushions to look for them]\n"
+  },
+  {
+    "input": "[knocks three times, then opens the double doors and goes in] Sir? Sir, we have some... incredible news. There are rumors of hundreds of thousands of stolen ballots. You might have won the election after all. [Duck President is shown. He lets out a loud quack with shit spewing out his mouth]\n[Cartman's house, evening. Stan, Kyle, Kenny, and Tolkien are in Cartman's living room rummaging through boxes of clothes looking for the ballots. Craig rips open the sofa cushions to look for them]\n",
+    "output": "There's nothing here, Kyle. [Jimmy walks in from the dining room]\n"
+  },
+  {
+    "input": "There's nothing here, Kyle. [Jimmy walks in from the dining room]\n",
+    "output": "Anything in the basement, Jimmy?\n"
+  },
+  {
+    "input": "Anything in the basement, Jimmy?\n",
+    "output": "Just old junk, and boxes of Eric's mom's d-dildos\n"
+  },
+  {
+    "input": "Just old junk, and boxes of Eric's mom's d-dildos\n",
+    "output": "Well keep looking.\n"
+  },
+  {
+    "input": "Well keep looking.\n",
+    "output": "[walks in with some items] Oh my goodness, what's going on?\n"
+  },
+  {
+    "input": "[walks in with some items] Oh my goodness, what's going on?\n",
+    "output": "Sorry Ms. Cartman, but your son took some things that didn't belong to him.\n"
+  },
+  {
+    "input": "Sorry Ms. Cartman, but your son took some things that didn't belong to him.\n",
+    "output": "Oh, I've told him to respect people's property. What did he take?\n"
+  },
+  {
+    "input": "Oh, I've told him to respect people's property. What did he take?\n",
+    "output": "He stole ballots in all the swing states so the wrong person was elected President.\n"
+  },
+  {
+    "input": "He stole ballots in all the swing states so the wrong person was elected President.\n",
+    "output": "[walks towards the kitchen] Oh well, no TV for him for a few days.\n"
+  },
+  {
+    "input": "[walks towards the kitchen] Oh well, no TV for him for a few days.\n",
+    "output": "There's nothing here, Kyle. Not even one s-s-scooby clue.\n"
+  },
+  {
+    "input": "There's nothing here, Kyle. Not even one s-s-scooby clue.\n",
+    "output": "Oh my God you guys, look! [points across the street. The boys walk out as the sound of a large vehicle is heard] Dude, it's Boba Fett's ship! [Indeed. The ship arrives and positions itself for landing, then descends onto the road. After a big thud, the ship's door opens... and out swaggers Mickey Mouse]\n"
+  },
+  {
+    "input": "Oh my God you guys, look! [points across the street. The boys walk out as the sound of a large vehicle is heard] Dude, it's Boba Fett's ship! [Indeed. The ship arrives and positions itself for landing, then descends onto the road. After a big thud, the ship's door opens... and out swaggers Mickey Mouse]\n",
+    "output": "Just what the Dickens is going on here, haha?!\n"
+  },
+  {
+    "input": "Just what the Dickens is going on here, haha?!\n",
+    "output": "Aw shit, it's him again.\n"
+  },
+  {
+    "input": "Aw shit, it's him again.\n",
+    "output": "What's this about a deal with the Chinese?! I own all this shit now! I own the Death Star! I own Tatooine! It's all MINE, haha! All right fuckers, where are the missing ballots? Haha.\n[The hospital, night. Butters is still in recovery, and his face is still puffy. He's asleep]\n"
+  },
+  {
+    "input": "What's this about a deal with the Chinese?! I own all this shit now! I own the Death Star! I own Tatooine! It's all MINE, haha! All right fuckers, where are the missing ballots? Haha.\n[The hospital, night. Butters is still in recovery, and his face is still puffy. He's asleep]\n",
+    "output": "Butters. [Butters jumps up and is wide awake] You just couldn't keep your mouth shut, could you Butters?\n"
+  },
+  {
+    "input": "Butters. [Butters jumps up and is wide awake] You just couldn't keep your mouth shut, could you Butters?\n",
+    "output": "I didn't say anything. I promise.\n"
+  },
+  {
+    "input": "I didn't say anything. I promise.\n",
+    "output": "I guess we learned that when it comes to Star Wars, we can't trust anyone. Not the President, not the Chinese, and not you.\n"
+  },
+  {
+    "input": "I guess we learned that when it comes to Star Wars, we can't trust anyone. Not the President, not the Chinese, and not you.\n",
+    "output": "Please, Eric! I tried to be quiet, I swear!\n"
+  },
+  {
+    "input": "Please, Eric! I tried to be quiet, I swear!\n",
+    "output": "Shhh, it's okay, Butters. [brings forth an M&M bag and opens it] Nobody's gonna find the election ballots. [pulls out a blue almond M&M.] I have them hidden away somewhere... nobody would ever look. [places the M&M in Butters' mouth and closes it] A place in town people barely even know exists.\n[A Hummer outdoor dealership. The salesman stands around waiting for customers. Behind him is a lot full of pristine Hummers]\n"
+  },
+  {
+    "input": "Shhh, it's okay, Butters. [brings forth an M&M bag and opens it] Nobody's gonna find the election ballots. [pulls out a blue almond M&M.] I have them hidden away somewhere... nobody would ever look. [places the M&M in Butters' mouth and closes it] A place in town people barely even know exists.\n[A Hummer outdoor dealership. The salesman stands around waiting for customers. Behind him is a lot full of pristine Hummers]\n",
+    "output": "Hey guys. Lookin' to buy a Hummer today? [a family leaving the KFC across the street heads for its car in the KFC parking lot] We're havin' a Rocktober sales event day that's goin' into Rockvember. [the family piles into the car, the father starts it, and the family drives away. The salesman watches the family leave, then turns around and walks to a different spot - next to the missing ballots.] Hey there! Interested in test-drivin' a Hummer today? [a lone man walks slowly down the sidewalk on a cross street. Mr. Hummer takes out his hands and starts gesturing] I can see you, with the Ray-Bans, got that nice bicep haning' out the window rolled down, whattaya think? [the man looks at him, then begins to walk faster] Rockvember sales event, guys! Every Hummer comes with a free Segway.\n"
+  },
+  {
+    "input": "Hey guys. Lookin' to buy a Hummer today? [a family leaving the KFC across the street heads for its car in the KFC parking lot] We're havin' a Rocktober sales event day that's goin' into Rockvember. [the family piles into the car, the father starts it, and the family drives away. The salesman watches the family leave, then turns around and walks to a different spot - next to the missing ballots.] Hey there! Interested in test-drivin' a Hummer today? [a lone man walks slowly down the sidewalk on a cross street. Mr. Hummer takes out his hands and starts gesturing] I can see you, with the Ray-Bans, got that nice bicep haning' out the window rolled down, whattaya think? [the man looks at him, then begins to walk faster] Rockvember sales event, guys! Every Hummer comes with a free Segway.\n",
+    "output": "[at a Caf\u00e9 Monet across a third street.] Hey why don't you shut up?!\n"
+  },
+  {
+    "input": "[at a Caf\u00e9 Monet across a third street.] Hey why don't you shut up?!\n",
+    "output": "I'm just excited about all these deals, that's all. [puts his hands in his pockets]\n[Disneyland, night. The park has closed. AT-STs patrol the grounds as TIE fighters zoom by overhead. Mickey walks through Cinderella's castle towards a door as it opens upward and reveals two storm troopers escorting Cartman, in handcuffs, to him]\n"
+  },
+  {
+    "input": "I'm just excited about all these deals, that's all. [puts his hands in his pockets]\n[Disneyland, night. The park has closed. AT-STs patrol the grounds as TIE fighters zoom by overhead. Mickey walks through Cinderella's castle towards a door as it opens upward and reveals two storm troopers escorting Cartman, in handcuffs, to him]\n",
+    "output": "We found him sir, but still no sign of the missing ballots.\n"
+  },
+  {
+    "input": "We found him sir, but still no sign of the missing ballots.\n",
+    "output": "Go on! Leave us alone! Haha. [the storm troopers step outside and the door comes down behind them. Mickey and Cartman walk away from the door] Now listen, little boy, the reason this country works is because people go out to vote. Every vote counts. And you need-\n"
+  },
+  {
+    "input": "Go on! Leave us alone! Haha. [the storm troopers step outside and the door comes down behind them. Mickey and Cartman walk away from the door] Now listen, little boy, the reason this country works is because people go out to vote. Every vote counts. And you need-\n",
+    "output": "Cut the crap, Mouse! You only care about the election results because Romney would have been tougher on the Chinese!\n"
+  },
+  {
+    "input": "Cut the crap, Mouse! You only care about the election results because Romney would have been tougher on the Chinese!\n",
+    "output": "Why don't you just tell me where the missing ballots are?! It will make your death a lot less painful! Haha.\n"
+  },
+  {
+    "input": "Why don't you just tell me where the missing ballots are?! It will make your death a lot less painful! Haha.\n",
+    "output": "Trust me: they're somewhere nobody will ever find them! If you kill me, then Obama will stay President and you will lose Star Wars to the Chinese forever!\n"
+  },
+  {
+    "input": "Trust me: they're somewhere nobody will ever find them! If you kill me, then Obama will stay President and you will lose Star Wars to the Chinese forever!\n",
+    "output": "[whips out his light saber] Pretty neat, huh? How would you like to have one?\n"
+  },
+  {
+    "input": "[whips out his light saber] Pretty neat, huh? How would you like to have one?\n",
+    "output": "I can get those at K-Mart! If you want me to switch sides, you'll have to do better than that!\n"
+  },
+  {
+    "input": "I can get those at K-Mart! If you want me to switch sides, you'll have to do better than that!\n",
+    "output": "[turns off his light saber] Like what?!\n"
+  },
+  {
+    "input": "[turns off his light saber] Like what?!\n",
+    "output": "I want a part in the new movies!\n"
+  },
+  {
+    "input": "I want a part in the new movies!\n",
+    "output": "[brightens up] Well then, why didn't you just come to me in the first place? If you wanna be in the next Star Wars, I'm your guy! Haha.\n"
+  },
+  {
+    "input": "[brightens up] Well then, why didn't you just come to me in the first place? If you wanna be in the next Star Wars, I'm your guy! Haha.\n",
+    "output": "I get to be Luke Skeywalker's son. And there has to be a character called Jewbacca.\n"
+  },
+  {
+    "input": "I get to be Luke Skeywalker's son. And there has to be a character called Jewbacca.\n",
+    "output": "You can be Luke's son, you can be Han Solo's son, I don't give two shits and a popsicle.\n"
+  },
+  {
+    "input": "You can be Luke's son, you can be Han Solo's son, I don't give two shits and a popsicle.\n",
+    "output": "Really? Well then, I suppose that making the votes public IS the right thing to do. I can get the ballots for you. But if I'm gonna smuggle them here, I'm gonna need a blaster and a tauntaun.\n"
+  },
+  {
+    "input": "Really? Well then, I suppose that making the votes public IS the right thing to do. I can get the ballots for you. But if I'm gonna smuggle them here, I'm gonna need a blaster and a tauntaun.\n",
+    "output": "Sure thing. I've got tauntauns comin' out my asshole, haha.\n"
+  },
+  {
+    "input": "Sure thing. I've got tauntauns comin' out my asshole, haha.\n",
+    "output": "Haha.\n"
+  },
+  {
+    "input": "Haha.\n",
+    "output": "Haha.\n"
+  },
+  {
+    "input": "Haha.\n",
+    "output": "Haha. [and a new partnership is formed.]\n[Breaking Election News.]\n"
+  },
+  {
+    "input": "Haha. [and a new partnership is formed.]\n[Breaking Election News.]\n",
+    "output": "This is Breaking Election News. Hold that phone! The election may be over, but rumors are running rampant that hundreds of thousands of ballots for Mitt Romney were stolen!\n"
+  },
+  {
+    "input": "This is Breaking Election News. Hold that phone! The election may be over, but rumors are running rampant that hundreds of thousands of ballots for Mitt Romney were stolen!\n",
+    "output": "[with a field reporter at City Hall, with the other boys behind them] We need everyone's help here. What you're looking for are big boxes of ballots. Hundreds of them. Please check your basement, your attic, and-\n"
+  },
+  {
+    "input": "[with a field reporter at City Hall, with the other boys behind them] We need everyone's help here. What you're looking for are big boxes of ballots. Hundreds of them. Please check your basement, your attic, and-\n",
+    "output": "And and you claim that a General Tso hired your friend, Fatass, to steal the ballots, but so far the Chinese are refusing to speak with us.\n"
+  },
+  {
+    "input": "And and you claim that a General Tso hired your friend, Fatass, to steal the ballots, but so far the Chinese are refusing to speak with us.\n",
+    "output": "Yeah, probably 'cause General Tso's chicken. [sirens and bells sound]\n"
+  },
+  {
+    "input": "Yeah, probably 'cause General Tso's chicken. [sirens and bells sound]\n",
+    "output": "Is that it? Did he just? Did he just?\n"
+  },
+  {
+    "input": "Is that it? Did he just? Did he just?\n",
+    "output": "Yup. Chris, we're getting confirmation that was the millionth time.\n"
+  },
+  {
+    "input": "Yup. Chris, we're getting confirmation that was the millionth time.\n",
+    "output": "Excitement and revelry at South Park as a little boy has just made the General Tso's chicken joke for the one millionth time. [confetti and balloons float down from the sky]\n"
+  },
+  {
+    "input": "Excitement and revelry at South Park as a little boy has just made the General Tso's chicken joke for the one millionth time. [confetti and balloons float down from the sky]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Little boy, the General Tso's chicken joke, a favorite for years, you've just hit the magic number, how does it feel?\n"
+  },
+  {
+    "input": "Little boy, the General Tso's chicken joke, a favorite for years, you've just hit the magic number, how does it feel?\n",
+    "output": "[quite confused] I... what? [a woman comes in from screen left with a check for five thousand dollars from P.F. Chang while another woman comes in from screen left with a sign saying \"ONE MILLION TIMES!!!!!\"]\n"
+  },
+  {
+    "input": "[quite confused] I... what? [a woman comes in from screen left with a check for five thousand dollars from P.F. Chang while another woman comes in from screen left with a sign saying \"ONE MILLION TIMES!!!!!\"]\n",
+    "output": "He's being presented with the check now, a five thousand dollar gift certificate to P.F. Chang's. [Kyle holds the check up and the reporter gets closer to the camera] This has been a long campaign, but someone's finally done it, Wolf.\n[South Park, later. The boys are sitting on the curb near Tele's, eating Chinese food]\n"
+  },
+  {
+    "input": "He's being presented with the check now, a five thousand dollar gift certificate to P.F. Chang's. [Kyle holds the check up and the reporter gets closer to the camera] This has been a long campaign, but someone's finally done it, Wolf.\n[South Park, later. The boys are sitting on the curb near Tele's, eating Chinese food]\n",
+    "output": "Well, we tried, dude.\n"
+  },
+  {
+    "input": "Well, we tried, dude.\n",
+    "output": "It just seems so unfair. People won't ever even know that the wrong man is in the White House.\n"
+  },
+  {
+    "input": "It just seems so unfair. People won't ever even know that the wrong man is in the White House.\n",
+    "output": "Well, I mean, look at it this way: Almost half the country did actually vote for Obama. If the election really just came down to a bunch of boxes Cartman stole, then, does it matter that much?\n"
+  },
+  {
+    "input": "Well, I mean, look at it this way: Almost half the country did actually vote for Obama. If the election really just came down to a bunch of boxes Cartman stole, then, does it matter that much?\n",
+    "output": "It matters, Stan. It it matters.\n"
+  },
+  {
+    "input": "It matters, Stan. It it matters.\n",
+    "output": "[voice only] Ho ho ho hoo! [Kyle glances at the TVs and walks over to get a better look] Come on down to Stevenson Hummer for our big Christmas in Humvember Sale! [same dealership as earlier, with Mr. Hummer wearing Santa facial hair and cap, ringing a bell and shaking a rattle stick] Not sure what to get your loved one this holiday season? Why not give them a nice Hummer? Nothing beats a Hummer on Christmas morning! [dances a bit. Stan joins him at Tele's picture window]\n"
+  },
+  {
+    "input": "[voice only] Ho ho ho hoo! [Kyle glances at the TVs and walks over to get a better look] Come on down to Stevenson Hummer for our big Christmas in Humvember Sale! [same dealership as earlier, with Mr. Hummer wearing Santa facial hair and cap, ringing a bell and shaking a rattle stick] Not sure what to get your loved one this holiday season? Why not give them a nice Hummer? Nothing beats a Hummer on Christmas morning! [dances a bit. Stan joins him at Tele's picture window]\n",
+    "output": "Stan, when was the last time you saw somebody drive a Hummer?\n"
+  },
+  {
+    "input": "Stan, when was the last time you saw somebody drive a Hummer?\n",
+    "output": "Uhhh, forever ago, like, 2010?\n"
+  },
+  {
+    "input": "Uhhh, forever ago, like, 2010?\n",
+    "output": "[realizing where the ballots could be] Oh my God.\n[Stevenson's Hummer, day. A diner leaves Caf\u00e9 Monet and walks down the street.]\n"
+  },
+  {
+    "input": "[realizing where the ballots could be] Oh my God.\n[Stevenson's Hummer, day. A diner leaves Caf\u00e9 Monet and walks down the street.]\n",
+    "output": "[the salesman] Hey, looking for a Hummer today? Got some 2009s here. Never been driven. ...Ever. [a crow lands on a blue Hummer. Mr. Stevenson notices, turns around and moves towards it] Go on, get out of here! Shoo! [the crow leaves as Kyle and friends show up and enter the lot]\n"
+  },
+  {
+    "input": "[the salesman] Hey, looking for a Hummer today? Got some 2009s here. Never been driven. ...Ever. [a crow lands on a blue Hummer. Mr. Stevenson notices, turns around and moves towards it] Go on, get out of here! Shoo! [the crow leaves as Kyle and friends show up and enter the lot]\n",
+    "output": "Look! There they are!\n"
+  },
+  {
+    "input": "Look! There they are!\n",
+    "output": "Hey, hi there! You kids like Hummers, huh? Let me show you these babies!\n"
+  },
+  {
+    "input": "Hey, hi there! You kids like Hummers, huh? Let me show you these babies!\n",
+    "output": "We found it, you guys! [hears some vehicles showing up and looks] Oh no, they followed us! [several black cars pull up and the Chinese pour out of them]\n"
+  },
+  {
+    "input": "We found it, you guys! [hears some vehicles showing up and looks] Oh no, they followed us! [several black cars pull up and the Chinese pour out of them]\n",
+    "output": "Oh hell yes! Asians! Hey guys!\n"
+  },
+  {
+    "input": "Oh hell yes! Asians! Hey guys!\n",
+    "output": "Get out of our way!\n"
+  },
+  {
+    "input": "Get out of our way!\n",
+    "output": "No! These don't belong to you! They belong to the people!\n"
+  },
+  {
+    "input": "No! These don't belong to you! They belong to the people!\n",
+    "output": "[pulls out a pistol from his pocket and aims it at Kyle] I am tired of playing games! This little farce is ovah! [a shot from a ray gun obliterates the pistol]\n"
+  },
+  {
+    "input": "[pulls out a pistol from his pocket and aims it at Kyle] I am tired of playing games! This little farce is ovah! [a shot from a ray gun obliterates the pistol]\n",
+    "output": "[on a tauntaun] I don't think so, General Tso! This way, officers! [police cars show up]\n"
+  },
+  {
+    "input": "[on a tauntaun] I don't think so, General Tso! This way, officers! [police cars show up]\n",
+    "output": "Oh my God it's a sales rush! [the police pour out of their cars]\n"
+  },
+  {
+    "input": "Oh my God it's a sales rush! [the police pour out of their cars]\n",
+    "output": "Oh my God. Are those what I think they are?\n"
+  },
+  {
+    "input": "Oh my God. Are those what I think they are?\n",
+    "output": "Yes, we must show these to the public! For democracy's sake, right Kyle?\n"
+  },
+  {
+    "input": "Yes, we must show these to the public! For democracy's sake, right Kyle?\n",
+    "output": "Sir, we've found something, at the Hummer sales lot outside of town.\n"
+  },
+  {
+    "input": "Sir, we've found something, at the Hummer sales lot outside of town.\n",
+    "output": "You don't understand. We are trying to protect the greatest film series ever made!\n"
+  },
+  {
+    "input": "You don't understand. We are trying to protect the greatest film series ever made!\n",
+    "output": "Protect it?\n"
+  },
+  {
+    "input": "Protect it?\n",
+    "output": "What the hell is going on here?!\n"
+  },
+  {
+    "input": "What the hell is going on here?!\n",
+    "output": "[voice only. The officers all face him] Perhaps I can explain it to you. [appears between the Hummers and walks up to the group] You see, it turns out the only reason the Chinese so desperately wanted Star Wars is because they're afraid that Disney might not be the right place for it. The Chinese simply want to guard Star Wars impeccable legacy.\n"
+  },
+  {
+    "input": "[voice only. The officers all face him] Perhaps I can explain it to you. [appears between the Hummers and walks up to the group] You see, it turns out the only reason the Chinese so desperately wanted Star Wars is because they're afraid that Disney might not be the right place for it. The Chinese simply want to guard Star Wars impeccable legacy.\n",
+    "output": "Is that Morgan Freeman?\n"
+  },
+  {
+    "input": "Is that Morgan Freeman?\n",
+    "output": "And now we're at a crossroads. If these ballots are made public, then the man the people voted for will be President, but he will no doubt keep Star Wars from the Chinese, and allow Disney to keep it instead. And so we have to ask ourselves, \"What's more important? That the right man is elected President, or that Star Wars is with people who will protect it most?\" [six new freckles appear on his face, and he caresses his right cheek]\n"
+  },
+  {
+    "input": "And now we're at a crossroads. If these ballots are made public, then the man the people voted for will be President, but he will no doubt keep Star Wars from the Chinese, and allow Disney to keep it instead. And so we have to ask ourselves, \"What's more important? That the right man is elected President, or that Star Wars is with people who will protect it most?\" [six new freckles appear on his face, and he caresses his right cheek]\n",
+    "output": "[through a walkie-talkie] Unit 4, what is it?! Over.\n"
+  },
+  {
+    "input": "[through a walkie-talkie] Unit 4, what is it?! Over.\n",
+    "output": "Well kid?\n"
+  },
+  {
+    "input": "Well kid?\n",
+    "output": "Well... if you put it that way...\n"
+  },
+  {
+    "input": "Well... if you put it that way...\n",
+    "output": "Come in Unit 4! What have you found?!\n"
+  },
+  {
+    "input": "Come in Unit 4! What have you found?!\n",
+    "output": "Nothing sir. We just found some tremendous deals on cars nobody wants, that's all. Barkley out. [Stan walks up to the ballots with a match, strikes the match against the asphalt and lights it, and sets fire to the ballots]\n"
+  },
+  {
+    "input": "Nothing sir. We just found some tremendous deals on cars nobody wants, that's all. Barkley out. [Stan walks up to the ballots with a match, strikes the match against the asphalt and lights it, and sets fire to the ballots]\n",
+    "output": "No! But Obama wasn't really elected! Don't you people care?! [the Chinese, the police officers, and the boys all hold hands around the bonfire and begin to chant]\n"
+  }
+]

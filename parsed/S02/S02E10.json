@@ -1,0 +1,1658 @@
+[
+  {
+    "input": "",
+    "output": "Chickenpox\n\n[Hell's Pass Hospital. Sharon and Dr. Doctor stand before Shelly's bed.]\n"
+  },
+  {
+    "input": "Chickenpox\n\n[Hell's Pass Hospital. Sharon and Dr. Doctor stand before Shelly's bed.]\n",
+    "output": "It's a good thing we got her to the hospital in time.\n"
+  },
+  {
+    "input": "It's a good thing we got her to the hospital in time.\n",
+    "output": "But what's wrong with her?\n"
+  },
+  {
+    "input": "But what's wrong with her?\n",
+    "output": "It's chickenpox. There seems to be a small epidemic going around. Your daughter never had the chickenpox as a little child, I take it?\n"
+  },
+  {
+    "input": "It's chickenpox. There seems to be a small epidemic going around. Your daughter never had the chickenpox as a little child, I take it?\n",
+    "output": "No, no, she's been perfectly healthy.\n"
+  },
+  {
+    "input": "No, no, she's been perfectly healthy.\n",
+    "output": "Well, that's the problem. You see, chickenpox is a pretty normal thing for young children, but as you get older it becomes a more and more ferocious disease.\n[The door opens and Stan enters.]\n"
+  },
+  {
+    "input": "Well, that's the problem. You see, chickenpox is a pretty normal thing for young children, but as you get older it becomes a more and more ferocious disease.\n[The door opens and Stan enters.]\n",
+    "output": "[Sweetly.] Shelly, look who's come to visit you; your little brother, Stan.\n"
+  },
+  {
+    "input": "[Sweetly.] Shelly, look who's come to visit you; your little brother, Stan.\n",
+    "output": "[In disgust.] Oh, whoo-peee!\n"
+  },
+  {
+    "input": "[In disgust.] Oh, whoo-peee!\n",
+    "output": "You know, most people don't realize that chickenpox is actually a form of herpes.\n"
+  },
+  {
+    "input": "You know, most people don't realize that chickenpox is actually a form of herpes.\n",
+    "output": "Dude, you've got herpes on your face!\n"
+  },
+  {
+    "input": "Dude, you've got herpes on your face!\n",
+    "output": "Shut up, brat!\n"
+  },
+  {
+    "input": "Shut up, brat!\n",
+    "output": "[With some urgency.] Will my daughter be okay?\n"
+  },
+  {
+    "input": "[With some urgency.] Will my daughter be okay?\n",
+    "output": "She'll be fine.\n"
+  },
+  {
+    "input": "She'll be fine.\n",
+    "output": "[Stan scratches her cheek.] Stop it!\n"
+  },
+  {
+    "input": "[Stan scratches her cheek.] Stop it!\n",
+    "output": "We just want to be cautious and monitor her here.\n[A crash is heard, and Sharon and Dr. Doctor look on in surprise.]\n"
+  },
+  {
+    "input": "We just want to be cautious and monitor her here.\n[A crash is heard, and Sharon and Dr. Doctor look on in surprise.]\n",
+    "output": "Ow!\n[Shelly has knocked Stan to the floor.]\n"
+  },
+  {
+    "input": "Ow!\n[Shelly has knocked Stan to the floor.]\n",
+    "output": "Come on, Stanley. Give your sister a kiss and then we have to go.\n[The Broflovski house. Sharon, Sheila, and Liane are seated at the dining room table. Ike is playing in his high chair.]\n"
+  },
+  {
+    "input": "Come on, Stanley. Give your sister a kiss and then we have to go.\n[The Broflovski house. Sharon, Sheila, and Liane are seated at the dining room table. Ike is playing in his high chair.]\n",
+    "output": "...and then the doctor said that it's much worse as you get older. My daughter is in pretty bad shape now, but if she were in her twenties, she could die.\n"
+  },
+  {
+    "input": "...and then the doctor said that it's much worse as you get older. My daughter is in pretty bad shape now, but if she were in her twenties, she could die.\n",
+    "output": "My God, I never knew chickenpox was such a dangerous illness.\n"
+  },
+  {
+    "input": "My God, I never knew chickenpox was such a dangerous illness.\n",
+    "output": "I guess it's much better to get it when you're young.\n"
+  },
+  {
+    "input": "I guess it's much better to get it when you're young.\n",
+    "output": "So tell me if I'm crazy, but I started thinking that we should intentionally have our boys play with a child who has the chickenpox. Let them get it now, while they're young.\n"
+  },
+  {
+    "input": "So tell me if I'm crazy, but I started thinking that we should intentionally have our boys play with a child who has the chickenpox. Let them get it now, while they're young.\n",
+    "output": "That's not crazy at all, Sharon. Mothers do it all the time.\n"
+  },
+  {
+    "input": "That's not crazy at all, Sharon. Mothers do it all the time.\n",
+    "output": "Oh, yes. When I was a child, my mother had me go over to a little girl's house who had the chickenpox, just so I would get it.\n"
+  },
+  {
+    "input": "Oh, yes. When I was a child, my mother had me go over to a little girl's house who had the chickenpox, just so I would get it.\n",
+    "output": "So it's not such a crazy idea after all?\n"
+  },
+  {
+    "input": "So it's not such a crazy idea after all?\n",
+    "output": "Noo, no. And I'm pretty sure that strange little boy Kenny has the chickenpox right now.\n[Kyle, Stan, and Cartman walk up to the table.]\n"
+  },
+  {
+    "input": "Noo, no. And I'm pretty sure that strange little boy Kenny has the chickenpox right now.\n[Kyle, Stan, and Cartman walk up to the table.]\n",
+    "output": "Are you guys having a meeting or something?\n"
+  },
+  {
+    "input": "Are you guys having a meeting or something?\n",
+    "output": "How would you boys like to have a little slumber party at your friend Kenny's house tonight?\n"
+  },
+  {
+    "input": "How would you boys like to have a little slumber party at your friend Kenny's house tonight?\n",
+    "output": "No way, dude. Kenny's family's poor; they live in the ghetto.\n"
+  },
+  {
+    "input": "No way, dude. Kenny's family's poor; they live in the ghetto.\n",
+    "output": "Yeah. Let's just have a slumber party here.\n"
+  },
+  {
+    "input": "Yeah. Let's just have a slumber party here.\n",
+    "output": "Boys, you're going to sleep over at Kenny's, and that's final.\n"
+  },
+  {
+    "input": "Boys, you're going to sleep over at Kenny's, and that's final.\n",
+    "output": "Oh weak!\n[The boys have gone home to gather their things. Now they meet up and walk to Kenny's house.]\n"
+  },
+  {
+    "input": "Oh weak!\n[The boys have gone home to gather their things. Now they meet up and walk to Kenny's house.]\n",
+    "output": "I wonder why our moms want us to sleep over at Kenny's so bad.\n"
+  },
+  {
+    "input": "I wonder why our moms want us to sleep over at Kenny's so bad.\n",
+    "output": "Yeah, it's pretty weird.\n[The boys cross some railroad tracks.]\n"
+  },
+  {
+    "input": "Yeah, it's pretty weird.\n[The boys cross some railroad tracks.]\n",
+    "output": "Well, all I can say is, he's better have Nintendo.\n[They come upon a house with an orange cat and a small gray dog milling around. Strewn about the yard are a motor, a sofa, a refrigerator, a pack of beer bottles...]\n"
+  },
+  {
+    "input": "Well, all I can say is, he's better have Nintendo.\n[They come upon a house with an orange cat and a small gray dog milling around. Strewn about the yard are a motor, a sofa, a refrigerator, a pack of beer bottles...]\n",
+    "output": "Well, here's Kenny's house.\n"
+  },
+  {
+    "input": "Well, here's Kenny's house.\n",
+    "output": "In the ghetto\nOn a cold and gray Chicago morn\nAnother little baby child is born\nIn the ghetto... In the ghetto\n[Stan knocks on the door and Stuart McCormick answers, beer in hand.]\n"
+  },
+  {
+    "input": "In the ghetto\nOn a cold and gray Chicago morn\nAnother little baby child is born\nIn the ghetto... In the ghetto\n[Stan knocks on the door and Stuart McCormick answers, beer in hand.]\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "We're here to have a slumber party with Kenny.\n"
+  },
+  {
+    "input": "We're here to have a slumber party with Kenny.\n",
+    "output": "What? Don't you know Kenny's sick with--?\n"
+  },
+  {
+    "input": "What? Don't you know Kenny's sick with--?\n",
+    "output": "[Intruding.] That's the whole point, remember? Their moms want them to catch it while they're young.\n"
+  },
+  {
+    "input": "[Intruding.] That's the whole point, remember? Their moms want them to catch it while they're young.\n",
+    "output": "Oh yeah.\n"
+  },
+  {
+    "input": "Oh yeah.\n",
+    "output": "Catch what?\n"
+  },
+  {
+    "input": "Catch what?\n",
+    "output": "Nothin'. Uhco-uh, come on in, I was jus' makin' dinner.\n[The boys follow the parents in. Shag carpeting, another sofa, an engine block doubling as a coffee table, a beer sign...]\n"
+  },
+  {
+    "input": "Nothin'. Uhco-uh, come on in, I was jus' makin' dinner.\n[The boys follow the parents in. Shag carpeting, another sofa, an engine block doubling as a coffee table, a beer sign...]\n",
+    "output": "And his momma cried\n'Cause if there's one thing that she don't need\nIs another little hungry mouth to feed\nIn the ghetto In the ghetto\n[Stuart sits in his armchair.]\n"
+  },
+  {
+    "input": "And his momma cried\n'Cause if there's one thing that she don't need\nIs another little hungry mouth to feed\nIn the ghetto In the ghetto\n[Stuart sits in his armchair.]\n",
+    "output": "Sshh! Cartman!\n"
+  },
+  {
+    "input": "Sshh! Cartman!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[Setting the table.] Kenny, your little friends are here! Come play with them!\n"
+  },
+  {
+    "input": "[Setting the table.] Kenny, your little friends are here! Come play with them!\n",
+    "output": "(No, Mom, I'm seriously sick!)\n"
+  },
+  {
+    "input": "(No, Mom, I'm seriously sick!)\n",
+    "output": "I know you're sick! Now get your buns out here!\n"
+  },
+  {
+    "input": "I know you're sick! Now get your buns out here!\n",
+    "output": "Heheheh, buns.\n"
+  },
+  {
+    "input": "Heheheh, buns.\n",
+    "output": "[Walks up to the other boys.] (Hey you guys, what's goin' on?)\n"
+  },
+  {
+    "input": "[Walks up to the other boys.] (Hey you guys, what's goin' on?)\n",
+    "output": "Whoa, dude! You've got herpes on your face, too!\n"
+  },
+  {
+    "input": "Whoa, dude! You've got herpes on your face, too!\n",
+    "output": "[Scanning the room.] Where is the Nintendo?\n"
+  },
+  {
+    "input": "[Scanning the room.] Where is the Nintendo?\n",
+    "output": "We don't have a Nintendo. We got a ColecoVision hooked up to the black-and-white TV.\n[Rats scurry near the TV.]\n"
+  },
+  {
+    "input": "We don't have a Nintendo. We got a ColecoVision hooked up to the black-and-white TV.\n[Rats scurry near the TV.]\n",
+    "output": "Oh my God. This is like a third-world country.\n"
+  },
+  {
+    "input": "Oh my God. This is like a third-world country.\n",
+    "output": "[Now finished setting table.] Throw your sleeping bags in Kenny's room and then come grab some dinner.\n"
+  },
+  {
+    "input": "[Now finished setting table.] Throw your sleeping bags in Kenny's room and then come grab some dinner.\n",
+    "output": "Oh, good. I'm starving.\n[The boys are seated, as are Kenny's parents. Kenny's older brother comes to table. All there is to eat is a plate of 5 or 6 frozen waffles and a toaster to toast them in. The boys can only wonder.]\n"
+  },
+  {
+    "input": "Oh, good. I'm starving.\n[The boys are seated, as are Kenny's parents. Kenny's older brother comes to table. All there is to eat is a plate of 5 or 6 frozen waffles and a toaster to toast them in. The boys can only wonder.]\n",
+    "output": "Let's say grace.\n[The boys put their hands together.]\n"
+  },
+  {
+    "input": "Let's say grace.\n[The boys put their hands together.]\n",
+    "output": "Lord, we thank you for this staggering payload of frozen waffles you have bestowed upon us. And since we have been faithful to you, we know that you will send us some good fortune one of these days, even though you sure as hell seem to be taking your sweet time. Amen.\n"
+  },
+  {
+    "input": "Lord, we thank you for this staggering payload of frozen waffles you have bestowed upon us. And since we have been faithful to you, we know that you will send us some good fortune one of these days, even though you sure as hell seem to be taking your sweet time. Amen.\n",
+    "output": "Amen.\n"
+  },
+  {
+    "input": "Amen.\n",
+    "output": "Pfff..!\n"
+  },
+  {
+    "input": "Pfff..!\n",
+    "output": "Okay, let's dig in.\n[She drops a waffle into the toaster.]\n"
+  },
+  {
+    "input": "Okay, let's dig in.\n[She drops a waffle into the toaster.]\n",
+    "output": "That one's mine, that one's mine!\n"
+  },
+  {
+    "input": "That one's mine, that one's mine!\n",
+    "output": "[Coolly.] What kind of side dishes will we be enjoying this evening with our frozen waffles?\n[Everyone stops and waits.]\n"
+  },
+  {
+    "input": "[Coolly.] What kind of side dishes will we be enjoying this evening with our frozen waffles?\n[Everyone stops and waits.]\n",
+    "output": "Am I to understand there will be no side dishes?\n"
+  },
+  {
+    "input": "Am I to understand there will be no side dishes?\n",
+    "output": "So, Kyle, your dad's still bringing home those big, fat lawyer paychecks?\n"
+  },
+  {
+    "input": "So, Kyle, your dad's still bringing home those big, fat lawyer paychecks?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "Stuart, don't even get started!\n[She points at him.]\n"
+  },
+  {
+    "input": "Stuart, don't even get started!\n[She points at him.]\n",
+    "output": "[To his wife.] What? I'm just askin' a question. [To Kyle.] You know, your dad and I used to be best friends when we were teenagers. We would work together at Pizza Shack. But he got promoted and went off to community college and I didn't. And you know why? 'Cause your dad's Jewish!\n"
+  },
+  {
+    "input": "[To his wife.] What? I'm just askin' a question. [To Kyle.] You know, your dad and I used to be best friends when we were teenagers. We would work together at Pizza Shack. But he got promoted and went off to community college and I didn't. And you know why? 'Cause your dad's Jewish!\n",
+    "output": "Puh! I heard that.\n"
+  },
+  {
+    "input": "Puh! I heard that.\n",
+    "output": "That ain't why, Stuart! [Sadness creeps into her voice.] It's because you are an alcoholic retard and he had dreams of not eating frozen waffles for dinner every night!\n"
+  },
+  {
+    "input": "That ain't why, Stuart! [Sadness creeps into her voice.] It's because you are an alcoholic retard and he had dreams of not eating frozen waffles for dinner every night!\n",
+    "output": "Hey, is it my fault you don't know how to cook?!\n"
+  },
+  {
+    "input": "Hey, is it my fault you don't know how to cook?!\n",
+    "output": "What am I supposed to do with frozen waffles, clamhead?! You put 'em in the toaster and you cook 'em!\n"
+  },
+  {
+    "input": "What am I supposed to do with frozen waffles, clamhead?! You put 'em in the toaster and you cook 'em!\n",
+    "output": "You just don't know how to use spices and stuff.\n"
+  },
+  {
+    "input": "You just don't know how to use spices and stuff.\n",
+    "output": "[Gleefully.] My waffle's d-hun, my waffle's d-hu-hun!\n"
+  },
+  {
+    "input": "[Gleefully.] My waffle's d-hun, my waffle's d-hu-hun!\n",
+    "output": "Now Kevin, we ain't got enough for everybody. You have to split that with your brother.\n"
+  },
+  {
+    "input": "Now Kevin, we ain't got enough for everybody. You have to split that with your brother.\n",
+    "output": "Oh, Jesus, are you fucking kidding me?\n"
+  },
+  {
+    "input": "Oh, Jesus, are you fucking kidding me?\n",
+    "output": "Hey! We don't say \"fuck\" at the table, you little asshole!\n"
+  },
+  {
+    "input": "Hey! We don't say \"fuck\" at the table, you little asshole!\n",
+    "output": "[Hushed.] Heh, we apparently don't say 'side dishes' at the table, either.\n"
+  },
+  {
+    "input": "[Hushed.] Heh, we apparently don't say 'side dishes' at the table, either.\n",
+    "output": "(Aa-choo!)\n"
+  },
+  {
+    "input": "(Aa-choo!)\n",
+    "output": "Kenny, honey, if you're going to sneeze, sneeze on them.\n"
+  },
+  {
+    "input": "Kenny, honey, if you're going to sneeze, sneeze on them.\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "[Turning towards Cartman.] (Waa-choo!)\n"
+  },
+  {
+    "input": "[Turning towards Cartman.] (Waa-choo!)\n",
+    "output": "[Recoiling.] Ey!\n[Cartman closes both his eyes, but then opens the right one. Later, in Kenny's room. Kenny has two posters of bikini-clad women and one of a 4X4 monster truck. His curtains are tatters and his dresser drawer is a battered suitcase. His bed has no frame to rest on.]\n"
+  },
+  {
+    "input": "[Recoiling.] Ey!\n[Cartman closes both his eyes, but then opens the right one. Later, in Kenny's room. Kenny has two posters of bikini-clad women and one of a 4X4 monster truck. His curtains are tatters and his dresser drawer is a battered suitcase. His bed has no frame to rest on.]\n",
+    "output": "Man, your family sucks ass, Kenny. Whoever heard of frozen waffles for dinner?\n"
+  },
+  {
+    "input": "Man, your family sucks ass, Kenny. Whoever heard of frozen waffles for dinner?\n",
+    "output": "Come on! Let's just get in our sleeping bags and get this night over with.\n[The boys go to their respective sleeping bags while Kenny goes to his bed. The boys roll down their bags and Stan and Kyle have Terrance and Phillip sleeping bags, Cartman however...]\n"
+  },
+  {
+    "input": "Come on! Let's just get in our sleeping bags and get this night over with.\n[The boys go to their respective sleeping bags while Kenny goes to his bed. The boys roll down their bags and Stan and Kyle have Terrance and Phillip sleeping bags, Cartman however...]\n",
+    "output": "Cartman, what the hell is that?\n"
+  },
+  {
+    "input": "Cartman, what the hell is that?\n",
+    "output": "It's my Urkel sleeping bag. Isn't it coool?\n"
+  },
+  {
+    "input": "It's my Urkel sleeping bag. Isn't it coool?\n",
+    "output": "No, it's not cool!\n"
+  },
+  {
+    "input": "No, it's not cool!\n",
+    "output": "Dude, I think I just saw a rat!\n"
+  },
+  {
+    "input": "Dude, I think I just saw a rat!\n",
+    "output": "Argh! You have rats in your house, too, Kenny?!\n"
+  },
+  {
+    "input": "Argh! You have rats in your house, too, Kenny?!\n",
+    "output": "(Uh-huh.)\n"
+  },
+  {
+    "input": "(Uh-huh.)\n",
+    "output": "Dude, seriously, you'd better stop being so poor, or else I'm gonna start huckin' rocks atcha.\n"
+  },
+  {
+    "input": "Dude, seriously, you'd better stop being so poor, or else I'm gonna start huckin' rocks atcha.\n",
+    "output": "I don't think it's very healthy to sleep with rats.\n"
+  },
+  {
+    "input": "I don't think it's very healthy to sleep with rats.\n",
+    "output": "(Well, there's gonna be a bunch of rats until they put the freakin' ceiling in.)\n"
+  },
+  {
+    "input": "(Well, there's gonna be a bunch of rats until they put the freakin' ceiling in.)\n",
+    "output": "Oh.\n[The boys settle into their sleeping blankets, and Kenny claps twice, making the lights go out.]\n"
+  },
+  {
+    "input": "Oh.\n[The boys settle into their sleeping blankets, and Kenny claps twice, making the lights go out.]\n",
+    "output": "(Aa-choo!)\n[The next day. The boys have gone back home. First up: Stan's house. Stan has a thermometer in his mouth and his skin is starting to break out.]\n"
+  },
+  {
+    "input": "(Aa-choo!)\n[The next day. The boys have gone back home. First up: Stan's house. Stan has a thermometer in his mouth and his skin is starting to break out.]\n",
+    "output": "Okay, lemme see.\n[She withdraws the thermometer, and reads it.]\n"
+  },
+  {
+    "input": "Okay, lemme see.\n[She withdraws the thermometer, and reads it.]\n",
+    "output": "Oh, goody! You've got a fever!\n"
+  },
+  {
+    "input": "Oh, goody! You've got a fever!\n",
+    "output": "[Mad.] Goody? What do you mean, \"goody\"?!\n"
+  },
+  {
+    "input": "[Mad.] Goody? What do you mean, \"goody\"?!\n",
+    "output": "Yyup, it looks like you've got chickenpox alright.\n"
+  },
+  {
+    "input": "Yyup, it looks like you've got chickenpox alright.\n",
+    "output": "Chickenpo--? Oh no, I must have caught it from Kenny last night.\n"
+  },
+  {
+    "input": "Chickenpo--? Oh no, I must have caught it from Kenny last night.\n",
+    "output": "Oh, gee, I guess you did.\n"
+  },
+  {
+    "input": "Oh, gee, I guess you did.\n",
+    "output": "Well, you sure seem happy about it!\n"
+  },
+  {
+    "input": "Well, you sure seem happy about it!\n",
+    "output": "All right, it's off to bed with you, young man.\n[Cartman's house. Cartman is on the sofa scratching at his skin.]\n"
+  },
+  {
+    "input": "All right, it's off to bed with you, young man.\n[Cartman's house. Cartman is on the sofa scratching at his skin.]\n",
+    "output": "Don't scratch it, hon.\n"
+  },
+  {
+    "input": "Don't scratch it, hon.\n",
+    "output": "[Whining.] But mom, seriously, it itches. I can't stand it!\n"
+  },
+  {
+    "input": "[Whining.] But mom, seriously, it itches. I can't stand it!\n",
+    "output": "No, hon.\n"
+  },
+  {
+    "input": "No, hon.\n",
+    "output": "[Whining.] Mom, seriously, it itches. It itches!\n"
+  },
+  {
+    "input": "[Whining.] Mom, seriously, it itches. It itches!\n",
+    "output": "Here, I got you some calamine lotion.\n[She hands the bottle to him.]\n"
+  },
+  {
+    "input": "Here, I got you some calamine lotion.\n[She hands the bottle to him.]\n",
+    "output": "I don't wanna.\n"
+  },
+  {
+    "input": "I don't wanna.\n",
+    "output": "It'll make your itches go away.\n[She opens the bottle and rubs some lotion on his face.]\n"
+  },
+  {
+    "input": "It'll make your itches go away.\n[She opens the bottle and rubs some lotion on his face.]\n",
+    "output": "Ugh. Uunnh.\n[She stops.]\n"
+  },
+  {
+    "input": "Ugh. Uunnh.\n[She stops.]\n",
+    "output": "Ey, give me that!\n[He takes the bottle and rubs some more lotion on his face.]\n"
+  },
+  {
+    "input": "Ey, give me that!\n[He takes the bottle and rubs some more lotion on his face.]\n",
+    "output": "Ahhhh...\n"
+  },
+  {
+    "input": "Ahhhh...\n",
+    "output": "Not too much, hon. It says on the bottle that too much can be bad.\n"
+  },
+  {
+    "input": "Not too much, hon. It says on the bottle that too much can be bad.\n",
+    "output": "More calamine lotion!\n[Kyle's house. His parents look him over.]\n"
+  },
+  {
+    "input": "More calamine lotion!\n[Kyle's house. His parents look him over.]\n",
+    "output": "I don't understand it. He's perfectly healthy.\n"
+  },
+  {
+    "input": "I don't understand it. He's perfectly healthy.\n",
+    "output": "Yeah. I feel great!\n"
+  },
+  {
+    "input": "Yeah. I feel great!\n",
+    "output": "Are you sure you stayed over at Kenny's house?\n"
+  },
+  {
+    "input": "Are you sure you stayed over at Kenny's house?\n",
+    "output": "Yeah, dude. I told you, we had bread sandwiches for breakfast.\n"
+  },
+  {
+    "input": "Yeah, dude. I told you, we had bread sandwiches for breakfast.\n",
+    "output": "Did you sleep in the same room?\n"
+  },
+  {
+    "input": "Did you sleep in the same room?\n",
+    "output": "Yes. Why?\n"
+  },
+  {
+    "input": "Yes. Why?\n",
+    "output": "Bubbe, how would you like to spend the night at your friend Kenny's house again?\n"
+  },
+  {
+    "input": "Bubbe, how would you like to spend the night at your friend Kenny's house again?\n",
+    "output": "No way, dude! It sucked ass! They don't even have cable!\n"
+  },
+  {
+    "input": "No way, dude! It sucked ass! They don't even have cable!\n",
+    "output": "Well I think you need to spend more time with your friends.\n"
+  },
+  {
+    "input": "Well I think you need to spend more time with your friends.\n",
+    "output": "Kenny's not really my friend, Ma. I don't give a rat's ass about him.\n"
+  },
+  {
+    "input": "Kenny's not really my friend, Ma. I don't give a rat's ass about him.\n",
+    "output": "I'm gonna give Mrs. McCormick a call.\n"
+  },
+  {
+    "input": "I'm gonna give Mrs. McCormick a call.\n",
+    "output": "Aawwww! Hey Dad. Is it true that you and Kenny's dad used to be best friends when you were young?\n"
+  },
+  {
+    "input": "Aawwww! Hey Dad. Is it true that you and Kenny's dad used to be best friends when you were young?\n",
+    "output": "Who? Stuart? Yeah, yeah, I guess we were.\n"
+  },
+  {
+    "input": "Who? Stuart? Yeah, yeah, I guess we were.\n",
+    "output": "Well how come Kenny's family eats frozen waffles for dinner and has rats on the floor, and we have a big house and lots of food?\n"
+  },
+  {
+    "input": "Well how come Kenny's family eats frozen waffles for dinner and has rats on the floor, and we have a big house and lots of food?\n",
+    "output": "Well, because Kenny's family doesn't have as much money as we do.\n"
+  },
+  {
+    "input": "Well, because Kenny's family doesn't have as much money as we do.\n",
+    "output": "But why? If they're hungry and poor, why don't we just always give them half of our food?\n"
+  },
+  {
+    "input": "But why? If they're hungry and poor, why don't we just always give them half of our food?\n",
+    "output": "Ha ha ha ha ha! Ooh-ho boy, have you got a lot to learn! Sit down, son.\n[Gerald sits and motions for Kyle to sit on his lap.]\n"
+  },
+  {
+    "input": "Ha ha ha ha ha! Ooh-ho boy, have you got a lot to learn! Sit down, son.\n[Gerald sits and motions for Kyle to sit on his lap.]\n",
+    "output": "You see, Kyle, we humans work as a society, and in order for a society to thrive, we need gods, and clods.\n"
+  },
+  {
+    "input": "You see, Kyle, we humans work as a society, and in order for a society to thrive, we need gods, and clods.\n",
+    "output": "Gods and clods?\n"
+  },
+  {
+    "input": "Gods and clods?\n",
+    "output": "Yes. You see, I spent a lot of time going to law school, and I was able to go because I have a slightly higher intellect than others. But I still need people to pump my gas, and make my French fries, and fix my laundry machine when it breaks down.\n"
+  },
+  {
+    "input": "Yes. You see, I spent a lot of time going to law school, and I was able to go because I have a slightly higher intellect than others. But I still need people to pump my gas, and make my French fries, and fix my laundry machine when it breaks down.\n",
+    "output": "Oooohh, I see. Gods and clods!\n"
+  },
+  {
+    "input": "Oooohh, I see. Gods and clods!\n",
+    "output": "That's right. So Kenny's family is happy just the way they are, and we're all a functioning part of America.\n[Stan's house, night time. Stan is in bed, motionless.]\n"
+  },
+  {
+    "input": "That's right. So Kenny's family is happy just the way they are, and we're all a functioning part of America.\n[Stan's house, night time. Stan is in bed, motionless.]\n",
+    "output": "[Enters.] Stanley, can I get you anything else?\n[She draws closer and feels his forehead.]\n"
+  },
+  {
+    "input": "[Enters.] Stanley, can I get you anything else?\n[She draws closer and feels his forehead.]\n",
+    "output": "Stanley? Oh my God! Randy?! Randy, hurry, he's burning up!\n[Next day, Hell's Pass Hospital. Stan now lies next to Shelly. Their parents are also present.]\n"
+  },
+  {
+    "input": "Stanley? Oh my God! Randy?! Randy, hurry, he's burning up!\n[Next day, Hell's Pass Hospital. Stan now lies next to Shelly. Their parents are also present.]\n",
+    "output": "Don't you worry, Stanley, you're going to be okay.\n"
+  },
+  {
+    "input": "Don't you worry, Stanley, you're going to be okay.\n",
+    "output": "[Entering.] Can I talk to you outside?\n"
+  },
+  {
+    "input": "[Entering.] Can I talk to you outside?\n",
+    "output": "Kids, Daddy and I are gonna be right back, okay?\n"
+  },
+  {
+    "input": "Kids, Daddy and I are gonna be right back, okay?\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "[Now that they're alone.] Serves you right, you little brat!\n"
+  },
+  {
+    "input": "[Now that they're alone.] Serves you right, you little brat!\n",
+    "output": "Well at least I'm not gonna die from it like you might! Ha-ha-ha-ha-ha!\n"
+  },
+  {
+    "input": "Well at least I'm not gonna die from it like you might! Ha-ha-ha-ha-ha!\n",
+    "output": "If I die from this, I'm taking you with me!\n"
+  },
+  {
+    "input": "If I die from this, I'm taking you with me!\n",
+    "output": "[\"Passion Cramps\"] Will Carol find out she's a fa...\n"
+  },
+  {
+    "input": "[\"Passion Cramps\"] Will Carol find out she's a fa...\n",
+    "output": "I don't wanna watch this! I wanna watch Terrance and Phillip!\n"
+  },
+  {
+    "input": "I don't wanna watch this! I wanna watch Terrance and Phillip!\n",
+    "output": "[Threatening] We're watching this!\n"
+  },
+  {
+    "input": "[Threatening] We're watching this!\n",
+    "output": "Well I've got the remote, bitch! Hahaha. [Click.]\n"
+  },
+  {
+    "input": "Well I've got the remote, bitch! Hahaha. [Click.]\n",
+    "output": "Say, Terrance? Will you check my ass for abnormalities?\n[Phillip raises his leg high.]\n"
+  },
+  {
+    "input": "Say, Terrance? Will you check my ass for abnormalities?\n[Phillip raises his leg high.]\n",
+    "output": "Sure thing, Phillip.\n[Terrance sticks his head in there, and Phillip farts on him.]\n"
+  },
+  {
+    "input": "Sure thing, Phillip.\n[Terrance sticks his head in there, and Phillip farts on him.]\n",
+    "output": "Ah ha ha ha, you got me again!\n[Stan laughs.]\n"
+  },
+  {
+    "input": "Ah ha ha ha, you got me again!\n[Stan laughs.]\n",
+    "output": "That's tomfoolery.\n[Stan laughs, as do Terrance and Phillip.]\n"
+  },
+  {
+    "input": "That's tomfoolery.\n[Stan laughs, as do Terrance and Phillip.]\n",
+    "output": "Give me the remote!\n"
+  },
+  {
+    "input": "Give me the remote!\n",
+    "output": "No way, dude! We're gonna watch Terrance and Phillip all day--\n[She reaches over to his bed, presses a switch, and his bed folds in on him.]\n"
+  },
+  {
+    "input": "No way, dude! We're gonna watch Terrance and Phillip all day--\n[She reaches over to his bed, presses a switch, and his bed folds in on him.]\n",
+    "output": "Ey! Get me out of here!\n[Shelly takes the remote and switches channels.]\n"
+  },
+  {
+    "input": "Ey! Get me out of here!\n[Shelly takes the remote and switches channels.]\n",
+    "output": "[\"Passion Cramps\"] She was...\n[Meanwhile, outside the room.]\n"
+  },
+  {
+    "input": "[\"Passion Cramps\"] She was...\n[Meanwhile, outside the room.]\n",
+    "output": "He'll be okay, but it's a good idea for us to monitor him for a while.\n"
+  },
+  {
+    "input": "He'll be okay, but it's a good idea for us to monitor him for a while.\n",
+    "output": "[Anxious.] Oh God, what have we done?\n"
+  },
+  {
+    "input": "[Anxious.] Oh God, what have we done?\n",
+    "output": "There there now, it's not your fault.\n"
+  },
+  {
+    "input": "There there now, it's not your fault.\n",
+    "output": "Doctor, we-uuuh purposefully sent our son to stay with a friend who had chickenpox so that he would get it early.\n"
+  },
+  {
+    "input": "Doctor, we-uuuh purposefully sent our son to stay with a friend who had chickenpox so that he would get it early.\n",
+    "output": "Oh, wow, you did? Wow. You guys suck.\n[Kenny's house. Kyle and his mom are visiting. She's talking with Mrs. McCormick in the dining room. Kenny and Kyle enter.]\n"
+  },
+  {
+    "input": "Oh, wow, you did? Wow. You guys suck.\n[Kenny's house. Kyle and his mom are visiting. She's talking with Mrs. McCormick in the dining room. Kenny and Kyle enter.]\n",
+    "output": "Could we go home now, Ma?\n"
+  },
+  {
+    "input": "Could we go home now, Ma?\n",
+    "output": "No, bubbeleh. You play with Kenny some more.\n"
+  },
+  {
+    "input": "No, bubbeleh. You play with Kenny some more.\n",
+    "output": "But we've been playing for eight hours. We can't think of anything else to do.\n"
+  },
+  {
+    "input": "But we've been playing for eight hours. We can't think of anything else to do.\n",
+    "output": "I've got a great game for you. It's called \"ookie mouth\".\n"
+  },
+  {
+    "input": "I've got a great game for you. It's called \"ookie mouth\".\n",
+    "output": "What's \"ookie mouth\"?\n"
+  },
+  {
+    "input": "What's \"ookie mouth\"?\n",
+    "output": "First, you let Kenny spit in your mouth. Then you try to swallow his spit and say \"ookie mouth\" at the same time.\n"
+  },
+  {
+    "input": "First, you let Kenny spit in your mouth. Then you try to swallow his spit and say \"ookie mouth\" at the same time.\n",
+    "output": "Sick, dude!\n"
+  },
+  {
+    "input": "Sick, dude!\n",
+    "output": "No, no, bubbe, it's loads of fun. Try it.\n[Kenny and Kyle look at each other and walk away.]\n"
+  },
+  {
+    "input": "No, no, bubbe, it's loads of fun. Try it.\n[Kenny and Kyle look at each other and walk away.]\n",
+    "output": "That ought to take care of it.\n"
+  },
+  {
+    "input": "That ought to take care of it.\n",
+    "output": "You want some more hot water?\n"
+  },
+  {
+    "input": "You want some more hot water?\n",
+    "output": "Oh, no thank you. It's terrific though, it's-- You don't have any tea bags or coffee grounds to go in the hot water, do you?\n"
+  },
+  {
+    "input": "Oh, no thank you. It's terrific though, it's-- You don't have any tea bags or coffee grounds to go in the hot water, do you?\n",
+    "output": "Naw, we don't go for that hoity-toity rich folk stuff.\n"
+  },
+  {
+    "input": "Naw, we don't go for that hoity-toity rich folk stuff.\n",
+    "output": "I see. Well, you certainly have aab- humble home, Mrs. McCormick.\n"
+  },
+  {
+    "input": "I see. Well, you certainly have aab- humble home, Mrs. McCormick.\n",
+    "output": "Yehah, well, unfortunately my husband is a washed-up hunk of shit!\n"
+  },
+  {
+    "input": "Yehah, well, unfortunately my husband is a washed-up hunk of shit!\n",
+    "output": "Oh, I'm sorry to hear that.\n"
+  },
+  {
+    "input": "Oh, I'm sorry to hear that.\n",
+    "output": "Ookie mouth! [Kenny spits in.] Gross! I can't do it, Ma!\n"
+  },
+  {
+    "input": "Ookie mouth! [Kenny spits in.] Gross! I can't do it, Ma!\n",
+    "output": "Try again, bubbe!\n[Kenny spits in Kyle's mouth again.]\n"
+  },
+  {
+    "input": "Try again, bubbe!\n[Kenny spits in Kyle's mouth again.]\n",
+    "output": "Argh!\n"
+  },
+  {
+    "input": "Argh!\n",
+    "output": "You know, your husband and mine used to work together as teenagers.\n"
+  },
+  {
+    "input": "You know, your husband and mine used to work together as teenagers.\n",
+    "output": "Oh they wuz best friends; you couldn't separate 'em.\n"
+  },
+  {
+    "input": "Oh they wuz best friends; you couldn't separate 'em.\n",
+    "output": "Really? I met Gerald in college, so I didn't know. What happened to them?\n"
+  },
+  {
+    "input": "Really? I met Gerald in college, so I didn't know. What happened to them?\n",
+    "output": "Oh they jus' grew apart, I guess. I think Stuart's a little jealous that your husband got out of makin' pizzas and went on to make somethin' of hisself.\n"
+  },
+  {
+    "input": "Oh they jus' grew apart, I guess. I think Stuart's a little jealous that your husband got out of makin' pizzas and went on to make somethin' of hisself.\n",
+    "output": "Well that's too bad. I'm sure your husband's a fine man.\n"
+  },
+  {
+    "input": "Well that's too bad. I'm sure your husband's a fine man.\n",
+    "output": "Oh, hell no! He's a nugget o' deer turd.\n"
+  },
+  {
+    "input": "Oh, hell no! He's a nugget o' deer turd.\n",
+    "output": "But if they were such good friends it seems silly that they don't even talk anymore. Let's get them together!\n"
+  },
+  {
+    "input": "But if they were such good friends it seems silly that they don't even talk anymore. Let's get them together!\n",
+    "output": "Uh-I don't know.\n"
+  },
+  {
+    "input": "Uh-I don't know.\n",
+    "output": "We'll just arrange a little fishing trip for them or something.\n[Kyle returns with Kenny.]\n"
+  },
+  {
+    "input": "We'll just arrange a little fishing trip for them or something.\n[Kyle returns with Kenny.]\n",
+    "output": "I can't say \"ookie mouth\" and have Kenny spit down my throat at the same time. It's impossible.\n[Kyle's face and hat are covered in spit.]\n"
+  },
+  {
+    "input": "I can't say \"ookie mouth\" and have Kenny spit down my throat at the same time. It's impossible.\n[Kyle's face and hat are covered in spit.]\n",
+    "output": "Practice makes perfect, bubbe.\n[Cartman's house. Cartman's on the sofa watching TV, scratching his face.]\n"
+  },
+  {
+    "input": "Practice makes perfect, bubbe.\n[Cartman's house. Cartman's on the sofa watching TV, scratching his face.]\n",
+    "output": "Dammit, where's that calamine lotion?!\n"
+  },
+  {
+    "input": "Dammit, where's that calamine lotion?!\n",
+    "output": "[With clipboard.] Phillip, I've got good news, and bad news.\n"
+  },
+  {
+    "input": "[With clipboard.] Phillip, I've got good news, and bad news.\n",
+    "output": "Give it to me straight, Terrance.\n"
+  },
+  {
+    "input": "Give it to me straight, Terrance.\n",
+    "output": "The good news is, you have a clean bill of health.\n"
+  },
+  {
+    "input": "The good news is, you have a clean bill of health.\n",
+    "output": "Oh, what a relief!\n"
+  },
+  {
+    "input": "Oh, what a relief!\n",
+    "output": "The bad news is, you have cancer.\n[Cartman is shocked.]\n"
+  },
+  {
+    "input": "The bad news is, you have cancer.\n[Cartman is shocked.]\n",
+    "output": "Cancer?\n"
+  },
+  {
+    "input": "Cancer?\n",
+    "output": "Yes. I'm afraid your ass is collapsing.\n"
+  },
+  {
+    "input": "Yes. I'm afraid your ass is collapsing.\n",
+    "output": "My ass is collapsing?\n"
+  },
+  {
+    "input": "My ass is collapsing?\n",
+    "output": "Yes. See this X-ray? [Turns it on.] That's your ass. See this line? [Points to it.] That's your ass collapsing. Your ass is collapsing.\n"
+  },
+  {
+    "input": "Yes. See this X-ray? [Turns it on.] That's your ass. See this line? [Points to it.] That's your ass collapsing. Your ass is collapsing.\n",
+    "output": "Will this mean that I won't be able to fart anymore?\n"
+  },
+  {
+    "input": "Will this mean that I won't be able to fart anymore?\n",
+    "output": "No, it means that you won't be able to live anymore.\n[They both laugh.]\n"
+  },
+  {
+    "input": "No, it means that you won't be able to live anymore.\n[They both laugh.]\n",
+    "output": "[Somber.] Oh, no. [The itching returns.] Damnit!\n[Mr. Kitty strolls by.]\n"
+  },
+  {
+    "input": "[Somber.] Oh, no. [The itching returns.] Damnit!\n[Mr. Kitty strolls by.]\n",
+    "output": "No, Kitty! That's a-- Wait a minute. Come 'ere, Kitty!\n[Kitty jumps up and Cartman uses him as a scrubber.]\n"
+  },
+  {
+    "input": "No, Kitty! That's a-- Wait a minute. Come 'ere, Kitty!\n[Kitty jumps up and Cartman uses him as a scrubber.]\n",
+    "output": "Uh. Yes. Uh...\n"
+  },
+  {
+    "input": "Uh. Yes. Uh...\n",
+    "output": "[Closing a door.] I'm back, hon. I got some more calamine lotion.\n"
+  },
+  {
+    "input": "[Closing a door.] I'm back, hon. I got some more calamine lotion.\n",
+    "output": "[Releases Mr. Kitty.] It's about friggin' time! Give me that!\n[He grabs the bag and hurries up the stairs.]\n"
+  },
+  {
+    "input": "[Releases Mr. Kitty.] It's about friggin' time! Give me that!\n[He grabs the bag and hurries up the stairs.]\n",
+    "output": "Just use a little bit of that stuff, hon. It has to last a while.\n[Cartman reaches the bathroom and closes the door. Then he opens the bag and pulls out six bottles of the lotion and pours them into the tub. Then he undresses and jumps into the tub.]\n"
+  },
+  {
+    "input": "Just use a little bit of that stuff, hon. It has to last a while.\n[Cartman reaches the bathroom and closes the door. Then he opens the bag and pulls out six bottles of the lotion and pours them into the tub. Then he undresses and jumps into the tub.]\n",
+    "output": "Uugh! Yeessss. [His voice trails off.] Ooohhh yyou guys, seriiously, it calms yer ass. Ahhhh...\n[He sinks into the water blissfully as bubbles pop around him. Meanwhile, Gerald and Stuart are driving to the river for a fishing trip.]\n"
+  },
+  {
+    "input": "Uugh! Yeessss. [His voice trails off.] Ooohhh yyou guys, seriiously, it calms yer ass. Ahhhh...\n[He sinks into the water blissfully as bubbles pop around him. Meanwhile, Gerald and Stuart are driving to the river for a fishing trip.]\n",
+    "output": "I didn't know you like to fish, Gerry.\n"
+  },
+  {
+    "input": "I didn't know you like to fish, Gerry.\n",
+    "output": "Oh, yeah, love it! I haven't done it for a while, though. I had to go out and buy a few things, you know a-. A rod and a reel and an uh, uuh...\n"
+  },
+  {
+    "input": "Oh, yeah, love it! I haven't done it for a while, though. I had to go out and buy a few things, you know a-. A rod and a reel and an uh, uuh...\n",
+    "output": "Tackle box?\n"
+  },
+  {
+    "input": "Tackle box?\n",
+    "output": "Yeah, tackle box. [Stretches.] Man, smell that mountain air. What a great Saturday morning; aren't weekends just the best?\n"
+  },
+  {
+    "input": "Yeah, tackle box. [Stretches.] Man, smell that mountain air. What a great Saturday morning; aren't weekends just the best?\n",
+    "output": "When you're uh-unemployed, weekends are meaningless.\n"
+  },
+  {
+    "input": "When you're uh-unemployed, weekends are meaningless.\n",
+    "output": "Right. Right-right.\n[Monday afternoon, South Park Elementary. The dismissal bell rings.]\n"
+  },
+  {
+    "input": "Right. Right-right.\n[Monday afternoon, South Park Elementary. The dismissal bell rings.]\n",
+    "output": "And so, children, that's how you tell a prostitute from a policeman. Now, are there any questions?\n[Kyle raises his hand.]\n"
+  },
+  {
+    "input": "And so, children, that's how you tell a prostitute from a policeman. Now, are there any questions?\n[Kyle raises his hand.]\n",
+    "output": "Yes, Kyle?\n"
+  },
+  {
+    "input": "Yes, Kyle?\n",
+    "output": "What the hell does that have to do with American history?\n"
+  },
+  {
+    "input": "What the hell does that have to do with American history?\n",
+    "output": "Uh, that's a good question, Kyle. Are there any other questions?\n"
+  },
+  {
+    "input": "Uh, that's a good question, Kyle. Are there any other questions?\n",
+    "output": "Mr. Garrison, I'm the only one here. Everyone else has chicken herpes.\n"
+  },
+  {
+    "input": "Mr. Garrison, I'm the only one here. Everyone else has chicken herpes.\n",
+    "output": "Right, right. Uhh... Well, class, I'm going to assign you all a paper. The theme of the paper will be, \"How I would make America better.\"\n"
+  },
+  {
+    "input": "Right, right. Uhh... Well, class, I'm going to assign you all a paper. The theme of the paper will be, \"How I would make America better.\"\n",
+    "output": "What?! Does everybody have to do it, or just me?\n"
+  },
+  {
+    "input": "What?! Does everybody have to do it, or just me?\n",
+    "output": "Uh, don't worry, Kyle. I'm sending homework to all the children who are out sick. They'll have to turn in a paper, too.\n[Hell's Pass Hospital.]\n"
+  },
+  {
+    "input": "Uh, don't worry, Kyle. I'm sending homework to all the children who are out sick. They'll have to turn in a paper, too.\n[Hell's Pass Hospital.]\n",
+    "output": "Homework?! But I'm in the hospital!\n"
+  },
+  {
+    "input": "Homework?! But I'm in the hospital!\n",
+    "output": "Well, your teacher sent this stuff over for you to do while you're sick.\n"
+  },
+  {
+    "input": "Well, your teacher sent this stuff over for you to do while you're sick.\n",
+    "output": "That son of a bitch! What kind of sick weirdo is he?\n"
+  },
+  {
+    "input": "That son of a bitch! What kind of sick weirdo is he?\n",
+    "output": "Now, Stanley, I know at your age teachers can seem cold and heartless, but later, you'll understand that he did this for your own good.\n"
+  },
+  {
+    "input": "Now, Stanley, I know at your age teachers can seem cold and heartless, but later, you'll understand that he did this for your own good.\n",
+    "output": "Not Mr. Garrison, Ma. He really is a sick weirdo.\n"
+  },
+  {
+    "input": "Not Mr. Garrison, Ma. He really is a sick weirdo.\n",
+    "output": "Yeah, it's-it's true, he is.\n"
+  },
+  {
+    "input": "Yeah, it's-it's true, he is.\n",
+    "output": "Oh. Well, anyway, here's a pencil and some paper.\n"
+  },
+  {
+    "input": "Oh. Well, anyway, here's a pencil and some paper.\n",
+    "output": "Wait! Where are you going?\n"
+  },
+  {
+    "input": "Wait! Where are you going?\n",
+    "output": "We're going down to-uhh Happy Burger for some milkshakes.\n"
+  },
+  {
+    "input": "We're going down to-uhh Happy Burger for some milkshakes.\n",
+    "output": "Milkshakes?!\n"
+  },
+  {
+    "input": "Milkshakes?!\n",
+    "output": "Yeah, and then we're going to the movies.\n"
+  },
+  {
+    "input": "Yeah, and then we're going to the movies.\n",
+    "output": "See ya, son. [They leave.]\n"
+  },
+  {
+    "input": "See ya, son. [They leave.]\n",
+    "output": "Weak!\n[Kyle's house. Kyle is on the sofa working on his paper.]\n"
+  },
+  {
+    "input": "Weak!\n[Kyle's house. Kyle is on the sofa working on his paper.]\n",
+    "output": "\"So this is how America works. We have gods and clods. My dad says America needs both rich and poor to survive, but I have a better idea.\"\n[Kyle puts down the pen and paper and walks over to the kitchen.]\n"
+  },
+  {
+    "input": "\"So this is how America works. We have gods and clods. My dad says America needs both rich and poor to survive, but I have a better idea.\"\n[Kyle puts down the pen and paper and walks over to the kitchen.]\n",
+    "output": "No I don't understand it, Dr. Schwartz, he's perfectly healthy.\n[Sheila is on the phone, Kyle is over by the microwave.]\n"
+  },
+  {
+    "input": "No I don't understand it, Dr. Schwartz, he's perfectly healthy.\n[Sheila is on the phone, Kyle is over by the microwave.]\n",
+    "output": "He's been over at Kenny's house three days in a row and still hasn't caught the chickenpox.\n"
+  },
+  {
+    "input": "He's been over at Kenny's house three days in a row and still hasn't caught the chickenpox.\n",
+    "output": "[Softly.] What?\n"
+  },
+  {
+    "input": "[Softly.] What?\n",
+    "output": "I don't know what else to do. We sent the other boys over and they all got sick, but I can't get my little Kyle to catch it.\n"
+  },
+  {
+    "input": "I don't know what else to do. We sent the other boys over and they all got sick, but I can't get my little Kyle to catch it.\n",
+    "output": "[Frightened.] Oh my God!\n"
+  },
+  {
+    "input": "[Frightened.] Oh my God!\n",
+    "output": "[Turns.] Kyle, what are you doing there, honey?\n"
+  },
+  {
+    "input": "[Turns.] Kyle, what are you doing there, honey?\n",
+    "output": "[Angry.] You!\n"
+  },
+  {
+    "input": "[Angry.] You!\n",
+    "output": "[Subdued.] I'll call you back, Dr. Schwartz.\n[She hangs up.]\n"
+  },
+  {
+    "input": "[Subdued.] I'll call you back, Dr. Schwartz.\n[She hangs up.]\n",
+    "output": "You!\n"
+  },
+  {
+    "input": "You!\n",
+    "output": "[Walks over.] What, bubbeleh, what is it?\n"
+  },
+  {
+    "input": "[Walks over.] What, bubbeleh, what is it?\n",
+    "output": "You sent us over to Kenny's house on purpose! You wanted us to get sick!\n"
+  },
+  {
+    "input": "You sent us over to Kenny's house on purpose! You wanted us to get sick!\n",
+    "output": "Oy. It was for your own good, Kyle. I wanted you to get chickenpox while you were young.\n"
+  },
+  {
+    "input": "Oy. It was for your own good, Kyle. I wanted you to get chickenpox while you were young.\n",
+    "output": "Why?! So I could be sitting in the hospital waiting to die, like Stan?!\n"
+  },
+  {
+    "input": "Why?! So I could be sitting in the hospital waiting to die, like Stan?!\n",
+    "output": "Now, Kyle, come here.\n"
+  },
+  {
+    "input": "Now, Kyle, come here.\n",
+    "output": "You get away from me, you crazy woman!\n[He runs off.]\n"
+  },
+  {
+    "input": "You get away from me, you crazy woman!\n[He runs off.]\n",
+    "output": "Hoh boy.\n[Down by the riverside. Stuart and Gerald are fishing.]\n"
+  },
+  {
+    "input": "Hoh boy.\n[Down by the riverside. Stuart and Gerald are fishing.]\n",
+    "output": "Beer?\n"
+  },
+  {
+    "input": "Beer?\n",
+    "output": "Huh? Oh, uh, no thanks, I brought my own. Microbrew sampler from Aspen. Has six different beers from local breweries.\n[Stuart is expressionless.]\n"
+  },
+  {
+    "input": "Huh? Oh, uh, no thanks, I brought my own. Microbrew sampler from Aspen. Has six different beers from local breweries.\n[Stuart is expressionless.]\n",
+    "output": "Sahay, remember that time we built the fort in your mom's back yard?\n"
+  },
+  {
+    "input": "Sahay, remember that time we built the fort in your mom's back yard?\n",
+    "output": "Hu hu hu hu heh yeah. It took us damn near two years to finish it.\n"
+  },
+  {
+    "input": "Hu hu hu hu heh yeah. It took us damn near two years to finish it.\n",
+    "output": "Hahah. Whatever happened to that old hunk o' junk? Haha--\n"
+  },
+  {
+    "input": "Hahah. Whatever happened to that old hunk o' junk? Haha--\n",
+    "output": "[Soberly.] That's where I live now.\n"
+  },
+  {
+    "input": "[Soberly.] That's where I live now.\n",
+    "output": "Oh, right.\n[Hell's Pass Hospital. Stan is working on his paper.]\n"
+  },
+  {
+    "input": "Oh, right.\n[Hell's Pass Hospital. Stan is working on his paper.]\n",
+    "output": "And so that's why Knight Rider was the best show in America.\n"
+  },
+  {
+    "input": "And so that's why Knight Rider was the best show in America.\n",
+    "output": "[Rushing in.] Stan! Stan!\n"
+  },
+  {
+    "input": "[Rushing in.] Stan! Stan!\n",
+    "output": "[Pointing to Shelly.] Sshh. Wake her up and we're both dead.\n"
+  },
+  {
+    "input": "[Pointing to Shelly.] Sshh. Wake her up and we're both dead.\n",
+    "output": "[Softly.] Sorry, sorry. You know how after we spent the night at Kenny's house and-and you and Cartman got sick with chickenpox?\n"
+  },
+  {
+    "input": "[Softly.] Sorry, sorry. You know how after we spent the night at Kenny's house and-and you and Cartman got sick with chickenpox?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Dude! Our parents sent us over there to get us sick!\n"
+  },
+  {
+    "input": "Dude! Our parents sent us over there to get us sick!\n",
+    "output": "What are you talking about?\n"
+  },
+  {
+    "input": "What are you talking about?\n",
+    "output": "They knew that staying at Kenny's house would get us sick, and they made us do it anyway.\n"
+  },
+  {
+    "input": "They knew that staying at Kenny's house would get us sick, and they made us do it anyway.\n",
+    "output": "They did?\n"
+  },
+  {
+    "input": "They did?\n",
+    "output": "Yeah. And I think I figured out why.\n"
+  },
+  {
+    "input": "Yeah. And I think I figured out why.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Because they're a bunch of assholes.\n"
+  },
+  {
+    "input": "Because they're a bunch of assholes.\n",
+    "output": "[Long gasp.] Of course!\n"
+  },
+  {
+    "input": "[Long gasp.] Of course!\n",
+    "output": "Come on, dude. We've gotta get out of here. I don't know what they're planning next, but it can't be good!\n[They rush out of the room, meanwhile, back at Cartman's house. Cartman is back in the tub, now working on his paper. Calamine lotion bottles line the tub and litter the floor outside.]\n"
+  },
+  {
+    "input": "Come on, dude. We've gotta get out of here. I don't know what they're planning next, but it can't be good!\n[They rush out of the room, meanwhile, back at Cartman's house. Cartman is back in the tub, now working on his paper. Calamine lotion bottles line the tub and litter the floor outside.]\n",
+    "output": "\"I hope that one day America could be more like Endor, where the Ewoks live. Endor is very cool.\"\n[The doorbell rings.]\n"
+  },
+  {
+    "input": "\"I hope that one day America could be more like Endor, where the Ewoks live. Endor is very cool.\"\n[The doorbell rings.]\n",
+    "output": "Mom, answer that! \"They have trees and Ewoks, and barbecues, which is why I like Endor more than America. It's cool.\"\n[Kyle and Stan rush into the bathroom.]\n"
+  },
+  {
+    "input": "Mom, answer that! \"They have trees and Ewoks, and barbecues, which is why I like Endor more than America. It's cool.\"\n[Kyle and Stan rush into the bathroom.]\n",
+    "output": "Cartman, do you remember how we all spent the night at Kenny's a couple of days ago?\n"
+  },
+  {
+    "input": "Cartman, do you remember how we all spent the night at Kenny's a couple of days ago?\n",
+    "output": "I remember frozen waffles with no side dishes.\n"
+  },
+  {
+    "input": "I remember frozen waffles with no side dishes.\n",
+    "output": "Cartman, our parents sent us over there to catch chickenpox from Kenny!\n"
+  },
+  {
+    "input": "Cartman, our parents sent us over there to catch chickenpox from Kenny!\n",
+    "output": "Yeah, dude. Your mom wanted you to have herpes on your face.\n"
+  },
+  {
+    "input": "Yeah, dude. Your mom wanted you to have herpes on your face.\n",
+    "output": "She what?!\n"
+  },
+  {
+    "input": "She what?!\n",
+    "output": "It's some kind of parental conspiracy. Our parents are trying to kill us or something.\n"
+  },
+  {
+    "input": "It's some kind of parental conspiracy. Our parents are trying to kill us or something.\n",
+    "output": "That bitch! I'm gonna go downstairs and kick her square in the nuts!\n"
+  },
+  {
+    "input": "That bitch! I'm gonna go downstairs and kick her square in the nuts!\n",
+    "output": "No-no-no-no. Come on, fatass, we're gonna get 'em all back.\n[Down by the riverside...]\n"
+  },
+  {
+    "input": "No-no-no-no. Come on, fatass, we're gonna get 'em all back.\n[Down by the riverside...]\n",
+    "output": "Well, I'm sure you'll find another job soon. Something'll come along.\n"
+  },
+  {
+    "input": "Well, I'm sure you'll find another job soon. Something'll come along.\n",
+    "output": "Not that easy. You were lucky.\n"
+  },
+  {
+    "input": "Not that easy. You were lucky.\n",
+    "output": "Now, now-I, I wasn't lucky.\n"
+  },
+  {
+    "input": "Now, now-I, I wasn't lucky.\n",
+    "output": "You had rich parents. You got to go to that expensive community college.\n"
+  },
+  {
+    "input": "You had rich parents. You got to go to that expensive community college.\n",
+    "output": "Hey! I worked my ass off to get to where I am today! [Rising.] I wanted to be somebody!\n"
+  },
+  {
+    "input": "Hey! I worked my ass off to get to where I am today! [Rising.] I wanted to be somebody!\n",
+    "output": "[Rising.] I wanted to be somebody, too! I just wasn't born with a silver enema up my ass!\n"
+  },
+  {
+    "input": "[Rising.] I wanted to be somebody, too! I just wasn't born with a silver enema up my ass!\n",
+    "output": "You're just jealous. You're a bitter old drunk, just like your father!\n[Stuart punches him down.]\n"
+  },
+  {
+    "input": "You're just jealous. You're a bitter old drunk, just like your father!\n[Stuart punches him down.]\n",
+    "output": "Ow!! [Gets up.]\n"
+  },
+  {
+    "input": "Ow!! [Gets up.]\n",
+    "output": "Now don't make me do that again!\n[Stuard hits him again.]\n"
+  },
+  {
+    "input": "Now don't make me do that again!\n[Stuard hits him again.]\n",
+    "output": "Ow! You son of a bitch!\n[Gerald chokes Stuart. They start tugging at each other.]\n"
+  },
+  {
+    "input": "Ow! You son of a bitch!\n[Gerald chokes Stuart. They start tugging at each other.]\n",
+    "output": "Uh!\n"
+  },
+  {
+    "input": "Uh!\n",
+    "output": "Ow!\n"
+  },
+  {
+    "input": "Ow!\n",
+    "output": "Oh!\n"
+  },
+  {
+    "input": "Oh!\n",
+    "output": "Ow!\n[Gerald ends up on the ground again.]\n"
+  },
+  {
+    "input": "Ow!\n[Gerald ends up on the ground again.]\n",
+    "output": "Eeaagghh!\n[Stuart jumps and does an elbow drop on Gerald.]\n"
+  },
+  {
+    "input": "Eeaagghh!\n[Stuart jumps and does an elbow drop on Gerald.]\n",
+    "output": "[In pain.] Huuuh!\n[Hell's Pass Hospital. Stan's parents are visiting.]\n"
+  },
+  {
+    "input": "[In pain.] Huuuh!\n[Hell's Pass Hospital. Stan's parents are visiting.]\n",
+    "output": "Doctor?\n"
+  },
+  {
+    "input": "Doctor?\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "Wh-where's Stan?\n"
+  },
+  {
+    "input": "Wh-where's Stan?\n",
+    "output": "Stan?\n"
+  },
+  {
+    "input": "Stan?\n",
+    "output": "Stan, our son?\n"
+  },
+  {
+    "input": "Stan, our son?\n",
+    "output": "Oh, yes. Where is Stan?\n"
+  },
+  {
+    "input": "Oh, yes. Where is Stan?\n",
+    "output": "You mean Stanley's missing?\n"
+  },
+  {
+    "input": "You mean Stanley's missing?\n",
+    "output": "No, no. He's not missing. We just... can't seem to find him at this moment.\n"
+  },
+  {
+    "input": "No, no. He's not missing. We just... can't seem to find him at this moment.\n",
+    "output": "[To Randy.] Oh my God! Our son ran away!\n"
+  },
+  {
+    "input": "[To Randy.] Oh my God! Our son ran away!\n",
+    "output": "Will he be okay out of the hospital?\n"
+  },
+  {
+    "input": "Will he be okay out of the hospital?\n",
+    "output": "Oh sure, sure. But we have to get him back soon. If he doesn't get his antibiotic shot today, he could die.\n"
+  },
+  {
+    "input": "Oh sure, sure. But we have to get him back soon. If he doesn't get his antibiotic shot today, he could die.\n",
+    "output": "Die?\n"
+  },
+  {
+    "input": "Die?\n",
+    "output": "Yes, die. It won't be any easy death, either. The chickenpox will slowly move down his trachea into his lungs.\n"
+  },
+  {
+    "input": "Yes, die. It won't be any easy death, either. The chickenpox will slowly move down his trachea into his lungs.\n",
+    "output": "Okay, well well, let's go look--\n"
+  },
+  {
+    "input": "Okay, well well, let's go look--\n",
+    "output": "As he chokes for breath, the pox will move through his inner ear into his brain, making him think he's David Duchovny.\n"
+  },
+  {
+    "input": "As he chokes for breath, the pox will move through his inner ear into his brain, making him think he's David Duchovny.\n",
+    "output": "Oh God, no!\n"
+  },
+  {
+    "input": "Oh God, no!\n",
+    "output": "I'm-I'm sure he couldn't have gone far.\n"
+  },
+  {
+    "input": "I'm-I'm sure he couldn't have gone far.\n",
+    "output": "Now moving on all fours and wheezing uncontrollably, his cellular structure will regress into a gelatinous mass of--\n[Kyle's house. Sheila looks after Ike, who plays with a toy truck. Gerald enters. His entire outfit is torn, he has a black eye and his fishing line is all mangled.]\n"
+  },
+  {
+    "input": "Now moving on all fours and wheezing uncontrollably, his cellular structure will regress into a gelatinous mass of--\n[Kyle's house. Sheila looks after Ike, who plays with a toy truck. Gerald enters. His entire outfit is torn, he has a black eye and his fishing line is all mangled.]\n",
+    "output": "So how was it? Did you boys have a good time fishing?\n"
+  },
+  {
+    "input": "So how was it? Did you boys have a good time fishing?\n",
+    "output": "That son of a bitch ripped my parka!\n"
+  },
+  {
+    "input": "That son of a bitch ripped my parka!\n",
+    "output": "Catch anything?\n"
+  },
+  {
+    "input": "Catch anything?\n",
+    "output": "I just don't get it.\n[He drops the pole.]\n"
+  },
+  {
+    "input": "I just don't get it.\n[He drops the pole.]\n",
+    "output": "Why would he invite me fishing and then turn into a complete bastard?\n"
+  },
+  {
+    "input": "Why would he invite me fishing and then turn into a complete bastard?\n",
+    "output": "Well, darling, I have to tell you something. He didn't invite you. I set the whole thing up.\n"
+  },
+  {
+    "input": "Well, darling, I have to tell you something. He didn't invite you. I set the whole thing up.\n",
+    "output": "What? Now why the hell would you knowingly deceive me like that?\n"
+  },
+  {
+    "input": "What? Now why the hell would you knowingly deceive me like that?\n",
+    "output": "I thought it would be good for you.\n"
+  },
+  {
+    "input": "I thought it would be good for you.\n",
+    "output": "Just like you deceived our son into going to Kenny's; and that didn't work either!\n"
+  },
+  {
+    "input": "Just like you deceived our son into going to Kenny's; and that didn't work either!\n",
+    "output": "[Exasperated, she leaves.] I'm doing the best I can!\n[Gerald picks up Kyle's paper on the sofa and looks over it.]\n[\"My Final Solution by Kyle Broflovski.\"\n\"My dad is the smartest guy in the whole wide world. He has taught me that all poor people are actually things called clods. I wanna live in a world of only gods, so my idea to make America better is put all the poor people into camps.\"]\n"
+  },
+  {
+    "input": "[Exasperated, she leaves.] I'm doing the best I can!\n[Gerald picks up Kyle's paper on the sofa and looks over it.]\n[\"My Final Solution by Kyle Broflovski.\"\n\"My dad is the smartest guy in the whole wide world. He has taught me that all poor people are actually things called clods. I wanna live in a world of only gods, so my idea to make America better is put all the poor people into camps.\"]\n",
+    "output": "What?!\n[\"If we get rid of them, there will be nothing but rich people. And there won't be any hunger, poverty, or homeless people. 'Cause they'll all be dead. The end.\"]\n"
+  },
+  {
+    "input": "What?!\n[\"If we get rid of them, there will be nothing but rich people. And there won't be any hunger, poverty, or homeless people. 'Cause they'll all be dead. The end.\"]\n",
+    "output": "Oh, God, what have I done?\n[Chef's house. He's watching Terrance and Phillip. Terrance and Phillip are both on operating tables with only their heads and asses exposed.]\n"
+  },
+  {
+    "input": "Oh, God, what have I done?\n[Chef's house. He's watching Terrance and Phillip. Terrance and Phillip are both on operating tables with only their heads and asses exposed.]\n",
+    "output": "What's happening here, Terrance?\n"
+  },
+  {
+    "input": "What's happening here, Terrance?\n",
+    "output": "We're doing an anal transplant. It's our only hope.\n"
+  },
+  {
+    "input": "We're doing an anal transplant. It's our only hope.\n",
+    "output": "Who's the donor?\n"
+  },
+  {
+    "input": "Who's the donor?\n",
+    "output": "I am, Phillip. I am.\n"
+  },
+  {
+    "input": "I am, Phillip. I am.\n",
+    "output": "Terrance, you're giving up your ass for me?\n"
+  },
+  {
+    "input": "Terrance, you're giving up your ass for me?\n",
+    "output": "Just half my ass. Can you believe it, Phillip? Best friends, and now we're going to share the same ass.\n[Someone is knocking on Chef's door.]\n"
+  },
+  {
+    "input": "Just half my ass. Can you believe it, Phillip? Best friends, and now we're going to share the same ass.\n[Someone is knocking on Chef's door.]\n",
+    "output": "Oh, damn it, not now!\n[Chef goes to answer the door. Stan, Kyle and Cartman wait.]\n"
+  },
+  {
+    "input": "Oh, damn it, not now!\n[Chef goes to answer the door. Stan, Kyle and Cartman wait.]\n",
+    "output": "Damn it! Children, what are you doing here? Terrance and Phillip are about to go into surgery!\n"
+  },
+  {
+    "input": "Damn it! Children, what are you doing here? Terrance and Phillip are about to go into surgery!\n",
+    "output": "Chef, we wanna know about herpes.\n"
+  },
+  {
+    "input": "Chef, we wanna know about herpes.\n",
+    "output": "What makes you think I would know anything about that?\n"
+  },
+  {
+    "input": "What makes you think I would know anything about that?\n",
+    "output": "Well I don't know. You're just the only grownup we trust.\n"
+  },
+  {
+    "input": "Well I don't know. You're just the only grownup we trust.\n",
+    "output": "How does someone get herpes?\n"
+  },
+  {
+    "input": "How does someone get herpes?\n",
+    "output": "Well you get it by sharin' relations with somebody who already has it. You have to be very careful around someone who has herpes.\n"
+  },
+  {
+    "input": "Well you get it by sharin' relations with somebody who already has it. You have to be very careful around someone who has herpes.\n",
+    "output": "Do you know anybody with herpes?\n"
+  },
+  {
+    "input": "Do you know anybody with herpes?\n",
+    "output": "Well, there's old Frida down on Main Street. She has a mouthful of herpes. You need to stay away from her.\n"
+  },
+  {
+    "input": "Well, there's old Frida down on Main Street. She has a mouthful of herpes. You need to stay away from her.\n",
+    "output": "But what if we want to give somebody herpes?\n"
+  },
+  {
+    "input": "But what if we want to give somebody herpes?\n",
+    "output": "Oh, then, Frida's the right person to go to.\n"
+  },
+  {
+    "input": "Oh, then, Frida's the right person to go to.\n",
+    "output": "Cool! Thanks, Chef!\n"
+  },
+  {
+    "input": "Cool! Thanks, Chef!\n",
+    "output": "O-kay!\n[He closes the door and goes back to his armchair. The boys leave.]\n"
+  },
+  {
+    "input": "O-kay!\n[He closes the door and goes back to his armchair. The boys leave.]\n",
+    "output": "Wait a minute. What the hell did I just do?\n[Main Street. Randy and Sharon drive around looking for Stan.]\n"
+  },
+  {
+    "input": "Wait a minute. What the hell did I just do?\n[Main Street. Randy and Sharon drive around looking for Stan.]\n",
+    "output": "Stanley?\n"
+  },
+  {
+    "input": "Stanley?\n",
+    "output": "Stan?\n"
+  },
+  {
+    "input": "Stan?\n",
+    "output": "[Softly.] Oh, Stanley, where are you..?\n"
+  },
+  {
+    "input": "[Softly.] Oh, Stanley, where are you..?\n",
+    "output": "Stan?\n"
+  },
+  {
+    "input": "Stan?\n",
+    "output": "Stanley!\n[The car makes a right two blocks down, and the kids appear a block closer. They walk up the block and see an old redhead smoking a cigarette.]\n"
+  },
+  {
+    "input": "Stanley!\n[The car makes a right two blocks down, and the kids appear a block closer. They walk up the block and see an old redhead smoking a cigarette.]\n",
+    "output": "Are you old Frida?\n"
+  },
+  {
+    "input": "Are you old Frida?\n",
+    "output": "[Raspily.] Who wants to know?\n"
+  },
+  {
+    "input": "[Raspily.] Who wants to know?\n",
+    "output": "Someone who wants a favor.\n"
+  },
+  {
+    "input": "Someone who wants a favor.\n",
+    "output": "Ten dollars a lay, five dollars a b-- [Snorts.]\n"
+  },
+  {
+    "input": "Ten dollars a lay, five dollars a b-- [Snorts.]\n",
+    "output": "[To Stan, throws his hands up.] Huh?\n"
+  },
+  {
+    "input": "[To Stan, throws his hands up.] Huh?\n",
+    "output": "We want you to give our parents herpes.\n"
+  },
+  {
+    "input": "We want you to give our parents herpes.\n",
+    "output": "[Puffs out.] Five dollars.\n"
+  },
+  {
+    "input": "[Puffs out.] Five dollars.\n",
+    "output": "My dad has five dollars on top of his dresser. [Coughs.]\n"
+  },
+  {
+    "input": "My dad has five dollars on top of his dresser. [Coughs.]\n",
+    "output": "Damn, you sound pretty sick. Maybe you should go back to the hospital.\n"
+  },
+  {
+    "input": "Damn, you sound pretty sick. Maybe you should go back to the hospital.\n",
+    "output": "And have Shelly kick my ass? No thanks. Plus, I have to get my parents back just as much as you do.\n[The Monkee's \"I'm a Believer\" plays. The boys hire Frida, and take her to each of their houses. First stop, Stan's house. She goes into the bathroom and uses Randy's and Sharon's toothbrushes. Stan and Kyle smile, then Stan gives a thumbs up in approval. In the kitchen, Frida chugs away at a jar of milk, then sends the milk right back into the jar. Next stop, Kyle's house. She goes into the master bedroom and uses Sheila's lipsticks. Then she goes to the kitchen and soils the silverware by putting each and every utensil under her armpits. Stan and Kyle jump for joy and high-five each other. Last stop, Cartman's house. She goes into Liane's room and pulls out some panties, then rubs them all over her face. Cartman jumps for joy. They all return to Stan's house, and she licks away at some wine glasses and the phone receiver. Stan and Kyle high-five each other again. Finally, they pay her and she leaves.]\n"
+  },
+  {
+    "input": "And have Shelly kick my ass? No thanks. Plus, I have to get my parents back just as much as you do.\n[The Monkee's \"I'm a Believer\" plays. The boys hire Frida, and take her to each of their houses. First stop, Stan's house. She goes into the bathroom and uses Randy's and Sharon's toothbrushes. Stan and Kyle smile, then Stan gives a thumbs up in approval. In the kitchen, Frida chugs away at a jar of milk, then sends the milk right back into the jar. Next stop, Kyle's house. She goes into the master bedroom and uses Sheila's lipsticks. Then she goes to the kitchen and soils the silverware by putting each and every utensil under her armpits. Stan and Kyle jump for joy and high-five each other. Last stop, Cartman's house. She goes into Liane's room and pulls out some panties, then rubs them all over her face. Cartman jumps for joy. They all return to Stan's house, and she licks away at some wine glasses and the phone receiver. Stan and Kyle high-five each other again. Finally, they pay her and she leaves.]\n",
+    "output": "Thanks a lot, Frida!\n"
+  },
+  {
+    "input": "Thanks a lot, Frida!\n",
+    "output": "[Hacks.] Don't mention it.\n[She hacks again, pockets the money, and walks away.]\n"
+  },
+  {
+    "input": "[Hacks.] Don't mention it.\n[She hacks again, pockets the money, and walks away.]\n",
+    "output": "D-hude, this is gonna be so killer. They're all gonna get herpes!\n"
+  },
+  {
+    "input": "D-hude, this is gonna be so killer. They're all gonna get herpes!\n",
+    "output": "Hooray!\n[Stan coughs and the adults burst into the room. Fear strikes the boys.]\n"
+  },
+  {
+    "input": "Hooray!\n[Stan coughs and the adults burst into the room. Fear strikes the boys.]\n",
+    "output": "Stanley, where the hell have you been?\n"
+  },
+  {
+    "input": "Stanley, where the hell have you been?\n",
+    "output": "Damn it, Stanley, you had us worried sick! You have to get back to the hospital for a shot!\n"
+  },
+  {
+    "input": "Damn it, Stanley, you had us worried sick! You have to get back to the hospital for a shot!\n",
+    "output": "[Hiding behind Kyle.] I don't wanna go back there.\n"
+  },
+  {
+    "input": "[Hiding behind Kyle.] I don't wanna go back there.\n",
+    "output": "[Coming for him.] Come on, we're taking you back to the hospital.\n[Randy drags him off.]\n"
+  },
+  {
+    "input": "[Coming for him.] Come on, we're taking you back to the hospital.\n[Randy drags him off.]\n",
+    "output": "Don't you guys feel like brushing your teeth first?\n"
+  },
+  {
+    "input": "Don't you guys feel like brushing your teeth first?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "You know, freshen up your breath.\n"
+  },
+  {
+    "input": "You know, freshen up your breath.\n",
+    "output": "Aw, man. [Tottering, eyes half shut.] I don't feel so good.\n"
+  },
+  {
+    "input": "Aw, man. [Tottering, eyes half shut.] I don't feel so good.\n",
+    "output": "[Pleased.] Oh good, maybe you finally caught the chicken--\n"
+  },
+  {
+    "input": "[Pleased.] Oh good, maybe you finally caught the chicken--\n",
+    "output": "Ugh...\n[Kyle falls back, passing out.]\n"
+  },
+  {
+    "input": "Ugh...\n[Kyle falls back, passing out.]\n",
+    "output": "Kyle!!\n[Hell's Pass Hospital. All four boys are now in recovery.]\n"
+  },
+  {
+    "input": "Kyle!!\n[Hell's Pass Hospital. All four boys are now in recovery.]\n",
+    "output": "Well, I hope you boys learned your lesson. Going out and playing around with chickenpox almost killed you all.\n"
+  },
+  {
+    "input": "Well, I hope you boys learned your lesson. Going out and playing around with chickenpox almost killed you all.\n",
+    "output": "We're sorry.\n"
+  },
+  {
+    "input": "We're sorry.\n",
+    "output": "Well just be thankful we got you here in time. Your parents are here to see you, I'll send them in.\n"
+  },
+  {
+    "input": "Well just be thankful we got you here in time. Your parents are here to see you, I'll send them in.\n",
+    "output": "This itches! Give me some of that calamine lotion, Cartman.\n"
+  },
+  {
+    "input": "This itches! Give me some of that calamine lotion, Cartman.\n",
+    "output": "Hell no, you guys get your own!\n[The parents enter, they all have herpes sores on their faces, well except Liane for some reason...]\n"
+  },
+  {
+    "input": "Hell no, you guys get your own!\n[The parents enter, they all have herpes sores on their faces, well except Liane for some reason...]\n",
+    "output": "Stanley, how are you feeling today, son?\n"
+  },
+  {
+    "input": "Stanley, how are you feeling today, son?\n",
+    "output": "Pretty good.\n"
+  },
+  {
+    "input": "Pretty good.\n",
+    "output": "[Cheerfully.] The doctor says that maybe you can go home tomorrow.\n"
+  },
+  {
+    "input": "[Cheerfully.] The doctor says that maybe you can go home tomorrow.\n",
+    "output": "Yeah. Isn't that great, Stanley?\n"
+  },
+  {
+    "input": "Yeah. Isn't that great, Stanley?\n",
+    "output": "Wow, coo-hul!\n"
+  },
+  {
+    "input": "Wow, coo-hul!\n",
+    "output": "And how are you, Kyle?\n"
+  },
+  {
+    "input": "And how are you, Kyle?\n",
+    "output": "Are you doing okay?\n"
+  },
+  {
+    "input": "Are you doing okay?\n",
+    "output": "I'm better now.\n[He and Stan start laughing.]\n"
+  },
+  {
+    "input": "I'm better now.\n[He and Stan start laughing.]\n",
+    "output": "What's so funny, you two?\n"
+  },
+  {
+    "input": "What's so funny, you two?\n",
+    "output": "We gave you guys herpes.\n"
+  },
+  {
+    "input": "We gave you guys herpes.\n",
+    "output": "What-what-whaaat?! You did this?!\n"
+  },
+  {
+    "input": "What-what-whaaat?! You did this?!\n",
+    "output": "We got you back for getting us sick. We had a prostitute use your toothbrushes and stuff.\n"
+  },
+  {
+    "input": "We got you back for getting us sick. We had a prostitute use your toothbrushes and stuff.\n",
+    "output": "I can't believe you gave us herpes. You little rascals!\n"
+  },
+  {
+    "input": "I can't believe you gave us herpes. You little rascals!\n",
+    "output": "[To Randy.] Well, I guess it serves us right. [To the boys.] Kids, we should have honest about wanting you to get chickenpox.\n"
+  },
+  {
+    "input": "[To Randy.] Well, I guess it serves us right. [To the boys.] Kids, we should have honest about wanting you to get chickenpox.\n",
+    "output": "It's true. We were wrong for deceiving you about it.\n[Liane walks over to Cartman.]\n"
+  },
+  {
+    "input": "It's true. We were wrong for deceiving you about it.\n[Liane walks over to Cartman.]\n",
+    "output": "Hey, how come you don't have sores on your lips, Ma?\n"
+  },
+  {
+    "input": "Hey, how come you don't have sores on your lips, Ma?\n",
+    "output": "Ooh, I have them somewhere else, poopiekins.\n"
+  },
+  {
+    "input": "Ooh, I have them somewhere else, poopiekins.\n",
+    "output": "Hooray!\n"
+  },
+  {
+    "input": "Hooray!\n",
+    "output": "And, uh Stuart, I think I owe you an apology. I realize that I shouldn't be so cold towards people that are less fortunate than me.\n"
+  },
+  {
+    "input": "And, uh Stuart, I think I owe you an apology. I realize that I shouldn't be so cold towards people that are less fortunate than me.\n",
+    "output": "Aww hell, I'm sorry, too.\n[Terrance and Phillip is on. The anal transplant surgery was a success.]\n"
+  },
+  {
+    "input": "Aww hell, I'm sorry, too.\n[Terrance and Phillip is on. The anal transplant surgery was a success.]\n",
+    "output": "Oh, Phillip, I'm so glad everything turned out for the better.\n[He farts high and laughs.]\n"
+  },
+  {
+    "input": "Oh, Phillip, I'm so glad everything turned out for the better.\n[He farts high and laughs.]\n",
+    "output": "Well, I know one thing for sure.\n"
+  },
+  {
+    "input": "Well, I know one thing for sure.\n",
+    "output": "What's that, Eric?\n"
+  },
+  {
+    "input": "What's that, Eric?\n",
+    "output": "We're all gonna need a lot more calamine lotion.\n[All the boys start laughing, then the parents join in. The doctor stands by Kenny and doesn't laugh. Kenny laughs, but drops dead. The meter flatlines and a long, steady note is heard. All stop laughing.]\n"
+  },
+  {
+    "input": "We're all gonna need a lot more calamine lotion.\n[All the boys start laughing, then the parents join in. The doctor stands by Kenny and doesn't laugh. Kenny laughs, but drops dead. The meter flatlines and a long, steady note is heard. All stop laughing.]\n",
+    "output": "Oh my God, they've killed Kenny!\n"
+  }
+]

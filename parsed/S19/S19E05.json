@@ -1,0 +1,906 @@
+[
+  {
+    "input": "",
+    "output": "Safe Space\n\n[South Park Elementary, day. Cartman sits in PC Prinicpal's office hyperventilating, teary-eyed. PC Principal and Mr. Mackey both look at him.]\n"
+  },
+  {
+    "input": "Safe Space\n\n[South Park Elementary, day. Cartman sits in PC Prinicpal's office hyperventilating, teary-eyed. PC Principal and Mr. Mackey both look at him.]\n",
+    "output": "So these guys made fun of your weight and made you feel ashamed?\n"
+  },
+  {
+    "input": "So these guys made fun of your weight and made you feel ashamed?\n",
+    "output": "[voice shaking terribly] Yes, I was just trying to do my job as a food critic and they all ganged up on me and said I was fat.\n"
+  },
+  {
+    "input": "[voice shaking terribly] Yes, I was just trying to do my job as a food critic and they all ganged up on me and said I was fat.\n",
+    "output": "Alright, why don't you take me back to what happened?\n"
+  },
+  {
+    "input": "Alright, why don't you take me back to what happened?\n",
+    "output": "I was in the locker room. I was in my underwear and these kids walked by [Craig and Clyde appear around the corner] Then I looked in the mirror and I thought I looked kind of ripped, and so I asked one of the kids [Clyde] if he would take a picture of me [holding two dumbbells, one in each hand] and he did. And I looked at the picture and I looked pretty ripped, so later at home, I put the picture up on my Yelp account and I typed in \"Don't I look ripped?\" and I thought people would be stoked on me. Then this morning I saw the comments on Twitter and some people called me names and said I wasn't ripped, and they said that I was fat and I didn't have muscles. The Internet made fun of me and [is overcome with emotion and hyperventilates. PC Principal sniffs and clears his throat.]\n"
+  },
+  {
+    "input": "I was in the locker room. I was in my underwear and these kids walked by [Craig and Clyde appear around the corner] Then I looked in the mirror and I thought I looked kind of ripped, and so I asked one of the kids [Clyde] if he would take a picture of me [holding two dumbbells, one in each hand] and he did. And I looked at the picture and I looked pretty ripped, so later at home, I put the picture up on my Yelp account and I typed in \"Don't I look ripped?\" and I thought people would be stoked on me. Then this morning I saw the comments on Twitter and some people called me names and said I wasn't ripped, and they said that I was fat and I didn't have muscles. The Internet made fun of me and [is overcome with emotion and hyperventilates. PC Principal sniffs and clears his throat.]\n",
+    "output": "Well, Eric, maybe you shouldn't have put a picture of you in your underwear up on social media.\n"
+  },
+  {
+    "input": "Well, Eric, maybe you shouldn't have put a picture of you in your underwear up on social media.\n",
+    "output": "[jumps up and faces Mr. Mackey] Hey! You got a fuckin' problem, Mackey!\n"
+  },
+  {
+    "input": "[jumps up and faces Mr. Mackey] Hey! You got a fuckin' problem, Mackey!\n",
+    "output": "N-No, PC Principal.\n"
+  },
+  {
+    "input": "N-No, PC Principal.\n",
+    "output": "Because body-shaming is fuckin' serious, and I'm not gonna allow that shit in my school! [faces Cartman] Nobody should have to feel that kind of shame!\n[Whole Foods Market, day. Liane walks out with her groceries, Randy walks around inside marveling at all the stuff. Next, he's in Checkout 5 having his purchases scanned.]\n"
+  },
+  {
+    "input": "Because body-shaming is fuckin' serious, and I'm not gonna allow that shit in my school! [faces Cartman] Nobody should have to feel that kind of shame!\n[Whole Foods Market, day. Liane walks out with her groceries, Randy walks around inside marveling at all the stuff. Next, he's in Checkout 5 having his purchases scanned.]\n",
+    "output": "Okay. sir, looks like your total is $37.83.\n"
+  },
+  {
+    "input": "Okay. sir, looks like your total is $37.83.\n",
+    "output": "[pulls out his wallet and takes out $40] Alright.\n"
+  },
+  {
+    "input": "[pulls out his wallet and takes out $40] Alright.\n",
+    "output": "[checks the monitor] Okay, and, would you like to add a dollar donation to help hungry kids around the world?\n"
+  },
+  {
+    "input": "[checks the monitor] Okay, and, would you like to add a dollar donation to help hungry kids around the world?\n",
+    "output": "[real quiet] Oh, uh, no, that, that's okay.\n"
+  },
+  {
+    "input": "[real quiet] Oh, uh, no, that, that's okay.\n",
+    "output": "Sorry?\n"
+  },
+  {
+    "input": "Sorry?\n",
+    "output": "[real quiet] I'm, I'm good.\n"
+  },
+  {
+    "input": "[real quiet] I'm, I'm good.\n",
+    "output": "[having trouble hearing him clearly] I'm sorry, you don't want to give the dollar to hungry kids?\n"
+  },
+  {
+    "input": "[having trouble hearing him clearly] I'm sorry, you don't want to give the dollar to hungry kids?\n",
+    "output": "[real quiet] Not today, thank you.\n"
+  },
+  {
+    "input": "[real quiet] Not today, thank you.\n",
+    "output": "Okay, no problem. [punches in the last few numbers into the register.] A window's gonna come up and ask if you're helping the hungry kids, just hit \"No, I'm not.\"\n"
+  },
+  {
+    "input": "Okay, no problem. [punches in the last few numbers into the register.] A window's gonna come up and ask if you're helping the hungry kids, just hit \"No, I'm not.\"\n",
+    "output": "[real quiet] Oh, come on.\n"
+  },
+  {
+    "input": "[real quiet] Oh, come on.\n",
+    "output": "Try hitting it again. It's the box below the one that says, \"Sure, I'd love to help however I can.\" [Randy hits the button again... and again a few more times, but it only beeps twice. The cashier looks at it.] Ah, darn thing. Sorry. Most people give the dollar. I can do this manually. [turns to the register and taps a few keys]\n"
+  },
+  {
+    "input": "Try hitting it again. It's the box below the one that says, \"Sure, I'd love to help however I can.\" [Randy hits the button again... and again a few more times, but it only beeps twice. The cashier looks at it.] Ah, darn thing. Sorry. Most people give the dollar. I can do this manually. [turns to the register and taps a few keys]\n",
+    "output": "Look, I give money to charity a lot, okay?\n"
+  },
+  {
+    "input": "Look, I give money to charity a lot, okay?\n",
+    "output": "Oh, sure you do.\n"
+  },
+  {
+    "input": "Oh, sure you do.\n",
+    "output": "I do. I just don't want to every time I shop for food.\n"
+  },
+  {
+    "input": "I do. I just don't want to every time I shop for food.\n",
+    "output": "That's completely understandable. [reads something] \"Have customer speak on the-\" Oh-okay. if you can just speak into the voice decoder and say \"I'm not giving anything to the hungry kids.\"\n"
+  },
+  {
+    "input": "That's completely understandable. [reads something] \"Have customer speak on the-\" Oh-okay. if you can just speak into the voice decoder and say \"I'm not giving anything to the hungry kids.\"\n",
+    "output": "[leans in and speaks into the \"decoder\"] I'm not giving anything to the hungry kids. [his voice echoes throughout the store, and everyone takes notice]\n"
+  },
+  {
+    "input": "[leans in and speaks into the \"decoder\"] I'm not giving anything to the hungry kids. [his voice echoes throughout the store, and everyone takes notice]\n",
+    "output": "Okay, that's got it. So with the ice cream, the vodka, pizza pockets, and nothing for hungry kids, that's $37.83. [getting a bit sarcastic] Oh, don't forget your change.\n"
+  },
+  {
+    "input": "Okay, that's got it. So with the ice cream, the vodka, pizza pockets, and nothing for hungry kids, that's $37.83. [getting a bit sarcastic] Oh, don't forget your change.\n",
+    "output": "Look, if I give money every time I went grocery-shopping, I would be-!\n"
+  },
+  {
+    "input": "Look, if I give money every time I went grocery-shopping, I would be-!\n",
+    "output": "[cuts him off] Thanks for shopping, sir. Next, please.\n"
+  },
+  {
+    "input": "[cuts him off] Thanks for shopping, sir. Next, please.\n",
+    "output": "[takes his paper bag full of groceries and leaves] Dick!\n[PC Principal's office, moments. PC Principal opens the door and Kyle walks in.]\n"
+  },
+  {
+    "input": "[takes his paper bag full of groceries and leaves] Dick!\n[PC Principal's office, moments. PC Principal opens the door and Kyle walks in.]\n",
+    "output": "Morning, Kyle. Have a seat right there. [Kyle takes the seat next to Cartman and is instantly displeased] You probably heard that Eric here has been dealing with some body shaming? [Cartman is still whimpering]\n"
+  },
+  {
+    "input": "Morning, Kyle. Have a seat right there. [Kyle takes the seat next to Cartman and is instantly displeased] You probably heard that Eric here has been dealing with some body shaming? [Cartman is still whimpering]\n",
+    "output": "Uh huh.\n"
+  },
+  {
+    "input": "Uh huh.\n",
+    "output": "Well, Eric and I have been talking, and we've decided it's probably best for him to get off of social media.\n"
+  },
+  {
+    "input": "Well, Eric and I have been talking, and we've decided it's probably best for him to get off of social media.\n",
+    "output": "Yeah probably.\n"
+  },
+  {
+    "input": "Yeah probably.\n",
+    "output": "So what we're looking for is a student volunteer. Somebody who can put the things Eric wants up on the Internet for him and also filter through all the comments and make it more of a safe space for him.\n"
+  },
+  {
+    "input": "So what we're looking for is a student volunteer. Somebody who can put the things Eric wants up on the Internet for him and also filter through all the comments and make it more of a safe space for him.\n",
+    "output": "Wait, what?\n"
+  },
+  {
+    "input": "Wait, what?\n",
+    "output": "I said you were perfect because you're really good at getting all your schoolwork done on time [gathers his thoughts] so you'd probably do a really good job.\n"
+  },
+  {
+    "input": "I said you were perfect because you're really good at getting all your schoolwork done on time [gathers his thoughts] so you'd probably do a really good job.\n",
+    "output": "You want me to run Cartman's Twitter and Yelp account and only give him the good comments?\n"
+  },
+  {
+    "input": "You want me to run Cartman's Twitter and Yelp account and only give him the good comments?\n",
+    "output": "That's right.\n"
+  },
+  {
+    "input": "That's right.\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "Kyle, you know what body-shaming is, right? How much it can hurt someone's life? All you have to do is check out all the comments, type out just the positive ones, and give that to Eric on paper.\n"
+  },
+  {
+    "input": "Kyle, you know what body-shaming is, right? How much it can hurt someone's life? All you have to do is check out all the comments, type out just the positive ones, and give that to Eric on paper.\n",
+    "output": "If he doesn't like what people say on Twitter, he can get off. [Cartman begins to cry]\n"
+  },
+  {
+    "input": "If he doesn't like what people say on Twitter, he can get off. [Cartman begins to cry]\n",
+    "output": "Okay, Kyle, well maybe you'd like two weeks' detention instead.\n"
+  },
+  {
+    "input": "Okay, Kyle, well maybe you'd like two weeks' detention instead.\n",
+    "output": "[a bit stunned, considers his options] Give me... give me detention.\n"
+  },
+  {
+    "input": "[a bit stunned, considers his options] Give me... give me detention.\n",
+    "output": "You sure about that?\n"
+  },
+  {
+    "input": "You sure about that?\n",
+    "output": "Yeah, I'll take the detention.\n"
+  },
+  {
+    "input": "Yeah, I'll take the detention.\n",
+    "output": "That's two weeks' detention for you, bud! I'll see you at 4! [Kyle looks at Eric, gets up, and leaves. Next, PC Principal is talking to another student] And when we said someone should probably help Eric by filtering out any negative comments, he mentioned you by name.\n"
+  },
+  {
+    "input": "That's two weeks' detention for you, bud! I'll see you at 4! [Kyle looks at Eric, gets up, and leaves. Next, PC Principal is talking to another student] And when we said someone should probably help Eric by filtering out any negative comments, he mentioned you by name.\n",
+    "output": "Is this a joke?\n"
+  },
+  {
+    "input": "Is this a joke?\n",
+    "output": "I'm not a joke!\n"
+  },
+  {
+    "input": "I'm not a joke!\n",
+    "output": "Nothing funny about this, Testaburger! This is a big problem in our country!\n"
+  },
+  {
+    "input": "Nothing funny about this, Testaburger! This is a big problem in our country!\n",
+    "output": "I'm not doing it.\n"
+  },
+  {
+    "input": "I'm not doing it.\n",
+    "output": "And that's two weeks' detention for you! Congratulations! [Wendy looks at Eric, gets up, and leaves. Next, PC Principal is talking to another student] So, any comments that seem inappropriate or hurtful in any way, you need to delete and not include in your daily report to Eric. [Butters is shown next to Cartman now]\n"
+  },
+  {
+    "input": "And that's two weeks' detention for you! Congratulations! [Wendy looks at Eric, gets up, and leaves. Next, PC Principal is talking to another student] So, any comments that seem inappropriate or hurtful in any way, you need to delete and not include in your daily report to Eric. [Butters is shown next to Cartman now]\n",
+    "output": "I wanted someone smart and hard-working!\n"
+  },
+  {
+    "input": "I wanted someone smart and hard-working!\n",
+    "output": "Do I gotta?\n"
+  },
+  {
+    "input": "Do I gotta?\n",
+    "output": "You want detention?\n"
+  },
+  {
+    "input": "You want detention?\n",
+    "output": "Well, if I get detention, uh, I'll get grounded.\n"
+  },
+  {
+    "input": "Well, if I get detention, uh, I'll get grounded.\n",
+    "output": "Then you start today! Butters, it's your job to make sure Eric has a safe space.\n[Whole Foods Market, day. Randy is at a salad bar creating his own salad. A female shopper is making one too, and their tongs clash over greens]\n"
+  },
+  {
+    "input": "Then you start today! Butters, it's your job to make sure Eric has a safe space.\n[Whole Foods Market, day. Randy is at a salad bar creating his own salad. A female shopper is making one too, and their tongs clash over greens]\n",
+    "output": "Oh, ahhh, I'm sorry.\n"
+  },
+  {
+    "input": "Oh, ahhh, I'm sorry.\n",
+    "output": "Oh no, my, my fault.\n"
+  },
+  {
+    "input": "Oh no, my, my fault.\n",
+    "output": "Isn't it great having a Whole Foods?\n"
+  },
+  {
+    "input": "Isn't it great having a Whole Foods?\n",
+    "output": "This is where I come for lunch every day. Gotta eat healthy to stay fit. [pleased at this encounter. He turns to leave and sees the cashier from before, who waves back at him. To himself] Aw, shit, it's that guy. [as no one else is waiting, he goes ahead and makes his purchases]\n"
+  },
+  {
+    "input": "This is where I come for lunch every day. Gotta eat healthy to stay fit. [pleased at this encounter. He turns to leave and sees the cashier from before, who waves back at him. To himself] Aw, shit, it's that guy. [as no one else is waiting, he goes ahead and makes his purchases]\n",
+    "output": "Aand how are you today, sir?\n"
+  },
+  {
+    "input": "Aand how are you today, sir?\n",
+    "output": "Great. [leans in and in a low voice] Uh, listen, before you ring me up, I just wanna let you know I'm not gonna be giving extra money to charity, so can we, can we just skip that part?\n"
+  },
+  {
+    "input": "Great. [leans in and in a low voice] Uh, listen, before you ring me up, I just wanna let you know I'm not gonna be giving extra money to charity, so can we, can we just skip that part?\n",
+    "output": "Oh, no problem, sir, they've updated the system so it's a lot more streamlined now. Find everything you need today?\n"
+  },
+  {
+    "input": "Oh, no problem, sir, they've updated the system so it's a lot more streamlined now. Find everything you need today?\n",
+    "output": "Yeah, thanks.\n"
+  },
+  {
+    "input": "Yeah, thanks.\n",
+    "output": "There we go, and that's... Okay, and would you like to give a dollar to hungry kids today?\n"
+  },
+  {
+    "input": "There we go, and that's... Okay, and would you like to give a dollar to hungry kids today?\n",
+    "output": "[softly] No. I said no, before.\n"
+  },
+  {
+    "input": "[softly] No. I said no, before.\n",
+    "output": "Oh that's right. Okay, there's a picture of a little hungry boy. Will you just press on his belly? [Randy does so, and hears \"Oww, owww.\" The cashier checks the readout] Okay, that's got it. So, with the no help for hungry kids that's $18.87. [Randy hands him a $20 bill] Out of 20. [the cashier gives him some change back in the coin return tray] Your change is right there, just pull the sandwich out of the little girl's mouth. [a cardboard cutout of a little girl hides the coin return]\n"
+  },
+  {
+    "input": "Oh that's right. Okay, there's a picture of a little hungry boy. Will you just press on his belly? [Randy does so, and hears \"Oww, owww.\" The cashier checks the readout] Okay, that's got it. So, with the no help for hungry kids that's $18.87. [Randy hands him a $20 bill] Out of 20. [the cashier gives him some change back in the coin return tray] Your change is right there, just pull the sandwich out of the little girl's mouth. [a cardboard cutout of a little girl hides the coin return]\n",
+    "output": "This is not streamlined!\n"
+  },
+  {
+    "input": "This is not streamlined!\n",
+    "output": "It's just the new change dispenser, sir. [Randy then goes ahead and tries to pull the sandwich away]\n"
+  },
+  {
+    "input": "It's just the new change dispenser, sir. [Randy then goes ahead and tries to pull the sandwich away]\n",
+    "output": "[a couple of grunts later] I can't.\n"
+  },
+  {
+    "input": "[a couple of grunts later] I can't.\n",
+    "output": "Yes, she's a hungry one. You've gotta pull hard.\n"
+  },
+  {
+    "input": "Yes, she's a hungry one. You've gotta pull hard.\n",
+    "output": "Dammit! The sandwich isn't coming out.\n"
+  },
+  {
+    "input": "Dammit! The sandwich isn't coming out.\n",
+    "output": "Try putting your foot on her face. [Randy promptly does this. He also notices the woman he bumped into earlier in Checkout 4 and flashes a smile to her. Finally he pulls the sandwich out of the cutout's mouth and gets his change and his groceries] Have a nice day, sir!\n"
+  },
+  {
+    "input": "Try putting your foot on her face. [Randy promptly does this. He also notices the woman he bumped into earlier in Checkout 4 and flashes a smile to her. Finally he pulls the sandwich out of the cutout's mouth and gets his change and his groceries] Have a nice day, sir!\n",
+    "output": "I was having a nice day! [leaves the store]\n[South Park Elementary hallway, day. Cartman puts his books into his locker and closes it. As he walks away, Butters appears around the corner and catches up to him.]\n"
+  },
+  {
+    "input": "I was having a nice day! [leaves the store]\n[South Park Elementary hallway, day. Cartman puts his books into his locker and closes it. As he walks away, Butters appears around the corner and catches up to him.]\n",
+    "output": "[sounding quite tired] Eric, hold up.\n"
+  },
+  {
+    "input": "[sounding quite tired] Eric, hold up.\n",
+    "output": "There you are. You have my social media comments?\n"
+  },
+  {
+    "input": "There you are. You have my social media comments?\n",
+    "output": "Yeah. Yeah, right here. [hands him the papers] I just finished this morning.\n"
+  },
+  {
+    "input": "Yeah. Yeah, right here. [hands him the papers] I just finished this morning.\n",
+    "output": "[reviews them] Mm-hm. Hm-oh, that's nice. Oh great. This is all the Twitter comments?\n"
+  },
+  {
+    "input": "[reviews them] Mm-hm. Hm-oh, that's nice. Oh great. This is all the Twitter comments?\n",
+    "output": "Yeah. And the people commenting on your Yelp page starts here. [points to the first comment on the current page]\n"
+  },
+  {
+    "input": "Yeah. And the people commenting on your Yelp page starts here. [points to the first comment on the current page]\n",
+    "output": "Okay, nice. Oh ni- oh, very enthusiastic. This is so great! [turns around and walks by Kyle, who's at his locker.] Oh Kyle! You thought me having someone edit my social media would make me look stupid? You should see all the comments I'm getting. People are actually really stoked on me now.\n"
+  },
+  {
+    "input": "Okay, nice. Oh ni- oh, very enthusiastic. This is so great! [turns around and walks by Kyle, who's at his locker.] Oh Kyle! You thought me having someone edit my social media would make me look stupid? You should see all the comments I'm getting. People are actually really stoked on me now.\n",
+    "output": "It's a pretty brutal job sifting through all that darkness.\n[South Park Elementary gym, later. The whole school is in attendance as PC Principal introduces someone.]\n"
+  },
+  {
+    "input": "It's a pretty brutal job sifting through all that darkness.\n[South Park Elementary gym, later. The whole school is in attendance as PC Principal introduces someone.]\n",
+    "output": "Alright everyone, listen up. In order to better understand the negative effects of body-shaming, we have a- [points to someone on the bleachers] HEY, LESLIE! PUT A FUCKIN' SOCK IN IT! [Leslie was whispering to Esther again, and again she backs off slowly] We have a guest speaker today who will challenge our perceptions of physical beauty. [steps towards a screen upon which is a graphic that says \"NO MORE FAT SHAMING\"] So please welcome action star and hero, Steven Seagal. [claps a few times, then puts the mic into a mic stand and steps aside as music plays. Real life pictures of a slimmer Seagal from his early films pop up as a slide show]\n"
+  },
+  {
+    "input": "Alright everyone, listen up. In order to better understand the negative effects of body-shaming, we have a- [points to someone on the bleachers] HEY, LESLIE! PUT A FUCKIN' SOCK IN IT! [Leslie was whispering to Esther again, and again she backs off slowly] We have a guest speaker today who will challenge our perceptions of physical beauty. [steps towards a screen upon which is a graphic that says \"NO MORE FAT SHAMING\"] So please welcome action star and hero, Steven Seagal. [claps a few times, then puts the mic into a mic stand and steps aside as music plays. Real life pictures of a slimmer Seagal from his early films pop up as a slide show]\n",
+    "output": "[voice-over] You've got a problem with me? I'm your worse nightmare. I have no fear of death, more important, I don't fear life. [gun shot sound effect. The slide show ends and an obese Seagal walks into the gym with a gun drawn. He gets to the mic and begins to whimper, and lowers the gun] I'm a big action movie star and people are pretty stoked on me. And then I put a picture of myself up on the Internet and I had my shirt off and I said \"Do you think I'm ripped?\" and some people commented saying I didn't look ripped, that I was fat, and they called me Steven Se-boom-boom, so I put another picture on the Internet and I thought people would be stoked on me, but they said that I looked like a fat turd, and they said I wasn't buff. [hyperventilates] Body-shaming isn't cool, and, if p-people shame you on the Inter n-net, you have to make sure that you stay, you stay strong and tell everyone you're proud of how you look, like this. [begins to shuffle dance and clap as \"Got To Be Real\" starts playing]\n[The school hallway, later. Steven is headed out and PC Principal catches up to him.]\n"
+  },
+  {
+    "input": "[voice-over] You've got a problem with me? I'm your worse nightmare. I have no fear of death, more important, I don't fear life. [gun shot sound effect. The slide show ends and an obese Seagal walks into the gym with a gun drawn. He gets to the mic and begins to whimper, and lowers the gun] I'm a big action movie star and people are pretty stoked on me. And then I put a picture of myself up on the Internet and I had my shirt off and I said \"Do you think I'm ripped?\" and some people commented saying I didn't look ripped, that I was fat, and they called me Steven Se-boom-boom, so I put another picture on the Internet and I thought people would be stoked on me, but they said that I looked like a fat turd, and they said I wasn't buff. [hyperventilates] Body-shaming isn't cool, and, if p-people shame you on the Inter n-net, you have to make sure that you stay, you stay strong and tell everyone you're proud of how you look, like this. [begins to shuffle dance and clap as \"Got To Be Real\" starts playing]\n[The school hallway, later. Steven is headed out and PC Principal catches up to him.]\n",
+    "output": "Hey, Seagal! Listen, that was a really amazing talk you gave to the kids.\n"
+  },
+  {
+    "input": "Hey, Seagal! Listen, that was a really amazing talk you gave to the kids.\n",
+    "output": "[sniffs] Thank you.\n"
+  },
+  {
+    "input": "[sniffs] Thank you.\n",
+    "output": "I can see that you're in a lot of pain, bro. I've got someone who I think can help.\n[PC Principal's office. An exhausted Butters is sitting next to a sobbing Seagal as PC Principal makes his case]\n"
+  },
+  {
+    "input": "I can see that you're in a lot of pain, bro. I've got someone who I think can help.\n[PC Principal's office. An exhausted Butters is sitting next to a sobbing Seagal as PC Principal makes his case]\n",
+    "output": "So I want you to do for Mr. Seagal the same thing that you're doing for Eric Cartman.\n"
+  },
+  {
+    "input": "So I want you to do for Mr. Seagal the same thing that you're doing for Eric Cartman.\n",
+    "output": "But, PC Principal, I really don't have time.\n"
+  },
+  {
+    "input": "But, PC Principal, I really don't have time.\n",
+    "output": "This man took the time to come to your school and help spread body-shaming awareness! I think you can give him a little of your time!\n"
+  },
+  {
+    "input": "This man took the time to come to your school and help spread body-shaming awareness! I think you can give him a little of your time!\n",
+    "output": "Yes sir...\n[Whole Foods Market, later. Randy is back to buy more groceries. He's back at Checkout 5 with the same cashier as before]\n"
+  },
+  {
+    "input": "Yes sir...\n[Whole Foods Market, later. Randy is back to buy more groceries. He's back at Checkout 5 with the same cashier as before]\n",
+    "output": "Find everything you needed today?\n"
+  },
+  {
+    "input": "Find everything you needed today?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "Okay, looks like your total comes to $37.98. Would you like to give a dollar to help feed hungry kids?\n"
+  },
+  {
+    "input": "Okay, looks like your total comes to $37.98. Would you like to give a dollar to help feed hungry kids?\n",
+    "output": "Yes, I would like to give a dollar.\n"
+  },
+  {
+    "input": "Yes, I would like to give a dollar.\n",
+    "output": "[surprised] You want to give a dollar?\n"
+  },
+  {
+    "input": "[surprised] You want to give a dollar?\n",
+    "output": "Yes, I will.\n"
+  },
+  {
+    "input": "Yes, I will.\n",
+    "output": "[excited sounding] Oh wow, okay! So that's $10 for the beer, $4.20 in chocolate-covered peanuts, $26 in filet mignons, [sarcastically] and one dollar for hungry kids around the world. On \"amount of donation\" it will say $10, $20, or $50, can you just press the \"$1\" box? [Randy does so and bells, sirens, and colored lights go off. The cashier gets on the mic and says] Attention shoppers, somebody just joined the $1 club, giving one whole dollar to help feed hungry children. [quickly goes around the checkout] Here's your T-shirt! [quickly slips it on Randy and takes a picture, then prints the picture. The shirt says \"I Gave $1.00 to End Hunger.\" The cashier pins the picture on the \"$1\" cork board, which was empty before] Ho, won't the kids be thrilled when they get their piece of that big impressive dollar. [walks back to his register and sings] For he's a jolly good fellow, for he's a jolly good fellow, for he's a jolly good fellow! He ended world hunger. [Randy takes his groceries and leaves, whimpering]\n[Butter's house, afternoon, bedroom. Butters is toiling away at his computer.]\n"
+  },
+  {
+    "input": "[excited sounding] Oh wow, okay! So that's $10 for the beer, $4.20 in chocolate-covered peanuts, $26 in filet mignons, [sarcastically] and one dollar for hungry kids around the world. On \"amount of donation\" it will say $10, $20, or $50, can you just press the \"$1\" box? [Randy does so and bells, sirens, and colored lights go off. The cashier gets on the mic and says] Attention shoppers, somebody just joined the $1 club, giving one whole dollar to help feed hungry children. [quickly goes around the checkout] Here's your T-shirt! [quickly slips it on Randy and takes a picture, then prints the picture. The shirt says \"I Gave $1.00 to End Hunger.\" The cashier pins the picture on the \"$1\" cork board, which was empty before] Ho, won't the kids be thrilled when they get their piece of that big impressive dollar. [walks back to his register and sings] For he's a jolly good fellow, for he's a jolly good fellow, for he's a jolly good fellow! He ended world hunger. [Randy takes his groceries and leaves, whimpering]\n[Butter's house, afternoon, bedroom. Butters is toiling away at his computer.]\n",
+    "output": "Yech. Oh God that's terrible. Jesus.\n"
+  },
+  {
+    "input": "Yech. Oh God that's terrible. Jesus.\n",
+    "output": "[sitting on Butters' bed] Yeah. No, I'm telling you, Tracy, it's the greatest thing ever. I'm getting all my Twitter and Instagram comments on paper, and the nasty mean stuff, all gets edited out.\n"
+  },
+  {
+    "input": "[sitting on Butters' bed] Yeah. No, I'm telling you, Tracy, it's the greatest thing ever. I'm getting all my Twitter and Instagram comments on paper, and the nasty mean stuff, all gets edited out.\n",
+    "output": "Whoa my God. Wugh.\n"
+  },
+  {
+    "input": "Whoa my God. Wugh.\n",
+    "output": "Yeah. And the coolest thing? Ever since I started using this service, all of my followers are actually way more stoked on me. So cool, right?\n"
+  },
+  {
+    "input": "Yeah. And the coolest thing? Ever since I started using this service, all of my followers are actually way more stoked on me. So cool, right?\n",
+    "output": "Butters!\n"
+  },
+  {
+    "input": "Butters!\n",
+    "output": "[startled] Yeah!\n"
+  },
+  {
+    "input": "[startled] Yeah!\n",
+    "output": "[at the bedroom door] What the hell is this? The last report you gave me has a comment that says \"This picture of you burned my eyes, fatso!\"\n"
+  },
+  {
+    "input": "[at the bedroom door] What the hell is this? The last report you gave me has a comment that says \"This picture of you burned my eyes, fatso!\"\n",
+    "output": "Well, I'm sorry, Eric. I, I guess it slipped through the cracks. I'm overloaded with all the new people.\n"
+  },
+  {
+    "input": "Well, I'm sorry, Eric. I, I guess it slipped through the cracks. I'm overloaded with all the new people.\n",
+    "output": "What new people? [walks up to the computer]\n"
+  },
+  {
+    "input": "What new people? [walks up to the computer]\n",
+    "output": "Well, I've got Demi Lovato [points to her] to take care of now, and Lena Dunham just put a picture of her asshole on Twitter, and wants only the positive comments.\n"
+  },
+  {
+    "input": "Well, I've got Demi Lovato [points to her] to take care of now, and Lena Dunham just put a picture of her asshole on Twitter, and wants only the positive comments.\n",
+    "output": "Dude, fuck Demi Lovato! She's fuckin' hot, she's not being fat-shamed!\n"
+  },
+  {
+    "input": "Dude, fuck Demi Lovato! She's fuckin' hot, she's not being fat-shamed!\n",
+    "output": "[stands up] Am so! But I don't care. People just have to accept my body the way it is.\n"
+  },
+  {
+    "input": "[stands up] Am so! But I don't care. People just have to accept my body the way it is.\n",
+    "output": "Butters, I want this fixed by tonight! You got that?!\n"
+  },
+  {
+    "input": "Butters, I want this fixed by tonight! You got that?!\n",
+    "output": "Okay, Eric. [Cartman walks away]\n[A commercial. \"Amazing Grace\" plays with a female voice. A poor community is shown. Randy walks among the poor folk]\n"
+  },
+  {
+    "input": "Okay, Eric. [Cartman walks away]\n[A commercial. \"Amazing Grace\" plays with a female voice. A poor community is shown. Randy walks among the poor folk]\n",
+    "output": "This is a place where hope is scarce. These people are hungry. Little Jojo here might not eat today. But does that mean it's okay for cashiers to ask us for money while we're in the checkout line? It isn't right, and it isn't fair. Just $2 a day adds up to 62 goddamned dollars a month if you go to Whole Foods as much as I do. Nobody should have to feel the shame, the humiliation, of being asked to add money onto their grocery bill. Help now. Let's make grocery stores a #SAFESPACE for all. Together, we can make a difference.\n"
+  },
+  {
+    "input": "This is a place where hope is scarce. These people are hungry. Little Jojo here might not eat today. But does that mean it's okay for cashiers to ask us for money while we're in the checkout line? It isn't right, and it isn't fair. Just $2 a day adds up to 62 goddamned dollars a month if you go to Whole Foods as much as I do. Nobody should have to feel the shame, the humiliation, of being asked to add money onto their grocery bill. Help now. Let's make grocery stores a #SAFESPACE for all. Together, we can make a difference.\n",
+    "output": "Because charity-shaming hurts everyone. [Randy holds her a bit closer]\n[PC Principal's office, day. He and Mr. Mackey are talking to someone]\n"
+  },
+  {
+    "input": "Because charity-shaming hurts everyone. [Randy holds her a bit closer]\n[PC Principal's office, day. He and Mr. Mackey are talking to someone]\n",
+    "output": "You know, if there's one thing I really respect, it's plus-sized models who challenge the idea of what makes a woman beautiful. These ladies are gonna be part of a big ad campaign for plus-sized lingerie, and we wanna make sure they're protected from any harassing comments.\n"
+  },
+  {
+    "input": "You know, if there's one thing I really respect, it's plus-sized models who challenge the idea of what makes a woman beautiful. These ladies are gonna be part of a big ad campaign for plus-sized lingerie, and we wanna make sure they're protected from any harassing comments.\n",
+    "output": "[Butters is seated across from PC Principal with an entire row of plus-sized women in lingerie] Do I have to, sir?\n"
+  },
+  {
+    "input": "[Butters is seated across from PC Principal with an entire row of plus-sized women in lingerie] Do I have to, sir?\n",
+    "output": "Hey, they're gonna putting themselves out there, and all I'm asking you to do is go through their social media and delete the two or three comments that are mean.\n"
+  },
+  {
+    "input": "Hey, they're gonna putting themselves out there, and all I'm asking you to do is go through their social media and delete the two or three comments that are mean.\n",
+    "output": "PC Principal, ah, I don't think you quite realize how much negative stuff I have to sift through.\n"
+  },
+  {
+    "input": "PC Principal, ah, I don't think you quite realize how much negative stuff I have to sift through.\n",
+    "output": "I know it's a lot, but I just really need you to help these plus-sized models. And Vin Diesel.\n"
+  },
+  {
+    "input": "I know it's a lot, but I just really need you to help these plus-sized models. And Vin Diesel.\n",
+    "output": "Vin Diesel too??\n"
+  },
+  {
+    "input": "Vin Diesel too??\n",
+    "output": "Look bro! You've done an amazing job with Eric Cartman. You have really turned his life around, and other people deserve... to be as happy as he is.\n[South Park Elementary hallway. A piano begins to play a song, and Cartman sings first. Soon, an abstract space appears in which are tiny rooms - a safe space - one for each person singing]\n"
+  },
+  {
+    "input": "Look bro! You've done an amazing job with Eric Cartman. You have really turned his life around, and other people deserve... to be as happy as he is.\n[South Park Elementary hallway. A piano begins to play a song, and Cartman sings first. Soon, an abstract space appears in which are tiny rooms - a safe space - one for each person singing]\n",
+    "output": "Everyone likes me and thinks I'm great in my safe spaaaace.\n"
+  },
+  {
+    "input": "Everyone likes me and thinks I'm great in my safe spaaaace.\n",
+    "output": "My safe spaaaace.\n"
+  },
+  {
+    "input": "My safe spaaaace.\n",
+    "output": "[eating in a restaurant, Butters hands him more comments] People don't judge me and haters don't hate in my safe spaaaace. [An exhausted Butters is hard at work in his room]\n"
+  },
+  {
+    "input": "[eating in a restaurant, Butters hands him more comments] People don't judge me and haters don't hate in my safe spaaaace. [An exhausted Butters is hard at work in his room]\n",
+    "output": "Your safe spaaaace.\n"
+  },
+  {
+    "input": "Your safe spaaaace.\n",
+    "output": "[standing in a floating tiny room] Bully-proof windows, troll-safe doors, nothing but kindness and healing.\n"
+  },
+  {
+    "input": "[standing in a floating tiny room] Bully-proof windows, troll-safe doors, nothing but kindness and healing.\n",
+    "output": "You might call me a pussy, but I won't hear you in my safe spaaaace.\n"
+  },
+  {
+    "input": "You might call me a pussy, but I won't hear you in my safe spaaaace.\n",
+    "output": "My safe spaaaace.\n"
+  },
+  {
+    "input": "My safe spaaaace.\n",
+    "output": "Bully-proof windows.\n"
+  },
+  {
+    "input": "Bully-proof windows.\n",
+    "output": "[standing under a spotlight] If you do not like me, you are not allowed in my safe spaaaace.\n"
+  },
+  {
+    "input": "[standing under a spotlight] If you do not like me, you are not allowed in my safe spaaaace.\n",
+    "output": "My safe spaaaace\n"
+  },
+  {
+    "input": "My safe spaaaace\n",
+    "output": "[inside the pricipal's office with Butters, he then hands Vin Disel more comments] Look and you will see there's a very select crowd in your safe spaaaace. [Steven Seagal is resting on a bed in his safe space]\n"
+  },
+  {
+    "input": "[inside the pricipal's office with Butters, he then hands Vin Disel more comments] Look and you will see there's a very select crowd in your safe spaaaace. [Steven Seagal is resting on a bed in his safe space]\n",
+    "output": "My safe spaaaace.\n"
+  },
+  {
+    "input": "My safe spaaaace.\n",
+    "output": "People that support me.\n"
+  },
+  {
+    "input": "People that support me.\n",
+    "output": "Mixed in with\n"
+  },
+  {
+    "input": "Mixed in with\n",
+    "output": "More people that support me.\n"
+  },
+  {
+    "input": "More people that support me.\n",
+    "output": "And say nice things. Rainbows all around me, there is no shame in my safe spaaaace.\n"
+  },
+  {
+    "input": "And say nice things. Rainbows all around me, there is no shame in my safe spaaaace.\n",
+    "output": "My safe spaaaace.\n"
+  },
+  {
+    "input": "My safe spaaaace.\n",
+    "output": "Bully-proof windows. [a change in tempo as villianous music plays and a masked villain enters the video.]\n"
+  },
+  {
+    "input": "Bully-proof windows. [a change in tempo as villianous music plays and a masked villain enters the video.]\n",
+    "output": "I am going to tear down your safe space! Brick by brick, I shall smash it with glee!\n"
+  },
+  {
+    "input": "I am going to tear down your safe space! Brick by brick, I shall smash it with glee!\n",
+    "output": "What? Who is that?\n"
+  },
+  {
+    "input": "What? Who is that?\n",
+    "output": "You cannot stop me from getting inside! I am cold and I am hard, and my name... is Reality.\n"
+  },
+  {
+    "input": "You cannot stop me from getting inside! I am cold and I am hard, and my name... is Reality.\n",
+    "output": "Oh no, not reality! Somebody stop him!\n"
+  },
+  {
+    "input": "Oh no, not reality! Somebody stop him!\n",
+    "output": "I'll take care of him, Demi! [shoots lightning from his hands, and the various people in their safe spaces are now dressed to dance!]\n"
+  },
+  {
+    "input": "I'll take care of him, Demi! [shoots lightning from his hands, and the various people in their safe spaces are now dressed to dance!]\n",
+    "output": "[faster rock music begins playing] You can't ruin our lives, Reality!\n"
+  },
+  {
+    "input": "[faster rock music begins playing] You can't ruin our lives, Reality!\n",
+    "output": "Our safe spaces will keep you out!\n"
+  },
+  {
+    "input": "Our safe spaces will keep you out!\n",
+    "output": "Drat!\n"
+  },
+  {
+    "input": "Drat!\n",
+    "output": "We can face almost anything!\n"
+  },
+  {
+    "input": "We can face almost anything!\n",
+    "output": "But Reality we can do without!\n"
+  },
+  {
+    "input": "But Reality we can do without!\n",
+    "output": "Nooooo... [vanishes, as the original piano music resumes]\n"
+  },
+  {
+    "input": "Nooooo... [vanishes, as the original piano music resumes]\n",
+    "output": "Bully-proof windows.\n"
+  },
+  {
+    "input": "Bully-proof windows.\n",
+    "output": "Troll-safe doors. [slowing down] My Safe Spaaaaaaaace! [all stop]\n"
+  },
+  {
+    "input": "Troll-safe doors. [slowing down] My Safe Spaaaaaaaace! [all stop]\n",
+    "output": "That was nice.\n[Whole Foods Market, day. The cashier at Checkout 5 sends one shopper off]\n"
+  },
+  {
+    "input": "That was nice.\n[Whole Foods Market, day. The cashier at Checkout 5 sends one shopper off]\n",
+    "output": "All right, thanks, have a great day. [Randy steps up] Good afternoon sir.\n"
+  },
+  {
+    "input": "All right, thanks, have a great day. [Randy steps up] Good afternoon sir.\n",
+    "output": "[self-assured] Oh, hello. You might know Steven Seagal [who steps up, with his gun aimed at the cashier]\n"
+  },
+  {
+    "input": "[self-assured] Oh, hello. You might know Steven Seagal [who steps up, with his gun aimed at the cashier]\n",
+    "output": "You wanna play with me?\n"
+  },
+  {
+    "input": "You wanna play with me?\n",
+    "output": "And this is Vin Diesel.\n"
+  },
+  {
+    "input": "And this is Vin Diesel.\n",
+    "output": "Oh, hello gentlemen.\n"
+  },
+  {
+    "input": "Oh, hello gentlemen.\n",
+    "output": "It'd be... a really bad idea for you to charity-shame me today. These guys are here to protect my safe space.\n"
+  },
+  {
+    "input": "It'd be... a really bad idea for you to charity-shame me today. These guys are here to protect my safe space.\n",
+    "output": "That's great. [hums to himself as he scans Randy's items]\nThis little piggy went to market.\nThis little piggy stayed home.\nThis little piggy was in Fast And The Furious, [Vin Diesel begins to whimper and walks away]\nand this little piggy goes direct to cable.[Steven Seagal begins to whimper and walks away]\n[jabs Randy in the belly] And this little piggy just bought fifty-three dollars in beer and frozen pizzas. Would you like to make a dollar donation to hungry kids today?\n[A second commercial. We're back in the poor community. \"Amazing Grace\" plays with a deep male voice, and Demi Lovato walks in]\n"
+  },
+  {
+    "input": "That's great. [hums to himself as he scans Randy's items]\nThis little piggy went to market.\nThis little piggy stayed home.\nThis little piggy was in Fast And The Furious, [Vin Diesel begins to whimper and walks away]\nand this little piggy goes direct to cable.[Steven Seagal begins to whimper and walks away]\n[jabs Randy in the belly] And this little piggy just bought fifty-three dollars in beer and frozen pizzas. Would you like to make a dollar donation to hungry kids today?\n[A second commercial. We're back in the poor community. \"Amazing Grace\" plays with a deep male voice, and Demi Lovato walks in]\n",
+    "output": "Look around you. What do you see? People who are slim. Skinny. But not everyone can have nice bodies like them. Just imagine it. Putting your pictures up on Twitter just to have some people write comments about your weight. It happens, all too often.\n"
+  },
+  {
+    "input": "Look around you. What do you see? People who are slim. Skinny. But not everyone can have nice bodies like them. Just imagine it. Putting your pictures up on Twitter just to have some people write comments about your weight. It happens, all too often.\n",
+    "output": "[taking over] But it doesn't stop there. People also can be shamed for other traits viewed as negative. Mike here was shamed for not being a good recycler.\n"
+  },
+  {
+    "input": "[taking over] But it doesn't stop there. People also can be shamed for other traits viewed as negative. Mike here was shamed for not being a good recycler.\n",
+    "output": "And so together, we have created #shamelessAmerica, [a screen pops up with \"let's work towards a #shamelessAmerica.\"] so no one is ever labeled...\n"
+  },
+  {
+    "input": "And so together, we have created #shamelessAmerica, [a screen pops up with \"let's work towards a #shamelessAmerica.\"] so no one is ever labeled...\n",
+    "output": "Tubby.\n"
+  },
+  {
+    "input": "Tubby.\n",
+    "output": "Bad with tools.\n"
+  },
+  {
+    "input": "Bad with tools.\n",
+    "output": "Dyke!\n"
+  },
+  {
+    "input": "Dyke!\n",
+    "output": "Butter butter dirty line cutter.\n"
+  },
+  {
+    "input": "Butter butter dirty line cutter.\n",
+    "output": "Let's work together to create a completely shameless America.\n"
+  },
+  {
+    "input": "Let's work together to create a completely shameless America.\n",
+    "output": "[emaciated] Because shaming hurts everyone. [Randy holds him a bit closer]\n[Butters' room, night. He's editing out negative comments on Demi Lovato's social media pages before printing them]\n"
+  },
+  {
+    "input": "[emaciated] Because shaming hurts everyone. [Randy holds him a bit closer]\n[Butters' room, night. He's editing out negative comments on Demi Lovato's social media pages before printing them]\n",
+    "output": "[reading through online messages] \"Hey Demi Lovato, I bet your vagina has a-\" [begins to gag] oh. Oh God. Oh, that's horrible [picks up a waste basket and vomits into it] Augh. [coughs] Jeez. Delete. Delete that too. [continues reading comments aloud] \"I'd like to stick my wiener into those fat rolls of-\" [villianous piano music begins to play] Oh God! [Reality sneaks into his room and paces behind Butter's chair] Uh, delete! \"You aren't fat, but my dick is-\" Whoa, God.\n"
+  },
+  {
+    "input": "[reading through online messages] \"Hey Demi Lovato, I bet your vagina has a-\" [begins to gag] oh. Oh God. Oh, that's horrible [picks up a waste basket and vomits into it] Augh. [coughs] Jeez. Delete. Delete that too. [continues reading comments aloud] \"I'd like to stick my wiener into those fat rolls of-\" [villianous piano music begins to play] Oh God! [Reality sneaks into his room and paces behind Butter's chair] Uh, delete! \"You aren't fat, but my dick is-\" Whoa, God.\n",
+    "output": "HaHAA!\n"
+  },
+  {
+    "input": "HaHAA!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "So you're the one trying to destroy me, eh??\n"
+  },
+  {
+    "input": "So you're the one trying to destroy me, eh??\n",
+    "output": "What? [falls out of his chair. Reality tries to grab him, but misses. Butters runs to a night stand]\n"
+  },
+  {
+    "input": "What? [falls out of his chair. Reality tries to grab him, but misses. Butters runs to a night stand]\n",
+    "output": "You little shit! Keep me out, will you?\n"
+  },
+  {
+    "input": "You little shit! Keep me out, will you?\n",
+    "output": "I don't know you, sir!\n"
+  },
+  {
+    "input": "I don't know you, sir!\n",
+    "output": "You can't stop me! [tries to grab Butters again, but breaks the lamp on the night stand] I'm going to kill you! [jumps up to fall on him. At that moment, the bedroom door opens]\n"
+  },
+  {
+    "input": "You can't stop me! [tries to grab Butters again, but breaks the lamp on the night stand] I'm going to kill you! [jumps up to fall on him. At that moment, the bedroom door opens]\n",
+    "output": "Butters! What are you doing?!\n"
+  },
+  {
+    "input": "Butters! What are you doing?!\n",
+    "output": "[panicked] Well-ll, the man! Uh, the man is gonna get me! [Butters points to where Reality was standing only for the shot to widen showing he is no longer there]\n[Whole Foods Market, day. The cashier is ringing Randy up.]\n"
+  },
+  {
+    "input": "[panicked] Well-ll, the man! Uh, the man is gonna get me! [Butters points to where Reality was standing only for the shot to widen showing he is no longer there]\n[Whole Foods Market, day. The cashier is ringing Randy up.]\n",
+    "output": "And some chocolate-covered almonds. Vanderpump Sangria mix.\n"
+  },
+  {
+    "input": "And some chocolate-covered almonds. Vanderpump Sangria mix.\n",
+    "output": "Yeah, um, I'm a little tired because I'm actually hosting a huge fundraiser for my charity organization [shows off his shirt: \"#ShamelessAmerica\"] that I'm sort of the head of.\n"
+  },
+  {
+    "input": "Yeah, um, I'm a little tired because I'm actually hosting a huge fundraiser for my charity organization [shows off his shirt: \"#ShamelessAmerica\"] that I'm sort of the head of.\n",
+    "output": "That's great, sir. Ice cream sandwiches.\n"
+  },
+  {
+    "input": "That's great, sir. Ice cream sandwiches.\n",
+    "output": "Yeah, we're gonna raise a lot of money. Celebrities are coming. Demi Lovato is givin' a hundred thousand for the event.\n"
+  },
+  {
+    "input": "Yeah, we're gonna raise a lot of money. Celebrities are coming. Demi Lovato is givin' a hundred thousand for the event.\n",
+    "output": "Wonderful. Rotisserie chicken. Oh yep, gotta have that Frank's hot sauce.\n"
+  },
+  {
+    "input": "Wonderful. Rotisserie chicken. Oh yep, gotta have that Frank's hot sauce.\n",
+    "output": "I just thought, you know, a fundraiser dinner was sort of the appropriate place to ask for donations.\n"
+  },
+  {
+    "input": "I just thought, you know, a fundraiser dinner was sort of the appropriate place to ask for donations.\n",
+    "output": "That's great, sir. Okay, your total is $37.85, and would you like to give a dollar to help put a hamster through college?\n"
+  },
+  {
+    "input": "That's great, sir. Okay, your total is $37.85, and would you like to give a dollar to help put a hamster through college?\n",
+    "output": "[stunned] ...What? Did you not hear anything I said? I'm - I'm doin' all this stuff.\n"
+  },
+  {
+    "input": "[stunned] ...What? Did you not hear anything I said? I'm - I'm doin' all this stuff.\n",
+    "output": "Not a problem, sir. [takes out a hamster from behind the counter] If you could just press the N0 button and tell the little hamster he's not going to college. Just look him right in the eye, sir, and say \"Not today, buddy.\"\n"
+  },
+  {
+    "input": "Not a problem, sir. [takes out a hamster from behind the counter] If you could just press the N0 button and tell the little hamster he's not going to college. Just look him right in the eye, sir, and say \"Not today, buddy.\"\n",
+    "output": "Actually, my big fundraising gala is helping put hamsters through college too.\n"
+  },
+  {
+    "input": "Actually, my big fundraising gala is helping put hamsters through college too.\n",
+    "output": "[Excited] Oh, really? Wow. Did you hear that, Banjo? You've got support. [puts the hamster back behind the counter] Well, you have a nice day sir. [hands Randy his receipt] And thank so much for being so generous.\n"
+  },
+  {
+    "input": "[Excited] Oh, really? Wow. Did you hear that, Banjo? You've got support. [puts the hamster back behind the counter] Well, you have a nice day sir. [hands Randy his receipt] And thank so much for being so generous.\n",
+    "output": "You're welcome. [takes his groceries, but has no bag to put them in. He doesn't mind]\n[South Park Elementary hallway. Stan, Kyle, Dav\u00edd and Kenny walk along when Cartman interrupts them.]\n"
+  },
+  {
+    "input": "You're welcome. [takes his groceries, but has no bag to put them in. He doesn't mind]\n[South Park Elementary hallway. Stan, Kyle, Dav\u00edd and Kenny walk along when Cartman interrupts them.]\n",
+    "output": "Hey, Kyle. You wanna see what people said about my dick pic? Everyone's pretty stoked on it.\n"
+  },
+  {
+    "input": "Hey, Kyle. You wanna see what people said about my dick pic? Everyone's pretty stoked on it.\n",
+    "output": "There's more than two people on the Internet.\n"
+  },
+  {
+    "input": "There's more than two people on the Internet.\n",
+    "output": "The man! The man the man the man the man! [runs around the corner completely naked] The man he's gonna get me! He shadows me everywhere! [stops another student and gets in his face] Do you see the man?!\n"
+  },
+  {
+    "input": "The man! The man the man the man the man! [runs around the corner completely naked] The man he's gonna get me! He shadows me everywhere! [stops another student and gets in his face] Do you see the man?!\n",
+    "output": "[turns him around] Butters, what are you doing?! [the other student leaves]\n"
+  },
+  {
+    "input": "[turns him around] Butters, what are you doing?! [the other student leaves]\n",
+    "output": "Well, he's gonna get me!\n"
+  },
+  {
+    "input": "Well, he's gonna get me!\n",
+    "output": "Dude, Butters, you're seeing things! Sifting through all the horrible stuff people say on the Internet is making you lose it!\n"
+  },
+  {
+    "input": "Dude, Butters, you're seeing things! Sifting through all the horrible stuff people say on the Internet is making you lose it!\n",
+    "output": "[breaks free and runs off] The world is darkness! The man is coming!\n"
+  },
+  {
+    "input": "[breaks free and runs off] The world is darkness! The man is coming!\n",
+    "output": "Dude, Butters! [he and Kyle give chase. Butters goes up a flight of stairs]\n"
+  },
+  {
+    "input": "Dude, Butters! [he and Kyle give chase. Butters goes up a flight of stairs]\n",
+    "output": "Aaaaa! Aaaaa!\n[Kindergarten, day. The teacher quizzes the kids on a story]\n"
+  },
+  {
+    "input": "Aaaaa! Aaaaa!\n[Kindergarten, day. The teacher quizzes the kids on a story]\n",
+    "output": "And what color is the little ball the kittens are playing with?\n"
+  },
+  {
+    "input": "And what color is the little ball the kittens are playing with?\n",
+    "output": "[runs into the classroom] Run for your lives, you little fuckers, the man is coming! [the kids scream as Kyle enters the room. Stan, Dav\u00edd and Kenny follow him in]\n"
+  },
+  {
+    "input": "[runs into the classroom] Run for your lives, you little fuckers, the man is coming! [the kids scream as Kyle enters the room. Stan, Dav\u00edd and Kenny follow him in]\n",
+    "output": "Butters, listen to my voice.\n"
+  },
+  {
+    "input": "Butters, listen to my voice.\n",
+    "output": "The man is gonna get me if I don't stop!\n"
+  },
+  {
+    "input": "The man is gonna get me if I don't stop!\n",
+    "output": "Then stop, dude! Butters, all this isn't worth it. Just. Take, the detention, dude.\n"
+  },
+  {
+    "input": "Then stop, dude! Butters, all this isn't worth it. Just. Take, the detention, dude.\n",
+    "output": "[thinks a moment and jumps through a glass window on the second floor] YEEAAAAAGGHH! [hits the snow hard]\n[South Park Community Center, Night, Shameless America Charity Event. Guests arrive in limousines. Gerald steps out of one and goes inside. Randy is hosting. Fanfare plays]\n"
+  },
+  {
+    "input": "[thinks a moment and jumps through a glass window on the second floor] YEEAAAAAGGHH! [hits the snow hard]\n[South Park Community Center, Night, Shameless America Charity Event. Guests arrive in limousines. Gerald steps out of one and goes inside. Randy is hosting. Fanfare plays]\n",
+    "output": "Alright everyone, thanks for coming to help raise money to stop shaming, and put hamsters through college.\n"
+  },
+  {
+    "input": "Alright everyone, thanks for coming to help raise money to stop shaming, and put hamsters through college.\n",
+    "output": "What'd he say?\n"
+  },
+  {
+    "input": "What'd he say?\n",
+    "output": "And now, a woman who knows about shaming firsthand, supermodel Gigi Hadid.\n"
+  },
+  {
+    "input": "And now, a woman who knows about shaming firsthand, supermodel Gigi Hadid.\n",
+    "output": "Alright, everyone enjoying themselves? How's that filet mignon? [approving comments all around] You know, we're all here for a really important reason. Because everyone should-\n"
+  },
+  {
+    "input": "Alright, everyone enjoying themselves? How's that filet mignon? [approving comments all around] You know, we're all here for a really important reason. Because everyone should-\n",
+    "output": "Randy, Randy, we've got a problem.\n"
+  },
+  {
+    "input": "Randy, Randy, we've got a problem.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Reality's here. He's trying to crash the party.\n"
+  },
+  {
+    "input": "Reality's here. He's trying to crash the party.\n",
+    "output": "Reality? Who let him in? Shit! [leaves to face him]\n"
+  },
+  {
+    "input": "Reality? Who let him in? Shit! [leaves to face him]\n",
+    "output": "[making a nuisance of himself at a table, spills a glass of wine] Woo, nice wine, huh? What do you think of that? [tips another glass over] You know what I think of your pretty flowers? [grabs the centerpiece bouquet and throws it to the ground, then dumps a guest's dinner on his lap] There you go. How do you like that? [Randy and Stephen arrive]\n"
+  },
+  {
+    "input": "[making a nuisance of himself at a table, spills a glass of wine] Woo, nice wine, huh? What do you think of that? [tips another glass over] You know what I think of your pretty flowers? [grabs the centerpiece bouquet and throws it to the ground, then dumps a guest's dinner on his lap] There you go. How do you like that? [Randy and Stephen arrive]\n",
+    "output": "Alright buddy, let's go.\n"
+  },
+  {
+    "input": "Alright buddy, let's go.\n",
+    "output": "I shit on all of you!\n"
+  },
+  {
+    "input": "I shit on all of you!\n",
+    "output": "Seagal?! [Steven Seagal approaches with gun drawn and aimed at Reality]\n"
+  },
+  {
+    "input": "Seagal?! [Steven Seagal approaches with gun drawn and aimed at Reality]\n",
+    "output": "[to Seagal, Randy, and three guests] Fuck you, fuck you, fuck you, fuck you, fuck you! [jumps over the table and rushes the stage, then grabs the mic from Gigi Hadid] Give me that, you stupid bitch! [she walks off] What a lovely charity event. I suppose you're all feeling pretty good about yourselves, hm? What have you done? You've raised $300 by spending half a million on filet mignon and crystal glasses. [crowd is silenced and ashamed at themselves] Look at you, Vin Dipshit. You think fat-shaming is wrong, so in response you show off your abs. You're the one fat-shaming, idiot! What's the matter with you people?! You're saaad that people are meeean? Well I'm sorry, the world isn't one big liberal arts college campus! We eat too much; we take our spoiled lives for granted, feel a little bad about it sometimes! No, you wanna put up all your shit on the Internet and have every single person say \"Hooray for you!\" Fuck you. You're all pricks. And I've got news for you! While you've all been sitting here trying to feel good, the little boy who sucked all your shit is about to die from it!\n"
+  },
+  {
+    "input": "[to Seagal, Randy, and three guests] Fuck you, fuck you, fuck you, fuck you, fuck you! [jumps over the table and rushes the stage, then grabs the mic from Gigi Hadid] Give me that, you stupid bitch! [she walks off] What a lovely charity event. I suppose you're all feeling pretty good about yourselves, hm? What have you done? You've raised $300 by spending half a million on filet mignon and crystal glasses. [crowd is silenced and ashamed at themselves] Look at you, Vin Dipshit. You think fat-shaming is wrong, so in response you show off your abs. You're the one fat-shaming, idiot! What's the matter with you people?! You're saaad that people are meeean? Well I'm sorry, the world isn't one big liberal arts college campus! We eat too much; we take our spoiled lives for granted, feel a little bad about it sometimes! No, you wanna put up all your shit on the Internet and have every single person say \"Hooray for you!\" Fuck you. You're all pricks. And I've got news for you! While you've all been sitting here trying to feel good, the little boy who sucked all your shit is about to die from it!\n",
+    "output": "What?\n[Hell's Pass hospital, later. Butters is in a recovery room with tubes going into him and wires attached to him. Steven Seagal and Vin Diesel are there with the plus-sized models, Demi Lovato, Gigi Hadid, PC Principal, Stephen, and others]\n"
+  },
+  {
+    "input": "What?\n[Hell's Pass hospital, later. Butters is in a recovery room with tubes going into him and wires attached to him. Steven Seagal and Vin Diesel are there with the plus-sized models, Demi Lovato, Gigi Hadid, PC Principal, Stephen, and others]\n",
+    "output": "Oh my God. What have we done?\n"
+  },
+  {
+    "input": "Oh my God. What have we done?\n",
+    "output": "Jesus, I d-I didn't even think.\n"
+  },
+  {
+    "input": "Jesus, I d-I didn't even think.\n",
+    "output": "I guess... I asked too much of one kid.\n"
+  },
+  {
+    "input": "I guess... I asked too much of one kid.\n",
+    "output": "Listen, everybody. [the group splits in two so the camera can see him] I think there's a way to try and make this right for everyone.\n[A third commercial. We're back in the poor community. \"Amazing Grace\" plays with an organ, and a choir joins in later]\n"
+  },
+  {
+    "input": "Listen, everybody. [the group splits in two so the camera can see him] I think there's a way to try and make this right for everyone.\n[A third commercial. We're back in the poor community. \"Amazing Grace\" plays with an organ, and a choir joins in later]\n",
+    "output": "To date, Shameless America has raised over $40,000. With that money, we are putting more and more iPads into these people's hands. [all the kids look at the iPads, not sure what to do with them] With iPads, these people can finally help more Americans get rid of negativity on their social media. [Jojo returns with an iPad, handing it to Randy] Oh, thanks Jojo. I'm shame-free now, and you can be too. For just $1 a day, one of these beautiful children will protect you from trolls and make your Internet a safe space. [a screen pops up with \"We won't rest until America is #completelyshameless\"] We won't rest until America is completely shameless. The world can be brutal, but Shameless America is going to continue to take steps to make sure everyone has a safe space... forever.\n[South Park Town Square, day. The stage is set for a hanging. Reality has a noose around his neck, and Butters is set to be the executioner. Butters is out of the hospital with a head brace and a crutch]\n"
+  },
+  {
+    "input": "To date, Shameless America has raised over $40,000. With that money, we are putting more and more iPads into these people's hands. [all the kids look at the iPads, not sure what to do with them] With iPads, these people can finally help more Americans get rid of negativity on their social media. [Jojo returns with an iPad, handing it to Randy] Oh, thanks Jojo. I'm shame-free now, and you can be too. For just $1 a day, one of these beautiful children will protect you from trolls and make your Internet a safe space. [a screen pops up with \"We won't rest until America is #completelyshameless\"] We won't rest until America is completely shameless. The world can be brutal, but Shameless America is going to continue to take steps to make sure everyone has a safe space... forever.\n[South Park Town Square, day. The stage is set for a hanging. Reality has a noose around his neck, and Butters is set to be the executioner. Butters is out of the hospital with a head brace and a crutch]\n",
+    "output": "Are you sure this is a good idea?\n"
+  }
+]

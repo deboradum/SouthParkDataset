@@ -1,0 +1,866 @@
+[
+  {
+    "input": "",
+    "output": "Hummels & Heroin\n\n[A children's party, day, \"Happy Birthday, Marcus!\". As the kids have a blast, a parent walks up on stage. which has an electric guitar off to one side. Butters swings at a pi\u00f1ata blindfolded. Wendy and Nelly jump around in the bounce house.]\n"
+  },
+  {
+    "input": "Hummels & Heroin\n\n[A children's party, day, \"Happy Birthday, Marcus!\". As the kids have a blast, a parent walks up on stage. which has an electric guitar off to one side. Butters swings at a pi\u00f1ata blindfolded. Wendy and Nelly jump around in the bounce house.]\n",
+    "output": "Okay, okay, can everyone hear me? [taps on the mic to make sure it works] Hello? [the kids quiet down a bit] Thanks, everyone, for helping us celebrate Marcus' birthday. [the kids clap for him] As a special birthday surprise for you, Marcus, we got you your favorite entertainer. Everyone, please welcome Chuck E. Cheese. [A Chuck E. Cheese mascot stumbles onto the stage]\n"
+  },
+  {
+    "input": "Okay, okay, can everyone hear me? [taps on the mic to make sure it works] Hello? [the kids quiet down a bit] Thanks, everyone, for helping us celebrate Marcus' birthday. [the kids clap for him] As a special birthday surprise for you, Marcus, we got you your favorite entertainer. Everyone, please welcome Chuck E. Cheese. [A Chuck E. Cheese mascot stumbles onto the stage]\n",
+    "output": "Hey. [hits his snout on the mic] Check.\n"
+  },
+  {
+    "input": "Hey. [hits his snout on the mic] Check.\n",
+    "output": "[laughs as the other kids cheer] Yes. Yehehehehes.\n"
+  },
+  {
+    "input": "[laughs as the other kids cheer] Yes. Yehehehehes.\n",
+    "output": "[hits his snout on the mic again, pics up a guitar, and begins to play it as he sings] I ah thanks... for'm celeb... Marcus's birthday.\n"
+  },
+  {
+    "input": "[hits his snout on the mic again, pics up a guitar, and begins to play it as he sings] I ah thanks... for'm celeb... Marcus's birthday.\n",
+    "output": "What's wrong with him?\n"
+  },
+  {
+    "input": "What's wrong with him?\n",
+    "output": "Can't you tell? He's high on painkillers!\n"
+  },
+  {
+    "input": "Can't you tell? He's high on painkillers!\n",
+    "output": "[stumbles some more and mumbles] Hold on. [strums] Shit. Okay, let's.... do this... [Strums] Never meant to cause you any so- [barfs on stage, falls forward onto the ground in front of the stage and dies. Marcus screams]\n[Marcus' front lawn, later. The kids and Marcus' dad look on as Chuck is loaded onto the gurney and put into the ambulance.]\n"
+  },
+  {
+    "input": "[stumbles some more and mumbles] Hold on. [strums] Shit. Okay, let's.... do this... [Strums] Never meant to cause you any so- [barfs on stage, falls forward onto the ground in front of the stage and dies. Marcus screams]\n[Marcus' front lawn, later. The kids and Marcus' dad look on as Chuck is loaded onto the gurney and put into the ambulance.]\n",
+    "output": "All right, kids, uh, why don't we head back to the party and cut the cake?\n"
+  },
+  {
+    "input": "All right, kids, uh, why don't we head back to the party and cut the cake?\n",
+    "output": "I don't want cake! Who's gonna eat cake at a time like this?! [wails. A paramedic closes the back doors of the ambulance as a police officer stands watch]\n"
+  },
+  {
+    "input": "I don't want cake! Who's gonna eat cake at a time like this?! [wails. A paramedic closes the back doors of the ambulance as a police officer stands watch]\n",
+    "output": "Another drug overdose?\n"
+  },
+  {
+    "input": "Another drug overdose?\n",
+    "output": "[the paramedic, hands the officer two medications] Most likely. Percolate and Oxycontin found wrapped in his cheesecloth.\n"
+  },
+  {
+    "input": "[the paramedic, hands the officer two medications] Most likely. Percolate and Oxycontin found wrapped in his cheesecloth.\n",
+    "output": "Prescription drugs, but with no prescription.\n"
+  },
+  {
+    "input": "Prescription drugs, but with no prescription.\n",
+    "output": "You guys know where all these illegal meds are coming from?\n"
+  },
+  {
+    "input": "You guys know where all these illegal meds are coming from?\n",
+    "output": "Most likely from the prisons. Whenever there's a drug epidemic you can usually trace it back to people who've been... thrown away by society and forgotten about.\n[Shady Acres Retirement Community, day. A rap song plays - \"Stress\" by Continental Five.\nAll day I sat in my cell\nJust stressin', sittin' back, readin' my mail\nReminiscin' about the good times I had\nTryin' to relive all the good memories I have\nHate the sound it makes when they close the gates\nWake up at 6 to eat\nNasty cornflakes -\nThe residents look sad and bored. A couple of elderly men play poker. A line of elderly people move along as the cooks serve up their meals in a cafeteria line - one man tries to scoop some mashed potatoes from another man's tray, the other man swats the first man's spoon away. Another elderly man puts the finishing touches on a Hummel tattoo on another man's arm. The front door opens and Stan enters with a present.]\n"
+  },
+  {
+    "input": "Most likely from the prisons. Whenever there's a drug epidemic you can usually trace it back to people who've been... thrown away by society and forgotten about.\n[Shady Acres Retirement Community, day. A rap song plays - \"Stress\" by Continental Five.\nAll day I sat in my cell\nJust stressin', sittin' back, readin' my mail\nReminiscin' about the good times I had\nTryin' to relive all the good memories I have\nHate the sound it makes when they close the gates\nWake up at 6 to eat\nNasty cornflakes -\nThe residents look sad and bored. A couple of elderly men play poker. A line of elderly people move along as the cooks serve up their meals in a cafeteria line - one man tries to scoop some mashed potatoes from another man's tray, the other man swats the first man's spoon away. Another elderly man puts the finishing touches on a Hummel tattoo on another man's arm. The front door opens and Stan enters with a present.]\n",
+    "output": "[receptionist] Can I help you?\n"
+  },
+  {
+    "input": "[receptionist] Can I help you?\n",
+    "output": "Yeah, I'm here to visit my grandpa?\n"
+  },
+  {
+    "input": "Yeah, I'm here to visit my grandpa?\n",
+    "output": "[puts her hand over her heart] Oh, how nice of you. All right, arms in the air. [two burly men approach Stan. One, Tony, takes the present and hands it to Vicky, the other, Toby, wands Stan. Vicky opens the package] What's the present?\n"
+  },
+  {
+    "input": "[puts her hand over her heart] Oh, how nice of you. All right, arms in the air. [two burly men approach Stan. One, Tony, takes the present and hands it to Vicky, the other, Toby, wands Stan. Vicky opens the package] What's the present?\n",
+    "output": "It's just some Hummels.\n"
+  },
+  {
+    "input": "It's just some Hummels.\n",
+    "output": "More Hummels? Why are senior citizens so infatuated with these little German statues? All right, go on, you got ten minutes. [Tony hands the present back to Stan, who goes on in]\n[The rap picks up where it left off.\n- they call you in the mornin' and you gotta get up\nPlay dice. Old-timers gonna teach you 'bout life.\nGet religious, start readin' 'bout Christ.\nPray to God. Feels like I'm livin' in Hell\nBut I'm stuck in a cell.\nStan walks down the hallway, passing elderly people standing in the doorways to their rooms until he reaches Marvin's room, then enters it.]\n"
+  },
+  {
+    "input": "More Hummels? Why are senior citizens so infatuated with these little German statues? All right, go on, you got ten minutes. [Tony hands the present back to Stan, who goes on in]\n[The rap picks up where it left off.\n- they call you in the mornin' and you gotta get up\nPlay dice. Old-timers gonna teach you 'bout life.\nGet religious, start readin' 'bout Christ.\nPray to God. Feels like I'm livin' in Hell\nBut I'm stuck in a cell.\nStan walks down the hallway, passing elderly people standing in the doorways to their rooms until he reaches Marvin's room, then enters it.]\n",
+    "output": "Grandpa?\n"
+  },
+  {
+    "input": "Grandpa?\n",
+    "output": "[looking out the window, turns to see him] Billy! [turns around and wheels towards him] Finally you're here to visit. Did you bring Grandpa a present?\n"
+  },
+  {
+    "input": "[looking out the window, turns to see him] Billy! [turns around and wheels towards him] Finally you're here to visit. Did you bring Grandpa a present?\n",
+    "output": "[gives Marvin the present] Yeah, I got what you wanted. [Marvin wheels away to his desk, where he opens the present.]\n"
+  },
+  {
+    "input": "[gives Marvin the present] Yeah, I got what you wanted. [Marvin wheels away to his desk, where he opens the present.]\n",
+    "output": "Awww, Merry Wanderer [The Hummel with yellow umbrella and bowler hat] and Happy Traveler? [The Hummel with bindle and feather in its cap] These Hummels suck!\n"
+  },
+  {
+    "input": "Awww, Merry Wanderer [The Hummel with yellow umbrella and bowler hat] and Happy Traveler? [The Hummel with bindle and feather in its cap] These Hummels suck!\n",
+    "output": "That's what the guy gave me.\n"
+  },
+  {
+    "input": "That's what the guy gave me.\n",
+    "output": "It's okay, Billy. I'm just gonna need you to deliver another one of Ms. McGullicutty's crochet pillows.\n"
+  },
+  {
+    "input": "It's okay, Billy. I'm just gonna need you to deliver another one of Ms. McGullicutty's crochet pillows.\n",
+    "output": "Aw, come on, Grandpa. Isn't it enough I come to visit?\n"
+  },
+  {
+    "input": "Aw, come on, Grandpa. Isn't it enough I come to visit?\n",
+    "output": "You don't understand how it works in here. Ms. McGullicutty is top bitch. You do what she says, or you pay the price.\n[Another rap song plays - \"Brick in Yo' Face\" by Stitches.\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nBetter have my money when I come to collect. (when I come to collect, when I come to collect)\nBetter have my money when I come to collect. (Pay up, pay up, pay up)\nI put that brick in yo' face {Say what?}\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nMs. McGullicutty walks down the hallway with two other women. The other residents cower in fear as the three women pass their doors.]\n"
+  },
+  {
+    "input": "You don't understand how it works in here. Ms. McGullicutty is top bitch. You do what she says, or you pay the price.\n[Another rap song plays - \"Brick in Yo' Face\" by Stitches.\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nBetter have my money when I come to collect. (when I come to collect, when I come to collect)\nBetter have my money when I come to collect. (Pay up, pay up, pay up)\nI put that brick in yo' face {Say what?}\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nNow whatcha gonna do with it?\nMs. McGullicutty walks down the hallway with two other women. The other residents cower in fear as the three women pass their doors.]\n",
+    "output": "Oh, please, uh I don't want no trouble. [the three women enter his room] I'm sorry. I'll get better Hummels.\n[Downtown South Park, day. Stan waits at a corner with the crochet pillow. A car passes by. Cartman, Kyle, and Kenny walk up behind him.]\n"
+  },
+  {
+    "input": "Oh, please, uh I don't want no trouble. [the three women enter his room] I'm sorry. I'll get better Hummels.\n[Downtown South Park, day. Stan waits at a corner with the crochet pillow. A car passes by. Cartman, Kyle, and Kenny walk up behind him.]\n",
+    "output": "Dude, Stan. Come on, dude, we're gonna go set off fireworks at Kenny's house.\n"
+  },
+  {
+    "input": "Dude, Stan. Come on, dude, we're gonna go set off fireworks at Kenny's house.\n",
+    "output": "I will. I just gotta do this for my grandpa first.\n"
+  },
+  {
+    "input": "I will. I just gotta do this for my grandpa first.\n",
+    "output": "Again? Dude, how many crappy crochet pillows do you have to give out for him?\n"
+  },
+  {
+    "input": "Again? Dude, how many crappy crochet pillows do you have to give out for him?\n",
+    "output": "I don't know. It's what he wants. I feel bad for him, all right? I think he's miserable.\n"
+  },
+  {
+    "input": "I don't know. It's what he wants. I feel bad for him, all right? I think he's miserable.\n",
+    "output": "He's old. He's supposed to be miserable.\n"
+  },
+  {
+    "input": "He's old. He's supposed to be miserable.\n",
+    "output": "Look, I just gotta make this exchange for him and then we can go. Oh, oh, I think this is her now. [a red fox with blue gloves and mask prances over]\n"
+  },
+  {
+    "input": "Look, I just gotta make this exchange for him and then we can go. Oh, oh, I think this is her now. [a red fox with blue gloves and mask prances over]\n",
+    "output": "Are you Stan Marsh? It's me, Swiper.\n"
+  },
+  {
+    "input": "Are you Stan Marsh? It's me, Swiper.\n",
+    "output": "Cool. Do you have the Hummel?\n"
+  },
+  {
+    "input": "Cool. Do you have the Hummel?\n",
+    "output": "[looks around, then reaches into her tote bag and pulls one out] This is it. Ride Into Christmas, Limited Edition. Now give me the pillow. I have to get to a birthday party.\n"
+  },
+  {
+    "input": "[looks around, then reaches into her tote bag and pulls one out] This is it. Ride Into Christmas, Limited Edition. Now give me the pillow. I have to get to a birthday party.\n",
+    "output": "'Kay, fine. [makes the exchange, and Swiper shakes the pillow until she's satisfied]\n"
+  },
+  {
+    "input": "'Kay, fine. [makes the exchange, and Swiper shakes the pillow until she's satisfied]\n",
+    "output": "All right, peace. [prances away]\n"
+  },
+  {
+    "input": "All right, peace. [prances away]\n",
+    "output": "Dude, that's really weird.\n"
+  },
+  {
+    "input": "Dude, that's really weird.\n",
+    "output": "Old people love Hummels, dude.\n[South Park Elementary, cafeteria. Marcus, standing next to a projector screen, addresses everyone in the cafeteria.]\n"
+  },
+  {
+    "input": "Old people love Hummels, dude.\n[South Park Elementary, cafeteria. Marcus, standing next to a projector screen, addresses everyone in the cafeteria.]\n",
+    "output": "Students, faculty, and staff, today we are facing an epidemic of catastrophic proportions. I know I am not alone in mourning the loss of one of our greatest entertainers, [click. A picture comes up on the projector screen] Chuck E. Cheese. Had we known the personal hell he was going through, perhaps we could've helped. But toooo many were more than eager to supply Chuck E. with the opioids that caused his untimely death. Chuck E. was not the first entertainer to die from this epidemic. Let us not forget Dinkie Dook the Clown [shown with an accordion], dead of a Roxanol overdose at Tommy Schneider's bar mitzvah last March. Shimmer and Shine [two genies], who both collapsed from massive amounts of oxycodone at Nelly Anderson's birthday party. Spider-man, cut down in prime by Demerol, and just recently, Swiper the Fox. dead of multiple opioids found in his crochet pillow. How many more entertainers must we lose before we take action?! It is time to declare war on opioids in our society! [the kids cheer and clap as Stan Kyle, Cartman, and Kenny are shocked at what they just heard]\n[The boys' bathroom, later. Stan runs in, quickly followed by Cartman, Kyle, and Kenny.]\n"
+  },
+  {
+    "input": "Students, faculty, and staff, today we are facing an epidemic of catastrophic proportions. I know I am not alone in mourning the loss of one of our greatest entertainers, [click. A picture comes up on the projector screen] Chuck E. Cheese. Had we known the personal hell he was going through, perhaps we could've helped. But toooo many were more than eager to supply Chuck E. with the opioids that caused his untimely death. Chuck E. was not the first entertainer to die from this epidemic. Let us not forget Dinkie Dook the Clown [shown with an accordion], dead of a Roxanol overdose at Tommy Schneider's bar mitzvah last March. Shimmer and Shine [two genies], who both collapsed from massive amounts of oxycodone at Nelly Anderson's birthday party. Spider-man, cut down in prime by Demerol, and just recently, Swiper the Fox. dead of multiple opioids found in his crochet pillow. How many more entertainers must we lose before we take action?! It is time to declare war on opioids in our society! [the kids cheer and clap as Stan Kyle, Cartman, and Kenny are shocked at what they just heard]\n[The boys' bathroom, later. Stan runs in, quickly followed by Cartman, Kyle, and Kenny.]\n",
+    "output": "Dude, what the fuck, Stan?!\n"
+  },
+  {
+    "input": "Dude, what the fuck, Stan?!\n",
+    "output": "I don't know, all right?!\n"
+  },
+  {
+    "input": "I don't know, all right?!\n",
+    "output": "You didn't know you were slinging drugs for your grandpa?\n"
+  },
+  {
+    "input": "You didn't know you were slinging drugs for your grandpa?\n",
+    "output": "It didn't occur to me as a possibility.\n"
+  },
+  {
+    "input": "It didn't occur to me as a possibility.\n",
+    "output": "Dude, did you hear everyone in school?! They're coming after you! You killed Swiper the Fox, and we were standing there with you! You gotta tell people we had no idea what was going on!\n"
+  },
+  {
+    "input": "Dude, did you hear everyone in school?! They're coming after you! You killed Swiper the Fox, and we were standing there with you! You gotta tell people we had no idea what was going on!\n",
+    "output": "I had no idea what was going on!\n"
+  },
+  {
+    "input": "I had no idea what was going on!\n",
+    "output": "[walks in and goes to the urinal] Hey fellas! [smiles and looks at them, then turns around and drops his pants and briefs, then lifts up his shirt and pees in the urinal] Boy, that Marcus kid is on the warpath, huh? Well, he's really motivated. I mean, screw that kid, but I guess it's good somebody's finally doing something about these goddamn drug dealers. [Butters finishes, flushes the urinal, zips up, and turns towards the other boys and looks at them again, smiling] Well, see ya, fellas. [turns left and walks out. The other boys haven't moved an inch the whole time he was there]\n"
+  },
+  {
+    "input": "[walks in and goes to the urinal] Hey fellas! [smiles and looks at them, then turns around and drops his pants and briefs, then lifts up his shirt and pees in the urinal] Boy, that Marcus kid is on the warpath, huh? Well, he's really motivated. I mean, screw that kid, but I guess it's good somebody's finally doing something about these goddamn drug dealers. [Butters finishes, flushes the urinal, zips up, and turns towards the other boys and looks at them again, smiling] Well, see ya, fellas. [turns left and walks out. The other boys haven't moved an inch the whole time he was there]\n",
+    "output": "Our only way out is to go to the police right now and turn Stan's grandpa in!\n"
+  },
+  {
+    "input": "Our only way out is to go to the police right now and turn Stan's grandpa in!\n",
+    "output": "No, we don't have to do that! Let me talk to him. I can put a stop to this.\n[The retirement home, day. Stan is visiting Marvin again. They're eating lunch together.]\n"
+  },
+  {
+    "input": "No, we don't have to do that! Let me talk to him. I can put a stop to this.\n[The retirement home, day. Stan is visiting Marvin again. They're eating lunch together.]\n",
+    "output": "[whispering] Grandpa, what the hell have you gotten me into?!\n"
+  },
+  {
+    "input": "[whispering] Grandpa, what the hell have you gotten me into?!\n",
+    "output": "[whispering] Shhh, quiet. They'll hear you!\n"
+  },
+  {
+    "input": "[whispering] Shhh, quiet. They'll hear you!\n",
+    "output": "There were drugs in the crochet pillow, weren't there?! Do you know people are dying?!\n"
+  },
+  {
+    "input": "There were drugs in the crochet pillow, weren't there?! Do you know people are dying?!\n",
+    "output": "What do you want me to do, Billy? You see Ms. McGullicutty over there? [she's shown tripping a man as he walks to a table with his lunch and chuckling to herself] Whoever has the best Hummel collection is top bitch in this place, and she's got the best. She's ruthless, and she has those old lady farts. You know old lady farts, right? Where they're so loose they don't even acknowledge they happened?\n"
+  },
+  {
+    "input": "What do you want me to do, Billy? You see Ms. McGullicutty over there? [she's shown tripping a man as he walks to a table with his lunch and chuckling to herself] Whoever has the best Hummel collection is top bitch in this place, and she's got the best. She's ruthless, and she has those old lady farts. You know old lady farts, right? Where they're so loose they don't even acknowledge they happened?\n",
+    "output": "Oh, hello Mr. Marsh. [pfffft]\n"
+  },
+  {
+    "input": "Oh, hello Mr. Marsh. [pfffft]\n",
+    "output": "Oh, Ms. McGullicutty. How are you feeling today?\n"
+  },
+  {
+    "input": "Oh, Ms. McGullicutty. How are you feeling today?\n",
+    "output": "I'm doing very well. [turns her back to him and farts again] Have they given you Percocet for that knee of yours? [pfffft]\n"
+  },
+  {
+    "input": "I'm doing very well. [turns her back to him and farts again] Have they given you Percocet for that knee of yours? [pfffft]\n",
+    "output": "Oh, yeah, here, I I just got it, huh. Here you go. [hands her the Percocet]\n"
+  },
+  {
+    "input": "Oh, yeah, here, I I just got it, huh. Here you go. [hands her the Percocet]\n",
+    "output": "Oh, you'd almost think you were trying to keep them from me. [pfffft]\n"
+  },
+  {
+    "input": "Oh, you'd almost think you were trying to keep them from me. [pfffft]\n",
+    "output": "Oh, uh, ma'am? My grandpa actually really needs those drugs. He's in a lot of pain.\n"
+  },
+  {
+    "input": "Oh, uh, ma'am? My grandpa actually really needs those drugs. He's in a lot of pain.\n",
+    "output": "Ohhh, and who's this little rascal? [walks around to Stan's chair and looks over his shoulder]\n"
+  },
+  {
+    "input": "Ohhh, and who's this little rascal? [walks around to Stan's chair and looks over his shoulder]\n",
+    "output": "That's my grandson, uh he he's worthless.\n"
+  },
+  {
+    "input": "That's my grandson, uh he he's worthless.\n",
+    "output": "How sweet. [pfffft] Hmmm, coming to visit your old poppa in the joint, huh? You love your poppa, don't you? [pfffft. Stan winces] You'd hate to see him suffer even more he already is. [slow, soft pfffft. Stan avoids looking at her and winces again. Now she addresses Marvin] You watch your ass, Marsh, or I'll have you sent to the quiet room. [pfffft. She turns right and walks away, hitting a man with her can on the way out]\n"
+  },
+  {
+    "input": "How sweet. [pfffft] Hmmm, coming to visit your old poppa in the joint, huh? You love your poppa, don't you? [pfffft. Stan winces] You'd hate to see him suffer even more he already is. [slow, soft pfffft. Stan avoids looking at her and winces again. Now she addresses Marvin] You watch your ass, Marsh, or I'll have you sent to the quiet room. [pfffft. She turns right and walks away, hitting a man with her can on the way out]\n",
+    "output": "What, what is she talking about? What's the quiet room?\n"
+  },
+  {
+    "input": "What, what is she talking about? What's the quiet room?\n",
+    "output": "I told you, she has all the pull in here. You go against what she says, you end up in solitaire.\n[The solitaire room, moments later. Toby and Tony bring in one of the residents to the solitaire table and sit him down.]\n"
+  },
+  {
+    "input": "I told you, she has all the pull in here. You go against what she says, you end up in solitaire.\n[The solitaire room, moments later. Toby and Tony bring in one of the residents to the solitaire table and sit him down.]\n",
+    "output": "No! No, please, uh I didn't do anything!\n"
+  },
+  {
+    "input": "No! No, please, uh I didn't do anything!\n",
+    "output": "It's all right, Mr. Standish, you just need a little quiet time.\n"
+  },
+  {
+    "input": "It's all right, Mr. Standish, you just need a little quiet time.\n",
+    "output": "Uh, I don't even know how to play solitaire. Please! [they lock him up and leave]\n[The Park County Coroner's office, day. Marcus approaches and enters the lobby.]\n"
+  },
+  {
+    "input": "Uh, I don't even know how to play solitaire. Please! [they lock him up and leave]\n[The Park County Coroner's office, day. Marcus approaches and enters the lobby.]\n",
+    "output": "I understand that today they are performing Chuck E. Cheese's autopsy?\n"
+  },
+  {
+    "input": "I understand that today they are performing Chuck E. Cheese's autopsy?\n",
+    "output": "Oh, the kids' party performer. Yeah.\n"
+  },
+  {
+    "input": "Oh, the kids' party performer. Yeah.\n",
+    "output": "As a concerned member of the public, I wish to be present.\n"
+  },
+  {
+    "input": "As a concerned member of the public, I wish to be present.\n",
+    "output": "Uh, sorry, children aren't really allowed in autopsies.\n"
+  },
+  {
+    "input": "Uh, sorry, children aren't really allowed in autopsies.\n",
+    "output": "Then I shall wait here to learn the coroner's findings.\n[The forensics lab, moments later. Chuck E. Cheese is on a bed covered in a sheet. A police officer stands by the entrance.]\n"
+  },
+  {
+    "input": "Then I shall wait here to learn the coroner's findings.\n[The forensics lab, moments later. Chuck E. Cheese is on a bed covered in a sheet. A police officer stands by the entrance.]\n",
+    "output": "Toxicology reports show subject had massive amounts of opioids in system at time of death. Now proceeding. [he and his assistant pull the sheet off and the coroner begins to saw the performer's mask off. The officer begins to feel sick. The mask is finally removed, and the officer vomits]\n[The lobby, moments later. The coroner enters with a bag of trash.]\n"
+  },
+  {
+    "input": "Toxicology reports show subject had massive amounts of opioids in system at time of death. Now proceeding. [he and his assistant pull the sheet off and the coroner begins to saw the performer's mask off. The officer begins to feel sick. The mask is finally removed, and the officer vomits]\n[The lobby, moments later. The coroner enters with a bag of trash.]\n",
+    "output": "Have these put in the garbage.\n"
+  },
+  {
+    "input": "Have these put in the garbage.\n",
+    "output": "What did you find, coroner?\n"
+  },
+  {
+    "input": "What did you find, coroner?\n",
+    "output": "Who is this?\n"
+  },
+  {
+    "input": "Who is this?\n",
+    "output": "There is an epidemic in our community, sir. Some of us actually care to confront the problem! Now, dammit, what did you find?\n"
+  },
+  {
+    "input": "There is an epidemic in our community, sir. Some of us actually care to confront the problem! Now, dammit, what did you find?\n",
+    "output": "Nothing out of the ordinary. The subject died of a simple overdose. We found nothing else except for two Hummmels in the subject's rectal cavity.\n"
+  },
+  {
+    "input": "Nothing out of the ordinary. The subject died of a simple overdose. We found nothing else except for two Hummmels in the subject's rectal cavity.\n",
+    "output": "Hummels? In his rectal cavity, you say? And you do not find this out of the ordinary?\n"
+  },
+  {
+    "input": "Hummels? In his rectal cavity, you say? And you do not find this out of the ordinary?\n",
+    "output": "Not at all. We found Hummels in nearly all the birthday entertainers' anal cavities. It's very common in our overdose victims.\n"
+  },
+  {
+    "input": "Not at all. We found Hummels in nearly all the birthday entertainers' anal cavities. It's very common in our overdose victims.\n",
+    "output": "Mmmm, a bit too common, don't you think?\n[The Marsh house, dinner. The family is eating dinner. Shelly just looks at her food, lost in thought.]\n"
+  },
+  {
+    "input": "Mmmm, a bit too common, don't you think?\n[The Marsh house, dinner. The family is eating dinner. Shelly just looks at her food, lost in thought.]\n",
+    "output": "Guys, why does Grandpa have to be in a nursing home? Can't he live with us again?\n"
+  },
+  {
+    "input": "Guys, why does Grandpa have to be in a nursing home? Can't he live with us again?\n",
+    "output": "Stan, Grandpas has a lot of needs that we can't provide him here. He needs professional supervision.\n"
+  },
+  {
+    "input": "Stan, Grandpas has a lot of needs that we can't provide him here. He needs professional supervision.\n",
+    "output": "Is that really it? Because I, I just feel like we kind of threw Grandpa away and forgot about him.\n"
+  },
+  {
+    "input": "Is that really it? Because I, I just feel like we kind of threw Grandpa away and forgot about him.\n",
+    "output": "Oh really? Do you have any idea how much money we pay to have Grandpa in that place? Your grandpa is stylin'! Can you imagine being able to just sit around all day and not have to do anything but eat and watch TV?\n"
+  },
+  {
+    "input": "Oh really? Do you have any idea how much money we pay to have Grandpa in that place? Your grandpa is stylin'! Can you imagine being able to just sit around all day and not have to do anything but eat and watch TV?\n",
+    "output": "Yeah. I'd probably go crazy and wanna kill myself.\n"
+  },
+  {
+    "input": "Yeah. I'd probably go crazy and wanna kill myself.\n",
+    "output": "Jesus, Stan! It's not like he's in jail!\n"
+  },
+  {
+    "input": "Jesus, Stan! It's not like he's in jail!\n",
+    "output": "Yeah, it's kind of like jail. You should go visit him.\n"
+  },
+  {
+    "input": "Yeah, it's kind of like jail. You should go visit him.\n",
+    "output": "I can't! I'm too busy busting my ass to pay the bills for that place, and to pay for your guitar lessons!\n"
+  },
+  {
+    "input": "I can't! I'm too busy busting my ass to pay the bills for that place, and to pay for your guitar lessons!\n",
+    "output": "I don't have guitar lessons.\n"
+  },
+  {
+    "input": "I don't have guitar lessons.\n",
+    "output": "I don't want to go there. It's depressing. Aw you tricked me.\n"
+  },
+  {
+    "input": "I don't want to go there. It's depressing. Aw you tricked me.\n",
+    "output": "[his phone rings and he answers] Hello?\n"
+  },
+  {
+    "input": "[his phone rings and he answers] Hello?\n",
+    "output": "[at the downtown corner with Butters] Dude! Did you give Butters a crochet pillow to drop off?!\n"
+  },
+  {
+    "input": "[at the downtown corner with Butters] Dude! Did you give Butters a crochet pillow to drop off?!\n",
+    "output": "[quickly leaves the table] Dude, I don't have a choice. I have to get the Hummels for my grandpa.\n"
+  },
+  {
+    "input": "[quickly leaves the table] Dude, I don't have a choice. I have to get the Hummels for my grandpa.\n",
+    "output": "Well, you need to get Hummels without making Butters a drug dealer!\n"
+  },
+  {
+    "input": "Well, you need to get Hummels without making Butters a drug dealer!\n",
+    "output": "Drug dealer??\n"
+  },
+  {
+    "input": "Drug dealer??\n",
+    "output": "All right, all right! I think I know another way.\n[Shady Acres Retirement Community, day. A different rap song plays - \"They Got Me Locked Up In Here\" by Killer Mike. As it does, the folllowing happens. Toby wheels a man down the hallway, then changes a woman's bed pan. A cook serves up mashed potatoes to a resident and spills some of it outside his tray. A doctor gives a resident some pills, and that resident turns and gives them to Ms. McGullicutty. Other residents line up and do the same. Ms. McGullicutty and her two friends sew the meds into crochet pillows and pass them out to the residents. A resident gives one to her granddaughter, who takes it. An elderly man is working out with small barbells. A resident is in his room looking at his small Hummel collection. The fake plant and mini waterfall are shown. The doctor returns to give another resident five medications. The resident who gave her pillow to her granddaughter says goodbye to her and her parents, then goes back inside with Nurse Lisa. Ms. McGullicutty adds more Hummels to her display case. Stan is at the toy store buying more Hummels. Stan is shown watching the Hummel Shopping Network and purchasing more Hummels over the phone as his friends watch from the sofa. Tony and Toby process Stan again and send him in. Stan gives Marvin a new Hummel. Ms. McGullicutty walks down the hallway with her friends again. Next, Marisol goes over the October activities with the residents. Next the residents go on a tour bus. Next, a kids choir sings for them. Next, canasta is shown. Next, a family says bye to their grandpa and leave. A female resident is wheeled into the hospice section of the retirement community.\nThey got me locked up in here.\nThey got me locked up in here. And I'm sittin' doin' hard time.\nPissin' in a metal bowl, eat shit from a lunch line\n(They got me locked up) And here nobody knows you by your name.\nYou're just a number livin' under bitch-ass rules of a broken game.\nThey put me here to die, left me angry and alone.\nFor the crime of bein' old they threw me in this nursin' home.\nThey got me locked up in here. Rottin' in my cell\nThey got me- Fake plants and waterfalls, it's a livin' hell.\nThey got me locked up in here. So they can throw away their troubles.\nThey got me- All that I have now are my little German\nHummels! Hummels! Hummels! Hummels!\nThey got me- Brand new bitch was just admitted next do'.\nHot piece of ass 'cause she's only eighty fo'.\nNext bingo night I'll pound that pussy black and blue.\nAs long as I can get her before Tommy's grandpa do.\nThey got me- Man I can't handle these old people activities.\nTour group on a bus. Children come to sing to us.\n3 pm canasta, they put me out to pasture.\nDeath row? stop this! I think they call it Hospice\nHospice, hospice, hospice.]\n"
+  },
+  {
+    "input": "All right, all right! I think I know another way.\n[Shady Acres Retirement Community, day. A different rap song plays - \"They Got Me Locked Up In Here\" by Killer Mike. As it does, the folllowing happens. Toby wheels a man down the hallway, then changes a woman's bed pan. A cook serves up mashed potatoes to a resident and spills some of it outside his tray. A doctor gives a resident some pills, and that resident turns and gives them to Ms. McGullicutty. Other residents line up and do the same. Ms. McGullicutty and her two friends sew the meds into crochet pillows and pass them out to the residents. A resident gives one to her granddaughter, who takes it. An elderly man is working out with small barbells. A resident is in his room looking at his small Hummel collection. The fake plant and mini waterfall are shown. The doctor returns to give another resident five medications. The resident who gave her pillow to her granddaughter says goodbye to her and her parents, then goes back inside with Nurse Lisa. Ms. McGullicutty adds more Hummels to her display case. Stan is at the toy store buying more Hummels. Stan is shown watching the Hummel Shopping Network and purchasing more Hummels over the phone as his friends watch from the sofa. Tony and Toby process Stan again and send him in. Stan gives Marvin a new Hummel. Ms. McGullicutty walks down the hallway with her friends again. Next, Marisol goes over the October activities with the residents. Next the residents go on a tour bus. Next, a kids choir sings for them. Next, canasta is shown. Next, a family says bye to their grandpa and leave. A female resident is wheeled into the hospice section of the retirement community.\nThey got me locked up in here.\nThey got me locked up in here. And I'm sittin' doin' hard time.\nPissin' in a metal bowl, eat shit from a lunch line\n(They got me locked up) And here nobody knows you by your name.\nYou're just a number livin' under bitch-ass rules of a broken game.\nThey put me here to die, left me angry and alone.\nFor the crime of bein' old they threw me in this nursin' home.\nThey got me locked up in here. Rottin' in my cell\nThey got me- Fake plants and waterfalls, it's a livin' hell.\nThey got me locked up in here. So they can throw away their troubles.\nThey got me- All that I have now are my little German\nHummels! Hummels! Hummels! Hummels!\nThey got me- Brand new bitch was just admitted next do'.\nHot piece of ass 'cause she's only eighty fo'.\nNext bingo night I'll pound that pussy black and blue.\nAs long as I can get her before Tommy's grandpa do.\nThey got me- Man I can't handle these old people activities.\nTour group on a bus. Children come to sing to us.\n3 pm canasta, they put me out to pasture.\nDeath row? stop this! I think they call it Hospice\nHospice, hospice, hospice.]\n",
+    "output": "Hey, we have this week's delivery of medications.\n"
+  },
+  {
+    "input": "Hey, we have this week's delivery of medications.\n",
+    "output": "Bring them in. [the delivery man goes outside and motions for a truck driver to back up and dump the medications. The truck backs up and dumps the meds onto the asphalt at the community's entrance, then rolls away. Stan has walked up to the community entrance and watches the truck leave]\n[South Park Elementary, day. Stan is at his locker getting his books. He closes is and finds Marcus looking at him.]\n"
+  },
+  {
+    "input": "Bring them in. [the delivery man goes outside and motions for a truck driver to back up and dump the medications. The truck backs up and dumps the meds onto the asphalt at the community's entrance, then rolls away. Stan has walked up to the community entrance and watches the truck leave]\n[South Park Elementary, day. Stan is at his locker getting his books. He closes is and finds Marcus looking at him.]\n",
+    "output": "Ah!\n"
+  },
+  {
+    "input": "Ah!\n",
+    "output": "Hello, Mr. Marsh.\n"
+  },
+  {
+    "input": "Hello, Mr. Marsh.\n",
+    "output": "Uh hey, hey Marcus.\n"
+  },
+  {
+    "input": "Uh hey, hey Marcus.\n",
+    "output": "I understand you've become quite the Hummel collector lately. What's the... fascination with Hummels?\n"
+  },
+  {
+    "input": "I understand you've become quite the Hummel collector lately. What's the... fascination with Hummels?\n",
+    "output": "Nothing. I-look, I, I just really like Hummels, okay? I'm just, I'm really into Hummels.\n"
+  },
+  {
+    "input": "Nothing. I-look, I, I just really like Hummels, okay? I'm just, I'm really into Hummels.\n",
+    "output": "Ah! I see. So then you should be able to tell me what this Hummel is called!\n"
+  },
+  {
+    "input": "Ah! I see. So then you should be able to tell me what this Hummel is called!\n",
+    "output": "That, that's uh...\n"
+  },
+  {
+    "input": "That, that's uh...\n",
+    "output": "Come on! If you're a Hummel expert, then you should know its name!\n"
+  },
+  {
+    "input": "Come on! If you're a Hummel expert, then you should know its name!\n",
+    "output": "That, it's, it's \"Whistling In The Rain.\"\n"
+  },
+  {
+    "input": "That, it's, it's \"Whistling In The Rain.\"\n",
+    "output": "Wrong! It's called \"Stormy Weather!\" Do you know where it was found?\n"
+  },
+  {
+    "input": "Wrong! It's called \"Stormy Weather!\" Do you know where it was found?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "It was found deep in the anus of one Chuck E. Cheese, the renowned entertainer beloved by millions! If you know something about the epidemic that is killing artists, you'd better cough it up!\n"
+  },
+  {
+    "input": "It was found deep in the anus of one Chuck E. Cheese, the renowned entertainer beloved by millions! If you know something about the epidemic that is killing artists, you'd better cough it up!\n",
+    "output": "Marcus, trust me. You don't wanna get involved.\n"
+  },
+  {
+    "input": "Marcus, trust me. You don't wanna get involved.\n",
+    "output": "I became involved when Chuck E. Cheese collapsed like a rag doll before my very eyes! If you had any involvement, I will bring you down!\n[Shady Acres, day. Randy and Sharon visit Marvin. Seems they've been silent for a while.]\n"
+  },
+  {
+    "input": "I became involved when Chuck E. Cheese collapsed like a rag doll before my very eyes! If you had any involvement, I will bring you down!\n[Shady Acres, day. Randy and Sharon visit Marvin. Seems they've been silent for a while.]\n",
+    "output": "Well, it's really great seeing you, Dad. Guess we oughtta hit the road soon.\n"
+  },
+  {
+    "input": "Well, it's really great seeing you, Dad. Guess we oughtta hit the road soon.\n",
+    "output": "You finally come to visit and leave after 10 minutes?\n"
+  },
+  {
+    "input": "You finally come to visit and leave after 10 minutes?\n",
+    "output": "Aw Jesus, now we know where Stan gets his guilt trips from!\n"
+  },
+  {
+    "input": "Aw Jesus, now we know where Stan gets his guilt trips from!\n",
+    "output": "[appears at Marvin's door] Mmmm [Marvin looks over his shoulder], it seems somebody's been a little naughty lately. [pfffft]\n"
+  },
+  {
+    "input": "[appears at Marvin's door] Mmmm [Marvin looks over his shoulder], it seems somebody's been a little naughty lately. [pfffft]\n",
+    "output": "[turns a bit to see her] Oh, Ms. McGullicutty, heh heh. How are you?\n"
+  },
+  {
+    "input": "[turns a bit to see her] Oh, Ms. McGullicutty, heh heh. How are you?\n",
+    "output": "[walks over to Marvin's meager Hummel collection] Hrrmm. My, what a lovely Hummel collection you're starting to amass. [sniffs] Almost smells [pfffft]... brand new, doesn't it? [pfft. She turns to face Marvin] Like it was purchased right from the factory. [pfffft] Ooooo! And who are these lovely people? [walks up to Randy and Sharon] Family that came to visit, no doubt? [pfft]\n"
+  },
+  {
+    "input": "[walks over to Marvin's meager Hummel collection] Hrrmm. My, what a lovely Hummel collection you're starting to amass. [sniffs] Almost smells [pfffft]... brand new, doesn't it? [pfft. She turns to face Marvin] Like it was purchased right from the factory. [pfffft] Ooooo! And who are these lovely people? [walks up to Randy and Sharon] Family that came to visit, no doubt? [pfft]\n",
+    "output": "[holding his breath] Yes. Yeah, we love coming here.\n"
+  },
+  {
+    "input": "[holding his breath] Yes. Yeah, we love coming here.\n",
+    "output": "Ah, family. I remember when I was a little girl. [pfffft] My brother used to play such tricks on me. [pfft-pfft] Tried to fool me. Tried to get out from his responsibilities. [pfffft]\n"
+  },
+  {
+    "input": "Ah, family. I remember when I was a little girl. [pfffft] My brother used to play such tricks on me. [pfft-pfft] Tried to fool me. Tried to get out from his responsibilities. [pfffft]\n",
+    "output": "I'm giving you Hummels. What's it matter where they came from? [Mrs. McGullicutty farts again]\n"
+  },
+  {
+    "input": "I'm giving you Hummels. What's it matter where they came from? [Mrs. McGullicutty farts again]\n",
+    "output": "[chuckles] Nooo, [Randy covers his nose] it doesn't matter to me. But it matters to them. [pfffft] The big guys. You see, what they want is more people who are addicted to crochet pillows. [pfffft] Got it? [pfffft. She makes her way towards the door] Nice to meet you fine folks. [pfffft]\n"
+  },
+  {
+    "input": "[chuckles] Nooo, [Randy covers his nose] it doesn't matter to me. But it matters to them. [pfffft] The big guys. You see, what they want is more people who are addicted to crochet pillows. [pfffft] Got it? [pfffft. She makes her way towards the door] Nice to meet you fine folks. [pfffft]\n",
+    "output": "Wugh. [whispers to Sharon] We're never visiting here again.\n[Kyle's house. Cartman and Butters are playing a video game as Kyle and Kenny watch. Butters reacts as if he's a goner.]\n"
+  },
+  {
+    "input": "Wugh. [whispers to Sharon] We're never visiting here again.\n[Kyle's house. Cartman and Butters are playing a video game as Kyle and Kenny watch. Butters reacts as if he's a goner.]\n",
+    "output": "Ohooo, you're dead Butters.\n"
+  },
+  {
+    "input": "Ohooo, you're dead Butters.\n",
+    "output": "Haw Jeez.\n"
+  },
+  {
+    "input": "Haw Jeez.\n",
+    "output": "[runs in] Guys! Guys, I need your help.\n"
+  },
+  {
+    "input": "[runs in] Guys! Guys, I need your help.\n",
+    "output": "If it has to do with your heroin operation, count us out.\n"
+  },
+  {
+    "input": "If it has to do with your heroin operation, count us out.\n",
+    "output": "I just talked to my grandpa. There's more at work here than just old people pushing pills.\n"
+  },
+  {
+    "input": "I just talked to my grandpa. There's more at work here than just old people pushing pills.\n",
+    "output": "Stan, we told you we don't wanna be involved.\n"
+  },
+  {
+    "input": "Stan, we told you we don't wanna be involved.\n",
+    "output": "[stands in front of the TV] The head bitch of the nursing home is gonna take my grandpa down. Maybe my whole family.\n"
+  },
+  {
+    "input": "[stands in front of the TV] The head bitch of the nursing home is gonna take my grandpa down. Maybe my whole family.\n",
+    "output": "[trying to see the game] Get out of the way, dude!\n"
+  },
+  {
+    "input": "[trying to see the game] Get out of the way, dude!\n",
+    "output": "But I know what to do! Whoever has the best Hummels controls the nursing home. We've gotta steal this lady's Hummel collection and give it to my grandpa!\n"
+  },
+  {
+    "input": "But I know what to do! Whoever has the best Hummels controls the nursing home. We've gotta steal this lady's Hummel collection and give it to my grandpa!\n",
+    "output": "[walks up to Stan] Dude, Stan, even if we wanted to help you, which we don't, there's no way we can sneak into an old folks home, distract all the old people, and take an old lady's Hummels! [turns to the left with a thought and walks off] Oh wait, there totally is a way we could do that.\n"
+  },
+  {
+    "input": "[walks up to Stan] Dude, Stan, even if we wanted to help you, which we don't, there's no way we can sneak into an old folks home, distract all the old people, and take an old lady's Hummels! [turns to the left with a thought and walks off] Oh wait, there totally is a way we could do that.\n",
+    "output": "[catches up] Yeah? What ih, what is it, Cartman.\n"
+  },
+  {
+    "input": "[catches up] Yeah? What ih, what is it, Cartman.\n",
+    "output": "Dude, we're not getting involved!\n"
+  },
+  {
+    "input": "Dude, we're not getting involved!\n",
+    "output": "Cartman, if you have an idea, please tell me. I need you.\n"
+  },
+  {
+    "input": "Cartman, if you have an idea, please tell me. I need you.\n",
+    "output": "I know how to distract old people.\n"
+  },
+  {
+    "input": "I know how to distract old people.\n",
+    "output": "Haww shit!\n[Marcus's house, living room. A cordless phone rings, and Marcus answers it.]\n"
+  },
+  {
+    "input": "Haww shit!\n[Marcus's house, living room. A cordless phone rings, and Marcus answers it.]\n",
+    "output": "Yes?\n"
+  },
+  {
+    "input": "Yes?\n",
+    "output": "We're at Mimi Thompson's party. Peppa Pig just collapsed on stage. [it's Mimi's 10th birthday]\n"
+  },
+  {
+    "input": "We're at Mimi Thompson's party. Peppa Pig just collapsed on stage. [it's Mimi's 10th birthday]\n",
+    "output": "Oh my God! Don't let anyone near Peppa Pig until I arrive! [leaves the house. Soon he's at the party] Move aside! Let me through! [reaches the stage and kneels next to Peppa] Aw Peppa. Peppa, can you hear me? [Peppa moans] My name is Marcus Preston. Can you understand me? Where did you get the drugs, Peppa? Was it from Stan Marsh?\n"
+  },
+  {
+    "input": "Oh my God! Don't let anyone near Peppa Pig until I arrive! [leaves the house. Soon he's at the party] Move aside! Let me through! [reaches the stage and kneels next to Peppa] Aw Peppa. Peppa, can you hear me? [Peppa moans] My name is Marcus Preston. Can you understand me? Where did you get the drugs, Peppa? Was it from Stan Marsh?\n",
+    "output": "[a black man in costume] Yo man, whatchoo talkin' about? Get me a fuckin' ambulance!\n"
+  },
+  {
+    "input": "[a black man in costume] Yo man, whatchoo talkin' about? Get me a fuckin' ambulance!\n",
+    "output": "[tearing up] Shh, Peppa. Focus. Soon you'll be in heaven jumping in all the puddles you can imagine. But first, you must tell me, where do the Hummels go, Peppa?\n"
+  },
+  {
+    "input": "[tearing up] Shh, Peppa. Focus. Soon you'll be in heaven jumping in all the puddles you can imagine. But first, you must tell me, where do the Hummels go, Peppa?\n",
+    "output": "All right, let us through. Get away, kids.\n"
+  },
+  {
+    "input": "All right, let us through. Get away, kids.\n",
+    "output": "Peppa, now! Why Hummels?! You've got to squeal!\n"
+  },
+  {
+    "input": "Peppa, now! Why Hummels?! You've got to squeal!\n",
+    "output": "Old people. Old people... love... Hummels. [groans a couple more times and dies]\n"
+  },
+  {
+    "input": "Old people. Old people... love... Hummels. [groans a couple more times and dies]\n",
+    "output": "It's okay, she's with Chuck E. Cheese now.\n[Shady Acres, day. The front doors open. Cartman, Kyle, Kenny, and Butters enter as a barbershop quartet.]\n"
+  },
+  {
+    "input": "It's okay, she's with Chuck E. Cheese now.\n[Shady Acres, day. The front doors open. Cartman, Kyle, Kenny, and Butters enter as a barbershop quartet.]\n",
+    "output": "Can I help you?\n"
+  },
+  {
+    "input": "Can I help you?\n",
+    "output": "Oh yes, hello. We are adorable children here to entertain old people.\n"
+  },
+  {
+    "input": "Oh yes, hello. We are adorable children here to entertain old people.\n",
+    "output": "Didn't think we had anyone scheduled tonight. Are you with the Protestant youth group?\n"
+  },
+  {
+    "input": "Didn't think we had anyone scheduled tonight. Are you with the Protestant youth group?\n",
+    "output": "Yes that's right, we are young prostitutes here to volunteer however we can.\n"
+  },
+  {
+    "input": "Yes that's right, we are young prostitutes here to volunteer however we can.\n",
+    "output": "Fine. Round them up, we got another kids choir!\n[The hallway. Toby walks down it and announces.]\n"
+  },
+  {
+    "input": "Fine. Round them up, we got another kids choir!\n[The hallway. Toby walks down it and announces.]\n",
+    "output": "Come on, let's go. Children's choir in the commons.\n"
+  },
+  {
+    "input": "Come on, let's go. Children's choir in the commons.\n",
+    "output": "[amid groans] Aw dammit. Shit.\n"
+  },
+  {
+    "input": "[amid groans] Aw dammit. Shit.\n",
+    "output": "Darlin' children are gonna sing for you! Move your asses!\n"
+  },
+  {
+    "input": "Darlin' children are gonna sing for you! Move your asses!\n",
+    "output": "Aw, not again.\n[The commons, later. The boys are on stage.]\n"
+  },
+  {
+    "input": "Aw, not again.\n[The commons, later. The boys are on stage.]\n",
+    "output": "All right, seniors. How are we feeling tonight? Our youth group has come to lift your spirits with some songs to take you down memory lane. We hope you can enjoy some nice old-people music. [blows into a pitch pipe to determine a scale to sing in]\n"
+  },
+  {
+    "input": "All right, seniors. How are we feeling tonight? Our youth group has come to lift your spirits with some songs to take you down memory lane. We hope you can enjoy some nice old-people music. [blows into a pitch pipe to determine a scale to sing in]\n",
+    "output": "I'm... insane in the membrane.\n"
+  },
+  {
+    "input": "I'm... insane in the membrane.\n",
+    "output": "Insane in the membrane.\n"
+  },
+  {
+    "input": "Insane in the membrane.\n",
+    "output": "Insane in the brain\n"
+  },
+  {
+    "input": "Insane in the brain\n",
+    "output": "Crazy insane, got no brain.\n"
+  },
+  {
+    "input": "Crazy insane, got no brain.\n",
+    "output": "In the membrane.\n[The hallway. Stan looks at every name on the residents' doors to find Mrs. McGullicutty's room.]\n[The commons. The boys move on to their next song.]\n"
+  },
+  {
+    "input": "In the membrane.\n[The hallway. Stan looks at every name on the residents' doors to find Mrs. McGullicutty's room.]\n[The commons. The boys move on to their next song.]\n",
+    "output": "Myyyy milkshake brings all the boys\n"
+  },
+  {
+    "input": "Myyyy milkshake brings all the boys\n",
+    "output": "to the yard, and they're like [Butters sticks his finger into his mouth and pops it out] it's better than yours.\n"
+  },
+  {
+    "input": "to the yard, and they're like [Butters sticks his finger into his mouth and pops it out] it's better than yours.\n",
+    "output": "Damn right!\n"
+  },
+  {
+    "input": "Damn right!\n",
+    "output": "[Butters sticks his finger into his mouth and pops it out] it's better than yours.\n"
+  },
+  {
+    "input": "[Butters sticks his finger into his mouth and pops it out] it's better than yours.\n",
+    "output": "My hot milkshake.\nAnd now here's our own take on that oldie, but goodie by Nirvana.\n"
+  },
+  {
+    "input": "My hot milkshake.\nAnd now here's our own take on that oldie, but goodie by Nirvana.\n",
+    "output": "In the cool, cool winter.\n"
+  },
+  {
+    "input": "In the cool, cool winter.\n",
+    "output": "Rape me.\n"
+  },
+  {
+    "input": "Rape me.\n",
+    "output": "In the hot hot summertime.\nRape me, my friend.\n"
+  },
+  {
+    "input": "In the hot hot summertime.\nRape me, my friend.\n",
+    "output": "You suck!\n"
+  },
+  {
+    "input": "You suck!\n",
+    "output": "Hey hey! We are adorable children trying to bring sunshine into your lives!\n"
+  },
+  {
+    "input": "Hey hey! We are adorable children trying to bring sunshine into your lives!\n",
+    "output": "[gives Cartman the bird] Fuck you!\n"
+  },
+  {
+    "input": "[gives Cartman the bird] Fuck you!\n",
+    "output": "Fuck you! [picks a different note]\nIf you\n"
+  },
+  {
+    "input": "Fuck you! [picks a different note]\nIf you\n",
+    "output": "Want to call me baby\n"
+  },
+  {
+    "input": "Want to call me baby\n",
+    "output": "Just go ahead now-\n[Mrs. McGullicutty's room, in the dark. Stan is now inside. He looks around and stumbles across the bed pan. He's a bit startled, but soon sees the display case, lit up inside. He gets a hair clip out and picks the display case's lock. The lock opens and he opens the display case doors. He stuffs his bag with every Hummel in the case. The door swings open slowly, and Marcus walks in on him.]\n"
+  },
+  {
+    "input": "Just go ahead now-\n[Mrs. McGullicutty's room, in the dark. Stan is now inside. He looks around and stumbles across the bed pan. He's a bit startled, but soon sees the display case, lit up inside. He gets a hair clip out and picks the display case's lock. The lock opens and he opens the display case doors. He stuffs his bag with every Hummel in the case. The door swings open slowly, and Marcus walks in on him.]\n",
+    "output": "Hello, Mr. Marsh!\n"
+  },
+  {
+    "input": "Hello, Mr. Marsh!\n",
+    "output": "Marcus.\n"
+  },
+  {
+    "input": "Marcus.\n",
+    "output": "[turns on the light] I told you I'd bring you down. [quickly takes out his phone and takes a picture]\n"
+  },
+  {
+    "input": "[turns on the light] I told you I'd bring you down. [quickly takes out his phone and takes a picture]\n",
+    "output": "Marcus, it's not what you think. I'm trying to make things better here. [he and Marcus begin to walk around each other slowly]\n"
+  },
+  {
+    "input": "Marcus, it's not what you think. I'm trying to make things better here. [he and Marcus begin to walk around each other slowly]\n",
+    "output": "Oh, I bet you are! You, your grandpa, ALL the people here, are going to jail! I'm calling the police!\n"
+  },
+  {
+    "input": "Oh, I bet you are! You, your grandpa, ALL the people here, are going to jail! I'm calling the police!\n",
+    "output": "You can put an end to this place, but you won't be stopping the problem. These people are victims too, Marcus. Victims of a way bigger game being played by way bigger people!\n"
+  },
+  {
+    "input": "You can put an end to this place, but you won't be stopping the problem. These people are victims too, Marcus. Victims of a way bigger game being played by way bigger people!\n",
+    "output": "[turns his back to Stan] Oh, you're a fine one for speeches! When it comes to saving your own ass!\n"
+  },
+  {
+    "input": "[turns his back to Stan] Oh, you're a fine one for speeches! When it comes to saving your own ass!\n",
+    "output": "It's not for me, Marcus. Look, I know you loved Chuck E. Cheese. [Marcus stops dialing] I know you'd do anything to bring down the people who took him from you. [Marcus begins to soften and soon gets emotional] That's why you have to go further, Marcus. Take it to the people who profited from Chuck E.'s addiction.\n"
+  },
+  {
+    "input": "It's not for me, Marcus. Look, I know you loved Chuck E. Cheese. [Marcus stops dialing] I know you'd do anything to bring down the people who took him from you. [Marcus begins to soften and soon gets emotional] That's why you have to go further, Marcus. Take it to the people who profited from Chuck E.'s addiction.\n",
+    "output": "[turns around, sobbing] He was just a mouse... who wanted to make people happy. [walks up to Stan, and they hug each other]\n"
+  },
+  {
+    "input": "[turns around, sobbing] He was just a mouse... who wanted to make people happy. [walks up to Stan, and they hug each other]\n",
+    "output": "I know. I know.\n[The commons. The boys move on to their next song. Kyle provides a bass beat.]\n"
+  },
+  {
+    "input": "I know. I know.\n[The commons. The boys move on to their next song. Kyle provides a bass beat.]\n",
+    "output": "No time to search the world around\nWhen I come around. When I come around.\n"
+  },
+  {
+    "input": "No time to search the world around\nWhen I come around. When I come around.\n",
+    "output": "I come around.\n[the residents begin to leave one by one]\n"
+  },
+  {
+    "input": "I come around.\n[the residents begin to leave one by one]\n",
+    "output": "Hey, where are ya'll goin'?\n"
+  },
+  {
+    "input": "Hey, where are ya'll goin'?\n",
+    "output": "Back to our rooms. You kids are absolutely awful. [pfffft]\n[The hallway. The residents go to their rooms.]\n"
+  },
+  {
+    "input": "Back to our rooms. You kids are absolutely awful. [pfffft]\n[The hallway. The residents go to their rooms.]\n",
+    "output": "[notices her door already open] What the? [pfft] Someone is in my room! [pfffft. She goes in with her two friends]\n[Mrs. McGullicutty's room. She gasps, then farts.]\n"
+  },
+  {
+    "input": "[notices her door already open] What the? [pfft] Someone is in my room! [pfffft. She goes in with her two friends]\n[Mrs. McGullicutty's room. She gasps, then farts.]\n",
+    "output": "Whaaaat?! [pfffft]\n[Marvin Marsh's room. He rolls in and finds Stan there.]\n"
+  },
+  {
+    "input": "Whaaaat?! [pfffft]\n[Marvin Marsh's room. He rolls in and finds Stan there.]\n",
+    "output": "Billy. What are you doin' here?\n"
+  },
+  {
+    "input": "Billy. What are you doin' here?\n",
+    "output": "[moves to his right] Surprise, Grandpa. [a bag appears where Stan stood just moments ago] I got what you needed.\n"
+  },
+  {
+    "input": "[moves to his right] Surprise, Grandpa. [a bag appears where Stan stood just moments ago] I got what you needed.\n",
+    "output": "Heh. [rolls forward] Billy, Mrs. McGullicutty's Hummel collection. You got it for me.\n"
+  },
+  {
+    "input": "Heh. [rolls forward] Billy, Mrs. McGullicutty's Hummel collection. You got it for me.\n",
+    "output": "Yeah, Grandpa. Now you can put a stop to all this, right?\n"
+  },
+  {
+    "input": "Yeah, Grandpa. Now you can put a stop to all this, right?\n",
+    "output": "Yeah. I just might be able to.\n[The hallway. Ms. McGullicutty and her friends rush down the hallway.]\n[Marvin Marsh's room. Marvin rises from his wheelchair.]\n"
+  },
+  {
+    "input": "Yeah. I just might be able to.\n[The hallway. Ms. McGullicutty and her friends rush down the hallway.]\n[Marvin Marsh's room. Marvin rises from his wheelchair.]\n",
+    "output": "What are you doing, Grandpa?\n"
+  },
+  {
+    "input": "What are you doing, Grandpa?\n",
+    "output": "I told you, Billy. These Hummels hold a special power with old people.\n"
+  },
+  {
+    "input": "I told you, Billy. These Hummels hold a special power with old people.\n",
+    "output": "[enters with her friends] You! [pfffft]\n"
+  },
+  {
+    "input": "[enters with her friends] You! [pfffft]\n",
+    "output": "[to Stan] Go on, get out of here.\n"
+  },
+  {
+    "input": "[to Stan] Go on, get out of here.\n",
+    "output": "You really thought stealing my Hummels would make you the head bitch in this place?! [pfffft]\n"
+  },
+  {
+    "input": "You really thought stealing my Hummels would make you the head bitch in this place?! [pfffft]\n",
+    "output": "Yeah. I think it will. [swings the bag around and gives her a bloody nose]\n"
+  },
+  {
+    "input": "Yeah. I think it will. [swings the bag around and gives her a bloody nose]\n",
+    "output": "Aaah! [Marvin swings the bag around and takes out Mrs. McGullicutty's friends, he keeps swinging at them as they escape his room. The other residents look out of their rooms and cheer him on. He swings at Mrs. McGullicutty all the way down the hallway until she stops moving. The boys arrive]\n"
+  },
+  {
+    "input": "Aaah! [Marvin swings the bag around and takes out Mrs. McGullicutty's friends, he keeps swinging at them as they escape his room. The other residents look out of their rooms and cheer him on. He swings at Mrs. McGullicutty all the way down the hallway until she stops moving. The boys arrive]\n",
+    "output": "[turns and looks at the boys, and smiles] Now you know how we do shit in the nursing home.\n"
+  },
+  {
+    "input": "[turns and looks at the boys, and smiles] Now you know how we do shit in the nursing home.\n",
+    "output": "...That's pretty sweet.\n[South Park, dawn. The sun comes up over town.]\n[Shady Acres. Tony and Toby escort Ms. McGullicutty away from the Senior Cafe.]\n"
+  },
+  {
+    "input": "...That's pretty sweet.\n[South Park, dawn. The sun comes up over town.]\n[Shady Acres. Tony and Toby escort Ms. McGullicutty away from the Senior Cafe.]\n",
+    "output": "You get your paws off of me, young man! [pfffft]\n"
+  },
+  {
+    "input": "You get your paws off of me, young man! [pfffft]\n",
+    "output": "There there, Ms. McGullicutty. Everything's gonna be all right. [they take her to solitaire]\n"
+  },
+  {
+    "input": "There there, Ms. McGullicutty. Everything's gonna be all right. [they take her to solitaire]\n",
+    "output": "No! [pfffft] Not solitaire! [pfffft] I won't play it! You can't make me! [pffpffft. Tony and Toby put her inside and lock the door. Stan and Marvin watch from the Senior Cafe]\n"
+  },
+  {
+    "input": "No! [pfffft] Not solitaire! [pfffft] I won't play it! You can't make me! [pffpffft. Tony and Toby put her inside and lock the door. Stan and Marvin watch from the Senior Cafe]\n",
+    "output": "Congratulations on becoming head bitch, Grandpa.\n"
+  },
+  {
+    "input": "Congratulations on becoming head bitch, Grandpa.\n",
+    "output": "Thank you, Billy. Now if we could only take down the real douchebags who profit from all this.\n"
+  },
+  {
+    "input": "Thank you, Billy. Now if we could only take down the real douchebags who profit from all this.\n",
+    "output": "Ahhh, don't worry. I have a feeling that's about to happen.\n[Pebble Beach Hotel and Resort, Florida, day. There's a doctors' seminar there for U.S. Pharmaceuticals. Inside, jazz music place and conversations fill the air. The doors open, Marcus enters, and the music stops playing.]\n"
+  }
+]

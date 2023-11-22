@@ -1,0 +1,762 @@
+[
+  {
+    "input": "",
+    "output": "Coon vs. Coon & Friends\n\n[A new comic book. The speech bubbles give the hero away: this comic book is about Mintberry Crunch. On the page, two villains run from the flying half-man half-berry]\n"
+  },
+  {
+    "input": "Coon vs. Coon & Friends\n\n[A new comic book. The speech bubbles give the hero away: this comic book is about Mintberry Crunch. On the page, two villains run from the flying half-man half-berry]\n",
+    "output": "Sit back, justice believers, and listen to another edition of America's favorite superhero, Mintberry Crunch! [The camera pulls out to reveal the whole page, which is a cover of \"the AMAZING MINTBERRY CRUNCH\"] Our story begins in a remote corner of the Gulf of Mexico. [a graphic of the BP oil rig is shown] The BP Oil Company drills into the ocean floor, [a graphic of a fire destroying the rig] but they drill too much, and the BP Oil Company accidentally unleashes Cthulhu, an ancient evil god from another dimension. Halfway across the country, [Coon & Friends in their normal outfit are shown, with Bradley as the leader instead of Stan] a mild-mannered attractive fourth-grader, Bradley Biggle, hears of the disaster on the news while with his friends. [the page flips over and Bradley is shown transforming] But Bradley Biggle is no ordinary fourth-grader! Not long ago, he realized he had superpowers he could call upon by turning in place and saying the magic word, \"Shablagoo!\" And in a flash, Bradley is transformed into the thrilling superhero, Mintberry Crunch! Joined by the other Coon Friends, Mintberry Crunch went to investigate the Gulf spill crisis! The superheroes came across a cult, in existence for years, that had been waiting for Cthulhu's arrival. They are the key to stopping Cthulhu from taking over the world! Sometimes, when everything seems hopeless, that's when you need to bring it all. [Mintberry Crunch stands at the corner of a roof in a heroic pose] That's when you need... to bring the Crr-runch!\n[Coon and Friends Secret Base. The Friends are there listening to Mintberry Crunch]\n"
+  },
+  {
+    "input": "Sit back, justice believers, and listen to another edition of America's favorite superhero, Mintberry Crunch! [The camera pulls out to reveal the whole page, which is a cover of \"the AMAZING MINTBERRY CRUNCH\"] Our story begins in a remote corner of the Gulf of Mexico. [a graphic of the BP oil rig is shown] The BP Oil Company drills into the ocean floor, [a graphic of a fire destroying the rig] but they drill too much, and the BP Oil Company accidentally unleashes Cthulhu, an ancient evil god from another dimension. Halfway across the country, [Coon & Friends in their normal outfit are shown, with Bradley as the leader instead of Stan] a mild-mannered attractive fourth-grader, Bradley Biggle, hears of the disaster on the news while with his friends. [the page flips over and Bradley is shown transforming] But Bradley Biggle is no ordinary fourth-grader! Not long ago, he realized he had superpowers he could call upon by turning in place and saying the magic word, \"Shablagoo!\" And in a flash, Bradley is transformed into the thrilling superhero, Mintberry Crunch! Joined by the other Coon Friends, Mintberry Crunch went to investigate the Gulf spill crisis! The superheroes came across a cult, in existence for years, that had been waiting for Cthulhu's arrival. They are the key to stopping Cthulhu from taking over the world! Sometimes, when everything seems hopeless, that's when you need to bring it all. [Mintberry Crunch stands at the corner of a roof in a heroic pose] That's when you need... to bring the Crr-runch!\n[Coon and Friends Secret Base. The Friends are there listening to Mintberry Crunch]\n",
+    "output": "[after a few seconds of silence] Dude, I'm sorry, but we still aren't getting it. You're half man and half berry?\n"
+  },
+  {
+    "input": "[after a few seconds of silence] Dude, I'm sorry, but we still aren't getting it. You're half man and half berry?\n",
+    "output": "Rrright!\n"
+  },
+  {
+    "input": "Rrright!\n",
+    "output": "But then what exactly is your superpower?\n"
+  },
+  {
+    "input": "But then what exactly is your superpower?\n",
+    "output": "The power of mint and berries yet with a satisfying tasty crunch!\n"
+  },
+  {
+    "input": "The power of mint and berries yet with a satisfying tasty crunch!\n",
+    "output": "...Nah, see, that's the problem dude, that's not really a superpower. Like, I have mental command over all power tools, Human Kite can fly-\n"
+  },
+  {
+    "input": "...Nah, see, that's the problem dude, that's not really a superpower. Like, I have mental command over all power tools, Human Kite can fly-\n",
+    "output": "And shoot lasers out of my eyes.\n"
+  },
+  {
+    "input": "And shoot lasers out of my eyes.\n",
+    "output": "And shoot lasers out of his eyes. And Mysterion can... [pauses and looks over at Mysterion.] Wait, what's your superpower Mysterion?\n"
+  },
+  {
+    "input": "And shoot lasers out of his eyes. And Mysterion can... [pauses and looks over at Mysterion.] Wait, what's your superpower Mysterion?\n",
+    "output": "[with his back to the group] I can't die!\n"
+  },
+  {
+    "input": "[with his back to the group] I can't die!\n",
+    "output": "...Oh yeah, good one. Mysterion can't die, and Iron Maiden is indestructible-\n"
+  },
+  {
+    "input": "...Oh yeah, good one. Mysterion can't die, and Iron Maiden is indestructible-\n",
+    "output": "No, Stan, I'm being serious! I really, really can't die!\n"
+  },
+  {
+    "input": "No, Stan, I'm being serious! I really, really can't die!\n",
+    "output": "...Woo-hat?\n"
+  },
+  {
+    "input": "...Woo-hat?\n",
+    "output": "[turns to face them] Like last night, in the alley, the cult leader stabbed me and I bled all over the place! And you screamed \"Oh my God,\" and you called him a bastard!\n"
+  },
+  {
+    "input": "[turns to face them] Like last night, in the alley, the cult leader stabbed me and I bled all over the place! And you screamed \"Oh my God,\" and you called him a bastard!\n",
+    "output": "[arms down and out, palms out] When was that?\n"
+  },
+  {
+    "input": "[arms down and out, palms out] When was that?\n",
+    "output": "All the time! I die all the time! And you assholes NEVER REMEMBER!\n"
+  },
+  {
+    "input": "All the time! I die all the time! And you assholes NEVER REMEMBER!\n",
+    "output": "...Ah I think we would remember you dying, dude.\n"
+  },
+  {
+    "input": "...Ah I think we would remember you dying, dude.\n",
+    "output": "Well you don't! I die over. And over! Only to wake up in my bed like nothing happened!\n"
+  },
+  {
+    "input": "Well you don't! I die over. And over! Only to wake up in my bed like nothing happened!\n",
+    "output": "[notices Mintberry Crunch] Dude, you're freaking out Mintberry Crunch. He's peed his pants. [Mintberry Crunch notices that he has indeed peed his pants and covers his groin quickly]\n"
+  },
+  {
+    "input": "[notices Mintberry Crunch] Dude, you're freaking out Mintberry Crunch. He's peed his pants. [Mintberry Crunch notices that he has indeed peed his pants and covers his groin quickly]\n",
+    "output": "Nono. Mintberry Crunch doesn't ever pee his pants!\n"
+  },
+  {
+    "input": "Nono. Mintberry Crunch doesn't ever pee his pants!\n",
+    "output": "[turns away] I knew there'd be no point in telling you guys.\n"
+  },
+  {
+    "input": "[turns away] I knew there'd be no point in telling you guys.\n",
+    "output": "[approaches him] Alright. dude, let, let's just say you're not crazy and it's true. What's the big deal? I mean, I think it'd be pretty cool not to be able to die.\n"
+  },
+  {
+    "input": "[approaches him] Alright. dude, let, let's just say you're not crazy and it's true. What's the big deal? I mean, I think it'd be pretty cool not to be able to die.\n",
+    "output": "[confronts him] Pretty cool?! Do you know what it feels like to be stabbed?! To be shot?! Decapitated?! Torn apart?! Burned?! Run over?!\n"
+  },
+  {
+    "input": "[confronts him] Pretty cool?! Do you know what it feels like to be stabbed?! To be shot?! Decapitated?! Torn apart?! Burned?! Run over?!\n",
+    "output": "Kenny Kenny, calm down.\n"
+  },
+  {
+    "input": "Kenny Kenny, calm down.\n",
+    "output": "It's not pretty cool, Kyle! It fuckin' hurts! And it won't go away, and nobody will believe me! [walks away, then turns around] Remember this time! Try and fuckin' remember! [pulls out a gun and shoots himself in the head]\n"
+  },
+  {
+    "input": "It's not pretty cool, Kyle! It fuckin' hurts! And it won't go away, and nobody will believe me! [walks away, then turns around] Remember this time! Try and fuckin' remember! [pulls out a gun and shoots himself in the head]\n",
+    "output": "Oh my God! Holy shit, dude!\n"
+  },
+  {
+    "input": "Oh my God! Holy shit, dude!\n",
+    "output": "Dude!\n"
+  },
+  {
+    "input": "Dude!\n",
+    "output": "Is he? Oh Jesus! [flees up the stairs and out of the basement]\n"
+  },
+  {
+    "input": "Is he? Oh Jesus! [flees up the stairs and out of the basement]\n",
+    "output": "[draws closer] Kenny? No! No!\n[The Coon comic book. On the cover, Cartman carries an American flag while Cthulhu stands behind him wearing a Coon and Friends shirt. The story unfolds with a few embellishments in the design of the secret base]\n"
+  },
+  {
+    "input": "[draws closer] Kenny? No! No!\n[The Coon comic book. On the cover, Cartman carries an American flag while Cthulhu stands behind him wearing a Coon and Friends shirt. The story unfolds with a few embellishments in the design of the secret base]\n",
+    "output": "Gather around, believers in good, and listen to the newest installment of The Coon. It all began when the BP Oil Company drilled into the ocean floor and ripped open a hole into another dimension. Seeing the disaster on Coon-Vision, the Coon immediately called together his trusty Coon Friends. As the Coon explained how the disaster could be stopped, something terrible happened. Without warning, the Coon friends changed. Their superpowers morphed somehow, turning them into... supervillains. [the friends are depicted with evil grins] The Coon tried to reason with them, tried to bring them back to the side of good, [\"Heroes must be good. Go with Christ!\"] but it was too late. [Human Kite: \"GET OUT!!!\" Mysterion: \"WE ARE EVIL NOW!\"] Their black hearts had been tainted by hate and rage. The Coon was alone, turn by the ultimate dilemma. [Coon is shown sitting on Lincoln's shoulder at the Lincoln Memorial] He had to put a stop to the evil villains, even though they had once been his friends. Sometimes, to fight the ultimate evil, you must make friends with enemies. [Coon is showing looking at Cthulhu] The Coon teamed up with Cthulhu, because even Cthulhu knows what evil assholes Kyle and Stan and those guys are! And that they are manipulative, uncaring, vagina faces! They're all planning to destroy the world. Only one thing can stop them: the Coon. With Cthulhu's help, I can try to banish them to a dark oblivion, for all eternity. [the Friends are shown surrounding a glowing globe of Earth with evil grins on their faces] I will not rest until that happens.\n[South Park, Cartman's street, day. Cartman is walking home and approaches the front door]\n"
+  },
+  {
+    "input": "Gather around, believers in good, and listen to the newest installment of The Coon. It all began when the BP Oil Company drilled into the ocean floor and ripped open a hole into another dimension. Seeing the disaster on Coon-Vision, the Coon immediately called together his trusty Coon Friends. As the Coon explained how the disaster could be stopped, something terrible happened. Without warning, the Coon friends changed. Their superpowers morphed somehow, turning them into... supervillains. [the friends are depicted with evil grins] The Coon tried to reason with them, tried to bring them back to the side of good, [\"Heroes must be good. Go with Christ!\"] but it was too late. [Human Kite: \"GET OUT!!!\" Mysterion: \"WE ARE EVIL NOW!\"] Their black hearts had been tainted by hate and rage. The Coon was alone, turn by the ultimate dilemma. [Coon is shown sitting on Lincoln's shoulder at the Lincoln Memorial] He had to put a stop to the evil villains, even though they had once been his friends. Sometimes, to fight the ultimate evil, you must make friends with enemies. [Coon is showing looking at Cthulhu] The Coon teamed up with Cthulhu, because even Cthulhu knows what evil assholes Kyle and Stan and those guys are! And that they are manipulative, uncaring, vagina faces! They're all planning to destroy the world. Only one thing can stop them: the Coon. With Cthulhu's help, I can try to banish them to a dark oblivion, for all eternity. [the Friends are shown surrounding a glowing globe of Earth with evil grins on their faces] I will not rest until that happens.\n[South Park, Cartman's street, day. Cartman is walking home and approaches the front door]\n",
+    "output": "Bab-ay,\nI know you're askin' me to stay\nSay \"Please please please don't go away.\"\nYou say I'm givin' you the blues.\n[enters the house]\nMayb-ay,\nyou mean every word you say\nCan't help but think-\n"
+  },
+  {
+    "input": "Bab-ay,\nI know you're askin' me to stay\nSay \"Please please please don't go away.\"\nYou say I'm givin' you the blues.\n[enters the house]\nMayb-ay,\nyou mean every word you say\nCan't help but think-\n",
+    "output": "[confronts him with her arms crossed over her chest] Eric Cartman!\n"
+  },
+  {
+    "input": "[confronts him with her arms crossed over her chest] Eric Cartman!\n",
+    "output": "Hi Mom.\n"
+  },
+  {
+    "input": "Hi Mom.\n",
+    "output": "Where have you been, young man?!\n"
+  },
+  {
+    "input": "Where have you been, young man?!\n",
+    "output": "Just doin' stuff Mom. Are my friends downstairs in the secret base?\n"
+  },
+  {
+    "input": "Just doin' stuff Mom. Are my friends downstairs in the secret base?\n",
+    "output": "Yes they are, but you were supposed to be grounded in your room! And now you're more grounded, young man!\n"
+  },
+  {
+    "input": "Yes they are, but you were supposed to be grounded in your room! And now you're more grounded, young man!\n",
+    "output": "[turns around and thinks hard, to himself] The Coon's mother appears to be extremely upset. In order to get past her, I must use the LeBron James technique.\n"
+  },
+  {
+    "input": "[turns around and thinks hard, to himself] The Coon's mother appears to be extremely upset. In order to get past her, I must use the LeBron James technique.\n",
+    "output": "Eric, are you listening to me?!\n"
+  },
+  {
+    "input": "Eric, are you listening to me?!\n",
+    "output": "[faces Liane] Mom... what should I do?\n"
+  },
+  {
+    "input": "[faces Liane] Mom... what should I do?\n",
+    "output": "[disarmed] What?\n"
+  },
+  {
+    "input": "[disarmed] What?\n",
+    "output": "What should I do? Should I admit I made mistakes? Should I say I've done this before? Should I write a song about how I should have stayed in my room? What should I do?\n"
+  },
+  {
+    "input": "What should I do? Should I admit I made mistakes? Should I say I've done this before? Should I write a song about how I should have stayed in my room? What should I do?\n",
+    "output": "What do you mean \"what should-\"\n"
+  },
+  {
+    "input": "What do you mean \"what should-\"\n",
+    "output": "Should I say I am not a role model? Should I not listen to my conscience? It's my conscience, Mom! What should I do? Go back to my room and pretend nothing happened? Not jump out the window and fly to New Orleans? What should I do, Ma? Tell me!\n"
+  },
+  {
+    "input": "Should I say I am not a role model? Should I not listen to my conscience? It's my conscience, Mom! What should I do? Go back to my room and pretend nothing happened? Not jump out the window and fly to New Orleans? What should I do, Ma? Tell me!\n",
+    "output": "[overwhelmed] I just, I- I'm gonna go make you kids some lemonade. [runs off to the kitchen]\n[Coon and Friends Secret Base. The Friends are at the table]\n"
+  },
+  {
+    "input": "[overwhelmed] I just, I- I'm gonna go make you kids some lemonade. [runs off to the kitchen]\n[Coon and Friends Secret Base. The Friends are at the table]\n",
+    "output": "Alright Coon and Friends, what good deed should we do next?\n"
+  },
+  {
+    "input": "Alright Coon and Friends, what good deed should we do next?\n",
+    "output": "Perhaps we should make more lemon bars to raise money for people in need.\n"
+  },
+  {
+    "input": "Perhaps we should make more lemon bars to raise money for people in need.\n",
+    "output": "Okay!\n"
+  },
+  {
+    "input": "Okay!\n",
+    "output": "You guys have no memory of me shooting myself in the head, do you?\n"
+  },
+  {
+    "input": "You guys have no memory of me shooting myself in the head, do you?\n",
+    "output": "Uh-what?\n"
+  },
+  {
+    "input": "Uh-what?\n",
+    "output": "What we need to do is talk to people in that cult! I wanna know where my powers come from.\n"
+  },
+  {
+    "input": "What we need to do is talk to people in that cult! I wanna know where my powers come from.\n",
+    "output": "Yeah cool let's talk about where our powers come from.\n"
+  },
+  {
+    "input": "Yeah cool let's talk about where our powers come from.\n",
+    "output": "I was bitten by a radioactive mosquito! Bzzzzzzt.\n"
+  },
+  {
+    "input": "I was bitten by a radioactive mosquito! Bzzzzzzt.\n",
+    "output": "I was in a car accident, then put back together with Tupperware parts.\n"
+  },
+  {
+    "input": "I was in a car accident, then put back together with Tupperware parts.\n",
+    "output": "Tih-Timmieh!\n"
+  },
+  {
+    "input": "Tih-Timmieh!\n",
+    "output": "Will you guys listen to me?! I actually have a power that I actually want to know about!\n"
+  },
+  {
+    "input": "Will you guys listen to me?! I actually have a power that I actually want to know about!\n",
+    "output": "[appearing on the basement stairs] Hey guys. [the Friends look at him] So, what's goin' on?\n"
+  },
+  {
+    "input": "[appearing on the basement stairs] Hey guys. [the Friends look at him] So, what's goin' on?\n",
+    "output": "Go away Cartman. We kicked you out of Coon and Friends, remember?\n"
+  },
+  {
+    "input": "Go away Cartman. We kicked you out of Coon and Friends, remember?\n",
+    "output": "No, I, I know. That's cool, I understand. Even though I started it and the secret base is in my house. Yes, that's totally understandable.\n"
+  },
+  {
+    "input": "No, I, I know. That's cool, I understand. Even though I started it and the secret base is in my house. Yes, that's totally understandable.\n",
+    "output": "You just wanted to frame and blackmail people, then you beat up Clyde and Bradley for no reason!\n"
+  },
+  {
+    "input": "You just wanted to frame and blackmail people, then you beat up Clyde and Bradley for no reason!\n",
+    "output": "No you're right. For no reason. Clearly something is wrong with me. But you guys, what should I do?\n"
+  },
+  {
+    "input": "No you're right. For no reason. Clearly something is wrong with me. But you guys, what should I do?\n",
+    "output": "You should fuck off, that's what you should do.\n"
+  },
+  {
+    "input": "You should fuck off, that's what you should do.\n",
+    "output": "[sees the LeBron James technique isn't working] Hm. Ah, all right, look. You guys were totally right, okay? That's all I wanted to say. That and... there's a double rainbow outside.\n"
+  },
+  {
+    "input": "[sees the LeBron James technique isn't working] Hm. Ah, all right, look. You guys were totally right, okay? That's all I wanted to say. That and... there's a double rainbow outside.\n",
+    "output": "A what?\n"
+  },
+  {
+    "input": "A what?\n",
+    "output": "Double rainbow, you guys. You don't see 'em often, but there's one outside right now. You've gotta come see! [rushes up the stairs and out of the secret base]\n"
+  },
+  {
+    "input": "Double rainbow, you guys. You don't see 'em often, but there's one outside right now. You've gotta come see! [rushes up the stairs and out of the secret base]\n",
+    "output": "A double rainbow? Shablagoo! [the heroes all leave their seats]\n"
+  },
+  {
+    "input": "A double rainbow? Shablagoo! [the heroes all leave their seats]\n",
+    "output": "Wait, Mintberry Crunch ya you might not wanna go- [goes up the stairs with the others]\n"
+  },
+  {
+    "input": "Wait, Mintberry Crunch ya you might not wanna go- [goes up the stairs with the others]\n",
+    "output": "Huhey, can I see the double rainbow, fellas? [softly] Uh, fellas?\n[Cartman's house, front lawn, day. Coon leads the friends out]\n"
+  },
+  {
+    "input": "Huhey, can I see the double rainbow, fellas? [softly] Uh, fellas?\n[Cartman's house, front lawn, day. Coon leads the friends out]\n",
+    "output": "Isn't it beautiful you guys?\n"
+  },
+  {
+    "input": "Isn't it beautiful you guys?\n",
+    "output": "There's no double rainbow, fatass!\n"
+  },
+  {
+    "input": "There's no double rainbow, fatass!\n",
+    "output": "You are correct, Human Kike! Not that supervillains like you guys could ever see a double rainbow!\n"
+  },
+  {
+    "input": "You are correct, Human Kike! Not that supervillains like you guys could ever see a double rainbow!\n",
+    "output": "What are you talking about?\n"
+  },
+  {
+    "input": "What are you talking about?\n",
+    "output": "Your evil-doing days are over, Mosquito! All of you shall now be dealt the swift hand of justice!\n"
+  },
+  {
+    "input": "Your evil-doing days are over, Mosquito! All of you shall now be dealt the swift hand of justice!\n",
+    "output": "Cartman, you are the bad guy, not us!\n"
+  },
+  {
+    "input": "Cartman, you are the bad guy, not us!\n",
+    "output": "Nuh uh, you guys are the bad guy. [whistles. A gust of wind blows leaves at the boys, and heavy footsteps follow. Cthulhu soon stands before the Friends, who look at him in awe]\n"
+  },
+  {
+    "input": "Nuh uh, you guys are the bad guy. [whistles. A gust of wind blows leaves at the boys, and heavy footsteps follow. Cthulhu soon stands before the Friends, who look at him in awe]\n",
+    "output": "Waaaaaaaaaah! [runs off]\n"
+  },
+  {
+    "input": "Waaaaaaaaaah! [runs off]\n",
+    "output": "What are you doing with that thing?!\n"
+  },
+  {
+    "input": "What are you doing with that thing?!\n",
+    "output": "He's going to help me get rid of you guys so together we can make the world a better place!\n"
+  },
+  {
+    "input": "He's going to help me get rid of you guys so together we can make the world a better place!\n",
+    "output": "Cartman, if you team up with the most evil thing in the universe, then clearly you are the bad guy!\n"
+  },
+  {
+    "input": "Cartman, if you team up with the most evil thing in the universe, then clearly you are the bad guy!\n",
+    "output": "No, because it's for the greater good, like when Superman teamed up with Lex Luthor!\n"
+  },
+  {
+    "input": "No, because it's for the greater good, like when Superman teamed up with Lex Luthor!\n",
+    "output": "Superman never teamed up with Lex Luthor!\n"
+  },
+  {
+    "input": "Superman never teamed up with Lex Luthor!\n",
+    "output": "[thinks it over, then crosses his arms] Well, that's why Superman isn't around anymore, isn't it? Cthulhu! Banish them to a dark oblivion, please! [Cthulhu opens his right paw and sweeps it from left to right in the air. The boys scream and become deformed, then disappear] Aww! Dude, that was awesome! You're all like \"Mehhhh\" and they were all like \"Nooo!\"\n[Night. Coon and Cthulhu sit in a valley somewhere with a large city in the distance.]\n"
+  },
+  {
+    "input": "[thinks it over, then crosses his arms] Well, that's why Superman isn't around anymore, isn't it? Cthulhu! Banish them to a dark oblivion, please! [Cthulhu opens his right paw and sweeps it from left to right in the air. The boys scream and become deformed, then disappear] Aww! Dude, that was awesome! You're all like \"Mehhhh\" and they were all like \"Nooo!\"\n[Night. Coon and Cthulhu sit in a valley somewhere with a large city in the distance.]\n",
+    "output": "All right, now, we've taken out most of the synagogues, destroyed San Francisco, sent my friends into a dark oblivion, and so our next order of business will be Burning Man. [Cthulhu roars softly] Burning Man is the biggest hippie festival in the world, and tomorrow, we're gonna wipe them all out. Pretty soon, the whole world will be transformed thanks to the Coon! [Cthulhu roars softly] Yes yes, the Coon and Friend. Now after Burning Man we'll take down Whole Foods alright? [Cthulhu repositions himself to confront Coon and roars loudly. Coon thinks] The dark lord is agitated and the LeBron James technique might not work. The Coon will have to use an even more manipulative technique. Time to bust out: Cute Kitten. [aloud] Meow meow meow meow meow meow meow. [climbs up onto Cthulhu.] Meow meow meow. [digs his blades into Cthulhu's back and massages him while at the same time making a comfortable place to nap in. Cthulhu's face softens and he giggles, then looks back at Cartman sleeping on his back. Cthulhu blinks several times, then walks forward softly]\n[a strange place altogether]\n"
+  },
+  {
+    "input": "All right, now, we've taken out most of the synagogues, destroyed San Francisco, sent my friends into a dark oblivion, and so our next order of business will be Burning Man. [Cthulhu roars softly] Burning Man is the biggest hippie festival in the world, and tomorrow, we're gonna wipe them all out. Pretty soon, the whole world will be transformed thanks to the Coon! [Cthulhu roars softly] Yes yes, the Coon and Friend. Now after Burning Man we'll take down Whole Foods alright? [Cthulhu repositions himself to confront Coon and roars loudly. Coon thinks] The dark lord is agitated and the LeBron James technique might not work. The Coon will have to use an even more manipulative technique. Time to bust out: Cute Kitten. [aloud] Meow meow meow meow meow meow meow. [climbs up onto Cthulhu.] Meow meow meow. [digs his blades into Cthulhu's back and massages him while at the same time making a comfortable place to nap in. Cthulhu's face softens and he giggles, then looks back at Cartman sleeping on his back. Cthulhu blinks several times, then walks forward softly]\n[a strange place altogether]\n",
+    "output": "Dude, where the fuck are we?\n"
+  },
+  {
+    "input": "Dude, where the fuck are we?\n",
+    "output": "I don't know, but... I feel like... I've... been here before. [huge butterfly-like creatures pop up from behind some plants]\n[a new installment of the Amazing Mintberry Crunch. He remembers things a bit differently...]\n"
+  },
+  {
+    "input": "I don't know, but... I feel like... I've... been here before. [huge butterfly-like creatures pop up from behind some plants]\n[a new installment of the Amazing Mintberry Crunch. He remembers things a bit differently...]\n",
+    "output": "And so, the Coon had returned with the dark lord Cthulhu! Upon seeing Cthulhu in person, Mintberry Crunch heroically dashed off, to, to save the day! With Minty coolness he hurried back home! And heroically watched Judge Judy, knowing that his superhero friends were probably just fine without him!\n[the strange place. The Friends run and scream until they reach a cliff]\n"
+  },
+  {
+    "input": "And so, the Coon had returned with the dark lord Cthulhu! Upon seeing Cthulhu in person, Mintberry Crunch heroically dashed off, to, to save the day! With Minty coolness he hurried back home! And heroically watched Judge Judy, knowing that his superhero friends were probably just fine without him!\n[the strange place. The Friends run and scream until they reach a cliff]\n",
+    "output": "Oh shit!\n"
+  },
+  {
+    "input": "Oh shit!\n",
+    "output": "[panting] We aren't going that way!\n"
+  },
+  {
+    "input": "[panting] We aren't going that way!\n",
+    "output": "You guys, I wanna go home.\n"
+  },
+  {
+    "input": "You guys, I wanna go home.\n",
+    "output": "We all wanna go home, Clyde. I don't think we're gonna last very long out here.\n"
+  },
+  {
+    "input": "We all wanna go home, Clyde. I don't think we're gonna last very long out here.\n",
+    "output": "Look, maybe we should just find a place to hide and wait for help.\n"
+  },
+  {
+    "input": "Look, maybe we should just find a place to hide and wait for help.\n",
+    "output": "What help, dude? Nobody in the real world even knows we're here.\n"
+  },
+  {
+    "input": "What help, dude? Nobody in the real world even knows we're here.\n",
+    "output": "Alright, you guys hide as long as you can. I'll try and find help. [moves away from the cliff]\n"
+  },
+  {
+    "input": "Alright, you guys hide as long as you can. I'll try and find help. [moves away from the cliff]\n",
+    "output": "How, dude?\n"
+  },
+  {
+    "input": "How, dude?\n",
+    "output": "Kenny, where the hell are you going?\n"
+  },
+  {
+    "input": "Kenny, where the hell are you going?\n",
+    "output": "I'm going to try to get you all out of here. If this works. Or, I could be wrong. [runs towards the cliff]\n"
+  },
+  {
+    "input": "I'm going to try to get you all out of here. If this works. Or, I could be wrong. [runs towards the cliff]\n",
+    "output": "Kenny! [Kenny jumps off the cliff and impales himself on some big spiky plants ]\n"
+  },
+  {
+    "input": "Kenny! [Kenny jumps off the cliff and impales himself on some big spiky plants ]\n",
+    "output": "Ow! That fucking HURTS! [moans a few times and dies.]\n"
+  },
+  {
+    "input": "Ow! That fucking HURTS! [moans a few times and dies.]\n",
+    "output": "Oh my God! Kenny!\n"
+  },
+  {
+    "input": "Oh my God! Kenny!\n",
+    "output": "You... you crazy bastard! [the boys turn away from the edge, seemingly forgetting their dead friend below]\n[Kenny's room, night. Kenny is back in his bed and wakes up. He sits up and checks himself out. Satisfied that he's alright, he jumps off the bed and goes to his closet, opens it and pulls a curtain off a hidden chest of drawers. He opens the top drawer and pulls out a Mysterion costume.]\n[The living room. As his parents watch TV, Kenny runs past them and out the front door.]\n[Burning Man Festival, Black Rock City, day. Dance music pumps along]\n"
+  },
+  {
+    "input": "You... you crazy bastard! [the boys turn away from the edge, seemingly forgetting their dead friend below]\n[Kenny's room, night. Kenny is back in his bed and wakes up. He sits up and checks himself out. Satisfied that he's alright, he jumps off the bed and goes to his closet, opens it and pulls a curtain off a hidden chest of drawers. He opens the top drawer and pulls out a Mysterion costume.]\n[The living room. As his parents watch TV, Kenny runs past them and out the front door.]\n[Burning Man Festival, Black Rock City, day. Dance music pumps along]\n",
+    "output": "[on a fish-cycle] It's burning Man!\n"
+  },
+  {
+    "input": "[on a fish-cycle] It's burning Man!\n",
+    "output": "[dressed as an angel] Biggest party in the world, baby! [more shots of the festival are shown. It's a carnival, but a roar changes all that. Cthulhu appears and throws an RV into the festival, and everyone scatters]\n"
+  },
+  {
+    "input": "[dressed as an angel] Biggest party in the world, baby! [more shots of the festival are shown. It's a carnival, but a roar changes all that. Cthulhu appears and throws an RV into the festival, and everyone scatters]\n",
+    "output": "[on Cthulhu's back] Fucking hippies! Fuck all o'you! [Cthulhu raises his left paw and unleashes a lightning bolt upon a girl, incinerating her and leaving nothing but bones]\n"
+  },
+  {
+    "input": "[on Cthulhu's back] Fucking hippies! Fuck all o'you! [Cthulhu raises his left paw and unleashes a lightning bolt upon a girl, incinerating her and leaving nothing but bones]\n",
+    "output": "The dark and evil Cthulhu is bringing his angry wrath down upon the Burning Man Festival, Tom. Cthulhu isn't behaving as most scientists had speculated, Tom, but the dark lord is wreaking havoc everywhere and-\n"
+  },
+  {
+    "input": "The dark and evil Cthulhu is bringing his angry wrath down upon the Burning Man Festival, Tom. Cthulhu isn't behaving as most scientists had speculated, Tom, but the dark lord is wreaking havoc everywhere and-\n",
+    "output": "[walks up and interrupts him] No nonono! Excuse me! It is not Cthulhu, it is Coon and Friend! I'm a little sick of everyone giving him all the credit when I'm the one really making the world a better place!\n"
+  },
+  {
+    "input": "[walks up and interrupts him] No nonono! Excuse me! It is not Cthulhu, it is Coon and Friend! I'm a little sick of everyone giving him all the credit when I'm the one really making the world a better place!\n",
+    "output": "Tom, it appears that Bruce Vilanch has arrived on the scene wearing a rat costume.\n"
+  },
+  {
+    "input": "Tom, it appears that Bruce Vilanch has arrived on the scene wearing a rat costume.\n",
+    "output": "[greatly insulted by the reporter's comment] Oh, you motherfucker! [runs towards Cthulhu] Cthulhu, this guy too! [Cthulhu unleashes more lightning and the reporter is incinerated] Kewl. Oh get that fire-twirling hippie bitch.\n[Henrietta's bedroom, night. The Goth kids are sitting around on her red throw rug. Red Goth strikes a lighter and it lights up. He then blows out the flame. Kindergoth taps his cigarette onto an ash tray.]\n"
+  },
+  {
+    "input": "[greatly insulted by the reporter's comment] Oh, you motherfucker! [runs towards Cthulhu] Cthulhu, this guy too! [Cthulhu unleashes more lightning and the reporter is incinerated] Kewl. Oh get that fire-twirling hippie bitch.\n[Henrietta's bedroom, night. The Goth kids are sitting around on her red throw rug. Red Goth strikes a lighter and it lights up. He then blows out the flame. Kindergoth taps his cigarette onto an ash tray.]\n",
+    "output": "This freaking sucks! We worshiped and prayed to Cthulhu, went to all the cult meetings, but life is still totally freaking gay.\n"
+  },
+  {
+    "input": "This freaking sucks! We worshiped and prayed to Cthulhu, went to all the cult meetings, but life is still totally freaking gay.\n",
+    "output": "I thought that when Cthulhu rose from the dead all was gonna be darkness and pain. I thought at least school would be canceled.\n"
+  },
+  {
+    "input": "I thought that when Cthulhu rose from the dead all was gonna be darkness and pain. I thought at least school would be canceled.\n",
+    "output": "How to I fight him? [the Goth kids look at the window and see him there]\n"
+  },
+  {
+    "input": "How to I fight him? [the Goth kids look at the window and see him there]\n",
+    "output": "Oh joy, it's Underwear Boy again.\n"
+  },
+  {
+    "input": "Oh joy, it's Underwear Boy again.\n",
+    "output": "That god you pray to just took away all my friends.\n"
+  },
+  {
+    "input": "That god you pray to just took away all my friends.\n",
+    "output": "Not our god. He promised everything would change if we worshiped him, but we're still sitting here smoking cigarettes like before [hair flip] It's like Obama all over again.\n"
+  },
+  {
+    "input": "Not our god. He promised everything would change if we worshiped him, but we're still sitting here smoking cigarettes like before [hair flip] It's like Obama all over again.\n",
+    "output": "How do I fight him?!\n"
+  },
+  {
+    "input": "How do I fight him?!\n",
+    "output": "Cthulhu isn't alive or dead, alright?\n"
+  },
+  {
+    "input": "Cthulhu isn't alive or dead, alright?\n",
+    "output": "Tell me what that means! [the bedroom door opens and Henrietta's mom appears]\n"
+  },
+  {
+    "input": "Tell me what that means! [the bedroom door opens and Henrietta's mom appears]\n",
+    "output": "Henrietta, your little brother wants to play with you.\n"
+  },
+  {
+    "input": "Henrietta, your little brother wants to play with you.\n",
+    "output": "Go away Mom, I hate you.\n"
+  },
+  {
+    "input": "Go away Mom, I hate you.\n",
+    "output": "Just let your little brother play with your friends, sweetie. He's lonely. Go on in, Bradley. [Bradley appears and enters the room]\n"
+  },
+  {
+    "input": "Just let your little brother play with your friends, sweetie. He's lonely. Go on in, Bradley. [Bradley appears and enters the room]\n",
+    "output": "Will you guys play with me?\n"
+  },
+  {
+    "input": "Will you guys play with me?\n",
+    "output": "Fuck off, dork! I don't want you here!\n"
+  },
+  {
+    "input": "Fuck off, dork! I don't want you here!\n",
+    "output": "Please, can I just- oh g'uh! [sees Mysterion in the window] Mu-Mysterion! Wuh what's goin'- Uh, that's okay, sis. I'll play with you another time. [leaves and closes the door]\n[the hallway. Bradley round the corner and walks to his room]\n"
+  },
+  {
+    "input": "Please, can I just- oh g'uh! [sees Mysterion in the window] Mu-Mysterion! Wuh what's goin'- Uh, that's okay, sis. I'll play with you another time. [leaves and closes the door]\n[the hallway. Bradley round the corner and walks to his room]\n",
+    "output": "Mysterion is here! He must have come for my help. [enter his room] No time to waste. Time for Bradley Biggle to transform. [opens a drawer under his nightstand and sees his costume] Shablagoo! [turns in place]\n[Henrietta's bedroom. As Bradley transforms, Henrietta explains to Mysterion how to fight Cthulhu. She starts with the Necronomicon]\n"
+  },
+  {
+    "input": "Mysterion is here! He must have come for my help. [enter his room] No time to waste. Time for Bradley Biggle to transform. [opens a drawer under his nightstand and sees his costume] Shablagoo! [turns in place]\n[Henrietta's bedroom. As Bradley transforms, Henrietta explains to Mysterion how to fight Cthulhu. She starts with the Necronomicon]\n",
+    "output": "Alright, look. The Necronomicon is an account of the Old Ones, their history, and the means for summoning them. [the first page shows a Prince Abdul Al-Kazred in 700 A.D. The next one has the prince genuflecting before an Old One.]\n"
+  },
+  {
+    "input": "Alright, look. The Necronomicon is an account of the Old Ones, their history, and the means for summoning them. [the first page shows a Prince Abdul Al-Kazred in 700 A.D. The next one has the prince genuflecting before an Old One.]\n",
+    "output": "Old Ones?\n"
+  },
+  {
+    "input": "Old Ones?\n",
+    "output": "Dark deities that existed before man.\n"
+  },
+  {
+    "input": "Dark deities that existed before man.\n",
+    "output": "It was written by a mad prince who knew of the nightmare city of R'Lyeh, which fell from the stars and exists beneath the sea. And, in another dimension.\n"
+  },
+  {
+    "input": "It was written by a mad prince who knew of the nightmare city of R'Lyeh, which fell from the stars and exists beneath the sea. And, in another dimension.\n",
+    "output": "That's it! That's the place I just was!\n"
+  },
+  {
+    "input": "That's it! That's the place I just was!\n",
+    "output": "You've been to the nightmare city of R'Lyeh?\n"
+  },
+  {
+    "input": "You've been to the nightmare city of R'Lyeh?\n",
+    "output": "Luckyyy...\n"
+  },
+  {
+    "input": "Luckyyy...\n",
+    "output": "Cthulhu and other beings are from this city, but for years cultists have tried to bring them into our world.\n"
+  },
+  {
+    "input": "Cthulhu and other beings are from this city, but for years cultists have tried to bring them into our world.\n",
+    "output": "And what about Cthulhu's power? Why can't Old Ones die?\n"
+  },
+  {
+    "input": "And what about Cthulhu's power? Why can't Old Ones die?\n",
+    "output": "The only thing that can destroy an immortal... is another immortal. [Henrietta's door opens again and Mintberry Crunch barges into the room]\n"
+  },
+  {
+    "input": "The only thing that can destroy an immortal... is another immortal. [Henrietta's door opens again and Mintberry Crunch barges into the room]\n",
+    "output": "Ahaaa! Don't worry, Mysterion. Mintberry Crunch is here to help you with these black cultists!\n"
+  },
+  {
+    "input": "Ahaaa! Don't worry, Mysterion. Mintberry Crunch is here to help you with these black cultists!\n",
+    "output": "Get out of my room, TWERP!\n"
+  },
+  {
+    "input": "Get out of my room, TWERP!\n",
+    "output": "Mintberry Crunch isn't afraid of his fat sister! Grab her legs, Mysterion! [Mysterion is gone] M- Mysterion? [the Goth kids turn to look at the window.] Aw crap. [runs out of the room]\n[The street. Mysterion walks down the street briskly when Mintberry Crunch opens the front door and sees him]\n"
+  },
+  {
+    "input": "Mintberry Crunch isn't afraid of his fat sister! Grab her legs, Mysterion! [Mysterion is gone] M- Mysterion? [the Goth kids turn to look at the window.] Aw crap. [runs out of the room]\n[The street. Mysterion walks down the street briskly when Mintberry Crunch opens the front door and sees him]\n",
+    "output": "Hey Mysterion, wait up! [leaves the door open] Come on, wait uuup! [catches up to him] Us Coon Friends need to stick together remember? Where are you going?\n"
+  },
+  {
+    "input": "Hey Mysterion, wait up! [leaves the door open] Come on, wait uuup! [catches up to him] Us Coon Friends need to stick together remember? Where are you going?\n",
+    "output": "Wherever Cthulhu is!\n"
+  },
+  {
+    "input": "Wherever Cthulhu is!\n",
+    "output": "What? But he'll kill you.\n"
+  },
+  {
+    "input": "What? But he'll kill you.\n",
+    "output": "Maybe, but with any luck I might find the reason for my powers.\n"
+  },
+  {
+    "input": "Maybe, but with any luck I might find the reason for my powers.\n",
+    "output": "Oh right. Maybe I can find the reason for my powers too.\n"
+  },
+  {
+    "input": "Oh right. Maybe I can find the reason for my powers too.\n",
+    "output": "You don't understand!\n"
+  },
+  {
+    "input": "You don't understand!\n",
+    "output": "[turns away from Mysterion] How was it that mint and berry came together delivering full flavor in an intense crunch? [Mysterion leaves] We must find out answers Mysterion. [turns around, but doesn't immediately see him] Mu-Mysterion, I'm going with you.\n[The Coon comic book, four pages in]\n"
+  },
+  {
+    "input": "[turns away from Mysterion] How was it that mint and berry came together delivering full flavor in an intense crunch? [Mysterion leaves] We must find out answers Mysterion. [turns around, but doesn't immediately see him] Mu-Mysterion, I'm going with you.\n[The Coon comic book, four pages in]\n",
+    "output": "After the triumphant victory over the evil hippies of Burning Man, Coon and Friends turned their attention to the next villainous scourge, bravely taking out every Whole Foods left in the country! No more organic crap for America! Thanks to Coon and Friends the country would soon be rid of all evil, but first, they would come up against their most challenging and most evil opponent, Justin Bieber. In order to save the Earth, this little butthole had to be stopped.\n[Justin Bieber concert at Staples Center]\n"
+  },
+  {
+    "input": "After the triumphant victory over the evil hippies of Burning Man, Coon and Friends turned their attention to the next villainous scourge, bravely taking out every Whole Foods left in the country! No more organic crap for America! Thanks to Coon and Friends the country would soon be rid of all evil, but first, they would come up against their most challenging and most evil opponent, Justin Bieber. In order to save the Earth, this little butthole had to be stopped.\n[Justin Bieber concert at Staples Center]\n",
+    "output": "[grabbing his crotch constantly, and singing badly off-key] Babih babih babih oooo! Babih babih babih oooo! Babig baibig woo woo, Bay-wooo [Cthulhu reaches down and grabs him off the stage] Wooooo-ooo-oo! [Cthulhu grumbles]\n"
+  },
+  {
+    "input": "[grabbing his crotch constantly, and singing badly off-key] Babih babih babih oooo! Babih babih babih oooo! Babig baibig woo woo, Bay-wooo [Cthulhu reaches down and grabs him off the stage] Wooooo-ooo-oo! [Cthulhu grumbles]\n",
+    "output": "Yep, that's him. So long, Justin Bieber, you little douchebag! [Cthulhu crushes Bieber between his forefinger and thumb like a grape]\n"
+  },
+  {
+    "input": "Yep, that's him. So long, Justin Bieber, you little douchebag! [Cthulhu crushes Bieber between his forefinger and thumb like a grape]\n",
+    "output": "The dark god Cthulhu continues his rampage of destruction and terror, and there seems to be no hope for man. I'm joined now by a supposed team member of Cthulhu, the Coon.\n"
+  },
+  {
+    "input": "The dark god Cthulhu continues his rampage of destruction and terror, and there seems to be no hope for man. I'm joined now by a supposed team member of Cthulhu, the Coon.\n",
+    "output": "It isn't just Cthulhu, Mr. Reporter. He's merely a small piece of Coon and Friends, who will continue to fight for good and justice.\n"
+  },
+  {
+    "input": "It isn't just Cthulhu, Mr. Reporter. He's merely a small piece of Coon and Friends, who will continue to fight for good and justice.\n",
+    "output": "Good and justice? J-Justin Bieber and most of his fans have just been massacred.\n"
+  },
+  {
+    "input": "Good and justice? J-Justin Bieber and most of his fans have just been massacred.\n",
+    "output": "Yes, Coon and Friends are happy to help. We do not need thanks for our deeds. We do not want gifts, all we want is for people to buy our Coon and Friends T-Shirts for $14.95.\n"
+  },
+  {
+    "input": "Yes, Coon and Friends are happy to help. We do not need thanks for our deeds. We do not want gifts, all we want is for people to buy our Coon and Friends T-Shirts for $14.95.\n",
+    "output": "Hey, fat boy!\n"
+  },
+  {
+    "input": "Hey, fat boy!\n",
+    "output": "Kenny? What the hell? I sent you to the-\n"
+  },
+  {
+    "input": "Kenny? What the hell? I sent you to the-\n",
+    "output": "To the sunken city of R'Lyeh fallen from the stars! [approaches him] You little fucking prick! What is wrong with you?! What kind of sick fuck does that to his friends?!\n"
+  },
+  {
+    "input": "To the sunken city of R'Lyeh fallen from the stars! [approaches him] You little fucking prick! What is wrong with you?! What kind of sick fuck does that to his friends?!\n",
+    "output": "It's not my fault you guys turned evil, Kenny!\n"
+  },
+  {
+    "input": "It's not my fault you guys turned evil, Kenny!\n",
+    "output": "You are the bad guy, fat boy! YOU!\n"
+  },
+  {
+    "input": "You are the bad guy, fat boy! YOU!\n",
+    "output": "I'm going around making the world a better place!\n"
+  },
+  {
+    "input": "I'm going around making the world a better place!\n",
+    "output": "For you! You're making it a better place for you!\n"
+  },
+  {
+    "input": "For you! You're making it a better place for you!\n",
+    "output": "Right, that's what superheroes do.\n"
+  },
+  {
+    "input": "Right, that's what superheroes do.\n",
+    "output": "No! This is what superheroes do! [walks up to Cthulhu] You banished me but I'm back! What does that make me?! [that gets Cthulhu's attention] Bring back my friends! Take me!\n"
+  },
+  {
+    "input": "No! This is what superheroes do! [walks up to Cthulhu] You banished me but I'm back! What does that make me?! [that gets Cthulhu's attention] Bring back my friends! Take me!\n",
+    "output": "[gets through the police line] Mysterion, no! What are you doing?!\n"
+  },
+  {
+    "input": "[gets through the police line] Mysterion, no! What are you doing?!\n",
+    "output": "[to Mintberry Crunch] Only an immortal can kill another immortal! [to Cthulhu] Here's your prize! Take this curse away from me, you big pussy!\n"
+  },
+  {
+    "input": "[to Mintberry Crunch] Only an immortal can kill another immortal! [to Cthulhu] Here's your prize! Take this curse away from me, you big pussy!\n",
+    "output": "[stands next to Mysterion] Don't listen to him Cthulhu! We have more important stuff to do!\n"
+  },
+  {
+    "input": "[stands next to Mysterion] Don't listen to him Cthulhu! We have more important stuff to do!\n",
+    "output": "Go on! Kill me before I kill you! But bring my friends back, wuss!\n"
+  },
+  {
+    "input": "Go on! Kill me before I kill you! But bring my friends back, wuss!\n",
+    "output": "Cthulhu, you are a Coon Friend, and I'm the Coon! You will listen to me! [Cthulhu picks Coon up and scolds him, then cradles him. Coon takes the hint and scrambles onto Cthulhu's back. Coon kneads Cthulhu's back again and Cthulhu is relieved. Coon is asleep on Cthulhu's back and Cthulhu turns and walks away]\n"
+  },
+  {
+    "input": "Cthulhu, you are a Coon Friend, and I'm the Coon! You will listen to me! [Cthulhu picks Coon up and scolds him, then cradles him. Coon takes the hint and scrambles onto Cthulhu's back. Coon kneads Cthulhu's back again and Cthulhu is relieved. Coon is asleep on Cthulhu's back and Cthulhu turns and walks away]\n",
+    "output": "No! Come back! I have to know what I am! Come back!\n"
+  },
+  {
+    "input": "No! Come back! I have to know what I am! Come back!\n",
+    "output": "Fuck you, Kenny!\n"
+  },
+  {
+    "input": "Fuck you, Kenny!\n",
+    "output": "Come back, you fat piece of shit! [notices something in the sky. Others notice too. A bright object descends onto the parking lot and dims enough to reveal a giant oval shaped light that serves as a holograph. An image of a man appears inside and begins to talk. Mysterion is puzzled]\n"
+  },
+  {
+    "input": "Come back, you fat piece of shit! [notices something in the sky. Others notice too. A bright object descends onto the parking lot and dims enough to reveal a giant oval shaped light that serves as a holograph. An image of a man appears inside and begins to talk. Mysterion is puzzled]\n",
+    "output": "Hello my son. If you are seeing this message, then it must be dark times. And you must have many questions. Your true name is Gok'Zarah. The power given to you comes from a planet far away. You are from that planet, Gok'Zarah. It is for that reason you have a power that normal humans do not have. I know you must sometimes see this power as a curse, but you were sent here to stop evil from taking over the Earth and now, that time has apparently come. You must now harness and focus your power, Gok'Zarah. The power of mint and berries yet with a tasty, satisfying crunch.\n"
+  },
+  {
+    "input": "Hello my son. If you are seeing this message, then it must be dark times. And you must have many questions. Your true name is Gok'Zarah. The power given to you comes from a planet far away. You are from that planet, Gok'Zarah. It is for that reason you have a power that normal humans do not have. I know you must sometimes see this power as a curse, but you were sent here to stop evil from taking over the Earth and now, that time has apparently come. You must now harness and focus your power, Gok'Zarah. The power of mint and berries yet with a tasty, satisfying crunch.\n",
+    "output": "...Uh yes. Yes, please go on.\n"
+  },
+  {
+    "input": "...Uh yes. Yes, please go on.\n",
+    "output": "Your home planet, K'oh Kajan, is known throughout the universe for its berry mines. Berries that have the power to fuel nearly anything. Needless to say, when the mint hunters of Kogenrah got word of them, our fate was already sealed, Gok'Zarah. But our two worlds collided and soon, mint and berry were one.\n"
+  },
+  {
+    "input": "Your home planet, K'oh Kajan, is known throughout the universe for its berry mines. Berries that have the power to fuel nearly anything. Needless to say, when the mint hunters of Kogenrah got word of them, our fate was already sealed, Gok'Zarah. But our two worlds collided and soon, mint and berry were one.\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "Your mother and I sent you as far away as we could. Use your power, son. Save Earth. Shablagoo! [the orb rises up and away]\n"
+  },
+  {
+    "input": "Your mother and I sent you as far away as we could. Use your power, son. Save Earth. Shablagoo! [the orb rises up and away]\n",
+    "output": "I will, father. No more running away for... Mintberry Crunch! [jumps up in the air and floats up, then aims at Cthulhu and flies towards him] Hello, Cthulhu, I heard you haven't been \"berry\" nice! [unleashes a torrent of berries at him. Cthulhu shields himself, but doesn't go down.] Not enough, huh? Maybe the intense flavor of mint will freshen things up! [Cthulhu is soon enveloped in a tornado of mint leaves]\n[The Amazing Mintberry Crunch. The following is illustrated in the comic book]\n"
+  },
+  {
+    "input": "I will, father. No more running away for... Mintberry Crunch! [jumps up in the air and floats up, then aims at Cthulhu and flies towards him] Hello, Cthulhu, I heard you haven't been \"berry\" nice! [unleashes a torrent of berries at him. Cthulhu shields himself, but doesn't go down.] Not enough, huh? Maybe the intense flavor of mint will freshen things up! [Cthulhu is soon enveloped in a tornado of mint leaves]\n[The Amazing Mintberry Crunch. The following is illustrated in the comic book]\n",
+    "output": "I reached the Gulf of Mexico in no time, and with all my strength, I dragged Cthulhu back to the depths from whence he came! My trusty hero companions were there, still alive. I returned them to their world encased in a protective berry bubble. Then it's back down to fill up the hole created by the BP Oil Company, returning home only momentarily to flip off my fat sister. [\"Fuck you! I have powers you fat bitch!\"]\n[Coon and Friends Secret Base, later. The Coon Friends are all there]\n"
+  },
+  {
+    "input": "I reached the Gulf of Mexico in no time, and with all my strength, I dragged Cthulhu back to the depths from whence he came! My trusty hero companions were there, still alive. I returned them to their world encased in a protective berry bubble. Then it's back down to fill up the hole created by the BP Oil Company, returning home only momentarily to flip off my fat sister. [\"Fuck you! I have powers you fat bitch!\"]\n[Coon and Friends Secret Base, later. The Coon Friends are all there]\n",
+    "output": "Dude, thanks for getting us out of that dark oblivion, Mintberry Crunch.\n"
+  },
+  {
+    "input": "Dude, thanks for getting us out of that dark oblivion, Mintberry Crunch.\n",
+    "output": "Oh no, we worked as a team! All the Coon and Friends stopped the BP drilling spill crisis.\n"
+  },
+  {
+    "input": "Oh no, we worked as a team! All the Coon and Friends stopped the BP drilling spill crisis.\n",
+    "output": "And finally the evil Coon is right where he belongs. [the Coon is in his own holding cell with Professor Chaos]\n"
+  },
+  {
+    "input": "And finally the evil Coon is right where he belongs. [the Coon is in his own holding cell with Professor Chaos]\n",
+    "output": "Come on you guys, this is fucking bullcrap! Let me out!\n"
+  },
+  {
+    "input": "Come on you guys, this is fucking bullcrap! Let me out!\n",
+    "output": "You're not going anywhere for a long time!\n"
+  },
+  {
+    "input": "You're not going anywhere for a long time!\n",
+    "output": "This is inhumane! There's a big bucket with Butters' poop in here, and there's nothing to eat!\n"
+  },
+  {
+    "input": "This is inhumane! There's a big bucket with Butters' poop in here, and there's nothing to eat!\n",
+    "output": "Ya got poop, don't ya?\n"
+  },
+  {
+    "input": "Ya got poop, don't ya?\n",
+    "output": "Well, I'm off. There are still many more questions left unanswered. I need to know what happened to my parents.\n"
+  },
+  {
+    "input": "Well, I'm off. There are still many more questions left unanswered. I need to know what happened to my parents.\n",
+    "output": "Well, come back and visit any time, dude.\n"
+  },
+  {
+    "input": "Well, come back and visit any time, dude.\n",
+    "output": "I will. Shaaablagoo! [twirls in place and disappears in a streak of light, leaving behind berry cereal]\n"
+  },
+  {
+    "input": "I will. Shaaablagoo! [twirls in place and disappears in a streak of light, leaving behind berry cereal]\n",
+    "output": "Fuckin' Mintberry fuckin' Crunch.\n"
+  },
+  {
+    "input": "Fuckin' Mintberry fuckin' Crunch.\n",
+    "output": "Wow, can you believe it Kenny? Bradley actually had superpowers. Isn't that cool?\n"
+  },
+  {
+    "input": "Wow, can you believe it Kenny? Bradley actually had superpowers. Isn't that cool?\n",
+    "output": "Yeah. I'm tired, guys. I think I'm gonna go to bed. [takes a gun out and just shoots himself in the head. The other boys jump back in shock.]\n"
+  },
+  {
+    "input": "Yeah. I'm tired, guys. I think I'm gonna go to bed. [takes a gun out and just shoots himself in the head. The other boys jump back in shock.]\n",
+    "output": "Oh my God! Holy shit dude!\n"
+  },
+  {
+    "input": "Oh my God! Holy shit dude!\n",
+    "output": "Kenny? No! Nooo!\n[Kenny's parents room, night. They're asleep, but something wakes Carol up. Stomach pains; labor pains. She sits up holding her belly]\n"
+  },
+  {
+    "input": "Kenny? No! Nooo!\n[Kenny's parents room, night. They're asleep, but something wakes Carol up. Stomach pains; labor pains. She sits up holding her belly]\n",
+    "output": "What? Whaaat?!\n"
+  },
+  {
+    "input": "What? Whaaat?!\n",
+    "output": "It's happenin' again! [falls back on the bed and raises her legs in the air.]\n[Kenny's room, moments later. The parents enter. Stuart turns on the light. Carol holds baby Kenny in her arms while Stuart sets out a parka for Kenny to sleep in. Carol zips it up and the parents leave the room]\n"
+  }
+]

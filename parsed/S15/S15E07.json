@@ -1,0 +1,978 @@
+[
+  {
+    "input": "",
+    "output": "You're Getting Old\n\n[Whistlin' Willy's, day. The boys are singing \"Happy Birthday\" to Stan. After that, Stan blows out the two Terrance and Phillip candles adorning the cake. Sharon takes a picture]\n"
+  },
+  {
+    "input": "You're Getting Old\n\n[Whistlin' Willy's, day. The boys are singing \"Happy Birthday\" to Stan. After that, Stan blows out the two Terrance and Phillip candles adorning the cake. Sharon takes a picture]\n",
+    "output": "Yay! [Liane sits next to Cartman with a camera of her own]\n"
+  },
+  {
+    "input": "Yay! [Liane sits next to Cartman with a camera of her own]\n",
+    "output": "Alright now, open presents! Open presents!\n"
+  },
+  {
+    "input": "Alright now, open presents! Open presents!\n",
+    "output": "Yeah! Open mine first Stan! It's the red one! [Stan reaches over and opens it]\n"
+  },
+  {
+    "input": "Yeah! Open mine first Stan! It's the red one! [Stan reaches over and opens it]\n",
+    "output": "Where's mine? Where's mine where's mine where's mine?\n"
+  },
+  {
+    "input": "Where's mine? Where's mine where's mine where's mine?\n",
+    "output": "[reaches under the table and gives Cartman a gift] Here you go, sweetie.\n"
+  },
+  {
+    "input": "[reaches under the table and gives Cartman a gift] Here you go, sweetie.\n",
+    "output": "Yaaaay!\n"
+  },
+  {
+    "input": "Yaaaay!\n",
+    "output": "Wait wait it-it's Stan's birthday.\n"
+  },
+  {
+    "input": "Wait wait it-it's Stan's birthday.\n",
+    "output": "Yes. Every time somebody gets a birthday present Eric gets one too. [in a softer voice] Otherwise, he gets a little upset.\n"
+  },
+  {
+    "input": "Yes. Every time somebody gets a birthday present Eric gets one too. [in a softer voice] Otherwise, he gets a little upset.\n",
+    "output": "[eagerly opening his own gift] What'd I get what'd I get what'd I get?\n"
+  },
+  {
+    "input": "[eagerly opening his own gift] What'd I get what'd I get what'd I get?\n",
+    "output": "Oh God...\n"
+  },
+  {
+    "input": "Oh God...\n",
+    "output": "[opening his gift] Oh cool, Legos. Thanks, Butters.\n"
+  },
+  {
+    "input": "[opening his gift] Oh cool, Legos. Thanks, Butters.\n",
+    "output": "I know how you like Legos. Happy birthday!\n"
+  },
+  {
+    "input": "I know how you like Legos. Happy birthday!\n",
+    "output": "Oh cool! I got a racing game for Xbox! [Speed Zone for XBOX 360] D'you guys see that? Coool, huh?\n"
+  },
+  {
+    "input": "Oh cool! I got a racing game for Xbox! [Speed Zone for XBOX 360] D'you guys see that? Coool, huh?\n",
+    "output": "Here, this one's from me, Stan.\n"
+  },
+  {
+    "input": "Here, this one's from me, Stan.\n",
+    "output": "Oh thanks, dude.\n"
+  },
+  {
+    "input": "Oh thanks, dude.\n",
+    "output": "Stan's getting another present, Mom.\n"
+  },
+  {
+    "input": "Stan's getting another present, Mom.\n",
+    "output": "Here you are, muffin. [throws up another gift]\n"
+  },
+  {
+    "input": "Here you are, muffin. [throws up another gift]\n",
+    "output": "Yaaaay! [rips the wrapper off] Oh cool, look. A Ben 10 Wrist Rocket! This is exactly what I wanted for Stan's birthday! What'd you get Stan?\n"
+  },
+  {
+    "input": "Yaaaay! [rips the wrapper off] Oh cool, look. A Ben 10 Wrist Rocket! This is exactly what I wanted for Stan's birthday! What'd you get Stan?\n",
+    "output": "Oh cool, is this the new Gersploosh album?\n"
+  },
+  {
+    "input": "Oh cool, is this the new Gersploosh album?\n",
+    "output": "Yeah dude!\n"
+  },
+  {
+    "input": "Yeah dude!\n",
+    "output": "[walks up behind Stan] Uh, hold it. Is that a Tween Wave band?\n"
+  },
+  {
+    "input": "[walks up behind Stan] Uh, hold it. Is that a Tween Wave band?\n",
+    "output": "Yeah they're the best!\n"
+  },
+  {
+    "input": "Yeah they're the best!\n",
+    "output": "Sorry, Stan. you know you're not allowed to listen to this stuff.\n"
+  },
+  {
+    "input": "Sorry, Stan. you know you're not allowed to listen to this stuff.\n",
+    "output": "Mom, I'm 10 years old now.\n"
+  },
+  {
+    "input": "Mom, I'm 10 years old now.\n",
+    "output": "I've told you what I think of this music, Stanley. You have plenty of other gifts to enjoy.\n"
+  },
+  {
+    "input": "I've told you what I think of this music, Stanley. You have plenty of other gifts to enjoy.\n",
+    "output": "Looks like somebody's on the rag, huh Mom?\n[The Marsh house, day. Sharon is in the kitchen washing dishes. Randy peeks in from the dining room, then walks into the kitchen]\n"
+  },
+  {
+    "input": "Looks like somebody's on the rag, huh Mom?\n[The Marsh house, day. Sharon is in the kitchen washing dishes. Randy peeks in from the dining room, then walks into the kitchen]\n",
+    "output": "Sharon? Stan told me you took away his music CD at his birthday party.\n"
+  },
+  {
+    "input": "Sharon? Stan told me you took away his music CD at his birthday party.\n",
+    "output": "Oh for crying out loud, I gave him a great party and that's all he cares about.\n"
+  },
+  {
+    "input": "Oh for crying out loud, I gave him a great party and that's all he cares about.\n",
+    "output": "Well, do you really think we should be telling our son what music he can and can't listen to?\n"
+  },
+  {
+    "input": "Well, do you really think we should be telling our son what music he can and can't listen to?\n",
+    "output": "Yes I do, if it's that stupid Tween Wave garbage!\n"
+  },
+  {
+    "input": "Yes I do, if it's that stupid Tween Wave garbage!\n",
+    "output": "Tween Wave?\n"
+  },
+  {
+    "input": "Tween Wave?\n",
+    "output": "You haven't heard it? It's terrible! It's hardly even music; it just sounds like crap!\n"
+  },
+  {
+    "input": "You haven't heard it? It's terrible! It's hardly even music; it just sounds like crap!\n",
+    "output": "Sharon, come on. Don't you remember being younger and having our parents say the music we liked sounded like crap?\n"
+  },
+  {
+    "input": "Sharon, come on. Don't you remember being younger and having our parents say the music we liked sounded like crap?\n",
+    "output": "This is different!\n"
+  },
+  {
+    "input": "This is different!\n",
+    "output": "[waits a few seconds] ...So. Here we are. Now we're the old people who think the younger generation's music sounds like shit.\n"
+  },
+  {
+    "input": "[waits a few seconds] ...So. Here we are. Now we're the old people who think the younger generation's music sounds like shit.\n",
+    "output": "[stops washing and turns around] It's... not because I'm older. I'm telling you, our music is better.\n"
+  },
+  {
+    "input": "[stops washing and turns around] It's... not because I'm older. I'm telling you, our music is better.\n",
+    "output": "[mimicking an elderly man] \"Back in my day our music was better! Not this garbage the young 'un listen to. Warber warber warber.\"\n"
+  },
+  {
+    "input": "[mimicking an elderly man] \"Back in my day our music was better! Not this garbage the young 'un listen to. Warber warber warber.\"\n",
+    "output": "Fine, Randy! [hands him the CD] You go listen to it and tell me you don't think it sounds like crap! [goes back to washing dishes]\n"
+  },
+  {
+    "input": "Fine, Randy! [hands him the CD] You go listen to it and tell me you don't think it sounds like crap! [goes back to washing dishes]\n",
+    "output": "I'd love to. I'm not an old fuddy-duddy, Sharon. I'm still cool. [walks out and towards his den.]\n[The den. Randy pops the CD into the CD drive on his computer, puts on his headphones, and listens. The song he hears starts with a good beat, and he bobs up and down ever so slightly to it, but then explosive diarrhea is heard, and Randy is startled. He makes sure it's not him farting or anything. Sharon appears at the doorway with hands on hips]\n"
+  },
+  {
+    "input": "I'd love to. I'm not an old fuddy-duddy, Sharon. I'm still cool. [walks out and towards his den.]\n[The den. Randy pops the CD into the CD drive on his computer, puts on his headphones, and listens. The song he hears starts with a good beat, and he bobs up and down ever so slightly to it, but then explosive diarrhea is heard, and Randy is startled. He makes sure it's not him farting or anything. Sharon appears at the doorway with hands on hips]\n",
+    "output": "Well, it sounds like crap, right?!\n"
+  },
+  {
+    "input": "Well, it sounds like crap, right?!\n",
+    "output": "Uh... NO I mean... [looks at Sharon] I like it.\n"
+  },
+  {
+    "input": "Uh... NO I mean... [looks at Sharon] I like it.\n",
+    "output": "Oh come on! That music sounds like shit!\n"
+  },
+  {
+    "input": "Oh come on! That music sounds like shit!\n",
+    "output": "No, it's just... young and hip so you don't get it, Sharon.\n"
+  },
+  {
+    "input": "No, it's just... young and hip so you don't get it, Sharon.\n",
+    "output": "Admit it, Randy! You think it sounds like crap too!\n"
+  },
+  {
+    "input": "Admit it, Randy! You think it sounds like crap too!\n",
+    "output": "It doesn't sound like crap at all! I think it's awesome! [turns towards the computer. Sharon walks away exasperated. Randy clicks his fingers, but the farts noises keep coming and Randy keeps wincing]\n[CNN Headline News]\n"
+  },
+  {
+    "input": "It doesn't sound like crap at all! I think it's awesome! [turns towards the computer. Sharon walks away exasperated. Randy clicks his fingers, but the farts noises keep coming and Randy keeps wincing]\n[CNN Headline News]\n",
+    "output": "It's called Tween Wave, and if you're a parent your kids are probably listening to it. A new music genre for the era from 2009 through 2012. or \"The Tweens.\" Every generation has their music, but many parents say Tween Wave sounds like crap.\n"
+  },
+  {
+    "input": "It's called Tween Wave, and if you're a parent your kids are probably listening to it. A new music genre for the era from 2009 through 2012. or \"The Tweens.\" Every generation has their music, but many parents say Tween Wave sounds like crap.\n",
+    "output": "It's just vulgar and stupid, you know? Music used to be good.\n"
+  },
+  {
+    "input": "It's just vulgar and stupid, you know? Music used to be good.\n",
+    "output": "This sounds like poo.\n"
+  },
+  {
+    "input": "This sounds like poo.\n",
+    "output": "[an elderly man] I certainly don't understand kids' music today. Sounds like diarrhea to me.\n"
+  },
+  {
+    "input": "[an elderly man] I certainly don't understand kids' music today. Sounds like diarrhea to me.\n",
+    "output": "Kids however say they don't hear crap at all.\n"
+  },
+  {
+    "input": "Kids however say they don't hear crap at all.\n",
+    "output": "Parents are dumb.\n"
+  },
+  {
+    "input": "Parents are dumb.\n",
+    "output": "They don't get it.\n"
+  },
+  {
+    "input": "They don't get it.\n",
+    "output": "They don't get it. Parents are stupid.\n"
+  },
+  {
+    "input": "They don't get it. Parents are stupid.\n",
+    "output": "Tween Wave is swick.\n"
+  },
+  {
+    "input": "Tween Wave is swick.\n",
+    "output": "Tweem Wave is super swick and parents don't get it, 'cause their ears are old.\n"
+  },
+  {
+    "input": "Tweem Wave is super swick and parents don't get it, 'cause their ears are old.\n",
+    "output": "Parents are dumb.\n[The Marsh house, day. The boys' parents are gathered in the living room except for Randy]\n"
+  },
+  {
+    "input": "Parents are dumb.\n[The Marsh house, day. The boys' parents are gathered in the living room except for Randy]\n",
+    "output": "We're sorry boys, but we have all decided that as of now, none of you are allowed to listen to Tween Wave music.\n"
+  },
+  {
+    "input": "We're sorry boys, but we have all decided that as of now, none of you are allowed to listen to Tween Wave music.\n",
+    "output": "[sitting with the boys] Ugh, that's so unfair!\n"
+  },
+  {
+    "input": "[sitting with the boys] Ugh, that's so unfair!\n",
+    "output": "But that's our music! We like it!\n"
+  },
+  {
+    "input": "But that's our music! We like it!\n",
+    "output": "Yeah it's good!\n"
+  },
+  {
+    "input": "Yeah it's good!\n",
+    "output": "What's good about a bunch of crap sounds to a drumbeat?\n"
+  },
+  {
+    "input": "What's good about a bunch of crap sounds to a drumbeat?\n",
+    "output": "We don't know what you're talking about! It doesn't sound that way to us!\n"
+  },
+  {
+    "input": "We don't know what you're talking about! It doesn't sound that way to us!\n",
+    "output": "Yeah it, it doesn't sound like that to us.\n"
+  },
+  {
+    "input": "Yeah it, it doesn't sound like that to us.\n",
+    "output": "I wanna educate you kids with some real music. [pops in a CD of The Police's \"Synchronicity\"] This is The Police. Now you compare this to Tween pop and tell us which one you think is real music. [presses Play and \"Every Breath You Take\" starts up, but instead of lyrics you hear poop sounds]\n"
+  },
+  {
+    "input": "I wanna educate you kids with some real music. [pops in a CD of The Police's \"Synchronicity\"] This is The Police. Now you compare this to Tween pop and tell us which one you think is real music. [presses Play and \"Every Breath You Take\" starts up, but instead of lyrics you hear poop sounds]\n",
+    "output": "Yuck!\n"
+  },
+  {
+    "input": "Yuck!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "That sounds like shit!\n"
+  },
+  {
+    "input": "That sounds like shit!\n",
+    "output": "Whattaya mean it sounds like shit? This doesn't sound like shit.\n"
+  },
+  {
+    "input": "Whattaya mean it sounds like shit? This doesn't sound like shit.\n",
+    "output": "Gross!\n"
+  },
+  {
+    "input": "Gross!\n",
+    "output": "Turn it off dude!\n[The Marsh house, night, Stan's room. Stan is in bed and Sharon is about to leave the room]\n"
+  },
+  {
+    "input": "Turn it off dude!\n[The Marsh house, night, Stan's room. Stan is in bed and Sharon is about to leave the room]\n",
+    "output": "Stanley I want you to understand that even though I won't let you listen to certain kinds of music, I still love you.\n"
+  },
+  {
+    "input": "Stanley I want you to understand that even though I won't let you listen to certain kinds of music, I still love you.\n",
+    "output": "I know, Mom. I love you too.\n"
+  },
+  {
+    "input": "I know, Mom. I love you too.\n",
+    "output": "Soon you'll be old enough to make your own choices, but for now, I just don't want you listening to that stuff.\n"
+  },
+  {
+    "input": "Soon you'll be old enough to make your own choices, but for now, I just don't want you listening to that stuff.\n",
+    "output": "It's okay, Mom. I understand.\n"
+  },
+  {
+    "input": "It's okay, Mom. I understand.\n",
+    "output": "That's very mature of you, Stanley. Goodnight, sweetie. [Stan turns away and closes his eyes.]\n"
+  },
+  {
+    "input": "That's very mature of you, Stanley. Goodnight, sweetie. [Stan turns away and closes his eyes.]\n",
+    "output": "'Night. [Sharon turns off the lights and closes the door. A few seconds later, Stan opens his eyes and looks at the door to make sure his mom isn't looking at him. Then he reaches under the mattress and pulls out his iPod] Haha. [listens to some music. Soon some shitty sounds creep in] Ugh. [tries some other tracks, but each one has poop noises in it. He sits up] What the hell? [tries more tracks, but all he hears now is shit]\n[The bus stop, day. Kenny, Cartman, and Kyle are listening to songs on their iPods]\n"
+  },
+  {
+    "input": "'Night. [Sharon turns off the lights and closes the door. A few seconds later, Stan opens his eyes and looks at the door to make sure his mom isn't looking at him. Then he reaches under the mattress and pulls out his iPod] Haha. [listens to some music. Soon some shitty sounds creep in] Ugh. [tries some other tracks, but each one has poop noises in it. He sits up] What the hell? [tries more tracks, but all he hears now is shit]\n[The bus stop, day. Kenny, Cartman, and Kyle are listening to songs on their iPods]\n",
+    "output": "[to Cartman] Oh dude! Dude, this is the part I was talking about. Check out the bassline on this! [has Cartman listen to his song]\n"
+  },
+  {
+    "input": "[to Cartman] Oh dude! Dude, this is the part I was talking about. Check out the bassline on this! [has Cartman listen to his song]\n",
+    "output": "Oh yeah, that one's cool. [gets into the rhythm] Yeah, this part's killer. [looks like he's exercising]\n"
+  },
+  {
+    "input": "Oh yeah, that one's cool. [gets into the rhythm] Yeah, this part's killer. [looks like he's exercising]\n",
+    "output": "[seeing Stan approach] Hey Stan. [hands Cartman his iPod]\n"
+  },
+  {
+    "input": "[seeing Stan approach] Hey Stan. [hands Cartman his iPod]\n",
+    "output": "Hey dudes.\n"
+  },
+  {
+    "input": "Hey dudes.\n",
+    "output": "Dude, have you really listened to the sixth track? I think it's my new favorite.\n"
+  },
+  {
+    "input": "Dude, have you really listened to the sixth track? I think it's my new favorite.\n",
+    "output": "Yeah, yeah I've listened to it. Um, Kyle, can I talk to you alone for a second?\n"
+  },
+  {
+    "input": "Yeah, yeah I've listened to it. Um, Kyle, can I talk to you alone for a second?\n",
+    "output": "Sure. [they walk off to a small clearing] What's up?\n"
+  },
+  {
+    "input": "Sure. [they walk off to a small clearing] What's up?\n",
+    "output": "Kyle, I have to admit something to you. You know how I told you over the phone I like the new Gersploosh album? I lied. I don't like it. I don't like it at all, Kyle.\n"
+  },
+  {
+    "input": "Kyle, I have to admit something to you. You know how I told you over the phone I like the new Gersploosh album? I lied. I don't like it. I don't like it at all, Kyle.\n",
+    "output": "Oh. Really? Um well that's okay.\n"
+  },
+  {
+    "input": "Oh. Really? Um well that's okay.\n",
+    "output": "No, you don't understand dude. Something's happened. Tween Wave doesn't sound the same to me.\n"
+  },
+  {
+    "input": "No, you don't understand dude. Something's happened. Tween Wave doesn't sound the same to me.\n",
+    "output": "Why? What's it sound like?\n"
+  },
+  {
+    "input": "Why? What's it sound like?\n",
+    "output": "It... kind of sounds like shit.\n"
+  },
+  {
+    "input": "It... kind of sounds like shit.\n",
+    "output": "What? You mean like you don't like the singing, or the lyrics, or what?\n"
+  },
+  {
+    "input": "What? You mean like you don't like the singing, or the lyrics, or what?\n",
+    "output": "No. I mean it sounds like somebody is shitting in my ears. Please, just listen really close. [has Kyle listen to a track] You don't hear shit?\n"
+  },
+  {
+    "input": "No. I mean it sounds like somebody is shitting in my ears. Please, just listen really close. [has Kyle listen to a track] You don't hear shit?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "That doesn't sound like shit to you?\n"
+  },
+  {
+    "input": "That doesn't sound like shit to you?\n",
+    "output": "NO. Dude, maybe you should see a doctor.\n[A doctor's office, day. Stan took Kyle's advice. A doctor is checking Stan's ears]\n"
+  },
+  {
+    "input": "NO. Dude, maybe you should see a doctor.\n[A doctor's office, day. Stan took Kyle's advice. A doctor is checking Stan's ears]\n",
+    "output": "And so then I put on exactly the same album that I really like a year ago, and it sounded like shit to me.\n"
+  },
+  {
+    "input": "And so then I put on exactly the same album that I really like a year ago, and it sounded like shit to me.\n",
+    "output": "Uh huh, and what about food? Are some of the things you thought tasted good tasting like shit to you now, too?\n"
+  },
+  {
+    "input": "Uh huh, and what about food? Are some of the things you thought tasted good tasting like shit to you now, too?\n",
+    "output": "Yeah. I used to love these Pop Rock things, and I tried them the other day and I thought they tasted like shit.\n"
+  },
+  {
+    "input": "Yeah. I used to love these Pop Rock things, and I tried them the other day and I thought they tasted like shit.\n",
+    "output": "[reads his medical file] This says you had a birthday recently?\n"
+  },
+  {
+    "input": "[reads his medical file] This says you had a birthday recently?\n",
+    "output": "I just turned 10.\n"
+  },
+  {
+    "input": "I just turned 10.\n",
+    "output": "Well, that makes sense. You see Stan, as you get older, your eardrums, taste buds, all that stuff develops and changes.\n"
+  },
+  {
+    "input": "Well, that makes sense. You see Stan, as you get older, your eardrums, taste buds, all that stuff develops and changes.\n",
+    "output": "So this is normal?\n"
+  },
+  {
+    "input": "So this is normal?\n",
+    "output": "It's very normal. Let's just do a quick ear exam. I'm gonna play some Tween Wave music and you tell me what you hear. [plays some music, with lots of fart sounds] What's that sound like to you?\n"
+  },
+  {
+    "input": "It's very normal. Let's just do a quick ear exam. I'm gonna play some Tween Wave music and you tell me what you hear. [plays some music, with lots of fart sounds] What's that sound like to you?\n",
+    "output": "Sounds like shit.\n"
+  },
+  {
+    "input": "Sounds like shit.\n",
+    "output": "Aha. Now I'm going to play you some good ole Bob Dylan. [plays a Dylan track. Dylan gets through three syllables before fart sounds replace him.]\n"
+  },
+  {
+    "input": "Aha. Now I'm going to play you some good ole Bob Dylan. [plays a Dylan track. Dylan gets through three syllables before fart sounds replace him.]\n",
+    "output": "Uh that sounds like shit too.\n"
+  },
+  {
+    "input": "Uh that sounds like shit too.\n",
+    "output": "Wait, this sounds like shit to you?\n"
+  },
+  {
+    "input": "Wait, this sounds like shit to you?\n",
+    "output": "Yeah dude, it's just shit.\n"
+  },
+  {
+    "input": "Yeah dude, it's just shit.\n",
+    "output": "Well that's very strange. [turns off the player] Hm, I'm gonna try somethin' else. [takes two pictures up to Stan] Look at these two pictures. One of them is an ad for Kevin James' new movie The Zookeeper, and the other is a turd in a microwave. Which one is the ad for The Zookeeper?\n"
+  },
+  {
+    "input": "Well that's very strange. [turns off the player] Hm, I'm gonna try somethin' else. [takes two pictures up to Stan] Look at these two pictures. One of them is an ad for Kevin James' new movie The Zookeeper, and the other is a turd in a microwave. Which one is the ad for The Zookeeper?\n",
+    "output": "They both look the same. [true enough, except for the turds]\n"
+  },
+  {
+    "input": "They both look the same. [true enough, except for the turds]\n",
+    "output": "You don't see any difference in the pictures?\n"
+  },
+  {
+    "input": "You don't see any difference in the pictures?\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "[holds up the picture in his right hand] That is an ad for The Zookeeper and [holds up the picture in his left hand] that is a turd about to be reheated.\n"
+  },
+  {
+    "input": "[holds up the picture in his right hand] That is an ad for The Zookeeper and [holds up the picture in his left hand] that is a turd about to be reheated.\n",
+    "output": "They both look like turds about to be reheated to me.\n"
+  },
+  {
+    "input": "They both look like turds about to be reheated to me.\n",
+    "output": "Oh dear. I think I know what this is. You see Stan, as you get older, things that you used to like start looking and sounding like shit. And things that seemed shitty as a child don't seem as shitty. With you, somehow, the wires have gotten crossed and everything looks and sounds like shit to you. It's a condition called \"being a cynical asshole.\"\n"
+  },
+  {
+    "input": "Oh dear. I think I know what this is. You see Stan, as you get older, things that you used to like start looking and sounding like shit. And things that seemed shitty as a child don't seem as shitty. With you, somehow, the wires have gotten crossed and everything looks and sounds like shit to you. It's a condition called \"being a cynical asshole.\"\n",
+    "output": "Oh no.\n"
+  },
+  {
+    "input": "Oh no.\n",
+    "output": "Yes. And there's no known cure, I'm afraid. Everything just seems shitty, and everyone starts to seem shitty, and everything they say just starts to [sounds shitty now, and Stan can't believe his ears. Soon, shit comes out of the doctor's mouth and Stan is more horrified]\n[Randy's den, night. Randy has transformed it into a mancave, with disco ball and clothes strewn everywhere. Randy is reading Rolling Stone and listening to Tween Wave music through his headphones]\n"
+  },
+  {
+    "input": "Yes. And there's no known cure, I'm afraid. Everything just seems shitty, and everyone starts to seem shitty, and everything they say just starts to [sounds shitty now, and Stan can't believe his ears. Soon, shit comes out of the doctor's mouth and Stan is more horrified]\n[Randy's den, night. Randy has transformed it into a mancave, with disco ball and clothes strewn everywhere. Randy is reading Rolling Stone and listening to Tween Wave music through his headphones]\n",
+    "output": "[walking by] Randy, do you mind cleaning up the garage like I asked you?\n"
+  },
+  {
+    "input": "[walking by] Randy, do you mind cleaning up the garage like I asked you?\n",
+    "output": "Get out of my room! I'm listening to my music! Gau!\n"
+  },
+  {
+    "input": "Get out of my room! I'm listening to my music! Gau!\n",
+    "output": "Stop pretending to like the kids' music, Randy! It's pathetic! You know damn well it sounds like crap to you too!\n"
+  },
+  {
+    "input": "Stop pretending to like the kids' music, Randy! It's pathetic! You know damn well it sounds like crap to you too!\n",
+    "output": "No it doesn't sound like crap to me! [one pooping sound and the headphones are off] Ugh. [gets up and walks around angrily]\n"
+  },
+  {
+    "input": "No it doesn't sound like crap to me! [one pooping sound and the headphones are off] Ugh. [gets up and walks around angrily]\n",
+    "output": "Randy, don't you see what this is? You had dreams of being a rock star when you were younger, now you can't admit the next generation's music sounds shitty, it's called \"getting older\", Randy. It's okay.\n"
+  },
+  {
+    "input": "Randy, don't you see what this is? You had dreams of being a rock star when you were younger, now you can't admit the next generation's music sounds shitty, it's called \"getting older\", Randy. It's okay.\n",
+    "output": "That's not true! I think Tween Wave music is complex and awesome and it speaks to my youthful rebellious spirit, Sharon!\n"
+  },
+  {
+    "input": "That's not true! I think Tween Wave music is complex and awesome and it speaks to my youthful rebellious spirit, Sharon!\n",
+    "output": "It's crap, Randy! It's so simple and stupid that anybody could play it!\n"
+  },
+  {
+    "input": "It's crap, Randy! It's so simple and stupid that anybody could play it!\n",
+    "output": "Anybody could play it. Do you really think so?\n[The bowling alley, night. \"Steamy Ray Vaughn\", who turns out to be Randy, is performing. Randy is tuning up when he turns to face his audience]\n"
+  },
+  {
+    "input": "Anybody could play it. Do you really think so?\n[The bowling alley, night. \"Steamy Ray Vaughn\", who turns out to be Randy, is performing. Randy is tuning up when he turns to face his audience]\n",
+    "output": "Hey everybody. Wanna thank you all for coming tonight. My name's Steamy Ray Vaughn and here's a little bit of Rattlesnake. [presses the play button] A-1 2 3 4! I've got a fever but it's under control! [fart noises, courtesy of his own butt] I said I've got a fever need to take it kind of slow [more fart noises. A janitor listens in] I've got a fever but it's out of control. Ga ga, ga ga, la ga ga ga. [more fart noises.]\n"
+  },
+  {
+    "input": "Hey everybody. Wanna thank you all for coming tonight. My name's Steamy Ray Vaughn and here's a little bit of Rattlesnake. [presses the play button] A-1 2 3 4! I've got a fever but it's under control! [fart noises, courtesy of his own butt] I said I've got a fever need to take it kind of slow [more fart noises. A janitor listens in] I've got a fever but it's out of control. Ga ga, ga ga, la ga ga ga. [more fart noises.]\n",
+    "output": "You suck!\n"
+  },
+  {
+    "input": "You suck!\n",
+    "output": "No, you just don't understand Tween Wave 'cause you're old! [more fart noises.]\n[A ranch, day. Two elderly men stand at a fence. One of them is the janitor]\n"
+  },
+  {
+    "input": "No, you just don't understand Tween Wave 'cause you're old! [more fart noises.]\n[A ranch, day. Two elderly men stand at a fence. One of them is the janitor]\n",
+    "output": "Did you know we're livin' in the Tween time?\n"
+  },
+  {
+    "input": "Did you know we're livin' in the Tween time?\n",
+    "output": "Nah, I'd a heard that.\n"
+  },
+  {
+    "input": "Nah, I'd a heard that.\n",
+    "output": "Guess it's the period between 2009 and 2013. They call it the Tweens. So they got this feller down at the bowling alley? He gets up on the stage an' shits his britches.\n"
+  },
+  {
+    "input": "Guess it's the period between 2009 and 2013. They call it the Tweens. So they got this feller down at the bowling alley? He gets up on the stage an' shits his britches.\n",
+    "output": "What fer?\n"
+  },
+  {
+    "input": "What fer?\n",
+    "output": "I don't know. But he gets up there and strums a gueetar and then starts loadin' his britches up like it's goin' out of style. [sniffs] It's like some kind of britches holocaust. Feller calls himself Steamy Ray Vaughn.\n"
+  },
+  {
+    "input": "I don't know. But he gets up there and strums a gueetar and then starts loadin' his britches up like it's goin' out of style. [sniffs] It's like some kind of britches holocaust. Feller calls himself Steamy Ray Vaughn.\n",
+    "output": "You mean that guy that plays the blues and died in an airplane crash?\n"
+  },
+  {
+    "input": "You mean that guy that plays the blues and died in an airplane crash?\n",
+    "output": "Nnooh. That's Stevie Ray Vaughn. Steamy Ray Vaughn just shits his britches.\n[Kyle's house, night. Kyle is playing a video game as Cartman and Kenny look on]\n"
+  },
+  {
+    "input": "Nnooh. That's Stevie Ray Vaughn. Steamy Ray Vaughn just shits his britches.\n[Kyle's house, night. Kyle is playing a video game as Cartman and Kenny look on]\n",
+    "output": "Ohooh dude, sweet! Tackle him!\n"
+  },
+  {
+    "input": "Ohooh dude, sweet! Tackle him!\n",
+    "output": "(Get him!)\n"
+  },
+  {
+    "input": "(Get him!)\n",
+    "output": "Alright guys, do you think he's lying or telling the truth?\n"
+  },
+  {
+    "input": "Alright guys, do you think he's lying or telling the truth?\n",
+    "output": "He's lying, dude. Hit X\n"
+  },
+  {
+    "input": "He's lying, dude. Hit X\n",
+    "output": "(No, he's telling the truth) [Stan walks in]\n"
+  },
+  {
+    "input": "(No, he's telling the truth) [Stan walks in]\n",
+    "output": "Hey guys.\n"
+  },
+  {
+    "input": "Hey guys.\n",
+    "output": "Hey, Stan. What did the doctor say?\n"
+  },
+  {
+    "input": "Hey, Stan. What did the doctor say?\n",
+    "output": "He said I have cynicism?\n"
+  },
+  {
+    "input": "He said I have cynicism?\n",
+    "output": "What's that?\n"
+  },
+  {
+    "input": "What's that?\n",
+    "output": "Something you can get when you get older but, it's stupid. I'm not cynical. All the doctor wants is a paycheck. I went to him for help and he just stood there spouting a bunch of shit.\n"
+  },
+  {
+    "input": "Something you can get when you get older but, it's stupid. I'm not cynical. All the doctor wants is a paycheck. I went to him for help and he just stood there spouting a bunch of shit.\n",
+    "output": "Oh. Well, come on, we're playing L.A. Noire.\n"
+  },
+  {
+    "input": "Oh. Well, come on, we're playing L.A. Noire.\n",
+    "output": "Agh, that shitty game? Who plays video games to listen to a bunch of characters talk and press the X button?\n"
+  },
+  {
+    "input": "Agh, that shitty game? Who plays video games to listen to a bunch of characters talk and press the X button?\n",
+    "output": "Oh, ask him about the murder now, Kyle.\n"
+  },
+  {
+    "input": "Oh, ask him about the murder now, Kyle.\n",
+    "output": "Yeah, we got him!\n"
+  },
+  {
+    "input": "Yeah, we got him!\n",
+    "output": "How can people say this game is cool? It doesn't even matter what choices you make.\n"
+  },
+  {
+    "input": "How can people say this game is cool? It doesn't even matter what choices you make.\n",
+    "output": "(Hit the X button, Kyle!)\n"
+  },
+  {
+    "input": "(Hit the X button, Kyle!)\n",
+    "output": "We're gonna level up to detective!\n"
+  },
+  {
+    "input": "We're gonna level up to detective!\n",
+    "output": "That's such a shitty device to keep people playing.\n"
+  },
+  {
+    "input": "That's such a shitty device to keep people playing.\n",
+    "output": "Alright, ahhh, why don't we do something else?\n[So the boys are now in a diner eating sundaes]\n"
+  },
+  {
+    "input": "Alright, ahhh, why don't we do something else?\n[So the boys are now in a diner eating sundaes]\n",
+    "output": "[looking at his chocolate sundae] Aw, dude, this looks like shit.\n"
+  },
+  {
+    "input": "[looking at his chocolate sundae] Aw, dude, this looks like shit.\n",
+    "output": "You don't wanna eat it?\n"
+  },
+  {
+    "input": "You don't wanna eat it?\n",
+    "output": "It just looks like shit to me, a bunch of processed, gooey shit.\n"
+  },
+  {
+    "input": "It just looks like shit to me, a bunch of processed, gooey shit.\n",
+    "output": "Look like ice cream to me.\n"
+  },
+  {
+    "input": "Look like ice cream to me.\n",
+    "output": "Erm, okay, I know. How about we go to the mall?\n"
+  },
+  {
+    "input": "Erm, okay, I know. How about we go to the mall?\n",
+    "output": "Ugh, bunch of people trying to sell us a bunch of shit.\n"
+  },
+  {
+    "input": "Ugh, bunch of people trying to sell us a bunch of shit.\n",
+    "output": "Ugh, okay Stan, what do you wanna do?\n"
+  },
+  {
+    "input": "Ugh, okay Stan, what do you wanna do?\n",
+    "output": "What, oh I don't care, I'm cool with whatever.\n[The bowling alley, night. Steamy Ray Vaughn is back in performing. The janitor and his farmer friend are present]\n"
+  },
+  {
+    "input": "What, oh I don't care, I'm cool with whatever.\n[The bowling alley, night. Steamy Ray Vaughn is back in performing. The janitor and his farmer friend are present]\n",
+    "output": "City bog. Too much, too much city bop. Too much too much too much [puts the mic to his ass and farts into it]\n"
+  },
+  {
+    "input": "City bog. Too much, too much city bop. Too much too much too much [puts the mic to his ass and farts into it]\n",
+    "output": "Lord, I ain't never seen britches take a whoopin' like that.\n"
+  },
+  {
+    "input": "Lord, I ain't never seen britches take a whoopin' like that.\n",
+    "output": "I told you. Them britches don't stand a chance.\n"
+  },
+  {
+    "input": "I told you. Them britches don't stand a chance.\n",
+    "output": "City bop! City yeah! [more fart sounds, and the song ends] Thank you! Thank you so much! I'd like to uh, bring up a special guest now. The other night I was chatting in a Tween Wave chatroom, because I do love Tween Wave so much, and I uh started chattin' with this nice lady who also really like her kids' Tween Wave music and... turns out she's a real talented artist as well. Please welcome Miss Steamy Nicks.\n"
+  },
+  {
+    "input": "City bop! City yeah! [more fart sounds, and the song ends] Thank you! Thank you so much! I'd like to uh, bring up a special guest now. The other night I was chatting in a Tween Wave chatroom, because I do love Tween Wave so much, and I uh started chattin' with this nice lady who also really like her kids' Tween Wave music and... turns out she's a real talented artist as well. Please welcome Miss Steamy Nicks.\n",
+    "output": "[sounding a lot like a goat] Thank you, thank you so much. [Randy presses play and a song begins]\n"
+  },
+  {
+    "input": "[sounding a lot like a goat] Thank you, thank you so much. [Randy presses play and a song begins]\n",
+    "output": "Wait now, who's that lady?\n"
+  },
+  {
+    "input": "Wait now, who's that lady?\n",
+    "output": "That there's Steamy Nicks.\n"
+  },
+  {
+    "input": "That there's Steamy Nicks.\n",
+    "output": "You mean that gal who played for Fleetwood Mac and wrote that song \"Landslide\"?\n"
+  },
+  {
+    "input": "You mean that gal who played for Fleetwood Mac and wrote that song \"Landslide\"?\n",
+    "output": "Nnooh, that's Stevie Nicks. Steamy Nicks just shits her britches. [sure enough, she does this, and Randy joins her a second later]\n"
+  },
+  {
+    "input": "Nnooh, that's Stevie Nicks. Steamy Nicks just shits her britches. [sure enough, she does this, and Randy joins her a second later]\n",
+    "output": "Yoyoyo! [more fart sounds]\n"
+  },
+  {
+    "input": "Yoyoyo! [more fart sounds]\n",
+    "output": "[enters the bowling alley and heads straight for Randy] Who the hell is that woman, Randy?! What the hell do you think you're doing?!\n"
+  },
+  {
+    "input": "[enters the bowling alley and heads straight for Randy] Who the hell is that woman, Randy?! What the hell do you think you're doing?!\n",
+    "output": "I agree. Why don't you leave them poor britches alone?\n"
+  },
+  {
+    "input": "I agree. Why don't you leave them poor britches alone?\n",
+    "output": "Them britches have had enough!\n[Ronny's Diner, day. Stan is in a booth, all alone. A waitress comes up]\n"
+  },
+  {
+    "input": "Them britches have had enough!\n[Ronny's Diner, day. Stan is in a booth, all alone. A waitress comes up]\n",
+    "output": "All alone today?\n"
+  },
+  {
+    "input": "All alone today?\n",
+    "output": "Yeah it sucks. All my friends are sick with the flu.\n"
+  },
+  {
+    "input": "Yeah it sucks. All my friends are sick with the flu.\n",
+    "output": "Well, what can I get you?\n"
+  },
+  {
+    "input": "Well, what can I get you?\n",
+    "output": "Do you have anything on the menu that doesn't taste like shit?\n"
+  },
+  {
+    "input": "Do you have anything on the menu that doesn't taste like shit?\n",
+    "output": "A little young to be so pessimistic, aren't ya kid?\n"
+  },
+  {
+    "input": "A little young to be so pessimistic, aren't ya kid?\n",
+    "output": "Why? There's nothing but shit on TV, video games are all shit, and the world's a big turd. The only thing that doesn't seem like total shit to me are my friends, and they're all sick. Just, get me a cheeseburger and tell the chef to go easy on the shit. [just outside, Kyle, Cartman, and Kenny walk by, not noticing Stan in the diner. Stan, on the other hand, notices them walk by. He quickly leaves the booth and catches up with them outside, where they're happily talking about something.]\n"
+  },
+  {
+    "input": "Why? There's nothing but shit on TV, video games are all shit, and the world's a big turd. The only thing that doesn't seem like total shit to me are my friends, and they're all sick. Just, get me a cheeseburger and tell the chef to go easy on the shit. [just outside, Kyle, Cartman, and Kenny walk by, not noticing Stan in the diner. Stan, on the other hand, notices them walk by. He quickly leaves the booth and catches up with them outside, where they're happily talking about something.]\n",
+    "output": "[laughing] I know! That's so hilarious!\n"
+  },
+  {
+    "input": "[laughing] I know! That's so hilarious!\n",
+    "output": "I thought you guys were sick! [the other boys don't know what to say]\n"
+  },
+  {
+    "input": "I thought you guys were sick! [the other boys don't know what to say]\n",
+    "output": "...Uh we'll let you catch up to us, Kyle. Come on, Kenny. [Cartman and Kenny turn and walk away. Stan approaches Kyle]\n"
+  },
+  {
+    "input": "...Uh we'll let you catch up to us, Kyle. Come on, Kenny. [Cartman and Kenny turn and walk away. Stan approaches Kyle]\n",
+    "output": "Dude, you totally lied to me!\n"
+  },
+  {
+    "input": "Dude, you totally lied to me!\n",
+    "output": "No, ah I didn't lie to you. Ah I was um... uh I felt better and then the guys called and said that they felt better and uh-\n"
+  },
+  {
+    "input": "No, ah I didn't lie to you. Ah I was um... uh I felt better and then the guys called and said that they felt better and uh-\n",
+    "output": "Where were you guys going?!\n"
+  },
+  {
+    "input": "Where were you guys going?!\n",
+    "output": "Alright dude, we were going to the movies.\n"
+  },
+  {
+    "input": "Alright dude, we were going to the movies.\n",
+    "output": "Why didn't you tell me? I wanna go to the movies.\n"
+  },
+  {
+    "input": "Why didn't you tell me? I wanna go to the movies.\n",
+    "output": "Look, Stam, we-we just wanted to be able to go to the movies and enjoy ourselves, you know? I'm sorry but... you're a bummer to be around. Everything is \"that looks like shit\" and, and \"this is shitty!\"\n"
+  },
+  {
+    "input": "Look, Stam, we-we just wanted to be able to go to the movies and enjoy ourselves, you know? I'm sorry but... you're a bummer to be around. Everything is \"that looks like shit\" and, and \"this is shitty!\"\n",
+    "output": "You guys... don't wanna be around me?\n"
+  },
+  {
+    "input": "You guys... don't wanna be around me?\n",
+    "output": "Look dude, it's just one movie. We wanna have a good time.\n"
+  },
+  {
+    "input": "Look dude, it's just one movie. We wanna have a good time.\n",
+    "output": "Please, Kyle, I can change my attitude. I promise. Let me go to the movies with you.\n"
+  },
+  {
+    "input": "Please, Kyle, I can change my attitude. I promise. Let me go to the movies with you.\n",
+    "output": "[thinks about it, then sighs] Okay. But you've gotta promise to not complain.\n"
+  },
+  {
+    "input": "[thinks about it, then sighs] Okay. But you've gotta promise to not complain.\n",
+    "output": "I won't say a word.\n[The Bijou theater, day. X-Men: First Class is playing. Inside, the theater is barely a fourth full. The boys sit in the third row.]\n"
+  },
+  {
+    "input": "I won't say a word.\n[The Bijou theater, day. X-Men: First Class is playing. Inside, the theater is barely a fourth full. The boys sit in the third row.]\n",
+    "output": "Oh shit.\n[The Bijou theater, later on]\n"
+  },
+  {
+    "input": "Oh shit.\n[The Bijou theater, later on]\n",
+    "output": "Jesus, how long before they start this Goddamned thing?! [apparently trailers are still playing]\n"
+  },
+  {
+    "input": "Jesus, how long before they start this Goddamned thing?! [apparently trailers are still playing]\n",
+    "output": "Oh cool, the movie trailers!\n[First trailer]\n"
+  },
+  {
+    "input": "Oh cool, the movie trailers!\n[First trailer]\n",
+    "output": "Adam Sandler is Jack. Adam Sandler is Jill. [Jack and Jill are at a well, and Jill poops on Jack... and they both look like turds]\n"
+  },
+  {
+    "input": "Adam Sandler is Jack. Adam Sandler is Jill. [Jack and Jill are at a well, and Jill poops on Jack... and they both look like turds]\n",
+    "output": "Awww God! [squeezes his eyes shut and puts his hand over them]\n"
+  },
+  {
+    "input": "Awww God! [squeezes his eyes shut and puts his hand over them]\n",
+    "output": "Dude, you said you wouldn't say everything looked like shit!\n"
+  },
+  {
+    "input": "Dude, you said you wouldn't say everything looked like shit!\n",
+    "output": "Sorry if I see things for what they are! Ok- okay, okay, I'm sorry.\n[Second trailer]\n"
+  },
+  {
+    "input": "Sorry if I see things for what they are! Ok- okay, okay, I'm sorry.\n[Second trailer]\n",
+    "output": "[a toilet bowl spews out shit] This November, Adam Sandler shits in your eyes, ears, and mouth. [Some eyes, ear, and mouth are shown separately, and poop lands on each of them] It's Adam Sandler in Pbbbbbt, rated Arg for pirates. Fuck you!\n"
+  },
+  {
+    "input": "[a toilet bowl spews out shit] This November, Adam Sandler shits in your eyes, ears, and mouth. [Some eyes, ear, and mouth are shown separately, and poop lands on each of them] It's Adam Sandler in Pbbbbbt, rated Arg for pirates. Fuck you!\n",
+    "output": "That looks pretty good.\n"
+  },
+  {
+    "input": "That looks pretty good.\n",
+    "output": "How can you say that looks good?!\n"
+  },
+  {
+    "input": "How can you say that looks good?!\n",
+    "output": "Shhh, you're doing it again!\n[Third trailer]\n"
+  },
+  {
+    "input": "Shhh, you're doing it again!\n[Third trailer]\n",
+    "output": "Jim Carrey has a bunch of turds in his apartment. [dancing turds that create turd sounds, at that]\n"
+  },
+  {
+    "input": "Jim Carrey has a bunch of turds in his apartment. [dancing turds that create turd sounds, at that]\n",
+    "output": "[shields his eyes from the shit] Ugh.\n"
+  },
+  {
+    "input": "[shields his eyes from the shit] Ugh.\n",
+    "output": "Stan, knock it off!\n"
+  },
+  {
+    "input": "Stan, knock it off!\n",
+    "output": "But it's just crap.\n"
+  },
+  {
+    "input": "But it's just crap.\n",
+    "output": "No, they're penguins! Stop it!\n"
+  },
+  {
+    "input": "No, they're penguins! Stop it!\n",
+    "output": "[shots of Carrey carrying two turds, slipping on another turd, then taking a crap while two turds look on] It's Jim Carrey in Whatever, You'll Pay To Go See It. Fuck you! July 12.\n[Fourth trailer]\n"
+  },
+  {
+    "input": "[shots of Carrey carrying two turds, slipping on another turd, then taking a crap while two turds look on] It's Jim Carrey in Whatever, You'll Pay To Go See It. Fuck you! July 12.\n[Fourth trailer]\n",
+    "output": "The President of the United States... is a duck?? [the duck pops up and opens its beak, which issues forth lots of shit] A duck is President and the whole country is goin' to the dogs. [two dogs are shown. One of them has his ass to the camera, and it begins to poop] Or whatever, the President is a dog. [the dog and duck now stand before a U.S. flag] Who cares? Coming June something. [a bunch of poop hits the scene, landing on the dog and duck and spelling out \"JUNE\"]\n"
+  },
+  {
+    "input": "The President of the United States... is a duck?? [the duck pops up and opens its beak, which issues forth lots of shit] A duck is President and the whole country is goin' to the dogs. [two dogs are shown. One of them has his ass to the camera, and it begins to poop] Or whatever, the President is a dog. [the dog and duck now stand before a U.S. flag] Who cares? Coming June something. [a bunch of poop hits the scene, landing on the dog and duck and spelling out \"JUNE\"]\n",
+    "output": "Oh come on, people!\n"
+  },
+  {
+    "input": "Oh come on, people!\n",
+    "output": "That's it, Stan! I'm not sitting through a whole movie with you! [leaves his seat and walks out. Kenny and Cartman follow suit]\n"
+  },
+  {
+    "input": "That's it, Stan! I'm not sitting through a whole movie with you! [leaves his seat and walks out. Kenny and Cartman follow suit]\n",
+    "output": "Oh dude dude wait, I'm sorry.\n"
+  },
+  {
+    "input": "Oh dude dude wait, I'm sorry.\n",
+    "output": "No, Kyle's right. You suck, dude.\n"
+  },
+  {
+    "input": "No, Kyle's right. You suck, dude.\n",
+    "output": "Me?! Did you see that shit?!\n[The Bijou, outside. Kyle, Kenny, and Cartman turn to leave the theater when Stan catches up to them.]\n"
+  },
+  {
+    "input": "Me?! Did you see that shit?!\n[The Bijou, outside. Kyle, Kenny, and Cartman turn to leave the theater when Stan catches up to them.]\n",
+    "output": "Hang on guys!\n"
+  },
+  {
+    "input": "Hang on guys!\n",
+    "output": "Dude, we don't wanna hang out with you anymore! Get it through your head! [he and Kenny leave. Kyle stays behind]\n"
+  },
+  {
+    "input": "Dude, we don't wanna hang out with you anymore! Get it through your head! [he and Kenny leave. Kyle stays behind]\n",
+    "output": "Kyle?\n"
+  },
+  {
+    "input": "Kyle?\n",
+    "output": "[turns around] Dude, you've... you've changed.\n"
+  },
+  {
+    "input": "[turns around] Dude, you've... you've changed.\n",
+    "output": "I haven't changed, the world has. Don't you see it?\n"
+  },
+  {
+    "input": "I haven't changed, the world has. Don't you see it?\n",
+    "output": "No. And I don't want to. Look Stan, maybe we should fo- [poop starts coming out of his mouth and spewing all over the place. He then turns into a huge turd - this is how Stan sees him. The rest of us see him normally. Stan turns and walks away. Kyle turns and walks away in the opposite direction]\n[The Marsh house, night. Randy and Sharon can be seen arguing through the living room windows]\n"
+  },
+  {
+    "input": "No. And I don't want to. Look Stan, maybe we should fo- [poop starts coming out of his mouth and spewing all over the place. He then turns into a huge turd - this is how Stan sees him. The rest of us see him normally. Stan turns and walks away. Kyle turns and walks away in the opposite direction]\n[The Marsh house, night. Randy and Sharon can be seen arguing through the living room windows]\n",
+    "output": "You don't get it, Sharon! You never have! And that's supposed to be my fault?!\n"
+  },
+  {
+    "input": "You don't get it, Sharon! You never have! And that's supposed to be my fault?!\n",
+    "output": "Yes, it IS your fault, Randy, because you're a child!\n"
+  },
+  {
+    "input": "Yes, it IS your fault, Randy, because you're a child!\n",
+    "output": "I'm sick of everything I do being so wrong, Sharon!\n"
+  },
+  {
+    "input": "I'm sick of everything I do being so wrong, Sharon!\n",
+    "output": "I'm sick of having to...for this! You're 42 years old, Randy!\n"
+  },
+  {
+    "input": "I'm sick of having to...for this! You're 42 years old, Randy!\n",
+    "output": "I'm not dead yet Sharon, but you might be!\n"
+  },
+  {
+    "input": "I'm not dead yet Sharon, but you might be!\n",
+    "output": "Oh is that what you think?! That I'm dead?!\n[across the street, behind some bushes, the two elderly men are there observing the argument]\n"
+  },
+  {
+    "input": "Oh is that what you think?! That I'm dead?!\n[across the street, behind some bushes, the two elderly men are there observing the argument]\n",
+    "output": "What do you suppose is goin' on in there?\n"
+  },
+  {
+    "input": "What do you suppose is goin' on in there?\n",
+    "output": "Sound like Steamy Ray Vaughn is goin' at it with his wife over Steamy Nicks.\n"
+  },
+  {
+    "input": "Sound like Steamy Ray Vaughn is goin' at it with his wife over Steamy Nicks.\n",
+    "output": "You... sure you wanna do this?\n"
+  },
+  {
+    "input": "You... sure you wanna do this?\n",
+    "output": "We got to now, if their fightin' is our best chance tuh save them britches.\n[back in the house]\n"
+  },
+  {
+    "input": "We got to now, if their fightin' is our best chance tuh save them britches.\n[back in the house]\n",
+    "output": "You do this all the time! First you're obsessed with baseball fights! Then you need to play Warcraft! Then you gotta be a celebrity chef! [the two men slide a side window up ever so quietly, go in, and sneak upstairs]\n"
+  },
+  {
+    "input": "You do this all the time! First you're obsessed with baseball fights! Then you need to play Warcraft! Then you gotta be a celebrity chef! [the two men slide a side window up ever so quietly, go in, and sneak upstairs]\n",
+    "output": "Why can't you ever just support me?!\n"
+  },
+  {
+    "input": "Why can't you ever just support me?!\n",
+    "output": "Support what?! Another stupid dream of yours?!\n"
+  },
+  {
+    "input": "Support what?! Another stupid dream of yours?!\n",
+    "output": "Face it Sharon, our son turned 10 and you feel old!\n"
+  },
+  {
+    "input": "Face it Sharon, our son turned 10 and you feel old!\n",
+    "output": "WHAT does our son turning 10 have to do with you making the same mistakes again and again?!\n"
+  },
+  {
+    "input": "WHAT does our son turning 10 have to do with you making the same mistakes again and again?!\n",
+    "output": "Because I'm unhappy, okay?! I've been unhappy for a long time! [Sharon reflects on this for a moment and her voice goes soft]\n"
+  },
+  {
+    "input": "Because I'm unhappy, okay?! I've been unhappy for a long time! [Sharon reflects on this for a moment and her voice goes soft]\n",
+    "output": "I'm unhappy too. We both are, obviously. How much longer can we keep doing this? It's like, the same shit just happens over and over and, then in a week it just all resets until- it happens again. Every week it's kind of the same story in a different way but it, it just keeps getting more and more ridiculous.\n"
+  },
+  {
+    "input": "I'm unhappy too. We both are, obviously. How much longer can we keep doing this? It's like, the same shit just happens over and over and, then in a week it just all resets until- it happens again. Every week it's kind of the same story in a different way but it, it just keeps getting more and more ridiculous.\n",
+    "output": "[the two men sneak out the way they came in] Come on britches, we're settin' you free.\n"
+  },
+  {
+    "input": "[the two men sneak out the way they came in] Come on britches, we're settin' you free.\n",
+    "output": "I don't know if I've changed or you have. I just feel like I might not have a whole lot of time left and... I want to enjoy it.\n"
+  },
+  {
+    "input": "I don't know if I've changed or you have. I just feel like I might not have a whole lot of time left and... I want to enjoy it.\n",
+    "output": "I want to enjoy it too, but... I can't fake it anymore. You just seem kind of shitty to me.\n"
+  },
+  {
+    "input": "I want to enjoy it too, but... I can't fake it anymore. You just seem kind of shitty to me.\n",
+    "output": "You kind of seem shitty to me too.\n"
+  }
+]

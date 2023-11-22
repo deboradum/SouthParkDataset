@@ -1,0 +1,1410 @@
+[
+  {
+    "input": "",
+    "output": "Spookyfish\n\n"
+  },
+  {
+    "input": "Spookyfish\n\n",
+    "output": "The following program is brought to you in spooky vision. Be warned: all scenes will be accompanied by pictures of Barbra Streisand.\n[A scream is heard and the Halloween/\"Pinkeye\" opening sequence is shown.]\n[Outer Space. A alien ship descends, and then turns towards Earth, headed for the western U.S. As it enters the atmosphere it begins to burn. It slows down and hovers over a road, then lands gently. A door opens like a camera lens, and an alien drops down. As soon as he moves, a tire crushes him. Judging by the size of the tire, the alien was 18 to 24 inches tall. The tire is that of the South Park Elementary school bus, which stops to let the boys off. Then it pulls away.]\n"
+  },
+  {
+    "input": "The following program is brought to you in spooky vision. Be warned: all scenes will be accompanied by pictures of Barbra Streisand.\n[A scream is heard and the Halloween/\"Pinkeye\" opening sequence is shown.]\n[Outer Space. A alien ship descends, and then turns towards Earth, headed for the western U.S. As it enters the atmosphere it begins to burn. It slows down and hovers over a road, then lands gently. A door opens like a camera lens, and an alien drops down. As soon as he moves, a tire crushes him. Judging by the size of the tire, the alien was 18 to 24 inches tall. The tire is that of the South Park Elementary school bus, which stops to let the boys off. Then it pulls away.]\n",
+    "output": "I wonder why Cartman wasn't in school today.\n"
+  },
+  {
+    "input": "I wonder why Cartman wasn't in school today.\n",
+    "output": "He probably just ditched to avoid that spelling test.\n"
+  },
+  {
+    "input": "He probably just ditched to avoid that spelling test.\n",
+    "output": "Hey guys. How's it going?\n[Cartman now has a full goatee. Kyle and Stan laugh.]\n"
+  },
+  {
+    "input": "Hey guys. How's it going?\n[Cartman now has a full goatee. Kyle and Stan laugh.]\n",
+    "output": "Uh, nice costume, dude. Who are you supposed to be? Luke Perry?\n"
+  },
+  {
+    "input": "Uh, nice costume, dude. Who are you supposed to be? Luke Perry?\n",
+    "output": "Cartman, how come you weren't in school today?\n"
+  },
+  {
+    "input": "Cartman, how come you weren't in school today?\n",
+    "output": "Did you eat too many pork rinds last night?\n[Kyle and Stan laugh again.]\n"
+  },
+  {
+    "input": "Did you eat too many pork rinds last night?\n[Kyle and Stan laugh again.]\n",
+    "output": "You guys, you're so funny. No matter how I'm feeling, I can always count on you guys to lighten me up.\n"
+  },
+  {
+    "input": "You guys, you're so funny. No matter how I'm feeling, I can always count on you guys to lighten me up.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I had to stay home because my mother wasn't feeling well. She has the flu, and I wanted to take care of the house so she could stay in bed\n[Stan and Kyle stand there shocked.]\n"
+  },
+  {
+    "input": "I had to stay home because my mother wasn't feeling well. She has the flu, and I wanted to take care of the house so she could stay in bed\n[Stan and Kyle stand there shocked.]\n",
+    "output": "I just wanted to catch you guys to see if we were assigned any homework tonight.\n"
+  },
+  {
+    "input": "I just wanted to catch you guys to see if we were assigned any homework tonight.\n",
+    "output": "What the hell are you talking about, Cartman?!\n"
+  },
+  {
+    "input": "What the hell are you talking about, Cartman?!\n",
+    "output": "Stop screwing around, dude. We're all gonna go meet at the store later to buy pumpkins to carve.\n"
+  },
+  {
+    "input": "Stop screwing around, dude. We're all gonna go meet at the store later to buy pumpkins to carve.\n",
+    "output": "[Excited.] Oooh, then we can enter the carving contest! I'll run home and get money from Mother. Do you guys need some, too?\n[Cartman and the boys look at each other.]\n"
+  },
+  {
+    "input": "[Excited.] Oooh, then we can enter the carving contest! I'll run home and get money from Mother. Do you guys need some, too?\n[Cartman and the boys look at each other.]\n",
+    "output": "Dude, this is creepy.\n[Stan's house. Stan walks in to find Sharon and someone new.]\n"
+  },
+  {
+    "input": "Dude, this is creepy.\n[Stan's house. Stan walks in to find Sharon and someone new.]\n",
+    "output": "Stanley? Look who's here. Aunt Flo.\n[An elderly woman with glasses who has two gifts wrapped up next to her.]\n"
+  },
+  {
+    "input": "Stanley? Look who's here. Aunt Flo.\n[An elderly woman with glasses who has two gifts wrapped up next to her.]\n",
+    "output": "Hello, Stanley. Remember me?\n"
+  },
+  {
+    "input": "Hello, Stanley. Remember me?\n",
+    "output": "[Flatly] Hi, Aunt Flo.\n[Stan hesitates to enter, Aunt Flo begins to tremble.]\n"
+  },
+  {
+    "input": "[Flatly] Hi, Aunt Flo.\n[Stan hesitates to enter, Aunt Flo begins to tremble.]\n",
+    "output": "Now, Stanley! Aunt Flo only visits once a month. Be nice.\n"
+  },
+  {
+    "input": "Now, Stanley! Aunt Flo only visits once a month. Be nice.\n",
+    "output": "Hey, Stanley. I brought you and Shelly presents.\n"
+  },
+  {
+    "input": "Hey, Stanley. I brought you and Shelly presents.\n",
+    "output": "Wow, really?! Hey, I love Aunt Flo!\n[He rushes in, Shelly turning up as well.]\n"
+  },
+  {
+    "input": "Wow, really?! Hey, I love Aunt Flo!\n[He rushes in, Shelly turning up as well.]\n",
+    "output": "Okay, Shelly. This one's for you.\n[Shelly opens up the larger box and it expands out into.]\n"
+  },
+  {
+    "input": "Okay, Shelly. This one's for you.\n[Shelly opens up the larger box and it expands out into.]\n",
+    "output": "It's a television/CD player/surround sound home theater.\n"
+  },
+  {
+    "input": "It's a television/CD player/surround sound home theater.\n",
+    "output": "Wow!\n"
+  },
+  {
+    "input": "Wow!\n",
+    "output": "What do you say, Shelly?\n"
+  },
+  {
+    "input": "What do you say, Shelly?\n",
+    "output": "Thank you, Aunt Flo.\n"
+  },
+  {
+    "input": "Thank you, Aunt Flo.\n",
+    "output": "Okay, Stanley. Your turn.\n[Stan opens up his box and reaches in.]\n"
+  },
+  {
+    "input": "Okay, Stanley. Your turn.\n[Stan opens up his box and reaches in.]\n",
+    "output": "Your very own fish.\n"
+  },
+  {
+    "input": "Your very own fish.\n",
+    "output": "What do you say, Stanley?\n"
+  },
+  {
+    "input": "What do you say, Stanley?\n",
+    "output": "I don't know.\n[Stan and the fish look at each other. Stan shows some fear.]\n"
+  },
+  {
+    "input": "I don't know.\n[Stan and the fish look at each other. Stan shows some fear.]\n",
+    "output": "[Softly.] I think he likes you. [Normal.] Come on Shelly. Let's hook up your home theater.\n"
+  },
+  {
+    "input": "[Softly.] I think he likes you. [Normal.] Come on Shelly. Let's hook up your home theater.\n",
+    "output": "Okay.\n[Shelly follows her aunt out.]\n"
+  },
+  {
+    "input": "Okay.\n[Shelly follows her aunt out.]\n",
+    "output": "How do you like your fish, Stanley?\n"
+  },
+  {
+    "input": "How do you like your fish, Stanley?\n",
+    "output": "I don't like it. It's spooky.\n"
+  },
+  {
+    "input": "I don't like it. It's spooky.\n",
+    "output": "Oh, now, what's spooky about a cute, little goldfish? Go put him in your room.\n"
+  },
+  {
+    "input": "Oh, now, what's spooky about a cute, little goldfish? Go put him in your room.\n",
+    "output": "Do I have to?\n"
+  },
+  {
+    "input": "Do I have to?\n",
+    "output": "Yes, you do!\n"
+  },
+  {
+    "input": "Yes, you do!\n",
+    "output": "Damn it!\n[Stan walks off with the goldfish.]\n"
+  },
+  {
+    "input": "Damn it!\n[Stan walks off with the goldfish.]\n",
+    "output": "Language!\n[A different Barbra picture zooms out from the center of the screen. Next: the bus stop. Kyle is already there.]\n"
+  },
+  {
+    "input": "Language!\n[A different Barbra picture zooms out from the center of the screen. Next: the bus stop. Kyle is already there.]\n",
+    "output": "Where have you been, dude?\n"
+  },
+  {
+    "input": "Where have you been, dude?\n",
+    "output": "Dude, my mom's having her monthly visitor.\n"
+  },
+  {
+    "input": "Dude, my mom's having her monthly visitor.\n",
+    "output": "Aunt Flo?\n"
+  },
+  {
+    "input": "Aunt Flo?\n",
+    "output": "Yeah. Every time she shows up my mom turns into a total bitch.\n"
+  },
+  {
+    "input": "Yeah. Every time she shows up my mom turns into a total bitch.\n",
+    "output": "Where is Cartman? He said he was gonna bring money for us to buy a pumpkin.\n"
+  },
+  {
+    "input": "Where is Cartman? He said he was gonna bring money for us to buy a pumpkin.\n",
+    "output": "Yeah, I wonder why he's being so nice.\n"
+  },
+  {
+    "input": "Yeah, I wonder why he's being so nice.\n",
+    "output": "Here he comes.\n"
+  },
+  {
+    "input": "Here he comes.\n",
+    "output": "Hey, Cartman! Did you bring us money from your mom?\n"
+  },
+  {
+    "input": "Hey, Cartman! Did you bring us money from your mom?\n",
+    "output": "[clean-shaven] Heh! Yeah, right! You guys could kiss my black ass!\n"
+  },
+  {
+    "input": "[clean-shaven] Heh! Yeah, right! You guys could kiss my black ass!\n",
+    "output": "You said you could get us money, Cartman!\n"
+  },
+  {
+    "input": "You said you could get us money, Cartman!\n",
+    "output": "Man, you guys are hella stupid! If I had money, I wouldn't give it to you assholes!\n"
+  },
+  {
+    "input": "Man, you guys are hella stupid! If I had money, I wouldn't give it to you assholes!\n",
+    "output": "Well, at least he's back to normal.\n"
+  },
+  {
+    "input": "Well, at least he's back to normal.\n",
+    "output": "Yeah, but we can't get a pumpkin, so we can't enter the carving contest!\n"
+  },
+  {
+    "input": "Yeah, but we can't get a pumpkin, so we can't enter the carving contest!\n",
+    "output": "It's okay. Kenny said he'd get one.\n"
+  },
+  {
+    "input": "It's okay. Kenny said he'd get one.\n",
+    "output": "Oh, how's Kenny gonna get one?! He's hella poor!\n"
+  },
+  {
+    "input": "Oh, how's Kenny gonna get one?! He's hella poor!\n",
+    "output": "Why do you keep saying \"hella\", fatass?!\n"
+  },
+  {
+    "input": "Why do you keep saying \"hella\", fatass?!\n",
+    "output": "'Cause I'm hella cool, that's why.\n"
+  },
+  {
+    "input": "'Cause I'm hella cool, that's why.\n",
+    "output": "That's not cool!\n"
+  },
+  {
+    "input": "That's not cool!\n",
+    "output": "You guys are just hella jealous.\n[Night time, storm. Stan's house. Randy is about to turn off the light in Stan's room.]\n"
+  },
+  {
+    "input": "You guys are just hella jealous.\n[Night time, storm. Stan's house. Randy is about to turn off the light in Stan's room.]\n",
+    "output": "Good night, Stanley. We'll uh see you in the morning.\n"
+  },
+  {
+    "input": "Good night, Stanley. We'll uh see you in the morning.\n",
+    "output": "Can you leave the light on, Dad?\n"
+  },
+  {
+    "input": "Can you leave the light on, Dad?\n",
+    "output": "Well, it has to be off, or your Aunt Flo will complain about wasting electricity.\n"
+  },
+  {
+    "input": "Well, it has to be off, or your Aunt Flo will complain about wasting electricity.\n",
+    "output": "I wish Aunt Flo didn't have to visit now.\n"
+  },
+  {
+    "input": "I wish Aunt Flo didn't have to visit now.\n",
+    "output": "Yeah, me too. But she only visits your mom for five days or so. I'll be out sleeping on the couch. [turns the light off and closes the door].\n[In the darkness, Stan pulls the covers close and looks at the fish. They stare at each other, and the fish blows a bubble. Stan turns away, then looks back. The fish just looks at him. Stan then turns towards the window and begins to fall asleep, until lightning startles him upright. He looks at the tank. The fish is gone!]\n"
+  },
+  {
+    "input": "Yeah, me too. But she only visits your mom for five days or so. I'll be out sleeping on the couch. [turns the light off and closes the door].\n[In the darkness, Stan pulls the covers close and looks at the fish. They stare at each other, and the fish blows a bubble. Stan turns away, then looks back. The fish just looks at him. Stan then turns towards the window and begins to fall asleep, until lightning startles him upright. He looks at the tank. The fish is gone!]\n",
+    "output": "Where did it go? [he lifts the covers and looks under the bed, then sits back. The fish swims back into view.] Huhhh. [he gets out, picks up his shirt, and throws it over the tank. He goes back to bed and looks at the tank again.]\n[Kenny's house. Rain is dripping in all over the ceiling as pails collect the water. Kenny, Kevin and Mom share a blanket on the sofa while Stuart sits in the armchair.]\n"
+  },
+  {
+    "input": "Where did it go? [he lifts the covers and looks under the bed, then sits back. The fish swims back into view.] Huhhh. [he gets out, picks up his shirt, and throws it over the tank. He goes back to bed and looks at the tank again.]\n[Kenny's house. Rain is dripping in all over the ceiling as pails collect the water. Kenny, Kevin and Mom share a blanket on the sofa while Stuart sits in the armchair.]\n",
+    "output": "(Give me that-!) [pulls the blanket off Kevin]\n"
+  },
+  {
+    "input": "(Give me that-!) [pulls the blanket off Kevin]\n",
+    "output": "Kenny [paf]\n"
+  },
+  {
+    "input": "Kenny [paf]\n",
+    "output": "(Ow, mom!)\n"
+  },
+  {
+    "input": "(Ow, mom!)\n",
+    "output": "You share that blanket with your brother! [knock knock knock]\n"
+  },
+  {
+    "input": "You share that blanket with your brother! [knock knock knock]\n",
+    "output": "Who the hell could that be? [the front door opens and the family looks to see who it is].\n"
+  },
+  {
+    "input": "Who the hell could that be? [the front door opens and the family looks to see who it is].\n",
+    "output": "[with mustache and beard, and dressed in raingear] Hi there, folks! This is a heck of a storm out now! Thought maybe you could use some provisions. [a box of SUPPLIES is next to him. The parents look at each other] There's some candles and food in there. It ain't much, but it should get you through the night. Take care, folks. I've got other houses to get to. [walks off].\n"
+  },
+  {
+    "input": "[with mustache and beard, and dressed in raingear] Hi there, folks! This is a heck of a storm out now! Thought maybe you could use some provisions. [a box of SUPPLIES is next to him. The parents look at each other] There's some candles and food in there. It ain't much, but it should get you through the night. Take care, folks. I've got other houses to get to. [walks off].\n",
+    "output": "[suspicious] Kenny, wasn't that your fat, racist, foul-mouthed friend, Eric Cartman?\n"
+  },
+  {
+    "input": "[suspicious] Kenny, wasn't that your fat, racist, foul-mouthed friend, Eric Cartman?\n",
+    "output": "(Uh huh.)\n[Stan's house. He gets up once again to look at the tank, but the shirt is not on it anymore.]\n"
+  },
+  {
+    "input": "(Uh huh.)\n[Stan's house. He gets up once again to look at the tank, but the shirt is not on it anymore.]\n",
+    "output": "Hey. Where did the shirt go? [hops off and approaches the fish] I covered you with a shirt! Where did it go?! [the fish blinks, then looks down and to the right. Stan's eyes follow, and he sees the shirt.] AAAaAaAaAa [runs back to his bed and pulls the covers up, then drops them a bit. He looks at the fish] I'm not gonna look. [shuts his eyes, then opens them again. The fish tank, and the dresser it's on, are closer to the bed] It's not closer. I'm just seeing things. [shuts his eyes again, then opens them. The tank and dresser are at the foot of his bed] GAAAH! [shuts his eyes tight, and opens them one more time. The fish tank is now on the bed, between his feet] AAAAAAAH!! [he jumps off, runs to his door, and rushes into the hallway] MOM! Mom! [comes back to the room with her in tow]\n"
+  },
+  {
+    "input": "Hey. Where did the shirt go? [hops off and approaches the fish] I covered you with a shirt! Where did it go?! [the fish blinks, then looks down and to the right. Stan's eyes follow, and he sees the shirt.] AAAaAaAaAa [runs back to his bed and pulls the covers up, then drops them a bit. He looks at the fish] I'm not gonna look. [shuts his eyes, then opens them again. The fish tank, and the dresser it's on, are closer to the bed] It's not closer. I'm just seeing things. [shuts his eyes again, then opens them. The tank and dresser are at the foot of his bed] GAAAH! [shuts his eyes tight, and opens them one more time. The fish tank is now on the bed, between his feet] AAAAAAAH!! [he jumps off, runs to his door, and rushes into the hallway] MOM! Mom! [comes back to the room with her in tow]\n",
+    "output": "Stanley, settle down!\n"
+  },
+  {
+    "input": "Stanley, settle down!\n",
+    "output": "Look. He's gonna kill me, Mom!\n"
+  },
+  {
+    "input": "Look. He's gonna kill me, Mom!\n",
+    "output": "[at the door] Is there a problem? [walks to Sharon]\n"
+  },
+  {
+    "input": "[at the door] Is there a problem? [walks to Sharon]\n",
+    "output": "Uh, no problem, Aunt Flo.\n"
+  },
+  {
+    "input": "Uh, no problem, Aunt Flo.\n",
+    "output": "Do you not like your goldfish?\n"
+  },
+  {
+    "input": "Do you not like your goldfish?\n",
+    "output": "No!\n"
+  },
+  {
+    "input": "No!\n",
+    "output": "I'm sorry. I'm a bad aunt. [buries her face in her hand and begins to sob.]\n"
+  },
+  {
+    "input": "I'm sorry. I'm a bad aunt. [buries her face in her hand and begins to sob.]\n",
+    "output": "There, there, Aunt Flo. Stanley loves his goldfish. [he merely looks up at them]\n[1:25 a.m. Stan is under the covers looking at the spooky fish. After a long while, the fish turns around and starts writing something on the tank wall with his tail. Stan gets out of bed for a closer look. The fish finishes writing and turns to blow on the wall. A gray area appears and the word \"KILL\" appears within it.]\n"
+  },
+  {
+    "input": "There, there, Aunt Flo. Stanley loves his goldfish. [he merely looks up at them]\n[1:25 a.m. Stan is under the covers looking at the spooky fish. After a long while, the fish turns around and starts writing something on the tank wall with his tail. Stan gets out of bed for a closer look. The fish finishes writing and turns to blow on the wall. A gray area appears and the word \"KILL\" appears within it.]\n",
+    "output": "AAAAAAAAH! [runs back to bed]\n"
+  },
+  {
+    "input": "AAAAAAAAH! [runs back to bed]\n",
+    "output": "[enters his room and turns on the lights] Stanley, what are you doing?!\n"
+  },
+  {
+    "input": "[enters his room and turns on the lights] Stanley, what are you doing?!\n",
+    "output": "[pointing] The fish! [nothing is left of the writing on the tank wall] But-\n"
+  },
+  {
+    "input": "[pointing] The fish! [nothing is left of the writing on the tank wall] But-\n",
+    "output": "Stanley, I'm in no mood for this! Not when your Aunt Flo is in town! Oh, look, you woke your sister up. [Shelly stands in front of Sharon, then approaches Stan and slaps him, then leaves the room] Go to sleep, Stanley! [turns off the light and closes the door behind her.]\n[Stan gets back into bed and pulls the covers up. Another flash of lighting gets Stan to sit up again. He looks at the tank again, then gets out of bed for a closer look, failing to notice the growing pool of blood next to him. The fish again looks down and to the right, and Stan's eyes follow.]\n"
+  },
+  {
+    "input": "Stanley, I'm in no mood for this! Not when your Aunt Flo is in town! Oh, look, you woke your sister up. [Shelly stands in front of Sharon, then approaches Stan and slaps him, then leaves the room] Go to sleep, Stanley! [turns off the light and closes the door behind her.]\n[Stan gets back into bed and pulls the covers up. Another flash of lighting gets Stan to sit up again. He looks at the tank again, then gets out of bed for a closer look, failing to notice the growing pool of blood next to him. The fish again looks down and to the right, and Stan's eyes follow.]\n",
+    "output": "[gasps. A man lies dead between the tank and the bed] WAAAAAAAH! Mooomm!\n"
+  },
+  {
+    "input": "[gasps. A man lies dead between the tank and the bed] WAAAAAAAH! Mooomm!\n",
+    "output": "All right, Stanley. I have had enough o- [freezes when she sees the body, then, quivering] Oh, Stanley, what have you done, baby? What have you done?? [rushes to comfort him]\n"
+  },
+  {
+    "input": "All right, Stanley. I have had enough o- [freezes when she sees the body, then, quivering] Oh, Stanley, what have you done, baby? What have you done?? [rushes to comfort him]\n",
+    "output": "Mom, I was just sleeping. And the next thing I knew-\n"
+  },
+  {
+    "input": "Mom, I was just sleeping. And the next thing I knew-\n",
+    "output": "[covers his mouth with her arm, then quietly] Sshhh. It's okay, honey. It's okay. I've got such a good boy, Mommy's little angel. [kisses him and gets up] Now, don't worry, Stanley. Mommy's going to hide the body. [starts to drag it away] Nobody's going to take my baby away. I've got such a handsome boy, such a good boy. [she drags the body out of the room and out into the storm. Stan just looks at her]\n"
+  },
+  {
+    "input": "[covers his mouth with her arm, then quietly] Sshhh. It's okay, honey. It's okay. I've got such a good boy, Mommy's little angel. [kisses him and gets up] Now, don't worry, Stanley. Mommy's going to hide the body. [starts to drag it away] Nobody's going to take my baby away. I've got such a handsome boy, such a good boy. [she drags the body out of the room and out into the storm. Stan just looks at her]\n",
+    "output": "[turns to the fish] You're not gonna get away with this! [the fish writes again, blows, and the message is: \"Yes I Will.\"]\n[Stan walks over to the window and sees his mom digging a grave next to the body. She then places the body in the grave and covers it up. She returns with the shovel to the kitchen and closes the door behind her.]\n"
+  },
+  {
+    "input": "[turns to the fish] You're not gonna get away with this! [the fish writes again, blows, and the message is: \"Yes I Will.\"]\n[Stan walks over to the window and sees his mom digging a grave next to the body. She then places the body in the grave and covers it up. She returns with the shovel to the kitchen and closes the door behind her.]\n",
+    "output": "[her silhouette appears] Sharon!\n"
+  },
+  {
+    "input": "[her silhouette appears] Sharon!\n",
+    "output": "D'uh! Aunt Flo, what are you doing up?!\n"
+  },
+  {
+    "input": "D'uh! Aunt Flo, what are you doing up?!\n",
+    "output": "Look at you, with your little shovel. Just like when you were twelve.\n"
+  },
+  {
+    "input": "Look at you, with your little shovel. Just like when you were twelve.\n",
+    "output": "[sees Sharon pass by] Mom, what are you doing?\n"
+  },
+  {
+    "input": "[sees Sharon pass by] Mom, what are you doing?\n",
+    "output": "Sshh. It's going to be okay, Stanley.\n"
+  },
+  {
+    "input": "Sshh. It's going to be okay, Stanley.\n",
+    "output": "Mom, do you think I killed that guy? It was the fish! He says I'm next!\n[The fish blinks and blows a bubble.]\n"
+  },
+  {
+    "input": "Mom, do you think I killed that guy? It was the fish! He says I'm next!\n[The fish blinks and blows a bubble.]\n",
+    "output": "[enters the room] Now get some sleep, baby. Mommy's taken care of everything.\n"
+  },
+  {
+    "input": "[enters the room] Now get some sleep, baby. Mommy's taken care of everything.\n",
+    "output": "But MOM!\n"
+  },
+  {
+    "input": "But MOM!\n",
+    "output": "[Cradles Stan] Sshh.\nHush little baby, don't say a word.\nMomma's gonna buy you a mockin' bird.\nIf that mockin' bird don't sing, Momma's gonna bury it in the backyard\n[8 a.m., next day. A rooster crows and Stan's clock farts. Stan wakes up and looks at the tank. The fish is still there. Stan hops off the bed and walks to the tank, but is stopped by another body.]\n"
+  },
+  {
+    "input": "[Cradles Stan] Sshh.\nHush little baby, don't say a word.\nMomma's gonna buy you a mockin' bird.\nIf that mockin' bird don't sing, Momma's gonna bury it in the backyard\n[8 a.m., next day. A rooster crows and Stan's clock farts. Stan wakes up and looks at the tank. The fish is still there. Stan hops off the bed and walks to the tank, but is stopped by another body.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[frantic] What is it, honey? [gasp!] My baby's killed again!\n"
+  },
+  {
+    "input": "[frantic] What is it, honey? [gasp!] My baby's killed again!\n",
+    "output": "[points at the body, then holds up his hands] No, mom!\n"
+  },
+  {
+    "input": "[points at the body, then holds up his hands] No, mom!\n",
+    "output": "[holds him tight] What are we gonna do, baby? What are we gonna do?? [the fish looks on. Sharon drags the body out] I've got such a handsome boy, such a good boy.\n[Stan then stands at the window. As he looks out, a reflection of Sharon burying the body is seen on the window pane.]\n[Almost 8 p.m., Kyle's house. Kyle and Cartman are at table when Kenny comes in]\n"
+  },
+  {
+    "input": "[holds him tight] What are we gonna do, baby? What are we gonna do?? [the fish looks on. Sharon drags the body out] I've got such a handsome boy, such a good boy.\n[Stan then stands at the window. As he looks out, a reflection of Sharon burying the body is seen on the window pane.]\n[Almost 8 p.m., Kyle's house. Kyle and Cartman are at table when Kenny comes in]\n",
+    "output": "It's about time, Kenny! Did you bring the pumpkin?\n"
+  },
+  {
+    "input": "It's about time, Kenny! Did you bring the pumpkin?\n",
+    "output": "(Uh huh!)\n"
+  },
+  {
+    "input": "(Uh huh!)\n",
+    "output": "Well, where is it? [Kenny brings out a squash and sets it on the table] What the hell is that?!\n"
+  },
+  {
+    "input": "Well, where is it? [Kenny brings out a squash and sets it on the table] What the hell is that?!\n",
+    "output": "(It's the only thing I could afford.)\n"
+  },
+  {
+    "input": "(It's the only thing I could afford.)\n",
+    "output": "It's all you could afford?! Whoever heard of a squash-o-lantern, Kenny?! That's hella stupid!\n"
+  },
+  {
+    "input": "It's all you could afford?! Whoever heard of a squash-o-lantern, Kenny?! That's hella stupid!\n",
+    "output": "Stop saying \"hella,\" Cartman! [to Kenny] How are we gonna win the contest with a squash? [as Kyle says this Stan enters the room] Whoa, Stan. You don't look so good.\n"
+  },
+  {
+    "input": "Stop saying \"hella,\" Cartman! [to Kenny] How are we gonna win the contest with a squash? [as Kyle says this Stan enters the room] Whoa, Stan. You don't look so good.\n",
+    "output": "[squeezes into Kyle's chair so both fit. Cartman walks to Kenny's chair] I haven't been sleeping so well.\n"
+  },
+  {
+    "input": "[squeezes into Kyle's chair so both fit. Cartman walks to Kenny's chair] I haven't been sleeping so well.\n",
+    "output": "[cuts the top off the squash and taps at the bottom to clear it out. Sigh] God, I hate you, Kenny. [works on the squash some more] I have to get another knife; this one's hella dull! [goes into the kitchen for another one]\n"
+  },
+  {
+    "input": "[cuts the top off the squash and taps at the bottom to clear it out. Sigh] God, I hate you, Kenny. [works on the squash some more] I have to get another knife; this one's hella dull! [goes into the kitchen for another one]\n",
+    "output": "God, will you shut up?!\n"
+  },
+  {
+    "input": "God, will you shut up?!\n",
+    "output": "Kyle, you know how some people are, like, murderers and stuff?\n"
+  },
+  {
+    "input": "Kyle, you know how some people are, like, murderers and stuff?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Do you think animals can be murderers, too?\n"
+  },
+  {
+    "input": "Do you think animals can be murderers, too?\n",
+    "output": "I don't know. [the bearded Cartman comes in with a huge knife] Oh, great. He's got that stupid beard on again.\n"
+  },
+  {
+    "input": "I don't know. [the bearded Cartman comes in with a huge knife] Oh, great. He's got that stupid beard on again.\n",
+    "output": "[gives Kenny a hand] No, Kenny. You should cut with the blade facing away from you. You're gonna hurt yourself. Seriously, dude. Isn't this fun, you guys? Carving pumpkins for Halloween?\n\nYou guys are my best friends\nThrough thick and thin, we've always been together\nWe're four of a kind, havin' fun all day\nPallin' around and laughin' away\nJust best friends, best friends are we.\nI love you guys. [throughout the song, Kyle and Stan look on with awe]\n[Next day. Stan, Kyle, and Kenny are at the bus stop. A picture of Barbra in curls is now on all four corners.]\n"
+  },
+  {
+    "input": "[gives Kenny a hand] No, Kenny. You should cut with the blade facing away from you. You're gonna hurt yourself. Seriously, dude. Isn't this fun, you guys? Carving pumpkins for Halloween?\n\nYou guys are my best friends\nThrough thick and thin, we've always been together\nWe're four of a kind, havin' fun all day\nPallin' around and laughin' away\nJust best friends, best friends are we.\nI love you guys. [throughout the song, Kyle and Stan look on with awe]\n[Next day. Stan, Kyle, and Kenny are at the bus stop. A picture of Barbra in curls is now on all four corners.]\n",
+    "output": "You seem tired, Stan.\n"
+  },
+  {
+    "input": "You seem tired, Stan.\n",
+    "output": "I haven't been sleeping well.\n"
+  },
+  {
+    "input": "I haven't been sleeping well.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "My pet goldfish killed another random person last night.\n"
+  },
+  {
+    "input": "My pet goldfish killed another random person last night.\n",
+    "output": "Hoh, that sucks, dude.\n"
+  },
+  {
+    "input": "Hoh, that sucks, dude.\n",
+    "output": "Hey, dudes. Man, it's hella cold out here.\n"
+  },
+  {
+    "input": "Hey, dudes. Man, it's hella cold out here.\n",
+    "output": "Cartman?\n"
+  },
+  {
+    "input": "Cartman?\n",
+    "output": "Who'd you expect? Maury Povich? Golly, you're hella lame!\n"
+  },
+  {
+    "input": "Who'd you expect? Maury Povich? Golly, you're hella lame!\n",
+    "output": "What are you doing?!\n"
+  },
+  {
+    "input": "What are you doing?!\n",
+    "output": "What do you mean, what am I doing?! I'm just standing here. Jesus, mellow out, you guys.\n"
+  },
+  {
+    "input": "What do you mean, what am I doing?! I'm just standing here. Jesus, mellow out, you guys.\n",
+    "output": "You can't be standing there, Cartman.\n"
+  },
+  {
+    "input": "You can't be standing there, Cartman.\n",
+    "output": "Why the hell not?!\n"
+  },
+  {
+    "input": "Why the hell not?!\n",
+    "output": "Because you're standing over there!\n[Kenny looks at the bearded Cartman.]\n"
+  },
+  {
+    "input": "Because you're standing over there!\n[Kenny looks at the bearded Cartman.]\n",
+    "output": "[seeing his parallel for the first time] Aaah! Son of a bitch!\n"
+  },
+  {
+    "input": "[seeing his parallel for the first time] Aaah! Son of a bitch!\n",
+    "output": "[Cartman walks to him] Wow, you don't see this every day.\n"
+  },
+  {
+    "input": "[Cartman walks to him] Wow, you don't see this every day.\n",
+    "output": "I can't believe what I'm seeing.\n"
+  },
+  {
+    "input": "I can't believe what I'm seeing.\n",
+    "output": "It's like I'm looking in a mirror.\n"
+  },
+  {
+    "input": "It's like I'm looking in a mirror.\n",
+    "output": "Dude, this is hella weird.\n[Sunrise, Stan's house. Officer Barbrady approaches the front door, humming. [He rings the bell]']\n"
+  },
+  {
+    "input": "Dude, this is hella weird.\n[Sunrise, Stan's house. Officer Barbrady approaches the front door, humming. [He rings the bell]']\n",
+    "output": "[answering] Oh. Uh-Officer Barbrady, Woo, wh-what a surprise. What can I do for you?\n"
+  },
+  {
+    "input": "[answering] Oh. Uh-Officer Barbrady, Woo, wh-what a surprise. What can I do for you?\n",
+    "output": "Well, there's been a report of a few missing people.\n"
+  },
+  {
+    "input": "Well, there's been a report of a few missing people.\n",
+    "output": "Is that so?\n"
+  },
+  {
+    "input": "Is that so?\n",
+    "output": "Yeah. No biggie, but I was wondering if you had seen any of them. [show her some pictures of the missing men]\n"
+  },
+  {
+    "input": "Yeah. No biggie, but I was wondering if you had seen any of them. [show her some pictures of the missing men]\n",
+    "output": "I'd never seen any of those men, Officer Barbrady.\n"
+  },
+  {
+    "input": "I'd never seen any of those men, Officer Barbrady.\n",
+    "output": "No, I didn't think so. Mind if I look around the back yard, though?\n"
+  },
+  {
+    "input": "No, I didn't think so. Mind if I look around the back yard, though?\n",
+    "output": "[somewhat alarmed] Why would you wanna do that?\n"
+  },
+  {
+    "input": "[somewhat alarmed] Why would you wanna do that?\n",
+    "output": "Well, I'm checking everyone's back yards. Missing people usually turn up hiding in someone's bushes. May I? [Sharon moves aside and Barbrady enters. They head for the back yard, where five fresh graves await around the clubhouse, and Sparky is pulling a leg out of one of them. Sparky pulls it free and walks away with it] Well, this all looks in- [clunk] oh? Tennis anyone? [falls to the floor unconscious. Sharon had hit him with a pan]\n[The fourth image of Barbra zooms out and back with a scream, and Sharon is now in the basement.]\n"
+  },
+  {
+    "input": "Well, I'm checking everyone's back yards. Missing people usually turn up hiding in someone's bushes. May I? [Sharon moves aside and Barbrady enters. They head for the back yard, where five fresh graves await around the clubhouse, and Sparky is pulling a leg out of one of them. Sparky pulls it free and walks away with it] Well, this all looks in- [clunk] oh? Tennis anyone? [falls to the floor unconscious. Sharon had hit him with a pan]\n[The fourth image of Barbra zooms out and back with a scream, and Sharon is now in the basement.]\n",
+    "output": "Nobody's going to take my baby away from me! Nobody!\n"
+  },
+  {
+    "input": "Nobody's going to take my baby away from me! Nobody!\n",
+    "output": "[missing his pants and shoes, his wrists are tied to posts] Okay, Mrs. Marsh, I'm afraid I'm going to have to ask you a few questions.\n[South Park Elementary, lunch time. The boys are in the kitchen for their food.]\n"
+  },
+  {
+    "input": "[missing his pants and shoes, his wrists are tied to posts] Okay, Mrs. Marsh, I'm afraid I'm going to have to ask you a few questions.\n[South Park Elementary, lunch time. The boys are in the kitchen for their food.]\n",
+    "output": "[excited] Hello there, children! [he is dressed as an African chieftain, complete with reebock skull]\n"
+  },
+  {
+    "input": "[excited] Hello there, children! [he is dressed as an African chieftain, complete with reebock skull]\n",
+    "output": "Hey, Chef.\n"
+  },
+  {
+    "input": "Hey, Chef.\n",
+    "output": "All ready for our Halloween lunch? Today I've got spooooooky spaghetti, with freeeeeaky French fries.\n"
+  },
+  {
+    "input": "All ready for our Halloween lunch? Today I've got spooooooky spaghetti, with freeeeeaky French fries.\n",
+    "output": "Uh, Chef?\n"
+  },
+  {
+    "input": "Uh, Chef?\n",
+    "output": "Or haaauuunted hash browns.\n"
+  },
+  {
+    "input": "Or haaauuunted hash browns.\n",
+    "output": "Chef.\n"
+  },
+  {
+    "input": "Chef.\n",
+    "output": "And a creeeeeepy cookie, and moooooonstrous milk!\n"
+  },
+  {
+    "input": "And a creeeeeepy cookie, and moooooonstrous milk!\n",
+    "output": "Chef.\n"
+  },
+  {
+    "input": "Chef.\n",
+    "output": "And a teeeeerrifying napkin!\n"
+  },
+  {
+    "input": "And a teeeeerrifying napkin!\n",
+    "output": "Chef!\n"
+  },
+  {
+    "input": "Chef!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "We have problems!\n"
+  },
+  {
+    "input": "We have problems!\n",
+    "output": "Well, what's the first problem?\n"
+  },
+  {
+    "input": "Well, what's the first problem?\n",
+    "output": "Chef, I have a goldfish that keeps killing people.\n"
+  },
+  {
+    "input": "Chef, I have a goldfish that keeps killing people.\n",
+    "output": "Oh. Well, uh, don't worry, Stan. I'm sure it'll work out. Now, what's the other problem? [Kyle points to Cartman, but now there are two of him. They blink together.] Oh, nohoho. [rubs his eyes] Oh, DEAR GOD, NO!\n[Cafeteria dining area. The five boys and Chef are sitting at a table.]\n"
+  },
+  {
+    "input": "Oh. Well, uh, don't worry, Stan. I'm sure it'll work out. Now, what's the other problem? [Kyle points to Cartman, but now there are two of him. They blink together.] Oh, nohoho. [rubs his eyes] Oh, DEAR GOD, NO!\n[Cafeteria dining area. The five boys and Chef are sitting at a table.]\n",
+    "output": "...and them I saw them all at the bus stop, and this son of a bitch is standing there!\n"
+  },
+  {
+    "input": "...and them I saw them all at the bus stop, and this son of a bitch is standing there!\n",
+    "output": "I'm sorry I caused so much trouble. This is all very strange to me, too.\n"
+  },
+  {
+    "input": "I'm sorry I caused so much trouble. This is all very strange to me, too.\n",
+    "output": "Exactly what do you remember?\n"
+  },
+  {
+    "input": "Exactly what do you remember?\n",
+    "output": "Well, I was just standing around, and Stan and Kyle were being really mean, as usual, and Kenny had just bought a new car.\n"
+  },
+  {
+    "input": "Well, I was just standing around, and Stan and Kyle were being really mean, as usual, and Kenny had just bought a new car.\n",
+    "output": "Of course! That's it!\n"
+  },
+  {
+    "input": "Of course! That's it!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Don't you see, children? This Cartman is from an evil, parallel universe where everything exists as its opposite!\n"
+  },
+  {
+    "input": "Don't you see, children? This Cartman is from an evil, parallel universe where everything exists as its opposite!\n",
+    "output": "He's my evil twin? But he doesn't even look that much like me; he's all fat and stuff. He's hella lying.\n"
+  },
+  {
+    "input": "He's my evil twin? But he doesn't even look that much like me; he's all fat and stuff. He's hella lying.\n",
+    "output": "Will you stop saying that word?!\n"
+  },
+  {
+    "input": "Will you stop saying that word?!\n",
+    "output": "Of course! My pet goldfish must be from the evil, opposite universe, too!\n"
+  },
+  {
+    "input": "Of course! My pet goldfish must be from the evil, opposite universe, too!\n",
+    "output": "Children, somewhere in South Park, something has created a door to the evil, parallel universe!\n"
+  },
+  {
+    "input": "Children, somewhere in South Park, something has created a door to the evil, parallel universe!\n",
+    "output": "This is amazing! I can't believe how nice you are, Chef.\n"
+  },
+  {
+    "input": "This is amazing! I can't believe how nice you are, Chef.\n",
+    "output": "How do you mean?\n"
+  },
+  {
+    "input": "How do you mean?\n",
+    "output": "In my world, you're a skinny, white insurance salesman.\n[Chef's jaw drops.]\n[Stan's house, daytime. The boys enter the living room and Stan places his fish on a small desk next to the sofa. Aunt Flo greets them.]\n"
+  },
+  {
+    "input": "In my world, you're a skinny, white insurance salesman.\n[Chef's jaw drops.]\n[Stan's house, daytime. The boys enter the living room and Stan places his fish on a small desk next to the sofa. Aunt Flo greets them.]\n",
+    "output": "[shaking] Ooh, hello, boys. I'm Stan's Aunt Flo.\n"
+  },
+  {
+    "input": "[shaking] Ooh, hello, boys. I'm Stan's Aunt Flo.\n",
+    "output": "Whoa! What's wrong with your head?! Why are you shaking like that?\n"
+  },
+  {
+    "input": "Whoa! What's wrong with your head?! Why are you shaking like that?\n",
+    "output": "[taps Kyle, then softly] Dude, that's not cool. She's got Parkinson's disease.\n"
+  },
+  {
+    "input": "[taps Kyle, then softly] Dude, that's not cool. She's got Parkinson's disease.\n",
+    "output": "Ey, sweet! [hops on her lap] Sweeeeeet! Check it out, guys; you don't even have to put a quarter in her.\n"
+  },
+  {
+    "input": "Ey, sweet! [hops on her lap] Sweeeeeet! Check it out, guys; you don't even have to put a quarter in her.\n",
+    "output": "Cartman!\n"
+  },
+  {
+    "input": "Cartman!\n",
+    "output": "Dude, this is hella cool.\n"
+  },
+  {
+    "input": "Dude, this is hella cool.\n",
+    "output": "Aunt Flo, where did you get this goldfish?\n"
+  },
+  {
+    "input": "Aunt Flo, where did you get this goldfish?\n",
+    "output": "Nn-oh. [Cartman hops off and rejoins the boys] I got it from the pet store, Stanley.\n"
+  },
+  {
+    "input": "Nn-oh. [Cartman hops off and rejoins the boys] I got it from the pet store, Stanley.\n",
+    "output": "Do you remember what pet store?\n"
+  },
+  {
+    "input": "Do you remember what pet store?\n",
+    "output": "Let's see. I believe it was called \"The Indian Burial Ground Pet Store,\" just outside of town.\n"
+  },
+  {
+    "input": "Let's see. I believe it was called \"The Indian Burial Ground Pet Store,\" just outside of town.\n",
+    "output": "Where?\n"
+  },
+  {
+    "input": "Where?\n",
+    "output": "I know I have the address written down somewhere. [Stan turns and takes Kyle aside] Let me look.\n"
+  },
+  {
+    "input": "I know I have the address written down somewhere. [Stan turns and takes Kyle aside] Let me look.\n",
+    "output": "That's it, dude. We've gotta take the spooky fish back to that pet store.\n"
+  },
+  {
+    "input": "That's it, dude. We've gotta take the spooky fish back to that pet store.\n",
+    "output": "Who's \"we\"? You got a turd in your pocket? I'm goin' home. I'm hella hungry!\n"
+  },
+  {
+    "input": "Who's \"we\"? You got a turd in your pocket? I'm goin' home. I'm hella hungry!\n",
+    "output": "I'll help you, Stan.\n"
+  },
+  {
+    "input": "I'll help you, Stan.\n",
+    "output": "Shut your god-damned mouth, fatass!\n"
+  },
+  {
+    "input": "Shut your god-damned mouth, fatass!\n",
+    "output": "Dude. Are you sure that fish is a murderer? It seemed like a normal fish to me.\n"
+  },
+  {
+    "input": "Dude. Are you sure that fish is a murderer? It seemed like a normal fish to me.\n",
+    "output": "Just help me take it back. Come on! [walks to Aunt Flo, who's now dead on the floor] Did you find the address, Aunt Flo- Aunt Flo!\n"
+  },
+  {
+    "input": "Just help me take it back. Come on! [walks to Aunt Flo, who's now dead on the floor] Did you find the address, Aunt Flo- Aunt Flo!\n",
+    "output": "[rushing in] Oh, Stanley, no! Not Aunt Flo! [holds her hands to her face]\n"
+  },
+  {
+    "input": "[rushing in] Oh, Stanley, no! Not Aunt Flo! [holds her hands to her face]\n",
+    "output": "It was the fish! [points to it]\n"
+  },
+  {
+    "input": "It was the fish! [points to it]\n",
+    "output": "[dragging Aunt Flo, mutters] Oh, what a good baby. What a good son I have. [the fish swims around]\n"
+  },
+  {
+    "input": "[dragging Aunt Flo, mutters] Oh, what a good baby. What a good son I have. [the fish swims around]\n",
+    "output": "Now we'll never know where that pet store is!\n"
+  },
+  {
+    "input": "Now we'll never know where that pet store is!\n",
+    "output": "There can't be that many pet stores in South Park, dude. [the fish jumps out and somehow pulls Kenny into the tank head first.]\n"
+  },
+  {
+    "input": "There can't be that many pet stores in South Park, dude. [the fish jumps out and somehow pulls Kenny into the tank head first.]\n",
+    "output": "Aunt Flo isn't from South Park. The pet store could be anywhere between here and Denver. [Kenny starts to gargle as the fish gives him the blender treatment. The water turns blood red as Kenny spins in the tank]\n"
+  },
+  {
+    "input": "Aunt Flo isn't from South Park. The pet store could be anywhere between here and Denver. [Kenny starts to gargle as the fish gives him the blender treatment. The water turns blood red as Kenny spins in the tank]\n",
+    "output": "Well, we'd better get working. Cartman, you go home and call all the pet stores in the phone book.\n"
+  },
+  {
+    "input": "Well, we'd better get working. Cartman, you go home and call all the pet stores in the phone book.\n",
+    "output": "Can do!\n"
+  },
+  {
+    "input": "Can do!\n",
+    "output": "Screw you! [the fish spits Kenny's corpse out of the tank and jumps back in. Kenny's left eye is gone and the water is clear]\n"
+  },
+  {
+    "input": "Screw you! [the fish spits Kenny's corpse out of the tank and jumps back in. Kenny's left eye is gone and the water is clear]\n",
+    "output": "[returning] It's all taken care of, Stanley- G'oh! [sees Kenny's corpse and reacts frantically. Rats rush in to munch on it] I've got such a good boy, such a handsome boy! [drags Kenny away. The fish looks on]\n"
+  },
+  {
+    "input": "[returning] It's all taken care of, Stanley- G'oh! [sees Kenny's corpse and reacts frantically. Rats rush in to munch on it] I've got such a good boy, such a handsome boy! [drags Kenny away. The fish looks on]\n",
+    "output": "[to Kyle] Come on, we're running out of time. [both walk by Randy trying to open a door]\n"
+  },
+  {
+    "input": "[to Kyle] Come on, we're running out of time. [both walk by Randy trying to open a door]\n",
+    "output": "[turns around] Hey, why is the basement door locked? [turns back and keeps trying]\n[The Marsh basement. Officer Barbrady is still tied up.]\n"
+  },
+  {
+    "input": "[turns around] Hey, why is the basement door locked? [turns back and keeps trying]\n[The Marsh basement. Officer Barbrady is still tied up.]\n",
+    "output": "-crack corn and I don't care\nJimmy crack corn and I don't care\nMy master's gone away\nJimmy crack corn and I don't care\n[Cartman's house. Both Cartmans are seated on the sofa. Evil Cartman has the phone book, Cartman has a pot pie.]\n"
+  },
+  {
+    "input": "-crack corn and I don't care\nJimmy crack corn and I don't care\nMy master's gone away\nJimmy crack corn and I don't care\n[Cartman's house. Both Cartmans are seated on the sofa. Evil Cartman has the phone book, Cartman has a pot pie.]\n",
+    "output": "I don't see any pet stores called \"Indian Burial Ground.\"\n"
+  },
+  {
+    "input": "I don't see any pet stores called \"Indian Burial Ground.\"\n",
+    "output": "Shut up, dude! I'm trying to watch TV!\n"
+  },
+  {
+    "input": "Shut up, dude! I'm trying to watch TV!\n",
+    "output": "And now, back to the Terrance and Phillip Halloween Special.\n"
+  },
+  {
+    "input": "And now, back to the Terrance and Phillip Halloween Special.\n",
+    "output": "[both are dressed as ghosts] (Fart)\n"
+  },
+  {
+    "input": "[both are dressed as ghosts] (Fart)\n",
+    "output": "[long pause] That fart was absolutely ghoulish, Terrance. [both pull out little daggers and stab each other as they laugh. Small spurts of blood ensue.]\n"
+  },
+  {
+    "input": "[long pause] That fart was absolutely ghoulish, Terrance. [both pull out little daggers and stab each other as they laugh. Small spurts of blood ensue.]\n",
+    "output": "Uh-ho-ho, man, that's hella funny! [slaps his thigh]\n"
+  },
+  {
+    "input": "Uh-ho-ho, man, that's hella funny! [slaps his thigh]\n",
+    "output": "[looks up] What's so funny about that?\n"
+  },
+  {
+    "input": "[looks up] What's so funny about that?\n",
+    "output": "Meow.\n"
+  },
+  {
+    "input": "Meow.\n",
+    "output": "No, Kitty, this is my pot pie!\n"
+  },
+  {
+    "input": "No, Kitty, this is my pot pie!\n",
+    "output": "Meow.\n"
+  },
+  {
+    "input": "Meow.\n",
+    "output": "No, Kitty, this is my pot pie, Kitty!\n"
+  },
+  {
+    "input": "No, Kitty, this is my pot pie, Kitty!\n",
+    "output": "[picks up Kitty] Who's my kitty? Who's my little kitty? My fluffy little cat. Yeah, that's good, yeah, that's my nice little kitty, yeah. [Kitty is purring loudly, happily now. Cartman is not amused.]\n"
+  },
+  {
+    "input": "[picks up Kitty] Who's my kitty? Who's my little kitty? My fluffy little cat. Yeah, that's good, yeah, that's my nice little kitty, yeah. [Kitty is purring loudly, happily now. Cartman is not amused.]\n",
+    "output": "NO KITTY, BAD KITTY!!! [Evil Cartman is startled as Kitty jumps away.] Hahaha, you-hoo suck, dude.\n[Night time, the Marsh house. Stan and Kyle are on the sofa. Sharon enters with another woman.]\n"
+  },
+  {
+    "input": "NO KITTY, BAD KITTY!!! [Evil Cartman is startled as Kitty jumps away.] Hahaha, you-hoo suck, dude.\n[Night time, the Marsh house. Stan and Kyle are on the sofa. Sharon enters with another woman.]\n",
+    "output": "Stanley. Kenny's mother is here. She's wondering if you've seen Kenny.\n"
+  },
+  {
+    "input": "Stanley. Kenny's mother is here. She's wondering if you've seen Kenny.\n",
+    "output": "[approaches him] You saw him, didn't you? [Sharon mouths and waves \"no\" to Stan] You saw my boy. [sits down on the sofa between the boys]\n"
+  },
+  {
+    "input": "[approaches him] You saw him, didn't you? [Sharon mouths and waves \"no\" to Stan] You saw my boy. [sits down on the sofa between the boys]\n",
+    "output": "Yeah, my goldfish-.\n"
+  },
+  {
+    "input": "Yeah, my goldfish-.\n",
+    "output": "Yeah. Stan just got a new goldfish and he wanted to show it to Kenny but, Kenny never came over.\n"
+  },
+  {
+    "input": "Yeah. Stan just got a new goldfish and he wanted to show it to Kenny but, Kenny never came over.\n",
+    "output": "[cradling Stan, distraught] My Kenny used to laugh and play. He was eight years old, just like you, my Kenny was.\n"
+  },
+  {
+    "input": "[cradling Stan, distraught] My Kenny used to laugh and play. He was eight years old, just like you, my Kenny was.\n",
+    "output": "I know.\n"
+  },
+  {
+    "input": "I know.\n",
+    "output": "You've gotta tell me what happened to him! [holds Stan up and throttles him] You have to know something!\n"
+  },
+  {
+    "input": "You've gotta tell me what happened to him! [holds Stan up and throttles him] You have to know something!\n",
+    "output": "[intervening] Mrs. McCormick, I'm going to have to ask you to leave! You've been drinking!\n"
+  },
+  {
+    "input": "[intervening] Mrs. McCormick, I'm going to have to ask you to leave! You've been drinking!\n",
+    "output": "That's right, I'm a little drunk. [Sharon escorts her to the door] You'd be drunk, too, if you'd lost your boy. [Evil Cartman enters as the women reach the door] My Kenny used to sing and dance, eh.\n"
+  },
+  {
+    "input": "That's right, I'm a little drunk. [Sharon escorts her to the door] You'd be drunk, too, if you'd lost your boy. [Evil Cartman enters as the women reach the door] My Kenny used to sing and dance, eh.\n",
+    "output": "[at the sofa] You guys, I found the pet store!\n"
+  },
+  {
+    "input": "[at the sofa] You guys, I found the pet store!\n",
+    "output": "Come on, let's go! [takes the fish with him and stops before Sharon] Mom, I know you think I did all this, but I'm gonna prove to you it was this fucking fish!\n"
+  },
+  {
+    "input": "Come on, let's go! [takes the fish with him and stops before Sharon] Mom, I know you think I did all this, but I'm gonna prove to you it was this fucking fish!\n",
+    "output": "I believe you, sweetheart. [Stan goes outside, and she addresses Kyle and Evil Cartman] Run from him, boys. Run and don't stop!\n[A stormy night, at the pet store. The remains of a covered wagon are next to it. The three boys enter.]\n"
+  },
+  {
+    "input": "I believe you, sweetheart. [Stan goes outside, and she addresses Kyle and Evil Cartman] Run from him, boys. Run and don't stop!\n[A stormy night, at the pet store. The remains of a covered wagon are next to it. The three boys enter.]\n",
+    "output": "Can I help you boys?\n"
+  },
+  {
+    "input": "Can I help you boys?\n",
+    "output": "I wanna return a fish.\n"
+  },
+  {
+    "input": "I wanna return a fish.\n",
+    "output": "[pounds the counter with both fists] Damn it!\n"
+  },
+  {
+    "input": "[pounds the counter with both fists] Damn it!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "That's the ninth return I've had this week! What's wrong with it? [holds his palms out] Ap! Let me guess. It killed a bunch of people, right?\n"
+  },
+  {
+    "input": "That's the ninth return I've had this week! What's wrong with it? [holds his palms out] Ap! Let me guess. It killed a bunch of people, right?\n",
+    "output": "Yeah, dude.\n"
+  },
+  {
+    "input": "Yeah, dude.\n",
+    "output": "Damn it! [pounds with the right fist] Just like all the other returns! [the camera pulls back to show them. They all groan and have red, evil eyes. One bird blinks, and its eyes glow]\n"
+  },
+  {
+    "input": "Damn it! [pounds with the right fist] Just like all the other returns! [the camera pulls back to show them. They all groan and have red, evil eyes. One bird blinks, and its eyes glow]\n",
+    "output": "Dude, why is your store called \"The Indian Burial Ground Pet Store?\"\n"
+  },
+  {
+    "input": "Dude, why is your store called \"The Indian Burial Ground Pet Store?\"\n",
+    "output": "Well, there was an Indian burial ground here before I bought it.\n"
+  },
+  {
+    "input": "Well, there was an Indian burial ground here before I bought it.\n",
+    "output": "So you just- built your store on top of an Indian burial ground?\n"
+  },
+  {
+    "input": "So you just- built your store on top of an Indian burial ground?\n",
+    "output": "Oh, hell no! First I dug up all the bodies, pissed on 'em, then buried them again upside down.\n"
+  },
+  {
+    "input": "Oh, hell no! First I dug up all the bodies, pissed on 'em, then buried them again upside down.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "Why? I don't know. I was drunk.\n"
+  },
+  {
+    "input": "Why? I don't know. I was drunk.\n",
+    "output": "We think that when you did that, you opened up a doorway to an evil, parallel universe.\n"
+  },
+  {
+    "input": "We think that when you did that, you opened up a doorway to an evil, parallel universe.\n",
+    "output": "Well, that certainly would explain a lot.\n"
+  },
+  {
+    "input": "Well, that certainly would explain a lot.\n",
+    "output": "Like what?\n"
+  },
+  {
+    "input": "Like what?\n",
+    "output": "Well, like this. [opens a door marked, \"Employees Only.\" A bright, flashing portal appears] I've been wondering what the hell this was.\n[Stan's house. Randy finally opened the door to the basement and brings down some items.]\n"
+  },
+  {
+    "input": "Well, like this. [opens a door marked, \"Employees Only.\" A bright, flashing portal appears] I've been wondering what the hell this was.\n[Stan's house. Randy finally opened the door to the basement and brings down some items.]\n",
+    "output": "Hello, Mr. Marsh. Top of the evening to you. [Randy turns to see Officer Barbrady, then rushes up the stairs] Okay, bye, then.\n[The kitchen. Sharon is preparing cookie dough. Randy enters.]\n"
+  },
+  {
+    "input": "Hello, Mr. Marsh. Top of the evening to you. [Randy turns to see Officer Barbrady, then rushes up the stairs] Okay, bye, then.\n[The kitchen. Sharon is preparing cookie dough. Randy enters.]\n",
+    "output": "Sharon?\n"
+  },
+  {
+    "input": "Sharon?\n",
+    "output": "Yes, hon?\n"
+  },
+  {
+    "input": "Yes, hon?\n",
+    "output": "There's a policeman being held captive in our basement.\n"
+  },
+  {
+    "input": "There's a policeman being held captive in our basement.\n",
+    "output": "[rolling the dough] Yes, hon. I had to restrain him so he wouldn't find the bodies in the back yard and take our baby away. [begins cutting out cookies in star shapes.]\n"
+  },
+  {
+    "input": "[rolling the dough] Yes, hon. I had to restrain him so he wouldn't find the bodies in the back yard and take our baby away. [begins cutting out cookies in star shapes.]\n",
+    "output": "[ponders] Why'd you take his pants off? [long pause. Sharon makes more cookies] Sh-sharon, why'd you take his- pants off?\n"
+  },
+  {
+    "input": "[ponders] Why'd you take his pants off? [long pause. Sharon makes more cookies] Sh-sharon, why'd you take his- pants off?\n",
+    "output": "[sobs. Randy comes over] Oh, Randy, I just don't know what to do anymore.\n"
+  },
+  {
+    "input": "[sobs. Randy comes over] Oh, Randy, I just don't know what to do anymore.\n",
+    "output": "What is it?\n"
+  },
+  {
+    "input": "What is it?\n",
+    "output": "I just ughhhh, I can't believe that Aunt Flo is gone, that she won't be visiting me ever again.\n"
+  },
+  {
+    "input": "I just ughhhh, I can't believe that Aunt Flo is gone, that she won't be visiting me ever again.\n",
+    "output": "Oh. Uh, well, don't- think of it as an end, think of it as a new beginning. Now, could you fill me in on the dead bodies and captive policeman stuff real quick?\n[Back at the pet store.]\n"
+  },
+  {
+    "input": "Oh. Uh, well, don't- think of it as an end, think of it as a new beginning. Now, could you fill me in on the dead bodies and captive policeman stuff real quick?\n[Back at the pet store.]\n",
+    "output": "Look, pal. This is very simple. All I want to do is return this fish.\n"
+  },
+  {
+    "input": "Look, pal. This is very simple. All I want to do is return this fish.\n",
+    "output": "I can't give you your money back.\n"
+  },
+  {
+    "input": "I can't give you your money back.\n",
+    "output": "I don't care, dude! I just want this fish away from me!\n"
+  },
+  {
+    "input": "I don't care, dude! I just want this fish away from me!\n",
+    "output": "No! I won't take it back!\n"
+  },
+  {
+    "input": "No! I won't take it back!\n",
+    "output": "Listen, friend. You can't sell people pets like this. You have to have a sign that says, \"Warning: these fish are from an evil, parallel universe.\" Now, it's not our fault you disrespected the bodies of this land's native people, but by golly [pounds his right hand with his left fist], you're gonna take this fish back.\n"
+  },
+  {
+    "input": "Listen, friend. You can't sell people pets like this. You have to have a sign that says, \"Warning: these fish are from an evil, parallel universe.\" Now, it's not our fault you disrespected the bodies of this land's native people, but by golly [pounds his right hand with his left fist], you're gonna take this fish back.\n",
+    "output": "All right, you win.\n"
+  },
+  {
+    "input": "All right, you win.\n",
+    "output": "Wow! Thanks, evil Cartman! [the clerk takes the fish from Stan]\n"
+  },
+  {
+    "input": "Wow! Thanks, evil Cartman! [the clerk takes the fish from Stan]\n",
+    "output": "[turns to face the clerk again] And sir, can I make a suggestion? [the clerk looks at him] Move your store, and let these great people of the Wampanoag rest in peace.\n"
+  },
+  {
+    "input": "[turns to face the clerk again] And sir, can I make a suggestion? [the clerk looks at him] Move your store, and let these great people of the Wampanoag rest in peace.\n",
+    "output": "You kick ass, evil Cartman!\n"
+  },
+  {
+    "input": "You kick ass, evil Cartman!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "You know what I like best about you? You don't say, \"hella,\" like our Cartman does. I swear, if he says that one more time, I'm gonna kill him! [the boys exit the store, and the skies are clear]\n"
+  },
+  {
+    "input": "You know what I like best about you? You don't say, \"hella,\" like our Cartman does. I swear, if he says that one more time, I'm gonna kill him! [the boys exit the store, and the skies are clear]\n",
+    "output": "No, Kyle. Murder is never an answer. [the clerk puts the fish up on a shelf and the employee door opens, the doorway glowing brightly]\n"
+  },
+  {
+    "input": "No, Kyle. Murder is never an answer. [the clerk puts the fish up on a shelf and the employee door opens, the doorway glowing brightly]\n",
+    "output": "[recoils] What the-? [two figures appear: Evil Stan and Evil Kyle]\n"
+  },
+  {
+    "input": "[recoils] What the-? [two figures appear: Evil Stan and Evil Kyle]\n",
+    "output": "He was here! Cartman was just here!\n"
+  },
+  {
+    "input": "He was here! Cartman was just here!\n",
+    "output": "Who are you?\n"
+  },
+  {
+    "input": "Who are you?\n",
+    "output": "We're looking for Cartman. The trail ended here. Where is he?\n"
+  },
+  {
+    "input": "We're looking for Cartman. The trail ended here. Where is he?\n",
+    "output": "I don't know who you mean?\n"
+  },
+  {
+    "input": "I don't know who you mean?\n",
+    "output": "[pulls out a big bat] Maybe this will jog your memory! [starts releasing the evil returns by bashing in the cages]\n"
+  },
+  {
+    "input": "[pulls out a big bat] Maybe this will jog your memory! [starts releasing the evil returns by bashing in the cages]\n",
+    "output": "No! Stop! You don't know what you're doing! Those pets are evil!\n[Several identical images of Barbra flash through space, one of them towards the camera, and the boys are walking down Main Street.]\n"
+  },
+  {
+    "input": "No! Stop! You don't know what you're doing! Those pets are evil!\n[Several identical images of Barbra flash through space, one of them towards the camera, and the boys are walking down Main Street.]\n",
+    "output": "I'm sure glad that's over with. Now I can sleep at night.\n"
+  },
+  {
+    "input": "I'm sure glad that's over with. Now I can sleep at night.\n",
+    "output": "Hey, you guys. We still have time to enter the pumpkin-carving contest.\n"
+  },
+  {
+    "input": "Hey, you guys. We still have time to enter the pumpkin-carving contest.\n",
+    "output": "Hey, yeah! I almost forgot.\n"
+  },
+  {
+    "input": "Hey, yeah! I almost forgot.\n",
+    "output": "Come on! I bet that together we can make the best pumpkin ever!\n"
+  },
+  {
+    "input": "Come on! I bet that together we can make the best pumpkin ever!\n",
+    "output": "You know, evil Cartman? I like you a lot better than our Cartman.\n"
+  },
+  {
+    "input": "You know, evil Cartman? I like you a lot better than our Cartman.\n",
+    "output": "Yeah, you're cool. And you don't say \"hella.\"\n"
+  },
+  {
+    "input": "Yeah, you're cool. And you don't say \"hella.\"\n",
+    "output": "Yuh, thanks, you guys. I certainly like you a lot more than in my evil, parallel universe. [the boys turn to see a man attacked by two dogs, a cat, two ducks, and a vulture]\n[The boys resume walking.]\n"
+  },
+  {
+    "input": "Yuh, thanks, you guys. I certainly like you a lot more than in my evil, parallel universe. [the boys turn to see a man attacked by two dogs, a cat, two ducks, and a vulture]\n[The boys resume walking.]\n",
+    "output": "Dude, where are we going to find a pumpkin to carve?\n"
+  },
+  {
+    "input": "Dude, where are we going to find a pumpkin to carve?\n",
+    "output": "Let's use Kenny's squash.\n"
+  },
+  {
+    "input": "Let's use Kenny's squash.\n",
+    "output": "Yeah. You know, I never thought it was such a bad, little squash. It just needs some tender, loving care.\n[Cartman's house. Cartman is watching TV in the dark. Onscreen, Phillip is in a cemetery standing next to a tombstone that might be Terrance's, and has three roses in his hand.]\n"
+  },
+  {
+    "input": "Yeah. You know, I never thought it was such a bad, little squash. It just needs some tender, loving care.\n[Cartman's house. Cartman is watching TV in the dark. Onscreen, Phillip is in a cemetery standing next to a tombstone that might be Terrance's, and has three roses in his hand.]\n",
+    "output": "[as a ghost, walks up to Phillip] Boo!\n"
+  },
+  {
+    "input": "[as a ghost, walks up to Phillip] Boo!\n",
+    "output": "[jumps up] Aaaaagh!\n"
+  },
+  {
+    "input": "[jumps up] Aaaaagh!\n",
+    "output": "Aw, man, this movie is hella scary. [click. The front door flies open and Evil Stan and Evil Kyle burst in]\n"
+  },
+  {
+    "input": "Aw, man, this movie is hella scary. [click. The front door flies open and Evil Stan and Evil Kyle burst in]\n",
+    "output": "Aha! There you are, Cartman!\n"
+  },
+  {
+    "input": "Aha! There you are, Cartman!\n",
+    "output": "P'h. Nice costume, you guys. You spent about a buck fifty on those?\n"
+  },
+  {
+    "input": "P'h. Nice costume, you guys. You spent about a buck fifty on those?\n",
+    "output": "We're here to take you back, Goody Two-Shoes!\n"
+  },
+  {
+    "input": "We're here to take you back, Goody Two-Shoes!\n",
+    "output": "Oh? I've got a better idea. Why don't you two go fuck yourselves?\n"
+  },
+  {
+    "input": "Oh? I've got a better idea. Why don't you two go fuck yourselves?\n",
+    "output": "[he and Evil Kyle look at each other, then] Hey! What's wrong with you, Cartman?\n"
+  },
+  {
+    "input": "[he and Evil Kyle look at each other, then] Hey! What's wrong with you, Cartman?\n",
+    "output": "What's wrong with me? Let's see. Uum. [checks them off] I hate you guys. You're hella stupid.\n"
+  },
+  {
+    "input": "What's wrong with me? Let's see. Uum. [checks them off] I hate you guys. You're hella stupid.\n",
+    "output": "[he and Evil Stan go over to grab him] Come on, Mr. Wholesome! We're taking you back to our universe!\n"
+  },
+  {
+    "input": "[he and Evil Stan go over to grab him] Come on, Mr. Wholesome! We're taking you back to our universe!\n",
+    "output": "Don't touch me! [punches Evil Stan, who releases him]\n"
+  },
+  {
+    "input": "Don't touch me! [punches Evil Stan, who releases him]\n",
+    "output": "What the hell's goin' on?! Cartman never hits us!\n"
+  },
+  {
+    "input": "What the hell's goin' on?! Cartman never hits us!\n",
+    "output": "Hall right! Just stand there, Cartman! This gingerification gun will send you back to our universe!\n"
+  },
+  {
+    "input": "Hall right! Just stand there, Cartman! This gingerification gun will send you back to our universe!\n",
+    "output": "Oh, right! You guys are from the evil, parallel universe?!\n"
+  },
+  {
+    "input": "Oh, right! You guys are from the evil, parallel universe?!\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "Oh, it's about freakin' time you showed up! You don't want me, you want that impostor Cartman! Come on, I'll show you. [leads them out the door]\n[At the Pumpkin Carving Contest. Mayor McDaniels is dressed as a Puritan woman. Johnson holds a ball on a platter. They are on stage, which is adorned with two spiderwebs and a bat in each one.]\n"
+  },
+  {
+    "input": "Oh, it's about freakin' time you showed up! You don't want me, you want that impostor Cartman! Come on, I'll show you. [leads them out the door]\n[At the Pumpkin Carving Contest. Mayor McDaniels is dressed as a Puritan woman. Johnson holds a ball on a platter. They are on stage, which is adorned with two spiderwebs and a bat in each one.]\n",
+    "output": "And the winner is: Squash-O-Lantern, by Stan Marsh, Kyle Broflovski, and the evil Eric Cartman from the parallel universe! \"The Winning Entry! Squash in cobweb, amid a tiny graveyard and flanked by four tiny bats\"\n"
+  },
+  {
+    "input": "And the winner is: Squash-O-Lantern, by Stan Marsh, Kyle Broflovski, and the evil Eric Cartman from the parallel universe! \"The Winning Entry! Squash in cobweb, amid a tiny graveyard and flanked by four tiny bats\"\n",
+    "output": "[the crowd cheers] We won, dude!\n"
+  },
+  {
+    "input": "[the crowd cheers] We won, dude!\n",
+    "output": "Hooray!\n"
+  },
+  {
+    "input": "Hooray!\n",
+    "output": "You boys win the Halloween Chocolate Ball!\n"
+  },
+  {
+    "input": "You boys win the Halloween Chocolate Ball!\n",
+    "output": "Oh, no! [spots Cartman, Evil Stan and Evil Kyle] Stan and Kyle have come to take my back to my world, and I don't wanna go back!\n"
+  },
+  {
+    "input": "Oh, no! [spots Cartman, Evil Stan and Evil Kyle] Stan and Kyle have come to take my back to my world, and I don't wanna go back!\n",
+    "output": "Don't worry, Evil Cartman. You're staying with us! [the two groups face each other]\n"
+  },
+  {
+    "input": "Don't worry, Evil Cartman. You're staying with us! [the two groups face each other]\n",
+    "output": "[to Evil Kyle] Now, zap his hella ass back to your- hella universe!\n"
+  },
+  {
+    "input": "[to Evil Kyle] Now, zap his hella ass back to your- hella universe!\n",
+    "output": "Stop saying \"hella,\" Cartman!\n"
+  },
+  {
+    "input": "Stop saying \"hella,\" Cartman!\n",
+    "output": "[to Evil Cartman] Thought you could get away from us, huh, Cartman?!\n"
+  },
+  {
+    "input": "[to Evil Cartman] Thought you could get away from us, huh, Cartman?!\n",
+    "output": "[pleading] Please!\n"
+  },
+  {
+    "input": "[pleading] Please!\n",
+    "output": "Leave him alone, butthole!\n"
+  },
+  {
+    "input": "Leave him alone, butthole!\n",
+    "output": "Shut your trap, kid!\n"
+  },
+  {
+    "input": "Shut your trap, kid!\n",
+    "output": "Why don't you guys take our Cartman back? He's more like you anyway.\n"
+  },
+  {
+    "input": "Why don't you guys take our Cartman back? He's more like you anyway.\n",
+    "output": "Ey, you backstabbin' sellout!\n"
+  },
+  {
+    "input": "Ey, you backstabbin' sellout!\n",
+    "output": "It's time, Cartman! Prepare for gingerification! [sets the gun]\n"
+  },
+  {
+    "input": "It's time, Cartman! Prepare for gingerification! [sets the gun]\n",
+    "output": "Well, good-bye, you guys. It's been fun. [Stan and Kyle look down. The evil pets return to South Park and start attacking the townsfolk. They scream as they are being attacked.]\n"
+  },
+  {
+    "input": "Well, good-bye, you guys. It's been fun. [Stan and Kyle look down. The evil pets return to South Park and start attacking the townsfolk. They scream as they are being attacked.]\n",
+    "output": "Oh, what now?!\n"
+  },
+  {
+    "input": "Oh, what now?!\n",
+    "output": "It's the evil pets [the attack continues, and a vulture knocks the gingerification gun out of Evil Stan's hands.]\n"
+  },
+  {
+    "input": "It's the evil pets [the attack continues, and a vulture knocks the gingerification gun out of Evil Stan's hands.]\n",
+    "output": "The gingerification gun!\n"
+  },
+  {
+    "input": "The gingerification gun!\n",
+    "output": "[picks it up] Get to the stage! [Stan, Kyle, and Evil Cartman rush up. Stan's spooky fish attacks a man and kills him]\n"
+  },
+  {
+    "input": "[picks it up] Get to the stage! [Stan, Kyle, and Evil Cartman rush up. Stan's spooky fish attacks a man and kills him]\n",
+    "output": "[seeing what just happened] Oh, dear. It really was Stan's fish that killed those people!\n"
+  },
+  {
+    "input": "[seeing what just happened] Oh, dear. It really was Stan's fish that killed those people!\n",
+    "output": "[all six boys are on stage] Give me that gun, kid!\n"
+  },
+  {
+    "input": "[all six boys are on stage] Give me that gun, kid!\n",
+    "output": "Up yours, evil twin! [zaps him back to the evil, parallel universe.]\n"
+  },
+  {
+    "input": "Up yours, evil twin! [zaps him back to the evil, parallel universe.]\n",
+    "output": "[shrinks as Evil Kyle watches] Noooooo! [vanishes]\n"
+  },
+  {
+    "input": "[shrinks as Evil Kyle watches] Noooooo! [vanishes]\n",
+    "output": "[zapped, he shrinks too] Noooooo! [vanishes]\n"
+  },
+  {
+    "input": "[zapped, he shrinks too] Noooooo! [vanishes]\n",
+    "output": "All right, now you can try to send this Bozo through and the whole mess'll be over with!\n"
+  },
+  {
+    "input": "All right, now you can try to send this Bozo through and the whole mess'll be over with!\n",
+    "output": "Sorry Cartman. We like Evil Cartman better. See ya. [takes aim]\n"
+  },
+  {
+    "input": "Sorry Cartman. We like Evil Cartman better. See ya. [takes aim]\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "We can't deal with you saying \"hella\" anymore, Cartman! You're going to the other universe! [Cartman takes on Evil Cartman, and both wrestle. Cartman rips off Evil Cartman's mustache and beard, and kicks him. Both of them then stand up, indistinguishable. Stan pulls the gingerification gun back]\n"
+  },
+  {
+    "input": "We can't deal with you saying \"hella\" anymore, Cartman! You're going to the other universe! [Cartman takes on Evil Cartman, and both wrestle. Cartman rips off Evil Cartman's mustache and beard, and kicks him. Both of them then stand up, indistinguishable. Stan pulls the gingerification gun back]\n",
+    "output": "Which one is the good Cartman?\n"
+  },
+  {
+    "input": "Which one is the good Cartman?\n",
+    "output": "I am!\n"
+  },
+  {
+    "input": "I am!\n",
+    "output": "Stop wasting time, Cartman! We have to send one of you back to the evil universe!\n"
+  },
+  {
+    "input": "Stop wasting time, Cartman! We have to send one of you back to the evil universe!\n",
+    "output": "Yeah! Now, which one of you is the Cartman we can't stand?!\n"
+  },
+  {
+    "input": "Yeah! Now, which one of you is the Cartman we can't stand?!\n",
+    "output": "[pointing to the other one] He is!\n"
+  },
+  {
+    "input": "[pointing to the other one] He is!\n",
+    "output": "Time is running out. You'll have to destroy us both.\n"
+  },
+  {
+    "input": "Time is running out. You'll have to destroy us both.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "It's the only way you can be sure. We have to both go, for the good of the world.\n"
+  },
+  {
+    "input": "It's the only way you can be sure. We have to both go, for the good of the world.\n",
+    "output": "[Stan zaps him] Noooo! Screw you guys! [disappears]\n"
+  },
+  {
+    "input": "[Stan zaps him] Noooo! Screw you guys! [disappears]\n",
+    "output": "How did you guys know?\n"
+  },
+  {
+    "input": "How did you guys know?\n",
+    "output": "Our Cartman would never say anything like that.\n"
+  },
+  {
+    "input": "Our Cartman would never say anything like that.\n",
+    "output": "Haaa hahaha! You guys are hella stupid! I knew you would fall for that!\n"
+  },
+  {
+    "input": "Haaa hahaha! You guys are hella stupid! I knew you would fall for that!\n",
+    "output": "Oh no, dude!\n"
+  },
+  {
+    "input": "Oh no, dude!\n",
+    "output": "You tricked us, Cartman!\n"
+  },
+  {
+    "input": "You tricked us, Cartman!\n",
+    "output": "That's right, I did!\nYou guys are hella stupid\nYou guys are hella lame\nYou guys are hella dumb\nHella hella hella!\n"
+  },
+  {
+    "input": "That's right, I did!\nYou guys are hella stupid\nYou guys are hella lame\nYou guys are hella dumb\nHella hella hella!\n",
+    "output": "Damn it!\n[On the street, Randy walks with Officer Barbrady. The evil pets are still attacking the townsfolk.]\n"
+  },
+  {
+    "input": "Damn it!\n[On the street, Randy walks with Officer Barbrady. The evil pets are still attacking the townsfolk.]\n",
+    "output": "I'm sorry my wife held you captive, officer. She's been upset 'cause her Aunt Flo isn't gonna visit her anymore.\n"
+  },
+  {
+    "input": "I'm sorry my wife held you captive, officer. She's been upset 'cause her Aunt Flo isn't gonna visit her anymore.\n",
+    "output": "Oh, I understand. I remember when my wife stopped getting her monthly visitor.\n"
+  },
+  {
+    "input": "Oh, I understand. I remember when my wife stopped getting her monthly visitor.\n",
+    "output": "Uuuh, do you want your pants back?\n"
+  }
+]

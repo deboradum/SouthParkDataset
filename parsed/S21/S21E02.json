@@ -1,0 +1,982 @@
+[
+  {
+    "input": "",
+    "output": "Put It Down\n\n[The school auditorium, day. The students are gathered there to listen to some performances. PC Principal is on stage next to a piano and another mic.]\n"
+  },
+  {
+    "input": "Put It Down\n\n[The school auditorium, day. The students are gathered there to listen to some performances. PC Principal is on stage next to a piano and another mic.]\n",
+    "output": "[taps the mic six times] All right everyone, listen up. Today we're gonna have a performance by one of our students who has written a song. The song is about his feelings towards the current political climate with North Korea. Put your hands together for Tweek. [the kids applaud, PC Principal exits stage left, and Tweek approaches the piano from stage right with some sheet music. He sets up the music and gets ready to play. He plays some angry, jarring notes on the piano as he screams]\n"
+  },
+  {
+    "input": "[taps the mic six times] All right everyone, listen up. Today we're gonna have a performance by one of our students who has written a song. The song is about his feelings towards the current political climate with North Korea. Put your hands together for Tweek. [the kids applaud, PC Principal exits stage left, and Tweek approaches the piano from stage right with some sheet music. He sets up the music and gets ready to play. He plays some angry, jarring notes on the piano as he screams]\n",
+    "output": "We're all gonna die! They have nuclear missiles! Wuh! Waaaa! Why are you just sitting there, doing nothing?! [stops playing and faces the audience] We have to get out of here! North Korea wants to kill us all and our President keeps making it worse! [walks to the front of the stage] Why are you just sitting there?! [returns to the piano and resumes playing] Why are you all acting like nothing's wrooong?! North Korea is going to bomb us! We are all dead! [Stan and Kyle glance at each other] We have to do something! Do something! Do something! [screams, leaves the piano, and exits stage right]\n"
+  },
+  {
+    "input": "We're all gonna die! They have nuclear missiles! Wuh! Waaaa! Why are you just sitting there, doing nothing?! [stops playing and faces the audience] We have to get out of here! North Korea wants to kill us all and our President keeps making it worse! [walks to the front of the stage] Why are you just sitting there?! [returns to the piano and resumes playing] Why are you all acting like nothing's wrooong?! North Korea is going to bomb us! We are all dead! [Stan and Kyle glance at each other] We have to do something! Do something! Do something! [screams, leaves the piano, and exits stage right]\n",
+    "output": "[returns to the stage] All right. Next up we have Hannah Williams with her rendition of \"Wheels On The Bus.\" [she enters from stage right looking back at Tweek. PC Principal hands her the mic]\n"
+  },
+  {
+    "input": "[returns to the stage] All right. Next up we have Hannah Williams with her rendition of \"Wheels On The Bus.\" [she enters from stage right looking back at Tweek. PC Principal hands her the mic]\n",
+    "output": "[emotional] The wheels on the bus go round and round...\n[The school cafeteria, lunchtime. At table are seated Jimmy, Tolkien, Kenny, Cartman, Stan, Craig, Kyle, and Butters.]\n"
+  },
+  {
+    "input": "[emotional] The wheels on the bus go round and round...\n[The school cafeteria, lunchtime. At table are seated Jimmy, Tolkien, Kenny, Cartman, Stan, Craig, Kyle, and Butters.]\n",
+    "output": "Dude, Craig, you've gotta get Tweek to get a hold of himself. He's freaking everybody out at school.\n"
+  },
+  {
+    "input": "Dude, Craig, you've gotta get Tweek to get a hold of himself. He's freaking everybody out at school.\n",
+    "output": "What am I supposed to do?\n"
+  },
+  {
+    "input": "What am I supposed to do?\n",
+    "output": "He's your boyfriend, dude.\n"
+  },
+  {
+    "input": "He's your boyfriend, dude.\n",
+    "output": "He's not gonna listen to me. He never does when he's emotional.\n"
+  },
+  {
+    "input": "He's not gonna listen to me. He never does when he's emotional.\n",
+    "output": "[lunching on chicken nuggets and fries] Craig, let me tall you about relationships, okay? [eats a fry] If you don't have some fuckin' balls, you're not gonna get anywhere. Doesn't matter if they're gay balls or straight balls. If you don't take control of your side of the relationship, you get walked all over-!\n"
+  },
+  {
+    "input": "[lunching on chicken nuggets and fries] Craig, let me tall you about relationships, okay? [eats a fry] If you don't have some fuckin' balls, you're not gonna get anywhere. Doesn't matter if they're gay balls or straight balls. If you don't take control of your side of the relationship, you get walked all over-!\n",
+    "output": "[approaching] Hey babe, how are you doin'?\n"
+  },
+  {
+    "input": "[approaching] Hey babe, how are you doin'?\n",
+    "output": "[suddenly disinterested] Oh hey baby, what's going on? [Stan, Craig, Kyle, and Butters take turns glancing at each other]\n"
+  },
+  {
+    "input": "[suddenly disinterested] Oh hey baby, what's going on? [Stan, Craig, Kyle, and Butters take turns glancing at each other]\n",
+    "output": "We still on for recess?\n"
+  },
+  {
+    "input": "We still on for recess?\n",
+    "output": "Yep, I'll be there\n"
+  },
+  {
+    "input": "Yep, I'll be there\n",
+    "output": "'K babe, love you. [walks away. Craig is stunned at what just happened]\n"
+  },
+  {
+    "input": "'K babe, love you. [walks away. Craig is stunned at what just happened]\n",
+    "output": "I thought you said you broke up with Heidi.\n"
+  },
+  {
+    "input": "I thought you said you broke up with Heidi.\n",
+    "output": "I decided to give her one more chance.\n"
+  },
+  {
+    "input": "I decided to give her one more chance.\n",
+    "output": "But you said she was mentally abusive.\n"
+  },
+  {
+    "input": "But you said she was mentally abusive.\n",
+    "output": "She is mentally abusive.\n"
+  },
+  {
+    "input": "She is mentally abusive.\n",
+    "output": "So then why did you take her back?\n"
+  },
+  {
+    "input": "So then why did you take her back?\n",
+    "output": "Because she said she was gonna kill herself, all right guys? There. I broke up with her and she called me being all like \"I can't live without you, I'm scared of what I'm gonna do to myself? Oh God.\" The bitch is crazy. What am I supposed to do?\n[The school hallway, later. Tweek is at his locker putting books away, but he's in panic mode. He slams the locker door and scares himself.]\n"
+  },
+  {
+    "input": "Because she said she was gonna kill herself, all right guys? There. I broke up with her and she called me being all like \"I can't live without you, I'm scared of what I'm gonna do to myself? Oh God.\" The bitch is crazy. What am I supposed to do?\n[The school hallway, later. Tweek is at his locker putting books away, but he's in panic mode. He slams the locker door and scares himself.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[approaches] Tweek.\n"
+  },
+  {
+    "input": "[approaches] Tweek.\n",
+    "output": "[startled, turns to face him] AAAH!\n"
+  },
+  {
+    "input": "[startled, turns to face him] AAAH!\n",
+    "output": "Dude, come on, you've gotta settle down.\n"
+  },
+  {
+    "input": "Dude, come on, you've gotta settle down.\n",
+    "output": "I can't settle down! We're all gonna die!\n"
+  },
+  {
+    "input": "I can't settle down! We're all gonna die!\n",
+    "output": "[calmly] We're not all gonna die, you're overreacting. Everything's fine, okay?\n"
+  },
+  {
+    "input": "[calmly] We're not all gonna die, you're overreacting. Everything's fine, okay?\n",
+    "output": "[hears a tweet and pulls out his phone. Now frantic] Oh God! The President tweeted that North Korea doesn't have the guts to attack us! Why would he say that?! He's making everything worse!\n"
+  },
+  {
+    "input": "[hears a tweet and pulls out his phone. Now frantic] Oh God! The President tweeted that North Korea doesn't have the guts to attack us! Why would he say that?! He's making everything worse!\n",
+    "output": "Tweek-\n"
+  },
+  {
+    "input": "Tweek-\n",
+    "output": "But North Koreans are gonna think we all agree with the President!\n"
+  },
+  {
+    "input": "But North Koreans are gonna think we all agree with the President!\n",
+    "output": "Okay, so how about you write your Congressman a letter?\n"
+  },
+  {
+    "input": "Okay, so how about you write your Congressman a letter?\n",
+    "output": "...That won't help anything! North Korea wants us dead!\n"
+  },
+  {
+    "input": "...That won't help anything! North Korea wants us dead!\n",
+    "output": "Okay, so write a letter to the North Koreans.\n"
+  },
+  {
+    "input": "Okay, so write a letter to the North Koreans.\n",
+    "output": "I can't write in Korean and they all think we're war-hungry anyway!\n"
+  },
+  {
+    "input": "I can't write in Korean and they all think we're war-hungry anyway!\n",
+    "output": "Okay, well why don't you just send something nice to the North Koreans?\n"
+  },
+  {
+    "input": "Okay, well why don't you just send something nice to the North Koreans?\n",
+    "output": "Errrrg!\n"
+  },
+  {
+    "input": "Errrrg!\n",
+    "output": "It will make you feel better, babe.\n"
+  },
+  {
+    "input": "It will make you feel better, babe.\n",
+    "output": "Send something, like what?\n"
+  },
+  {
+    "input": "Send something, like what?\n",
+    "output": "I don't know, like... make some croissants or something?\n"
+  },
+  {
+    "input": "I don't know, like... make some croissants or something?\n",
+    "output": "I don't know how to make croissants!\n"
+  },
+  {
+    "input": "I don't know how to make croissants!\n",
+    "output": "Well, what do you know how to make?\n"
+  },
+  {
+    "input": "Well, what do you know how to make?\n",
+    "output": "Uunnggc, [slowly] cupcakes?\n"
+  },
+  {
+    "input": "Uunnggc, [slowly] cupcakes?\n",
+    "output": "All right, go home and make some cupcakes, honey.\n"
+  },
+  {
+    "input": "All right, go home and make some cupcakes, honey.\n",
+    "output": "Okay. [turns and heads out. Craig watches him leave]\n[At the same time, somewhere else in the hallways, Stan is putting his books away in his locker when Heidi approaches him.]\n"
+  },
+  {
+    "input": "Okay. [turns and heads out. Craig watches him leave]\n[At the same time, somewhere else in the hallways, Stan is putting his books away in his locker when Heidi approaches him.]\n",
+    "output": "Hey Stan?\n"
+  },
+  {
+    "input": "Hey Stan?\n",
+    "output": "[looks back at her] Yeah?\n"
+  },
+  {
+    "input": "[looks back at her] Yeah?\n",
+    "output": "Can I talk to you about Eric?\n"
+  },
+  {
+    "input": "Can I talk to you about Eric?\n",
+    "output": "Cartman? Okay.\n"
+  },
+  {
+    "input": "Cartman? Okay.\n",
+    "output": "I just wanna make sure he's all right.\n"
+  },
+  {
+    "input": "I just wanna make sure he's all right.\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "I don't even know if I should be saying this, but, Eric said he was thinking about killing himself.\n"
+  },
+  {
+    "input": "I don't even know if I should be saying this, but, Eric said he was thinking about killing himself.\n",
+    "output": "[stunned] What??\n"
+  },
+  {
+    "input": "[stunned] What??\n",
+    "output": "We broke up, and he called saying he was about to do it. I'm still really scared for him.\n"
+  },
+  {
+    "input": "We broke up, and he called saying he was about to do it. I'm still really scared for him.\n",
+    "output": "Wait. Cartman said he was going to kill himself?\n"
+  },
+  {
+    "input": "Wait. Cartman said he was going to kill himself?\n",
+    "output": "I'll send you the voice mail if you promise to keep it private.\n"
+  },
+  {
+    "input": "I'll send you the voice mail if you promise to keep it private.\n",
+    "output": "Totally.\n[The boys' restroom, later. Stan, Kyle, Kenny, Tolkien, Jimmy, and Butters are in a circle laughing at something from Stan's phone.]\n"
+  },
+  {
+    "input": "Totally.\n[The boys' restroom, later. Stan, Kyle, Kenny, Tolkien, Jimmy, and Butters are in a circle laughing at something from Stan's phone.]\n",
+    "output": "Shhh. [plays the voice message Heidi sent him]\n"
+  },
+  {
+    "input": "Shhh. [plays the voice message Heidi sent him]\n",
+    "output": "\"You have to take me back! You have to! I'm gonna kill myself, Heidi!\" [the boys laugh a bit] \"I'm gonna kill myself and then you'll be sorry! You'll wish you could have me back, but I'll be deeaad.\" [the boys laugh again. Cartman is nearby with his back to them and his arms crossed over his chest, upset that his threats are being heard by the guys.] \"Please, Heidi, please!\" [the boys laugh again.]\n"
+  },
+  {
+    "input": "\"You have to take me back! You have to! I'm gonna kill myself, Heidi!\" [the boys laugh a bit] \"I'm gonna kill myself and then you'll be sorry! You'll wish you could have me back, but I'll be deeaad.\" [the boys laugh again. Cartman is nearby with his back to them and his arms crossed over his chest, upset that his threats are being heard by the guys.] \"Please, Heidi, please!\" [the boys laugh again.]\n",
+    "output": "Okay, okay! Really cool listening to people's private voice mails!\n"
+  },
+  {
+    "input": "Okay, okay! Really cool listening to people's private voice mails!\n",
+    "output": "[wipes away a tear from his laughter] You sound like a dying pig.\n"
+  },
+  {
+    "input": "[wipes away a tear from his laughter] You sound like a dying pig.\n",
+    "output": "[faces the boys] That's great! I'm glad you guys think suicide is so funny! [the boys roar with laughter]\n[Pyongyang, North Korea, day. Korean music plays as a woman sings and various sights are shown. Last one is of Kim Jong-un looking at something through binoculars. A soldier brings him a heaping platter of cupcakes with frosting and sprinkles. Kim Jong-un turns around and looks over the cupcakes.]\n[PC Principal's office, day. Someone knocks on the door. PC Principal is looking over some paperwork.]\n"
+  },
+  {
+    "input": "[faces the boys] That's great! I'm glad you guys think suicide is so funny! [the boys roar with laughter]\n[Pyongyang, North Korea, day. Korean music plays as a woman sings and various sights are shown. Last one is of Kim Jong-un looking at something through binoculars. A soldier brings him a heaping platter of cupcakes with frosting and sprinkles. Kim Jong-un turns around and looks over the cupcakes.]\n[PC Principal's office, day. Someone knocks on the door. PC Principal is looking over some paperwork.]\n",
+    "output": "Entree. [Cartman enters and takes a seat, crossing his arms again and looking to his left] Yes, Eric, how can I help you?\n"
+  },
+  {
+    "input": "Entree. [Cartman enters and takes a seat, crossing his arms again and looking to his left] Yes, Eric, how can I help you?\n",
+    "output": "I don't think kids at this school take [looks at PC Principal] suicide seriously enough, and we need to raise awareness!\n"
+  },
+  {
+    "input": "I don't think kids at this school take [looks at PC Principal] suicide seriously enough, and we need to raise awareness!\n",
+    "output": "Well, unfortunately, this week is Distracted Driving Awareness Week at school, so you might have a hard time.\n"
+  },
+  {
+    "input": "Well, unfortunately, this week is Distracted Driving Awareness Week at school, so you might have a hard time.\n",
+    "output": "Distracted Driving? Who gives a shit about that?\n"
+  },
+  {
+    "input": "Distracted Driving? Who gives a shit about that?\n",
+    "output": "A lot of people. There's more deaths now because of people on their phones while driving than ever before.\n"
+  },
+  {
+    "input": "A lot of people. There's more deaths now because of people on their phones while driving than ever before.\n",
+    "output": "PC Principal, someone's life is at stake! If I have to compete with distracted driving, then that's what I'll do.\n[Tweek's house, kitchen, day. Tweek is preparing more cupcakes, but he's made a mess of things and he's reading various news reports on his phone, grunting apprehensively with each headline. From CNN: \"North Korea is 100% Nuclear Ready,\" \"North Korea Able To Reach Your Town?\" and \"North Korea Delighted By Cupcakes.\"]\n"
+  },
+  {
+    "input": "PC Principal, someone's life is at stake! If I have to compete with distracted driving, then that's what I'll do.\n[Tweek's house, kitchen, day. Tweek is preparing more cupcakes, but he's made a mess of things and he's reading various news reports on his phone, grunting apprehensively with each headline. From CNN: \"North Korea is 100% Nuclear Ready,\" \"North Korea Able To Reach Your Town?\" and \"North Korea Delighted By Cupcakes.\"]\n",
+    "output": "Huh? Oh. [taps on the screen and a video pops up]\n"
+  },
+  {
+    "input": "Huh? Oh. [taps on the screen and a video pops up]\n",
+    "output": "A young homosexual boy known only as Tweek has touched the hearts of many by sending cupcakes to the North Korean government. [a shot of Tweek trembling] The little rascal apparently made a dent with the North Korean dictator, who is said to have loved the cupcakes so much that he started to make his own. [A shot of Kim Jong-un watching the cupcake dough stream out of a machine]\n"
+  },
+  {
+    "input": "A young homosexual boy known only as Tweek has touched the hearts of many by sending cupcakes to the North Korean government. [a shot of Tweek trembling] The little rascal apparently made a dent with the North Korean dictator, who is said to have loved the cupcakes so much that he started to make his own. [A shot of Kim Jong-un watching the cupcake dough stream out of a machine]\n",
+    "output": "Oh, ahhh. [smiles. A tweet notification is heard] Huh? [BREAKING NEWS] U.S. President responds to cupcakes. [taps on the notification and another video pops up]\n"
+  },
+  {
+    "input": "Oh, ahhh. [smiles. A tweet notification is heard] Huh? [BREAKING NEWS] U.S. President responds to cupcakes. [taps on the notification and another video pops up]\n",
+    "output": "The human interest cupcake story has apparently been heard by the President. Just moments ago, the President tweeted \"I know that kid Tweek. He's fucking with you, North Korea. Get a clue. I'll bet he took a dump in the batter.\"\n"
+  },
+  {
+    "input": "The human interest cupcake story has apparently been heard by the President. Just moments ago, the President tweeted \"I know that kid Tweek. He's fucking with you, North Korea. Get a clue. I'll bet he took a dump in the batter.\"\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[walks into the kitchen just in time] Tweek, calm down.\n"
+  },
+  {
+    "input": "[walks into the kitchen just in time] Tweek, calm down.\n",
+    "output": "The President! He tweeted about me! Why would he do that?! Did you see that?!\n"
+  },
+  {
+    "input": "The President! He tweeted about me! Why would he do that?! Did you see that?!\n",
+    "output": "Yes, I did see that, so I went and got you something to make things better.\n"
+  },
+  {
+    "input": "Yes, I did see that, so I went and got you something to make things better.\n",
+    "output": "Wwwhat?\n"
+  },
+  {
+    "input": "Wwwhat?\n",
+    "output": "[whips something out of his jacket pocket and shows him] It's a fidget spinner. It's supposed to help with anxiety. [spins it on his finger] See?\n"
+  },
+  {
+    "input": "[whips something out of his jacket pocket and shows him] It's a fidget spinner. It's supposed to help with anxiety. [spins it on his finger] See?\n",
+    "output": "...A fidget spinner?? Did you read what the President tweeted?? [another video pops up]\n"
+  },
+  {
+    "input": "...A fidget spinner?? Did you read what the President tweeted?? [another video pops up]\n",
+    "output": "The President of the United States just tweeted again, this time saying \"I hope ALL children of America will stand with Tweek in saying 'GO AHEAD AND BOMB US, KIM JONG DONG, WE FUCKING DARE YOU!'\"\n"
+  },
+  {
+    "input": "The President of the United States just tweeted again, this time saying \"I hope ALL children of America will stand with Tweek in saying 'GO AHEAD AND BOMB US, KIM JONG DONG, WE FUCKING DARE YOU!'\"\n",
+    "output": "[freaking out] AAAAAAAAAAAAAAAH!\n[South Park Elementary, morning. Kids are walking into school. Monica Ryland plays a recorder softly in the background while three other kids hand out fliers. A banner behind them has this on it: \"STOP DISTRACTED DRIVING!!!\"]\n"
+  },
+  {
+    "input": "[freaking out] AAAAAAAAAAAAAAAH!\n[South Park Elementary, morning. Kids are walking into school. Monica Ryland plays a recorder softly in the background while three other kids hand out fliers. A banner behind them has this on it: \"STOP DISTRACTED DRIVING!!!\"]\n",
+    "output": "Hey guys. Take a minute to read about distracted driving? [a passing boy takes a flier]\n"
+  },
+  {
+    "input": "Hey guys. Take a minute to read about distracted driving? [a passing boy takes a flier]\n",
+    "output": "Talk to all the grownups you know about staying off their mobile devices when they get behind the wheel.\n"
+  },
+  {
+    "input": "Talk to all the grownups you know about staying off their mobile devices when they get behind the wheel.\n",
+    "output": "Hey guys. Got a second to help stop distracted driving? [another boy takes a flier] Thanks.\n"
+  },
+  {
+    "input": "Hey guys. Got a second to help stop distracted driving? [another boy takes a flier] Thanks.\n",
+    "output": "Hey guys- [music begins to play over the intercom]\n"
+  },
+  {
+    "input": "Hey guys- [music begins to play over the intercom]\n",
+    "output": "[over the intercom] Hey guys, let's take a minute and talk about suicide prevention. There's probably someone right now at this school thinkin' about killing himself, and it's not funny! [kids in the hallway stop to listen] You'd better take him serious, or he might actually do it. [all of a sudden jumps into view dressed in blue jeans and a hoodie and starts singing]\nI've been feelin' sad, I've been bein' sad,\nCan't talk to my mom, don't even have a dad.\nI can't go on. What is livin' for?\nMy heart screams \"I DON'T WANNA LIVE NO MORE!\"\n[joined by a chorus of kids that are prerecorded on a boombox]\nEric, we don't want you to die, Eric. Give life a try.\nEric, we don't want you to die, Eric. Oh God no, Eric.\nI don't wanna live no more, no more, no more, no more.\n[walks up to a boy, Douglas, and uses him as a ventriloquist puppet]\nBut Eric, we don't want you to die.\nYou're so kewl, we'd be sad at school.\n[walks away and goes back to his normal voice]\nYeah, but you guys, you don't understand.\nWith my girlfriend, it's like I'm livin' in quicksand\nConflicting thoughts, I need a battered wife shelter.\nMy girlfriend is messed up, but all I wanna do is help her.\nI'm suffocatin', I'm drowning in sorrow.\nGonna kill myself, probably around 2:30 tomorrow.\n[with chorus]\nBut Eric, we don't want you to die, Eric. Give life a try.\n[solo] Everybody!\n[chorus a Capella] Eric, we don't want you to die, Eric. Oh God no, Eric.\nBut it's so hard!\nEric, we don't want you to die\nOnly you guys can make a difference. I don't care if you're black, white, gay, straight, or trans, I am going to kill myself unless you all start taking it seriously!\nEric, please don't die\n[no one says a word. Cartman walks up to the Distracted Driving group] Distracted driving my asshole. [drops the mic and walks away with a mischievous smile]\n[Tweek's house, day. In the dining room, Tweek spins his fidget spinner on his right index finger, but it's not calming him down.]\n"
+  },
+  {
+    "input": "[over the intercom] Hey guys, let's take a minute and talk about suicide prevention. There's probably someone right now at this school thinkin' about killing himself, and it's not funny! [kids in the hallway stop to listen] You'd better take him serious, or he might actually do it. [all of a sudden jumps into view dressed in blue jeans and a hoodie and starts singing]\nI've been feelin' sad, I've been bein' sad,\nCan't talk to my mom, don't even have a dad.\nI can't go on. What is livin' for?\nMy heart screams \"I DON'T WANNA LIVE NO MORE!\"\n[joined by a chorus of kids that are prerecorded on a boombox]\nEric, we don't want you to die, Eric. Give life a try.\nEric, we don't want you to die, Eric. Oh God no, Eric.\nI don't wanna live no more, no more, no more, no more.\n[walks up to a boy, Douglas, and uses him as a ventriloquist puppet]\nBut Eric, we don't want you to die.\nYou're so kewl, we'd be sad at school.\n[walks away and goes back to his normal voice]\nYeah, but you guys, you don't understand.\nWith my girlfriend, it's like I'm livin' in quicksand\nConflicting thoughts, I need a battered wife shelter.\nMy girlfriend is messed up, but all I wanna do is help her.\nI'm suffocatin', I'm drowning in sorrow.\nGonna kill myself, probably around 2:30 tomorrow.\n[with chorus]\nBut Eric, we don't want you to die, Eric. Give life a try.\n[solo] Everybody!\n[chorus a Capella] Eric, we don't want you to die, Eric. Oh God no, Eric.\nBut it's so hard!\nEric, we don't want you to die\nOnly you guys can make a difference. I don't care if you're black, white, gay, straight, or trans, I am going to kill myself unless you all start taking it seriously!\nEric, please don't die\n[no one says a word. Cartman walks up to the Distracted Driving group] Distracted driving my asshole. [drops the mic and walks away with a mischievous smile]\n[Tweek's house, day. In the dining room, Tweek spins his fidget spinner on his right index finger, but it's not calming him down.]\n",
+    "output": "Hey Tweek.\n"
+  },
+  {
+    "input": "Hey Tweek.\n",
+    "output": "AAH! [drops the spinner]\n"
+  },
+  {
+    "input": "AAH! [drops the spinner]\n",
+    "output": "How's it going with the fidget spinner?\n"
+  },
+  {
+    "input": "How's it going with the fidget spinner?\n",
+    "output": "Greeaat. [picks up the spinner and spins it again, only to see it fly off his hand a second later.]\n"
+  },
+  {
+    "input": "Greeaat. [picks up the spinner and spins it again, only to see it fly off his hand a second later.]\n",
+    "output": "You seem a lot less anxious. Things are finally turning around for my little homosexual son. [a loud rocket sound is heard overhead.]\n"
+  },
+  {
+    "input": "You seem a lot less anxious. Things are finally turning around for my little homosexual son. [a loud rocket sound is heard overhead.]\n",
+    "output": "What is that??\n"
+  },
+  {
+    "input": "What is that??\n",
+    "output": "I'm not sure.\n"
+  },
+  {
+    "input": "I'm not sure.\n",
+    "output": "[runs outside to look around.] D'aaah! [finally locates the origin of the sound and looks up to see a North Korean missile flying over the town] D'aaah! [runs back into the house and turns on the TV]\n"
+  },
+  {
+    "input": "[runs outside to look around.] D'aaah! [finally locates the origin of the sound and looks up to see a North Korean missile flying over the town] D'aaah! [runs back into the house and turns on the TV]\n",
+    "output": "No agreement has been reached between the parties involved. [Breaking News logo pops up] Breaking news now out of Colorado where the North Koreans appeared to have fired a missile over Tweek's house. [a small picture of him appears on the right side of the screen]\n"
+  },
+  {
+    "input": "No agreement has been reached between the parties involved. [Breaking News logo pops up] Breaking news now out of Colorado where the North Koreans appeared to have fired a missile over Tweek's house. [a small picture of him appears on the right side of the screen]\n",
+    "output": "D'aahaahaah!\n"
+  },
+  {
+    "input": "D'aahaahaah!\n",
+    "output": "Tweek, of course, the young boy who got the attention of Kim Jong-un last week. The news media in North Korea is calling the missile test a victory for its people. [what follows is actual footage of a Korean woman giving a speech]\n"
+  },
+  {
+    "input": "Tweek, of course, the young boy who got the attention of Kim Jong-un last week. The news media in North Korea is calling the missile test a victory for its people. [what follows is actual footage of a Korean woman giving a speech]\n",
+    "output": "Today, the great country of North Korea has proven its determination and fortitude by successfully firing a missile over Tweek's house. Perhaps now Tweek will come fight- [trails off]\n"
+  },
+  {
+    "input": "Today, the great country of North Korea has proven its determination and fortitude by successfully firing a missile over Tweek's house. Perhaps now Tweek will come fight- [trails off]\n",
+    "output": "Oh my God! Oh my God! Why is this happening to me?! They have to know that this isn't my fault!\n"
+  },
+  {
+    "input": "Oh my God! Oh my God! Why is this happening to me?! They have to know that this isn't my fault!\n",
+    "output": "In response to the North Korean test, the President of the United States has just tweeted this statement: \"You really think Tweek is scared? Tweek will single handedly go to North Korea and fuck ALL you slanty-eyed bitches doggy style.\"\n"
+  },
+  {
+    "input": "In response to the North Korean test, the President of the United States has just tweeted this statement: \"You really think Tweek is scared? Tweek will single handedly go to North Korea and fuck ALL you slanty-eyed bitches doggy style.\"\n",
+    "output": "Whaaat?! Why would he say that?!\n"
+  },
+  {
+    "input": "Whaaat?! Why would he say that?!\n",
+    "output": "The President also tweeted, \"...if you even think Tweek is worried about a bunch of dipshit, poor-ass, third world rice pickers...think again!\"\n"
+  },
+  {
+    "input": "The President also tweeted, \"...if you even think Tweek is worried about a bunch of dipshit, poor-ass, third world rice pickers...think again!\"\n",
+    "output": "Oh my God! What is he doing?!\n"
+  },
+  {
+    "input": "Oh my God! What is he doing?!\n",
+    "output": "[rushes up to him with the fidget spinner and a cup of coffee] Tweek, Tweek, calm down. [puts his coffee on the sofa and tries to give the spinner to Tweek]\n"
+  },
+  {
+    "input": "[rushes up to him with the fidget spinner and a cup of coffee] Tweek, Tweek, calm down. [puts his coffee on the sofa and tries to give the spinner to Tweek]\n",
+    "output": "Why won't he just stop? Why?!\n"
+  },
+  {
+    "input": "Why won't he just stop? Why?!\n",
+    "output": "Tweek, Tweek. [takes the remote control from Tweek's hand and lets it fall to the floor] Here, here's your fidget spinner.\n"
+  },
+  {
+    "input": "Tweek, Tweek. [takes the remote control from Tweek's hand and lets it fall to the floor] Here, here's your fidget spinner.\n",
+    "output": "Why does he keep making it worse?!\n"
+  },
+  {
+    "input": "Why does he keep making it worse?!\n",
+    "output": "Fidget spinner, Tweek! Come on, son! [Tweek lets out a couple of grunts, and Richard responds with a soothing voice] Focus on the fidget spinner.\n[South Park, morning. A lone car goes down a street. Both driver and passenger are looking at their phones.]\n"
+  },
+  {
+    "input": "Fidget spinner, Tweek! Come on, son! [Tweek lets out a couple of grunts, and Richard responds with a soothing voice] Focus on the fidget spinner.\n[South Park, morning. A lone car goes down a street. Both driver and passenger are looking at their phones.]\n",
+    "output": "Aww, Jeez, looks like North Korea launched another missile.\n"
+  },
+  {
+    "input": "Aww, Jeez, looks like North Korea launched another missile.\n",
+    "output": "Oh, really? Like another test? Where are you looking?\n"
+  },
+  {
+    "input": "Oh, really? Like another test? Where are you looking?\n",
+    "output": "I'm on Drudge. You see what the President tweeted about it?\n"
+  },
+  {
+    "input": "I'm on Drudge. You see what the President tweeted about it?\n",
+    "output": "No, what'd he say?\n"
+  },
+  {
+    "input": "No, what'd he say?\n",
+    "output": "President tweeted, \"North Korea is the butt hole of Asia and-\"\n"
+  },
+  {
+    "input": "President tweeted, \"North Korea is the butt hole of Asia and-\"\n",
+    "output": "[sees Gary crossing the street] Innocent child!!\n"
+  },
+  {
+    "input": "[sees Gary crossing the street] Innocent child!!\n",
+    "output": "Baaaah! [Gary looks right as the car speeds towards him holds up his arms. The car slams into him.]\n"
+  },
+  {
+    "input": "Baaaah! [Gary looks right as the car speeds towards him holds up his arms. The car slams into him.]\n",
+    "output": "Uh! [Sudden slow motion as he is launched into the air as blood falls to the ground. The windshield shatters while the airbags deploy, shielding the couple from injury. Gary soars through the air and lands down the street in the road, dead, losing his left shoe and sock in the process. The driver steps out of the car, then his wife steps out, and they look in shock at the dead boy]\n[South Park Elementary, day. All the kids are carrying candles of remembrance and soon clear the hallway. Cartman walks down the hallway. A girl is crying, and Meagan Ridley comforts her.]\n"
+  },
+  {
+    "input": "Uh! [Sudden slow motion as he is launched into the air as blood falls to the ground. The windshield shatters while the airbags deploy, shielding the couple from injury. Gary soars through the air and lands down the street in the road, dead, losing his left shoe and sock in the process. The driver steps out of the car, then his wife steps out, and they look in shock at the dead boy]\n[South Park Elementary, day. All the kids are carrying candles of remembrance and soon clear the hallway. Cartman walks down the hallway. A girl is crying, and Meagan Ridley comforts her.]\n",
+    "output": "I know. I know, it's so sad.\n"
+  },
+  {
+    "input": "I know. I know, it's so sad.\n",
+    "output": "[passes by them and continues down the hallway. A few seconds later...] Well, how nice. That's a little more like it. [Sees Stan, Kyle, and Kenny as they walk towards him and approaches them.] Well guys, what happened? Change of heart?\n"
+  },
+  {
+    "input": "[passes by them and continues down the hallway. A few seconds later...] Well, how nice. That's a little more like it. [Sees Stan, Kyle, and Kenny as they walk towards him and approaches them.] Well guys, what happened? Change of heart?\n",
+    "output": "Yeah, you didn't hear? Gary Borkovec got ran over by a distracted driver.\n"
+  },
+  {
+    "input": "Yeah, you didn't hear? Gary Borkovec got ran over by a distracted driver.\n",
+    "output": "What? Gary Borkovec? Is he dead?\n"
+  },
+  {
+    "input": "What? Gary Borkovec? Is he dead?\n",
+    "output": "Yeah dude, he's dead.\n"
+  },
+  {
+    "input": "Yeah dude, he's dead.\n",
+    "output": "Oh, that son of a bitch! [turns around and walks off] I'm gonna talk to the principal! [turns back around to address Kenny] Put down that candle, Kenny! [turns around and walks off again] Like you ever gave a shit about Gary Borkovec!\n[Principal's office. PC Principal is curling his left arm when Cartman knocks on the door.]\n"
+  },
+  {
+    "input": "Oh, that son of a bitch! [turns around and walks off] I'm gonna talk to the principal! [turns back around to address Kenny] Put down that candle, Kenny! [turns around and walks off again] Like you ever gave a shit about Gary Borkovec!\n[Principal's office. PC Principal is curling his left arm when Cartman knocks on the door.]\n",
+    "output": "Entree vous.\n"
+  },
+  {
+    "input": "Entree vous.\n",
+    "output": "[walks in] PC Principal, I'm trying to raise suicide awareness, but everyone's preoccupied with this \"don't be on your phone when driving\" crap!\n"
+  },
+  {
+    "input": "[walks in] PC Principal, I'm trying to raise suicide awareness, but everyone's preoccupied with this \"don't be on your phone when driving\" crap!\n",
+    "output": "Gary Borkovec was a good student. He didn't deserve to be taken away by someone not paying attention to the road.\n"
+  },
+  {
+    "input": "Gary Borkovec was a good student. He didn't deserve to be taken away by someone not paying attention to the road.\n",
+    "output": "Yes, but Gary Borkovec is already dead! There's nothing we can do for him! Students need to focus on people thinking about dying!\n"
+  },
+  {
+    "input": "Yes, but Gary Borkovec is already dead! There's nothing we can do for him! Students need to focus on people thinking about dying!\n",
+    "output": "I don't know what more you want from me, bro.\n"
+  },
+  {
+    "input": "I don't know what more you want from me, bro.\n",
+    "output": "I can't just get people to care with a stupid rap song! I need a full orchestra! Woodwinds, strings! I need black people in white robes, white people in black robes, and a thousand doves to release into the air!\n"
+  },
+  {
+    "input": "I can't just get people to care with a stupid rap song! I need a full orchestra! Woodwinds, strings! I need black people in white robes, white people in black robes, and a thousand doves to release into the air!\n",
+    "output": "I can give you two student volunteers and one pigeon.\n"
+  },
+  {
+    "input": "I can give you two student volunteers and one pigeon.\n",
+    "output": "[pauses, then] Do you have any idea how serious this is?! As someone who deals with suicidal thoughts, I cannot believe the lack of concern at this school! Maybe I should just take the awareness of my suicide out to the public on the streets!\n"
+  },
+  {
+    "input": "[pauses, then] Do you have any idea how serious this is?! As someone who deals with suicidal thoughts, I cannot believe the lack of concern at this school! Maybe I should just take the awareness of my suicide out to the public on the streets!\n",
+    "output": "Maybe you should.\n"
+  },
+  {
+    "input": "Maybe you should.\n",
+    "output": "Maybe I will!\n"
+  },
+  {
+    "input": "Maybe I will!\n",
+    "output": "Maybe you should.\n"
+  },
+  {
+    "input": "Maybe you should.\n",
+    "output": "Maybe I will!!\n[Craig's bedroom, night. He's fast asleep when Tweek enters and turns on the ceiling light. Tweek walks up to the bed and stands there for a second.]\n"
+  },
+  {
+    "input": "Maybe I will!!\n[Craig's bedroom, night. He's fast asleep when Tweek enters and turns on the ceiling light. Tweek walks up to the bed and stands there for a second.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[started] Ugh. Wuh. [rubs his eyes and sees who woke him] Hey Tweek.\n"
+  },
+  {
+    "input": "[started] Ugh. Wuh. [rubs his eyes and sees who woke him] Hey Tweek.\n",
+    "output": "[holds out his phone] Look at what the President tweeted now!\n"
+  },
+  {
+    "input": "[holds out his phone] Look at what the President tweeted now!\n",
+    "output": "What time is it, dude?\n"
+  },
+  {
+    "input": "What time is it, dude?\n",
+    "output": "Just read it! [hands the phone to Craig]\n"
+  },
+  {
+    "input": "Just read it! [hands the phone to Craig]\n",
+    "output": "\"North Korea doesn't have the balls to attack Tweek. They have little tiny rice balls.\"\n"
+  },
+  {
+    "input": "\"North Korea doesn't have the balls to attack Tweek. They have little tiny rice balls.\"\n",
+    "output": "They're gonna get me, Craig! Look at what's on CNN! [turns on Craig's TV and changes the channel from a kids' cartoon to CNN]\n"
+  },
+  {
+    "input": "They're gonna get me, Craig! Look at what's on CNN! [turns on Craig's TV and changes the channel from a kids' cartoon to CNN]\n",
+    "output": "And the President's tweets have certainly caught the attention of North Korea, who have been spending the past several days viewing possible targets for a nuclear strike, if war were to break out. [Kim Jong-un looks over pictures of Tweek and his house]\n"
+  },
+  {
+    "input": "And the President's tweets have certainly caught the attention of North Korea, who have been spending the past several days viewing possible targets for a nuclear strike, if war were to break out. [Kim Jong-un looks over pictures of Tweek and his house]\n",
+    "output": "Waaaah! What am I gonna do?!\n"
+  },
+  {
+    "input": "Waaaah! What am I gonna do?!\n",
+    "output": "You've gotta calm down.\n"
+  },
+  {
+    "input": "You've gotta calm down.\n",
+    "output": "How am I supposed to calm down?! North Korea is gonna get me! They're gonna get me!\n"
+  },
+  {
+    "input": "How am I supposed to calm down?! North Korea is gonna get me! They're gonna get me!\n",
+    "output": "[at the same time] Tweek. Tweek. Tweek! [calms down, but is still shaking]' Let's think this through logically. North Korea isn't going to attack anyone, okay? They're not going to start a war they can't win. Okay?\n"
+  },
+  {
+    "input": "[at the same time] Tweek. Tweek. Tweek! [calms down, but is still shaking]' Let's think this through logically. North Korea isn't going to attack anyone, okay? They're not going to start a war they can't win. Okay?\n",
+    "output": "But Craig, I-\n"
+  },
+  {
+    "input": "But Craig, I-\n",
+    "output": "Tweek! You have to stop thinking about it. Tell you what. We're gonna go somewhere fun and make you feel better.\n[The supermarket, day. Cartman and Heidi are passing out fliers to shoppers as they exit the store.]\n"
+  },
+  {
+    "input": "Tweek! You have to stop thinking about it. Tell you what. We're gonna go somewhere fun and make you feel better.\n[The supermarket, day. Cartman and Heidi are passing out fliers to shoppers as they exit the store.]\n",
+    "output": "[rings a small bell] Give a minute of your time for suicide awareness? Suicide is serious. Help tell people like Kyle it's not a joke.\n"
+  },
+  {
+    "input": "[rings a small bell] Give a minute of your time for suicide awareness? Suicide is serious. Help tell people like Kyle it's not a joke.\n",
+    "output": "Hey, good for you guys, trying to help. [takes a flier from Eric]\n"
+  },
+  {
+    "input": "Hey, good for you guys, trying to help. [takes a flier from Eric]\n",
+    "output": "Yeah, make sure everyone you know gets involved or else I'm gonna do it.\n"
+  },
+  {
+    "input": "Yeah, make sure everyone you know gets involved or else I'm gonna do it.\n",
+    "output": "We're getting a lot of attention, Eric. Our Web site's already full of kids saying they feel the same way as you, and want to get help.\n"
+  },
+  {
+    "input": "We're getting a lot of attention, Eric. Our Web site's already full of kids saying they feel the same way as you, and want to get help.\n",
+    "output": "They want to get help? For what?\n"
+  },
+  {
+    "input": "They want to get help? For what?\n",
+    "output": "For... wanting to take their own lives.\n"
+  },
+  {
+    "input": "For... wanting to take their own lives.\n",
+    "output": "No, this is about me killing myself.\n"
+  },
+  {
+    "input": "No, this is about me killing myself.\n",
+    "output": "But babe, there's a lot of kids who feel the same way you do.\n"
+  },
+  {
+    "input": "But babe, there's a lot of kids who feel the same way you do.\n",
+    "output": "They're full of shit, Heidi. They're just trying to get attention. What, are you actually talking online to these ass wipes?!\n"
+  },
+  {
+    "input": "They're full of shit, Heidi. They're just trying to get attention. What, are you actually talking online to these ass wipes?!\n",
+    "output": "I thought this was about raising awareness and helping people.\n"
+  },
+  {
+    "input": "I thought this was about raising awareness and helping people.\n",
+    "output": "So you're just gonna e-mail with every guy who has a dick and a death wish?! Are we just your type?!\n"
+  },
+  {
+    "input": "So you're just gonna e-mail with every guy who has a dick and a death wish?! Are we just your type?!\n",
+    "output": "Eric, come on.\n"
+  },
+  {
+    "input": "Eric, come on.\n",
+    "output": "No, look, Heidi. I'm sorry, but you're the one who started all this by telling everybody that I was suicidal! Okay?! Now I'm under a lot of pressure to do it! So the only option I have is to make sure that suicide prevention becomes this entire town's number one priority! [A shopper walks out of the store behind him with a toddler in the shopping cart]\n"
+  },
+  {
+    "input": "No, look, Heidi. I'm sorry, but you're the one who started all this by telling everybody that I was suicidal! Okay?! Now I'm under a lot of pressure to do it! So the only option I have is to make sure that suicide prevention becomes this entire town's number one priority! [A shopper walks out of the store behind him with a toddler in the shopping cart]\n",
+    "output": "[a woman] Oh God, did you see what the President said about Asians now?\n"
+  },
+  {
+    "input": "[a woman] Oh God, did you see what the President said about Asians now?\n",
+    "output": "Look out! [the car runs over the shopping cart, killing the toddler in the process]\n"
+  },
+  {
+    "input": "Look out! [the car runs over the shopping cart, killing the toddler in the process]\n",
+    "output": "Oh, are you freaking serious?!\n[An amusement park, day. Tweek and Craig walk through the park holding hands.]\n"
+  },
+  {
+    "input": "Oh, are you freaking serious?!\n[An amusement park, day. Tweek and Craig walk through the park holding hands.]\n",
+    "output": "Okay, babe, what do you want to ride first?\n"
+  },
+  {
+    "input": "Okay, babe, what do you want to ride first?\n",
+    "output": "Ugh! What are we doing here, Craig?!\n"
+  },
+  {
+    "input": "Ugh! What are we doing here, Craig?!\n",
+    "output": "We're gonna get your mind off politics and have some fun. Now, what's your favorite ride?\n"
+  },
+  {
+    "input": "We're gonna get your mind off politics and have some fun. Now, what's your favorite ride?\n",
+    "output": "[grunts a few times] The Ferris wheel!!\n[The Ferris wheel, later. Tweek grunts some more, while Craig is smiling.]\n"
+  },
+  {
+    "input": "[grunts a few times] The Ferris wheel!!\n[The Ferris wheel, later. Tweek grunts some more, while Craig is smiling.]\n",
+    "output": "Isn't this lovely, Tweek? Just look at that view!\n"
+  },
+  {
+    "input": "Isn't this lovely, Tweek? Just look at that view!\n",
+    "output": "[decides to look at his phone] Oh God! Another tweet from the President!\n"
+  },
+  {
+    "input": "[decides to look at his phone] Oh God! Another tweet from the President!\n",
+    "output": "Oh, come on.\n"
+  },
+  {
+    "input": "Oh, come on.\n",
+    "output": "\"Why would the U.S. be scared of North Korea? Tweek is so not scared he's at an amusement park in Denver right now.\" [gasps] JESUS CHRIST, WE'VE GOTTA GET OUT OF HERE!!\n"
+  },
+  {
+    "input": "\"Why would the U.S. be scared of North Korea? Tweek is so not scared he's at an amusement park in Denver right now.\" [gasps] JESUS CHRIST, WE'VE GOTTA GET OUT OF HERE!!\n",
+    "output": "Tweek! Tweek, use your brain! North Korea isn't going to attack an amusement park. You're safer here than anywhere.\n[At an autopia ride, kids and their parents drive along slowly.]\n"
+  },
+  {
+    "input": "Tweek! Tweek, use your brain! North Korea isn't going to attack an amusement park. You're safer here than anywhere.\n[At an autopia ride, kids and their parents drive along slowly.]\n",
+    "output": "Oh, Jeez, the President just called Kim Jong-un a fat midget. [the car he's in jumps off the track] Oh, and now North Korea is saying that they're gonna-\n"
+  },
+  {
+    "input": "Oh, Jeez, the President just called Kim Jong-un a fat midget. [the car he's in jumps off the track] Oh, and now North Korea is saying that they're gonna-\n",
+    "output": "Dad, look out! [the car plows through the bushes lining the autopia roadway]\n"
+  },
+  {
+    "input": "Dad, look out! [the car plows through the bushes lining the autopia roadway]\n",
+    "output": "Oh, shit! [a girl turns around and sees the car coming, but can't evade it. The car mows her down and kills her, then speeds towards a woman and a baby carriage. It demolishes the baby carriage with the baby in it. The bumper car ride is shown]\n"
+  },
+  {
+    "input": "Oh, shit! [a girl turns around and sees the car coming, but can't evade it. The car mows her down and kills her, then speeds towards a woman and a baby carriage. It demolishes the baby carriage with the baby in it. The bumper car ride is shown]\n",
+    "output": "All right everyone, please wait for your bumper cars to come to a complete stop. We hope you enjoyed Crazy Cars- [one car has a mother and daughter in it, and the mother is browsing on her phone]\n"
+  },
+  {
+    "input": "All right everyone, please wait for your bumper cars to come to a complete stop. We hope you enjoyed Crazy Cars- [one car has a mother and daughter in it, and the mother is browsing on her phone]\n",
+    "output": "Mommy, look out! [the mother screams as they run over a boy who's on his way out. Four other kids are still in the ride, and the car runs over them too. Panic ensues and spreads throughout the park]\n"
+  },
+  {
+    "input": "Mommy, look out! [the mother screams as they run over a boy who's on his way out. Four other kids are still in the ride, and the car runs over them too. Panic ensues and spreads throughout the park]\n",
+    "output": "[noticing] Oh my God, what is that? What is that?!\n"
+  },
+  {
+    "input": "[noticing] Oh my God, what is that? What is that?!\n",
+    "output": "It's probably nothing. Everything's fine.\n"
+  },
+  {
+    "input": "It's probably nothing. Everything's fine.\n",
+    "output": "Will you please stop saying that?! I can't take it!\n"
+  },
+  {
+    "input": "Will you please stop saying that?! I can't take it!\n",
+    "output": "I'm trying to make you feel better.\n"
+  },
+  {
+    "input": "I'm trying to make you feel better.\n",
+    "output": "Well, maybe I don't wanna feel better right now!\n"
+  },
+  {
+    "input": "Well, maybe I don't wanna feel better right now!\n",
+    "output": "Okay, but think about that. That actually doesn't make any sense.\n"
+  },
+  {
+    "input": "Okay, but think about that. That actually doesn't make any sense.\n",
+    "output": "Why do you have to be so logical?! I don't need you to problem-solve all the time, I need you to... Augh, I don't know!\n"
+  },
+  {
+    "input": "Why do you have to be so logical?! I don't need you to problem-solve all the time, I need you to... Augh, I don't know!\n",
+    "output": "Tweek, honey, all week you've been freaking out, and I've been the one forced to deal with it!\n"
+  },
+  {
+    "input": "Tweek, honey, all week you've been freaking out, and I've been the one forced to deal with it!\n",
+    "output": "You haven't been dealing with it, you've been trying to make it go away because my emotions are freaking you out! [behind him, a girl screams as the runaway bumper car mows her down. The mother in the car is still screaming]\n"
+  },
+  {
+    "input": "You haven't been dealing with it, you've been trying to make it go away because my emotions are freaking you out! [behind him, a girl screams as the runaway bumper car mows her down. The mother in the car is still screaming]\n",
+    "output": "Tweek, North Korea isn't bombing anyone. [Tweek turns away and tugs at his hair] They would lose the support of China, and that would mean-\n"
+  },
+  {
+    "input": "Tweek, North Korea isn't bombing anyone. [Tweek turns away and tugs at his hair] They would lose the support of China, and that would mean-\n",
+    "output": "There you go again! Stop preaching facts to me! It's not what I need!\n"
+  },
+  {
+    "input": "There you go again! Stop preaching facts to me! It's not what I need!\n",
+    "output": "Well, I'm sorry that I'm actually in control of my goddamn emotions, you baby! [stops himself for a few seconds] Oh, see? Now you made me lose control of my emotions. [turns left and walks away] God dammit! [Tweek watches him leave, then grunts louder and louder until it's a full scream]\n[South Park Elementary, cafeteria, lunchtime. The eight boys are back at their usual table.]\n"
+  },
+  {
+    "input": "Well, I'm sorry that I'm actually in control of my goddamn emotions, you baby! [stops himself for a few seconds] Oh, see? Now you made me lose control of my emotions. [turns left and walks away] God dammit! [Tweek watches him leave, then grunts louder and louder until it's a full scream]\n[South Park Elementary, cafeteria, lunchtime. The eight boys are back at their usual table.]\n",
+    "output": "Hey Craig, how come Tweek's not at school?\n"
+  },
+  {
+    "input": "Hey Craig, how come Tweek's not at school?\n",
+    "output": "[a bit depressed] How should I know?\n"
+  },
+  {
+    "input": "[a bit depressed] How should I know?\n",
+    "output": "Uh oh, trouble in paradise?\n"
+  },
+  {
+    "input": "Uh oh, trouble in paradise?\n",
+    "output": "Look guys, Tweek doesn't want help, okay? He just wants to overreact.\n"
+  },
+  {
+    "input": "Look guys, Tweek doesn't want help, okay? He just wants to overreact.\n",
+    "output": "[taps a mic a few times, and all the students in the cafeteria look at him] Hey guys, can we have your attention? Tomorrow night we'll be having a memorial service for all the students we've lost to distracted driving. We hope you can all bring your families.\n"
+  },
+  {
+    "input": "[taps a mic a few times, and all the students in the cafeteria look at him] Hey guys, can we have your attention? Tomorrow night we'll be having a memorial service for all the students we've lost to distracted driving. We hope you can all bring your families.\n",
+    "output": "[with his own mic] Cool, yeah. Hey guys, and there's also gonna be a suicide awareness pot luck at 7:30 tomorrow night in the school gymnasium. We're gonna have lots of games and face-painting, and uh, what are you guys gonna have?\n"
+  },
+  {
+    "input": "[with his own mic] Cool, yeah. Hey guys, and there's also gonna be a suicide awareness pot luck at 7:30 tomorrow night in the school gymnasium. We're gonna have lots of games and face-painting, and uh, what are you guys gonna have?\n",
+    "output": "...Uhw-we're gonna have some guest speakers and also provide grievance counselors for those who need it.\n"
+  },
+  {
+    "input": "...Uhw-we're gonna have some guest speakers and also provide grievance counselors for those who need it.\n",
+    "output": "Yeah, grievance counseling, that sounds super fun. Listen guys, there's a very real chance I might actually do it right in front of everyone tomorrow, so you don't want to miss it. Suicide prevention pot luck, everybody.\n"
+  },
+  {
+    "input": "Yeah, grievance counseling, that sounds super fun. Listen guys, there's a very real chance I might actually do it right in front of everyone tomorrow, so you don't want to miss it. Suicide prevention pot luck, everybody.\n",
+    "output": "[approaches Cartman and takes the mic from Henry] Eric, you need to stop. What they're doing is important.\n"
+  },
+  {
+    "input": "[approaches Cartman and takes the mic from Henry] Eric, you need to stop. What they're doing is important.\n",
+    "output": "They're doing a memorial service with speeches and crying. What's that gonna solve?\n"
+  },
+  {
+    "input": "They're doing a memorial service with speeches and crying. What's that gonna solve?\n",
+    "output": "It's not about problem-solving, Eric. It's about people getting together and feeling what they need to feel. [Craig's jaw drops, as he realizes this is what Tweek was trying to tell him] People need help sorting out their emotions sometimes. And the best thing isn't always quick answers, but just being there, supporting each other and... talking through those feelings.\n"
+  },
+  {
+    "input": "It's not about problem-solving, Eric. It's about people getting together and feeling what they need to feel. [Craig's jaw drops, as he realizes this is what Tweek was trying to tell him] People need help sorting out their emotions sometimes. And the best thing isn't always quick answers, but just being there, supporting each other and... talking through those feelings.\n",
+    "output": "You are so up and down. I don't know what you want from me, Heidi!\n"
+  },
+  {
+    "input": "You are so up and down. I don't know what you want from me, Heidi!\n",
+    "output": "[Craig runs off, inspired by Heidi's words] Come on, there has to be a way we can all work together here.\n"
+  },
+  {
+    "input": "[Craig runs off, inspired by Heidi's words] Come on, there has to be a way we can all work together here.\n",
+    "output": "So now you're on their side! Oh my God, I'm seriously gonna do it right now! [runs off]\n"
+  },
+  {
+    "input": "So now you're on their side! Oh my God, I'm seriously gonna do it right now! [runs off]\n",
+    "output": "Eric! [runs after him]\n[Tweek's bedroom, late afternoon. He's in bed spinning four spinners, two in each hand.]\n"
+  },
+  {
+    "input": "Eric! [runs after him]\n[Tweek's bedroom, late afternoon. He's in bed spinning four spinners, two in each hand.]\n",
+    "output": "[runs into the bedroom] Tweek, what's going on??\n"
+  },
+  {
+    "input": "[runs into the bedroom] Tweek, what's going on??\n",
+    "output": "What? What do you mean, what's going on?! The same shit that's been going on!\n"
+  },
+  {
+    "input": "What? What do you mean, what's going on?! The same shit that's been going on!\n",
+    "output": "Nothing's gotten any better? Oh my God, how does that make you feel?\n"
+  },
+  {
+    "input": "Nothing's gotten any better? Oh my God, how does that make you feel?\n",
+    "output": "I feel scared! I feel alone!\n"
+  },
+  {
+    "input": "I feel scared! I feel alone!\n",
+    "output": "Well that must be horrible to feel that way. It must be hard for you to even think!\n"
+  },
+  {
+    "input": "Well that must be horrible to feel that way. It must be hard for you to even think!\n",
+    "output": "It is! [gets off the bed and walks up to Craig] It's terrible!\n"
+  },
+  {
+    "input": "It is! [gets off the bed and walks up to Craig] It's terrible!\n",
+    "output": "I bet it's terrible! What else are you feeling?\n"
+  },
+  {
+    "input": "I bet it's terrible! What else are you feeling?\n",
+    "output": "Like, like I have no control over my life. Like I'm just a pawn in a big game.\n"
+  },
+  {
+    "input": "Like, like I have no control over my life. Like I'm just a pawn in a big game.\n",
+    "output": "Oh, that's a terrifying thought. You must feel trapped.\n"
+  },
+  {
+    "input": "Oh, that's a terrifying thought. You must feel trapped.\n",
+    "output": "Yeah, like trapped, but like, completely unable to even move.\n"
+  },
+  {
+    "input": "Yeah, like trapped, but like, completely unable to even move.\n",
+    "output": "Jesus, it's like there's no solution to any of this! What are you gonna do?? What can you do?\n"
+  },
+  {
+    "input": "Jesus, it's like there's no solution to any of this! What are you gonna do?? What can you do?\n",
+    "output": "I don't know, it's... it's like... maybe, maybe I have to find a way to feel a little in charge of me again.\n"
+  },
+  {
+    "input": "I don't know, it's... it's like... maybe, maybe I have to find a way to feel a little in charge of me again.\n",
+    "output": "That sounds so insurmountable though. How would you even start?\n"
+  },
+  {
+    "input": "That sounds so insurmountable though. How would you even start?\n",
+    "output": "I don't know, but I I've gotta do something about this. There's gotta be a way I can... [stops shaking and comes to a realization. He turns to see Craig and smiles. Craig smiles back] Thank you, Craig. [turns around and thinks] I've got it. People aren't focused on the right thing. I know what I should do.\n[The school auditorium, evening. The kid's parents are now present.]\n"
+  },
+  {
+    "input": "I don't know, but I I've gotta do something about this. There's gotta be a way I can... [stops shaking and comes to a realization. He turns to see Craig and smiles. Craig smiles back] Thank you, Craig. [turns around and thinks] I've got it. People aren't focused on the right thing. I know what I should do.\n[The school auditorium, evening. The kid's parents are now present.]\n",
+    "output": "All right everyone, listen up. Tonight, one of our students has put together a song about a very important issue. It's a song about how there are certain times to not be on your phone. I hope you all listen carefully. [applause as Tweek sits at the piano and begins to play wonderfully. Craig appears on stage and begins to sing]\n"
+  },
+  {
+    "input": "All right everyone, listen up. Tonight, one of our students has put together a song about a very important issue. It's a song about how there are certain times to not be on your phone. I hope you all listen carefully. [applause as Tweek sits at the piano and begins to play wonderfully. Craig appears on stage and begins to sing]\n",
+    "output": "People are dying. The fault is our own.\nYou can do lots of damage when you're on your phone.\nWe all have to agree to change it somehow.\nLet's all make a pledge to end it right now.\n"
+  },
+  {
+    "input": "People are dying. The fault is our own.\nYou can do lots of damage when you're on your phone.\nWe all have to agree to change it somehow.\nLet's all make a pledge to end it right now.\n",
+    "output": "Put it down. Don't be on your phone while being President.\nPut it down. You might do something dumb and cause an accident.\n"
+  },
+  {
+    "input": "Put it down. Don't be on your phone while being President.\nPut it down. You might do something dumb and cause an accident.\n",
+    "output": "[scattered around town] Let's all agree, here today, that if we're leader of the U.S.A.\n"
+  },
+  {
+    "input": "[scattered around town] Let's all agree, here today, that if we're leader of the U.S.A.\n",
+    "output": "We'll put it down\n"
+  },
+  {
+    "input": "We'll put it down\n",
+    "output": "If at any point today you're being a President, put down your mobile device.\n"
+  },
+  {
+    "input": "If at any point today you're being a President, put down your mobile device.\n",
+    "output": "Put it down.\n"
+  },
+  {
+    "input": "Put it down.\n",
+    "output": "If I'm on the phone, I will not get behind the... desk of an oval office.\n"
+  },
+  {
+    "input": "If I'm on the phone, I will not get behind the... desk of an oval office.\n",
+    "output": "Put it down.\n"
+  },
+  {
+    "input": "Put it down.\n",
+    "output": "I'll take the pledge!\n"
+  },
+  {
+    "input": "I'll take the pledge!\n",
+    "output": "I'll take the pledge.\n"
+  },
+  {
+    "input": "I'll take the pledge.\n",
+    "output": "And I'll take the pledge.\n"
+  },
+  {
+    "input": "And I'll take the pledge.\n",
+    "output": "No one cares.\n"
+  },
+  {
+    "input": "No one cares.\n",
+    "output": "What's that? I was just elected President? Well then, goodbye!\n"
+  },
+  {
+    "input": "What's that? I was just elected President? Well then, goodbye!\n",
+    "output": "Put it down if you're President today.\n"
+  },
+  {
+    "input": "Put it down if you're President today.\n",
+    "output": "If you find yourself being President today.\n"
+  },
+  {
+    "input": "If you find yourself being President today.\n",
+    "output": "Ah ah ah, ah a-aaah.\n"
+  },
+  {
+    "input": "Ah ah ah, ah a-aaah.\n",
+    "output": "Hey, Brian, look! I was just elected President.\n"
+  },
+  {
+    "input": "Hey, Brian, look! I was just elected President.\n",
+    "output": "That's great, Nancy. Now put down your phone.\n"
+  },
+  {
+    "input": "That's great, Nancy. Now put down your phone.\n",
+    "output": "Right.\n"
+  },
+  {
+    "input": "Right.\n",
+    "output": "Ah ah ah, ah a-aaah, aaah. Put it down.\n"
+  },
+  {
+    "input": "Ah ah ah, ah a-aaah, aaah. Put it down.\n",
+    "output": "[interrupts with his own rap. He's in a graffiti-ridden alley]\nGive a standing ovation for suicide in our nation\nOr I will rip my own guts out without one hesitation [simulates that act. Next, he's in his living room]\nDedication, that's what it's taken to awaken people to care [next, he stands next to Heidi outside a house]\nAnd yet my future's so hazy, my girlfriend's makin' me crazy\nBut still I'm workin' so hard. You know, just tryin' to hold on, [next, he's in a casket]\n'Cause I know that you'd all miss me so much if I was gone. [next, he's on stage with the other kids]\nAnd all the voices start solo, but every day I hear them grow.\nSayiin' \"Eric, don't do it! Don't do it! Noooo (noooo, noooo)\"\n[A memorial segment pops up showing Gary Borkovec, then Kelly Morris, both killed by Presidents on their phones (distracted drivers). A montage of kids then appears, each of who were killed by Presidents on their phones. Included among them are Gary, Kelly,... and Kenny.]\n"
+  },
+  {
+    "input": "[interrupts with his own rap. He's in a graffiti-ridden alley]\nGive a standing ovation for suicide in our nation\nOr I will rip my own guts out without one hesitation [simulates that act. Next, he's in his living room]\nDedication, that's what it's taken to awaken people to care [next, he stands next to Heidi outside a house]\nAnd yet my future's so hazy, my girlfriend's makin' me crazy\nBut still I'm workin' so hard. You know, just tryin' to hold on, [next, he's in a casket]\n'Cause I know that you'd all miss me so much if I was gone. [next, he's on stage with the other kids]\nAnd all the voices start solo, but every day I hear them grow.\nSayiin' \"Eric, don't do it! Don't do it! Noooo (noooo, noooo)\"\n[A memorial segment pops up showing Gary Borkovec, then Kelly Morris, both killed by Presidents on their phones (distracted drivers). A montage of kids then appears, each of who were killed by Presidents on their phones. Included among them are Gary, Kelly,... and Kenny.]\n",
+    "output": "[A sign language interpreter appears in a small window at upper right of the screen to sign for the deaf. Craig and Tweek are holding hands]\nPut it down. Don't be on your phone while being president.\nPut it down. You might do something dumb and cause an accident.\nWe all agree, here today, that if we're leader of the U.S.A.\nWe'll put it down [the parents and the interpreter fade out. Craig and Tweek look at each other, smiling]\n"
+  },
+  {
+    "input": "[A sign language interpreter appears in a small window at upper right of the screen to sign for the deaf. Craig and Tweek are holding hands]\nPut it down. Don't be on your phone while being president.\nPut it down. You might do something dumb and cause an accident.\nWe all agree, here today, that if we're leader of the U.S.A.\nWe'll put it down [the parents and the interpreter fade out. Craig and Tweek look at each other, smiling]\n",
+    "output": "Put it down. [the choir fades out, leaving only Craig and Tweek]\n"
+  }
+]

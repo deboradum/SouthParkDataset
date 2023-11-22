@@ -1,0 +1,858 @@
+[
+  {
+    "input": "",
+    "output": "City Sushi\n\n[Downtown South Park. There's traffic and people on the sidewalk. Among all that is a small postman who looks pretty familiar. The postman stops at a kitchenware place and knocks on the door. A cashier comes to the door and opens it]\n"
+  },
+  {
+    "input": "City Sushi\n\n[Downtown South Park. There's traffic and people on the sidewalk. Among all that is a small postman who looks pretty familiar. The postman stops at a kitchenware place and knocks on the door. A cashier comes to the door and opens it]\n",
+    "output": "Hello sir. Postman Butters with a special delivery for you. [hands him a flyer]\n"
+  },
+  {
+    "input": "Hello sir. Postman Butters with a special delivery for you. [hands him a flyer]\n",
+    "output": "What's this?\n"
+  },
+  {
+    "input": "What's this?\n",
+    "output": "An all-new sushi restaurant just opened in town. Try their lunch specials.\n"
+  },
+  {
+    "input": "An all-new sushi restaurant just opened in town. Try their lunch specials.\n",
+    "output": "Thanks.\n"
+  },
+  {
+    "input": "Thanks.\n",
+    "output": "You can count on Postman Butters! [salutes and leaves. As he does so, the cashier makes a ball out of the flyer and tosses it away. Butters doesn't notice, but instead sees a woman coming up and hands her a flyer] Special delivery, ma'am. [sees a man coming up and hands him a flyer. The woman crumples up her flyer and tosses it away] Here you are, sir. [the man balls up and tosses his flyer away] Brand new sushi restaurant in town. [Butters sees another man and hands him a flyer] A flyer for you, from Postman Butters! [the man crumples up his flyer and tosses is away. Butters ends up in front of City Wok and enters. He approaches the counter]\n"
+  },
+  {
+    "input": "You can count on Postman Butters! [salutes and leaves. As he does so, the cashier makes a ball out of the flyer and tosses it away. Butters doesn't notice, but instead sees a woman coming up and hands her a flyer] Special delivery, ma'am. [sees a man coming up and hands him a flyer. The woman crumples up her flyer and tosses it away] Here you are, sir. [the man balls up and tosses his flyer away] Brand new sushi restaurant in town. [Butters sees another man and hands him a flyer] A flyer for you, from Postman Butters! [the man crumples up his flyer and tosses is away. Butters ends up in front of City Wok and enters. He approaches the counter]\n",
+    "output": "Welcome to Shitty Wok. Can I take a order prease?\n"
+  },
+  {
+    "input": "Welcome to Shitty Wok. Can I take a order prease?\n",
+    "output": "Hello, sir. Postman Butters here with a special delivery for you.\n"
+  },
+  {
+    "input": "Hello, sir. Postman Butters here with a special delivery for you.\n",
+    "output": "[leaves the counter] Wha you talking 'bout?\n"
+  },
+  {
+    "input": "[leaves the counter] Wha you talking 'bout?\n",
+    "output": "It's a coupon for a brand-new Asian restaurant that just opened up in town.\n"
+  },
+  {
+    "input": "It's a coupon for a brand-new Asian restaurant that just opened up in town.\n",
+    "output": "A what? Ret me see that! [grabs the flyer] Oh no, a sushi prace? How come every time a hard-working Chinese man open a business, some shmelly Japanese dog has to come and try invade him?!\n"
+  },
+  {
+    "input": "A what? Ret me see that! [grabs the flyer] Oh no, a sushi prace? How come every time a hard-working Chinese man open a business, some shmelly Japanese dog has to come and try invade him?!\n",
+    "output": "Uhhhh I don't know, I'm just bein' paid to hand out flyers.\n"
+  },
+  {
+    "input": "Uhhhh I don't know, I'm just bein' paid to hand out flyers.\n",
+    "output": "Where is this Japanese-uh toiret bowl?! How far from my Shitty Wok?!\n"
+  },
+  {
+    "input": "Where is this Japanese-uh toiret bowl?! How far from my Shitty Wok?!\n",
+    "output": "Wuh you mean the sha-sushi restaurant? Ih-it's right over there.\n"
+  },
+  {
+    "input": "Wuh you mean the sha-sushi restaurant? Ih-it's right over there.\n",
+    "output": "What?! Whaaat?! [runs outside and looks both ways. He looks to his left again... There it is: City Sushi, complete with cat statues] What the fuuuck?! [goes inside]\n[Inside City Sushi. Butters follows Mr. Kim in]\n"
+  },
+  {
+    "input": "What?! Whaaat?! [runs outside and looks both ways. He looks to his left again... There it is: City Sushi, complete with cat statues] What the fuuuck?! [goes inside]\n[Inside City Sushi. Butters follows Mr. Kim in]\n",
+    "output": "Welcome to City Sushi. Can I take er order prease?\n"
+  },
+  {
+    "input": "Welcome to City Sushi. Can I take er order prease?\n",
+    "output": "What's the big idea putting your Shitty Sushi right next to my Shitty Wok?!\n"
+  },
+  {
+    "input": "What's the big idea putting your Shitty Sushi right next to my Shitty Wok?!\n",
+    "output": "I'm sorry I do not understand your accent. You want a Shitty tuna roll?\n"
+  },
+  {
+    "input": "I'm sorry I do not understand your accent. You want a Shitty tuna roll?\n",
+    "output": "No I don't want Shitty tuna roll! I want you to go find another shitty town to open your Shitty Sushi prace!\n"
+  },
+  {
+    "input": "No I don't want Shitty tuna roll! I want you to go find another shitty town to open your Shitty Sushi prace!\n",
+    "output": "Why don't you please ujust speak Engrish? Maybe I can understand you!\n"
+  },
+  {
+    "input": "Why don't you please ujust speak Engrish? Maybe I can understand you!\n",
+    "output": "I am speaking Engrish! Why don't you speak a fucking Engrish, you soba eating fuck!\n"
+  },
+  {
+    "input": "I am speaking Engrish! Why don't you speak a fucking Engrish, you soba eating fuck!\n",
+    "output": "Get out or I call porice!\n"
+  },
+  {
+    "input": "Get out or I call porice!\n",
+    "output": "Come on, kid, you don't wanna eat this-a Shitty Sushi! It give you worms.\n"
+  },
+  {
+    "input": "Come on, kid, you don't wanna eat this-a Shitty Sushi! It give you worms.\n",
+    "output": "Better than Shitty Kung Pao Chicken made from cat! [Mr. Kim turns and runs to the counter, jumps over it and lands a blow in Mr. Takiyama's face. They trade blows. Mr. Kim ends with an uppercut]\n[Butters' house, day. Sgt. Yates and another office bring Butters home. Sgt. Yates knocks, Mr. Stotch answers]\n"
+  },
+  {
+    "input": "Better than Shitty Kung Pao Chicken made from cat! [Mr. Kim turns and runs to the counter, jumps over it and lands a blow in Mr. Takiyama's face. They trade blows. Mr. Kim ends with an uppercut]\n[Butters' house, day. Sgt. Yates and another office bring Butters home. Sgt. Yates knocks, Mr. Stotch answers]\n",
+    "output": "Hello?\n"
+  },
+  {
+    "input": "Hello?\n",
+    "output": "Sir, does this mailman belong to you?\n"
+  },
+  {
+    "input": "Sir, does this mailman belong to you?\n",
+    "output": "That's my son. Is there a problem, officer?\n"
+  },
+  {
+    "input": "That's my son. Is there a problem, officer?\n",
+    "output": "There's been an Asian turf war, sir, and your son appears to have caused it.\n"
+  },
+  {
+    "input": "There's been an Asian turf war, sir, and your son appears to have caused it.\n",
+    "output": "What?! An Asian turf war- Butters! You are grounded!\n"
+  },
+  {
+    "input": "What?! An Asian turf war- Butters! You are grounded!\n",
+    "output": "But, sir, i was just handing out coupons for-\n"
+  },
+  {
+    "input": "But, sir, i was just handing out coupons for-\n",
+    "output": "Don't talk back to me! [Butters goes inside]\n"
+  },
+  {
+    "input": "Don't talk back to me! [Butters goes inside]\n",
+    "output": "We'll send a bill for the damages, [the officers turn and leave] but in the meantime, please keep a closer eye on your child, sir? [Stephen closes the door]\n[Butters' house, inside. Linda meets Stephen at the foot of the stairs as he has words with Butters]\n"
+  },
+  {
+    "input": "We'll send a bill for the damages, [the officers turn and leave] but in the meantime, please keep a closer eye on your child, sir? [Stephen closes the door]\n[Butters' house, inside. Linda meets Stephen at the foot of the stairs as he has words with Butters]\n",
+    "output": "Go up to your room, now! [Butters goes upstairs]\n"
+  },
+  {
+    "input": "Go up to your room, now! [Butters goes upstairs]\n",
+    "output": "What's going on?\n"
+  },
+  {
+    "input": "What's going on?\n",
+    "output": "Butters started an Asian turf war!\n"
+  },
+  {
+    "input": "Butters started an Asian turf war!\n",
+    "output": "Oh, for the love of Pete! What is wrong with that boy?\n"
+  },
+  {
+    "input": "Oh, for the love of Pete! What is wrong with that boy?\n",
+    "output": "I don't know, but it's clear it isn't our parenting! We're awesome! He must have mental problems. I think we'd batter have him checked out, Linda.\n[Center for Criminally Insane Children. Inside, a doctor is in a lab with Butters as Linda and Stephen wait outside. The doctor opens the door and sighs. He meets with Butters' parents.]\n"
+  },
+  {
+    "input": "I don't know, but it's clear it isn't our parenting! We're awesome! He must have mental problems. I think we'd batter have him checked out, Linda.\n[Center for Criminally Insane Children. Inside, a doctor is in a lab with Butters as Linda and Stephen wait outside. The doctor opens the door and sighs. He meets with Butters' parents.]\n",
+    "output": "Well, Dr. Janus?\n"
+  },
+  {
+    "input": "Well, Dr. Janus?\n",
+    "output": "I'm afraid I have some bad news. Your son is suffering from Multiple Personality Disorder.\n"
+  },
+  {
+    "input": "I'm afraid I have some bad news. Your son is suffering from Multiple Personality Disorder.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "There are several distinct personalities going on in there. One is named \"Postman Butters\" and yet another is \"Fireman Butters.\" And then there's even \"Inspector Butters\" and uh, \"Professor Chaos\".\n"
+  },
+  {
+    "input": "There are several distinct personalities going on in there. One is named \"Postman Butters\" and yet another is \"Fireman Butters.\" And then there's even \"Inspector Butters\" and uh, \"Professor Chaos\".\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "From what I gather, he seems to mostly jump in and out of personalities when he's outside playing. Sometimes he's a cowboy and other times he's an Indian, and the two seem to be at constant odds.\n"
+  },
+  {
+    "input": "From what I gather, he seems to mostly jump in and out of personalities when he's outside playing. Sometimes he's a cowboy and other times he's an Indian, and the two seem to be at constant odds.\n",
+    "output": "Oh, poor Butters! [starts crying]\n"
+  },
+  {
+    "input": "Oh, poor Butters! [starts crying]\n",
+    "output": "Doctor, what can we do? Should we ground him?\n"
+  },
+  {
+    "input": "Doctor, what can we do? Should we ground him?\n",
+    "output": "No, I don't think grounding him would do much good at this point. [glances at Butters] What your son needs now is lots of tender loving... medication. Heavy medication.\n[News report, outside the two Asian restaurants, day]\n"
+  },
+  {
+    "input": "No, I don't think grounding him would do much good at this point. [glances at Butters] What your son needs now is lots of tender loving... medication. Heavy medication.\n[News report, outside the two Asian restaurants, day]\n",
+    "output": "\n"
+  },
+  {
+    "input": "\n",
+    "output": "[comes out of his restaurant and sees the sign] What the fuuuck?! [goes into City Sushi] You see what happen?!\n"
+  },
+  {
+    "input": "[comes out of his restaurant and sees the sign] What the fuuuck?! [goes into City Sushi] You see what happen?!\n",
+    "output": "I told you not to come in here!\n"
+  },
+  {
+    "input": "I told you not to come in here!\n",
+    "output": "Now everyone in town think a Chinese and a Japanese are the same fucking thing!\n"
+  },
+  {
+    "input": "Now everyone in town think a Chinese and a Japanese are the same fucking thing!\n",
+    "output": "I don't even know what the fuck you are saying! Uhpupuh putuh peepee!\n"
+  },
+  {
+    "input": "I don't even know what the fuck you are saying! Uhpupuh putuh peepee!\n",
+    "output": "Aaah you Japanese racist! [Mr. Kim launches at Mr. Takiyama like he did before, and they trade blows again.]\n[Butters' house, night. Steven is reading the newspaper at his den.]\n"
+  },
+  {
+    "input": "Aaah you Japanese racist! [Mr. Kim launches at Mr. Takiyama like he did before, and they trade blows again.]\n[Butters' house, night. Steven is reading the newspaper at his den.]\n",
+    "output": "[runs in] Stephen! Stephen, come quick! It's Butters! [runs off. He follows her out. They reach the backyard] Look!\n"
+  },
+  {
+    "input": "[runs in] Stephen! Stephen, come quick! It's Butters! [runs off. He follows her out. They reach the backyard] Look!\n",
+    "output": "[pretending he's a trucker in his cab] Honk honk! Breaker 1-9, breaker 1-9. It's clean clear out to Flagtown! Looks like we got ourselves a convoy! Honk honk!\n"
+  },
+  {
+    "input": "[pretending he's a trucker in his cab] Honk honk! Breaker 1-9, breaker 1-9. It's clean clear out to Flagtown! Looks like we got ourselves a convoy! Honk honk!\n",
+    "output": "Now he thinks he's a truck driver. [cries into Stephen's shoulder]\n"
+  },
+  {
+    "input": "Now he thinks he's a truck driver. [cries into Stephen's shoulder]\n",
+    "output": "Oh God the medication isn't working!\n"
+  },
+  {
+    "input": "Oh God the medication isn't working!\n",
+    "output": "It's okay, buddy, you've got a smokey on your tail, bug Big Rig Butters is here to help! Vroovrooom. [Stephen runs up to him]\n"
+  },
+  {
+    "input": "It's okay, buddy, you've got a smokey on your tail, bug Big Rig Butters is here to help! Vroovrooom. [Stephen runs up to him]\n",
+    "output": "Butters! Butters!! [grabs Butters by the shoulders and shakes him hard] Butterrrrs!!!\n"
+  },
+  {
+    "input": "Butters! Butters!! [grabs Butters by the shoulders and shakes him hard] Butterrrrs!!!\n",
+    "output": "Oh hey Dad.\n"
+  },
+  {
+    "input": "Oh hey Dad.\n",
+    "output": "You're back. You're back-he's back! [Stephen hugs Butters tight and cries.] I love you, son!\n"
+  },
+  {
+    "input": "You're back. You're back-he's back! [Stephen hugs Butters tight and cries.] I love you, son!\n",
+    "output": "I love you too, Dad.\n"
+  },
+  {
+    "input": "I love you too, Dad.\n",
+    "output": "You're going to be okay, Butters! You hear me?! You are going to be okay!!! [Linda whimpers a bit]\n[City Sushi, day. Mr. Kim enters]\n"
+  },
+  {
+    "input": "You're going to be okay, Butters! You hear me?! You are going to be okay!!! [Linda whimpers a bit]\n[City Sushi, day. Mr. Kim enters]\n",
+    "output": "Youuu, get out! I told you not to come in here!\n"
+  },
+  {
+    "input": "Youuu, get out! I told you not to come in here!\n",
+    "output": "Okay, whoa, just hold a minute, hold a minute. I come ina peace.\n"
+  },
+  {
+    "input": "Okay, whoa, just hold a minute, hold a minute. I come ina peace.\n",
+    "output": "I don't berieve you!\n"
+  },
+  {
+    "input": "I don't berieve you!\n",
+    "output": "Come on, rook! All this fighting, it's just to sirry, you know? Chinese anda Japanese been fighting for so rong. It'sa ridicurous. What we need... is to have a tweaty.\n"
+  },
+  {
+    "input": "Come on, rook! All this fighting, it's just to sirry, you know? Chinese anda Japanese been fighting for so rong. It'sa ridicurous. What we need... is to have a tweaty.\n",
+    "output": "What is tweaty?\n"
+  },
+  {
+    "input": "What is tweaty?\n",
+    "output": "Nono, we need a tweaty.\n"
+  },
+  {
+    "input": "Nono, we need a tweaty.\n",
+    "output": "A tweaty?\n"
+  },
+  {
+    "input": "A tweaty?\n",
+    "output": "No, not a treaty, a tweaty!\n"
+  },
+  {
+    "input": "No, not a treaty, a tweaty!\n",
+    "output": "Oh, you mean a treaty?\n"
+  },
+  {
+    "input": "Oh, you mean a treaty?\n",
+    "output": "What the fuck is a tweaty?\n"
+  },
+  {
+    "input": "What the fuck is a tweaty?\n",
+    "output": "No no, a treaty.\n"
+  },
+  {
+    "input": "No no, a treaty.\n",
+    "output": "A tweaty? [no response] Rook rook. All these racist people thinka that a Chinese and a Japanese are the same, right? So you and me, we put on a big assembry for all the kids are school, and then everyone understand curtural difference. You know, so they know fried rice isn't from Japan and teriyaki isn't from China.\n"
+  },
+  {
+    "input": "A tweaty? [no response] Rook rook. All these racist people thinka that a Chinese and a Japanese are the same, right? So you and me, we put on a big assembry for all the kids are school, and then everyone understand curtural difference. You know, so they know fried rice isn't from Japan and teriyaki isn't from China.\n",
+    "output": "Teriyaki isn't from China?\n"
+  },
+  {
+    "input": "Teriyaki isn't from China?\n",
+    "output": "[screams in his face] No, teriyaki isn't froma fucking China!\n"
+  },
+  {
+    "input": "[screams in his face] No, teriyaki isn't froma fucking China!\n",
+    "output": "Very well. I will do assembly with you.\n"
+  },
+  {
+    "input": "Very well. I will do assembly with you.\n",
+    "output": "Oh really? Oh great. [backs away] Okay, I'll meet you tomorrow and we can go over our prans. [turns around] And when you get to that assembry, you gonna get big surprise, you Japanese dog.\n[Dr. Janus' lab, day.]\n"
+  },
+  {
+    "input": "Oh really? Oh great. [backs away] Okay, I'll meet you tomorrow and we can go over our prans. [turns around] And when you get to that assembry, you gonna get big surprise, you Japanese dog.\n[Dr. Janus' lab, day.]\n",
+    "output": "Butters, when you were playing in the yard yesterday, do you remember becoming someone named... Big Rig Butters?\n"
+  },
+  {
+    "input": "Butters, when you were playing in the yard yesterday, do you remember becoming someone named... Big Rig Butters?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "What makes Big Rig Butters come out? Did somebody hurt him? Did he do something bad he can't forgive himself for?\n"
+  },
+  {
+    "input": "What makes Big Rig Butters come out? Did somebody hurt him? Did he do something bad he can't forgive himself for?\n",
+    "output": "Uh, no, he's pretty much just a truck driver.\n"
+  },
+  {
+    "input": "Uh, no, he's pretty much just a truck driver.\n",
+    "output": "You don't know. But, maybe somebody else in there does. Do you think it would be possible for me to speak with... Inspector Butters?\n"
+  },
+  {
+    "input": "You don't know. But, maybe somebody else in there does. Do you think it would be possible for me to speak with... Inspector Butters?\n",
+    "output": "Sure.\n"
+  },
+  {
+    "input": "Sure.\n",
+    "output": "I'm now speaking to the person known as Inspector Butters.\n"
+  },
+  {
+    "input": "I'm now speaking to the person known as Inspector Butters.\n",
+    "output": "Inspector Butters is on the case! Heheh, he this is fun.\n"
+  },
+  {
+    "input": "Inspector Butters is on the case! Heheh, he this is fun.\n",
+    "output": "Inspector Butters, what do you want?\n"
+  },
+  {
+    "input": "Inspector Butters, what do you want?\n",
+    "output": "Uh, well, to solve mysteries.\n"
+  },
+  {
+    "input": "Uh, well, to solve mysteries.\n",
+    "output": "And is there someone else living with you, someone named... Professor Chaos?\n"
+  },
+  {
+    "input": "And is there someone else living with you, someone named... Professor Chaos?\n",
+    "output": "Oh well, sure, uh he's the bringer of destruction and evil!\n"
+  },
+  {
+    "input": "Oh well, sure, uh he's the bringer of destruction and evil!\n",
+    "output": "He's a bad man. He doesn't like Butters, does he? Does Professor Chaos want to murder Butters?\n"
+  },
+  {
+    "input": "He's a bad man. He doesn't like Butters, does he? Does Professor Chaos want to murder Butters?\n",
+    "output": "What? Why would I do that?\n"
+  },
+  {
+    "input": "What? Why would I do that?\n",
+    "output": "Who am I speaking to now?\n"
+  },
+  {
+    "input": "Who am I speaking to now?\n",
+    "output": "Me, Butters.\n"
+  },
+  {
+    "input": "Me, Butters.\n",
+    "output": "Ah, Butters. You're back.\n"
+  },
+  {
+    "input": "Ah, Butters. You're back.\n",
+    "output": "Sir, I'm confused.\n"
+  },
+  {
+    "input": "Sir, I'm confused.\n",
+    "output": "I know you are. This is going to sound scary, pal, but... you have people living inside your head. And some of them want to murder you.\n"
+  },
+  {
+    "input": "I know you are. This is going to sound scary, pal, but... you have people living inside your head. And some of them want to murder you.\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yes, I'm afraid you're a little sick. But it's okay, because together we're going to get you well.\n"
+  },
+  {
+    "input": "Yes, I'm afraid you're a little sick. But it's okay, because together we're going to get you well.\n",
+    "output": "[a teenaged personality] Don't listen to Dr. Janus! He's a mean old man and a big silly grown up.\n"
+  },
+  {
+    "input": "[a teenaged personality] Don't listen to Dr. Janus! He's a mean old man and a big silly grown up.\n",
+    "output": "Pardon me?\n"
+  },
+  {
+    "input": "Pardon me?\n",
+    "output": "He's just a big old stick in the mud who doesn't like to play.\n"
+  },
+  {
+    "input": "He's just a big old stick in the mud who doesn't like to play.\n",
+    "output": "Don't mind him, Butters. Billy's a pretty messed up kid. He was molested by his uncles.\n"
+  },
+  {
+    "input": "Don't mind him, Butters. Billy's a pretty messed up kid. He was molested by his uncles.\n",
+    "output": "Dr. Janus isn't going to be alive for long! I'm going to kill him!\n"
+  },
+  {
+    "input": "Dr. Janus isn't going to be alive for long! I'm going to kill him!\n",
+    "output": "Now, what are the things that make you happy, Butters? What's the matter, Butters? Are you still with us? Is one of your other personalities trying to take over?\n"
+  },
+  {
+    "input": "Now, what are the things that make you happy, Butters? What's the matter, Butters? Are you still with us? Is one of your other personalities trying to take over?\n",
+    "output": "Let's play Battleship! All hands on the poop deck!\n"
+  },
+  {
+    "input": "Let's play Battleship! All hands on the poop deck!\n",
+    "output": "Your soul will bleed for eternity!\n"
+  },
+  {
+    "input": "Your soul will bleed for eternity!\n",
+    "output": "You don't even know what sexy is, Mr. Harrison.\n"
+  },
+  {
+    "input": "You don't even know what sexy is, Mr. Harrison.\n",
+    "output": "That Big Red freshness lasts right through it!\n"
+  },
+  {
+    "input": "That Big Red freshness lasts right through it!\n",
+    "output": "The horned toad says we should go to Mexico. [Butters doesn't know what to make of this doctor, and now he's afraid]\n"
+  },
+  {
+    "input": "The horned toad says we should go to Mexico. [Butters doesn't know what to make of this doctor, and now he's afraid]\n",
+    "output": "What are you feeling, Butters? Are you nervous about your condition?\n"
+  },
+  {
+    "input": "What are you feeling, Butters? Are you nervous about your condition?\n",
+    "output": "Yes!\n[Butter's bedroom, later. He's looking at a video he took of himself on his computer]\n"
+  },
+  {
+    "input": "Yes!\n[Butter's bedroom, later. He's looking at a video he took of himself on his computer]\n",
+    "output": "[a recording] This... is Butters. It's Wednesday night at 9 p.m. From what I understand, there are people living inside my head and they want to kill me. It must be true, because now every night I wet the bed. So tonight I'm gonna leave the camera on to see what exactly I become while I am sleeping.\n"
+  },
+  {
+    "input": "[a recording] This... is Butters. It's Wednesday night at 9 p.m. From what I understand, there are people living inside my head and they want to kill me. It must be true, because now every night I wet the bed. So tonight I'm gonna leave the camera on to see what exactly I become while I am sleeping.\n",
+    "output": "Oh man, this is freaky. Like that movie Paranormal.\n"
+  },
+  {
+    "input": "Oh man, this is freaky. Like that movie Paranormal.\n",
+    "output": "[a recording] Well goodnight for now. [leaves the desk and goes to bed] Goodnight, Butters.\n"
+  },
+  {
+    "input": "[a recording] Well goodnight for now. [leaves the desk and goes to bed] Goodnight, Butters.\n",
+    "output": "Goodnight, Butters. Hmm. Alright, I guess I'm goin' to fast-forward. [fast-forwards three hours and then gasps. At normal speed, his bedroom door opens slowly. A second later, Dr. Janus enters] Dr. Janus? [nothing happens for three more hours, so Butters fast-forwards to 3:32 in the morning, when Dr. Janus unzips his pants, pulls out his dick and urinates all over Butters, puts his penis away, zips his pants up, and punches Butters HARD several times before running out of the bedroom. Six seconds later, Butters is fully awake]\n"
+  },
+  {
+    "input": "Goodnight, Butters. Hmm. Alright, I guess I'm goin' to fast-forward. [fast-forwards three hours and then gasps. At normal speed, his bedroom door opens slowly. A second later, Dr. Janus enters] Dr. Janus? [nothing happens for three more hours, so Butters fast-forwards to 3:32 in the morning, when Dr. Janus unzips his pants, pulls out his dick and urinates all over Butters, puts his penis away, zips his pants up, and punches Butters HARD several times before running out of the bedroom. Six seconds later, Butters is fully awake]\n",
+    "output": "[a recording] Mom! Dad! I wet the bed again!\n"
+  },
+  {
+    "input": "[a recording] Mom! Dad! I wet the bed again!\n",
+    "output": "Oh, sweet jumping Jesus!\n[South Park Elementary Gymnasium, day. An Asian diversity poster is up on the projection screen. Mr. Mackey walks up next to it]\n"
+  },
+  {
+    "input": "Oh, sweet jumping Jesus!\n[South Park Elementary Gymnasium, day. An Asian diversity poster is up on the projection screen. Mr. Mackey walks up next to it]\n",
+    "output": "Okay, kids, today we have a special assembly, m'kay. Today we're going to learn about \"the diversity of Asian people.\" Please welcome Mr. Lu Kim and Mr. Junichi Takiyama. [Walks away. \"Shake that.\" A techno song comes on, followed my Mr. Kim and Mr. Takiyama dancing into view]\n"
+  },
+  {
+    "input": "Okay, kids, today we have a special assembly, m'kay. Today we're going to learn about \"the diversity of Asian people.\" Please welcome Mr. Lu Kim and Mr. Junichi Takiyama. [Walks away. \"Shake that.\" A techno song comes on, followed my Mr. Kim and Mr. Takiyama dancing into view]\n",
+    "output": "Ni hao ma, South Park Erementary?!\n"
+  },
+  {
+    "input": "Ni hao ma, South Park Erementary?!\n",
+    "output": "Konnichiwa?!\n"
+  },
+  {
+    "input": "Konnichiwa?!\n",
+    "output": "How are we arr feering?! [the music stops and the stand back to back]\nHey, Mr. Takiyama, did you know that China and Japan are actually uh different countries?\n"
+  },
+  {
+    "input": "How are we arr feering?! [the music stops and the stand back to back]\nHey, Mr. Takiyama, did you know that China and Japan are actually uh different countries?\n",
+    "output": "Oh, rearry? [they separate] Hey, that ruhight. If you ook at map, you can see.\n"
+  },
+  {
+    "input": "Oh, rearry? [they separate] Hey, that ruhight. If you ook at map, you can see.\n",
+    "output": "This whoooore thing is China, and Japan is this riiittle bitty country over here. And that's why the Japanese always try anda take over China!\n"
+  },
+  {
+    "input": "This whoooore thing is China, and Japan is this riiittle bitty country over here. And that's why the Japanese always try anda take over China!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "The Japanese planned to kill people in Nanking! The only thing Japanese ruve more than killing people is killing themselves! Suicide rate in Japan sky-high!\n"
+  },
+  {
+    "input": "The Japanese planned to kill people in Nanking! The only thing Japanese ruve more than killing people is killing themselves! Suicide rate in Japan sky-high!\n",
+    "output": "Fuck you!\n"
+  },
+  {
+    "input": "Fuck you!\n",
+    "output": "\"Oh no, I'm a Japanese and I had a bad day! I think I'm gonna kill myself!\"\n[Dr. Janus' lab, day. Mr. Janus leaves it, but is surprised to find Butters waiting for him]\n"
+  },
+  {
+    "input": "\"Oh no, I'm a Japanese and I had a bad day! I think I'm gonna kill myself!\"\n[Dr. Janus' lab, day. Mr. Janus leaves it, but is surprised to find Butters waiting for him]\n",
+    "output": "Oh, hello Butters. I wasn't expecting you till 5:30.\n"
+  },
+  {
+    "input": "Oh, hello Butters. I wasn't expecting you till 5:30.\n",
+    "output": "[nervous] Uh, yeah, Dr. Janus, I wanted to give you something. You remember how you told me if I got myself on video it might help me with my problem?\n"
+  },
+  {
+    "input": "[nervous] Uh, yeah, Dr. Janus, I wanted to give you something. You remember how you told me if I got myself on video it might help me with my problem?\n",
+    "output": "Yes. did you catch something?\n"
+  },
+  {
+    "input": "Yes. did you catch something?\n",
+    "output": "Well yeah ah, I saw you pissing in my face.\n"
+  },
+  {
+    "input": "Well yeah ah, I saw you pissing in my face.\n",
+    "output": "[sees the DVD disc and snatches it away, then checks it over] Oh, so you're on to me, huh you little shit?!\n"
+  },
+  {
+    "input": "[sees the DVD disc and snatches it away, then checks it over] Oh, so you're on to me, huh you little shit?!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "What, Inspector butters figured out I set him up?!\n"
+  },
+  {
+    "input": "What, Inspector butters figured out I set him up?!\n",
+    "output": "Well no, ah I just thought it was one of your other personalities trying to give me a-\n"
+  },
+  {
+    "input": "Well no, ah I just thought it was one of your other personalities trying to give me a-\n",
+    "output": "Oh come on! You think multiple personality disorder is real?! I've been using that to scam this town for seven years! Now I gotta get out of here, thanks to you! But I'm getting one last heist before I go, and you're gonna help me!\n[A jewelry shop, closed for the night. Dr. Janus destroys a window with a crow bar, then lifts Butters into the shop]\n"
+  },
+  {
+    "input": "Oh come on! You think multiple personality disorder is real?! I've been using that to scam this town for seven years! Now I gotta get out of here, thanks to you! But I'm getting one last heist before I go, and you're gonna help me!\n[A jewelry shop, closed for the night. Dr. Janus destroys a window with a crow bar, then lifts Butters into the shop]\n",
+    "output": "Get in there! Move it, asshole!\n"
+  },
+  {
+    "input": "Get in there! Move it, asshole!\n",
+    "output": "This is illegal. We could get arrested. [Dr. Janus breaks into some display cases and swipes the jewels into a satchel that Butters is carrying] Oh Jesus!\n"
+  },
+  {
+    "input": "This is illegal. We could get arrested. [Dr. Janus breaks into some display cases and swipes the jewels into a satchel that Butters is carrying] Oh Jesus!\n",
+    "output": "They're all idiots! The vault! Get to the vault! Come on! Go! Movie it! [puts some welding goggles on Butters while getting a welding torch and firing it up] Get this on and get in that vault! That's where the real good are! [hands the lit torch to Butters] Torch that door, do you hear me?! I'll kill your parents! I'll kill your friends! I said get that fucking door open!\n"
+  },
+  {
+    "input": "They're all idiots! The vault! Get to the vault! Come on! Go! Movie it! [puts some welding goggles on Butters while getting a welding torch and firing it up] Get this on and get in that vault! That's where the real good are! [hands the lit torch to Butters] Torch that door, do you hear me?! I'll kill your parents! I'll kill your friends! I said get that fucking door open!\n",
+    "output": "I'm trying, sir! [this changes Dr. Janus' behavior]\n"
+  },
+  {
+    "input": "I'm trying, sir! [this changes Dr. Janus' behavior]\n",
+    "output": "Butters? Butters, what are you doing? What is that? A blowtorch? Put that down! You're having another episode!\n"
+  },
+  {
+    "input": "Butters? Butters, what are you doing? What is that? A blowtorch? Put that down! You're having another episode!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Butters. Your name is Butters! Try and remember!\n"
+  },
+  {
+    "input": "Butters. Your name is Butters! Try and remember!\n",
+    "output": "But you said to uh, but I got to uh, and then, you told me tuh...\n"
+  },
+  {
+    "input": "But you said to uh, but I got to uh, and then, you told me tuh...\n",
+    "output": "[sighs loudly] Oh boy, you've really done it this time. I know it's not your fault, but I'm sorry. I'm going to have to alert the authorities, pal.\n[Delia's Jewelers, day. Dr. Janus addresses the crowd and the police]\n"
+  },
+  {
+    "input": "[sighs loudly] Oh boy, you've really done it this time. I know it's not your fault, but I'm sorry. I'm going to have to alert the authorities, pal.\n[Delia's Jewelers, day. Dr. Janus addresses the crowd and the police]\n",
+    "output": "We have to try and understand that he can't help what he's doing, officer. He probably has no memory of it at all.\n"
+  },
+  {
+    "input": "We have to try and understand that he can't help what he's doing, officer. He probably has no memory of it at all.\n",
+    "output": "Well, at least everything is accounted for. Thank God you came when you did, Dr. Janus.\n"
+  },
+  {
+    "input": "Well, at least everything is accounted for. Thank God you came when you did, Dr. Janus.\n",
+    "output": "Breaking into a store, Butters?! What are you?!\n"
+  },
+  {
+    "input": "Breaking into a store, Butters?! What are you?!\n",
+    "output": "Well I suppose there's no need for jail, Mr. and Mrs. Stotch, so long as you ground your son.\n"
+  },
+  {
+    "input": "Well I suppose there's no need for jail, Mr. and Mrs. Stotch, so long as you ground your son.\n",
+    "output": "Oh, we'll ground the shit out of him, detective. Thank you so much.\n[City Sushi, day. Mr. Takiyama is preparing some sushi behind the counter when Mr. Kim enters]\n"
+  },
+  {
+    "input": "Oh, we'll ground the shit out of him, detective. Thank you so much.\n[City Sushi, day. Mr. Takiyama is preparing some sushi behind the counter when Mr. Kim enters]\n",
+    "output": "Herro-o.\n"
+  },
+  {
+    "input": "Herro-o.\n",
+    "output": "You get the fuck out of my place!\n"
+  },
+  {
+    "input": "You get the fuck out of my place!\n",
+    "output": "Okay, hold on, hold on, please! I'ma sorry, okay? I'm sorry. I admit it. I fucked you at the assembly. How about you and me together do an Asian Diversity festival?\n"
+  },
+  {
+    "input": "Okay, hold on, hold on, please! I'ma sorry, okay? I'm sorry. I admit it. I fucked you at the assembly. How about you and me together do an Asian Diversity festival?\n",
+    "output": "Get the fuck out before I call police!\n"
+  },
+  {
+    "input": "Get the fuck out before I call police!\n",
+    "output": "Please, I admitting it, okay?I fucked you at assembly. There's no way around it. It was verrry sneaky. Kind of like Pearl Harbor. Okay? That was a little sneaky too, huh? Pearl Harbor kind of sneaky; I think we can all be a rittle sneaky sometimes, hm? But that sneaky Chinese man? He's gone! Okay? Okay, if we can have Asian Diversity festival, then we no longer have to deal witha \"recial stereotypes.\" Prease.\n"
+  },
+  {
+    "input": "Please, I admitting it, okay?I fucked you at assembly. There's no way around it. It was verrry sneaky. Kind of like Pearl Harbor. Okay? That was a little sneaky too, huh? Pearl Harbor kind of sneaky; I think we can all be a rittle sneaky sometimes, hm? But that sneaky Chinese man? He's gone! Okay? Okay, if we can have Asian Diversity festival, then we no longer have to deal witha \"recial stereotypes.\" Prease.\n",
+    "output": "Against my better judgment, I will trust you one more time. But this time, you'd better not rub your hands together when you turn around to walk away.\n"
+  },
+  {
+    "input": "Against my better judgment, I will trust you one more time. But this time, you'd better not rub your hands together when you turn around to walk away.\n",
+    "output": "Okay, see you tomorrow. [turns around and walks away, but stops long enough to rub his hands together] And on that Asian Diversity day you're gonna get a rittle surprise, you Japanese dog. [continues on his way]\n[Butters' backyard. His Postman Butters uniform is on the ground, and he pours some gas on it. He then lights it and begins throwing in more of his costumes, which are in a cardboard box labeled \"Butters' Play Clothes\"]\n"
+  },
+  {
+    "input": "Okay, see you tomorrow. [turns around and walks away, but stops long enough to rub his hands together] And on that Asian Diversity day you're gonna get a rittle surprise, you Japanese dog. [continues on his way]\n[Butters' backyard. His Postman Butters uniform is on the ground, and he pours some gas on it. He then lights it and begins throwing in more of his costumes, which are in a cardboard box labeled \"Butters' Play Clothes\"]\n",
+    "output": "That does it, you hear me?! I am through with all of you! No more Postman Butters, No more Inspector Butters, no more Porn Star Butters, no more Professor Chaos, and no more- [a bicycle horn stops him, and he holds on to his Professor Chaos mask. He looks over and sees Dr. Janus on a child's tricycle glaring at him] Waaahh! [runs away. As he does, he tosses the Professor Chaos mask back into the cardboard box. Butters runs into the neighborhood park. Dr. Janus chases him down and tackles him there.]\n"
+  },
+  {
+    "input": "That does it, you hear me?! I am through with all of you! No more Postman Butters, No more Inspector Butters, no more Porn Star Butters, no more Professor Chaos, and no more- [a bicycle horn stops him, and he holds on to his Professor Chaos mask. He looks over and sees Dr. Janus on a child's tricycle glaring at him] Waaahh! [runs away. As he does, he tosses the Professor Chaos mask back into the cardboard box. Butters runs into the neighborhood park. Dr. Janus chases him down and tackles him there.]\n",
+    "output": "Butters please! It's me, Billy! You've gotta help! [moments later they are seated on a park bench] Please, Butters, I've tried to tell old Dr. Janus that we're in danger, but Dr. Janus doesn't rrealize thaere's a problem! [stands up and walks around] The mean man that lives in our head is trying to take over for good!\n"
+  },
+  {
+    "input": "Butters please! It's me, Billy! You've gotta help! [moments later they are seated on a park bench] Please, Butters, I've tried to tell old Dr. Janus that we're in danger, but Dr. Janus doesn't rrealize thaere's a problem! [stands up and walks around] The mean man that lives in our head is trying to take over for good!\n",
+    "output": "[sees a couple walking by] Um, excuse me?\n"
+  },
+  {
+    "input": "[sees a couple walking by] Um, excuse me?\n",
+    "output": "[running around the bench to quickly distract Butters] No no nonono! Don't call out for help! [Dr. Janus opens his sports coat and points to a sidearm] He's got a gun.\n"
+  },
+  {
+    "input": "[running around the bench to quickly distract Butters] No no nonono! Don't call out for help! [Dr. Janus opens his sports coat and points to a sidearm] He's got a gun.\n",
+    "output": "Wahh!\n"
+  },
+  {
+    "input": "Wahh!\n",
+    "output": "If you draw any attention he'll kill us!\n"
+  },
+  {
+    "input": "If you draw any attention he'll kill us!\n",
+    "output": "Please, Billy, ah I'm just a kid too. I can't help you.\n"
+  },
+  {
+    "input": "Please, Billy, ah I'm just a kid too. I can't help you.\n",
+    "output": "No, you can't. But you know somebody who can. Inspector Butters.\n"
+  },
+  {
+    "input": "No, you can't. But you know somebody who can. Inspector Butters.\n",
+    "output": "What??\n"
+  },
+  {
+    "input": "What??\n",
+    "output": "You've got to become Inspector Butters again and help me find out what the mean man wants.\n"
+  },
+  {
+    "input": "You've got to become Inspector Butters again and help me find out what the mean man wants.\n",
+    "output": "No! You told me NOT to play Inspector Butters!\n"
+  },
+  {
+    "input": "No! You told me NOT to play Inspector Butters!\n",
+    "output": "You don't understand! For some reason the mean man is getting stronger. You have to help me find out how to stop him! Please! [Butters sighs]\n[South Park's Little Tokyo presents \"Asian Diversity Day.\" A pagoda now stands between the two restaurants, and all three buildings are decorated with strings of lights, dragons, fish, and other motifs. Both restaurants are also offering samples of their menus. Here's a news report]\n"
+  },
+  {
+    "input": "You don't understand! For some reason the mean man is getting stronger. You have to help me find out how to stop him! Please! [Butters sighs]\n[South Park's Little Tokyo presents \"Asian Diversity Day.\" A pagoda now stands between the two restaurants, and all three buildings are decorated with strings of lights, dragons, fish, and other motifs. Both restaurants are also offering samples of their menus. Here's a news report]\n",
+    "output": "\n"
+  },
+  {
+    "input": "\n",
+    "output": "Mr. Takiyama, a note for you. [Mr. Takiyama takes the note and reads it]\n"
+  },
+  {
+    "input": "Mr. Takiyama, a note for you. [Mr. Takiyama takes the note and reads it]\n",
+    "output": "[voice-over] Konnichiwa, my fine Japanese friend. It's so great that Chinese and Japanese are finarry getting arong. We should take our picture together on top of the Tower of Peace. I'm up there waiting for you now. [Mr. Takiyama looks up, but doesn't see anyone up there] Prease, come meet me on top of the Tower of Peace. It would be rearry nice. [Tuong Lu Kim's image begins to rubs its hands together] Yesss, and when you get to the top of that tower you're gonna get a rittle surprise, you Japane- Oh, sorry. Anyway, see you on top of tower! [Mr. Takiyama leaves his sample display booth and goes into the tower]\n[Meanwhile, in a mansion, Dr. Janus and Butters walk around with flashlights]\n"
+  },
+  {
+    "input": "[voice-over] Konnichiwa, my fine Japanese friend. It's so great that Chinese and Japanese are finarry getting arong. We should take our picture together on top of the Tower of Peace. I'm up there waiting for you now. [Mr. Takiyama looks up, but doesn't see anyone up there] Prease, come meet me on top of the Tower of Peace. It would be rearry nice. [Tuong Lu Kim's image begins to rubs its hands together] Yesss, and when you get to the top of that tower you're gonna get a rittle surprise, you Japane- Oh, sorry. Anyway, see you on top of tower! [Mr. Takiyama leaves his sample display booth and goes into the tower]\n[Meanwhile, in a mansion, Dr. Janus and Butters walk around with flashlights]\n",
+    "output": "[as Billy] Dr. Janus sure has a big house, dudn't he? He's planning on hurting people; I just know it!\n"
+  },
+  {
+    "input": "[as Billy] Dr. Janus sure has a big house, dudn't he? He's planning on hurting people; I just know it!\n",
+    "output": "It's okay, Billy, we're gonna get to the bottom of this.\n"
+  },
+  {
+    "input": "It's okay, Billy, we're gonna get to the bottom of this.\n",
+    "output": "This is kinda fun. You're Inspector Butters and I'm your faithful assistant, Dr. Watson!\n"
+  },
+  {
+    "input": "This is kinda fun. You're Inspector Butters and I'm your faithful assistant, Dr. Watson!\n",
+    "output": "Well alright, Watson, well let's find out what we need to and get out of here!\n"
+  },
+  {
+    "input": "Well alright, Watson, well let's find out what we need to and get out of here!\n",
+    "output": "Yeah! [Dr. Janus takes over] Butteers, what are you doing in my house?\n"
+  },
+  {
+    "input": "Yeah! [Dr. Janus takes over] Butteers, what are you doing in my house?\n",
+    "output": "Hah?\n"
+  },
+  {
+    "input": "Hah?\n",
+    "output": "Oh dear. It's okay, Butters. You just think you're Inspector Butters right now.\n"
+  },
+  {
+    "input": "Oh dear. It's okay, Butters. You just think you're Inspector Butters right now.\n",
+    "output": "Aw man.\n"
+  },
+  {
+    "input": "Aw man.\n",
+    "output": "[escorts Butters to the front door] Come on, let's get you home. [Billy takes over] Where are ya gon', Butters?\n"
+  },
+  {
+    "input": "[escorts Butters to the front door] Come on, let's get you home. [Billy takes over] Where are ya gon', Butters?\n",
+    "output": "Oh, come on!\n"
+  },
+  {
+    "input": "Oh, come on!\n",
+    "output": "You aren't leaving here, Inspector! None of you are!\n"
+  },
+  {
+    "input": "You aren't leaving here, Inspector! None of you are!\n",
+    "output": "AAAAAAAAAAA! [runs away. Dr. Janus follows him upstairs] AAAAAAAAAAA!\n"
+  },
+  {
+    "input": "AAAAAAAAAAA! [runs away. Dr. Janus follows him upstairs] AAAAAAAAAAA!\n",
+    "output": "Butters, come on! Try and come back to us! [Mean Guy takes over] You can't run forever! [pizza delivery man takes over] Excuse me, did someone order a pizza? [Dr. Janus takes over] Yes, that was me, but I'm a little busy at the moment. I'll be right back! [Mean Guy takes over as Butters enters an attic room or a penthouse floor] You'll never turn me in, Inspector Butters! You're dead!\n"
+  },
+  {
+    "input": "Butters, come on! Try and come back to us! [Mean Guy takes over] You can't run forever! [pizza delivery man takes over] Excuse me, did someone order a pizza? [Dr. Janus takes over] Yes, that was me, but I'm a little busy at the moment. I'll be right back! [Mean Guy takes over as Butters enters an attic room or a penthouse floor] You'll never turn me in, Inspector Butters! You're dead!\n",
+    "output": "Waaaa! [runs to the end of a hall and knocks on the door found there. The door opens and he falls into a room. He looks up and gasps at what he sees: walls covered in newspaper headlines about City Sushi and its chef, and one word written in blood: KILL. Dr. Janus reaches the room and Butters looks over his shoulder. Dr. Janus squints his face and combs over his hair: it's...]\n"
+  },
+  {
+    "input": "Waaaa! [runs to the end of a hall and knocks on the door found there. The door opens and he falls into a room. He looks up and gasps at what he sees: walls covered in newspaper headlines about City Sushi and its chef, and one word written in blood: KILL. Dr. Janus reaches the room and Butters looks over his shoulder. Dr. Janus squints his face and combs over his hair: it's...]\n",
+    "output": "They wanna take over my Shitty Woookk?! Hory crap, what time is it? [checks his watch] Oh no, I'm rate! [turns around and runs downstairs, leaving Butters quite confused]\n[The Tower of Peace, night. Tuong Lu Kim runs upstairs and reaches the top, and sighs]\n"
+  },
+  {
+    "input": "They wanna take over my Shitty Woookk?! Hory crap, what time is it? [checks his watch] Oh no, I'm rate! [turns around and runs downstairs, leaving Butters quite confused]\n[The Tower of Peace, night. Tuong Lu Kim runs upstairs and reaches the top, and sighs]\n",
+    "output": "What took you so long?!\n"
+  },
+  {
+    "input": "What took you so long?!\n",
+    "output": "[takes out a cigarette, clips the end off, and lights it] Yes, I'm afraid my Tower of Peace was a rittle bit of trickery, Mr. Japanese dog. I'm going to put an end to you, and everyone gonna think it's just because you did what Japanese people ruve doing most. \"No, don't do it! Don't kill yourself, prease!\" [jumps on Mr. Takiyama and grabs him by the throat]\n"
+  },
+  {
+    "input": "[takes out a cigarette, clips the end off, and lights it] Yes, I'm afraid my Tower of Peace was a rittle bit of trickery, Mr. Japanese dog. I'm going to put an end to you, and everyone gonna think it's just because you did what Japanese people ruve doing most. \"No, don't do it! Don't kill yourself, prease!\" [jumps on Mr. Takiyama and grabs him by the throat]\n",
+    "output": "Urgh. Fuck you! I'ma not trying to kill myself!\n"
+  },
+  {
+    "input": "Urgh. Fuck you! I'ma not trying to kill myself!\n",
+    "output": "\"No, don't do it, prease!\" [some sirens are heard below] \"So much to rive for!\" [floodlights quickly find the two chefs, and they stand down]\n"
+  },
+  {
+    "input": "\"No, don't do it, prease!\" [some sirens are heard below] \"So much to rive for!\" [floodlights quickly find the two chefs, and they stand down]\n",
+    "output": "[through his bullhorn] This is South Park Police!\n"
+  },
+  {
+    "input": "[through his bullhorn] This is South Park Police!\n",
+    "output": "Porice?! How?!\n"
+  },
+  {
+    "input": "Porice?! How?!\n",
+    "output": "We know the truth, Dr. Janus!\n"
+  },
+  {
+    "input": "We know the truth, Dr. Janus!\n",
+    "output": "Thisa Chinise rat trying to kill me!\n"
+  },
+  {
+    "input": "Thisa Chinise rat trying to kill me!\n",
+    "output": "He's not Chinese! He's white!\n"
+  },
+  {
+    "input": "He's not Chinese! He's white!\n",
+    "output": "What the fuck you talkin' about?!\n"
+  },
+  {
+    "input": "What the fuck you talkin' about?!\n",
+    "output": "[enunciating] Your name is Dr. Janus!\n"
+  },
+  {
+    "input": "[enunciating] Your name is Dr. Janus!\n",
+    "output": "You people crazy! [Billy takes over] Listen to them! It's true! [Mean Guy takes over] Truth hurts, doesn't it, Janus! [Dr. Janus takes over] Who are you people?! Why are you all here?!\n"
+  },
+  {
+    "input": "You people crazy! [Billy takes over] Listen to them! It's true! [Mean Guy takes over] Truth hurts, doesn't it, Janus! [Dr. Janus takes over] Who are you people?! Why are you all here?!\n",
+    "output": "How could I ret myself berieve white man was a Chinese?! I have brought shame upon myself! [gets on the balcony and jumps off] Nooooo, this is racial stereotaipuuu! [crashes into his own restaurant, destroying it and dying upon impact]\n[Park County Police station, night. The police are talking to Butters and his parents]\n"
+  },
+  {
+    "input": "How could I ret myself berieve white man was a Chinese?! I have brought shame upon myself! [gets on the balcony and jumps off] Nooooo, this is racial stereotaipuuu! [crashes into his own restaurant, destroying it and dying upon impact]\n[Park County Police station, night. The police are talking to Butters and his parents]\n",
+    "output": "So you're telling us that Dr. Janus has been the owner of City Wok all this time?\n"
+  },
+  {
+    "input": "So you're telling us that Dr. Janus has been the owner of City Wok all this time?\n",
+    "output": "That's right. Of all his multiple personalities, the strongest was Lu Kim. And we never would have known... if it hadn'ta been for Inspector Butters. [the other officers present give Butters a round of applause.]\n"
+  },
+  {
+    "input": "That's right. Of all his multiple personalities, the strongest was Lu Kim. And we never would have known... if it hadn'ta been for Inspector Butters. [the other officers present give Butters a round of applause.]\n",
+    "output": "Thanks. I'm just glad the whole thing is over and done. Maybe now poor old Dr. Janus can finally get the help he needs.\n"
+  },
+  {
+    "input": "Thanks. I'm just glad the whole thing is over and done. Maybe now poor old Dr. Janus can finally get the help he needs.\n",
+    "output": "Yes Butters. Thanks to you, maybe Dr. Janus can get back to his real self.\n"
+  },
+  {
+    "input": "Yes Butters. Thanks to you, maybe Dr. Janus can get back to his real self.\n",
+    "output": "[walks off] Yes, I'm sure he could. But, then again, [stops, then turns around] does the world really need another therapist?\n"
+  },
+  {
+    "input": "[walks off] Yes, I'm sure he could. But, then again, [stops, then turns around] does the world really need another therapist?\n",
+    "output": "Whattaya mean?\n"
+  },
+  {
+    "input": "Whattaya mean?\n",
+    "output": "Well I mean, would it really be so bad for us to just let him go on thinking he's Lu Kim forever? Now that City Sushi is gone, City Wok is the only Chinese restaurant left in town.\n"
+  },
+  {
+    "input": "Well I mean, would it really be so bad for us to just let him go on thinking he's Lu Kim forever? Now that City Sushi is gone, City Wok is the only Chinese restaurant left in town.\n",
+    "output": "Oh yeah.\n"
+  },
+  {
+    "input": "Oh yeah.\n",
+    "output": "Yeah. Let's just let him keep believing he's a Chinese man.\n"
+  },
+  {
+    "input": "Yeah. Let's just let him keep believing he's a Chinese man.\n",
+    "output": "Done!\n"
+  },
+  {
+    "input": "Done!\n",
+    "output": "Good! Alright! Alright! Yeah!\n"
+  },
+  {
+    "input": "Good! Alright! Alright! Yeah!\n",
+    "output": "Detective, he's asking for a blanket. Is that alright?\n"
+  },
+  {
+    "input": "Detective, he's asking for a blanket. Is that alright?\n",
+    "output": "Go ahead. We're gonna process him and get him back to the restaurant. [the officer who conveyed the request carries a blanket back to Tuong Lu Kim's cell. He enters...]\n"
+  }
+]

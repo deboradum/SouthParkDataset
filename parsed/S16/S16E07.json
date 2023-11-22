@@ -1,0 +1,1034 @@
+[
+  {
+    "input": "",
+    "output": "Cartman Finds Love\n\n[South Park Elementary, hallway, day. The kids are milling around as Butters' wail is heard.]\n"
+  },
+  {
+    "input": "Cartman Finds Love\n\n[South Park Elementary, hallway, day. The kids are milling around as Butters' wail is heard.]\n",
+    "output": "[runs across the hallway] Fellas! Fellas! Fellas! [spots them in another hallway and runs to them] AAAAH, fellas!\n"
+  },
+  {
+    "input": "[runs across the hallway] Fellas! Fellas! Fellas! [spots them in another hallway and runs to them] AAAAH, fellas!\n",
+    "output": "What? [most of the fourth grade boys gather around]\n"
+  },
+  {
+    "input": "What? [most of the fourth grade boys gather around]\n",
+    "output": "[stops and catches his breath, then jabs his right index finger at the floor] Guess what Larry Barsky just told me?!\n"
+  },
+  {
+    "input": "[stops and catches his breath, then jabs his right index finger at the floor] Guess what Larry Barsky just told me?!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[jabs his finger again] Guess!\n"
+  },
+  {
+    "input": "[jabs his finger again] Guess!\n",
+    "output": "Just tell us, Butters.\n"
+  },
+  {
+    "input": "Just tell us, Butters.\n",
+    "output": "There's a new girl that started school here today. And she's joined the cheerleading squad.\n"
+  },
+  {
+    "input": "There's a new girl that started school here today. And she's joined the cheerleading squad.\n",
+    "output": "Oh, we have a new cheerleader?\n"
+  },
+  {
+    "input": "Oh, we have a new cheerleader?\n",
+    "output": "What's she look like?\n"
+  },
+  {
+    "input": "What's she look like?\n",
+    "output": "(Yeah, what's her name?)\n"
+  },
+  {
+    "input": "(Yeah, what's her name?)\n",
+    "output": "[taking control of the situation] Alright guys, alright! If there is a new girl at our school, we're not gonna start putting claims on her and getting into big fights! It's gonna be her choice who she likes the most.\n[The school gym, moments later. Some double doors are open and Butters peeks in. The other boys gather behind him, and soon all their jaws drop.]\n"
+  },
+  {
+    "input": "[taking control of the situation] Alright guys, alright! If there is a new girl at our school, we're not gonna start putting claims on her and getting into big fights! It's gonna be her choice who she likes the most.\n[The school gym, moments later. Some double doors are open and Butters peeks in. The other boys gather behind him, and soon all their jaws drop.]\n",
+    "output": "Look, look, there she is. [near the bleachers opposite the doors are five girls: Red, Wendy, Bebe, Lola, and Jenny. Between Wendy and Bebe are two pompoms waiting for a sixth cheerleader, who arrives shortly. It's a black girl. The other five girls begin talking to her all at once]\n"
+  },
+  {
+    "input": "Look, look, there she is. [near the bleachers opposite the doors are five girls: Red, Wendy, Bebe, Lola, and Jenny. Between Wendy and Bebe are two pompoms waiting for a sixth cheerleader, who arrives shortly. It's a black girl. The other five girls begin talking to her all at once]\n",
+    "output": "Oh my God. Tolkien, aren't you stoked? [Tolkien looks over at him. The girls start practicing] Aww, that's awesome, Tolkien. I'm happy for you.\n"
+  },
+  {
+    "input": "Oh my God. Tolkien, aren't you stoked? [Tolkien looks over at him. The girls start practicing] Aww, that's awesome, Tolkien. I'm happy for you.\n",
+    "output": "[anger flashes across his face] Why?! Why are you happy for me?!\n"
+  },
+  {
+    "input": "[anger flashes across his face] Why?! Why are you happy for me?!\n",
+    "output": "Dude, I'm being seriously. You guys will be really cute together. What are you gonna say to her?\n"
+  },
+  {
+    "input": "Dude, I'm being seriously. You guys will be really cute together. What are you gonna say to her?\n",
+    "output": "Nothing! [walks away]\n"
+  },
+  {
+    "input": "Nothing! [walks away]\n",
+    "output": "[confused] What the? ...Oh, Tolkien's shy. Oh my God, that is adorable.\n[Fourth Grade class, some time later. Mr. Garrison is at the blackboard teaching the class about Game of Thrones]\n"
+  },
+  {
+    "input": "[confused] What the? ...Oh, Tolkien's shy. Oh my God, that is adorable.\n[Fourth Grade class, some time later. Mr. Garrison is at the blackboard teaching the class about Game of Thrones]\n",
+    "output": "And so what we start to see now is a pattern in world history much like the Greeks and the Romans. Remember that there were seven families fighting for control of the land of Westeroth. The king of Westeroth was who? Robert Baratheon [circles BARATHEON on the board], and he asked Eddard, also known as, of course, Lord Stark, to serve as hand of the king. You remember that Lord Stark accepted, or course. The queen's family - that's the Lannisters - were really trying back then to take control, weren't they? So where were the Targaryens at this time? Well, they were across the sea. We all talked about how they were also trying to take the throne. So we've got the Greeks, the Romans, the Starks, Lannisters, Baratheons, Targaryens, all headed for a big blowout right in Season 2. Now, what I really wanted to get into today is what was going on in the north, because that's just a whole other mess- [during the lecture, the following takes place]\n"
+  },
+  {
+    "input": "And so what we start to see now is a pattern in world history much like the Greeks and the Romans. Remember that there were seven families fighting for control of the land of Westeroth. The king of Westeroth was who? Robert Baratheon [circles BARATHEON on the board], and he asked Eddard, also known as, of course, Lord Stark, to serve as hand of the king. You remember that Lord Stark accepted, or course. The queen's family - that's the Lannisters - were really trying back then to take control, weren't they? So where were the Targaryens at this time? Well, they were across the sea. We all talked about how they were also trying to take the throne. So we've got the Greeks, the Romans, the Starks, Lannisters, Baratheons, Targaryens, all headed for a big blowout right in Season 2. Now, what I really wanted to get into today is what was going on in the north, because that's just a whole other mess- [during the lecture, the following takes place]\n",
+    "output": "[fairly whispering throughout, beginning when Mr. Garrison mentions Lord Stark. He sits between Tolkien and the new girl and grins as he looks at each of them by turn] Dude... Tolkien! [jerks his head a bit in the girl's direction and points at her] Tolkien. Dude. [Tolkien looks at him, then goes back to taking notes. Cartman smiles] Psst. Tolkien. [points to the girl again, but puts his right hand up so she doesn't notice. Tolkien is annoyed] Go ahead. Go ahead dude. Tolkien! Yeah, get in there.\n"
+  },
+  {
+    "input": "[fairly whispering throughout, beginning when Mr. Garrison mentions Lord Stark. He sits between Tolkien and the new girl and grins as he looks at each of them by turn] Dude... Tolkien! [jerks his head a bit in the girl's direction and points at her] Tolkien. Dude. [Tolkien looks at him, then goes back to taking notes. Cartman smiles] Psst. Tolkien. [points to the girl again, but puts his right hand up so she doesn't notice. Tolkien is annoyed] Go ahead. Go ahead dude. Tolkien! Yeah, get in there.\n",
+    "output": "[annoyed as well] Will you shut the hell up?! [goes back to taking notes. Cartman finally picks up his pen, but doesn't write anything]\n"
+  },
+  {
+    "input": "[annoyed as well] Will you shut the hell up?! [goes back to taking notes. Cartman finally picks up his pen, but doesn't write anything]\n",
+    "output": "...Tolkien. You want me to pass her a jelly bean?\n"
+  },
+  {
+    "input": "...Tolkien. You want me to pass her a jelly bean?\n",
+    "output": "[whispers back] No!\n"
+  },
+  {
+    "input": "[whispers back] No!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "[louder] No!\n"
+  },
+  {
+    "input": "[louder] No!\n",
+    "output": "[stops talking and turns to the class] Tolkien, is there a problem? [Tolkien is a loss for words, but Cartman fields this question]\n"
+  },
+  {
+    "input": "[stops talking and turns to the class] Tolkien, is there a problem? [Tolkien is a loss for words, but Cartman fields this question]\n",
+    "output": "Ah, he's just a little sick, Mr. Garrison. He's got boneritis. [begins to laugh at his own joke] Right guys? [tries to hold the laugh in]\n"
+  },
+  {
+    "input": "Ah, he's just a little sick, Mr. Garrison. He's got boneritis. [begins to laugh at his own joke] Right guys? [tries to hold the laugh in]\n",
+    "output": "Everyone pay attention! [goes back to the board] Now, what I really wanna get into today is what was going on in the north, because that's just a whole other mess that's pretty hard to keep straight, isn't it? The Night's Watch- [while Garrison resumes his lesson, Cartman resumes his prodding]\n"
+  },
+  {
+    "input": "Everyone pay attention! [goes back to the board] Now, what I really wanna get into today is what was going on in the north, because that's just a whole other mess that's pretty hard to keep straight, isn't it? The Night's Watch- [while Garrison resumes his lesson, Cartman resumes his prodding]\n",
+    "output": "[quickly looks at the girl and at Tolkien] Tolkien. [leans back in his seat so Tolkien has a clear view of the girl] Dude, dude. Dude.\n[South Park Elementary, hallway. Bebe and Red are at Bebe's locker, talking.]\n"
+  },
+  {
+    "input": "[quickly looks at the girl and at Tolkien] Tolkien. [leans back in his seat so Tolkien has a clear view of the girl] Dude, dude. Dude.\n[South Park Elementary, hallway. Bebe and Red are at Bebe's locker, talking.]\n",
+    "output": "So then Kelly I guess told Stacey that she wasn't invited, so now Stacey's pissed at us.\n"
+  },
+  {
+    "input": "So then Kelly I guess told Stacey that she wasn't invited, so now Stacey's pissed at us.\n",
+    "output": "[approaching] Hey, guys? Can I talk to you?\n"
+  },
+  {
+    "input": "[approaching] Hey, guys? Can I talk to you?\n",
+    "output": "[shuts her locker] Why?!\n"
+  },
+  {
+    "input": "[shuts her locker] Why?!\n",
+    "output": "[motions to his left] Just, can I talk to you, real quick? [walks the girls over to the end of the hallway] What kind of stuff is the new girl saying about Tolkien?\n"
+  },
+  {
+    "input": "[motions to his left] Just, can I talk to you, real quick? [walks the girls over to the end of the hallway] What kind of stuff is the new girl saying about Tolkien?\n",
+    "output": "About Tolkien? Why?\n"
+  },
+  {
+    "input": "About Tolkien? Why?\n",
+    "output": "Well, Tolkien's really shy, so, I'm just here, sort of on his behalf 'cause, you know.\n"
+  },
+  {
+    "input": "Well, Tolkien's really shy, so, I'm just here, sort of on his behalf 'cause, you know.\n",
+    "output": "Tolkien likes Nichole?\n"
+  },
+  {
+    "input": "Tolkien likes Nichole?\n",
+    "output": "Yeah, of course. [the girls look at each other]\n"
+  },
+  {
+    "input": "Yeah, of course. [the girls look at each other]\n",
+    "output": "Oh yeah, I don't think she has any idea.\n"
+  },
+  {
+    "input": "Oh yeah, I don't think she has any idea.\n",
+    "output": "Yeah, so, could you guys just let her know that, you know, she might have to make the first move?\n"
+  },
+  {
+    "input": "Yeah, so, could you guys just let her know that, you know, she might have to make the first move?\n",
+    "output": "Okay.\n"
+  },
+  {
+    "input": "Okay.\n",
+    "output": "Thanks, you guys.\n[Bebe's basement, day. She and the other five cheerleaders are playing the board game, Living. Lola rolls the dice and releases them.]\n"
+  },
+  {
+    "input": "Thanks, you guys.\n[Bebe's basement, day. She and the other five cheerleaders are playing the board game, Living. Lola rolls the dice and releases them.]\n",
+    "output": "[moves up four steps] One two three four, sorry Bebe.\n"
+  },
+  {
+    "input": "[moves up four steps] One two three four, sorry Bebe.\n",
+    "output": "Oh, that's okay. [the girls laugh about it] So, Nichole, guess what? One of the boys here already has a crush on you.\n"
+  },
+  {
+    "input": "Oh, that's okay. [the girls laugh about it] So, Nichole, guess what? One of the boys here already has a crush on you.\n",
+    "output": "Ohhh.\n"
+  },
+  {
+    "input": "Ohhh.\n",
+    "output": "Oh my gosh, who?\n"
+  },
+  {
+    "input": "Oh my gosh, who?\n",
+    "output": "That boy Tolkien.\n"
+  },
+  {
+    "input": "That boy Tolkien.\n",
+    "output": "Oh he's really nice, Nichole. I dated him for a little while. [the other girls chime in, showing their support. The camera pulls back a bit, and Cartman is shown eavesdropping just outside a basement window]\n"
+  },
+  {
+    "input": "Oh he's really nice, Nichole. I dated him for a little while. [the other girls chime in, showing their support. The camera pulls back a bit, and Cartman is shown eavesdropping just outside a basement window]\n",
+    "output": "Oh jeez, thanks you guys, but to be totally honest, I kinda think this other boy is cute.\n"
+  },
+  {
+    "input": "Oh jeez, thanks you guys, but to be totally honest, I kinda think this other boy is cute.\n",
+    "output": "[excited] Who? Whowhowhowho?\n"
+  },
+  {
+    "input": "[excited] Who? Whowhowhowho?\n",
+    "output": "That kid, with the orange coat and the green hat?\n"
+  },
+  {
+    "input": "That kid, with the orange coat and the green hat?\n",
+    "output": "Oh, you mean Kyle?\n"
+  },
+  {
+    "input": "Oh, you mean Kyle?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Ooooh, Kyle.\n"
+  },
+  {
+    "input": "Ooooh, Kyle.\n",
+    "output": "WHAT?! KYLE?! [the girls don't hear him]\n"
+  },
+  {
+    "input": "WHAT?! KYLE?! [the girls don't hear him]\n",
+    "output": "Nichole loves Kyle! Nichole and Kyle sittin' in a tree.\n"
+  },
+  {
+    "input": "Nichole loves Kyle! Nichole and Kyle sittin' in a tree.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Haha, shut up you guys! It's just a crush. [the girls laugh while Cartman gets livid]\n"
+  },
+  {
+    "input": "Haha, shut up you guys! It's just a crush. [the girls laugh while Cartman gets livid]\n",
+    "output": "Motherfucker! [gets up and runs off]\n[South Park Elementary, next day. The girls are practicing on the football field as three random boys watch from the bleachers]\n"
+  },
+  {
+    "input": "Motherfucker! [gets up and runs off]\n[South Park Elementary, next day. The girls are practicing on the football field as three random boys watch from the bleachers]\n",
+    "output": "We are Cows, proud and true! Count on South Park, moo moo moo! Goooo Cows! [Cartman approaches Nichole]\n"
+  },
+  {
+    "input": "We are Cows, proud and true! Count on South Park, moo moo moo! Goooo Cows! [Cartman approaches Nichole]\n",
+    "output": "Hey, ah, Nichole, right?\n"
+  },
+  {
+    "input": "Hey, ah, Nichole, right?\n",
+    "output": "Yeah. [Wendy stops practicing]\n"
+  },
+  {
+    "input": "Yeah. [Wendy stops practicing]\n",
+    "output": "Can I talk to you for a second, just for a second, right over here? [takes her to another set of bleachers nearby] Listen uh, I heard through the grapevine that you've got a thing for Kyle?\n"
+  },
+  {
+    "input": "Can I talk to you for a second, just for a second, right over here? [takes her to another set of bleachers nearby] Listen uh, I heard through the grapevine that you've got a thing for Kyle?\n",
+    "output": "[taken aback and embarrassed] Oh no, who told you that?\n"
+  },
+  {
+    "input": "[taken aback and embarrassed] Oh no, who told you that?\n",
+    "output": "Just, the grapevine. Um, there's something you should probably know. [fakes a sweat] Oh man this is hard. Um, the thing is, me and Kyle are kind of, you know ...together?\n"
+  },
+  {
+    "input": "Just, the grapevine. Um, there's something you should probably know. [fakes a sweat] Oh man this is hard. Um, the thing is, me and Kyle are kind of, you know ...together?\n",
+    "output": "Ohhh.\n"
+  },
+  {
+    "input": "Ohhh.\n",
+    "output": "Yeah, he's my man. I'm more out than Kyle is, but... it sucks, because he acts like we're not a couple at school because he's embarrassed, but... we get home and he's the best boyfriend I've ever had.\n"
+  },
+  {
+    "input": "Yeah, he's my man. I'm more out than Kyle is, but... it sucks, because he acts like we're not a couple at school because he's embarrassed, but... we get home and he's the best boyfriend I've ever had.\n",
+    "output": "Wow, I-I'm sorry. I totally respect that. [puts her right hand on his left shoulder] Hey, thanks a lot for telling me.\n"
+  },
+  {
+    "input": "Wow, I-I'm sorry. I totally respect that. [puts her right hand on his left shoulder] Hey, thanks a lot for telling me.\n",
+    "output": "Cool, just, you know, don't touch me 'cause I'm not into girls, so it kind of grosses me out.\n"
+  },
+  {
+    "input": "Cool, just, you know, don't touch me 'cause I'm not into girls, so it kind of grosses me out.\n",
+    "output": "[withdraws her hand] Oh, I'm sorry.\n"
+  },
+  {
+    "input": "[withdraws her hand] Oh, I'm sorry.\n",
+    "output": "Yeah, kewl. Anyway, thanks a lot and just, you know, stay away from my man, bitch. [snaps his fingers and walks away]\n[The hallway, later. Kyle is at his locker putting some books away. Nichole approaches him]\n"
+  },
+  {
+    "input": "Yeah, kewl. Anyway, thanks a lot and just, you know, stay away from my man, bitch. [snaps his fingers and walks away]\n[The hallway, later. Kyle is at his locker putting some books away. Nichole approaches him]\n",
+    "output": "Hey, uh, I just wanna let you know, if you ever need somebody to talk to, I'm here.\n"
+  },
+  {
+    "input": "Hey, uh, I just wanna let you know, if you ever need somebody to talk to, I'm here.\n",
+    "output": "Oh, thanks. [smiles. Nichole turns and walks away, smiling. Kyle sees Craig and Timmy nearby and runs towards them] Dude, that new girl's into me!\n[Another hallway. Cartman hides around the corner and makes like he's real cool, wearing shades and with hands in his jacket pockets, one foot resting on the wall. Butters walks past him on the cross-hallway without noticing]\n"
+  },
+  {
+    "input": "Oh, thanks. [smiles. Nichole turns and walks away, smiling. Kyle sees Craig and Timmy nearby and runs towards them] Dude, that new girl's into me!\n[Another hallway. Cartman hides around the corner and makes like he's real cool, wearing shades and with hands in his jacket pockets, one foot resting on the wall. Butters walks past him on the cross-hallway without noticing]\n",
+    "output": "Psst Butters. Butters! [Butters stops and notices, then walks over to Cartman] At the end of PE class, tell Nichole that the gym teacher wants some towels delivered to the boys' locker room.\n"
+  },
+  {
+    "input": "Psst Butters. Butters! [Butters stops and notices, then walks over to Cartman] At the end of PE class, tell Nichole that the gym teacher wants some towels delivered to the boys' locker room.\n",
+    "output": "How come?\n"
+  },
+  {
+    "input": "How come?\n",
+    "output": "[takes off his shades] Let's just say that by this time tomorrow, Tolkien and Nichole are gonna be practically married.\n"
+  },
+  {
+    "input": "[takes off his shades] Let's just say that by this time tomorrow, Tolkien and Nichole are gonna be practically married.\n",
+    "output": "Are you sure, Eric? I mean, maybe they just aren't meant for each other.\n"
+  },
+  {
+    "input": "Are you sure, Eric? I mean, maybe they just aren't meant for each other.\n",
+    "output": "No no. [walks him towards the camera] Love is like taking a dump, Butters. Sometimes it works itself out, but sometimes, you've gotta give it a nice hard slimy push.\n[The football field, after PE. Nichole packs her pompoms away as Butters arrives with towels for Nichole to deliver]\n"
+  },
+  {
+    "input": "No no. [walks him towards the camera] Love is like taking a dump, Butters. Sometimes it works itself out, but sometimes, you've gotta give it a nice hard slimy push.\n[The football field, after PE. Nichole packs her pompoms away as Butters arrives with towels for Nichole to deliver]\n",
+    "output": "Oh hey, Nichole? Coach wants you to take these to the boys' locker room. [hands her the towels]\n"
+  },
+  {
+    "input": "Oh hey, Nichole? Coach wants you to take these to the boys' locker room. [hands her the towels]\n",
+    "output": "Oh, he does? [Butters nods] Okay.\n[The boys' locker room. Tolkien is taking a shower alone when Cartman leans in to check on him, then walks away. The other boys are changing into their regular clothes.]\n"
+  },
+  {
+    "input": "Oh, he does? [Butters nods] Okay.\n[The boys' locker room. Tolkien is taking a shower alone when Cartman leans in to check on him, then walks away. The other boys are changing into their regular clothes.]\n",
+    "output": "Guys! Guys, get outside! It's the Bat-Mobile! Bat-Mobile, you guys! [the boys make a break for the front of the school and exit the front doors]\n[In front of the school.]\n"
+  },
+  {
+    "input": "Guys! Guys, get outside! It's the Bat-Mobile! Bat-Mobile, you guys! [the boys make a break for the front of the school and exit the front doors]\n[In front of the school.]\n",
+    "output": "Where?\n"
+  },
+  {
+    "input": "Where?\n",
+    "output": "I-I don't see a b-b-Bat-Mobile.\n[Back at the gym, Nichole reaches the boys' locker room, opens the door, and backs into the room. Cartman looks from around a corner and sees her go in. He has a chain and lock with him, and as soon as the door closes he goes and locks them with the chain]\n"
+  },
+  {
+    "input": "I-I don't see a b-b-Bat-Mobile.\n[Back at the gym, Nichole reaches the boys' locker room, opens the door, and backs into the room. Cartman looks from around a corner and sees her go in. He has a chain and lock with him, and as soon as the door closes he goes and locks them with the chain]\n",
+    "output": "[keeps walking, unaware of what Cartman just did] Hello??\n"
+  },
+  {
+    "input": "[keeps walking, unaware of what Cartman just did] Hello??\n",
+    "output": "[walks in dressed in a towel and drying his face with another] AAA!\n"
+  },
+  {
+    "input": "[walks in dressed in a towel and drying his face with another] AAA!\n",
+    "output": "OH! Oh gosh I'm so sorry!\n"
+  },
+  {
+    "input": "OH! Oh gosh I'm so sorry!\n",
+    "output": "Where is everybody? What's goin' on??\n"
+  },
+  {
+    "input": "Where is everybody? What's goin' on??\n",
+    "output": "Coach wanted me to... [winces and gets embarrassed] I'm sorry. [drops the towels, turns and goes back to the doors. She tries to open them but can't]\n[The neighborhood, afternoon. Some of the students are walking together: Kyle, Craig, and Timmy in back, Lola and Jenny up front.]\n"
+  },
+  {
+    "input": "Coach wanted me to... [winces and gets embarrassed] I'm sorry. [drops the towels, turns and goes back to the doors. She tries to open them but can't]\n[The neighborhood, afternoon. Some of the students are walking together: Kyle, Craig, and Timmy in back, Lola and Jenny up front.]\n",
+    "output": "Hey guys. Guys! Hold up. [runs up to the girls, who stop and turn to face him] Hey uhm, you're kind of friends with that Nichole girl, right?\n"
+  },
+  {
+    "input": "Hey guys. Guys! Hold up. [runs up to the girls, who stop and turn to face him] Hey uhm, you're kind of friends with that Nichole girl, right?\n",
+    "output": "Yeah?\n"
+  },
+  {
+    "input": "Yeah?\n",
+    "output": "Well... what kind of stuff does she like? Do you know?\n"
+  },
+  {
+    "input": "Well... what kind of stuff does she like? Do you know?\n",
+    "output": "She likes... movies, cats.\n"
+  },
+  {
+    "input": "She likes... movies, cats.\n",
+    "output": "[to Lola] She likes basketball.\n"
+  },
+  {
+    "input": "[to Lola] She likes basketball.\n",
+    "output": "Ogh. Oh cool, she likes basketball? That's perfect! Thanks, you guys!\n"
+  },
+  {
+    "input": "Ogh. Oh cool, she likes basketball? That's perfect! Thanks, you guys!\n",
+    "output": "Well- Hey Kyle, [he stops and returns] we were gonna head over to the mall. You wanna go with us?\n"
+  },
+  {
+    "input": "Well- Hey Kyle, [he stops and returns] we were gonna head over to the mall. You wanna go with us?\n",
+    "output": "Oh. Uh, can't right now, but maybe another time. See ya! [runs off]\n"
+  },
+  {
+    "input": "Oh. Uh, can't right now, but maybe another time. See ya! [runs off]\n",
+    "output": "Guess he has a crush on Nichole.\n"
+  },
+  {
+    "input": "Guess he has a crush on Nichole.\n",
+    "output": "[looks away for a moment] I don't think so. I heard Kyle swings for the same team.\n"
+  },
+  {
+    "input": "[looks away for a moment] I don't think so. I heard Kyle swings for the same team.\n",
+    "output": "Really?!\n"
+  },
+  {
+    "input": "Really?!\n",
+    "output": "[back with Craig and Timmy] It's perfect! I could take her to a basketball game. [looks back at the girls, who look at him, then giggle as he turns back to the boys] Man, I-I don't know what's happenin', but... it seems like all the girls are... kind of into me lately. [looks back at the girls and waves. They grin and wave back]\n[Back in the locker room, Tolkien tries to get himself and Nichole out, but groans and doesn't get anywhere]\n"
+  },
+  {
+    "input": "[back with Craig and Timmy] It's perfect! I could take her to a basketball game. [looks back at the girls, who look at him, then giggle as he turns back to the boys] Man, I-I don't know what's happenin', but... it seems like all the girls are... kind of into me lately. [looks back at the girls and waves. They grin and wave back]\n[Back in the locker room, Tolkien tries to get himself and Nichole out, but groans and doesn't get anywhere]\n",
+    "output": "Hey! In here! [punches the door]\n"
+  },
+  {
+    "input": "Hey! In here! [punches the door]\n",
+    "output": "You think the janitors are still here?\n"
+  },
+  {
+    "input": "You think the janitors are still here?\n",
+    "output": "Don't worry. It's gonna be okay. We've got water, and, and maybe somebody even left some food laying around. Come on. [takes her around the locker room. Nichole notices a table with food and some other things on it]\n"
+  },
+  {
+    "input": "Don't worry. It's gonna be okay. We've got water, and, and maybe somebody even left some food laying around. Come on. [takes her around the locker room. Nichole notices a table with food and some other things on it]\n",
+    "output": "Look! [walks to the table] Somebody left a deli platter. [Tolkien joins her] And board games. And massage oil.\n"
+  },
+  {
+    "input": "Look! [walks to the table] Somebody left a deli platter. [Tolkien joins her] And board games. And massage oil.\n",
+    "output": "Oh... Good.\n[The school, just after sunrise. Firefighters have arrived at the locker room and have snapped the chain in two with bolt cutters.]\n[The school, out front. The firefighters have taken Tolkien and Nichole outside and left them alone as they leave.]\n"
+  },
+  {
+    "input": "Oh... Good.\n[The school, just after sunrise. Firefighters have arrived at the locker room and have snapped the chain in two with bolt cutters.]\n[The school, out front. The firefighters have taken Tolkien and Nichole outside and left them alone as they leave.]\n",
+    "output": "Well that was sure an interesting night.\n"
+  },
+  {
+    "input": "Well that was sure an interesting night.\n",
+    "output": "It sure was.\n"
+  },
+  {
+    "input": "It sure was.\n",
+    "output": "Hey, thanks a lot for making me feel safe in there. That could have been really scary.\n"
+  },
+  {
+    "input": "Hey, thanks a lot for making me feel safe in there. That could have been really scary.\n",
+    "output": "Yeah. Now that it's over, I... I guess it was kind of fun. [smiles]\n"
+  },
+  {
+    "input": "Yeah. Now that it's over, I... I guess it was kind of fun. [smiles]\n",
+    "output": "Yeah, it kind of was. Maybe... I-I don't know. Maybe we should get some lunch tomorrow.\n"
+  },
+  {
+    "input": "Yeah, it kind of was. Maybe... I-I don't know. Maybe we should get some lunch tomorrow.\n",
+    "output": "[hiding in the bushes, weeping silently] Oh my God, sooo cute.\n"
+  },
+  {
+    "input": "[hiding in the bushes, weeping silently] Oh my God, sooo cute.\n",
+    "output": "I'd like that.\n"
+  },
+  {
+    "input": "I'd like that.\n",
+    "output": "Cool. Well... thanks again. [they hug each other]\n"
+  },
+  {
+    "input": "Cool. Well... thanks again. [they hug each other]\n",
+    "output": "[sweetly] Ohhhhh my God.\n"
+  },
+  {
+    "input": "[sweetly] Ohhhhh my God.\n",
+    "output": "[pops out of Cartman's head] We did it, Eric. We found them each other's ray of sunshine.\n"
+  },
+  {
+    "input": "[pops out of Cartman's head] We did it, Eric. We found them each other's ray of sunshine.\n",
+    "output": "You're my ray of sunshine, Cupid Me. [tickles the little cupid]\n"
+  },
+  {
+    "input": "You're my ray of sunshine, Cupid Me. [tickles the little cupid]\n",
+    "output": "Teeheeheehee. [pops back into Cartman's head, leaving behind a trail of hearts]\n[Montage. Cartman sings \"I Swear\" as Tolkien and Nichole get to know each other better.]\n"
+  },
+  {
+    "input": "Teeheeheehee. [pops back into Cartman's head, leaving behind a trail of hearts]\n[Montage. Cartman sings \"I Swear\" as Tolkien and Nichole get to know each other better.]\n",
+    "output": "I see the questions in your eyes\nI know what's weighing on your mind\nYou can be sure I know, my heart\nGirl I'll stand beside you through the years\nYou'll only cry those happy tears\nAnd though I make mistakes, I'll never break your heart\nI swear by the moon and the stars in the sky\nI'll be there\nI swear (I swear) like a shadow that's by your side (Keep it down, girl)\nI'll be there\nFor better or worse (better or worse), till death do us part (death do us part)\nI'll love you with every black beat of my heart\nAnd I swear. I swear. I s-we-e-e-ear Yeah, I swear. Straight up. What it do?\n[South Park Elementary, playground, recess. As the kids play and chatter, Tolkien is pushing Nichole on a swing, then he tickles Nichole and she giggles. Cartman is rather pleased with how things are progressing between Tolkien and Nichole]\n"
+  },
+  {
+    "input": "I see the questions in your eyes\nI know what's weighing on your mind\nYou can be sure I know, my heart\nGirl I'll stand beside you through the years\nYou'll only cry those happy tears\nAnd though I make mistakes, I'll never break your heart\nI swear by the moon and the stars in the sky\nI'll be there\nI swear (I swear) like a shadow that's by your side (Keep it down, girl)\nI'll be there\nFor better or worse (better or worse), till death do us part (death do us part)\nI'll love you with every black beat of my heart\nAnd I swear. I swear. I s-we-e-e-ear Yeah, I swear. Straight up. What it do?\n[South Park Elementary, playground, recess. As the kids play and chatter, Tolkien is pushing Nichole on a swing, then he tickles Nichole and she giggles. Cartman is rather pleased with how things are progressing between Tolkien and Nichole]\n",
+    "output": "Did you see that? Tolkien was gonna push her, but then he tickled her instead. [behind him, on the merry-go-round, are Stan, Kenny, and Butters. Stan and Kenny are playing with a ball.]\n"
+  },
+  {
+    "input": "Did you see that? Tolkien was gonna push her, but then he tickled her instead. [behind him, on the merry-go-round, are Stan, Kenny, and Butters. Stan and Kenny are playing with a ball.]\n",
+    "output": "Dude, why are you so into their relationship?\n"
+  },
+  {
+    "input": "Dude, why are you so into their relationship?\n",
+    "output": "I don't know, it's just so... perfect. [Stan and Kenny resume playing]\n"
+  },
+  {
+    "input": "I don't know, it's just so... perfect. [Stan and Kenny resume playing]\n",
+    "output": "You motherfucker! [runs into view and punches Cartman, who falls on his face]\n"
+  },
+  {
+    "input": "You motherfucker! [runs into view and punches Cartman, who falls on his face]\n",
+    "output": "Kyle, Jesus Christ!\n"
+  },
+  {
+    "input": "Kyle, Jesus Christ!\n",
+    "output": "What the hell are you doing telling people that we're a gay couple?!\n"
+  },
+  {
+    "input": "What the hell are you doing telling people that we're a gay couple?!\n",
+    "output": "Oh, heard that through the grapevine, did you?\n"
+  },
+  {
+    "input": "Oh, heard that through the grapevine, did you?\n",
+    "output": "The new girl liked me, and so you lied to her!\n"
+  },
+  {
+    "input": "The new girl liked me, and so you lied to her!\n",
+    "output": "Somebody had to intervene, Kyle! You were standing in the way of Tolkien and Nichole! They belong together!\n"
+  },
+  {
+    "input": "Somebody had to intervene, Kyle! You were standing in the way of Tolkien and Nichole! They belong together!\n",
+    "output": "Just because two people are the same race doesn't mean they belong together, you fat racist piece of fucking garbage!\n"
+  },
+  {
+    "input": "Just because two people are the same race doesn't mean they belong together, you fat racist piece of fucking garbage!\n",
+    "output": "Oh! Oh, I'm a racist, huh?! I'm a racist! It's how nature works, Kyle! Look! Look, what about Luke Covina and Maria Sanchez? [points to a Hispanic couple riding play elephants] Is it a coincidence they ended up together?!\n"
+  },
+  {
+    "input": "Oh! Oh, I'm a racist, huh?! I'm a racist! It's how nature works, Kyle! Look! Look, what about Luke Covina and Maria Sanchez? [points to a Hispanic couple riding play elephants] Is it a coincidence they ended up together?!\n",
+    "output": "Actually, I heard they're together because they got locked in the school gym overnight a few months ago.\n"
+  },
+  {
+    "input": "Actually, I heard they're together because they got locked in the school gym overnight a few months ago.\n",
+    "output": "Oh did they? I hadn't heard about that.\n"
+  },
+  {
+    "input": "Oh did they? I hadn't heard about that.\n",
+    "output": "[reappears, and Cartman smiles at him] Teehee, that was us, remember, Eric?\n"
+  },
+  {
+    "input": "[reappears, and Cartman smiles at him] Teehee, that was us, remember, Eric?\n",
+    "output": "Shh, quiet, Cupid Me.\n"
+  },
+  {
+    "input": "Shh, quiet, Cupid Me.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Nothing.\n"
+  },
+  {
+    "input": "Nothing.\n",
+    "output": "Who is Cupid Me?\n"
+  },
+  {
+    "input": "Who is Cupid Me?\n",
+    "output": "Nobody.\n"
+  },
+  {
+    "input": "Nobody.\n",
+    "output": "You are gonna tell everyone that you lied and that we aren't a couple!\n"
+  },
+  {
+    "input": "You are gonna tell everyone that you lied and that we aren't a couple!\n",
+    "output": "Why, Kyle?! So you can try and ruin things for Tolkien and Nichole?! Look at how happy they are! [can't fault him there. Nichole giggles again. Kyle looks defeated] Is it that you want to ruin that or are you just homophobic?!\n"
+  },
+  {
+    "input": "Why, Kyle?! So you can try and ruin things for Tolkien and Nichole?! Look at how happy they are! [can't fault him there. Nichole giggles again. Kyle looks defeated] Is it that you want to ruin that or are you just homophobic?!\n",
+    "output": "Goddamnit! [walks away angrily]\n[Nichole's house, night. Inside, she and her parents are eating dinner: turkey, mashed potatoes, veggies. Nichole begins to fiddle with her food and look at the ceiling dreamily.]\n"
+  },
+  {
+    "input": "Goddamnit! [walks away angrily]\n[Nichole's house, night. Inside, she and her parents are eating dinner: turkey, mashed potatoes, veggies. Nichole begins to fiddle with her food and look at the ceiling dreamily.]\n",
+    "output": "[clears his throat] Nichole? Your mother tells me that you already have a boyfriend at school.\n"
+  },
+  {
+    "input": "[clears his throat] Nichole? Your mother tells me that you already have a boyfriend at school.\n",
+    "output": "His name is Tolkien. He's really nice.\n"
+  },
+  {
+    "input": "His name is Tolkien. He's really nice.\n",
+    "output": "Well that's good. But... your mother tells me that this boy is... black.\n"
+  },
+  {
+    "input": "Well that's good. But... your mother tells me that this boy is... black.\n",
+    "output": "So?\n"
+  },
+  {
+    "input": "So?\n",
+    "output": "Well, Nichole, it's just... You know, just because you're black doesn't mean you can only date black boys. It's just a little weird that we moved to this whole new place and you're immediately drawn to the one other black person.\n"
+  },
+  {
+    "input": "Well, Nichole, it's just... You know, just because you're black doesn't mean you can only date black boys. It's just a little weird that we moved to this whole new place and you're immediately drawn to the one other black person.\n",
+    "output": "Oh stop, William. There's nothing wrong with her dating a black person.\n"
+  },
+  {
+    "input": "Oh stop, William. There's nothing wrong with her dating a black person.\n",
+    "output": "I'm not saying it's wrong, I'm just saying... she's gonna have to deal with racist people out there! People turning their heads and saying, \"Oh, look at the two black people together. That figures!\"\n"
+  },
+  {
+    "input": "I'm not saying it's wrong, I'm just saying... she's gonna have to deal with racist people out there! People turning their heads and saying, \"Oh, look at the two black people together. That figures!\"\n",
+    "output": "It's not like that, Dad. We just happen to like each other. I know it seems like a strange coincidence, but it really is. A coincidence.\n"
+  },
+  {
+    "input": "It's not like that, Dad. We just happen to like each other. I know it seems like a strange coincidence, but it really is. A coincidence.\n",
+    "output": "And we are very happy for you, sweetheart. Here, have some more turkey.\n"
+  },
+  {
+    "input": "And we are very happy for you, sweetheart. Here, have some more turkey.\n",
+    "output": "Yeah, just try the white meat. I know it's a little dry, but... there's a lot more of it.\n[Cartman's house, night. He's pounding on the bathroom door.]\n"
+  },
+  {
+    "input": "Yeah, just try the white meat. I know it's a little dry, but... there's a lot more of it.\n[Cartman's house, night. He's pounding on the bathroom door.]\n",
+    "output": "Come on! [pounds on the door some more] Other people have to use the bathroom, you know? Can you hurry it up in there?! [pounds on the door some more. The door opens and Cupid Me floats out]\n"
+  },
+  {
+    "input": "Come on! [pounds on the door some more] Other people have to use the bathroom, you know? Can you hurry it up in there?! [pounds on the door some more. The door opens and Cupid Me floats out]\n",
+    "output": "Teeheeheehee, teehee.\n"
+  },
+  {
+    "input": "Teeheeheehee, teehee.\n",
+    "output": "Jesus Christ, Cupid Me, you givin' birth in there?!\n"
+  },
+  {
+    "input": "Jesus Christ, Cupid Me, you givin' birth in there?!\n",
+    "output": "[giggles] Sorry. [Cartman goes in]\n"
+  },
+  {
+    "input": "[giggles] Sorry. [Cartman goes in]\n",
+    "output": "That's- Oh, oh, Cupid Me! [covers his nose with his bath robe] Sick! What the fuck have you been eating?!\n"
+  },
+  {
+    "input": "That's- Oh, oh, Cupid Me! [covers his nose with his bath robe] Sick! What the fuck have you been eating?!\n",
+    "output": "Teeheeheeheeheehee.\n"
+  },
+  {
+    "input": "Teeheeheeheeheehee.\n",
+    "output": "Dude, at least flush the toilet! [walks over to it] Aww, it's cute, it's little chocolate hearts.\n"
+  },
+  {
+    "input": "Dude, at least flush the toilet! [walks over to it] Aww, it's cute, it's little chocolate hearts.\n",
+    "output": "They're fudgey charms of sunshine.\n"
+  },
+  {
+    "input": "They're fudgey charms of sunshine.\n",
+    "output": "You're my fudgey charm of sunshine. Come here, you! [tries to catch Cupid Me, but Cupid Me keeps away]\n"
+  },
+  {
+    "input": "You're my fudgey charm of sunshine. Come here, you! [tries to catch Cupid Me, but Cupid Me keeps away]\n",
+    "output": "Teeheeheehee, teeheeheeheehee. [flits here and there]\n"
+  },
+  {
+    "input": "Teeheeheehee, teeheeheeheehee. [flits here and there]\n",
+    "output": "I'm gonna get you! [chases Cupid Me out of the bathroom]\n"
+  },
+  {
+    "input": "I'm gonna get you! [chases Cupid Me out of the bathroom]\n",
+    "output": "Teeheehee, no! [flits on down the hall]\n"
+  },
+  {
+    "input": "Teeheehee, no! [flits on down the hall]\n",
+    "output": "I almost got you! Almost! [Liane walks out of her room with clean laundry, and there's no sign of Cupid Me]\n"
+  },
+  {
+    "input": "I almost got you! Almost! [Liane walks out of her room with clean laundry, and there's no sign of Cupid Me]\n",
+    "output": "[sees Cartman dancing around] Everything okay, sweetie?\n"
+  },
+  {
+    "input": "[sees Cartman dancing around] Everything okay, sweetie?\n",
+    "output": "Everything's great, Mom. [to the invisible Cupid Me] No! Come back here and flush the toilet, you silly! Noohoho! [dances away]\n[Nichole's room, evening. She checks out the teddy bear she thinks she got from Tolkien. She reads the tag: \"To My Boo.\" She turns the tag over and reads it, her smile vanishing: \"'Cuz Blacks Belong Together\"]\n"
+  },
+  {
+    "input": "Everything's great, Mom. [to the invisible Cupid Me] No! Come back here and flush the toilet, you silly! Noohoho! [dances away]\n[Nichole's room, evening. She checks out the teddy bear she thinks she got from Tolkien. She reads the tag: \"To My Boo.\" She turns the tag over and reads it, her smile vanishing: \"'Cuz Blacks Belong Together\"]\n",
+    "output": "Oh no...\n[South Park Elementary, next day. Tolkien is at his locker in the hallway, and Nichole approaches him. Tolkien closes his locker door, not noticing her coming.]\n"
+  },
+  {
+    "input": "Oh no...\n[South Park Elementary, next day. Tolkien is at his locker in the hallway, and Nichole approaches him. Tolkien closes his locker door, not noticing her coming.]\n",
+    "output": "[sad] Hey Tolkien.\n"
+  },
+  {
+    "input": "[sad] Hey Tolkien.\n",
+    "output": "[smiles and turns around] Hey Nichole.\n"
+  },
+  {
+    "input": "[smiles and turns around] Hey Nichole.\n",
+    "output": "Can I talk to you for a sec?\n"
+  },
+  {
+    "input": "Can I talk to you for a sec?\n",
+    "output": "Sure! [she takes him to the same drinking fountain Kyle took Jenny and Lola to earlier] What's up?\n"
+  },
+  {
+    "input": "Sure! [she takes him to the same drinking fountain Kyle took Jenny and Lola to earlier] What's up?\n",
+    "output": "Listen, I... ugh, I don't think this is gonna work out.\n"
+  },
+  {
+    "input": "Listen, I... ugh, I don't think this is gonna work out.\n",
+    "output": "Oh.\n"
+  },
+  {
+    "input": "Oh.\n",
+    "output": "I'm so sorry. It's just... I don't believe we're really on the same page, you know?\n"
+  },
+  {
+    "input": "I'm so sorry. It's just... I don't believe we're really on the same page, you know?\n",
+    "output": "Okay...\n"
+  },
+  {
+    "input": "Okay...\n",
+    "output": "I think you're really great... W-w-we just...\n"
+  },
+  {
+    "input": "I think you're really great... W-w-we just...\n",
+    "output": "I think... you're really great.\n"
+  },
+  {
+    "input": "I think... you're really great.\n",
+    "output": "...I'm sorry.\n"
+  },
+  {
+    "input": "...I'm sorry.\n",
+    "output": "Yeah. I'm sorry too. I'll see you around. [turns and walks away sadly]\n"
+  },
+  {
+    "input": "Yeah. I'm sorry too. I'll see you around. [turns and walks away sadly]\n",
+    "output": "Okay. [she turns towards the drinking fountain]\n[Cartman's room, that afternoon. Cartman is devastated.]\n"
+  },
+  {
+    "input": "Okay. [she turns towards the drinking fountain]\n[Cartman's room, that afternoon. Cartman is devastated.]\n",
+    "output": "[crying inconsolably and blowing his nose into a tissue] It's not fair! They were so... happy!\n"
+  },
+  {
+    "input": "[crying inconsolably and blowing his nose into a tissue] It's not fair! They were so... happy!\n",
+    "output": "[holding Cartman's right hand] It's gonna be okay, Eric.\n"
+  },
+  {
+    "input": "[holding Cartman's right hand] It's gonna be okay, Eric.\n",
+    "output": "It's NOT gonna be okay! Why did they break up?! They were meant for each other!\n"
+  },
+  {
+    "input": "It's NOT gonna be okay! Why did they break up?! They were meant for each other!\n",
+    "output": "They'll find love somewhere else.\n"
+  },
+  {
+    "input": "They'll find love somewhere else.\n",
+    "output": "No, they won't!\n"
+  },
+  {
+    "input": "No, they won't!\n",
+    "output": "Yes, they will.\n"
+  },
+  {
+    "input": "Yes, they will.\n",
+    "output": "No, they won't! Fuck you Butters, you're an asshole!\n"
+  },
+  {
+    "input": "No, they won't! Fuck you Butters, you're an asshole!\n",
+    "output": "[pops out again] Teeheehee. Looks like somebody could use a little arrow of sunshine.\n"
+  },
+  {
+    "input": "[pops out again] Teeheehee. Looks like somebody could use a little arrow of sunshine.\n",
+    "output": "And you! I should have never believed in you!\n"
+  },
+  {
+    "input": "And you! I should have never believed in you!\n",
+    "output": "In... In who, Eric?\n"
+  },
+  {
+    "input": "In... In who, Eric?\n",
+    "output": "[grabs the imaginary cupid] I never wanna see you again! [hurls it into his closet door. It flies low. Cartman gets out of bed, grabs a bat that's conveniently leaning against his bedroom door, and bashes the cupid over and over] Take! Your sunshine! And fuckin'! Die! [puts the bat up against the door and crawls back into bed. Butters takes Cartman's hand again and Cartman resumes crying]\n[The park, late afternoon. Tolkien is sitting alone on the park bench. Kyle walks by and notices him there. A few seconds later, he walks up.]\n"
+  },
+  {
+    "input": "[grabs the imaginary cupid] I never wanna see you again! [hurls it into his closet door. It flies low. Cartman gets out of bed, grabs a bat that's conveniently leaning against his bedroom door, and bashes the cupid over and over] Take! Your sunshine! And fuckin'! Die! [puts the bat up against the door and crawls back into bed. Butters takes Cartman's hand again and Cartman resumes crying]\n[The park, late afternoon. Tolkien is sitting alone on the park bench. Kyle walks by and notices him there. A few seconds later, he walks up.]\n",
+    "output": "Hey man. You okay?\n"
+  },
+  {
+    "input": "Hey man. You okay?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "[sits next to him] What happened? It just didn't work out?\n"
+  },
+  {
+    "input": "[sits next to him] What happened? It just didn't work out?\n",
+    "output": "Yeah, I guess.\n"
+  },
+  {
+    "input": "Yeah, I guess.\n",
+    "output": "So, you guys are totally broken up then? It's... It's done?\n"
+  },
+  {
+    "input": "So, you guys are totally broken up then? It's... It's done?\n",
+    "output": "[long sigh] Yeah.\n"
+  },
+  {
+    "input": "[long sigh] Yeah.\n",
+    "output": "[scratches his head behind the ear] So then, she's gonna be seeing other people? Is she, sort of, available?\n"
+  },
+  {
+    "input": "[scratches his head behind the ear] So then, she's gonna be seeing other people? Is she, sort of, available?\n",
+    "output": "Yeah, we're through.\n"
+  },
+  {
+    "input": "Yeah, we're through.\n",
+    "output": "Sooo, theoretically, if someone was to step in, it would beee, okayyy?\n"
+  },
+  {
+    "input": "Sooo, theoretically, if someone was to step in, it would beee, okayyy?\n",
+    "output": "[getting the wrong idea] I'm sorry Kyle. I like girls. [gets off the bench and walks away]\n"
+  },
+  {
+    "input": "[getting the wrong idea] I'm sorry Kyle. I like girls. [gets off the bench and walks away]\n",
+    "output": "Huh? [suddenly remembers] Dude, what the fuck?\n[Cartmans house, afternoon. Cartman is in the living room watching TV in the dark, wrapped in a blanket and eating chocolate fudge ice cream.]\n"
+  },
+  {
+    "input": "Huh? [suddenly remembers] Dude, what the fuck?\n[Cartmans house, afternoon. Cartman is in the living room watching TV in the dark, wrapped in a blanket and eating chocolate fudge ice cream.]\n",
+    "output": "We'll be back with more of the Jeffersons right after this.\n[Commercial. A businessman finishes his work day.]\n"
+  },
+  {
+    "input": "We'll be back with more of the Jeffersons right after this.\n[Commercial. A businessman finishes his work day.]\n",
+    "output": "[leaves his office] I work hard, so I need a laxative that works hard too! [walks off. Next he's on the ground floor] I can't be constipated on the job. [stops and holds up a box] That's why I need... Soft Serve. [at a tennis court. He serves] Because when I'm constipated, sometimes even a hard push isn't enough. [Cartman's interest is aroused. In the commercial the man is heading for the restroom. Another businessman comes out and the first one stops him] Don't give up. Get back in there and get to work! [now trying to poop in the toilet] 'Cause when the going gets tough, the tough gets going!\n"
+  },
+  {
+    "input": "[leaves his office] I work hard, so I need a laxative that works hard too! [walks off. Next he's on the ground floor] I can't be constipated on the job. [stops and holds up a box] That's why I need... Soft Serve. [at a tennis court. He serves] Because when I'm constipated, sometimes even a hard push isn't enough. [Cartman's interest is aroused. In the commercial the man is heading for the restroom. Another businessman comes out and the first one stops him] Don't give up. Get back in there and get to work! [now trying to poop in the toilet] 'Cause when the going gets tough, the tough gets going!\n",
+    "output": "That's right... That's right! [runs up to his room, goes into his closet and digs through his stuff until he finds the shoe box he put Cupid Me into after whacking him almost to death. He takes off the lid] Ohhh. [Cupid Me is shown laying face down battered and bruised, with a dry blood stream still near his mouth] I'm so sorry. I shouldn't have doubted you. Please come back. I know I got a little angry but... I believe in you. Do you hear me? I believe in you.\n"
+  },
+  {
+    "input": "That's right... That's right! [runs up to his room, goes into his closet and digs through his stuff until he finds the shoe box he put Cupid Me into after whacking him almost to death. He takes off the lid] Ohhh. [Cupid Me is shown laying face down battered and bruised, with a dry blood stream still near his mouth] I'm so sorry. I shouldn't have doubted you. Please come back. I know I got a little angry but... I believe in you. Do you hear me? I believe in you.\n",
+    "output": "No, you don't.\n"
+  },
+  {
+    "input": "No, you don't.\n",
+    "output": "Yes, I do, Cupid Me. Love is the bestest feeling in the world. I believe you can change everything.\n"
+  },
+  {
+    "input": "Yes, I do, Cupid Me. Love is the bestest feeling in the world. I believe you can change everything.\n",
+    "output": "No, you don't. [opens its right eye for a second]\n"
+  },
+  {
+    "input": "No, you don't. [opens its right eye for a second]\n",
+    "output": "Please, I can't do this alone. They need us. And I need you. My little flicker of twinkle stars. [tickles the cupid]\n"
+  },
+  {
+    "input": "Please, I can't do this alone. They need us. And I need you. My little flicker of twinkle stars. [tickles the cupid]\n",
+    "output": "Teehee, stop it.\n"
+  },
+  {
+    "input": "Teehee, stop it.\n",
+    "output": "Come on, twinkle stars, we got work to do.\n"
+  },
+  {
+    "input": "Come on, twinkle stars, we got work to do.\n",
+    "output": "Teeheehee, teeheeheehee, [flies out of the box] teeheeheeheeheeheeheeheehee.\n[Nichole's house, day. Cartman pounds on her door, and her father William answers.]\n"
+  },
+  {
+    "input": "Teeheehee, teeheeheehee, [flies out of the box] teeheeheeheeheeheeheeheehee.\n[Nichole's house, day. Cartman pounds on her door, and her father William answers.]\n",
+    "output": "Hi, can I speak to Nichole please? It's very important.\n"
+  },
+  {
+    "input": "Hi, can I speak to Nichole please? It's very important.\n",
+    "output": "I'm sorry, but she's at the Denver Nuggets game.\n"
+  },
+  {
+    "input": "I'm sorry, but she's at the Denver Nuggets game.\n",
+    "output": "Denver Nuggets game?\n"
+  },
+  {
+    "input": "Denver Nuggets game?\n",
+    "output": "Yeah, she went with a nice white, Jewish boy.\n"
+  },
+  {
+    "input": "Yeah, she went with a nice white, Jewish boy.\n",
+    "output": "[dolly zoom] NOOOOOOO! [runs away quickly]\n[The Pepsi Center, around 7 pm. The bleachers are filled with cheering fans waiting for the game to begin.]\n"
+  },
+  {
+    "input": "[dolly zoom] NOOOOOOO! [runs away quickly]\n[The Pepsi Center, around 7 pm. The bleachers are filled with cheering fans waiting for the game to begin.]\n",
+    "output": "Welcome to today's matchup between the Denver Nuggets and the Los Angeles Clippers. [the starting five from both teams take the court. A vendor hands Kyle two drinks, one of which he gives to Nichole. They look at each other fondly and take sips from their sodas.] And now, here to sing the National Anthem, country music star Brad Paisley. [he stands at center court and waves as a spotlight shines on him]\n"
+  },
+  {
+    "input": "Welcome to today's matchup between the Denver Nuggets and the Los Angeles Clippers. [the starting five from both teams take the court. A vendor hands Kyle two drinks, one of which he gives to Nichole. They look at each other fondly and take sips from their sodas.] And now, here to sing the National Anthem, country music star Brad Paisley. [he stands at center court and waves as a spotlight shines on him]\n",
+    "output": "O! say can you see by the dawn's early light,\nWhat so proudly we hailed at the twilight's last gleaming,\nWhose broad stripes and bright stars- [As Brad sings, Kyle and Nichole look at each other and smile, then look at Brad. Nichole notices someone clear across the center. It's Tolkien, with Craig and Clyde. Tolkien still has a heavy heart, keeping his eyes focused on the floor while Craig and Clyde smile. Kyle looks at Nichole, who's still surprised to see Tolkien there, and grins at her. She looks back at Kyle and smiles.]\n[Outside, a tour bus drops Cartman off near the center and Cartman runs for it.]\n"
+  },
+  {
+    "input": "O! say can you see by the dawn's early light,\nWhat so proudly we hailed at the twilight's last gleaming,\nWhose broad stripes and bright stars- [As Brad sings, Kyle and Nichole look at each other and smile, then look at Brad. Nichole notices someone clear across the center. It's Tolkien, with Craig and Clyde. Tolkien still has a heavy heart, keeping his eyes focused on the floor while Craig and Clyde smile. Kyle looks at Nichole, who's still surprised to see Tolkien there, and grins at her. She looks back at Kyle and smiles.]\n[Outside, a tour bus drops Cartman off near the center and Cartman runs for it.]\n",
+    "output": "Nooooooo!\n[Inside.]\n"
+  },
+  {
+    "input": "Nooooooo!\n[Inside.]\n",
+    "output": "Nuggets fans, please direct your attention to center court and the president of Halitosis Kidz. [she's shown on the MegaTron waving to the spectators behind four men who are holding a Halitosis Kidz banner], who invites you to join the Denver Nuggets in the fight against morbid halitosis in children. [POV change from MegaTron to center court] Here to attempt a three-point shot for adolescents with terminally bad breath is [two of the men leave with the banner and an obese girl steps forward] the poster child for Halitosis Kidz, Stacy Muleburg. [the two other men cover their noses with their Denver team jackets as one of them hands Stacy the ball. She rushes up and throws the ball, but it's a brick] And a good try. [the two Denver men, two cameramen, the announcer, and the HK president all gather round her]\n"
+  },
+  {
+    "input": "Nuggets fans, please direct your attention to center court and the president of Halitosis Kidz. [she's shown on the MegaTron waving to the spectators behind four men who are holding a Halitosis Kidz banner], who invites you to join the Denver Nuggets in the fight against morbid halitosis in children. [POV change from MegaTron to center court] Here to attempt a three-point shot for adolescents with terminally bad breath is [two of the men leave with the banner and an obese girl steps forward] the poster child for Halitosis Kidz, Stacy Muleburg. [the two other men cover their noses with their Denver team jackets as one of them hands Stacy the ball. She rushes up and throws the ball, but it's a brick] And a good try. [the two Denver men, two cameramen, the announcer, and the HK president all gather round her]\n",
+    "output": "Aaahahahaaaa.\n"
+  },
+  {
+    "input": "Aaahahahaaaa.\n",
+    "output": "Awww! [they all back away as fast as they can. The spectators clap for the effort. Kyle and Nichole clap as well]\n"
+  },
+  {
+    "input": "Awww! [they all back away as fast as they can. The spectators clap for the effort. Kyle and Nichole clap as well]\n",
+    "output": "[running into the center] NOOOOOOO! [triggers an alarm]\n"
+  },
+  {
+    "input": "[running into the center] NOOOOOOO! [triggers an alarm]\n",
+    "output": "Tickets please.\n"
+  },
+  {
+    "input": "Tickets please.\n",
+    "output": "No time! NOOOOOOO!\n"
+  },
+  {
+    "input": "No time! NOOOOOOO!\n",
+    "output": "We're all set for the tipoff. [The ball is thrown into the air and a Clipper tips the ball. A Nugget - Arron Afflalo - grabs it and the game begins. Afflalo throws it to JaVale McGee for an alley-oop, and McGee makes the first shot. The crowd cheers]\n"
+  },
+  {
+    "input": "We're all set for the tipoff. [The ball is thrown into the air and a Clipper tips the ball. A Nugget - Arron Afflalo - grabs it and the game begins. Afflalo throws it to JaVale McGee for an alley-oop, and McGee makes the first shot. The crowd cheers]\n",
+    "output": "Attention! Attention please! [Kyle and Nichole are surprised to hear his voice. Cartman is on the MegaTron] This is a message for all of you out there who have just ended a relationship. Sometimes, love is hard. But you can't just run away from it. When you start to have something special you have to work at it! [Tolkien is surprised to see Cartman there too, but Craig and Clyde are unfazed] Even though it might seem like the world is against you, you still have to hold on! With both hands! [Nichole begins to take this in] Don't let society dictate who you can and can't be with. Kyle, I love you babe. You can run all you want, try to pretend you like girls, but damnit, when we kiss there's magic! Don't let it go, Kyle. [Kyle is getting pissed off]\n"
+  },
+  {
+    "input": "Attention! Attention please! [Kyle and Nichole are surprised to hear his voice. Cartman is on the MegaTron] This is a message for all of you out there who have just ended a relationship. Sometimes, love is hard. But you can't just run away from it. When you start to have something special you have to work at it! [Tolkien is surprised to see Cartman there too, but Craig and Clyde are unfazed] Even though it might seem like the world is against you, you still have to hold on! With both hands! [Nichole begins to take this in] Don't let society dictate who you can and can't be with. Kyle, I love you babe. You can run all you want, try to pretend you like girls, but damnit, when we kiss there's magic! Don't let it go, Kyle. [Kyle is getting pissed off]\n",
+    "output": "Awwwww. [everyone looks at Kyle]\n"
+  },
+  {
+    "input": "Awwwww. [everyone looks at Kyle]\n",
+    "output": "I want to hold you every morning and love you every night, Kyle. I promise you nothing but love and happiness.\nI swear by the moon and the stars and the sky\n[Cartman and Kyle are paired on the MegaTron and the lovecam is activated - a heart appears over their images, Cartman on the left, Kyle on the right]\nI'll be there, Kyle\nI swear [Crowd: \"Awwww.\" Kyle tries to push it all away] like the shadow that's by your side\nKyle, swear to God I'll be there.\nFor better or worse [Brad appears: \"better or worse\"], till death do us part [Brad: \"death do us part\"]\nI'll love you with [Cartman and Brad] every gay beat of my heart!\n"
+  },
+  {
+    "input": "I want to hold you every morning and love you every night, Kyle. I promise you nothing but love and happiness.\nI swear by the moon and the stars and the sky\n[Cartman and Kyle are paired on the MegaTron and the lovecam is activated - a heart appears over their images, Cartman on the left, Kyle on the right]\nI'll be there, Kyle\nI swear [Crowd: \"Awwww.\" Kyle tries to push it all away] like the shadow that's by your side\nKyle, swear to God I'll be there.\nFor better or worse [Brad appears: \"better or worse\"], till death do us part [Brad: \"death do us part\"]\nI'll love you with [Cartman and Brad] every gay beat of my heart!\n",
+    "output": "I swear, Kyle.\n"
+  },
+  {
+    "input": "I swear, Kyle.\n",
+    "output": "I swear, Kyle. [the crowd erupts in applause, as do the players. Kyle leaves his seat, steaming mad]\n"
+  },
+  {
+    "input": "I swear, Kyle. [the crowd erupts in applause, as do the players. Kyle leaves his seat, steaming mad]\n",
+    "output": "Where are you going?\n"
+  },
+  {
+    "input": "Where are you going?\n",
+    "output": "That fat turd up there is the one who set up you and Tolkien 'cause he thinks blacks belong together! [walks away]\n"
+  },
+  {
+    "input": "That fat turd up there is the one who set up you and Tolkien 'cause he thinks blacks belong together! [walks away]\n",
+    "output": "He did that? Oh no.\n"
+  },
+  {
+    "input": "He did that? Oh no.\n",
+    "output": "Thank you! Thank you all. That's all I wanted to say. That and... The Bat-Mobile's outside. [now with urgency] Seriously you guys, you gotta see it. It's the Bat-Mobile! It's outside.\n"
+  },
+  {
+    "input": "Thank you! Thank you all. That's all I wanted to say. That and... The Bat-Mobile's outside. [now with urgency] Seriously you guys, you gotta see it. It's the Bat-Mobile! It's outside.\n",
+    "output": "What? [leaves his seat. Soon everyone is leaving the center, including the players from both teams. Tolkien and Nichole find themselves looking at each other just outside the bleachers]\n"
+  },
+  {
+    "input": "What? [leaves his seat. Soon everyone is leaving the center, including the players from both teams. Tolkien and Nichole find themselves looking at each other just outside the bleachers]\n",
+    "output": "Tolkien. Hey.\n"
+  },
+  {
+    "input": "Tolkien. Hey.\n",
+    "output": "Hi.\n"
+  },
+  {
+    "input": "Hi.\n",
+    "output": "Tolkien, I'm so sorry. I thought you were only with me because I'm black.\n"
+  },
+  {
+    "input": "Tolkien, I'm so sorry. I thought you were only with me because I'm black.\n",
+    "output": "I'm sorry too. I wouldn't even talk to you at first because you were black. [they turn aside for a moment to avoid each other]\n"
+  },
+  {
+    "input": "I'm sorry too. I wouldn't even talk to you at first because you were black. [they turn aside for a moment to avoid each other]\n",
+    "output": "Do you think we could... Do you still want to... [they smile at each other]\n"
+  },
+  {
+    "input": "Do you think we could... Do you still want to... [they smile at each other]\n",
+    "output": "Maybe we can give it another try?\n"
+  },
+  {
+    "input": "Maybe we can give it another try?\n",
+    "output": "There are still people who will look at us funny. And think we're supposed to be together.\n"
+  },
+  {
+    "input": "There are still people who will look at us funny. And think we're supposed to be together.\n",
+    "output": "Let them look. I don't care.\n"
+  },
+  {
+    "input": "Let them look. I don't care.\n",
+    "output": "I don't care, either. [Cartman has a camera trained on them, while he takes up the whole screen on the MegaTron, praying for this to work out]\n"
+  },
+  {
+    "input": "I don't care, either. [Cartman has a camera trained on them, while he takes up the whole screen on the MegaTron, praying for this to work out]\n",
+    "output": "I just think you're a great person. The color of your skin doesn't matter.\n"
+  },
+  {
+    "input": "I just think you're a great person. The color of your skin doesn't matter.\n",
+    "output": "YAY! [they run to each other and hug each other]\n"
+  },
+  {
+    "input": "YAY! [they run to each other and hug each other]\n",
+    "output": "Oh my gohhhd, so cute! [runs out of the control room. Cupid Me appears]\n"
+  },
+  {
+    "input": "Oh my gohhhd, so cute! [runs out of the control room. Cupid Me appears]\n",
+    "output": "Teeheehee, a place for everything, and everything in its place.\n"
+  },
+  {
+    "input": "Teeheehee, a place for everything, and everything in its place.\n",
+    "output": "That's right, Cupid Me. People who are the same belong together.\n"
+  },
+  {
+    "input": "That's right, Cupid Me. People who are the same belong together.\n",
+    "output": "That's right, and I found somebody who's just the same as you!\n"
+  },
+  {
+    "input": "That's right, and I found somebody who's just the same as you!\n",
+    "output": "Really?!\n"
+  },
+  {
+    "input": "Really?!\n",
+    "output": "There she is! [points to Stacy, who turns around and growls at Cartman, showing her rotten teeth]\n"
+  },
+  {
+    "input": "There she is! [points to Stacy, who turns around and growls at Cartman, showing her rotten teeth]\n",
+    "output": "What?! Fuck you, Cupid Me!\n"
+  },
+  {
+    "input": "What?! Fuck you, Cupid Me!\n",
+    "output": "Teeheeheeheehee, fuck you! [gives him the finger and then goes and shoots some arrows onto Stacy's face. Stacy's pupils become hearts]\n"
+  },
+  {
+    "input": "Teeheeheeheehee, fuck you! [gives him the finger and then goes and shoots some arrows onto Stacy's face. Stacy's pupils become hearts]\n",
+    "output": "Hey, stop it!\n"
+  },
+  {
+    "input": "Hey, stop it!\n",
+    "output": "Haaagh! [Cartman spins around and runs. Stacy gives chase]\n"
+  },
+  {
+    "input": "Haaagh! [Cartman spins around and runs. Stacy gives chase]\n",
+    "output": "Nooo!\n"
+  }
+]

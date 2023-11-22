@@ -1,0 +1,962 @@
+[
+  {
+    "input": "",
+    "output": "Fantastic Easter Special\n\n[The Marsh house, outside, night.]\n"
+  },
+  {
+    "input": "Fantastic Easter Special\n\n[The Marsh house, outside, night.]\n",
+    "output": "[inside] ...In my Easter Bonnet, with all the frills upon it, I'll be the grandest lady in the Easter parade.\n[The Marsh house, dining room table. The Marshes are decorating Easter eggs. Stan dips a hard-boiled egg into a glass of green dye. Marvin spins his slowly in a small lathe. Randy finishes one up and shows it off.]\n"
+  },
+  {
+    "input": "[inside] ...In my Easter Bonnet, with all the frills upon it, I'll be the grandest lady in the Easter parade.\n[The Marsh house, dining room table. The Marshes are decorating Easter eggs. Stan dips a hard-boiled egg into a glass of green dye. Marvin spins his slowly in a small lathe. Randy finishes one up and shows it off.]\n",
+    "output": "Look at that one, huh? Half purple and half yellow with a chikadee sticker. I'm good. [sets it into the egg tray]\n"
+  },
+  {
+    "input": "Look at that one, huh? Half purple and half yellow with a chikadee sticker. I'm good. [sets it into the egg tray]\n",
+    "output": "Uh, can I ask a question? Why do we do this?\n"
+  },
+  {
+    "input": "Uh, can I ask a question? Why do we do this?\n",
+    "output": "Wha... what do you mean, \"Why do we do this?\" It's Easter!\n"
+  },
+  {
+    "input": "Wha... what do you mean, \"Why do we do this?\" It's Easter!\n",
+    "output": "Right, so, why do we color eggs? [Shelly makes a cross face]\n"
+  },
+  {
+    "input": "Right, so, why do we color eggs? [Shelly makes a cross face]\n",
+    "output": "Wulll, ssso that the Easter bunny can hide them.\n"
+  },
+  {
+    "input": "Wulll, ssso that the Easter bunny can hide them.\n",
+    "output": "Yeah, but why?\n"
+  },
+  {
+    "input": "Yeah, but why?\n",
+    "output": "Stanley, Easter celebrates the day that Jesus was resurrected after being crucified for our sins.\n"
+  },
+  {
+    "input": "Stanley, Easter celebrates the day that Jesus was resurrected after being crucified for our sins.\n",
+    "output": "So we dip eggs in colored vinegar and a giant rabbit hides them?\n"
+  },
+  {
+    "input": "So we dip eggs in colored vinegar and a giant rabbit hides them?\n",
+    "output": "That's right.\n"
+  },
+  {
+    "input": "That's right.\n",
+    "output": "You don't see the missteps in logic with that? [Randy is unfazed, while Shelly, Sharon, and Marvin look at Stan disapprovingly] Look, I'm just saying that somewhere between Jesus dying on the Cross and a giant bunny hiding eggs there seems to be a, a gap of information.\n"
+  },
+  {
+    "input": "You don't see the missteps in logic with that? [Randy is unfazed, while Shelly, Sharon, and Marvin look at Stan disapprovingly] Look, I'm just saying that somewhere between Jesus dying on the Cross and a giant bunny hiding eggs there seems to be a, a gap of information.\n",
+    "output": "Stanley, just dye your Goddamned eggs!\n"
+  },
+  {
+    "input": "Stanley, just dye your Goddamned eggs!\n",
+    "output": "[leaves his seat] I don't feel like coloring eggs! I don't get it!\n"
+  },
+  {
+    "input": "[leaves his seat] I don't feel like coloring eggs! I don't get it!\n",
+    "output": "What is wrong with him?!\n"
+  },
+  {
+    "input": "What is wrong with him?!\n",
+    "output": "Well, he's just getting older, Randy. Maybe he's figured out the Easter bunny isn't real. [continues dying her egg. Randy slams his palms down on the table angrily. Sharon is taken aback.]\n"
+  },
+  {
+    "input": "Well, he's just getting older, Randy. Maybe he's figured out the Easter bunny isn't real. [continues dying her egg. Randy slams his palms down on the table angrily. Sharon is taken aback.]\n",
+    "output": "[rising] You know so little! [leaves]\n[South Park Mall, day. The Easter bunny has a big Easter display at the mall where he sits in a chair taking requests for Easter gifts. A line of kids is waiting. In that line are Stan, Clyde, Red, Kevin, Craig, Heidi, Millie, Bill, Tolkien, Jimmy, and a few little brothers and sisters]\n"
+  },
+  {
+    "input": "[rising] You know so little! [leaves]\n[South Park Mall, day. The Easter bunny has a big Easter display at the mall where he sits in a chair taking requests for Easter gifts. A line of kids is waiting. In that line are Stan, Clyde, Red, Kevin, Craig, Heidi, Millie, Bill, Tolkien, Jimmy, and a few little brothers and sisters]\n",
+    "output": "And I want a Baltor soldier doll for Easter, and five Crash'n'Go RC cars, you got that?! Do you have that?!\n"
+  },
+  {
+    "input": "And I want a Baltor soldier doll for Easter, and five Crash'n'Go RC cars, you got that?! Do you have that?!\n",
+    "output": "Ahh, don't you think that's-\n"
+  },
+  {
+    "input": "Ahh, don't you think that's-\n",
+    "output": "Nono! You don't ask me questions! You are a rabbit! I am a human. So if you don't bring me what I want for Easter, I can fucking kill you!\n"
+  },
+  {
+    "input": "Nono! You don't ask me questions! You are a rabbit! I am a human. So if you don't bring me what I want for Easter, I can fucking kill you!\n",
+    "output": "Smile! [takes a picture and Cartman hops off]\n"
+  },
+  {
+    "input": "Smile! [takes a picture and Cartman hops off]\n",
+    "output": "Bye, Easter bunny! [leaves]\n"
+  },
+  {
+    "input": "Bye, Easter bunny! [leaves]\n",
+    "output": "[watches him leave] Oh my God. [Stan walks up and sits on the bunny's lap. The bunny notices]\n"
+  },
+  {
+    "input": "[watches him leave] Oh my God. [Stan walks up and sits on the bunny's lap. The bunny notices]\n",
+    "output": "All right, can you explain to me what's going on?\n"
+  },
+  {
+    "input": "All right, can you explain to me what's going on?\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "What is the deal with the coloring the eggs and you hiding them and all that? What does that have to do with Jesus dying on the Cross? [no reply] It is symbolic? Are you trying to reference something that happened in Biblical times? [nudges him] Answer me!\n"
+  },
+  {
+    "input": "What is the deal with the coloring the eggs and you hiding them and all that? What does that have to do with Jesus dying on the Cross? [no reply] It is symbolic? Are you trying to reference something that happened in Biblical times? [nudges him] Answer me!\n",
+    "output": "Look, kid ahh, I'm j-, I'm just a guy in a costume.\n"
+  },
+  {
+    "input": "Look, kid ahh, I'm j-, I'm just a guy in a costume.\n",
+    "output": "I know that! But I figure you must have some knowledge of what Easter's about if you're playing the Easter Bunny at the mall!\n"
+  },
+  {
+    "input": "I know that! But I figure you must have some knowledge of what Easter's about if you're playing the Easter Bunny at the mall!\n",
+    "output": "Huhuh, Easter's just Easter. Just, just go with it, kid.\n"
+  },
+  {
+    "input": "Huhuh, Easter's just Easter. Just, just go with it, kid.\n",
+    "output": "No, I'm not gonna just go with it! I'm gonna find out what's behind all this! [hops off and walks away]\n"
+  },
+  {
+    "input": "No, I'm not gonna just go with it! I'm gonna find out what's behind all this! [hops off and walks away]\n",
+    "output": "I need a break. Can I have a break? [he gets it and walks up to some payphones nearby. He picks one up and dials a number] We have a problem. Somebody's onto us. Yeah, he's askin' a lot of questions. Only a matter of time before he finds out what Easter's really about. Yes, I understand what must be done. Call the others. [hangs up the phone]\n[Stan's neighborhood, day. Stan is walking home with determination. He walks by a bus stop where someone is reading a newspaper. The newspaper drops down a bit and the reader is another Easter bunny. Stan stops and looks over his shoulder and the newspaper rises to its former position again. Stan walks on, and the bunny rises a few seconds later to follow him. Stan notices and begins to run. A few seconds later he notices three more Easter bunnies facing him. With bunnies behind him and in front, he runs across the street to escape, but a car stops just before hitting him and two more bunnies step out of the car. He gets to the other side and continues running in the same direction as before, with the six bunnies chasing him. He makes it home and closes the front door behind him. The bunnies reach the door and start pounding on it]\n[The Marsh house, inside. Stan runs upstairs.]\n"
+  },
+  {
+    "input": "I need a break. Can I have a break? [he gets it and walks up to some payphones nearby. He picks one up and dials a number] We have a problem. Somebody's onto us. Yeah, he's askin' a lot of questions. Only a matter of time before he finds out what Easter's really about. Yes, I understand what must be done. Call the others. [hangs up the phone]\n[Stan's neighborhood, day. Stan is walking home with determination. He walks by a bus stop where someone is reading a newspaper. The newspaper drops down a bit and the reader is another Easter bunny. Stan stops and looks over his shoulder and the newspaper rises to its former position again. Stan walks on, and the bunny rises a few seconds later to follow him. Stan notices and begins to run. A few seconds later he notices three more Easter bunnies facing him. With bunnies behind him and in front, he runs across the street to escape, but a car stops just before hitting him and two more bunnies step out of the car. He gets to the other side and continues running in the same direction as before, with the six bunnies chasing him. He makes it home and closes the front door behind him. The bunnies reach the door and start pounding on it]\n[The Marsh house, inside. Stan runs upstairs.]\n",
+    "output": "Mom? Dad? [reaches the second floor] Anybody home?\n"
+  },
+  {
+    "input": "Mom? Dad? [reaches the second floor] Anybody home?\n",
+    "output": "[voice only] Not now, Stanley, I'm on the toilet! [Stan runs to the restroom door and pounds on it]\n"
+  },
+  {
+    "input": "[voice only] Not now, Stanley, I'm on the toilet! [Stan runs to the restroom door and pounds on it]\n",
+    "output": "Dad! You've gotta help me! [looks around]\n"
+  },
+  {
+    "input": "Dad! You've gotta help me! [looks around]\n",
+    "output": "Hang on, I'm taking a crap.\n"
+  },
+  {
+    "input": "Hang on, I'm taking a crap.\n",
+    "output": "Dad! There's Easter bunnies chasing me!\n"
+  },
+  {
+    "input": "Dad! There's Easter bunnies chasing me!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "They chased me from the mall! I don't know what they want! [hears the front door breaking open] They're coming in! Dad, open the door! [the bathroom door opens and Randy looks out, wearing some bunny ears and a bunny snout with buck teeth.] Dad?\n"
+  },
+  {
+    "input": "They chased me from the mall! I don't know what they want! [hears the front door breaking open] They're coming in! Dad, open the door! [the bathroom door opens and Randy looks out, wearing some bunny ears and a bunny snout with buck teeth.] Dad?\n",
+    "output": "We... need to talk, Stan. [the Easter bunnies run up the stairs] Ih, it's okay guys.\n"
+  },
+  {
+    "input": "We... need to talk, Stan. [the Easter bunnies run up the stairs] Ih, it's okay guys.\n",
+    "output": "Randy?\n"
+  },
+  {
+    "input": "Randy?\n",
+    "output": "Yeah. 'Cause it turns out the kid we're after is my son.\n"
+  },
+  {
+    "input": "Yeah. 'Cause it turns out the kid we're after is my son.\n",
+    "output": "Ohhh.\n"
+  },
+  {
+    "input": "Ohhh.\n",
+    "output": "Tell the Grand Hare everything is okay. I'll take it from here.\n[Stan's room. Randy explains things.]\n"
+  },
+  {
+    "input": "Tell the Grand Hare everything is okay. I'll take it from here.\n[Stan's room. Randy explains things.]\n",
+    "output": "I wanted to keep this from you, Stan. I really wanted to wait until you were older but... you just had to keep asking questions!\n"
+  },
+  {
+    "input": "I wanted to keep this from you, Stan. I really wanted to wait until you were older but... you just had to keep asking questions!\n",
+    "output": "Why were those other rabbit guys chasing me?!\n"
+  },
+  {
+    "input": "Why were those other rabbit guys chasing me?!\n",
+    "output": "We have to be careful when we think somebody's onto us. [turns to face him] We are all part of a secret society, Stan. A very ancient, very important society of men who follow the way of the Rabbit, and protect the secret of the Easter bunny. We are called... the Hare Club For Men.\n"
+  },
+  {
+    "input": "We have to be careful when we think somebody's onto us. [turns to face him] We are all part of a secret society, Stan. A very ancient, very important society of men who follow the way of the Rabbit, and protect the secret of the Easter bunny. We are called... the Hare Club For Men.\n",
+    "output": "[not impressed, but curious] Does Mom know about this?\n"
+  },
+  {
+    "input": "[not impressed, but curious] Does Mom know about this?\n",
+    "output": "Duh, it's the Hare Club For Men. Chicks wouldn't understand.\n"
+  },
+  {
+    "input": "Duh, it's the Hare Club For Men. Chicks wouldn't understand.\n",
+    "output": "I don't understand!\n"
+  },
+  {
+    "input": "I don't understand!\n",
+    "output": "I belong to a secret society that has been around for thousands of years! Our identities have to be protected!\n"
+  },
+  {
+    "input": "I belong to a secret society that has been around for thousands of years! Our identities have to be protected!\n",
+    "output": "Could, could you, take off, the ears, please?\n"
+  },
+  {
+    "input": "Could, could you, take off, the ears, please?\n",
+    "output": "Stan, you don't seem to understand how serious this is! The secret of Easter that we protect is something that could rock the foundation of the entire world!\n"
+  },
+  {
+    "input": "Stan, you don't seem to understand how serious this is! The secret of Easter that we protect is something that could rock the foundation of the entire world!\n",
+    "output": "So what is the secret of Easter?\n"
+  },
+  {
+    "input": "So what is the secret of Easter?\n",
+    "output": "I can't tell you. You have to be allowed into the Society first, but... but perhaps... it's time.\n[Randy's car, night. He and Stan drive along a secluded road. Stan has a bag over his head so he doesn't see where they're going.]\n"
+  },
+  {
+    "input": "I can't tell you. You have to be allowed into the Society first, but... but perhaps... it's time.\n[Randy's car, night. He and Stan drive along a secluded road. Stan has a bag over his head so he doesn't see where they're going.]\n",
+    "output": "I always knew this day would come, when my son would be brought into the society. Reminds me of the day I was brought in by my father.\n"
+  },
+  {
+    "input": "I always knew this day would come, when my son would be brought into the society. Reminds me of the day I was brought in by my father.\n",
+    "output": "Grandpa's in it too?\n"
+  },
+  {
+    "input": "Grandpa's in it too?\n",
+    "output": "Of course. Marshes have been in the Hare Club For Men for generations. All the way back to the beginning.\n"
+  },
+  {
+    "input": "Of course. Marshes have been in the Hare Club For Men for generations. All the way back to the beginning.\n",
+    "output": "Dad, do I have to wear this bag over my head the entire time?\n"
+  },
+  {
+    "input": "Dad, do I have to wear this bag over my head the entire time?\n",
+    "output": "You aren't a member yet. You can't know where our secret meetings take place. We're going to a distant location, an old building near a lake about 40 minutes away.\n"
+  },
+  {
+    "input": "You aren't a member yet. You can't know where our secret meetings take place. We're going to a distant location, an old building near a lake about 40 minutes away.\n",
+    "output": "You mean the old Galveston Lodge? [Randy's taken aback at Stan's memory and so thinks about what to do next. After a while, he decides to remove the bag]\n"
+  },
+  {
+    "input": "You mean the old Galveston Lodge? [Randy's taken aback at Stan's memory and so thinks about what to do next. After a while, he decides to remove the bag]\n",
+    "output": "Dammit.\n[Galveston Lodge, night. Hares from all around gather inside. T.H.C.F.M. The lodge is guarded by two large golden hares]\n"
+  },
+  {
+    "input": "Dammit.\n[Galveston Lodge, night. Hares from all around gather inside. T.H.C.F.M. The lodge is guarded by two large golden hares]\n",
+    "output": "Hey Bill.\n"
+  },
+  {
+    "input": "Hey Bill.\n",
+    "output": "Evenin' Marcus.\n"
+  },
+  {
+    "input": "Evenin' Marcus.\n",
+    "output": "Heh heh hey, look at you!\n"
+  },
+  {
+    "input": "Heh heh hey, look at you!\n",
+    "output": "Hey everybody.\n[Galveston Lodge, inside. Hares mingle and chat]\n"
+  },
+  {
+    "input": "Hey everybody.\n[Galveston Lodge, inside. Hares mingle and chat]\n",
+    "output": "Stan Marsh, welcome! You must be very excited.\n"
+  },
+  {
+    "input": "Stan Marsh, welcome! You must be very excited.\n",
+    "output": "Must I?\n"
+  },
+  {
+    "input": "Must I?\n",
+    "output": "There he is! There's my grandson!\n"
+  },
+  {
+    "input": "There he is! There's my grandson!\n",
+    "output": "Hi Grandpa.\n"
+  },
+  {
+    "input": "Hi Grandpa.\n",
+    "output": "I'm proud of ya, Billy.\n"
+  },
+  {
+    "input": "I'm proud of ya, Billy.\n",
+    "output": "...Stan.\n[Galveston Lodge, induction ceremony. Randy places a strip of white fur on Stan's shoulders. The purple Hare dips an egg in a glass lavender dye and rings the bell. The gray Hare steps up, dips his egg in yellow dye and rings the bell. This continues. Later on, a gavel is sounded and the Hares turn left with lit candles.]\n"
+  },
+  {
+    "input": "...Stan.\n[Galveston Lodge, induction ceremony. Randy places a strip of white fur on Stan's shoulders. The purple Hare dips an egg in a glass lavender dye and rings the bell. The gray Hare steps up, dips his egg in yellow dye and rings the bell. This continues. Later on, a gavel is sounded and the Hares turn left with lit candles.]\n",
+    "output": "Tonight, we determine if a new member is worthy of protecting the Secret. Bring out... the rabbit.\n"
+  },
+  {
+    "input": "Tonight, we determine if a new member is worthy of protecting the Secret. Bring out... the rabbit.\n",
+    "output": "Sanctum Piter oteum, Deus ore uneum.\nHippitus hoppitus reus homine.\nIn suspiratoreum, lepus in re sanctum.\n[two Hares carry a white rabbit forward in a gilded cage]\nHippitus hoppitus reus Domine.\n[they set the rabbit before the Pink Hare and everyone genuflects... except for Stan. Randy looks up and has him genuflect as well]\n"
+  },
+  {
+    "input": "Sanctum Piter oteum, Deus ore uneum.\nHippitus hoppitus reus homine.\nIn suspiratoreum, lepus in re sanctum.\n[two Hares carry a white rabbit forward in a gilded cage]\nHippitus hoppitus reus Domine.\n[they set the rabbit before the Pink Hare and everyone genuflects... except for Stan. Randy looks up and has him genuflect as well]\n",
+    "output": "All hail the cute rabbit, Snowball!\n"
+  },
+  {
+    "input": "All hail the cute rabbit, Snowball!\n",
+    "output": "Hail Snowball. [all rise as the Pink Hare approaches Stan]\n"
+  },
+  {
+    "input": "Hail Snowball. [all rise as the Pink Hare approaches Stan]\n",
+    "output": "Stan Marsh, are you ready to hear the secret of Easter?\n"
+  },
+  {
+    "input": "Stan Marsh, are you ready to hear the secret of Easter?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Are you sure, son? Once you hear the secret, you will be bound to The Hare Club For Men forever.\n"
+  },
+  {
+    "input": "Are you sure, son? Once you hear the secret, you will be bound to The Hare Club For Men forever.\n",
+    "output": "Yeah, I wanna know already.\n"
+  },
+  {
+    "input": "Yeah, I wanna know already.\n",
+    "output": "Very well. At the Last Supper, Jesus Christ met with his 12 Disciples. It was there that- [interrupted by breaking windows and ninjas pouring in]\n"
+  },
+  {
+    "input": "Very well. At the Last Supper, Jesus Christ met with his 12 Disciples. It was there that- [interrupted by breaking windows and ninjas pouring in]\n",
+    "output": "They found us! [the other Hares arm themselves]\n"
+  },
+  {
+    "input": "They found us! [the other Hares arm themselves]\n",
+    "output": "[with rainbow vest] Protect Snowball! [a door is turned down, and a ninja, a monk, and a layman enter the lodge. Another door breaks down and another monk enters with three ninjas]\n"
+  },
+  {
+    "input": "[with rainbow vest] Protect Snowball! [a door is turned down, and a ninja, a monk, and a layman enter the lodge. Another door breaks down and another monk enters with three ninjas]\n",
+    "output": "They're everywhere! [Hares and ninja battle each other, killing each other as Stan watches]\n"
+  },
+  {
+    "input": "They're everywhere! [Hares and ninja battle each other, killing each other as Stan watches]\n",
+    "output": "[approaches Stan with Snowball] Come on, we've gotta go! [a ninja spots him and quickly fires an arrow into his left leg. He stumbles] Stan, take Snowball and get out of here!\n"
+  },
+  {
+    "input": "[approaches Stan with Snowball] Come on, we've gotta go! [a ninja spots him and quickly fires an arrow into his left leg. He stumbles] Stan, take Snowball and get out of here!\n",
+    "output": "Where am I supposed to go?\n"
+  },
+  {
+    "input": "Where am I supposed to go?\n",
+    "output": "Just get out of here! [Stan turns around and heads for the entrance. A ninja comes up behind him, but Randy grabs the ninjas leg and holds on, forcing the ninja to fall. The ninja tries to kick Randy off]\n"
+  },
+  {
+    "input": "Just get out of here! [Stan turns around and heads for the entrance. A ninja comes up behind him, but Randy grabs the ninjas leg and holds on, forcing the ninja to fall. The ninja tries to kick Randy off]\n",
+    "output": "Where is the rabbit?!\n[Galveston Lodge, outside. Stan runs into a small woods nearby, but he hears car doors, so he goes back to see what's going on. The ninjas and laymen are rounding up the wounded Hares.]\n"
+  },
+  {
+    "input": "Where is the rabbit?!\n[Galveston Lodge, outside. Stan runs into a small woods nearby, but he hears car doors, so he goes back to see what's going on. The ninjas and laymen are rounding up the wounded Hares.]\n",
+    "output": "Where are you taking us?\n"
+  },
+  {
+    "input": "Where are you taking us?\n",
+    "output": "No! I'm not goin' anywhere! [the layman walks up and shoot him in the head, and he falls.]\n"
+  },
+  {
+    "input": "No! I'm not goin' anywhere! [the layman walks up and shoot him in the head, and he falls.]\n",
+    "output": "Jesus Christ! [a monk has Randy restrained]\n"
+  },
+  {
+    "input": "Jesus Christ! [a monk has Randy restrained]\n",
+    "output": "Who did you give the rabbit to?! [slaps Randy, Randy spits back. The layman punches Randy in the stomach and has him rounded up with the others] Search the area! The boy could not have gotten far!\n"
+  },
+  {
+    "input": "Who did you give the rabbit to?! [slaps Randy, Randy spits back. The layman punches Randy in the stomach and has him rounded up with the others] Search the area! The boy could not have gotten far!\n",
+    "output": "Oh no... [looks around, then runs off]\n[Kyle's house, night. Kyle is at the dining room table doing fingerpaints of Stars of David for Passover. The doorbell rings and he goes to answer it. Stan is at the entrance gasping for air and carrying Snowball. He's a bit unkempt.]\n"
+  },
+  {
+    "input": "Oh no... [looks around, then runs off]\n[Kyle's house, night. Kyle is at the dining room table doing fingerpaints of Stars of David for Passover. The doorbell rings and he goes to answer it. Stan is at the entrance gasping for air and carrying Snowball. He's a bit unkempt.]\n",
+    "output": "Help.\n"
+  },
+  {
+    "input": "Help.\n",
+    "output": "What happened?\n"
+  },
+  {
+    "input": "What happened?\n",
+    "output": "My Dad's in a rabbit-worshiping cult called the Hare Club For Men they protect the secret of Easter but before they said what it was they were attacked by ninjas and put me in charge of Snowball.\n"
+  },
+  {
+    "input": "My Dad's in a rabbit-worshiping cult called the Hare Club For Men they protect the secret of Easter but before they said what it was they were attacked by ninjas and put me in charge of Snowball.\n",
+    "output": "...I'm kind of finger painting right now.\n"
+  },
+  {
+    "input": "...I'm kind of finger painting right now.\n",
+    "output": "[enters anyway] Dude, they took my Dad away. They even shot one of his fellow hares. And now they're after me! [turns around and fires off a few questions] Do you know anything about Easter? What is the connection between Jesus and rabbits and colored eggs?\n"
+  },
+  {
+    "input": "[enters anyway] Dude, they took my Dad away. They even shot one of his fellow hares. And now they're after me! [turns around and fires off a few questions] Do you know anything about Easter? What is the connection between Jesus and rabbits and colored eggs?\n",
+    "output": "Dude, I'm Jewish. I have no idea.\n[A dark place. Randy is laying on the floor, the arrow removed from his leg. He stirs, coughs, and sits up. He's in an old large jail cell with the surviving Hares]\n"
+  },
+  {
+    "input": "Dude, I'm Jewish. I have no idea.\n[A dark place. Randy is laying on the floor, the arrow removed from his leg. He stirs, coughs, and sits up. He's in an old large jail cell with the surviving Hares]\n",
+    "output": "Nelson. [crawls towards him] Nelson? Nelson, say something.\n"
+  },
+  {
+    "input": "Nelson. [crawls towards him] Nelson? Nelson, say something.\n",
+    "output": "[reclining against a cage wall] My legs. I... I think they're broken.\n"
+  },
+  {
+    "input": "[reclining against a cage wall] My legs. I... I think they're broken.\n",
+    "output": "Nelson, do you know where we are? Where did they take us?\n"
+  },
+  {
+    "input": "Nelson, do you know where we are? Where did they take us?\n",
+    "output": "Don't know... we traveled for hours... kept blacking out... [coughs. Randy lets go and crawls back, but sees someone standing before him]\n"
+  },
+  {
+    "input": "Don't know... we traveled for hours... kept blacking out... [coughs. Randy lets go and crawls back, but sees someone standing before him]\n",
+    "output": "You...\n[A mansion, night. Stan and Kyle arrive and knock on its front door. A butler answers the door]\n"
+  },
+  {
+    "input": "You...\n[A mansion, night. Stan and Kyle arrive and knock on its front door. A butler answers the door]\n",
+    "output": "Hi, we'd like to speak to a [reads the name from a slip of paper] Professor Teabag? [Stan is still carrying Snowball]\n"
+  },
+  {
+    "input": "Hi, we'd like to speak to a [reads the name from a slip of paper] Professor Teabag? [Stan is still carrying Snowball]\n",
+    "output": "What is it in regard to? [the professor appears at the far end with a walking stick]\n"
+  },
+  {
+    "input": "What is it in regard to? [the professor appears at the far end with a walking stick]\n",
+    "output": "The history of Easter.\n"
+  },
+  {
+    "input": "The history of Easter.\n",
+    "output": "[walks slowly towards the boys] Sorry boys, it's a little late for me to be giving lectures. [turns around and walks away]\n"
+  },
+  {
+    "input": "[walks slowly towards the boys] Sorry boys, it's a little late for me to be giving lectures. [turns around and walks away]\n",
+    "output": "Please? Do you know anything about the Hare Club For Men? [the professor stops and turns around]\n"
+  },
+  {
+    "input": "Please? Do you know anything about the Hare Club For Men? [the professor stops and turns around]\n",
+    "output": "The Keepers? [walks towards them] The Guardians of the Secret?\n"
+  },
+  {
+    "input": "The Keepers? [walks towards them] The Guardians of the Secret?\n",
+    "output": "[the butler steps aside] My Dad is in it. This... rabbit is too somehow.\n"
+  },
+  {
+    "input": "[the butler steps aside] My Dad is in it. This... rabbit is too somehow.\n",
+    "output": "Come on in. [smiles]\n[Teabag's study. He leads the boys in and begins]\n"
+  },
+  {
+    "input": "Come on in. [smiles]\n[Teabag's study. He leads the boys in and begins]\n",
+    "output": "The Hare Club For Men has been around for centuries. One of its most famous members was Leonardo da Vinci. [on a large widescreen TV is a picture of The Last Supper] Behold the Last Supper. The dinner Christ had with his disciples the night before he was crucified. What food do you see on the table?\n"
+  },
+  {
+    "input": "The Hare Club For Men has been around for centuries. One of its most famous members was Leonardo da Vinci. [on a large widescreen TV is a picture of The Last Supper] Behold the Last Supper. The dinner Christ had with his disciples the night before he was crucified. What food do you see on the table?\n",
+    "output": "Just bread...\n"
+  },
+  {
+    "input": "Just bread...\n",
+    "output": "Really? Look to Jesus's right. [zooms in and pans to the lower left, then zooms in on an oval shape] The food which is a little different color than the others.\n"
+  },
+  {
+    "input": "Really? Look to Jesus's right. [zooms in and pans to the lower left, then zooms in on an oval shape] The food which is a little different color than the others.\n",
+    "output": "It kind of looks like... an egg.\n"
+  },
+  {
+    "input": "It kind of looks like... an egg.\n",
+    "output": "Yes. The egg marks the secret. It lies directly in front of... [zooms out and a bright trace appears around the disciple behind the egg] Saint Peter.\n"
+  },
+  {
+    "input": "Yes. The egg marks the secret. It lies directly in front of... [zooms out and a bright trace appears around the disciple behind the egg] Saint Peter.\n",
+    "output": "Who is Saint Peter?\n"
+  },
+  {
+    "input": "Who is Saint Peter?\n",
+    "output": "He was the disciple that Jesus made into the first pope.\n"
+  },
+  {
+    "input": "He was the disciple that Jesus made into the first pope.\n",
+    "output": "Eggsactly. But there's something the Church didn't tell you. In actuality, Peter wasn't a man at all. Saint Peter... was a rabbit. [the boys say nothing for a few seconds]\n"
+  },
+  {
+    "input": "Eggsactly. But there's something the Church didn't tell you. In actuality, Peter wasn't a man at all. Saint Peter... was a rabbit. [the boys say nothing for a few seconds]\n",
+    "output": "[flatly] Peter Rabbit.\n"
+  },
+  {
+    "input": "[flatly] Peter Rabbit.\n",
+    "output": "Of course, the Church wouldn't allow da Vinci to paint Peter as a rabbit, so he painted him as a man, but left clues. Look closely.\n"
+  },
+  {
+    "input": "Of course, the Church wouldn't allow da Vinci to paint Peter as a rabbit, so he painted him as a man, but left clues. Look closely.\n",
+    "output": "I don't see it.\n"
+  },
+  {
+    "input": "I don't see it.\n",
+    "output": "Look closelier. [zooms in]\n"
+  },
+  {
+    "input": "Look closelier. [zooms in]\n",
+    "output": "He looks like a guy.\n"
+  },
+  {
+    "input": "He looks like a guy.\n",
+    "output": "Look more closelier. [zooms in further, and a pair of rabbit ears appear on Peter's head] With laser technology we can look beneath the paint, the way da Vinci originally painted it. [Peter disappears from the picture and a white rabbit appears next to the egg which was in front of Peter] That... is Saint Peter. [Stan jumps a bit] The original Pope of Christianity.\n"
+  },
+  {
+    "input": "Look more closelier. [zooms in further, and a pair of rabbit ears appear on Peter's head] With laser technology we can look beneath the paint, the way da Vinci originally painted it. [Peter disappears from the picture and a white rabbit appears next to the egg which was in front of Peter] That... is Saint Peter. [Stan jumps a bit] The original Pope of Christianity.\n",
+    "output": "I don't believe it.\n"
+  },
+  {
+    "input": "I don't believe it.\n",
+    "output": "Proof is everywhere. Look at the Pope's hat. [a picture of Benedict XVI appears] It makes no sense, except that it was originally designed... [a picture of a rabbit slides in next to that of the pope, and Teabag moves the hat from the pope to the rabbit] for a rabbit.\n"
+  },
+  {
+    "input": "Proof is everywhere. Look at the Pope's hat. [a picture of Benedict XVI appears] It makes no sense, except that it was originally designed... [a picture of a rabbit slides in next to that of the pope, and Teabag moves the hat from the pope to the rabbit] for a rabbit.\n",
+    "output": "[looks at the professor] But why would Jesus want a rabbit to run his church?\n"
+  },
+  {
+    "input": "[looks at the professor] But why would Jesus want a rabbit to run his church?\n",
+    "output": "Because Jesus knew no one man could speak for everyone in a religion. Men can be intolerant; rabbits are pure. But the Catholic Church buried the truth, put a man in charge, and the Hare Club For Men has been decorating eggs ever since to keep the secret in da Vinci's painting alive.\n"
+  },
+  {
+    "input": "Because Jesus knew no one man could speak for everyone in a religion. Men can be intolerant; rabbits are pure. But the Catholic Church buried the truth, put a man in charge, and the Hare Club For Men has been decorating eggs ever since to keep the secret in da Vinci's painting alive.\n",
+    "output": "So... the Vatican took Stan's dad?\n[The Vatican, night. Thunder and lightning roll through the sky. At St. Peter's Basilica, the Pope approaches one of the doors with a monk behind him. The Hare Club for Men is waiting to meet him]\n"
+  },
+  {
+    "input": "So... the Vatican took Stan's dad?\n[The Vatican, night. Thunder and lightning roll through the sky. At St. Peter's Basilica, the Pope approaches one of the doors with a monk behind him. The Hare Club for Men is waiting to meet him]\n",
+    "output": "You dare to mock God by telling people St. Peter was a rabbit?\n"
+  },
+  {
+    "input": "You dare to mock God by telling people St. Peter was a rabbit?\n",
+    "output": "You monster! You have no right to wear that hat!\n"
+  },
+  {
+    "input": "You monster! You have no right to wear that hat!\n",
+    "output": "Trying to tell people that St. Peter was a rabbit is blasphemy! You must admit you are wrong or burn in hell!\n"
+  },
+  {
+    "input": "Trying to tell people that St. Peter was a rabbit is blasphemy! You must admit you are wrong or burn in hell!\n",
+    "output": "It's saying stupid things like that that made Jesus wanna put a rabbit in charge.\n"
+  },
+  {
+    "input": "It's saying stupid things like that that made Jesus wanna put a rabbit in charge.\n",
+    "output": "I'm sorry I couldn't bring you the rabbit, Your Holiness, but they know where it is!\n"
+  },
+  {
+    "input": "I'm sorry I couldn't bring you the rabbit, Your Holiness, but they know where it is!\n",
+    "output": "The rabbit you call Snowball is a threat to Christ's Church. Where is the rabbit?!\n"
+  },
+  {
+    "input": "The rabbit you call Snowball is a threat to Christ's Church. Where is the rabbit?!\n",
+    "output": "I don't know! And even if I did know... well, I'd probably tell you because I don't wanna be here anymore.\n"
+  },
+  {
+    "input": "I don't know! And even if I did know... well, I'd probably tell you because I don't wanna be here anymore.\n",
+    "output": "Take him to be tortured!\n"
+  },
+  {
+    "input": "Take him to be tortured!\n",
+    "output": "Tortured, huh, but Bill, all this... torturing and ninjas, it just doesn't seem very Christian.\n"
+  },
+  {
+    "input": "Tortured, huh, but Bill, all this... torturing and ninjas, it just doesn't seem very Christian.\n",
+    "output": "[the layman] You asked for the help of the American Catholic League, let us do our job! Take him! [a cardinal and a ninja open the door, take Randy in, and escort him to his torture.]\n"
+  },
+  {
+    "input": "[the layman] You asked for the help of the American Catholic League, let us do our job! Take him! [a cardinal and a ninja open the door, take Randy in, and escort him to his torture.]\n",
+    "output": "No! No, you bunny-hating bastards! Don't do this!\n[Teabag's mansion. Stan and Kyle are still looking at the Last Supper. Stan turns around.]\n"
+  },
+  {
+    "input": "No! No, you bunny-hating bastards! Don't do this!\n[Teabag's mansion. Stan and Kyle are still looking at the Last Supper. Stan turns around.]\n",
+    "output": "I don't get it. Why would the pope be holding my Dad hostage for Snowball?\n"
+  },
+  {
+    "input": "I don't get it. Why would the pope be holding my Dad hostage for Snowball?\n",
+    "output": "I believe Snowball must be a direct descendant of St. Peter himself, and therefor the true heir of the pope's throne. [the butler is shown polishing a steel vase as some ninjas make their way towards the study]\n"
+  },
+  {
+    "input": "I believe Snowball must be a direct descendant of St. Peter himself, and therefor the true heir of the pope's throne. [the butler is shown polishing a steel vase as some ninjas make their way towards the study]\n",
+    "output": "[notices some ninjas behind him] Mr. Teabag! Get out! [one of the ninjas runs his sword through the butler's head and out his face, killing him]\n"
+  },
+  {
+    "input": "[notices some ninjas behind him] Mr. Teabag! Get out! [one of the ninjas runs his sword through the butler's head and out his face, killing him]\n",
+    "output": "They found me!\n"
+  },
+  {
+    "input": "They found me!\n",
+    "output": "Boys, get out of here! [takes them to a window and opens it] Head to the woods! I'll try to buy you some time. [Stan and Kyle climb down the ladder he's prepared for them]\n"
+  },
+  {
+    "input": "Boys, get out of here! [takes them to a window and opens it] Head to the woods! I'll try to buy you some time. [Stan and Kyle climb down the ladder he's prepared for them]\n",
+    "output": "[off screen] Check upstairs! [the professor picks up a box of... PEEPS] Upstairs clear! Try the office! [Teabag takes the peeps to a microwave oven nearby and opens the oven's door. He puts the peeps in and sets the timer to 15 seconds. Behind him, two ninjas break into the study]\n"
+  },
+  {
+    "input": "[off screen] Check upstairs! [the professor picks up a box of... PEEPS] Upstairs clear! Try the office! [Teabag takes the peeps to a microwave oven nearby and opens the oven's door. He puts the peeps in and sets the timer to 15 seconds. Behind him, two ninjas break into the study]\n",
+    "output": "In here! [Teabag closes his eyes]\n"
+  },
+  {
+    "input": "In here! [Teabag closes his eyes]\n",
+    "output": "What's that? [the peeps begin to expand quickly and fill up the oven. Four seconds left, three, two, one...]\n"
+  },
+  {
+    "input": "What's that? [the peeps begin to expand quickly and fill up the oven. Four seconds left, three, two, one...]\n",
+    "output": "PEEEEPS! [the oven explodes, spewing peeps everywhere and killing Teabag. Stan and Kyle are running away when they turn to see the whole mansion being destroyed by peep marshmallow]\n"
+  },
+  {
+    "input": "PEEEEPS! [the oven explodes, spewing peeps everywhere and killing Teabag. Stan and Kyle are running away when they turn to see the whole mansion being destroyed by peep marshmallow]\n",
+    "output": "So what now?\n"
+  },
+  {
+    "input": "So what now?\n",
+    "output": "If the pope has my Dad... I have to give him what he wants.\n"
+  },
+  {
+    "input": "If the pope has my Dad... I have to give him what he wants.\n",
+    "output": "You aren't just gonna hand Snowball over?\n"
+  },
+  {
+    "input": "You aren't just gonna hand Snowball over?\n",
+    "output": "What choice do I have?! There's nobody left who can help us! [softly] Wait... unless... maybe there is. [hands Snowball to Kyle] Here, hold this. [walks some distance away from Kyle and prays] Jesus, I know we haven't talked in a long time, and I know that every time you appear we end up killing you somehow, but... I don't know what to do. And I could really use your help. [waits for a long time, then peeks with his right eye, then with both, but there's no sign of Jesus. He opens his eyes wide, as normal, and looks up. Kyle looks down at Snowball]\n"
+  },
+  {
+    "input": "What choice do I have?! There's nobody left who can help us! [softly] Wait... unless... maybe there is. [hands Snowball to Kyle] Here, hold this. [walks some distance away from Kyle and prays] Jesus, I know we haven't talked in a long time, and I know that every time you appear we end up killing you somehow, but... I don't know what to do. And I could really use your help. [waits for a long time, then peeks with his right eye, then with both, but there's no sign of Jesus. He opens his eyes wide, as normal, and looks up. Kyle looks down at Snowball]\n",
+    "output": "I think the rabbit just crapped on my jacket.\n[A news special comes on: World News, Easter Vigil coverage.]\n"
+  },
+  {
+    "input": "I think the rabbit just crapped on my jacket.\n[A news special comes on: World News, Easter Vigil coverage.]\n",
+    "output": "Live, from the Vatican, it's our Easter Vigil coverage.\n"
+  },
+  {
+    "input": "Live, from the Vatican, it's our Easter Vigil coverage.\n",
+    "output": "As Holy Saturday comes to an end, the Easter vigil at the Vatican begins. Thousand have turned out to hear the Pope and celebrate the Resurrection. [visitors whip out their cameras and take pictures] For this Easter vigil the Pope is also showing his divine grace by feeding the poor, with a massive rabbit stew. [two chefs stand atop ladders next to a huge cauldron, slicing up ingredients. Bill and a ninja bring in a bunny to toss into the cauldron]\n"
+  },
+  {
+    "input": "As Holy Saturday comes to an end, the Easter vigil at the Vatican begins. Thousand have turned out to hear the Pope and celebrate the Resurrection. [visitors whip out their cameras and take pictures] For this Easter vigil the Pope is also showing his divine grace by feeding the poor, with a massive rabbit stew. [two chefs stand atop ladders next to a huge cauldron, slicing up ingredients. Bill and a ninja bring in a bunny to toss into the cauldron]\n",
+    "output": "NOOO! Noo! No, don't put m- [he's thrown in and is boiled to death] AAAAAAAAAAH!\n"
+  },
+  {
+    "input": "NOOO! Noo! No, don't put m- [he's thrown in and is boiled to death] AAAAAAAAAAH!\n",
+    "output": "Bill, this seems extreme.\n"
+  },
+  {
+    "input": "Bill, this seems extreme.\n",
+    "output": "The child who has the rabbit has to know that we are willing to kill the hostages if he doesn't hand it over.\n"
+  },
+  {
+    "input": "The child who has the rabbit has to know that we are willing to kill the hostages if he doesn't hand it over.\n",
+    "output": "Your Holiness, a child has arrived with a the rabbit!\n"
+  },
+  {
+    "input": "Your Holiness, a child has arrived with a the rabbit!\n",
+    "output": "Ya see? [the three leave to meet this boy]\n[St. Peter's Basilica. Stan and Kyle walk towards the alter with Snowball. Randy greets them as he's headed towards his torture]\n"
+  },
+  {
+    "input": "Ya see? [the three leave to meet this boy]\n[St. Peter's Basilica. Stan and Kyle walk towards the alter with Snowball. Randy greets them as he's headed towards his torture]\n",
+    "output": "Oh thank God! Hand it over, Stan! They're gonna kill me! Give them the rabbit!\n"
+  },
+  {
+    "input": "Oh thank God! Hand it over, Stan! They're gonna kill me! Give them the rabbit!\n",
+    "output": "Yes, hand it over!\n"
+  },
+  {
+    "input": "Yes, hand it over!\n",
+    "output": "First, you have to promise you won't hurt it! And that you'll let everybody go!\n"
+  },
+  {
+    "input": "First, you have to promise you won't hurt it! And that you'll let everybody go!\n",
+    "output": "We promise.\n"
+  },
+  {
+    "input": "We promise.\n",
+    "output": "We swear it, on the cross.\n"
+  },
+  {
+    "input": "We swear it, on the cross.\n",
+    "output": "Just hand over the bunny, Stan!\n"
+  },
+  {
+    "input": "Just hand over the bunny, Stan!\n",
+    "output": "Okay, fine. [a cardinal takes Snowball from Stan, and Randy is released]\n"
+  },
+  {
+    "input": "Okay, fine. [a cardinal takes Snowball from Stan, and Randy is released]\n",
+    "output": "[reaching his son] Stanley, why did you do that? I would have proudly died for that rabbit.\n"
+  },
+  {
+    "input": "[reaching his son] Stanley, why did you do that? I would have proudly died for that rabbit.\n",
+    "output": "You said \"hand over the bunny.\"\n"
+  },
+  {
+    "input": "You said \"hand over the bunny.\"\n",
+    "output": "No! That is not the way we're remembering it!\n"
+  },
+  {
+    "input": "No! That is not the way we're remembering it!\n",
+    "output": "Take them into custody! [ninjas come in and put cuffs on Randy and the boys]\n"
+  },
+  {
+    "input": "Take them into custody! [ninjas come in and put cuffs on Randy and the boys]\n",
+    "output": "Hey, what the hell!\n"
+  },
+  {
+    "input": "Hey, what the hell!\n",
+    "output": "Bill, we have zeh rabbit, it's all we need.\n"
+  },
+  {
+    "input": "Bill, we have zeh rabbit, it's all we need.\n",
+    "output": "Don't be soft, Your Holiness! These \"whores\" must be punished in front of everyone!\n"
+  },
+  {
+    "input": "Don't be soft, Your Holiness! These \"whores\" must be punished in front of everyone!\n",
+    "output": "You swore on the cross, fatso!\n"
+  },
+  {
+    "input": "You swore on the cross, fatso!\n",
+    "output": "Yeah. Too bad for you... it was a double cross! [cackles]\n"
+  },
+  {
+    "input": "Yeah. Too bad for you... it was a double cross! [cackles]\n",
+    "output": "Oh, we should've seen that coming!\n"
+  },
+  {
+    "input": "Oh, we should've seen that coming!\n",
+    "output": "Bill, I'm not sure that double-crossing people is very Christian.\n"
+  },
+  {
+    "input": "Bill, I'm not sure that double-crossing people is very Christian.\n",
+    "output": "It is what Christ would've wanted!\n"
+  },
+  {
+    "input": "It is what Christ would've wanted!\n",
+    "output": "[off-screen] Who are you to say that?! [the clerics look surprised. Jesus approaches them from the entrance of the basilica]\n"
+  },
+  {
+    "input": "[off-screen] Who are you to say that?! [the clerics look surprised. Jesus approaches them from the entrance of the basilica]\n",
+    "output": "It... can't be.\n"
+  },
+  {
+    "input": "It... can't be.\n",
+    "output": "Jesus! [as Jesus walks, clergymen genuflect and bow to him]\n"
+  },
+  {
+    "input": "Jesus! [as Jesus walks, clergymen genuflect and bow to him]\n",
+    "output": "He is risen. He is risen. Let the voices sing his praises on this holy day. He is risen!\n"
+  },
+  {
+    "input": "He is risen. He is risen. Let the voices sing his praises on this holy day. He is risen!\n",
+    "output": "Jesus, we thought you died. In Iraq.\n"
+  },
+  {
+    "input": "Jesus, we thought you died. In Iraq.\n",
+    "output": "I have the power of resurrection. Or have you forgotten? You all seem to have forgotten a lot of things.\n"
+  },
+  {
+    "input": "I have the power of resurrection. Or have you forgotten? You all seem to have forgotten a lot of things.\n",
+    "output": "Jesus, you did answer my prayer! [grins]\n"
+  },
+  {
+    "input": "Jesus, you did answer my prayer! [grins]\n",
+    "output": "Actually, I was answering the prayer of Nick Donovan.\n"
+  },
+  {
+    "input": "Actually, I was answering the prayer of Nick Donovan.\n",
+    "output": "Ohh, that's me Neato!\n"
+  },
+  {
+    "input": "Ohh, that's me Neato!\n",
+    "output": "This is exactly why I put a rabbit in charge of the Church, Benedictus! Because men are so easily led astray. St. Peter was a rabbit. And a rabbit should be Pope.\n"
+  },
+  {
+    "input": "This is exactly why I put a rabbit in charge of the Church, Benedictus! Because men are so easily led astray. St. Peter was a rabbit. And a rabbit should be Pope.\n",
+    "output": "Kill him!\n"
+  },
+  {
+    "input": "Kill him!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "He goes against the Church. He must die!\n"
+  },
+  {
+    "input": "He goes against the Church. He must die!\n",
+    "output": "All right, that does it, Bill. I'm pretty sure that killing Jesus is not very Christian.\n"
+  },
+  {
+    "input": "All right, that does it, Bill. I'm pretty sure that killing Jesus is not very Christian.\n",
+    "output": "You are soft! Weak! You leave me no choice: take them! [two ninjas apprehend Jesus]\n"
+  },
+  {
+    "input": "You are soft! Weak! You leave me no choice: take them! [two ninjas apprehend Jesus]\n",
+    "output": "What are you doing?! [two others arrest Benedict]\n"
+  },
+  {
+    "input": "What are you doing?! [two others arrest Benedict]\n",
+    "output": "I am the Pope!\n"
+  },
+  {
+    "input": "I am the Pope!\n",
+    "output": "You are no longer able to fulfill your duties to the Lord! [removes the papal tiara and places it on his own head] The Easter vigil will go on as planned! [walks to a clear spot with Snowball, so all could see.] Every Hare Club member, young and old, will watch as their precious savior dies!\n"
+  },
+  {
+    "input": "You are no longer able to fulfill your duties to the Lord! [removes the papal tiara and places it on his own head] The Easter vigil will go on as planned! [walks to a clear spot with Snowball, so all could see.] Every Hare Club member, young and old, will watch as their precious savior dies!\n",
+    "output": "What is your problem, guy?!\n"
+  },
+  {
+    "input": "What is your problem, guy?!\n",
+    "output": "Lock up those two Jews! [referring to Kyle and Jesus] We'll deal with them later.\n"
+  },
+  {
+    "input": "Lock up those two Jews! [referring to Kyle and Jesus] We'll deal with them later.\n",
+    "output": "No! No! [Stan and Randy are taken away in one direction, Kyle and Jesus in another, Benedict in still another]\n[Easter Vigil coverage continues.]\n"
+  },
+  {
+    "input": "No! No! [Stan and Randy are taken away in one direction, Kyle and Jesus in another, Benedict in still another]\n[Easter Vigil coverage continues.]\n",
+    "output": "A strange turn of events here at the Vatican: Pope Benedictus has stepped down, ushering the new era of... Pope Bill Donohue\n[The platform outside St. Peter's, moments later. Bill presides over the rabbit stew.]\n"
+  },
+  {
+    "input": "A strange turn of events here at the Vatican: Pope Benedictus has stepped down, ushering the new era of... Pope Bill Donohue\n[The platform outside St. Peter's, moments later. Bill presides over the rabbit stew.]\n",
+    "output": "My people! This Easter I'm gonna start by making our rabbit stew ten times meatier! [the crowds cheer loudly]\n"
+  },
+  {
+    "input": "My people! This Easter I'm gonna start by making our rabbit stew ten times meatier! [the crowds cheer loudly]\n",
+    "output": "No! Listen! We aren't rabbits! [a ninja punches him in the stomach] Oof.\n[A dungeon cell. Jesus and Kyle are in it. Jesus has a file in his right hand and is furiously sawing away at a chain by the cell's entrance. Across the hall from him is Benedict XVI in his own cell.]\n"
+  },
+  {
+    "input": "No! Listen! We aren't rabbits! [a ninja punches him in the stomach] Oof.\n[A dungeon cell. Jesus and Kyle are in it. Jesus has a file in his right hand and is furiously sawing away at a chain by the cell's entrance. Across the hall from him is Benedict XVI in his own cell.]\n",
+    "output": "Forgive me, Jesus.\n"
+  },
+  {
+    "input": "Forgive me, Jesus.\n",
+    "output": "We'll never get out in time to stop him!\n"
+  },
+  {
+    "input": "We'll never get out in time to stop him!\n",
+    "output": "Don't you have any superpowers?\n"
+  },
+  {
+    "input": "Don't you have any superpowers?\n",
+    "output": "[throws the file away] Not as a mortal. Only in death. Wait. That's it. We have no choice, Kyle. You're going to have to kill me.\n"
+  },
+  {
+    "input": "[throws the file away] Not as a mortal. Only in death. Wait. That's it. We have no choice, Kyle. You're going to have to kill me.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Stab me with this. [brings out a small dagger] If I die I can resurrect outside the bars.\n"
+  },
+  {
+    "input": "Stab me with this. [brings out a small dagger] If I die I can resurrect outside the bars.\n",
+    "output": "N-no way! Do it yourself.\n"
+  },
+  {
+    "input": "N-no way! Do it yourself.\n",
+    "output": "Suicide is blasphemy. There's no choice here, Kyle!\n"
+  },
+  {
+    "input": "Suicide is blasphemy. There's no choice here, Kyle!\n",
+    "output": "Dude, you don't understand, I'm a Jew. I have a few hang ups about killing Jesus.\n"
+  },
+  {
+    "input": "Dude, you don't understand, I'm a Jew. I have a few hang ups about killing Jesus.\n",
+    "output": "Just make it quick. [kneels down and hands the dagger to Kyle] Through the neck. I'll arise again immediately.\n"
+  },
+  {
+    "input": "Just make it quick. [kneels down and hands the dagger to Kyle] Through the neck. I'll arise again immediately.\n",
+    "output": "[looks at the dagger in dismay] Don't make me do this.\n"
+  },
+  {
+    "input": "[looks at the dagger in dismay] Don't make me do this.\n",
+    "output": "My son, there is no time! Do it!\n"
+  },
+  {
+    "input": "My son, there is no time! Do it!\n",
+    "output": "Eric Cartman can never know about this.\n"
+  },
+  {
+    "input": "Eric Cartman can never know about this.\n",
+    "output": "I understand. And Kyle, happy Easter.\n"
+  },
+  {
+    "input": "I understand. And Kyle, happy Easter.\n",
+    "output": "Happy Easter, Jesus. [stabs Jesus in the neck, as ordered]\n"
+  },
+  {
+    "input": "Happy Easter, Jesus. [stabs Jesus in the neck, as ordered]\n",
+    "output": "Awgh! [walks around for a few seconds, groaning and shedding blood here and there. He falls forward and his halo rolls away with a metallic \"clink\"]\n"
+  },
+  {
+    "input": "Awgh! [walks around for a few seconds, groaning and shedding blood here and there. He falls forward and his halo rolls away with a metallic \"clink\"]\n",
+    "output": "...Jesus?\n[Back at the platform, Bill continues his speech.]\n"
+  },
+  {
+    "input": "...Jesus?\n[Back at the platform, Bill continues his speech.]\n",
+    "output": "Behold, no longer will Easter be about bunnies and colored eggs! Kill the rabbit! [a cardinal holds Snowball over the cauldron]\n"
+  },
+  {
+    "input": "Behold, no longer will Easter be about bunnies and colored eggs! Kill the rabbit! [a cardinal holds Snowball over the cauldron]\n",
+    "output": "Sorry, little bunny.\n"
+  },
+  {
+    "input": "Sorry, little bunny.\n",
+    "output": "Snowball! [now dressed in rabbits ears and snout like Randy. A bright light appears near one of the obelisks in the center of the piazza, and Jesus' figure appears in the light. The light fades and Jesus is all alone. The crowd oohs and aahs]\n"
+  },
+  {
+    "input": "Snowball! [now dressed in rabbits ears and snout like Randy. A bright light appears near one of the obelisks in the center of the piazza, and Jesus' figure appears in the light. The light fades and Jesus is all alone. The crowd oohs and aahs]\n",
+    "output": "Jesus?\n"
+  },
+  {
+    "input": "Jesus?\n",
+    "output": "Stop! That rabbit is of holy descent!\n"
+  },
+  {
+    "input": "Stop! That rabbit is of holy descent!\n",
+    "output": "Why won't you go away?!\n"
+  },
+  {
+    "input": "Why won't you go away?!\n",
+    "output": "One man cannot be the voice of the Church!\n"
+  },
+  {
+    "input": "One man cannot be the voice of the Church!\n",
+    "output": "Enough of this blasphemy! I'm the Pope now! That means I am the voice of God!\n"
+  },
+  {
+    "input": "Enough of this blasphemy! I'm the Pope now! That means I am the voice of God!\n",
+    "output": "Not anymore. I'm removing you from your position. [brings out a black and yellow glaive, then presses a button in the middle to release the blades, as in a switchblade. He throws it towards Bill, who runs from it. It levels off and slices through Bill's midsection and returns to Jesus. Jesus strikes a pose and catches it with his right hand. The blades disappear into their sheaths. Jesus brings out some sunglasses with his left hand and puts them on, still maintaining the dramatic pose.]\n"
+  },
+  {
+    "input": "Not anymore. I'm removing you from your position. [brings out a black and yellow glaive, then presses a button in the middle to release the blades, as in a switchblade. He throws it towards Bill, who runs from it. It levels off and slices through Bill's midsection and returns to Jesus. Jesus strikes a pose and catches it with his right hand. The blades disappear into their sheaths. Jesus brings out some sunglasses with his left hand and puts them on, still maintaining the dramatic pose.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "All right Jesus!\n[St. Peter's Basilica, day. The sun is bright and the sky is blue, the basilica is decked out with streamers and Easter wreaths. White smoke rises above and behind the basilica, indicating a new pope]\n"
+  },
+  {
+    "input": "All right Jesus!\n[St. Peter's Basilica, day. The sun is bright and the sky is blue, the basilica is decked out with streamers and Easter wreaths. White smoke rises above and behind the basilica, indicating a new pope]\n",
+    "output": "Sanctum Piter oteum, Deus ore uneum.\nHippitus hoppitus reus homine.\n"
+  },
+  {
+    "input": "Sanctum Piter oteum, Deus ore uneum.\nHippitus hoppitus reus homine.\n",
+    "output": "Your Holiness, what should we tell the world about how to run their lives? [Snowball now sits on the papal throne. Snowball, having no human vocal cords, says nothing] It isn't saying anything.\n"
+  },
+  {
+    "input": "Your Holiness, what should we tell the world about how to run their lives? [Snowball now sits on the papal throne. Snowball, having no human vocal cords, says nothing] It isn't saying anything.\n",
+    "output": "Yes, just as a-Jesus intended it.\n"
+  },
+  {
+    "input": "Yes, just as a-Jesus intended it.\n",
+    "output": "Stanley, I'm so proud of you. You've learned so very much this Easter.\n"
+  },
+  {
+    "input": "Stanley, I'm so proud of you. You've learned so very much this Easter.\n",
+    "output": "Yeah. I've learned not to ask questions. Just dye the eggs and keep my mouth shut.\n"
+  },
+  {
+    "input": "Yeah. I've learned not to ask questions. Just dye the eggs and keep my mouth shut.\n",
+    "output": "That's my boy.\n"
+  }
+]

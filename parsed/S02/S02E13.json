@@ -1,0 +1,1666 @@
+[
+  {
+    "input": "",
+    "output": "Cow Days\n\n[A game show. The audience is applauding a couple onstage. The host and his assistant stand near the contestants.]\n"
+  },
+  {
+    "input": "Cow Days\n\n[A game show. The audience is applauding a couple onstage. The host and his assistant stand near the contestants.]\n",
+    "output": "Well, Tom and Mary, you've made it to the final round. Are you ready to play for the grand prize?\n"
+  },
+  {
+    "input": "Well, Tom and Mary, you've made it to the final round. Are you ready to play for the grand prize?\n",
+    "output": "We're ready, Bob!\n"
+  },
+  {
+    "input": "We're ready, Bob!\n",
+    "output": "Any particular prize you're hoping for?\n"
+  },
+  {
+    "input": "Any particular prize you're hoping for?\n",
+    "output": "Well, Hawaii's nice, but Tahiti would be fun, too!\n"
+  },
+  {
+    "input": "Well, Hawaii's nice, but Tahiti would be fun, too!\n",
+    "output": "Oh, anywhere'd be great!\n"
+  },
+  {
+    "input": "Oh, anywhere'd be great!\n",
+    "output": "Polynesian diggities. I wish you luck. Here we go. What is the thin flap of skin that runs from the base of the penis to the scrotum?\n[A 9 second count-down begins.]\n"
+  },
+  {
+    "input": "Polynesian diggities. I wish you luck. Here we go. What is the thin flap of skin that runs from the base of the penis to the scrotum?\n[A 9 second count-down begins.]\n",
+    "output": "Oh. Oh wait wait, I know this.\n[Tom grips his head with both hands as time runs out.]\n"
+  },
+  {
+    "input": "Oh. Oh wait wait, I know this.\n[Tom grips his head with both hands as time runs out.]\n",
+    "output": "The upper vascular hood.\n"
+  },
+  {
+    "input": "The upper vascular hood.\n",
+    "output": "I'm sorry, but YOU'RE ABSOLUTELY RIGHT!\n[Tom and Mary are overjoyed.]\n"
+  },
+  {
+    "input": "I'm sorry, but YOU'RE ABSOLUTELY RIGHT!\n[Tom and Mary are overjoyed.]\n",
+    "output": "Fred tell 'em what they've won.\n"
+  },
+  {
+    "input": "Fred tell 'em what they've won.\n",
+    "output": "Tom and Mary, put on your cowboy hats, because you're going to beautiful South Park, Colorado!\n[A woman dressed as a cowgirl shows off a picture of the town. The audience oohs and aahs.]\n"
+  },
+  {
+    "input": "Tom and Mary, put on your cowboy hats, because you're going to beautiful South Park, Colorado!\n[A woman dressed as a cowgirl shows off a picture of the town. The audience oohs and aahs.]\n",
+    "output": "Where?\n"
+  },
+  {
+    "input": "Where?\n",
+    "output": "That's right, just in time for Cows Days, the world's 45th biggest rodeo and carnival.\n[A poster of Cow Days appears, then rotates to one of South Park. Scenes of the announcer's descriptions appear.]\n"
+  },
+  {
+    "input": "That's right, just in time for Cows Days, the world's 45th biggest rodeo and carnival.\n[A poster of Cow Days appears, then rotates to one of South Park. Scenes of the announcer's descriptions appear.]\n",
+    "output": "Every fall, South Park celebrates Cow Days, and you're gonna be a part of it. You'll stay at the fabulous Super 7 hotel on Bernhardt Road, and enjoy festivities, including prizes, rides, and of course, the world-famous Running of the Cows!\n[The audience Awww's as a group of cows is shown.]\n"
+  },
+  {
+    "input": "Every fall, South Park celebrates Cow Days, and you're gonna be a part of it. You'll stay at the fabulous Super 7 hotel on Bernhardt Road, and enjoy festivities, including prizes, rides, and of course, the world-famous Running of the Cows!\n[The audience Awww's as a group of cows is shown.]\n",
+    "output": "Congratulations, Tom and Mary.\n"
+  },
+  {
+    "input": "Congratulations, Tom and Mary.\n",
+    "output": "Well, Tom, Mary, you must be very excited.\n"
+  },
+  {
+    "input": "Well, Tom, Mary, you must be very excited.\n",
+    "output": "What was second prize again?\n"
+  },
+  {
+    "input": "What was second prize again?\n",
+    "output": "That's all for now. See you tomorrow on...\n[The audience joins him in saying.]\n"
+  },
+  {
+    "input": "That's all for now. See you tomorrow on...\n[The audience joins him in saying.]\n",
+    "output": "Ooo, What The Hell Is That!\n[The theme music plays before they cut to commercial.]\n"
+  },
+  {
+    "input": "Ooo, What The Hell Is That!\n[The theme music plays before they cut to commercial.]\n",
+    "output": "Ah shit!\n[South Park rodeo. A rider falls from his horse as it jumps some barrels, nearby on the carnival stage, Mayor McDaniels and her aides are standing.]\n"
+  },
+  {
+    "input": "Ah shit!\n[South Park rodeo. A rider falls from his horse as it jumps some barrels, nearby on the carnival stage, Mayor McDaniels and her aides are standing.]\n",
+    "output": "Ladies and gentlemen, I am pleased to kick off the 14th Annual South Park Cow Days!\n[Cheers go up. Mayor McDaniels and her aides wear Cow Days buttons. Others wear Cow Days shirts and wave little flags with cow designs on them.]\n"
+  },
+  {
+    "input": "Ladies and gentlemen, I am pleased to kick off the 14th Annual South Park Cow Days!\n[Cheers go up. Mayor McDaniels and her aides wear Cow Days buttons. Others wear Cow Days shirts and wave little flags with cow designs on them.]\n",
+    "output": "As most of you know, Cow Days is when we all get together to celebrate and thank the noble, gentle cow.\n[The crowd cheers wildly.]\n"
+  },
+  {
+    "input": "As most of you know, Cow Days is when we all get together to celebrate and thank the noble, gentle cow.\n[The crowd cheers wildly.]\n",
+    "output": "And now, the chairman of Cow Days, Jimbo Kern!\n[Jimbo walks up to the mic.]\n"
+  },
+  {
+    "input": "And now, the chairman of Cow Days, Jimbo Kern!\n[Jimbo walks up to the mic.]\n",
+    "output": "This year is a very special Cow Days because we are revealing our all-new Cow Memorial!\n[A giant curtain covers a large object.]\n"
+  },
+  {
+    "input": "This year is a very special Cow Days because we are revealing our all-new Cow Memorial!\n[A giant curtain covers a large object.]\n",
+    "output": "Which will live forever in South Park from this day forward. Release the curtain!\n[The curtain comes down and a large statue of a cow is revealed. It's wooden, buddhaesque, in appearance, a dark gold color, with a large clock encased in its belly. The clock shows 1 p.m. The statue moos and the crowd cheers. Ned is at the front of the crowd, as are Tom and Mary.]\n"
+  },
+  {
+    "input": "Which will live forever in South Park from this day forward. Release the curtain!\n[The curtain comes down and a large statue of a cow is revealed. It's wooden, buddhaesque, in appearance, a dark gold color, with a large clock encased in its belly. The clock shows 1 p.m. The statue moos and the crowd cheers. Ned is at the front of the crowd, as are Tom and Mary.]\n",
+    "output": "This is the most ridiculous thing I've ever seen!\n"
+  },
+  {
+    "input": "This is the most ridiculous thing I've ever seen!\n",
+    "output": "Now, Mary, this is our only vacation for years. We have to make the best of it.\n"
+  },
+  {
+    "input": "Now, Mary, this is our only vacation for years. We have to make the best of it.\n",
+    "output": "Oh you're right. I'm sorry, honey. We just need to stay positive.\n"
+  },
+  {
+    "input": "Oh you're right. I'm sorry, honey. We just need to stay positive.\n",
+    "output": "Now get out to the carnival and enjoy the amazing rides and the wonderful games!\n[The carnival gets underway. People mill around, the boys approach a booth that says \"3 for $5\".]\n"
+  },
+  {
+    "input": "Now get out to the carnival and enjoy the amazing rides and the wonderful games!\n[The carnival gets underway. People mill around, the boys approach a booth that says \"3 for $5\".]\n",
+    "output": "Hey, come on over here, kids. Win fabulous prizes.\n"
+  },
+  {
+    "input": "Hey, come on over here, kids. Win fabulous prizes.\n",
+    "output": "Wow, dude, check it out! We can win Terrance and Phillip dolls.\n[A fanfare plays as a close-up of the dolls are shown.]\n"
+  },
+  {
+    "input": "Wow, dude, check it out! We can win Terrance and Phillip dolls.\n[A fanfare plays as a close-up of the dolls are shown.]\n",
+    "output": "Are those REAL Terrance and Phillip dolls? They look all crappy.\n"
+  },
+  {
+    "input": "Are those REAL Terrance and Phillip dolls? They look all crappy.\n",
+    "output": "Yeah, they look like cheap rip-offs.\n"
+  },
+  {
+    "input": "Yeah, they look like cheap rip-offs.\n",
+    "output": "Sure they're real. They're even made in Canada.\n"
+  },
+  {
+    "input": "Sure they're real. They're even made in Canada.\n",
+    "output": "Really?\n"
+  },
+  {
+    "input": "Really?\n",
+    "output": "Yeah, look. They're even signed by Terrance and Phillip themselves.\n[The operator shows the boys the tag, which reads\n"
+  },
+  {
+    "input": "Yeah, look. They're even signed by Terrance and Phillip themselves.\n[The operator shows the boys the tag, which reads\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Wwow!\n"
+  },
+  {
+    "input": "Wwow!\n",
+    "output": "Dude, that kicks ass!\n"
+  },
+  {
+    "input": "Dude, that kicks ass!\n",
+    "output": "[Breathlessly.] Oh, dude, I gotta win those. How much to play?\n"
+  },
+  {
+    "input": "[Breathlessly.] Oh, dude, I gotta win those. How much to play?\n",
+    "output": "Five dollars for three balls.\n"
+  },
+  {
+    "input": "Five dollars for three balls.\n",
+    "output": "Five dollars?! Jesus Christ!\n"
+  },
+  {
+    "input": "Five dollars?! Jesus Christ!\n",
+    "output": "Don't worry, kid, it's easy. You just gotta put one ball through Jennifer Love Hewitt's mouth.\n[A wooden board featuring a photo of Jennifer Love Hewitt's face is shown, a gaping hole where her mouth should be.]\n"
+  },
+  {
+    "input": "Don't worry, kid, it's easy. You just gotta put one ball through Jennifer Love Hewitt's mouth.\n[A wooden board featuring a photo of Jennifer Love Hewitt's face is shown, a gaping hole where her mouth should be.]\n",
+    "output": "That's easy!\n"
+  },
+  {
+    "input": "That's easy!\n",
+    "output": "Okay, we've got a player!\n"
+  },
+  {
+    "input": "Okay, we've got a player!\n",
+    "output": "Ay! Check it out!\n[He tosses a ball and misses, just to the right of the mouth.]\n"
+  },
+  {
+    "input": "Ay! Check it out!\n[He tosses a ball and misses, just to the right of the mouth.]\n",
+    "output": "Damn it!\n"
+  },
+  {
+    "input": "Damn it!\n",
+    "output": "It's okay, son, you've still got two balls to try and get through her yapper.\n"
+  },
+  {
+    "input": "It's okay, son, you've still got two balls to try and get through her yapper.\n",
+    "output": "Take this, Jennifer Love Hewitt!\n[He chucks another ball at her, and misses.]\n"
+  },
+  {
+    "input": "Take this, Jennifer Love Hewitt!\n[He chucks another ball at her, and misses.]\n",
+    "output": "You suck, Cartman!\n"
+  },
+  {
+    "input": "You suck, Cartman!\n",
+    "output": "I'd like to see you do better!\n"
+  },
+  {
+    "input": "I'd like to see you do better!\n",
+    "output": "Give me that!\n[Kyle takes the final ball from Cartman, and throws it. Direct hit, it goes into the mouth, but falls out and away.]\n"
+  },
+  {
+    "input": "Give me that!\n[Kyle takes the final ball from Cartman, and throws it. Direct hit, it goes into the mouth, but falls out and away.]\n",
+    "output": "Hey! It hit her right in the mouth!\n"
+  },
+  {
+    "input": "Hey! It hit her right in the mouth!\n",
+    "output": "It's gotta go through her mouth.\n"
+  },
+  {
+    "input": "It's gotta go through her mouth.\n",
+    "output": "But ih-\n"
+  },
+  {
+    "input": "But ih-\n",
+    "output": "Sorry, kid, try again. Just five more dollars.\n"
+  },
+  {
+    "input": "Sorry, kid, try again. Just five more dollars.\n",
+    "output": "Here, give me some money, Cartman!\n[Cartman looks at him and starts laughing.]\n"
+  },
+  {
+    "input": "Here, give me some money, Cartman!\n[Cartman looks at him and starts laughing.]\n",
+    "output": "Lend me money, fat boy!\n"
+  },
+  {
+    "input": "Lend me money, fat boy!\n",
+    "output": "I only have three dollars left, asshole!\n"
+  },
+  {
+    "input": "I only have three dollars left, asshole!\n",
+    "output": "Damn it! Come on! I'll try to get more money from my mom.\n[The boys walk off.]\n"
+  },
+  {
+    "input": "Damn it! Come on! I'll try to get more money from my mom.\n[The boys walk off.]\n",
+    "output": "[Still onstage.] Okay, everybody! It's time for the Running of the Cows!\n[The crowd cheers. Kyle has found his parents.]\n"
+  },
+  {
+    "input": "[Still onstage.] Okay, everybody! It's time for the Running of the Cows!\n[The crowd cheers. Kyle has found his parents.]\n",
+    "output": "Mom, give me some money!\n"
+  },
+  {
+    "input": "Mom, give me some money!\n",
+    "output": "Kyle, what are you doing here?! This is very dangerous!\n"
+  },
+  {
+    "input": "Kyle, what are you doing here?! This is very dangerous!\n",
+    "output": "I need $17 so we can win Terrance and Phillip dolls.\n"
+  },
+  {
+    "input": "I need $17 so we can win Terrance and Phillip dolls.\n",
+    "output": "Kyle, get back into the carnival this instant! You can't be out on the streets!\n"
+  },
+  {
+    "input": "Kyle, get back into the carnival this instant! You can't be out on the streets!\n",
+    "output": "I will if you give me money!\n"
+  },
+  {
+    "input": "I will if you give me money!\n",
+    "output": "Okay, here!\n[She hands him some bills, and he walks off.]\n"
+  },
+  {
+    "input": "Okay, here!\n[She hands him some bills, and he walks off.]\n",
+    "output": "Sweet.\n[Back on stage, Jimbo gives more instructions to the crowd, which is still cheering.]\n"
+  },
+  {
+    "input": "Sweet.\n[Back on stage, Jimbo gives more instructions to the crowd, which is still cheering.]\n",
+    "output": "Okay, everybody, okay. Settle down. Now I know you're all anxious to get to the Running of the Cows, BUT, let me remind you: those brave souls who have decided to run against the cows through town do so at their own risk. I don't think I have to remind you that three people died in last year's Running of the Cows.\n[The crowd pays no heed and keeps cheering.]\n"
+  },
+  {
+    "input": "Okay, everybody, okay. Settle down. Now I know you're all anxious to get to the Running of the Cows, BUT, let me remind you: those brave souls who have decided to run against the cows through town do so at their own risk. I don't think I have to remind you that three people died in last year's Running of the Cows.\n[The crowd pays no heed and keeps cheering.]\n",
+    "output": "With that said, let's rock and roll!\n[The crowd strains at the starting line. Halfy is there, too.]\n"
+  },
+  {
+    "input": "With that said, let's rock and roll!\n[The crowd strains at the starting line. Halfy is there, too.]\n",
+    "output": "Everybody ready to run? Release the cows!\n[The corral doors open, but not a cow moves. The crowd rushes forth.]\n"
+  },
+  {
+    "input": "Everybody ready to run? Release the cows!\n[The corral doors open, but not a cow moves. The crowd rushes forth.]\n",
+    "output": "They're loose!\n[Jimbo leaves the stage, the cows look bewildered at the townsfolk.]\n"
+  },
+  {
+    "input": "They're loose!\n[Jimbo leaves the stage, the cows look bewildered at the townsfolk.]\n",
+    "output": "Mooooo?!\n[The townsfolk scream wildly, while the cows remain in the corral and moo some more. Ned runs directly into a telephone pole and falls.]\n"
+  },
+  {
+    "input": "Mooooo?!\n[The townsfolk scream wildly, while the cows remain in the corral and moo some more. Ned runs directly into a telephone pole and falls.]\n",
+    "output": "Ow.\n[One cow timidly leaves the corral. A townsman looks back as he runs, and finds himself impaled on the lower half of a shattered phone pole.]\n"
+  },
+  {
+    "input": "Ow.\n[One cow timidly leaves the corral. A townsman looks back as he runs, and finds himself impaled on the lower half of a shattered phone pole.]\n",
+    "output": "[Running by.] Yeehaw!\n[A red heifer chews on some grass just outside the corral. A man comes and tries to provoke a grazing cow, but the cow ignores him. The man shakes his ass at the cow, then runs away screaming.]\n[Back at the carnival, a ride named \"Chamber of Farts\" stands near a Ferris wheel. Its entrance consists of a huge lavender ass with doors through which the cars enter.]\n"
+  },
+  {
+    "input": "[Running by.] Yeehaw!\n[A red heifer chews on some grass just outside the corral. A man comes and tries to provoke a grazing cow, but the cow ignores him. The man shakes his ass at the cow, then runs away screaming.]\n[Back at the carnival, a ride named \"Chamber of Farts\" stands near a Ferris wheel. Its entrance consists of a huge lavender ass with doors through which the cars enter.]\n",
+    "output": "Okay. We've got $15 between us. That means we get nine balls to throw.\n"
+  },
+  {
+    "input": "Okay. We've got $15 between us. That means we get nine balls to throw.\n",
+    "output": "I only need one, dude. I only need one.\n"
+  },
+  {
+    "input": "I only need one, dude. I only need one.\n",
+    "output": "Come one, come all. Get in line now, for the Chamber of Farts.\n"
+  },
+  {
+    "input": "Come one, come all. Get in line now, for the Chamber of Farts.\n",
+    "output": "What's that?\n"
+  },
+  {
+    "input": "What's that?\n",
+    "output": "Dare you enter the Chamber of Farts?\n"
+  },
+  {
+    "input": "Dare you enter the Chamber of Farts?\n",
+    "output": "How much is it?\n"
+  },
+  {
+    "input": "How much is it?\n",
+    "output": "Just three tickets, boys.\n"
+  },
+  {
+    "input": "Just three tickets, boys.\n",
+    "output": "Dare you enter the Chamber of Farts?\n"
+  },
+  {
+    "input": "Dare you enter the Chamber of Farts?\n",
+    "output": "Is it like a- haunted house or something?\n"
+  },
+  {
+    "input": "Is it like a- haunted house or something?\n",
+    "output": "Sure. It's veery scary.\n"
+  },
+  {
+    "input": "Sure. It's veery scary.\n",
+    "output": "Let's see: each ticket is a dollar, so three tickets is like two twenty-five.\n"
+  },
+  {
+    "input": "Let's see: each ticket is a dollar, so three tickets is like two twenty-five.\n",
+    "output": "No. We can't, dude. We have to win the Terrance and Phillip dolls.\n"
+  },
+  {
+    "input": "No. We can't, dude. We have to win the Terrance and Phillip dolls.\n",
+    "output": "Oh come on, you guys. We'll still have plenty of money left over.\n"
+  },
+  {
+    "input": "Oh come on, you guys. We'll still have plenty of money left over.\n",
+    "output": "You'd better be right, dude.\n"
+  },
+  {
+    "input": "You'd better be right, dude.\n",
+    "output": "I'm right!\n[The boys step up to the ride and car 15 comes to them. They get in.]\n"
+  },
+  {
+    "input": "I'm right!\n[The boys step up to the ride and car 15 comes to them. They get in.]\n",
+    "output": "Keep your hands inside at all times.\n"
+  },
+  {
+    "input": "Keep your hands inside at all times.\n",
+    "output": "Okay.\n[They go in. They pass through a cemetery with asses everywhere. A man has his pants down just enough for his ass to poke through, a dog next to him has its tail up, there are flying asses about, and some volcanoes poke through the ground. All are farting. The car stops.]\n"
+  },
+  {
+    "input": "Okay.\n[They go in. They pass through a cemetery with asses everywhere. A man has his pants down just enough for his ass to poke through, a dog next to him has its tail up, there are flying asses about, and some volcanoes poke through the ground. All are farting. The car stops.]\n",
+    "output": "So, the Chamber of Farts has another victim, eh? Don't be afraid. There aren't any ghouls here, only FARTS!\n[The car starts up again, and Cartman gets a dose of farts from an ass jet.]\n"
+  },
+  {
+    "input": "So, the Chamber of Farts has another victim, eh? Don't be afraid. There aren't any ghouls here, only FARTS!\n[The car starts up again, and Cartman gets a dose of farts from an ass jet.]\n",
+    "output": "Eh! God-damnit!\n[As they enter the Hall of Farts, a wailing fart is heard from two figures hanging from spider webs.]\n"
+  },
+  {
+    "input": "Eh! God-damnit!\n[As they enter the Hall of Farts, a wailing fart is heard from two figures hanging from spider webs.]\n",
+    "output": "What the hell was that?\n"
+  },
+  {
+    "input": "What the hell was that?\n",
+    "output": "Perhaps you need some MORE FARTS!\n[The car heads for a woman stretched out in torture. A weak fart escapes from her. The car leaves the Gas Caverns.]\n"
+  },
+  {
+    "input": "Perhaps you need some MORE FARTS!\n[The car heads for a woman stretched out in torture. A weak fart escapes from her. The car leaves the Gas Caverns.]\n",
+    "output": "All right, boys. Ride's over.\n"
+  },
+  {
+    "input": "All right, boys. Ride's over.\n",
+    "output": "That was the dumbest ride I've ever seen!\n"
+  },
+  {
+    "input": "That was the dumbest ride I've ever seen!\n",
+    "output": "Yeah. What the hell kind of carnival company are you?!\n"
+  },
+  {
+    "input": "Yeah. What the hell kind of carnival company are you?!\n",
+    "output": "[As they step down.] I don't know what you guys are talking about! That scared the crap out of me!\n"
+  },
+  {
+    "input": "[As they step down.] I don't know what you guys are talking about! That scared the crap out of me!\n",
+    "output": "That was a waste of money, Cartman!\n"
+  },
+  {
+    "input": "That was a waste of money, Cartman!\n",
+    "output": "Hey, if you guys want a great ride, get in this line. It's only seven tickets.\n"
+  },
+  {
+    "input": "Hey, if you guys want a great ride, get in this line. It's only seven tickets.\n",
+    "output": "We can't. We're saving our money for the balls in Jennifer Love Hewitt's mouth game.\n"
+  },
+  {
+    "input": "We can't. We're saving our money for the balls in Jennifer Love Hewitt's mouth game.\n",
+    "output": "Kyle, will you relax, you pink eye? We have plenty of money.\n[Cartman is down to $11.00, as he goes to get in line for the ride.]\n"
+  },
+  {
+    "input": "Kyle, will you relax, you pink eye? We have plenty of money.\n[Cartman is down to $11.00, as he goes to get in line for the ride.]\n",
+    "output": "Come on, you guys! It'll be sweet!\n[The Cow Memorial, 12:59 p.m. A cow comes to look at the statue, and the clock strikes 1 p.m. The statue moos. The cow looks around, then moos. Two more cows arrive. In the other area of the carnival, the boys are nearing the end of the line for the ride.]\n"
+  },
+  {
+    "input": "Come on, you guys! It'll be sweet!\n[The Cow Memorial, 12:59 p.m. A cow comes to look at the statue, and the clock strikes 1 p.m. The statue moos. The cow looks around, then moos. Two more cows arrive. In the other area of the carnival, the boys are nearing the end of the line for the ride.]\n",
+    "output": "This ride better be good!\n"
+  },
+  {
+    "input": "This ride better be good!\n",
+    "output": "Yeah, this line is way too long!\n"
+  },
+  {
+    "input": "Yeah, this line is way too long!\n",
+    "output": "I think we're almost to the end.\n"
+  },
+  {
+    "input": "I think we're almost to the end.\n",
+    "output": "We'd better be. We've been in line for almost an hour!\n"
+  },
+  {
+    "input": "We'd better be. We've been in line for almost an hour!\n",
+    "output": "Here we go.\n[The boys pass under a banner that reads\n"
+  },
+  {
+    "input": "Here we go.\n[The boys pass under a banner that reads\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Finally!\n"
+  },
+  {
+    "input": "Finally!\n",
+    "output": "Did ya enjoy the ride?\n"
+  },
+  {
+    "input": "Did ya enjoy the ride?\n",
+    "output": "What ride?\n"
+  },
+  {
+    "input": "What ride?\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "This was the Line Ride, a real live simulator of a long line.\n"
+  },
+  {
+    "input": "This was the Line Ride, a real live simulator of a long line.\n",
+    "output": "Ugh. You've gotta be kidding me!\n"
+  },
+  {
+    "input": "Ugh. You've gotta be kidding me!\n",
+    "output": "That's five tickets, thank you very much.\n[The boys leave with $6.00 remaining.]\n"
+  },
+  {
+    "input": "That's five tickets, thank you very much.\n[The boys leave with $6.00 remaining.]\n",
+    "output": "Come see us again soon.\n"
+  },
+  {
+    "input": "Come see us again soon.\n",
+    "output": "My ass we will!\n"
+  },
+  {
+    "input": "My ass we will!\n",
+    "output": "Well, Cartman, this is just my opinion, but I think the Line Ride sucked donkey balls!\n"
+  },
+  {
+    "input": "Well, Cartman, this is just my opinion, but I think the Line Ride sucked donkey balls!\n",
+    "output": "Yeah, let's not ride that ride again.\n"
+  },
+  {
+    "input": "Yeah, let's not ride that ride again.\n",
+    "output": "Would you like to buy a photo of you boys enjoying the Line Ride?\n[They are shown the picture.]\n"
+  },
+  {
+    "input": "Would you like to buy a photo of you boys enjoying the Line Ride?\n[They are shown the picture.]\n",
+    "output": "How much?\n"
+  },
+  {
+    "input": "How much?\n",
+    "output": "Just three dollars.\n"
+  },
+  {
+    "input": "Just three dollars.\n",
+    "output": "Hunh that's, that's pretty sweet.\n[They are now left with $3.00.]\n"
+  },
+  {
+    "input": "Hunh that's, that's pretty sweet.\n[They are now left with $3.00.]\n",
+    "output": "You dumbass, Cartman!\n"
+  },
+  {
+    "input": "You dumbass, Cartman!\n",
+    "output": "What? This is cool.\n"
+  },
+  {
+    "input": "What? This is cool.\n",
+    "output": "No, it's not cool!\n"
+  },
+  {
+    "input": "No, it's not cool!\n",
+    "output": "It is, too!\n[They head back over to the Toss-A-Ball.]\n"
+  },
+  {
+    "input": "It is, too!\n[They head back over to the Toss-A-Ball.]\n",
+    "output": "Can I help you boys.\n"
+  },
+  {
+    "input": "Can I help you boys.\n",
+    "output": "We're gonna try to win those Terrance and Phillip dolls again.\n"
+  },
+  {
+    "input": "We're gonna try to win those Terrance and Phillip dolls again.\n",
+    "output": "O-kay, five dollars for three balls.\n"
+  },
+  {
+    "input": "O-kay, five dollars for three balls.\n",
+    "output": "How much do we have left, Cartman?\n[Cartman leafs through the bills, but doesn't answer.]\n"
+  },
+  {
+    "input": "How much do we have left, Cartman?\n[Cartman leafs through the bills, but doesn't answer.]\n",
+    "output": "How much do we have left, Cartman?!\n"
+  },
+  {
+    "input": "How much do we have left, Cartman?!\n",
+    "output": "Aah, three dollars.\n"
+  },
+  {
+    "input": "Aah, three dollars.\n",
+    "output": "What?! You said we had plenty of money, Cartman!\n"
+  },
+  {
+    "input": "What?! You said we had plenty of money, Cartman!\n",
+    "output": "Yeah, but I didn't take into account the fact that I suck at math.\n"
+  },
+  {
+    "input": "Yeah, but I didn't take into account the fact that I suck at math.\n",
+    "output": "You son of a bitch! Aaargh!\n[Kyle lunges at Cartman, and they fall to the ground, wrestling.]\n"
+  },
+  {
+    "input": "You son of a bitch! Aaargh!\n[Kyle lunges at Cartman, and they fall to the ground, wrestling.]\n",
+    "output": "Ey! Seriously!\n[A view of the carnival. After a while the boys calm down and stand up again.]\n"
+  },
+  {
+    "input": "Ey! Seriously!\n[A view of the carnival. After a while the boys calm down and stand up again.]\n",
+    "output": "Well, Cartman, thanks to you we don't have any money left to win the Terrance and Phillip dolls!\n"
+  },
+  {
+    "input": "Well, Cartman, thanks to you we don't have any money left to win the Terrance and Phillip dolls!\n",
+    "output": "Well, I'm sorry!\n"
+  },
+  {
+    "input": "Well, I'm sorry!\n",
+    "output": "Well, sorry's not good enough! What are you gonna do about it?\n"
+  },
+  {
+    "input": "Well, sorry's not good enough! What are you gonna do about it?\n",
+    "output": "[Thinks a moment.] Hey! I bet Kenny has some food stamps on him!\n"
+  },
+  {
+    "input": "[Thinks a moment.] Hey! I bet Kenny has some food stamps on him!\n",
+    "output": "[Pulls some out.] (What? These?)\n"
+  },
+  {
+    "input": "[Pulls some out.] (What? These?)\n",
+    "output": "Sir? Will you take food stamps for three balls?\n"
+  },
+  {
+    "input": "Sir? Will you take food stamps for three balls?\n",
+    "output": "Sure, as long as they're good.\n"
+  },
+  {
+    "input": "Sure, as long as they're good.\n",
+    "output": "Give him your food stamps, Kenny!\n"
+  },
+  {
+    "input": "Give him your food stamps, Kenny!\n",
+    "output": "(Nuh uh.)\n"
+  },
+  {
+    "input": "(Nuh uh.)\n",
+    "output": "Come on, dude! I can do it! I'm sure!\n"
+  },
+  {
+    "input": "Come on, dude! I can do it! I'm sure!\n",
+    "output": "(Dude, these are my fucking food stamps! How am I going to eat without all these food stamps?)\n"
+  },
+  {
+    "input": "(Dude, these are my fucking food stamps! How am I going to eat without all these food stamps?)\n",
+    "output": "Damn it, Kenny, don't be such a food-stamp hog! Share with the rest of your friends!\n[Kenny hands them to the operator, and Kyle receives the balls.]\n"
+  },
+  {
+    "input": "Damn it, Kenny, don't be such a food-stamp hog! Share with the rest of your friends!\n[Kenny hands them to the operator, and Kyle receives the balls.]\n",
+    "output": "Okay. Here we go.\n[Kyle chucks the first ball directly into Jennifer's mouth, but it bounces away.]\n"
+  },
+  {
+    "input": "Okay. Here we go.\n[Kyle chucks the first ball directly into Jennifer's mouth, but it bounces away.]\n",
+    "output": "Hey! That was right on target.\n"
+  },
+  {
+    "input": "Hey! That was right on target.\n",
+    "output": "Sorry, kid. Try again.\n[Kyle throws the next ball in, again directly on target, but it too bounces away.]\n"
+  },
+  {
+    "input": "Sorry, kid. Try again.\n[Kyle throws the next ball in, again directly on target, but it too bounces away.]\n",
+    "output": "That does it! Shenanigans!\n[He points an accusing finger at the operator, then turns around.]\n"
+  },
+  {
+    "input": "That does it! Shenanigans!\n[He points an accusing finger at the operator, then turns around.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Uhwhat are you doing?\n"
+  },
+  {
+    "input": "Uhwhat are you doing?\n",
+    "output": "I'm declaring Shenanigans on you! This game is rigged!\n"
+  },
+  {
+    "input": "I'm declaring Shenanigans on you! This game is rigged!\n",
+    "output": "Shenanigans?\n"
+  },
+  {
+    "input": "Shenanigans?\n",
+    "output": "What's all the hoo-ha?\n"
+  },
+  {
+    "input": "What's all the hoo-ha?\n",
+    "output": "Officer Barbrady, I wanna declare Shenanigans on this carnival operator.\n"
+  },
+  {
+    "input": "Officer Barbrady, I wanna declare Shenanigans on this carnival operator.\n",
+    "output": "Why?\n"
+  },
+  {
+    "input": "Why?\n",
+    "output": "This game is fixed! The balls are bigger than Jennifer Love Hewitt's mouth!\n"
+  },
+  {
+    "input": "This game is fixed! The balls are bigger than Jennifer Love Hewitt's mouth!\n",
+    "output": "If that is true, then your declaration of Shenanigans is just.\n[Barbrady raises his baton and points it at the operator.]\n"
+  },
+  {
+    "input": "If that is true, then your declaration of Shenanigans is just.\n[Barbrady raises his baton and points it at the operator.]\n",
+    "output": "What do you have to say, carnival operator?\n"
+  },
+  {
+    "input": "What do you have to say, carnival operator?\n",
+    "output": "Look, the kid was really close. He still has another ball left. Leh let's try again, son.\n[The operator reaches inside the counter and switches balls to give Kyle a smaller one.]\n"
+  },
+  {
+    "input": "Look, the kid was really close. He still has another ball left. Leh let's try again, son.\n[The operator reaches inside the counter and switches balls to give Kyle a smaller one.]\n",
+    "output": "Here you go.\n[Kyle tosses it, and it soars through the mouth.]\n"
+  },
+  {
+    "input": "Here you go.\n[Kyle tosses it, and it soars through the mouth.]\n",
+    "output": "There, you see? We have a winner!\n"
+  },
+  {
+    "input": "There, you see? We have a winner!\n",
+    "output": "It worked!\n"
+  },
+  {
+    "input": "It worked!\n",
+    "output": "Young man, you can't just go declaring Shenanigans on innocent people! That's how wars get started!\n"
+  },
+  {
+    "input": "Young man, you can't just go declaring Shenanigans on innocent people! That's how wars get started!\n",
+    "output": "Sorry, Officer Buttbaby.\n"
+  },
+  {
+    "input": "Sorry, Officer Buttbaby.\n",
+    "output": "Barbrady!\n"
+  },
+  {
+    "input": "Barbrady!\n",
+    "output": "Oh, I'm sorry. What did I say?\n"
+  },
+  {
+    "input": "Oh, I'm sorry. What did I say?\n",
+    "output": "You said Buttbaby.\n[The boys start laughing after a few seconds.]\n"
+  },
+  {
+    "input": "You said Buttbaby.\n[The boys start laughing after a few seconds.]\n",
+    "output": "Sweet.\n"
+  },
+  {
+    "input": "Sweet.\n",
+    "output": "Okay, kid, you won. You get to pick between the Barbie Pocket Mirror and the Bon Jovi Toothpick.\n"
+  },
+  {
+    "input": "Okay, kid, you won. You get to pick between the Barbie Pocket Mirror and the Bon Jovi Toothpick.\n",
+    "output": "No! Dude! I want the Terrance and Phillip dolls up there.\n"
+  },
+  {
+    "input": "No! Dude! I want the Terrance and Phillip dolls up there.\n",
+    "output": "Oh, nonono, you gotta win seven times to earn those.\n"
+  },
+  {
+    "input": "Oh, nonono, you gotta win seven times to earn those.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "You win seven Bon Jovi toothpicks, then you can trade 'em in for the Terrance and Phillip dolls.\n"
+  },
+  {
+    "input": "You win seven Bon Jovi toothpicks, then you can trade 'em in for the Terrance and Phillip dolls.\n",
+    "output": "You dirty son of a bitch, you never told us that we had to win-\n"
+  },
+  {
+    "input": "You dirty son of a bitch, you never told us that we had to win-\n",
+    "output": "[Ignoring them, speaking to the crowd] Step on up, just five dollars to play!\n"
+  },
+  {
+    "input": "[Ignoring them, speaking to the crowd] Step on up, just five dollars to play!\n",
+    "output": "Damnit, I have to have those dolls!\n[He walks off pissed. The others follow.]\n"
+  },
+  {
+    "input": "Damnit, I have to have those dolls!\n[He walks off pissed. The others follow.]\n",
+    "output": "This is hopeless. We're never gonna have enough money to win.\n"
+  },
+  {
+    "input": "This is hopeless. We're never gonna have enough money to win.\n",
+    "output": "[Something stops him.] Wait a minute! I've got it! The bull-riding contest. Cartman could ride a bull, and try to win $5,000.\n[The boys look at him.]\n"
+  },
+  {
+    "input": "[Something stops him.] Wait a minute! I've got it! The bull-riding contest. Cartman could ride a bull, and try to win $5,000.\n[The boys look at him.]\n",
+    "output": "Think about it, dude: $5,000. That's 1,000 set of balls. That's 3,000 balls! We'd have to win enough to get the dolls!\n"
+  },
+  {
+    "input": "Think about it, dude: $5,000. That's 1,000 set of balls. That's 3,000 balls! We'd have to win enough to get the dolls!\n",
+    "output": "What the hell makes you think Cartman rides a bull?\n"
+  },
+  {
+    "input": "What the hell makes you think Cartman rides a bull?\n",
+    "output": "[Grabbing Cartman by the collar.] Because you spent all of our money on those stupid rides, fatass! Now, either you're getting on a bull or I'm gonna break your fucking head open!\n"
+  },
+  {
+    "input": "[Grabbing Cartman by the collar.] Because you spent all of our money on those stupid rides, fatass! Now, either you're getting on a bull or I'm gonna break your fucking head open!\n",
+    "output": "O-kay, I'll get on the bull.\n"
+  },
+  {
+    "input": "O-kay, I'll get on the bull.\n",
+    "output": "All right! Now, come on! We have to practice!\n[Kyle walks away. The others watch him.]\n"
+  },
+  {
+    "input": "All right! Now, come on! We have to practice!\n[Kyle walks away. The others watch him.]\n",
+    "output": "[To Cartman.] He really wants those dolls.\n"
+  },
+  {
+    "input": "[To Cartman.] He really wants those dolls.\n",
+    "output": "I guess, damn!\n[Tom and Mary have just exited the Chamber of Farts on car 11.]\n"
+  },
+  {
+    "input": "I guess, damn!\n[Tom and Mary have just exited the Chamber of Farts on car 11.]\n",
+    "output": "That ride wasn't very good.\n"
+  },
+  {
+    "input": "That ride wasn't very good.\n",
+    "output": "Now, Mary, you promised me we'd try to have a good time.\n"
+  },
+  {
+    "input": "Now, Mary, you promised me we'd try to have a good time.\n",
+    "output": "You're right. I'm sorry, honey, I'll try and have a good time.\n[The Cow Memorial. The clock now reads 1:59 p.m., and seven cows stand before the memorial. Two o'clock strikes, and the statue moos twice. The cows answer with two moos of their own. More cows arrive. Meanwhile, at a nearby bar.]\n"
+  },
+  {
+    "input": "You're right. I'm sorry, honey, I'll try and have a good time.\n[The Cow Memorial. The clock now reads 1:59 p.m., and seven cows stand before the memorial. Two o'clock strikes, and the statue moos twice. The cows answer with two moos of their own. More cows arrive. Meanwhile, at a nearby bar.]\n",
+    "output": "Alright, this mechanical bull's gonna help you practice for the real thing, Cartman.\n"
+  },
+  {
+    "input": "Alright, this mechanical bull's gonna help you practice for the real thing, Cartman.\n",
+    "output": "Hey, this is sweet.\n"
+  },
+  {
+    "input": "Hey, this is sweet.\n",
+    "output": "You gotta try and stay on for ten seconds. Okay, Cartman?\n"
+  },
+  {
+    "input": "You gotta try and stay on for ten seconds. Okay, Cartman?\n",
+    "output": "I'll try. Ten seconds is a long time.\n"
+  },
+  {
+    "input": "I'll try. Ten seconds is a long time.\n",
+    "output": "We'll start on the slowest setting and work our way up. Ready? Go.\n[Kenny presses the switch, and the mechanical bull starts to move.]\n"
+  },
+  {
+    "input": "We'll start on the slowest setting and work our way up. Ready? Go.\n[Kenny presses the switch, and the mechanical bull starts to move.]\n",
+    "output": "Ye-gah!\n[The bull throws him off, and he lands in a Zoomin' Pinball machine, face up.]\n"
+  },
+  {
+    "input": "Ye-gah!\n[The bull throws him off, and he lands in a Zoomin' Pinball machine, face up.]\n",
+    "output": "Ow!\n[Cartman shattered the glass, which scatters all around.]\n"
+  },
+  {
+    "input": "Ow!\n[Cartman shattered the glass, which scatters all around.]\n",
+    "output": "Son of a bitch!\n"
+  },
+  {
+    "input": "Son of a bitch!\n",
+    "output": "How long was that?\n"
+  },
+  {
+    "input": "How long was that?\n",
+    "output": "That wasn't quite ten seconds.\n"
+  },
+  {
+    "input": "That wasn't quite ten seconds.\n",
+    "output": "Damn it!\n[They all walk over to Cartman.]\n"
+  },
+  {
+    "input": "Damn it!\n[They all walk over to Cartman.]\n",
+    "output": "That wasn't ten seconds, Cartman. You have to do better than that.\n"
+  },
+  {
+    "input": "That wasn't ten seconds, Cartman. You have to do better than that.\n",
+    "output": "[Whispering.] You guys, eh seriously, my back!\n"
+  },
+  {
+    "input": "[Whispering.] You guys, eh seriously, my back!\n",
+    "output": "Get back on, fat-ass! You have to practice!\n"
+  },
+  {
+    "input": "Get back on, fat-ass! You have to practice!\n",
+    "output": "[Whispering.] Seriously. Help.\n[None of the boys step forth to help him.]\n"
+  },
+  {
+    "input": "[Whispering.] Seriously. Help.\n[None of the boys step forth to help him.]\n",
+    "output": "Screw you guys. Hate you guys.\n"
+  },
+  {
+    "input": "Screw you guys. Hate you guys.\n",
+    "output": "What'd you say, Cartman??\n"
+  },
+  {
+    "input": "What'd you say, Cartman??\n",
+    "output": "[Whispering.] I hate you guys!\n"
+  },
+  {
+    "input": "[Whispering.] I hate you guys!\n",
+    "output": "I think he said he wants to practice on a real bull.\n"
+  },
+  {
+    "input": "I think he said he wants to practice on a real bull.\n",
+    "output": "[Whispering.] Hate you guys.\n[The cows are now pushing the memorial across open fields. It now reads 3 p.m.]\n[Elsewhere, the boys stand next to a rancher who has offered his bull for Cartman to practice on.]\n"
+  },
+  {
+    "input": "[Whispering.] Hate you guys.\n[The cows are now pushing the memorial across open fields. It now reads 3 p.m.]\n[Elsewhere, the boys stand next to a rancher who has offered his bull for Cartman to practice on.]\n",
+    "output": "Be careful with old Bob here. He ain't much for a-ridin' anymore, but he's all I got.\n"
+  },
+  {
+    "input": "Be careful with old Bob here. He ain't much for a-ridin' anymore, but he's all I got.\n",
+    "output": "Well uh, he'll have to do. Cartman has to get some practice with a real bull.\n"
+  },
+  {
+    "input": "Well uh, he'll have to do. Cartman has to get some practice with a real bull.\n",
+    "output": "Well, have fun, boys.\n"
+  },
+  {
+    "input": "Well, have fun, boys.\n",
+    "output": "Okay, Cartman. You ready?\n"
+  },
+  {
+    "input": "Okay, Cartman. You ready?\n",
+    "output": "[Hesitantly.] Nnoo.\n"
+  },
+  {
+    "input": "[Hesitantly.] Nnoo.\n",
+    "output": "Open the gate!\n[Kenny opens it. The bull stands there, then walks out slowly and turns left.]\n"
+  },
+  {
+    "input": "Open the gate!\n[Kenny opens it. The bull stands there, then walks out slowly and turns left.]\n",
+    "output": "All right, get down. This is my kind of bull-ride.\n"
+  },
+  {
+    "input": "All right, get down. This is my kind of bull-ride.\n",
+    "output": "[Whispers to Stan.] That bull sucks! He's not even bucking or anything!\n"
+  },
+  {
+    "input": "[Whispers to Stan.] That bull sucks! He's not even bucking or anything!\n",
+    "output": "Yeah, this is sweet!\n"
+  },
+  {
+    "input": "Yeah, this is sweet!\n",
+    "output": "What are you going to do?\n"
+  },
+  {
+    "input": "What are you going to do?\n",
+    "output": "Hit the bull in the balls with a snowball.\n"
+  },
+  {
+    "input": "Hit the bull in the balls with a snowball.\n",
+    "output": "Oh, yeah. That's a good idea.\n[Kyle chucks a snowball at the bull's testicles and gets a direct hit. The bull starts bucking, pissed off.]\n"
+  },
+  {
+    "input": "Oh, yeah. That's a good idea.\n[Kyle chucks a snowball at the bull's testicles and gets a direct hit. The bull starts bucking, pissed off.]\n",
+    "output": "Eeyy!\n"
+  },
+  {
+    "input": "Eeyy!\n",
+    "output": "That's better.\n"
+  },
+  {
+    "input": "That's better.\n",
+    "output": "Hold on, Cartman!\n"
+  },
+  {
+    "input": "Hold on, Cartman!\n",
+    "output": "Ey! Seriously, you guys! Do something! Dude, stop this crazy thing!\n[The bull throws him off.]\n"
+  },
+  {
+    "input": "Ey! Seriously, you guys! Do something! Dude, stop this crazy thing!\n[The bull throws him off.]\n",
+    "output": "Mother f-\n[Before he can finish, he is thrust into the snow in front of them.]\n"
+  },
+  {
+    "input": "Mother f-\n[Before he can finish, he is thrust into the snow in front of them.]\n",
+    "output": "Get up, Cartman! You're still not staying on long enough!\n[No response.]\n"
+  },
+  {
+    "input": "Get up, Cartman! You're still not staying on long enough!\n[No response.]\n",
+    "output": "Come on, Cartman.\n[No response.]\n"
+  },
+  {
+    "input": "Come on, Cartman.\n[No response.]\n",
+    "output": "(Oh my God, they've killed Cartman!)\n"
+  },
+  {
+    "input": "(Oh my God, they've killed Cartman!)\n",
+    "output": "No he didn't kill him, he's still breathing!\n[Kyle kicks Cartman.]\n"
+  },
+  {
+    "input": "No he didn't kill him, he's still breathing!\n[Kyle kicks Cartman.]\n",
+    "output": "Get up!\n[Kyle waits a moment, then kicks him again.]\n"
+  },
+  {
+    "input": "Get up!\n[Kyle waits a moment, then kicks him again.]\n",
+    "output": "Get UP!\n[Cartman stirs, then stands up. He's pale.]\n"
+  },
+  {
+    "input": "Get UP!\n[Cartman stirs, then stands up. He's pale.]\n",
+    "output": "You okay, dude?\n[Cartman says nothing, he sees everything undulate and hears Stan's voice echo.]\n"
+  },
+  {
+    "input": "You okay, dude?\n[Cartman says nothing, he sees everything undulate and hears Stan's voice echo.]\n",
+    "output": "Cartman, hello? Hel-lo?\n"
+  },
+  {
+    "input": "Cartman, hello? Hel-lo?\n",
+    "output": "Dude, I think we broke him.\n[Later, at Hell's Pass Hospital, in the waiting area.]\n"
+  },
+  {
+    "input": "Dude, I think we broke him.\n[Later, at Hell's Pass Hospital, in the waiting area.]\n",
+    "output": "Boys, I'm afraid your fat little friend has suffered head trauma.\n"
+  },
+  {
+    "input": "Boys, I'm afraid your fat little friend has suffered head trauma.\n",
+    "output": "What's the matter with him.\n"
+  },
+  {
+    "input": "What's the matter with him.\n",
+    "output": "Well, apparently, he thinks he's a Vietnamese prostitute named Ming Li.\n"
+  },
+  {
+    "input": "Well, apparently, he thinks he's a Vietnamese prostitute named Ming Li.\n",
+    "output": "..Oh.\n"
+  },
+  {
+    "input": "..Oh.\n",
+    "output": "But can he still ride a bull?\n"
+  },
+  {
+    "input": "But can he still ride a bull?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "We need him to win a bull-riding contest so we can get Terrance and Phillip dolls. Can he still do it?\n"
+  },
+  {
+    "input": "We need him to win a bull-riding contest so we can get Terrance and Phillip dolls. Can he still do it?\n",
+    "output": "No, boys! You need to take him home and let him get plenty of sleep.\n[Dr. Doctor turns and walks away.]\n"
+  },
+  {
+    "input": "No, boys! You need to take him home and let him get plenty of sleep.\n[Dr. Doctor turns and walks away.]\n",
+    "output": "Damn it!\n[Now in Cartman's room.]\n"
+  },
+  {
+    "input": "Damn it!\n[Now in Cartman's room.]\n",
+    "output": "Cartman. Cartman, can you hear me?\n"
+  },
+  {
+    "input": "Cartman. Cartman, can you hear me?\n",
+    "output": "B\u00e2n x\u01b0a, Lee b\u00e2n x\u01b0a!\n(rough translation: Old friends, Lee old friends!)\n"
+  },
+  {
+    "input": "B\u00e2n x\u01b0a, Lee b\u00e2n x\u01b0a!\n(rough translation: Old friends, Lee old friends!)\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Boyongture taur lur mahrter.\n"
+  },
+  {
+    "input": "Boyongture taur lur mahrter.\n",
+    "output": "Oh, he's fine, dude.\n"
+  },
+  {
+    "input": "Oh, he's fine, dude.\n",
+    "output": "You think?\n"
+  },
+  {
+    "input": "You think?\n",
+    "output": "Shunkarah puntaur lah-turi.\n"
+  },
+  {
+    "input": "Shunkarah puntaur lah-turi.\n",
+    "output": "Oh, yeah, dude. Let's get his ass to the rodeo.\n[Back at the festivities, the Running of the Cows has ended, and Jimbo is onstage.]\n"
+  },
+  {
+    "input": "Oh, yeah, dude. Let's get his ass to the rodeo.\n[Back at the festivities, the Running of the Cows has ended, and Jimbo is onstage.]\n",
+    "output": "All right, damn it! We're not going to stand for this! Now, whoever stole our golden cow memorial, we're gonna find you and kill you!\n[The crowd stands silent.]\n"
+  },
+  {
+    "input": "All right, damn it! We're not going to stand for this! Now, whoever stole our golden cow memorial, we're gonna find you and kill you!\n[The crowd stands silent.]\n",
+    "output": "Aall right, uhow about this? Whoever took the sacred cow, just please return 'im, and there'll be no questions asked.\n[Nothing. Jimbo now looks around.]\n"
+  },
+  {
+    "input": "Aall right, uhow about this? Whoever took the sacred cow, just please return 'im, and there'll be no questions asked.\n[Nothing. Jimbo now looks around.]\n",
+    "output": "Wait a minute. You folks from out of town. You're the only ones with a reason to take our beloved cow memorial!\n[People in the crowd start buzzing, as Officer Barbrady approaches Tom and Mary from behind.]\n"
+  },
+  {
+    "input": "Wait a minute. You folks from out of town. You're the only ones with a reason to take our beloved cow memorial!\n[People in the crowd start buzzing, as Officer Barbrady approaches Tom and Mary from behind.]\n",
+    "output": "Where are we going to put a 60-foot tall statue of a cow?\n"
+  },
+  {
+    "input": "Where are we going to put a 60-foot tall statue of a cow?\n",
+    "output": "Oh, I think maybe you'll answer that downtown, tourists.\n[Officer Barbrady cuffs them both and takes them away.]\n"
+  },
+  {
+    "input": "Oh, I think maybe you'll answer that downtown, tourists.\n[Officer Barbrady cuffs them both and takes them away.]\n",
+    "output": "Oh my God!\n[At the carnival, the boys have returned with Cartman.]\n"
+  },
+  {
+    "input": "Oh my God!\n[At the carnival, the boys have returned with Cartman.]\n",
+    "output": "How's he doing?\n"
+  },
+  {
+    "input": "How's he doing?\n",
+    "output": "He still thinks he's a Vietnamese prostitute.\n"
+  },
+  {
+    "input": "He still thinks he's a Vietnamese prostitute.\n",
+    "output": "Pooinshower. Madalen shine debaur. Huelar she mashartah me shur har.\n"
+  },
+  {
+    "input": "Pooinshower. Madalen shine debaur. Huelar she mashartah me shur har.\n",
+    "output": "Do you think he can ride the bull?\n"
+  },
+  {
+    "input": "Do you think he can ride the bull?\n",
+    "output": "Yeah, I think so.\n"
+  },
+  {
+    "input": "Yeah, I think so.\n",
+    "output": "Cool.\n[The boys pass by a man in uniform, and his wife.]\n"
+  },
+  {
+    "input": "Cool.\n[The boys pass by a man in uniform, and his wife.]\n",
+    "output": "Hello. Hello, polie. Hello, polie hurrah you soldier boy. Hey, soldier boy!\n"
+  },
+  {
+    "input": "Hello. Hello, polie. Hello, polie hurrah you soldier boy. Hey, soldier boy!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Hello? Soldier boy. Me so horny. Me love you long time.\n"
+  },
+  {
+    "input": "Hello? Soldier boy. Me so horny. Me love you long time.\n",
+    "output": "Go away, kid. You're grossing me out.\n"
+  },
+  {
+    "input": "Go away, kid. You're grossing me out.\n",
+    "output": "Hello, puhree! Puhree hello! Hello, sucky-sucky! Hello, puhree!\n"
+  },
+  {
+    "input": "Hello, puhree! Puhree hello! Hello, sucky-sucky! Hello, puhree!\n",
+    "output": "Beat it, kid! Come on, honey.\n[They walk away, an announcement over the loudspeaker gets the attention of carnival-goers.]\n"
+  },
+  {
+    "input": "Beat it, kid! Come on, honey.\n[They walk away, an announcement over the loudspeaker gets the attention of carnival-goers.]\n",
+    "output": "Come one, come all! The Chamber of Farts has been fixed and is reopen!\n[A crowd rushes to it, and Cartman is lost among the mass of people.]\n"
+  },
+  {
+    "input": "Come one, come all! The Chamber of Farts has been fixed and is reopen!\n[A crowd rushes to it, and Cartman is lost among the mass of people.]\n",
+    "output": "Jesus, dude!\n"
+  },
+  {
+    "input": "Jesus, dude!\n",
+    "output": "Hey, where's Cartman?\n"
+  },
+  {
+    "input": "Hey, where's Cartman?\n",
+    "output": "Oh, hell!\n"
+  },
+  {
+    "input": "Oh, hell!\n",
+    "output": "(I don't know where he went!)\n"
+  },
+  {
+    "input": "(I don't know where he went!)\n",
+    "output": "Kenny, you go find Cartman. We have to go sign him up for the bull ride.\n"
+  },
+  {
+    "input": "Kenny, you go find Cartman. We have to go sign him up for the bull ride.\n",
+    "output": "(Okay.)\n[South Park Police Dept. Tom and Mary are still in jail, shivering and seemingly forgotten.]\n"
+  },
+  {
+    "input": "(Okay.)\n[South Park Police Dept. Tom and Mary are still in jail, shivering and seemingly forgotten.]\n",
+    "output": "Hoh, it's so cold here.\n"
+  },
+  {
+    "input": "Hoh, it's so cold here.\n",
+    "output": "Where is that sheriff?! We need water!\n"
+  },
+  {
+    "input": "Where is that sheriff?! We need water!\n",
+    "output": "Oh well, let's try to make the best of it, Mary.\n"
+  },
+  {
+    "input": "Oh well, let's try to make the best of it, Mary.\n",
+    "output": "You're right. We're not being positive. At least we get some time alone.\n"
+  },
+  {
+    "input": "You're right. We're not being positive. At least we get some time alone.\n",
+    "output": "Yeah, and at least we've got our health.\n[A rat runs by.]\n[Over at a ranch, two ranchers get out of a truck and walk into a field.]\n"
+  },
+  {
+    "input": "Yeah, and at least we've got our health.\n[A rat runs by.]\n[Over at a ranch, two ranchers get out of a truck and walk into a field.]\n",
+    "output": "I tell you, Mitchell, I ain't never seen nothin' like it.\n"
+  },
+  {
+    "input": "I tell you, Mitchell, I ain't never seen nothin' like it.\n",
+    "output": "Where are they again?\n"
+  },
+  {
+    "input": "Where are they again?\n",
+    "output": "Just right up over this ridge.\n[The ranchers reach the top of the ridge and look out over a large field full of cows gathered around the Cow Memorial, mooing. It is almost 9 a.m.]\n"
+  },
+  {
+    "input": "Just right up over this ridge.\n[The ranchers reach the top of the ridge and look out over a large field full of cows gathered around the Cow Memorial, mooing. It is almost 9 a.m.]\n",
+    "output": "That's what they've been doin' all morning, just sittin' there and mooin'. And more cows come all the time.\n"
+  },
+  {
+    "input": "That's what they've been doin' all morning, just sittin' there and mooin'. And more cows come all the time.\n",
+    "output": "Well, I ain't never seen this before, neither. But I know one thing, when cows start gettin' together, it can't be good. They might start formin' a cult!\n"
+  },
+  {
+    "input": "Well, I ain't never seen this before, neither. But I know one thing, when cows start gettin' together, it can't be good. They might start formin' a cult!\n",
+    "output": "[Ponders] Hmm. Cow cult.\n[Back at the carnival, rodeo riders test their skill. One of them loses when his horse throws him off.]\n"
+  },
+  {
+    "input": "[Ponders] Hmm. Cow cult.\n[Back at the carnival, rodeo riders test their skill. One of them loses when his horse throws him off.]\n",
+    "output": "The grand-daddy of 'em all, the South Park Cow Days Rodeo! Let's begin the bull-riding event. Grand prize: $5000!\n"
+  },
+  {
+    "input": "The grand-daddy of 'em all, the South Park Cow Days Rodeo! Let's begin the bull-riding event. Grand prize: $5000!\n",
+    "output": "Kenny, where the hell is Cartman?!\n"
+  },
+  {
+    "input": "Kenny, where the hell is Cartman?!\n",
+    "output": "(I don't know, can't find him.)\n"
+  },
+  {
+    "input": "(I don't know, can't find him.)\n",
+    "output": "He's up in, like, twenty minutes!\n"
+  },
+  {
+    "input": "He's up in, like, twenty minutes!\n",
+    "output": "(I know, I know!)\n"
+  },
+  {
+    "input": "(I know, I know!)\n",
+    "output": "[Off-camera.] Hello, prease! Hello!\n"
+  },
+  {
+    "input": "[Off-camera.] Hello, prease! Hello!\n",
+    "output": "[Points to him.] There he is!\n[Cartman emerges from the crowd, now wearing a hot-pink two piece outfit, orange blush, and an oriental wig.]\n"
+  },
+  {
+    "input": "[Points to him.] There he is!\n[Cartman emerges from the crowd, now wearing a hot-pink two piece outfit, orange blush, and an oriental wig.]\n",
+    "output": "Fucky-sucky, five dorrah.\n[Back at the police station, Tom and Mary still sit and wait.]\n[Back on the hill, Jimbo and Ned have joined the two ranchers.]\n"
+  },
+  {
+    "input": "Fucky-sucky, five dorrah.\n[Back at the police station, Tom and Mary still sit and wait.]\n[Back on the hill, Jimbo and Ned have joined the two ranchers.]\n",
+    "output": "Here they are, just like we told you.\n[Jimbo has had enough of the Cows' shenanigans.]\n"
+  },
+  {
+    "input": "Here they are, just like we told you.\n[Jimbo has had enough of the Cows' shenanigans.]\n",
+    "output": "Okay, that's enough-a that! You cows need to dis-perse! All right, bad cows! Do you hear me? Bad cows!\n[The cows are unphased.]\n"
+  },
+  {
+    "input": "Okay, that's enough-a that! You cows need to dis-perse! All right, bad cows! Do you hear me? Bad cows!\n[The cows are unphased.]\n",
+    "output": "All right, Ned. You're gonna have to bust out the whip!\n[Ned lashes out his whip which makes a loud crack.]\n"
+  },
+  {
+    "input": "All right, Ned. You're gonna have to bust out the whip!\n[Ned lashes out his whip which makes a loud crack.]\n",
+    "output": "Mmmm-gahyah! Git along, little doggies!\n[He lashes out again and makes contact with a cow, this causes the herd to move in on him.]\n"
+  },
+  {
+    "input": "Mmmm-gahyah! Git along, little doggies!\n[He lashes out again and makes contact with a cow, this causes the herd to move in on him.]\n",
+    "output": "Bad cows stay! Stay!\n[The cows are pissed. They rush in and trample him into the ground.]\n"
+  },
+  {
+    "input": "Bad cows stay! Stay!\n[The cows are pissed. They rush in and trample him into the ground.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Holy crow! Play dead, Ned!\n"
+  },
+  {
+    "input": "Holy crow! Play dead, Ned!\n",
+    "output": "[Still on the ridge, casually.] I reckon we should get some help.\n"
+  },
+  {
+    "input": "[Still on the ridge, casually.] I reckon we should get some help.\n",
+    "output": "I reckon.\n[Back at the rodeo, the boys have Cartman on the bull, ready to ride.]\n"
+  },
+  {
+    "input": "I reckon.\n[Back at the rodeo, the boys have Cartman on the bull, ready to ride.]\n",
+    "output": "Don't be nervous, Cartman. This is gonna be cake.\n"
+  },
+  {
+    "input": "Don't be nervous, Cartman. This is gonna be cake.\n",
+    "output": "Yeah, and then those Terrance and Phillip dolls will be ours!\n"
+  },
+  {
+    "input": "Yeah, and then those Terrance and Phillip dolls will be ours!\n",
+    "output": "Fucky-sucky five dollah.\n"
+  },
+  {
+    "input": "Fucky-sucky five dollah.\n",
+    "output": "Up first, No. 24, Jack McMack!\n[The crowd cheers, and he removes his hat in appreciation.]\n"
+  },
+  {
+    "input": "Up first, No. 24, Jack McMack!\n[The crowd cheers, and he removes his hat in appreciation.]\n",
+    "output": "Three, two, one.\n[The the gate opens and Jack goes forth.]\n"
+  },
+  {
+    "input": "Three, two, one.\n[The the gate opens and Jack goes forth.]\n",
+    "output": "Yeehaw! Yehoo! Yeehaw!\n[The bull finally throws him off. The crowd is silent and watches him sail through the air.]\n"
+  },
+  {
+    "input": "Yeehaw! Yehoo! Yeehaw!\n[The bull finally throws him off. The crowd is silent and watches him sail through the air.]\n",
+    "output": "Aaaaaaaa!\n[He lands, gored by another bull's horns, and dies.]\n"
+  },
+  {
+    "input": "Aaaaaaaa!\n[He lands, gored by another bull's horns, and dies.]\n",
+    "output": "Oooh, that's gonna cost him a point deduction. Up next, number 14, Ming Li!\n"
+  },
+  {
+    "input": "Oooh, that's gonna cost him a point deduction. Up next, number 14, Ming Li!\n",
+    "output": "Ten dollar? Eight dollar? You give me eight dollar, soldier boy!\n"
+  },
+  {
+    "input": "Ten dollar? Eight dollar? You give me eight dollar, soldier boy!\n",
+    "output": "Here we go!\n"
+  },
+  {
+    "input": "Here we go!\n",
+    "output": "Dude, I'm having second thoughts about this.\n"
+  },
+  {
+    "input": "Dude, I'm having second thoughts about this.\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "I'm startin' to think that maybe it's wrong to put someone who thinks they're a Vietnamese prostitute on a bull.\n"
+  },
+  {
+    "input": "I'm startin' to think that maybe it's wrong to put someone who thinks they're a Vietnamese prostitute on a bull.\n",
+    "output": "Let her go!\n[The gate thrusts open, and \"Ming Li\" goes forth.]\n"
+  },
+  {
+    "input": "Let her go!\n[The gate thrusts open, and \"Ming Li\" goes forth.]\n",
+    "output": "Eey! Freline furton! Sucky-sucky!\n"
+  },
+  {
+    "input": "Eey! Freline furton! Sucky-sucky!\n",
+    "output": "Hang on, Cartman!\n"
+  },
+  {
+    "input": "Hang on, Cartman!\n",
+    "output": "Wow, and this Vietnamese prostitute can really ride a bull!\n[Frank Hammond, his, partner, looks bored.]\n"
+  },
+  {
+    "input": "Wow, and this Vietnamese prostitute can really ride a bull!\n[Frank Hammond, his, partner, looks bored.]\n",
+    "output": "I guess she's had a lot of practice, if you know what I mean.\n[Frank Hammond simply blinks.]\n"
+  },
+  {
+    "input": "I guess she's had a lot of practice, if you know what I mean.\n[Frank Hammond simply blinks.]\n",
+    "output": "Aaah! Ten dorrah!\n[Still riding the bull, the crowd cheers on.]\n"
+  },
+  {
+    "input": "Aaah! Ten dorrah!\n[Still riding the bull, the crowd cheers on.]\n",
+    "output": "Ten dollah, soldier boy!\n"
+  },
+  {
+    "input": "Ten dollah, soldier boy!\n",
+    "output": "She's setting a new world record!\n[The crowd jumping up and down begin to chant.]\n"
+  },
+  {
+    "input": "She's setting a new world record!\n[The crowd jumping up and down begin to chant.]\n",
+    "output": "Ming Li! Ming Li! Ming Li!\n[The bull finally bucks Cartman off.]\n"
+  },
+  {
+    "input": "Ming Li! Ming Li! Ming Li!\n[The bull finally bucks Cartman off.]\n",
+    "output": "Gaaah!\n[He ends up in the snow, where the bull comes and kicks him like a football.]\n"
+  },
+  {
+    "input": "Gaaah!\n[He ends up in the snow, where the bull comes and kicks him like a football.]\n",
+    "output": "Heeee!\n"
+  },
+  {
+    "input": "Heeee!\n",
+    "output": "Dude, that bull's gonna kill him.\n"
+  },
+  {
+    "input": "Dude, that bull's gonna kill him.\n",
+    "output": "Go help him, Kenny!\n[Kenny starts to climb over the fencing into the ring but has second thoughts.]\n"
+  },
+  {
+    "input": "Go help him, Kenny!\n[Kenny starts to climb over the fencing into the ring but has second thoughts.]\n",
+    "output": "(Huh-uh, I ain't gonna get inside that ring! Aaah!)\n[The bull runs through the fence and away, taking Kenny with him. Stan and Kyle watch Kenny disappear.]\n"
+  },
+  {
+    "input": "(Huh-uh, I ain't gonna get inside that ring! Aaah!)\n[The bull runs through the fence and away, taking Kenny with him. Stan and Kyle watch Kenny disappear.]\n",
+    "output": "Oh my God, they killed Kenny!\n"
+  },
+  {
+    "input": "Oh my God, they killed Kenny!\n",
+    "output": "You bastards!\n[A rodeo clown picks Cartman up and carries him off.]\n"
+  },
+  {
+    "input": "You bastards!\n[A rodeo clown picks Cartman up and carries him off.]\n",
+    "output": "And this brave little whore from the East has really put on a show for us today!\n[His partner, rather disgusted, taps his mic until it falls.]\n"
+  },
+  {
+    "input": "And this brave little whore from the East has really put on a show for us today!\n[His partner, rather disgusted, taps his mic until it falls.]\n",
+    "output": "The winner of the bull-riding contest, Ming Li!\n[The rodeo clown places Cartman in a barrel.]\n"
+  },
+  {
+    "input": "The winner of the bull-riding contest, Ming Li!\n[The rodeo clown places Cartman in a barrel.]\n",
+    "output": "Hey, sucky-sucky? Only ten dollar.\n"
+  },
+  {
+    "input": "Hey, sucky-sucky? Only ten dollar.\n",
+    "output": "We did it, dude, we did it!\n[Kyle smiles. Elsewhere, the cows are gathered again before the Memorial, about 3 p.m. Behind some large rocks, FBI agents pop up and take aim at the cows.]\n"
+  },
+  {
+    "input": "We did it, dude, we did it!\n[Kyle smiles. Elsewhere, the cows are gathered again before the Memorial, about 3 p.m. Behind some large rocks, FBI agents pop up and take aim at the cows.]\n",
+    "output": "Freeze, cows!\n[The cows look up, startled.]\n"
+  },
+  {
+    "input": "Freeze, cows!\n[The cows look up, startled.]\n",
+    "output": "The game is over! You will now return to your respective towns!\n[Jimbo stands next to the agent. The cows ignore them.]\n"
+  },
+  {
+    "input": "The game is over! You will now return to your respective towns!\n[Jimbo stands next to the agent. The cows ignore them.]\n",
+    "output": "You hear that, cows? You're surrounded! There's no way out!\n"
+  },
+  {
+    "input": "You hear that, cows? You're surrounded! There's no way out!\n",
+    "output": "You will now all march in an orderly fashion into this trailer!\n[Ned opens the back door to the trailer.]\n"
+  },
+  {
+    "input": "You will now all march in an orderly fashion into this trailer!\n[Ned opens the back door to the trailer.]\n",
+    "output": "Move!\n[The cows just look at them, then one of them walks forward and turns left, walking away.]\n"
+  },
+  {
+    "input": "Move!\n[The cows just look at them, then one of them walks forward and turns left, walking away.]\n",
+    "output": "Hey. Where's she going? That's the wrong way, you stupid cow!\n[The cow walks to the edge of a cliff and looks back at them.]\n"
+  },
+  {
+    "input": "Hey. Where's she going? That's the wrong way, you stupid cow!\n[The cow walks to the edge of a cliff and looks back at them.]\n",
+    "output": "Oh, dear Jesus, no!\n[The cow walks off the cliff, where it falls to its death.]\n"
+  },
+  {
+    "input": "Oh, dear Jesus, no!\n[The cow walks off the cliff, where it falls to its death.]\n",
+    "output": "Mooooo!\n"
+  },
+  {
+    "input": "Mooooo!\n",
+    "output": "Nnoo!\n[The other cows reach the cliff and walk off, one by one.]\n"
+  },
+  {
+    "input": "Nnoo!\n[The other cows reach the cliff and walk off, one by one.]\n",
+    "output": "They're killing themselves! Stop! Please! Can't we do anything?! Oh, God, the humanity, Ned! The humanity!\n[Jimbo weeps into his hands.]\n"
+  },
+  {
+    "input": "They're killing themselves! Stop! Please! Can't we do anything?! Oh, God, the humanity, Ned! The humanity!\n[Jimbo weeps into his hands.]\n",
+    "output": "This is the first mass cow suicide I've seen in- at least eight months.\n[South Park Police Station, Tom and Mary still wait in jail. Back at the carnival, the boys walk over to the Toss-A-Ball.]\n"
+  },
+  {
+    "input": "This is the first mass cow suicide I've seen in- at least eight months.\n[South Park Police Station, Tom and Mary still wait in jail. Back at the carnival, the boys walk over to the Toss-A-Ball.]\n",
+    "output": "Oh, you boys are back again, huh?\n"
+  },
+  {
+    "input": "Oh, you boys are back again, huh?\n",
+    "output": "Yeah. And we have $5000 this time.\n"
+  },
+  {
+    "input": "Yeah. And we have $5000 this time.\n",
+    "output": "How many ball does that get us?\n"
+  },
+  {
+    "input": "How many ball does that get us?\n",
+    "output": "[Still Ming Li.] Odline daur shunba shunba?\n"
+  },
+  {
+    "input": "[Still Ming Li.] Odline daur shunba shunba?\n",
+    "output": "Aw I ah- I tell you what, boys. Uh, I'm gonna be really nice and just- trade you the 5000 for the Terrance and Phillip dolls.\n"
+  },
+  {
+    "input": "Aw I ah- I tell you what, boys. Uh, I'm gonna be really nice and just- trade you the 5000 for the Terrance and Phillip dolls.\n",
+    "output": "You will?\n"
+  },
+  {
+    "input": "You will?\n",
+    "output": "Wow, why'd you get so cool all of a sudden?\n[The operator starts tossing down the dolls.]\n"
+  },
+  {
+    "input": "Wow, why'd you get so cool all of a sudden?\n[The operator starts tossing down the dolls.]\n",
+    "output": "We did it! You see, Cartman? You won us the Terrance and Phillip dolls!\n"
+  },
+  {
+    "input": "We did it! You see, Cartman? You won us the Terrance and Phillip dolls!\n",
+    "output": "Ten dollah? Sucky-sucky?\n"
+  },
+  {
+    "input": "Ten dollah? Sucky-sucky?\n",
+    "output": "What are we gonna do with them?\n[Stan begins to answer but before he can, the head of the Terrance doll which he is holding simply falls off.]\n"
+  },
+  {
+    "input": "What are we gonna do with them?\n[Stan begins to answer but before he can, the head of the Terrance doll which he is holding simply falls off.]\n",
+    "output": "We should-\n[He looks down with Kyle at the head on the ground, horrified.]\n"
+  },
+  {
+    "input": "We should-\n[He looks down with Kyle at the head on the ground, horrified.]\n",
+    "output": "..What the-?\n"
+  },
+  {
+    "input": "..What the-?\n",
+    "output": "Dude, these dolls are cheap rip-offs!\n[One of the Phillip doll's legs falls off.]\n"
+  },
+  {
+    "input": "Dude, these dolls are cheap rip-offs!\n[One of the Phillip doll's legs falls off.]\n",
+    "output": "After all that?! Shenanigans! Shenanigans! SHENANIGANS!\n[Officer Barbrady, Mr. Garrison, and a small crowd show up.]\n"
+  },
+  {
+    "input": "After all that?! Shenanigans! Shenanigans! SHENANIGANS!\n[Officer Barbrady, Mr. Garrison, and a small crowd show up.]\n",
+    "output": "What's all this?\n"
+  },
+  {
+    "input": "What's all this?\n",
+    "output": "Officer Barbrady, I would like to reinstate my previous Shenanigans! This whole carnival is a rip-off!\n"
+  },
+  {
+    "input": "Officer Barbrady, I would like to reinstate my previous Shenanigans! This whole carnival is a rip-off!\n",
+    "output": "You know, uh, excuse me, but I agree. These rides are really stupid! Chamber of Farts isn't scary at all!\n"
+  },
+  {
+    "input": "You know, uh, excuse me, but I agree. These rides are really stupid! Chamber of Farts isn't scary at all!\n",
+    "output": "Yeah, and the food is terrible!\n"
+  },
+  {
+    "input": "Yeah, and the food is terrible!\n",
+    "output": "Hey, it's just a stupid rodeo! What do you expect?\n[Everyone starts arguing all at once, except Barbrady and the boys.]\n"
+  },
+  {
+    "input": "Hey, it's just a stupid rodeo! What do you expect?\n[Everyone starts arguing all at once, except Barbrady and the boys.]\n",
+    "output": "Ho-kay okay, let's calm down. People of South Park, do you declare Shenanigans on the carnival people?\n"
+  },
+  {
+    "input": "Ho-kay okay, let's calm down. People of South Park, do you declare Shenanigans on the carnival people?\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Okay, carnival people, do you accept this decree of Shenanigans?\n"
+  },
+  {
+    "input": "Okay, carnival people, do you accept this decree of Shenanigans?\n",
+    "output": "..What the hell are you talking about?! This whole town is screwy!\n"
+  },
+  {
+    "input": "..What the hell are you talking about?! This whole town is screwy!\n",
+    "output": "Well, that settles it! Everybody grab a broom, it's Shenanigans!\n[The town cheers, and some of the folks have brooms already. They gang up on the carnival people and beat them all for a long time. Stan and Kyle just watch.]\n[One in the afternoon. Jimbo, Ned, and some townsfolk are pushing the Cow Memorial back into the carnival area.]\n"
+  },
+  {
+    "input": "Well, that settles it! Everybody grab a broom, it's Shenanigans!\n[The town cheers, and some of the folks have brooms already. They gang up on the carnival people and beat them all for a long time. Stan and Kyle just watch.]\n[One in the afternoon. Jimbo, Ned, and some townsfolk are pushing the Cow Memorial back into the carnival area.]\n",
+    "output": "You found it! You found the memorial!\n"
+  },
+  {
+    "input": "You found it! You found the memorial!\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "And the cows? Are they all back, too?\n"
+  },
+  {
+    "input": "And the cows? Are they all back, too?\n",
+    "output": "They're dead, mayor. They're all dead. [Sobs.]\n"
+  },
+  {
+    "input": "They're dead, mayor. They're all dead. [Sobs.]\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Oho, it was awful! [Weeps.] Cow after cow taking its own life, and we could do nothing to stop them! Oh, God!\n"
+  },
+  {
+    "input": "Oho, it was awful! [Weeps.] Cow after cow taking its own life, and we could do nothing to stop them! Oh, God!\n",
+    "output": "Well, perhaps, one day, cows will learn that cults are never a good thing.\n"
+  },
+  {
+    "input": "Well, perhaps, one day, cows will learn that cults are never a good thing.\n",
+    "output": "[Still sad.] I hope so, Mayor. I hope so. God I need a cold beer and a burger.\n[Jimbo hears the commotion from the nearby crowd and perks up.]\n"
+  },
+  {
+    "input": "[Still sad.] I hope so, Mayor. I hope so. God I need a cold beer and a burger.\n[Jimbo hears the commotion from the nearby crowd and perks up.]\n",
+    "output": "What's all the ruckus over there?\n[He sees the townsfolk beating on the carnival people.]\n"
+  },
+  {
+    "input": "What's all the ruckus over there?\n[He sees the townsfolk beating on the carnival people.]\n",
+    "output": "Sounds like somebody declared Shenanigans!\n"
+  },
+  {
+    "input": "Sounds like somebody declared Shenanigans!\n",
+    "output": "Oh, hell, I have to run home and get my broom!\n[Back at the police station.]\n"
+  },
+  {
+    "input": "Oh, hell, I have to run home and get my broom!\n[Back at the police station.]\n",
+    "output": "All right, you damned carnival people. Into jail with- [Voice wavering.] Oooooh?\n[Officer Barbrady notices the remains of Tom and Mary, who are no more. They've died of starvation and the rats have begun eating parts of them.]\n"
+  },
+  {
+    "input": "All right, you damned carnival people. Into jail with- [Voice wavering.] Oooooh?\n[Officer Barbrady notices the remains of Tom and Mary, who are no more. They've died of starvation and the rats have begun eating parts of them.]\n",
+    "output": "Hey, aren't those the people we at first thought took the wooden cow?\n"
+  },
+  {
+    "input": "Hey, aren't those the people we at first thought took the wooden cow?\n",
+    "output": "[Nervously.] Yeah.\n"
+  },
+  {
+    "input": "[Nervously.] Yeah.\n",
+    "output": "Didn't we ever release them?\n"
+  },
+  {
+    "input": "Didn't we ever release them?\n",
+    "output": "Aw, I forgot all about 'em.\n"
+  },
+  {
+    "input": "Aw, I forgot all about 'em.\n",
+    "output": "Uh me, too.\n"
+  },
+  {
+    "input": "Uh me, too.\n",
+    "output": "Oh my God! Officer Barbrady, ugh, you never had Tom and Mary in this cell.\n"
+  },
+  {
+    "input": "Oh my God! Officer Barbrady, ugh, you never had Tom and Mary in this cell.\n",
+    "output": "I didn't?\n"
+  },
+  {
+    "input": "I didn't?\n",
+    "output": "No, no. In fact, they never came to South Park. We've never heard of them.\n"
+  },
+  {
+    "input": "No, no. In fact, they never came to South Park. We've never heard of them.\n",
+    "output": "Ooh, phew, I feel a lot better, then, although I could've swore that I had heard of them and they starved to death in my prison.\n[The bus stop. Stan and Kyle are swimming in Terrance and Phillip dolls.]\n"
+  },
+  {
+    "input": "Ooh, phew, I feel a lot better, then, although I could've swore that I had heard of them and they starved to death in my prison.\n[The bus stop. Stan and Kyle are swimming in Terrance and Phillip dolls.]\n",
+    "output": "[With a Terrance doll.] Say, Terrance, let's look for treasuh.\n"
+  },
+  {
+    "input": "[With a Terrance doll.] Say, Terrance, let's look for treasuh.\n",
+    "output": "[With a Phillip doll.] Oh. Good idea, Phillip. Let's look for treasuh.\n"
+  },
+  {
+    "input": "[With a Phillip doll.] Oh. Good idea, Phillip. Let's look for treasuh.\n",
+    "output": "[Arrives, back to normal.] What are you guys doing?\n"
+  },
+  {
+    "input": "[Arrives, back to normal.] What are you guys doing?\n",
+    "output": "Oh, hey, Cartman. How are you feeling?\n"
+  },
+  {
+    "input": "Oh, hey, Cartman. How are you feeling?\n",
+    "output": "Oh, pretty good, except I had the weirdest dream last night.\n"
+  },
+  {
+    "input": "Oh, pretty good, except I had the weirdest dream last night.\n",
+    "output": "Really? What about?\n"
+  },
+  {
+    "input": "Really? What about?\n",
+    "output": "Well, I dreamt that I was a poor Vietnamese girl, and then you guys made me ride a big, scary bull, and then Leonardo DiCaprio gave me a spankin' for several hours.\n[He notices the Terrance and Phillip dolls.]\n"
+  },
+  {
+    "input": "Well, I dreamt that I was a poor Vietnamese girl, and then you guys made me ride a big, scary bull, and then Leonardo DiCaprio gave me a spankin' for several hours.\n[He notices the Terrance and Phillip dolls.]\n",
+    "output": "Hey, where did you guys win all those Terrance and Phillip dolls?\n"
+  },
+  {
+    "input": "Hey, where did you guys win all those Terrance and Phillip dolls?\n",
+    "output": "Oh-h. Nowhere.\n[Stan and Kyle start giggling.]\n"
+  },
+  {
+    "input": "Oh-h. Nowhere.\n[Stan and Kyle start giggling.]\n",
+    "output": "Wait a minute! You guys did make me ride that bull!\n"
+  },
+  {
+    "input": "Wait a minute! You guys did make me ride that bull!\n",
+    "output": "No! Cartman, that was just a dream!\n[A limousine pulls up and Leonardo DiCaprio is at the window.]\n"
+  },
+  {
+    "input": "No! Cartman, that was just a dream!\n[A limousine pulls up and Leonardo DiCaprio is at the window.]\n",
+    "output": "Bye, Ming Li. Thanks again.\n[Stan and Kyle laugh even harder, as the limo drives off.]\n"
+  }
+]

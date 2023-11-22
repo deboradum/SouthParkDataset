@@ -1,0 +1,1062 @@
+[
+  {
+    "input": "",
+    "output": "Krazy Kripples\n\n[South Park, day. Now showing at the South Park Community Theatre. Fanfare begins with a drumroll, a spotlight hits its mark on stage and an announcer speaks]\n"
+  },
+  {
+    "input": "Krazy Kripples\n\n[South Park, day. Now showing at the South Park Community Theatre. Fanfare begins with a drumroll, a spotlight hits its mark on stage and an announcer speaks]\n",
+    "output": "Ladies and Gentlemen, give it up for JIMMY! [the curtains part and Jimmy walks forward wearing a tuxedo] Thank you! Wow. What a terrific audience. [the curtains close behind him] I know what most of you are thinking. \"Hey, uh-that guy stole my show...\" [long pause] Wow, what a great audience. And how about this Michael Jackson guy, huh? I mean, come on... [long pause] Wow, what a great audience. [the soft sound of one person clapping is heard] Uh... l... lights, please? [the house lights click on and only one person is seen in the seats: Butters]\n"
+  },
+  {
+    "input": "Ladies and Gentlemen, give it up for JIMMY! [the curtains part and Jimmy walks forward wearing a tuxedo] Thank you! Wow. What a terrific audience. [the curtains close behind him] I know what most of you are thinking. \"Hey, uh-that guy stole my show...\" [long pause] Wow, what a great audience. And how about this Michael Jackson guy, huh? I mean, come on... [long pause] Wow, what a great audience. [the soft sound of one person clapping is heard] Uh... l... lights, please? [the house lights click on and only one person is seen in the seats: Butters]\n",
+    "output": "Hey Jimmy.\n"
+  },
+  {
+    "input": "Hey Jimmy.\n",
+    "output": "Butters, w-where is everybody?\n"
+  },
+  {
+    "input": "Butters, w-where is everybody?\n",
+    "output": "Oh yeah, well, about that... Christopher Reeve came to town to do some kind of show, and everyone went to see him.\n"
+  },
+  {
+    "input": "Oh yeah, well, about that... Christopher Reeve came to town to do some kind of show, and everyone went to see him.\n",
+    "output": "Christopher Reeve? Christopher Reeve?!\n"
+  },
+  {
+    "input": "Christopher Reeve? Christopher Reeve?!\n",
+    "output": "You know, Christopher Reeve, the guy who played Superman.\n"
+  },
+  {
+    "input": "You know, Christopher Reeve, the guy who played Superman.\n",
+    "output": "I know who he is! But why is everyone ditching my comedy show to see him?!\n"
+  },
+  {
+    "input": "I know who he is! But why is everyone ditching my comedy show to see him?!\n",
+    "output": "Ww-well, because he got crippled, but now he can move his finger. He is an inspiration to us all. That's why everyone ditched on your show.\n"
+  },
+  {
+    "input": "Ww-well, because he got crippled, but now he can move his finger. He is an inspiration to us all. That's why everyone ditched on your show.\n",
+    "output": "So then, how come you came?\n"
+  },
+  {
+    "input": "So then, how come you came?\n",
+    "output": "Well, because I said I would. Oh, I'm a dork, huh? [Jimmy stews on stage]\n[Town Square. Mayor McDaniels is on stage with her aides. Above them a banner reads \"STEM CELL RESEARCH.\" A crowd of people has formed in front of the stage]\n"
+  },
+  {
+    "input": "Well, because I said I would. Oh, I'm a dork, huh? [Jimmy stews on stage]\n[Town Square. Mayor McDaniels is on stage with her aides. Above them a banner reads \"STEM CELL RESEARCH.\" A crowd of people has formed in front of the stage]\n",
+    "output": "And so without further ado, here's the most courageous, most amazing man on the planet, Christopher Reeve. [everyone claps and the curtains open. The mayor and her aides step aside. Christopher Reeve rolls out towards the mic. Jimmy shows up to watch.]\n"
+  },
+  {
+    "input": "And so without further ado, here's the most courageous, most amazing man on the planet, Christopher Reeve. [everyone claps and the curtains open. The mayor and her aides step aside. Christopher Reeve rolls out towards the mic. Jimmy shows up to watch.]\n",
+    "output": "Thank you, thank you, wow, what a great audience. [stops to catch his breath with a fixed smile in place] I just flew into South Park. [catches his breath] Used to be I didn't need an airplane.\n"
+  },
+  {
+    "input": "Thank you, thank you, wow, what a great audience. [stops to catch his breath with a fixed smile in place] I just flew into South Park. [catches his breath] Used to be I didn't need an airplane.\n",
+    "output": "Awwwww. [a smattering of applause]\n"
+  },
+  {
+    "input": "Awwwww. [a smattering of applause]\n",
+    "output": "As most of you know, [catches his breath] I am a strong supporter of stem-cell research.\n"
+  },
+  {
+    "input": "As most of you know, [catches his breath] I am a strong supporter of stem-cell research.\n",
+    "output": "Say, fellas! Thanks a lot for goin' to my ...c-comedy show! [\"It is a proven fact that stem-cell research\"]\n"
+  },
+  {
+    "input": "Say, fellas! Thanks a lot for goin' to my ...c-comedy show! [\"It is a proven fact that stem-cell research\"]\n",
+    "output": "We didn't go to your comedy show.\n"
+  },
+  {
+    "input": "We didn't go to your comedy show.\n",
+    "output": "I know that, I was being f-f-f-fa...cetious! [\"can add many years to the lives of people who have been disabled by accidents\"]\n"
+  },
+  {
+    "input": "I know that, I was being f-f-f-fa...cetious! [\"can add many years to the lives of people who have been disabled by accidents\"]\n",
+    "output": "Look, dude. Christopher Reeve, dude. [\"or other ways.\"]\n"
+  },
+  {
+    "input": "Look, dude. Christopher Reeve, dude. [\"or other ways.\"]\n",
+    "output": "Ooh, Christopher Reeve! Whoop-de-freakin-do!\n"
+  },
+  {
+    "input": "Ooh, Christopher Reeve! Whoop-de-freakin-do!\n",
+    "output": "Dude, that's not cool. You shouldn't make fun of Christopher Reeve.\n"
+  },
+  {
+    "input": "Dude, that's not cool. You shouldn't make fun of Christopher Reeve.\n",
+    "output": "Yeah dude, not cool.\n"
+  },
+  {
+    "input": "Yeah dude, not cool.\n",
+    "output": "Though it is controversial, [catches his breath] stem cell research is critical [catches his breath] in the quest for helping [catches his breath] the disabled.\n"
+  },
+  {
+    "input": "Though it is controversial, [catches his breath] stem cell research is critical [catches his breath] in the quest for helping [catches his breath] the disabled.\n",
+    "output": "I put together a comedy show and I was crippled from BIRTH! [waddles off in a huff]\n"
+  },
+  {
+    "input": "I put together a comedy show and I was crippled from BIRTH! [waddles off in a huff]\n",
+    "output": "Uh, hoo. Guys, I think we'd better stay out of this one.\n"
+  },
+  {
+    "input": "Uh, hoo. Guys, I think we'd better stay out of this one.\n",
+    "output": "Yeah, this is starting to look like something we shouldn't be any part of. Let's go play with trucks or something. [they turn right and trot off]\n"
+  },
+  {
+    "input": "Yeah, this is starting to look like something we shouldn't be any part of. Let's go play with trucks or something. [they turn right and trot off]\n",
+    "output": "Ha-a-aaa-haaa-a.\n"
+  },
+  {
+    "input": "Ha-a-aaa-haaa-a.\n",
+    "output": "[approaching] Can you believe this asswipe, Timmy?\n"
+  },
+  {
+    "input": "[approaching] Can you believe this asswipe, Timmy?\n",
+    "output": "Timmeh!!\n"
+  },
+  {
+    "input": "Timmeh!!\n",
+    "output": "Why is a celebrity who became crippled more important than us that were born that way, very much.\n"
+  },
+  {
+    "input": "Why is a celebrity who became crippled more important than us that were born that way, very much.\n",
+    "output": "Rrruh Timmeh!\n"
+  },
+  {
+    "input": "Rrruh Timmeh!\n",
+    "output": "In the coming days [catches his breath] I will prove to the world [catches his breath] that stem-cell research is a miracle.\n[The bus stop, day. The boys are on the snow playing with their trucks.]]\n"
+  },
+  {
+    "input": "In the coming days [catches his breath] I will prove to the world [catches his breath] that stem-cell research is a miracle.\n[The bus stop, day. The boys are on the snow playing with their trucks.]]\n",
+    "output": "Beep beep beep. Move it, Kenny! Beep.\n"
+  },
+  {
+    "input": "Beep beep beep. Move it, Kenny! Beep.\n",
+    "output": "Hey there fellas.\n"
+  },
+  {
+    "input": "Hey there fellas.\n",
+    "output": "Oh hey Jimmy, hey Timmy.\n"
+  },
+  {
+    "input": "Oh hey Jimmy, hey Timmy.\n",
+    "output": "Timmih!!\n"
+  },
+  {
+    "input": "Timmih!!\n",
+    "output": "Say, would you guys like to join our club? Oh, I'm sorry. You can't. You aren't crippled. [start laughing. The boys go back to playing with their trucks.]\n"
+  },
+  {
+    "input": "Say, would you guys like to join our club? Oh, I'm sorry. You can't. You aren't crippled. [start laughing. The boys go back to playing with their trucks.]\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "To be in our club, not only do you have to be c-c-crippled, but you have to have been born that way. Do you know what that means? No butthole Superman asswipe Christopher Reeve!\n"
+  },
+  {
+    "input": "To be in our club, not only do you have to be c-c-crippled, but you have to have been born that way. Do you know what that means? No butthole Superman asswipe Christopher Reeve!\n",
+    "output": "That's nice, guys. We're just gonna stay out of this one. [Jimmy and Timmy turn and walk away]\n"
+  },
+  {
+    "input": "That's nice, guys. We're just gonna stay out of this one. [Jimmy and Timmy turn and walk away]\n",
+    "output": "[jumps up and catches up to them] Hey, wait a minute! [Timmy and Jimmy stop] You guys can't just start a club and tell me I can't be in it!\n"
+  },
+  {
+    "input": "[jumps up and catches up to them] Hey, wait a minute! [Timmy and Jimmy stop] You guys can't just start a club and tell me I can't be in it!\n",
+    "output": "Sorry, able-bodied, you can't join.\n"
+  },
+  {
+    "input": "Sorry, able-bodied, you can't join.\n",
+    "output": "Can too!\n"
+  },
+  {
+    "input": "Can too!\n",
+    "output": "[turns to Timmy] Hey Timmy. How many able-bodied people does it take to screw in a light bulb? One. [begins to laugh. Timmy begins to laugh as well] You know what you call an able-bodied guy on the doorstep? Whatever his name is. [Jimmy and Timmy laugh, and walk away laughing]\n"
+  },
+  {
+    "input": "[turns to Timmy] Hey Timmy. How many able-bodied people does it take to screw in a light bulb? One. [begins to laugh. Timmy begins to laugh as well] You know what you call an able-bodied guy on the doorstep? Whatever his name is. [Jimmy and Timmy laugh, and walk away laughing]\n",
+    "output": "Oh God-damnit!!\n"
+  },
+  {
+    "input": "Oh God-damnit!!\n",
+    "output": "Cartman, just stay out of it.\n"
+  },
+  {
+    "input": "Cartman, just stay out of it.\n",
+    "output": "But they say I can't be in their club!!\n"
+  },
+  {
+    "input": "But they say I can't be in their club!!\n",
+    "output": "Cartman, trust me. [Kenny pushes his own truck away] We don't want any part in this one.\n[\"The T-shirt Factory\", later. Timmy and Jimmy walk up to it and enter]\n"
+  },
+  {
+    "input": "Cartman, trust me. [Kenny pushes his own truck away] We don't want any part in this one.\n[\"The T-shirt Factory\", later. Timmy and Jimmy walk up to it and enter]\n",
+    "output": "Hello, Mr. McGillicuuhuhuhh... Mr. McGillicuddy. [Timmy has a box on his lap]\n"
+  },
+  {
+    "input": "Hello, Mr. McGillicuuhuhuhh... Mr. McGillicuddy. [Timmy has a box on his lap]\n",
+    "output": "Hello, boys. What can I do for you?\n"
+  },
+  {
+    "input": "Hello, boys. What can I do for you?\n",
+    "output": "[takes the box from Timmy] Timmy and I made a ...T-shirt design for our new club. [Timmy beams with delight] We just came up with a name this morning. [McGillicuddy opens the box, pulls out the shirt, and his jaw drops. The shirt reads, \"THE CRIPS\"]\n"
+  },
+  {
+    "input": "[takes the box from Timmy] Timmy and I made a ...T-shirt design for our new club. [Timmy beams with delight] We just came up with a name this morning. [McGillicuddy opens the box, pulls out the shirt, and his jaw drops. The shirt reads, \"THE CRIPS\"]\n",
+    "output": "Uh... boys, I don't think you wanna wear these shirts.\n"
+  },
+  {
+    "input": "Uh... boys, I don't think you wanna wear these shirts.\n",
+    "output": "Why not?\n"
+  },
+  {
+    "input": "Why not?\n",
+    "output": "Well, because there already is a group that calls themselves the Crips, and I don't think they'd like it too much.\n"
+  },
+  {
+    "input": "Well, because there already is a group that calls themselves the Crips, and I don't think they'd like it too much.\n",
+    "output": "[stunned] ...There's already a Crips?!\n"
+  },
+  {
+    "input": "[stunned] ...There's already a Crips?!\n",
+    "output": "Well, sure, they're all over at Five Points area in Denver. You've never heard of them?\n"
+  },
+  {
+    "input": "Well, sure, they're all over at Five Points area in Denver. You've never heard of them?\n",
+    "output": "No, we never have. Are they crippled from birth or are they cripple wannabes like Christopher Reeve?\n"
+  },
+  {
+    "input": "No, we never have. Are they crippled from birth or are they cripple wannabes like Christopher Reeve?\n",
+    "output": "...Oh, I am stayin' out of this one. [leaves the counter]\n[\"The T-shirt Factory\", outside. The doors open and Jimmy and Timmy exit]\n"
+  },
+  {
+    "input": "...Oh, I am stayin' out of this one. [leaves the counter]\n[\"The T-shirt Factory\", outside. The doors open and Jimmy and Timmy exit]\n",
+    "output": "Can you believe it, Timmy? All this time there was a group for truly crippled people like ourselves, and we didn't know it.\n"
+  },
+  {
+    "input": "Can you believe it, Timmy? All this time there was a group for truly crippled people like ourselves, and we didn't know it.\n",
+    "output": "[excited] Timmmeh!\n"
+  },
+  {
+    "input": "[excited] Timmmeh!\n",
+    "output": "Come on. We have to take the bus to Five Points in Denver.\n[The Larry King Show on HNN, on air.]\n"
+  },
+  {
+    "input": "Come on. We have to take the bus to Five Points in Denver.\n[The Larry King Show on HNN, on air.]\n",
+    "output": "My guest tonight is the brilliant star of stage and screen, Mr. Christopher Reeve, who, with the help of stem-cell research, is now able to move his arms.\n"
+  },
+  {
+    "input": "My guest tonight is the brilliant star of stage and screen, Mr. Christopher Reeve, who, with the help of stem-cell research, is now able to move his arms.\n",
+    "output": "Thanks for having me on again, Larry.\n"
+  },
+  {
+    "input": "Thanks for having me on again, Larry.\n",
+    "output": "All right. Chris, the whole world is waiting. Why don't you show us what stem-cell research has done for you. [with that fixed grin, Reeve strains to lift his right arm a few inches, then sets it down again.] Amazing. Isn't that amazing, folks? Now, Chris, there're some people who say stem-cell research is wrong, that taking cells from a fetus is... unethical.\n"
+  },
+  {
+    "input": "All right. Chris, the whole world is waiting. Why don't you show us what stem-cell research has done for you. [with that fixed grin, Reeve strains to lift his right arm a few inches, then sets it down again.] Amazing. Isn't that amazing, folks? Now, Chris, there're some people who say stem-cell research is wrong, that taking cells from a fetus is... unethical.\n",
+    "output": "Well, it just proves that the public needs to be educated [catches his breath] about stem-cell research. See, the stem cells from a fetus like this one [pulls a dead fetus up from an unseen container] can form into whatever cells of the body are damaged. They are the most powerful thing on the planet.\n"
+  },
+  {
+    "input": "Well, it just proves that the public needs to be educated [catches his breath] about stem-cell research. See, the stem cells from a fetus like this one [pulls a dead fetus up from an unseen container] can form into whatever cells of the body are damaged. They are the most powerful thing on the planet.\n",
+    "output": "And how does someone like yourself make use of the stem cells, Chris?\n"
+  },
+  {
+    "input": "And how does someone like yourself make use of the stem cells, Chris?\n",
+    "output": "Well, it's very simple. [takes the fetus and cracks it open like a coconut, then sucks out its contents and tosses it aside] And now you can see, my arms have better movement.\n"
+  },
+  {
+    "input": "Well, it's very simple. [takes the fetus and cracks it open like a coconut, then sucks out its contents and tosses it aside] And now you can see, my arms have better movement.\n",
+    "output": "Wow. [begins clapping] Wow.\n[Five Points, Denver. A bum pushes a cart full of his belongings past Denver Meat Packing, a rundown warehouse. Sirens, gunshots, and a woman's screams are heard.]\n"
+  },
+  {
+    "input": "Wow. [begins clapping] Wow.\n[Five Points, Denver. A bum pushes a cart full of his belongings past Denver Meat Packing, a rundown warehouse. Sirens, gunshots, and a woman's screams are heard.]\n",
+    "output": "Excuse me, sir. [the bum stops, startled] we're looking for a group of people called the Crips.\n"
+  },
+  {
+    "input": "Excuse me, sir. [the bum stops, startled] we're looking for a group of people called the Crips.\n",
+    "output": "You are?\n"
+  },
+  {
+    "input": "You are?\n",
+    "output": "Do you know where they meet? We've already tried the rec center and the library.\n"
+  },
+  {
+    "input": "Do you know where they meet? We've already tried the rec center and the library.\n",
+    "output": "The Crips hang out at that old warehouse down there, [points to the building he just passed] but ...nobody goes in there.\n"
+  },
+  {
+    "input": "The Crips hang out at that old warehouse down there, [points to the building he just passed] but ...nobody goes in there.\n",
+    "output": "[moves forward] Oh, it's okay. We're Crips ourselves. Come on, Tim-Tim.\n"
+  },
+  {
+    "input": "[moves forward] Oh, it's okay. We're Crips ourselves. Come on, Tim-Tim.\n",
+    "output": "Timmmih! [follows]\n[Denver Meat Packing, inside. The music is thumping, there's gambling and general conversation going on. Jimmy and Timmy walks in.]\n"
+  },
+  {
+    "input": "Timmmih! [follows]\n[Denver Meat Packing, inside. The music is thumping, there's gambling and general conversation going on. Jimmy and Timmy walks in.]\n",
+    "output": "Well hello everyone. [music abruptly stops] I'm Jim Swanson, and this is my friend Timmy.\n"
+  },
+  {
+    "input": "Well hello everyone. [music abruptly stops] I'm Jim Swanson, and this is my friend Timmy.\n",
+    "output": "Timmmih! [awkward silence, then softly] Tih... ti-timmih.\n"
+  },
+  {
+    "input": "Timmmih! [awkward silence, then softly] Tih... ti-timmih.\n",
+    "output": "[to a friend at left, as he points to the duo] Well, let us tell you a little bit about ourselves. Timmy and I are both true Crips, born and raised. We're the only Crips in South Park, where we live, and we would love to join your fa-fa-fantastic Denver chapter.\n"
+  },
+  {
+    "input": "[to a friend at left, as he points to the duo] Well, let us tell you a little bit about ourselves. Timmy and I are both true Crips, born and raised. We're the only Crips in South Park, where we live, and we would love to join your fa-fa-fantastic Denver chapter.\n",
+    "output": "Is they for real, manh?\n"
+  },
+  {
+    "input": "Is they for real, manh?\n",
+    "output": "We just have one question before we join your c-club. Do you think it's better to be born a Crip, or to become a Crip later by accident?\n"
+  },
+  {
+    "input": "We just have one question before we join your c-club. Do you think it's better to be born a Crip, or to become a Crip later by accident?\n",
+    "output": "The only Crips is born Crips, dawg.\n"
+  },
+  {
+    "input": "The only Crips is born Crips, dawg.\n",
+    "output": "Yeah, you can't become a Crip by accident, fool!\n"
+  },
+  {
+    "input": "Yeah, you can't become a Crip by accident, fool!\n",
+    "output": "I agree. I mean, it's like [enunciates] \"come on\"! Why do these people who become crippled later in life think they're such great pot-potatuhs?\n"
+  },
+  {
+    "input": "I agree. I mean, it's like [enunciates] \"come on\"! Why do these people who become crippled later in life think they're such great pot-potatuhs?\n",
+    "output": "Timmih! [silence]\n"
+  },
+  {
+    "input": "Timmih! [silence]\n",
+    "output": "Well, we're glad you see it our way, fellas. So can we join your g... group?\n"
+  },
+  {
+    "input": "Well, we're glad you see it our way, fellas. So can we join your g... group?\n",
+    "output": "All right, you wanna thug with the Five Point Crips? Bitches, all you gotta do is pop some punk-ass Bloods.\n"
+  },
+  {
+    "input": "All right, you wanna thug with the Five Point Crips? Bitches, all you gotta do is pop some punk-ass Bloods.\n",
+    "output": "Well, sure. Tim and I would love to pop some punk-ass Bloods. We're terrific at it.\n"
+  },
+  {
+    "input": "Well, sure. Tim and I would love to pop some punk-ass Bloods. We're terrific at it.\n",
+    "output": "Timmih?\n"
+  },
+  {
+    "input": "Timmih?\n",
+    "output": "[turns and answers softly] I don't know, Timmy, just play along.\n"
+  },
+  {
+    "input": "[turns and answers softly] I don't know, Timmy, just play along.\n",
+    "output": "Uh-tu-Timmih!\n"
+  },
+  {
+    "input": "Uh-tu-Timmih!\n",
+    "output": "So you sayin' yuh down?\n"
+  },
+  {
+    "input": "So you sayin' yuh down?\n",
+    "output": "Down like a clown, Charlie Br... Down like a clown, Charlie B-broooowww... Down like a clown, Charlie Browh... Bro-uh-own. Down like a clown, Charlie Br-Brown. [music starts up again, and Timmy and Jimmy leave. As they walk down the street a rap song plays]\n"
+  },
+  {
+    "input": "Down like a clown, Charlie Br... Down like a clown, Charlie B-broooowww... Down like a clown, Charlie Browh... Bro-uh-own. Down like a clown, Charlie Br-Brown. [music starts up again, and Timmy and Jimmy leave. As they walk down the street a rap song plays]\n",
+    "output": "Say Timmy, did you notice that all the crippled people in that club are negros?\n"
+  },
+  {
+    "input": "Say Timmy, did you notice that all the crippled people in that club are negros?\n",
+    "output": "Timmih!\n"
+  },
+  {
+    "input": "Timmih!\n",
+    "output": "That's an amm-mmazing coincidence. I mean, there's not one crippled colored person in South Park. [as they walk, a police car rolls up and the passenger-side officer calls out]\n"
+  },
+  {
+    "input": "That's an amm-mmazing coincidence. I mean, there's not one crippled colored person in South Park. [as they walk, a police car rolls up and the passenger-side officer calls out]\n",
+    "output": "Hey you kids.\n"
+  },
+  {
+    "input": "Hey you kids.\n",
+    "output": "[stops and looks] Well hello, officers.\n"
+  },
+  {
+    "input": "[stops and looks] Well hello, officers.\n",
+    "output": "What the hell do you think you're doin'?\n"
+  },
+  {
+    "input": "What the hell do you think you're doin'?\n",
+    "output": "We're goin' to pop some punk-ass Bloods.\n"
+  },
+  {
+    "input": "We're goin' to pop some punk-ass Bloods.\n",
+    "output": "Timmih! [the officers simply look at each other and drive off.]\n"
+  },
+  {
+    "input": "Timmih! [the officers simply look at each other and drive off.]\n",
+    "output": "[sees something] Look, Timmy. There's a convenience store. [\"Ribs N Gass.\" A lot of gang members are milling around in front of the store] That must be what the fellas meant by \"pop some punk-ass Bloods.\" They want us to get them some soda pop and treats. [the gang members notice them coming and stop to look. They cross the street] Let's buy them ginger ale and marshmallows. Then they'll let us in the club for sure.\n"
+  },
+  {
+    "input": "[sees something] Look, Timmy. There's a convenience store. [\"Ribs N Gass.\" A lot of gang members are milling around in front of the store] That must be what the fellas meant by \"pop some punk-ass Bloods.\" They want us to get them some soda pop and treats. [the gang members notice them coming and stop to look. They cross the street] Let's buy them ginger ale and marshmallows. Then they'll let us in the club for sure.\n",
+    "output": "Oh, Timmih. [a truck appears in the distance and comes up fast.]\n"
+  },
+  {
+    "input": "Oh, Timmih. [a truck appears in the distance and comes up fast.]\n",
+    "output": "[noticing almost too late] Oh shit! [swerves to avoid the duo and slams into the convenience store they were trying to reach. The store and truck go up in a ball of flames while Jimmy and Timmy stop in their tracks]\n"
+  },
+  {
+    "input": "[noticing almost too late] Oh shit! [swerves to avoid the duo and slams into the convenience store they were trying to reach. The store and truck go up in a ball of flames while Jimmy and Timmy stop in their tracks]\n",
+    "output": "Suh, suh, suh, suh, Sssunday driver!\n[Back at Denver Meat Packing, night. Jimmy and Timmy are back at the warehouse.]\n"
+  },
+  {
+    "input": "Suh, suh, suh, suh, Sssunday driver!\n[Back at Denver Meat Packing, night. Jimmy and Timmy are back at the warehouse.]\n",
+    "output": "Yo yo, listen up y'all! Let me tell you about my little Gs, Roller and 4 Legs here. They just smoked thirteen Bloods in one night!\n"
+  },
+  {
+    "input": "Yo yo, listen up y'all! Let me tell you about my little Gs, Roller and 4 Legs here. They just smoked thirteen Bloods in one night!\n",
+    "output": "One night?\n"
+  },
+  {
+    "input": "One night?\n",
+    "output": "You're kiddin'? You're kiddin'? One night?\n"
+  },
+  {
+    "input": "You're kiddin'? You're kiddin'? One night?\n",
+    "output": "That ain't never been done before!\n"
+  },
+  {
+    "input": "That ain't never been done before!\n",
+    "output": "And they got us marshmallows and ginger ale.\n"
+  },
+  {
+    "input": "And they got us marshmallows and ginger ale.\n",
+    "output": "[chattering] Uh huh. Cool. He's right.\n"
+  },
+  {
+    "input": "[chattering] Uh huh. Cool. He's right.\n",
+    "output": "So does that mean we can join the c-c...club?\n"
+  },
+  {
+    "input": "So does that mean we can join the c-c...club?\n",
+    "output": "You're not just in, you're the baddest mofo Crips in town! Cipac! [a Crip steps forward] Turn up the beat so we can celebrate our new Gs Five-Points style!\n"
+  },
+  {
+    "input": "You're not just in, you're the baddest mofo Crips in town! Cipac! [a Crip steps forward] Turn up the beat so we can celebrate our new Gs Five-Points style!\n",
+    "output": "All right. [hobbles off]\n"
+  },
+  {
+    "input": "All right. [hobbles off]\n",
+    "output": "Wow, these guys really are crippled. [the music starts up and the Crips start dancing] Timmy, I have a feeling that this is the start of something b-b-b-b...b-b-brilliant.\n"
+  },
+  {
+    "input": "Wow, these guys really are crippled. [the music starts up and the Crips start dancing] Timmy, I have a feeling that this is the start of something b-b-b-b...b-b-brilliant.\n",
+    "output": "Timmih!\n[Jimmy's home. A car drives up and drops off Timmy and Jimmy. The occupants are Crips.]\n"
+  },
+  {
+    "input": "Timmih!\n[Jimmy's home. A car drives up and drops off Timmy and Jimmy. The occupants are Crips.]\n",
+    "output": "Thanks for the ride home, fellas. We sure had a ...terrific time.\n"
+  },
+  {
+    "input": "Thanks for the ride home, fellas. We sure had a ...terrific time.\n",
+    "output": "Alrighty. Keep it real, dawg.\n"
+  },
+  {
+    "input": "Alrighty. Keep it real, dawg.\n",
+    "output": "You dawgs keep it real, too. [Cipac flashes the Crips signs for \"West Coast Crips\" and the boys return the gesture]\n"
+  },
+  {
+    "input": "You dawgs keep it real, too. [Cipac flashes the Crips signs for \"West Coast Crips\" and the boys return the gesture]\n",
+    "output": "Timmih! [the Crips drive off]\n"
+  },
+  {
+    "input": "Timmih! [the Crips drive off]\n",
+    "output": "Well, that sure was a terrific time. Let's go all around tomorrow and show everyone our new outfits, Timmy.\n"
+  },
+  {
+    "input": "Well, that sure was a terrific time. Let's go all around tomorrow and show everyone our new outfits, Timmy.\n",
+    "output": "Timmih! [Jimmy goes on home as Timmy rolls off]\n[Jimmy's house, inside. His parents sit before the TV, his mom worried.]\n"
+  },
+  {
+    "input": "Timmih! [Jimmy goes on home as Timmy rolls off]\n[Jimmy's house, inside. His parents sit before the TV, his mom worried.]\n",
+    "output": "[jumps up] There you are, Jimmy!\n"
+  },
+  {
+    "input": "[jumps up] There you are, Jimmy!\n",
+    "output": "Whatup, Mazie? Ye-yo, Pops?\n"
+  },
+  {
+    "input": "Whatup, Mazie? Ye-yo, Pops?\n",
+    "output": "Jimmy, your mother was gettin' worried about you.\n"
+  },
+  {
+    "input": "Jimmy, your mother was gettin' worried about you.\n",
+    "output": "No need to worry about me. I'm cool like a fool in a swimming ppp-ppp-pp-pp-pool. [turns and hobbles off]\n[Outside, somewhere, day. A reporter begins speaking to the camera.]\n"
+  },
+  {
+    "input": "No need to worry about me. I'm cool like a fool in a swimming ppp-ppp-pp-pp-pool. [turns and hobbles off]\n[Outside, somewhere, day. A reporter begins speaking to the camera.]\n",
+    "output": "Tom, I'm standing out front of the Stem Cell Research Facility with terrific news. Christopher Reeve, who was once paralyzed, claims that he can now stand.\n"
+  },
+  {
+    "input": "Tom, I'm standing out front of the Stem Cell Research Facility with terrific news. Christopher Reeve, who was once paralyzed, claims that he can now stand.\n",
+    "output": "[flanked by two doctors, one of them carrying a medical organ cooler] Thank you everyone. [pulls out a fetus from the cooler and holds it in his left hand] To most people, this is just an ordinary fetus. But to people like me, [lifts it into the air] it's hope. [snaps it open as before and sucks out its juices.]\n"
+  },
+  {
+    "input": "[flanked by two doctors, one of them carrying a medical organ cooler] Thank you everyone. [pulls out a fetus from the cooler and holds it in his left hand] To most people, this is just an ordinary fetus. But to people like me, [lifts it into the air] it's hope. [snaps it open as before and sucks out its juices.]\n",
+    "output": "Uugh.\n[Reeve tosses the carcass away, then he drops his feet to the floor, then he slowly rises from his wheelchair and raises his arms in victory. The crowd oooos and ahhhs.]\n"
+  },
+  {
+    "input": "Uugh.\n[Reeve tosses the carcass away, then he drops his feet to the floor, then he slowly rises from his wheelchair and raises his arms in victory. The crowd oooos and ahhhs.]\n",
+    "output": "[arm around Mr. Slave] What an inspiration.\n"
+  },
+  {
+    "input": "[arm around Mr. Slave] What an inspiration.\n",
+    "output": "Tom, many celebrities have spoken out in protest of stem-cell research, but, after seeing this, how can they protest now? [Reeve takes out another fetus and sucks it dry. Stan and the boys walk by]\n"
+  },
+  {
+    "input": "Tom, many celebrities have spoken out in protest of stem-cell research, but, after seeing this, how can they protest now? [Reeve takes out another fetus and sucks it dry. Stan and the boys walk by]\n",
+    "output": "[admonishing] Stay clear, guys, stay clear.\n"
+  },
+  {
+    "input": "[admonishing] Stay clear, guys, stay clear.\n",
+    "output": "Yup. I'm not seeing anything.\n[City Wok, day. Mr. Kim is wiping the counter down. Timmy and Jimmy enter dressed in their Crip outfits.]\n"
+  },
+  {
+    "input": "Yup. I'm not seeing anything.\n[City Wok, day. Mr. Kim is wiping the counter down. Timmy and Jimmy enter dressed in their Crip outfits.]\n",
+    "output": "Hey [studies the boys before him, then holds up his arms] Hey, I don't want no trouble!\n"
+  },
+  {
+    "input": "Hey [studies the boys before him, then holds up his arms] Hey, I don't want no trouble!\n",
+    "output": "Hello. We'd like two orders of Kung... Pao Chicken, please.\n"
+  },
+  {
+    "input": "Hello. We'd like two orders of Kung... Pao Chicken, please.\n",
+    "output": "I don't want no trouble! You just... take what you want and leave!\n"
+  },
+  {
+    "input": "I don't want no trouble! You just... take what you want and leave!\n",
+    "output": "Timmih!\n"
+  },
+  {
+    "input": "Timmih!\n",
+    "output": "[as if Timmy had barked an order] OH! Okay, okay! [steps to the cash register and opens it] I open register\n"
+  },
+  {
+    "input": "[as if Timmy had barked an order] OH! Okay, okay! [steps to the cash register and opens it] I open register\n",
+    "output": "Timmih!\n"
+  },
+  {
+    "input": "Timmih!\n",
+    "output": "What's that? Oh, and one medium lemonade, please.\n"
+  },
+  {
+    "input": "What's that? Oh, and one medium lemonade, please.\n",
+    "output": "Timmih.\n"
+  },
+  {
+    "input": "Timmih.\n",
+    "output": "[pulls out a stack of bills and sets them on the counter, then holds his arms up again] Here. Here one hundred twelve dorrar! It's all I have. Yeh take!\n"
+  },
+  {
+    "input": "[pulls out a stack of bills and sets them on the counter, then holds his arms up again] Here. Here one hundred twelve dorrar! It's all I have. Yeh take!\n",
+    "output": "[confused] Huh?\n"
+  },
+  {
+    "input": "[confused] Huh?\n",
+    "output": "You take! Uh one hundred twelve dorrar!\n"
+  },
+  {
+    "input": "You take! Uh one hundred twelve dorrar!\n",
+    "output": "Ah- are you sure?\n"
+  },
+  {
+    "input": "Ah- are you sure?\n",
+    "output": "I no want no trouble. Just take it and leave!\n"
+  },
+  {
+    "input": "I no want no trouble. Just take it and leave!\n",
+    "output": "[approaches the counter. Mr. Kim goes about preparing the food order] Well gee, that's really nice of you, Mr. ...Chinese person. [gets the money and shows it to Timmy] Look Tim-Tim, we got a cash prize. We must be the ...one hundredth customer or something.\n"
+  },
+  {
+    "input": "[approaches the counter. Mr. Kim goes about preparing the food order] Well gee, that's really nice of you, Mr. ...Chinese person. [gets the money and shows it to Timmy] Look Tim-Tim, we got a cash prize. We must be the ...one hundredth customer or something.\n",
+    "output": "Here! Here two order of Kung Pao Chicken, and small ice tea!\n"
+  },
+  {
+    "input": "Here! Here two order of Kung Pao Chicken, and small ice tea!\n",
+    "output": "Actually, it was a regular lemonade.\n"
+  },
+  {
+    "input": "Actually, it was a regular lemonade.\n",
+    "output": "[mortified at his error] AAAAAGH-agh!! [bows] I sorry! I sorry! I no want no trouble. [reaches for a cup and prepares a regular lemonade] Here. Remonade. [sets it on the counter. Jimmy reaches for it] Now go, just go!\n"
+  },
+  {
+    "input": "[mortified at his error] AAAAAGH-agh!! [bows] I sorry! I sorry! I no want no trouble. [reaches for a cup and prepares a regular lemonade] Here. Remonade. [sets it on the counter. Jimmy reaches for it] Now go, just go!\n",
+    "output": "Gee, thanks a lot. See you next time.\n"
+  },
+  {
+    "input": "Gee, thanks a lot. See you next time.\n",
+    "output": "[smiles] Timmih!\n"
+  },
+  {
+    "input": "[smiles] Timmih!\n",
+    "output": "[soon lowers his arms and places a call] Hello! Police? I've just been robbed by two gang members!\n[Jimmy's house, later. His parents are standing by the kitchen's breakfast nook sipping coffee. A door opens in the living room, then closes.]\n"
+  },
+  {
+    "input": "[soon lowers his arms and places a call] Hello! Police? I've just been robbed by two gang members!\n[Jimmy's house, later. His parents are standing by the kitchen's breakfast nook sipping coffee. A door opens in the living room, then closes.]\n",
+    "output": "Jimmy? Jimmy, could you come into the kitchen please?\n"
+  },
+  {
+    "input": "Jimmy? Jimmy, could you come into the kitchen please?\n",
+    "output": "[enters] Yo, Mamsie. What's up, Pops?\n"
+  },
+  {
+    "input": "[enters] Yo, Mamsie. What's up, Pops?\n",
+    "output": "Uh have a seat, Jim. Your mother and I need to talk to you. [Jimmy approaches a chair and struggles to climb up on it. He gets no help from his parents. He succeeds in climbing the chair, then in sitting upright. He settles down.] Son, your mother and I have noticed a change in your behavior. And... we're worried that you might be involved in a gang.\n"
+  },
+  {
+    "input": "Uh have a seat, Jim. Your mother and I need to talk to you. [Jimmy approaches a chair and struggles to climb up on it. He gets no help from his parents. He succeeds in climbing the chair, then in sitting upright. He settles down.] Son, your mother and I have noticed a change in your behavior. And... we're worried that you might be involved in a gang.\n",
+    "output": "A what? Oh, you mean the fellas. Well sure. But I can't talk about the club on account of its sssuper secret, dawg.\n"
+  },
+  {
+    "input": "A what? Oh, you mean the fellas. Well sure. But I can't talk about the club on account of its sssuper secret, dawg.\n",
+    "output": "Then it's true! Oh, Ryan, it's true! [buries her face in Ryan's chest and sobs uncontrollably]\n"
+  },
+  {
+    "input": "Then it's true! Oh, Ryan, it's true! [buries her face in Ryan's chest and sobs uncontrollably]\n",
+    "output": "Why you be trippin', Mom? I mean [enunciates the nest two words] come on. I'm finally a part of something, very much.\n"
+  },
+  {
+    "input": "Why you be trippin', Mom? I mean [enunciates the nest two words] come on. I'm finally a part of something, very much.\n",
+    "output": "Jimmy, those people you're hanging out with are no good.\n"
+  },
+  {
+    "input": "Jimmy, those people you're hanging out with are no good.\n",
+    "output": "Yo, don't be dissing my n***as, dawg. They're my f-friends.\n"
+  },
+  {
+    "input": "Yo, don't be dissing my n***as, dawg. They're my f-friends.\n",
+    "output": "And what about your standup comedy, Jim, huh? Are you just giving up on that, too?\n"
+  },
+  {
+    "input": "And what about your standup comedy, Jim, huh? Are you just giving up on that, too?\n",
+    "output": "[now naturally] Nobody cared about my standup comedy! All that hard work just to be outshined by C-Christopher Reeve the super b-butthole!\n"
+  },
+  {
+    "input": "[now naturally] Nobody cared about my standup comedy! All that hard work just to be outshined by C-Christopher Reeve the super b-butthole!\n",
+    "output": "Uh Jimmy, we've told you before. God made you the way he did for a reason!\n"
+  },
+  {
+    "input": "Uh Jimmy, we've told you before. God made you the way he did for a reason!\n",
+    "output": "Right. Because you and Mom used to make fun of crippled kids in high school.\n"
+  },
+  {
+    "input": "Right. Because you and Mom used to make fun of crippled kids in high school.\n",
+    "output": "That's right. You were sent here through the vengeful and angry hand of God to teach your mother and I a lesson. And that's a big responsibility, son.\n"
+  },
+  {
+    "input": "That's right. You were sent here through the vengeful and angry hand of God to teach your mother and I a lesson. And that's a big responsibility, son.\n",
+    "output": "Look! My gang, which I can't talk about because it's super secret, is the most important thing to me now! And if you two don't like it, you can just pass the blunt to the n***a on your left. [hops off the chair and ambles off. His mom sobs again. Ryan holds her]\n[A darkened lab. Christopher Reeve is pacing back and forth, having a headache.]\n"
+  },
+  {
+    "input": "Look! My gang, which I can't talk about because it's super secret, is the most important thing to me now! And if you two don't like it, you can just pass the blunt to the n***a on your left. [hops off the chair and ambles off. His mom sobs again. Ryan holds her]\n[A darkened lab. Christopher Reeve is pacing back and forth, having a headache.]\n",
+    "output": "Where's that delivery of new fetuses?! Feeling weak again.\n"
+  },
+  {
+    "input": "Where's that delivery of new fetuses?! Feeling weak again.\n",
+    "output": "[rushes in with a fresh delivery] Here's the new shipment, sir. [Reeve lunges for the box and rips it out of the aide's hands, pushing the aide away] Hey! [Reeve tears into the box, opens the cooler, grabs a fetus, and starts sucking its juices out. A few seconds later, a door at the far wall opens]\n"
+  },
+  {
+    "input": "[rushes in with a fresh delivery] Here's the new shipment, sir. [Reeve lunges for the box and rips it out of the aide's hands, pushing the aide away] Hey! [Reeve tears into the box, opens the cooler, grabs a fetus, and starts sucking its juices out. A few seconds later, a door at the far wall opens]\n",
+    "output": "Hello there, Christopher. [Reeve is upset that he's been disturbed, but turns around and turns pleasant]\n"
+  },
+  {
+    "input": "Hello there, Christopher. [Reeve is upset that he's been disturbed, but turns around and turns pleasant]\n",
+    "output": "Well, well, Gene Hackman, my nemesis from the movies. How are you?\n"
+  },
+  {
+    "input": "Well, well, Gene Hackman, my nemesis from the movies. How are you?\n",
+    "output": "I'm good. You?\n"
+  },
+  {
+    "input": "I'm good. You?\n",
+    "output": "I am better with each passing day. [turns around and pulls out another fetus] Stronger and more agile. [sucks its juices out as Hackman looks on]\n"
+  },
+  {
+    "input": "I am better with each passing day. [turns around and pulls out another fetus] Stronger and more agile. [sucks its juices out as Hackman looks on]\n",
+    "output": "Christopher, I've come to ask you to stop what you're doing?\n"
+  },
+  {
+    "input": "Christopher, I've come to ask you to stop what you're doing?\n",
+    "output": "[with fetus still on his lips] What?\n"
+  },
+  {
+    "input": "[with fetus still on his lips] What?\n",
+    "output": "Using stem cells is like playing God. You should leave nature alone.\n"
+  },
+  {
+    "input": "Using stem cells is like playing God. You should leave nature alone.\n",
+    "output": "And go back to the way I was? Is that what you're saying, Hackman?\n"
+  },
+  {
+    "input": "And go back to the way I was? Is that what you're saying, Hackman?\n",
+    "output": "I'm saying that sometimes you need to just live with the cards you're dealt, Christopher.\n"
+  },
+  {
+    "input": "I'm saying that sometimes you need to just live with the cards you're dealt, Christopher.\n",
+    "output": "[raises his arms in a fit of rage, then turns away] Stop calling me Christopher! That name no longer has meaning to me! Christopher was someone who lived in a wheelchair! Always being pushed around by others! The old Christopher Reeve is dead! From now on, I am... [looks back menacingly] Chris!\n[Jimmy's house, night, living room. He sits on the floor between the couch and the coffee table working on a jigsaw puzzle.]\n"
+  },
+  {
+    "input": "[raises his arms in a fit of rage, then turns away] Stop calling me Christopher! That name no longer has meaning to me! Christopher was someone who lived in a wheelchair! Always being pushed around by others! The old Christopher Reeve is dead! From now on, I am... [looks back menacingly] Chris!\n[Jimmy's house, night, living room. He sits on the floor between the couch and the coffee table working on a jigsaw puzzle.]\n",
+    "output": "Sixty-five... bottles of... beer on the wall. Six- [outside, a car rolls up to the house slowly. Four Bloods look at the house, all of them with masks on]\n"
+  },
+  {
+    "input": "Sixty-five... bottles of... beer on the wall. Six- [outside, a car rolls up to the house slowly. Four Bloods look at the house, all of them with masks on]\n",
+    "output": "[front passenger side] Payback time, mothafucka! [the Bloods starts spraying the house with bullets]\n"
+  },
+  {
+    "input": "[front passenger side] Payback time, mothafucka! [the Bloods starts spraying the house with bullets]\n",
+    "output": "[looks around as the bullets tear up the windows] Jesus Christ! [dives to the floor and crawls to the other side of the table, then rises up.] Holy G...guacamole! [the bullets start tearing up the couch and the front door. Jimmy dives to the floor, then rises up a few seconds later.] Freakin' Frijoles! [dives to the floor again. The front door is gone and the couch's stuffing is all over the place. Its springs pop out. The right-side portrait next to the door falls. The bullets stop, and Jimmy rises once again] Leapin' L-langosta. [the left-side portrait falls]\n"
+  },
+  {
+    "input": "[looks around as the bullets tear up the windows] Jesus Christ! [dives to the floor and crawls to the other side of the table, then rises up.] Holy G...guacamole! [the bullets start tearing up the couch and the front door. Jimmy dives to the floor, then rises up a few seconds later.] Freakin' Frijoles! [dives to the floor again. The front door is gone and the couch's stuffing is all over the place. Its springs pop out. The right-side portrait next to the door falls. The bullets stop, and Jimmy rises once again] Leapin' L-langosta. [the left-side portrait falls]\n",
+    "output": "East Side Bloods! [the Bloods drop back into their car and peel off. Some time later, Officer Barbrady and his men show up to take reports and check out the crime scene. Timmy has returned to be with Jimmy. Two people walk up to the Swansons]\n"
+  },
+  {
+    "input": "East Side Bloods! [the Bloods drop back into their car and peel off. Some time later, Officer Barbrady and his men show up to take reports and check out the crime scene. Timmy has returned to be with Jimmy. Two people walk up to the Swansons]\n",
+    "output": "We're Detectives Hyde and Richardson from the Special Gang unit in Denver.\n"
+  },
+  {
+    "input": "We're Detectives Hyde and Richardson from the Special Gang unit in Denver.\n",
+    "output": "Any word on who shot up me and Timmy's houses, officer?\n"
+  },
+  {
+    "input": "Any word on who shot up me and Timmy's houses, officer?\n",
+    "output": "Word on the street is it was a retaliation hit by the Bloods.\n"
+  },
+  {
+    "input": "Word on the street is it was a retaliation hit by the Bloods.\n",
+    "output": "The... B-Bloods?\n"
+  },
+  {
+    "input": "The... B-Bloods?\n",
+    "output": "You know, smart-mouth! Your rival gang! The Bloods are at war with the Crips, they kill each other all the time!\n"
+  },
+  {
+    "input": "You know, smart-mouth! Your rival gang! The Bloods are at war with the Crips, they kill each other all the time!\n",
+    "output": "The-they do??\n"
+  },
+  {
+    "input": "The-they do??\n",
+    "output": "Don't act like you don't know, you lil' punk! The Crips and Bloods hate each other, and if you stay in that gang, you're gonna end up dead too.\n"
+  },
+  {
+    "input": "Don't act like you don't know, you lil' punk! The Crips and Bloods hate each other, and if you stay in that gang, you're gonna end up dead too.\n",
+    "output": "But... but why do they hate each other?\n"
+  },
+  {
+    "input": "But... but why do they hate each other?\n",
+    "output": "Look kid, I used to be a Crip myself, but I'm not anymore!\n"
+  },
+  {
+    "input": "Look kid, I used to be a Crip myself, but I'm not anymore!\n",
+    "output": "Oh, so you used sssytemm cells like Christopher Reeve?\n"
+  },
+  {
+    "input": "Oh, so you used sssytemm cells like Christopher Reeve?\n",
+    "output": "[realizes this conversation is fruitless] Come on. The only way these kids are gonna get out of their gang is get killed. [the detectives leave. Jim's mom begins to sob and then runs into the house.]\n"
+  },
+  {
+    "input": "[realizes this conversation is fruitless] Come on. The only way these kids are gonna get out of their gang is get killed. [the detectives leave. Jim's mom begins to sob and then runs into the house.]\n",
+    "output": "[follows her in] Sarah!\n"
+  },
+  {
+    "input": "[follows her in] Sarah!\n",
+    "output": "[begins to pace before Timmy] Oh boy, Timmy, we should have never started a gang for people crippled from birth. Now they're at war with the people who are crippled from an accident. Boy were we wrong.\n"
+  },
+  {
+    "input": "[begins to pace before Timmy] Oh boy, Timmy, we should have never started a gang for people crippled from birth. Now they're at war with the people who are crippled from an accident. Boy were we wrong.\n",
+    "output": "[agreeing] Tim-mih.\n"
+  },
+  {
+    "input": "[agreeing] Tim-mih.\n",
+    "output": "Wow, w-we've got to do something, Timmy. We've gotta get the Crips and Bloods to s-stop fighting. I bet if we could just get them together... but how? Wu-wait a minute! I've got it! A lock-in at the rec center! We did it for our church once. All we do is rent out the rec center overnight. They lock the doors so nobody can leave, and then everyone has the whole night to play in the swimming pool and laugh and talk.\n"
+  },
+  {
+    "input": "Wow, w-we've got to do something, Timmy. We've gotta get the Crips and Bloods to s-stop fighting. I bet if we could just get them together... but how? Wu-wait a minute! I've got it! A lock-in at the rec center! We did it for our church once. All we do is rent out the rec center overnight. They lock the doors so nobody can leave, and then everyone has the whole night to play in the swimming pool and laugh and talk.\n",
+    "output": "Timmih!!\n"
+  },
+  {
+    "input": "Timmih!!\n",
+    "output": "You get all the Crips you can to the rec center tomorrow night, Timmy. And I'll try to get all the ...Bloods there.\n"
+  },
+  {
+    "input": "You get all the Crips you can to the rec center tomorrow night, Timmy. And I'll try to get all the ...Bloods there.\n",
+    "output": "Timmih!!\n"
+  },
+  {
+    "input": "Timmih!!\n",
+    "output": "This is gonna be t-terrific!\n[South Park, next day, in front of Tom's Rhinoplasty.]\n"
+  },
+  {
+    "input": "This is gonna be t-terrific!\n[South Park, next day, in front of Tom's Rhinoplasty.]\n",
+    "output": "[same as before] Tom, several years ago, actor Christopher Reeve had a horrible accident and was paralyzed. The irony, of course, is that the man who played Superman could no longer walk. America watched in wonder as he managed to move one of his fingers, then his arms. And now, seen for the first time on HBC, Christopher Reeve is going to lift a truck up over his head. [Christopher walks over to a green truck and lifts the front end up over his head. The crowd oohs and claps for him]\n"
+  },
+  {
+    "input": "[same as before] Tom, several years ago, actor Christopher Reeve had a horrible accident and was paralyzed. The irony, of course, is that the man who played Superman could no longer walk. America watched in wonder as he managed to move one of his fingers, then his arms. And now, seen for the first time on HBC, Christopher Reeve is going to lift a truck up over his head. [Christopher walks over to a green truck and lifts the front end up over his head. The crowd oohs and claps for him]\n",
+    "output": "Oh, what a fighter.\n"
+  },
+  {
+    "input": "Oh, what a fighter.\n",
+    "output": "That brave, brave man.\n"
+  },
+  {
+    "input": "That brave, brave man.\n",
+    "output": "He's an inspiration to us all.\n"
+  },
+  {
+    "input": "He's an inspiration to us all.\n",
+    "output": "Tom, the irony is even more irony-y as it appears that the stem cells have given Christopher Reeve almost superhuman strength.\n"
+  },
+  {
+    "input": "Tom, the irony is even more irony-y as it appears that the stem cells have given Christopher Reeve almost superhuman strength.\n",
+    "output": "[appears with a crowd of people] Chris, that's enough!\n"
+  },
+  {
+    "input": "[appears with a crowd of people] Chris, that's enough!\n",
+    "output": "[looks at Hackman and drops the truck] Hello, Gene! So good to see you!\n"
+  },
+  {
+    "input": "[looks at Hackman and drops the truck] Hello, Gene! So good to see you!\n",
+    "output": "You're cured, Chris. It's time to stop using stem cells.\n"
+  },
+  {
+    "input": "You're cured, Chris. It's time to stop using stem cells.\n",
+    "output": "Stem-cell research has made me stronger than I ever thought possible! Why stop now?!\n"
+  },
+  {
+    "input": "Stem-cell research has made me stronger than I ever thought possible! Why stop now?!\n",
+    "output": "Uh Tom, apparently, Gene Hackman, the man who played Superman's enemy Lex Luthor in the movies, has now shown up as a celebrity protester of stem-cell research. If that isn't ironic, Tom, I don't know what is.\n"
+  },
+  {
+    "input": "Uh Tom, apparently, Gene Hackman, the man who played Superman's enemy Lex Luthor in the movies, has now shown up as a celebrity protester of stem-cell research. If that isn't ironic, Tom, I don't know what is.\n",
+    "output": "They're affecting your mind, Chris. If you won't stop using stem cells, then we'll stop you!\n"
+  },
+  {
+    "input": "They're affecting your mind, Chris. If you won't stop using stem cells, then we'll stop you!\n",
+    "output": "Stop me?! Stop me?! HA!! [reaches over, picks up the truck clear over his head, and throws it at Hackman. Hackman and his crowd jump clear of the truck's path, screaming. The truck lands upside down where the crown stood. Reeve then runs down the street and onto a car] You won't stop me, Hack Man! [runs off the truck and jumps away maniacally] Ha HA! Ha HA! Ha haa haa! [jumps higher and higher until he clears buildings with each jump] Ya ha ha! Yaa haha!\n"
+  },
+  {
+    "input": "Stop me?! Stop me?! HA!! [reaches over, picks up the truck clear over his head, and throws it at Hackman. Hackman and his crowd jump clear of the truck's path, screaming. The truck lands upside down where the crown stood. Reeve then runs down the street and onto a car] You won't stop me, Hack Man! [runs off the truck and jumps away maniacally] Ha HA! Ha HA! Ha haa haa! [jumps higher and higher until he clears buildings with each jump] Ya ha ha! Yaa haha!\n",
+    "output": "Tom, if irony were made of strawberries, we'd all be drinking a lot of smoothies right now.\n[Denver Recreation Center, night. Gang members file through the doors. Jimmy and Timmy greet everyone at the door. Timmy is disguised as Groucho Marx, Jimmy wears a ten-gallon hat.]\n"
+  },
+  {
+    "input": "Tom, if irony were made of strawberries, we'd all be drinking a lot of smoothies right now.\n[Denver Recreation Center, night. Gang members file through the doors. Jimmy and Timmy greet everyone at the door. Timmy is disguised as Groucho Marx, Jimmy wears a ten-gallon hat.]\n",
+    "output": "Come on in, everybody. Lots of su-surprises and t-treats inside. [the last of the guests enter] Great to see you all. What a terrific audience.\n"
+  },
+  {
+    "input": "Come on in, everybody. Lots of su-surprises and t-treats inside. [the last of the guests enter] Great to see you all. What a terrific audience.\n",
+    "output": "[an elderly man soon exits] Are you sure you got everything you need, young man?\n"
+  },
+  {
+    "input": "[an elderly man soon exits] Are you sure you got everything you need, young man?\n",
+    "output": "We sure do. Thanks, Mr. Apple...b-by.\n"
+  },
+  {
+    "input": "We sure do. Thanks, Mr. Apple...b-by.\n",
+    "output": "Just remember to make sure the kids play safe in the pool area.\n"
+  },
+  {
+    "input": "Just remember to make sure the kids play safe in the pool area.\n",
+    "output": "You bet. [he and Timmy move around him and into the center]\n"
+  },
+  {
+    "input": "You bet. [he and Timmy move around him and into the center]\n",
+    "output": "I'll be back at seven to let you out. You kids have a good time.\n"
+  },
+  {
+    "input": "I'll be back at seven to let you out. You kids have a good time.\n",
+    "output": "Oh, we will. [Mr. Appleby closes the door and locks it.]\n[Denver Recreation Center, inside. A group of Bloods enter the gym and stop in their tracks. At the other end of the gym is a group of Crips, seated on some bleachers behind a basketball hoop. The Crips stand in reply.]\n"
+  },
+  {
+    "input": "Oh, we will. [Mr. Appleby closes the door and locks it.]\n[Denver Recreation Center, inside. A group of Bloods enter the gym and stop in their tracks. At the other end of the gym is a group of Crips, seated on some bleachers behind a basketball hoop. The Crips stand in reply.]\n",
+    "output": "The Bloods!\n"
+  },
+  {
+    "input": "The Bloods!\n",
+    "output": "Oh shit! It's a trap!\n"
+  },
+  {
+    "input": "Oh shit! It's a trap!\n",
+    "output": "Muthafuckin Crips tryin' to smoke us all out!\n"
+  },
+  {
+    "input": "Muthafuckin Crips tryin' to smoke us all out!\n",
+    "output": "What the hell is goin' on here? [Jimmy and Timmy step into the middle ground between the two gangs]\n"
+  },
+  {
+    "input": "What the hell is goin' on here? [Jimmy and Timmy step into the middle ground between the two gangs]\n",
+    "output": "It's called a lock-in at the rec center. We can use all the rec center facilities. We can play basketball, go swimming, or even just kick it in the lounge area with some games and ...p-puzzles.\n"
+  },
+  {
+    "input": "It's called a lock-in at the rec center. We can use all the rec center facilities. We can play basketball, go swimming, or even just kick it in the lounge area with some games and ...p-puzzles.\n",
+    "output": "Timmih!\n"
+  },
+  {
+    "input": "Timmih!\n",
+    "output": "But nobody can leave until it's seven a.m., so if you wanna have a good time, you're all just gonna have to learn to get along. [immediately, both sides draw weapons and aim them at each other. Once all the weapons are out...] Theeerrre's pizzaaa.\n[Nighttime, near the city. The reporter stands next to a man-made lake.]\n"
+  },
+  {
+    "input": "But nobody can leave until it's seven a.m., so if you wanna have a good time, you're all just gonna have to learn to get along. [immediately, both sides draw weapons and aim them at each other. Once all the weapons are out...] Theeerrre's pizzaaa.\n[Nighttime, near the city. The reporter stands next to a man-made lake.]\n",
+    "output": "Tom, over five years ago, doctors told Christopher Reeve that he would never walk again, but the resilient actor fought back, struggled against all odds, and has now built his very own Legion of Doom! [Its headquarters now appears behind him] The once immobile Mr. Reeve's new organization will be committed to world domination and evil. What an inspirational story, Tom.\n[Legion of Doom Headquarters, inside. Christopher Reeve is standing before a group of villains, both real and imagined.]\n"
+  },
+  {
+    "input": "Tom, over five years ago, doctors told Christopher Reeve that he would never walk again, but the resilient actor fought back, struggled against all odds, and has now built his very own Legion of Doom! [Its headquarters now appears behind him] The once immobile Mr. Reeve's new organization will be committed to world domination and evil. What an inspirational story, Tom.\n[Legion of Doom Headquarters, inside. Christopher Reeve is standing before a group of villains, both real and imagined.]\n",
+    "output": "I have chosen each member of this elite group of supervillains for their outstanding treachery, [Osama bin Laden and Dr. Doom are shown, then Blank Manta and Saddam Hussein] Their desire for world conquest, [Cheetah, Kim Jong-il, and David Blaine are shown] and their hatred of all things good! [Professor Chaos is shown] And I've assembled this group for one purpose! To once and for all find a way to... [the picture behind him changes from a fist smashing Earth to a picture of Gene Hackman] get rid of Hack Man!! [laughs maniacally for effect, but no other villain moves]\n"
+  },
+  {
+    "input": "I have chosen each member of this elite group of supervillains for their outstanding treachery, [Osama bin Laden and Dr. Doom are shown, then Blank Manta and Saddam Hussein] Their desire for world conquest, [Cheetah, Kim Jong-il, and David Blaine are shown] and their hatred of all things good! [Professor Chaos is shown] And I've assembled this group for one purpose! To once and for all find a way to... [the picture behind him changes from a fist smashing Earth to a picture of Gene Hackman] get rid of Hack Man!! [laughs maniacally for effect, but no other villain moves]\n",
+    "output": "Uhhh, how about domination of the world?\n"
+  },
+  {
+    "input": "Uhhh, how about domination of the world?\n",
+    "output": "Yeah. Or uh, death to the infidels?\n"
+  },
+  {
+    "input": "Yeah. Or uh, death to the infidels?\n",
+    "output": "Silence! OUR job is to see to it that Hack Man is put out of commission.\n"
+  },
+  {
+    "input": "Silence! OUR job is to see to it that Hack Man is put out of commission.\n",
+    "output": "Oh boy, General Disarray, may- maybe we just ought to stay outta this one.\n"
+  },
+  {
+    "input": "Oh boy, General Disarray, may- maybe we just ought to stay outta this one.\n",
+    "output": "[bursts through the doors with his supporters] Not so fast, Chris!\n"
+  },
+  {
+    "input": "[bursts through the doors with his supporters] Not so fast, Chris!\n",
+    "output": "[sucking on yet another fetus] Hack Man!\n"
+  },
+  {
+    "input": "[sucking on yet another fetus] Hack Man!\n",
+    "output": "We just helped pass a ban on stem-cell research. Your fetus-sucking days are over!\n"
+  },
+  {
+    "input": "We just helped pass a ban on stem-cell research. Your fetus-sucking days are over!\n",
+    "output": "No... [grabs his head in frustration] NOOOO!\n"
+  },
+  {
+    "input": "No... [grabs his head in frustration] NOOOO!\n",
+    "output": "And now we're going to put you somewhere where you can never touch another fetus again!\n[Denver Recreation Center, inside. The Bloods and Crips challenge each other.]\n"
+  },
+  {
+    "input": "And now we're going to put you somewhere where you can never touch another fetus again!\n[Denver Recreation Center, inside. The Bloods and Crips challenge each other.]\n",
+    "output": "You stupid mofos are dead!\n"
+  },
+  {
+    "input": "You stupid mofos are dead!\n",
+    "output": "Make the first shot, punk!\n"
+  },
+  {
+    "input": "Make the first shot, punk!\n",
+    "output": "Hold it! Don't you see? It doesn't matter if we were crippled from birth, or crippled in an accident. We're all brothers.\n"
+  },
+  {
+    "input": "Hold it! Don't you see? It doesn't matter if we were crippled from birth, or crippled in an accident. We're all brothers.\n",
+    "output": "Save it, fool! Crips ain't our brothers! [the atmosphere grows tense]\n"
+  },
+  {
+    "input": "Save it, fool! Crips ain't our brothers! [the atmosphere grows tense]\n",
+    "output": "Look, we have the whole rec room to ourselves. Can't we all just try having some fun together?\n"
+  },
+  {
+    "input": "Look, we have the whole rec room to ourselves. Can't we all just try having some fun together?\n",
+    "output": "You talkin' crazy, dawg.\n"
+  },
+  {
+    "input": "You talkin' crazy, dawg.\n",
+    "output": "Yeah, we ain't playin', sucka!\n"
+  },
+  {
+    "input": "Yeah, we ain't playin', sucka!\n",
+    "output": "Why don't we at least give it a chance? I mean, [enunciates] Come on! [several tense seconds pass]\n"
+  },
+  {
+    "input": "Why don't we at least give it a chance? I mean, [enunciates] Come on! [several tense seconds pass]\n",
+    "output": "Wait a minute. What did you say?\n"
+  },
+  {
+    "input": "Wait a minute. What did you say?\n",
+    "output": "I said, \"I mean, [enunciates] Come on!\"\n"
+  },
+  {
+    "input": "I said, \"I mean, [enunciates] Come on!\"\n",
+    "output": "You know, maybe he's right. I mean, [enunciates] Come on!\n"
+  },
+  {
+    "input": "You know, maybe he's right. I mean, [enunciates] Come on!\n",
+    "output": "[enunciates] Come on.\n"
+  },
+  {
+    "input": "[enunciates] Come on.\n",
+    "output": "I guess we could at least give havin' fun together a try. It's like [enunciates] Come on.\n"
+  },
+  {
+    "input": "I guess we could at least give havin' fun together a try. It's like [enunciates] Come on.\n",
+    "output": "Yeah. Come on.\n"
+  },
+  {
+    "input": "Yeah. Come on.\n",
+    "output": "Yeah, that's right. Come on.\n"
+  },
+  {
+    "input": "Yeah, that's right. Come on.\n",
+    "output": "Come on.\n"
+  },
+  {
+    "input": "Come on.\n",
+    "output": "Come on.\n"
+  },
+  {
+    "input": "Come on.\n",
+    "output": "[in agreement] Yeah, that's right. Come on. [moments later rap music is playing, gang members gather in the pool and one prepares for a dive. In the gym gang members play basketball without arguing. One of them dances along the foul line. In another room gang members play pool. The camera stops at Jimmy and three members - two Crips and one Blood]\n"
+  },
+  {
+    "input": "[in agreement] Yeah, that's right. Come on. [moments later rap music is playing, gang members gather in the pool and one prepares for a dive. In the gym gang members play basketball without arguing. One of them dances along the foul line. In another room gang members play pool. The camera stops at Jimmy and three members - two Crips and one Blood]\n",
+    "output": "I've gotta give you two dawgs props for puttin' an end to all this hate.\n"
+  },
+  {
+    "input": "I've gotta give you two dawgs props for puttin' an end to all this hate.\n",
+    "output": "I told you, lock-ins at the rec center always work. And you know, I've learned something, too. I was player-hatin' Christopher Butthole Reeve because he got more attention than me. But just like... y-you guys, I need to learn to control my a... anger.\n"
+  },
+  {
+    "input": "I told you, lock-ins at the rec center always work. And you know, I've learned something, too. I was player-hatin' Christopher Butthole Reeve because he got more attention than me. But just like... y-you guys, I need to learn to control my a... anger.\n",
+    "output": "Right on!\n"
+  },
+  {
+    "input": "Right on!\n",
+    "output": "[walks up to Timmy] Hey little roller, try some of this chronic shit.\n"
+  },
+  {
+    "input": "[walks up to Timmy] Hey little roller, try some of this chronic shit.\n",
+    "output": "Timmih! [takes a hit. Both Crips and Bloods laugh]\n"
+  },
+  {
+    "input": "Timmih! [takes a hit. Both Crips and Bloods laugh]\n",
+    "output": "I guess we all learned that trying to get along is way better than p... player hatin'. [a song begins, and Jimmy approaches the camera] The gang wrote a song about it. Why don't we listen in?\n"
+  },
+  {
+    "input": "I guess we all learned that trying to get along is way better than p... player hatin'. [a song begins, and Jimmy approaches the camera] The gang wrote a song about it. Why don't we listen in?\n",
+    "output": "It used to be that Crips and Bloods didn't get along,\nBut now we're all a family, so we wrote this song.\nNaaa na naaa, Crips and Bloods. Naaa na naaa, hope and love.\nNaaa na naaa, friendly thugs.\n[Outer space. Christopher Reeve is flung into space in a pane of glass.]\n"
+  },
+  {
+    "input": "It used to be that Crips and Bloods didn't get along,\nBut now we're all a family, so we wrote this song.\nNaaa na naaa, Crips and Bloods. Naaa na naaa, hope and love.\nNaaa na naaa, friendly thugs.\n[Outer space. Christopher Reeve is flung into space in a pane of glass.]\n",
+    "output": "You haven't seen the last of me, Hack Man! I will be back!!\n[The woods near South Park, night. Stan and friends watch the celestial spectacle.]\n"
+  },
+  {
+    "input": "You haven't seen the last of me, Hack Man! I will be back!!\n[The woods near South Park, night. Stan and friends watch the celestial spectacle.]\n",
+    "output": "Dude, I am so glad we stayed out of that one.\n"
+  }
+]

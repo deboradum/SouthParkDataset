@@ -1,0 +1,1514 @@
+[
+  {
+    "input": "",
+    "output": "Gnomes\n\n[South Park Elementary. The class bell rings and the children are rowdy.]\n"
+  },
+  {
+    "input": "Gnomes\n\n[South Park Elementary. The class bell rings and the children are rowdy.]\n",
+    "output": "[entering] Settle down, children. I have some difficult news. This is going to make you all very sad. [the class is now seated] The school board is considering firing me as your teacher. There's a possibility that I will be let go and never allowed to teach you again. [Stan raises his hand] Yes, Stanley?\n"
+  },
+  {
+    "input": "[entering] Settle down, children. I have some difficult news. This is going to make you all very sad. [the class is now seated] The school board is considering firing me as your teacher. There's a possibility that I will be let go and never allowed to teach you again. [Stan raises his hand] Yes, Stanley?\n",
+    "output": "That's okay with us.\n"
+  },
+  {
+    "input": "That's okay with us.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Yeah, we don't care.\n"
+  },
+  {
+    "input": "Yeah, we don't care.\n",
+    "output": "Yeah, that's fine.\n"
+  },
+  {
+    "input": "Yeah, that's fine.\n",
+    "output": "No it isn't, it makes you very sad! Now, apparently, the school board thinks that I don't teach you anything about current events, so tomorrow they're going to have you do presentations for the whole board.\n"
+  },
+  {
+    "input": "No it isn't, it makes you very sad! Now, apparently, the school board thinks that I don't teach you anything about current events, so tomorrow they're going to have you do presentations for the whole board.\n",
+    "output": "Aawwww! [heads drop]\n"
+  },
+  {
+    "input": "Aawwww! [heads drop]\n",
+    "output": "[writes on the board] \"Current Events in South Park\". Now, I want you all to read a newspaper, or better yet, watch television, and come up with something current in South Park to do a report on.\n"
+  },
+  {
+    "input": "[writes on the board] \"Current Events in South Park\". Now, I want you all to read a newspaper, or better yet, watch television, and come up with something current in South Park to do a report on.\n",
+    "output": "Aawwww! [heads drop. Cartman is certainly vocal about it.]\n"
+  },
+  {
+    "input": "Aawwww! [heads drop. Cartman is certainly vocal about it.]\n",
+    "output": "Now, this'll be a group project, so I'm going to place you all into groups of five. Let's see, uh. Wendy, Bebe, Clyde, Pip, and Tolkien, you'll be Group 1, and Group 2 will be Stan, Kyle, Eric, Kenny, a-and, and Tweek.\n"
+  },
+  {
+    "input": "Now, this'll be a group project, so I'm going to place you all into groups of five. Let's see, uh. Wendy, Bebe, Clyde, Pip, and Tolkien, you'll be Group 1, and Group 2 will be Stan, Kyle, Eric, Kenny, a-and, and Tweek.\n",
+    "output": "[disheveled and really tweaked] AAAghah heheh.\n"
+  },
+  {
+    "input": "[disheveled and really tweaked] AAAghah heheh.\n",
+    "output": "[laments] Oh, not Tweek.\n"
+  },
+  {
+    "input": "[laments] Oh, not Tweek.\n",
+    "output": "We don't wanna be in a group with Tweek.\n"
+  },
+  {
+    "input": "We don't wanna be in a group with Tweek.\n",
+    "output": "There's nothing wrong with Tweek. I bet he'll do a great job in your group.\n"
+  },
+  {
+    "input": "There's nothing wrong with Tweek. I bet he'll do a great job in your group.\n",
+    "output": "I can't take that kind of pressure. No, Sweet Jesus, ple-hehease!\n"
+  },
+  {
+    "input": "I can't take that kind of pressure. No, Sweet Jesus, ple-hehease!\n",
+    "output": "Dude, we can't work with this kid.\n"
+  },
+  {
+    "input": "Dude, we can't work with this kid.\n",
+    "output": "Yuh-ugh!\n"
+  },
+  {
+    "input": "Yuh-ugh!\n",
+    "output": "That's what Chad Everett thought when the new female intern joined the cast of Medical Center. He thought, \"Who is this woman with her gazungas and high heels? What does she know about medicine?\" Well, that intern soon saved Chad Everett's brother with a kidney transplant. So, you see? [silence]\n"
+  },
+  {
+    "input": "That's what Chad Everett thought when the new female intern joined the cast of Medical Center. He thought, \"Who is this woman with her gazungas and high heels? What does she know about medicine?\" Well, that intern soon saved Chad Everett's brother with a kidney transplant. So, you see? [silence]\n",
+    "output": "No.\n"
+  },
+  {
+    "input": "No.\n",
+    "output": "Well, let me put it another way. You have to give your oral report to the entire South Park Town Committee tomorrow. And if it doesn't kick ass, and you make me look bad, Mr. Hat is gonna smack you bitches up!\n"
+  },
+  {
+    "input": "Well, let me put it another way. You have to give your oral report to the entire South Park Town Committee tomorrow. And if it doesn't kick ass, and you make me look bad, Mr. Hat is gonna smack you bitches up!\n",
+    "output": "Wagh!\n[South Park, downtown. Off to the right of Tom's Rhinoplasty is a coffee store: Tweek Bros. A businessman walks in with briefcase.]\n"
+  },
+  {
+    "input": "Wagh!\n[South Park, downtown. Off to the right of Tom's Rhinoplasty is a coffee store: Tweek Bros. A businessman walks in with briefcase.]\n",
+    "output": "Hello there, customer.\n"
+  },
+  {
+    "input": "Hello there, customer.\n",
+    "output": "Hello. How are you today?\n"
+  },
+  {
+    "input": "Hello. How are you today?\n",
+    "output": "Great. What can I get for you? Large coffee, small coffee? [motions to the menu]\n"
+  },
+  {
+    "input": "Great. What can I get for you? Large coffee, small coffee? [motions to the menu]\n",
+    "output": "I'm actually interested in something else. I'm John Postum from the Harbucks Coffee Corporation...\n"
+  },
+  {
+    "input": "I'm actually interested in something else. I'm John Postum from the Harbucks Coffee Corporation...\n",
+    "output": "Oh, you're that corporate guy who's been calling.\n"
+  },
+  {
+    "input": "Oh, you're that corporate guy who's been calling.\n",
+    "output": "That's right. How come you don't call me back? All we wanna do is buy out your coffee shop here.\n"
+  },
+  {
+    "input": "That's right. How come you don't call me back? All we wanna do is buy out your coffee shop here.\n",
+    "output": "Oh, forget it, my store is not for sale.\n"
+  },
+  {
+    "input": "Oh, forget it, my store is not for sale.\n",
+    "output": "My company's prepared to make you a veerry generous offer. [lifts the briefcase and opens it. It's empty, but he elaborates] This is a Cramsonite briefcase. All leather, it has four compartments and a keyless lock. Interested?\n"
+  },
+  {
+    "input": "My company's prepared to make you a veerry generous offer. [lifts the briefcase and opens it. It's empty, but he elaborates] This is a Cramsonite briefcase. All leather, it has four compartments and a keyless lock. Interested?\n",
+    "output": "Uh, I don't think so. My coffee shop is worth a lot to me.\n"
+  },
+  {
+    "input": "Uh, I don't think so. My coffee shop is worth a lot to me.\n",
+    "output": "Well, all right. [closes the briefcase and lifts up two money bag] How about $500,000?\n"
+  },
+  {
+    "input": "Well, all right. [closes the briefcase and lifts up two money bag] How about $500,000?\n",
+    "output": "The answer is still no, Mr. Postum. You see, when my father opened this store 30 years ago, he cared about only one thing: making a great cup of coffee. [moves to his left, towards a backdrop containing lovely rolling hills and a rainbow. A soothing acoustic tune comes up] Sure, we may take a little longer to brew a cup, and we may not call it fancy names, but I guess we just care a little more. [a cart of beans rolls up to him] And that's why Tweek Coffee is still home-brewed from the finest beans we can muster. Yes, Tweek Coffee is a simpler cup, for a simpler America.\n"
+  },
+  {
+    "input": "The answer is still no, Mr. Postum. You see, when my father opened this store 30 years ago, he cared about only one thing: making a great cup of coffee. [moves to his left, towards a backdrop containing lovely rolling hills and a rainbow. A soothing acoustic tune comes up] Sure, we may take a little longer to brew a cup, and we may not call it fancy names, but I guess we just care a little more. [a cart of beans rolls up to him] And that's why Tweek Coffee is still home-brewed from the finest beans we can muster. Yes, Tweek Coffee is a simpler cup, for a simpler America.\n",
+    "output": "Well, that's too bad. We're just gonna have to open our Harbucks right next door to you.\n"
+  },
+  {
+    "input": "Well, that's too bad. We're just gonna have to open our Harbucks right next door to you.\n",
+    "output": "[protesting] But that could put me out of business.\n"
+  },
+  {
+    "input": "[protesting] But that could put me out of business.\n",
+    "output": "Hey, this is a capitalist country, pal! Get used to it!\n[Postum leaves. Officer Barbrady enters.]\n"
+  },
+  {
+    "input": "Hey, this is a capitalist country, pal! Get used to it!\n[Postum leaves. Officer Barbrady enters.]\n",
+    "output": "[sees Postum leaving] Hello, Mr. Tweek.\n"
+  },
+  {
+    "input": "[sees Postum leaving] Hello, Mr. Tweek.\n",
+    "output": "Hi, Officer Barbrady.\n"
+  },
+  {
+    "input": "Hi, Officer Barbrady.\n",
+    "output": "Who was that?\n"
+  },
+  {
+    "input": "Who was that?\n",
+    "output": "Oh, just some dong. What can I get for you.\n"
+  },
+  {
+    "input": "Oh, just some dong. What can I get for you.\n",
+    "output": "The usual.\n[Richard pulls out a brown cat from behind the counter and slaps him with it.]\n[Barbrady leaves as he closes the door.]\n"
+  },
+  {
+    "input": "The usual.\n[Richard pulls out a brown cat from behind the counter and slaps him with it.]\n[Barbrady leaves as he closes the door.]\n",
+    "output": "Bye-bye.\n[South Park Elementary. The class is now in groups of five. Tweek is still wired.]\n"
+  },
+  {
+    "input": "Bye-bye.\n[South Park Elementary. The class is now in groups of five. Tweek is still wired.]\n",
+    "output": "Okay, we have to do this stupid report, so--\n"
+  },
+  {
+    "input": "Okay, we have to do this stupid report, so--\n",
+    "output": "[twitching and closing his right eye] AAAaaagh. Ugh, ugh, huh, aarrrnnn. Aaarrrhaharn.\n"
+  },
+  {
+    "input": "[twitching and closing his right eye] AAAaaagh. Ugh, ugh, huh, aarrrnnn. Aaarrrhaharn.\n",
+    "output": "Sooo, let's figure out what to do it about.\n[Shots of Kyle, Kenny, then Cartman.]\n"
+  },
+  {
+    "input": "Sooo, let's figure out what to do it about.\n[Shots of Kyle, Kenny, then Cartman.]\n",
+    "output": "How about we do it on that Raymond guy on TV, you know, Everybody Loves Raymond.\n"
+  },
+  {
+    "input": "How about we do it on that Raymond guy on TV, you know, Everybody Loves Raymond.\n",
+    "output": "[angry] No, Cartman, we can't do it on Raymond again! It has to be on a current event in South Park. Tweek, do you have any ideas?\n[Stan gets alarmed.]\n"
+  },
+  {
+    "input": "[angry] No, Cartman, we can't do it on Raymond again! It has to be on a current event in South Park. Tweek, do you have any ideas?\n[Stan gets alarmed.]\n",
+    "output": "Uuurrnnn, too much pressure!\n"
+  },
+  {
+    "input": "Uuurrnnn, too much pressure!\n",
+    "output": "Great. A lot of help you are, kid.\n"
+  },
+  {
+    "input": "Great. A lot of help you are, kid.\n",
+    "output": "The gnomes!\n"
+  },
+  {
+    "input": "The gnomes!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "[gritting his teeth] We can do our report on the gnomes.\n"
+  },
+  {
+    "input": "[gritting his teeth] We can do our report on the gnomes.\n",
+    "output": "What gnomes?\n"
+  },
+  {
+    "input": "What gnomes?\n",
+    "output": "The underpants gnomes. The little guys that, that come into your room late, late at night and steal your underpants.\n[Shots of Kyle, Stan, then Cartman looking at Tweek.]\n"
+  },
+  {
+    "input": "The underpants gnomes. The little guys that, that come into your room late, late at night and steal your underpants.\n[Shots of Kyle, Stan, then Cartman looking at Tweek.]\n",
+    "output": "Oh, so that's where all my underpants go.\n"
+  },
+  {
+    "input": "Oh, so that's where all my underpants go.\n",
+    "output": "Dude, that's the dumbest thing I've ever heard.\n"
+  },
+  {
+    "input": "Dude, that's the dumbest thing I've ever heard.\n",
+    "output": "Yeah, I've never seen any underpants gnomes.\n"
+  },
+  {
+    "input": "Yeah, I've never seen any underpants gnomes.\n",
+    "output": "They come out at 3:30 in the morning. Most people aren't up then, but I am. I can't sleep. Ever.\n"
+  },
+  {
+    "input": "They come out at 3:30 in the morning. Most people aren't up then, but I am. I can't sleep. Ever.\n",
+    "output": "Dude, we can't do a presentation on underpants gnomes. Mr. Garrison will fail us because you're making it up.\n"
+  },
+  {
+    "input": "Dude, we can't do a presentation on underpants gnomes. Mr. Garrison will fail us because you're making it up.\n",
+    "output": "No!! Sleep at my house tonight; I'll prove it to you.\n[The Tweak house that night. Richard Tweak and his wife are in the kitchen. They have three coffeemakers going on at once. Coffee mugs are everywhere.]\n"
+  },
+  {
+    "input": "No!! Sleep at my house tonight; I'll prove it to you.\n[The Tweak house that night. Richard Tweak and his wife are in the kitchen. They have three coffeemakers going on at once. Coffee mugs are everywhere.]\n",
+    "output": "They want me to sell the store, and it's so much money.\n"
+  },
+  {
+    "input": "They want me to sell the store, and it's so much money.\n",
+    "output": "Some things are more important than money. [turns around] The people of South Park count on you to give them that first cup of coffee every day.\n"
+  },
+  {
+    "input": "Some things are more important than money. [turns around] The people of South Park count on you to give them that first cup of coffee every day.\n",
+    "output": "I know, but if they open a Harbucks right next door, we might go out of business. They really have my balls in a vice grip.\n[Tweek and the boys enter.]\n"
+  },
+  {
+    "input": "I know, but if they open a Harbucks right next door, we might go out of business. They really have my balls in a vice grip.\n[Tweek and the boys enter.]\n",
+    "output": "Oh, hello, son. How was your day?\n"
+  },
+  {
+    "input": "Oh, hello, son. How was your day?\n",
+    "output": "UUuuUunh!\n"
+  },
+  {
+    "input": "UUuuUunh!\n",
+    "output": "That's good. Who are your little friends?\n"
+  },
+  {
+    "input": "That's good. Who are your little friends?\n",
+    "output": "What do you mean?!\n"
+  },
+  {
+    "input": "What do you mean?!\n",
+    "output": "We're his oral report buddies.\n"
+  },
+  {
+    "input": "We're his oral report buddies.\n",
+    "output": "Yeah, we have to stay up all night to write it.\n"
+  },
+  {
+    "input": "Yeah, we have to stay up all night to write it.\n",
+    "output": "Well, have some coffee boys. I'll brew up another pot for later.\n[The boys each take a cup.]\n"
+  },
+  {
+    "input": "Well, have some coffee boys. I'll brew up another pot for later.\n[The boys each take a cup.]\n",
+    "output": "Coffee? I don't think I like coffee.\n"
+  },
+  {
+    "input": "Coffee? I don't think I like coffee.\n",
+    "output": "Hoh, you'll like this coffee. It's fresh.\n"
+  },
+  {
+    "input": "Hoh, you'll like this coffee. It's fresh.\n",
+    "output": "[waxing prosaic] Country fresh, like the morning after a rainstorm.\n"
+  },
+  {
+    "input": "[waxing prosaic] Country fresh, like the morning after a rainstorm.\n",
+    "output": "'Kay. Maybe it'll help us figure out what to do our report on. We have to present it to the entire South Park town committee tomorrow.\n"
+  },
+  {
+    "input": "'Kay. Maybe it'll help us figure out what to do our report on. We have to present it to the entire South Park town committee tomorrow.\n",
+    "output": "Oh. I've got one for you. How about doing a report on how large corporations take over little family-owned businesses?\n"
+  },
+  {
+    "input": "Oh. I've got one for you. How about doing a report on how large corporations take over little family-owned businesses?\n",
+    "output": "Richard!\n"
+  },
+  {
+    "input": "Richard!\n",
+    "output": "No, I'm- serious, hon. These boys should learn how the corporate machine is ruining America. You see, I own a coffee shop and now a great, big, multi-million dollar company is going to move in and try to take all my business, which means I may have to shut down and sell my son Tweek into slavery.\n"
+  },
+  {
+    "input": "No, I'm- serious, hon. These boys should learn how the corporate machine is ruining America. You see, I own a coffee shop and now a great, big, multi-million dollar company is going to move in and try to take all my business, which means I may have to shut down and sell my son Tweek into slavery.\n",
+    "output": "Mwaaah! Slavery?\n"
+  },
+  {
+    "input": "Mwaaah! Slavery?\n",
+    "output": "Yes, slavery.\n"
+  },
+  {
+    "input": "Yes, slavery.\n",
+    "output": "[to Tweek] Wow, that sucks, dude.\n"
+  },
+  {
+    "input": "[to Tweek] Wow, that sucks, dude.\n",
+    "output": "They really have my balls in a salad shooter.\n"
+  },
+  {
+    "input": "They really have my balls in a salad shooter.\n",
+    "output": "We're already doing a paper on Tweek's underpants gnomes.\n"
+  },
+  {
+    "input": "We're already doing a paper on Tweek's underpants gnomes.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "Now, Tweek, how many times do we have to tell you? Your underpants are missing because you lose them, not because of underpants gnomes.\n"
+  },
+  {
+    "input": "Now, Tweek, how many times do we have to tell you? Your underpants are missing because you lose them, not because of underpants gnomes.\n",
+    "output": "Uunnnnhh!\n"
+  },
+  {
+    "input": "Uunnnnhh!\n",
+    "output": "Come on, you guys! We better get to work!\n[Tweek and the boys leave the kitchen.]\n"
+  },
+  {
+    "input": "Come on, you guys! We better get to work!\n[Tweek and the boys leave the kitchen.]\n",
+    "output": "Wuh-okay, but corporate takeovers is a much more fertile subject.\n"
+  },
+  {
+    "input": "Wuh-okay, but corporate takeovers is a much more fertile subject.\n",
+    "output": "Honestly, Richard. I don't see why you have to preach to some eight-year olds.\n"
+  },
+  {
+    "input": "Honestly, Richard. I don't see why you have to preach to some eight-year olds.\n",
+    "output": "Actually, honey, I think those little tykes are just what we need. I've got an idea.\n[Later that night, in Tweek's room, the boys sip their coffee.]\n"
+  },
+  {
+    "input": "Actually, honey, I think those little tykes are just what we need. I've got an idea.\n[Later that night, in Tweek's room, the boys sip their coffee.]\n",
+    "output": "Man, this stuff is strong.\n"
+  },
+  {
+    "input": "Man, this stuff is strong.\n",
+    "output": "Kind of bitter.\n"
+  },
+  {
+    "input": "Kind of bitter.\n",
+    "output": "[in a corner of the room, scared] What if my parents go out of business? Uh what'll I do?\n"
+  },
+  {
+    "input": "[in a corner of the room, scared] What if my parents go out of business? Uh what'll I do?\n",
+    "output": "[going to him] Don't worry about it.\n"
+  },
+  {
+    "input": "[going to him] Don't worry about it.\n",
+    "output": "But we'll starve and die like dogs.\n"
+  },
+  {
+    "input": "But we'll starve and die like dogs.\n",
+    "output": "Tweek, Tweek, you can always go on welfare. Look at Kenny's family: they're perfectly happy being poor and on welfare. Right, Kenny?\n"
+  },
+  {
+    "input": "Tweek, Tweek, you can always go on welfare. Look at Kenny's family: they're perfectly happy being poor and on welfare. Right, Kenny?\n",
+    "output": "(Fuck you!)\n"
+  },
+  {
+    "input": "(Fuck you!)\n",
+    "output": "Heheh, you suck, Kenny.\n"
+  },
+  {
+    "input": "Heheh, you suck, Kenny.\n",
+    "output": "Well, let's just try to finish all this coffee, so we can stay up.\n[Still later: 10:08p.m.. The boys are hyperactive.]\n"
+  },
+  {
+    "input": "Well, let's just try to finish all this coffee, so we can stay up.\n[Still later: 10:08p.m.. The boys are hyperactive.]\n",
+    "output": "Aooooo!\n"
+  },
+  {
+    "input": "Aooooo!\n",
+    "output": "Woohoo!\n"
+  },
+  {
+    "input": "Woohoo!\n",
+    "output": "(Let me try! Let me try!)\n"
+  },
+  {
+    "input": "(Let me try! Let me try!)\n",
+    "output": "Yeess, this stuff rocks!\n"
+  },
+  {
+    "input": "Yeess, this stuff rocks!\n",
+    "output": "Totally, dudes! I feel awesome!\n"
+  },
+  {
+    "input": "Totally, dudes! I feel awesome!\n",
+    "output": "[running] Whoopee!\n[Kenny jumps high enough to knock down the bedside lamp. The shade goes to the floor. 10:09 p.m.]\n"
+  },
+  {
+    "input": "[running] Whoopee!\n[Kenny jumps high enough to knock down the bedside lamp. The shade goes to the floor. 10:09 p.m.]\n",
+    "output": "[running around the rim of a throw rug like an Olympian] You guys! You guys! Seriously! I'm a sorcerer! Zhyagah, zhyah, zhyagot that.\n"
+  },
+  {
+    "input": "[running around the rim of a throw rug like an Olympian] You guys! You guys! Seriously! I'm a sorcerer! Zhyagah, zhyah, zhyagot that.\n",
+    "output": "Hey, Tweek, you got anymore of this stuff?\n"
+  },
+  {
+    "input": "Hey, Tweek, you got anymore of this stuff?\n",
+    "output": "I just have grounds.\n"
+  },
+  {
+    "input": "I just have grounds.\n",
+    "output": "Killer!! [goes for it and eats it raw]\n"
+  },
+  {
+    "input": "Killer!! [goes for it and eats it raw]\n",
+    "output": "[rushing up] Ey, let me have some grounds. [take some, swallows, and throws up]\n"
+  },
+  {
+    "input": "[rushing up] Ey, let me have some grounds. [take some, swallows, and throws up]\n",
+    "output": "Gross, Cartman. Whoopee!\n[10:15 p.m. gives way to 3:26 a.m., which finds the boys sitting against the bed. Tweek is on it, and Cartman is passed out next to the toys, surrounded by pools of vomit. Kenny looks sleepy.]\n"
+  },
+  {
+    "input": "Gross, Cartman. Whoopee!\n[10:15 p.m. gives way to 3:26 a.m., which finds the boys sitting against the bed. Tweek is on it, and Cartman is passed out next to the toys, surrounded by pools of vomit. Kenny looks sleepy.]\n",
+    "output": "Hogh, my stomach hurts.\n"
+  },
+  {
+    "input": "Hogh, my stomach hurts.\n",
+    "output": "Yeah, mine too. I wonder why.\n"
+  },
+  {
+    "input": "Yeah, mine too. I wonder why.\n",
+    "output": "[peeved] Well, it's 3:30; I don't see any god-damned underpants gnomes, Tweek.\n"
+  },
+  {
+    "input": "[peeved] Well, it's 3:30; I don't see any god-damned underpants gnomes, Tweek.\n",
+    "output": "Urgh. Uh maybe, maybe it was all in my head. Maybe I'm going insane! Oh no I'm going insane!\n"
+  },
+  {
+    "input": "Urgh. Uh maybe, maybe it was all in my head. Maybe I'm going insane! Oh no I'm going insane!\n",
+    "output": "[cross] Well, this is just great! We haven't gotten anything done, and we're totally screwed!\n"
+  },
+  {
+    "input": "[cross] Well, this is just great! We haven't gotten anything done, and we're totally screwed!\n",
+    "output": "[checking] How's the report going, boys?\n"
+  },
+  {
+    "input": "[checking] How's the report going, boys?\n",
+    "output": "Bad!\n"
+  },
+  {
+    "input": "Bad!\n",
+    "output": "Oh, do you need some more coffee?\n"
+  },
+  {
+    "input": "Oh, do you need some more coffee?\n",
+    "output": "Eugh.\n"
+  },
+  {
+    "input": "Eugh.\n",
+    "output": "No...more...coffee. Blech. [the vomit falls back on him and on the ground]\n"
+  },
+  {
+    "input": "No...more...coffee. Blech. [the vomit falls back on him and on the ground]\n",
+    "output": "Well, boys, uh. I don't mean to pry, but, if you want it, I wrote your report for you.\n"
+  },
+  {
+    "input": "Well, boys, uh. I don't mean to pry, but, if you want it, I wrote your report for you.\n",
+    "output": "[suddenly bright] You did?!\n"
+  },
+  {
+    "input": "[suddenly bright] You did?!\n",
+    "output": "Yes, it's all about corporate takeovers. Of course, you don't have to use it.\n"
+  },
+  {
+    "input": "Yes, it's all about corporate takeovers. Of course, you don't have to use it.\n",
+    "output": "[goes with Kyle to get it] No, we'll use it.\n"
+  },
+  {
+    "input": "[goes with Kyle to get it] No, we'll use it.\n",
+    "output": "Alright. [Kyle takes it] And it can be our little secret about who wrote it, right?\n[Tweek begins to hear some elfin music: \"Time to go to work,\"]\n"
+  },
+  {
+    "input": "Alright. [Kyle takes it] And it can be our little secret about who wrote it, right?\n[Tweek begins to hear some elfin music: \"Time to go to work,\"]\n",
+    "output": "Sure. [\"work all night\"]\n"
+  },
+  {
+    "input": "Sure. [\"work all night\"]\n",
+    "output": "Now, when you give the report, [Tweek gasps and points] just make sure that you read this part first, okay? [the gnomes open the door and enter:\n\"Search for underpants, hey\nWe won't stop until we have underpants\nYum tum yummy tum day\"]\n"
+  },
+  {
+    "input": "Now, when you give the report, [Tweek gasps and points] just make sure that you read this part first, okay? [the gnomes open the door and enter:\n\"Search for underpants, hey\nWe won't stop until we have underpants\nYum tum yummy tum day\"]\n",
+    "output": "There they are!\n"
+  },
+  {
+    "input": "There they are!\n",
+    "output": "[A gnome goes for Tweek's bottom drawer, opens it, and takes out some underpants.\n\"Time to go to work, work all night\nSearch for underpants, hey\nWe won't stop until we have underpants\nYum tum yummy tum day\"]\nAnd when you come up to do it a second time, really, really clear it up, I mean, um, really, really play the sympathy angle. They'll like that. They'll be calling you, and you'll get a passing grade for it.\n"
+  },
+  {
+    "input": "[A gnome goes for Tweek's bottom drawer, opens it, and takes out some underpants.\n\"Time to go to work, work all night\nSearch for underpants, hey\nWe won't stop until we have underpants\nYum tum yummy tum day\"]\nAnd when you come up to do it a second time, really, really clear it up, I mean, um, really, really play the sympathy angle. They'll like that. They'll be calling you, and you'll get a passing grade for it.\n",
+    "output": "[\"Time to go to work, work all night\nSearch for underpants, hey!\"]\nYou guys, look! Look! You're missing it!\n[the gnomes take off with two pairs of underpants:\n\"We won't stop until we have underpants\nYum tum yummy tum day!\"]\n"
+  },
+  {
+    "input": "[\"Time to go to work, work all night\nSearch for underpants, hey!\"]\nYou guys, look! Look! You're missing it!\n[the gnomes take off with two pairs of underpants:\n\"We won't stop until we have underpants\nYum tum yummy tum day!\"]\n",
+    "output": "Arrgghh! They took them again!\n"
+  },
+  {
+    "input": "Arrgghh! They took them again!\n",
+    "output": "[to Richard] Thanks, dude.\n"
+  },
+  {
+    "input": "[to Richard] Thanks, dude.\n",
+    "output": "My pleasure. G'night, boys.\n"
+  },
+  {
+    "input": "My pleasure. G'night, boys.\n",
+    "output": "Wow, Tweek, your dad rocks!\n"
+  },
+  {
+    "input": "Wow, Tweek, your dad rocks!\n",
+    "output": "Why do they torture me like this?! Why can't they leave me alone?!\n"
+  },
+  {
+    "input": "Why do they torture me like this?! Why can't they leave me alone?!\n",
+    "output": "Damnit! What the hell is wrong with you, Tweek?!\n"
+  },
+  {
+    "input": "Damnit! What the hell is wrong with you, Tweek?!\n",
+    "output": "They took my underpants again! Soon they'll want my blood! Blood! Euuggh!\n[South Park Elementary, the next day. The five-member South Park committee listens as Tweek's group speaks.]\n"
+  },
+  {
+    "input": "They took my underpants again! Soon they'll want my blood! Blood! Euuggh!\n[South Park Elementary, the next day. The five-member South Park committee listens as Tweek's group speaks.]\n",
+    "output": "[haltingly] \"And as the voluminous corporate automaton bulldozes its way through bantam America...\n"
+  },
+  {
+    "input": "[haltingly] \"And as the voluminous corporate automaton bulldozes its way through bantam America...\n",
+    "output": "[steps forward] What will become of the endeavoring American family?\"\n"
+  },
+  {
+    "input": "[steps forward] What will become of the endeavoring American family?\"\n",
+    "output": "[off to one side, notices the lack of fluency] I don't think they wrote this, Mr. Hat.\n"
+  },
+  {
+    "input": "[off to one side, notices the lack of fluency] I don't think they wrote this, Mr. Hat.\n",
+    "output": "Perhaps there is no stopping the corporate machine.\n"
+  },
+  {
+    "input": "Perhaps there is no stopping the corporate machine.\n",
+    "output": "[throbs] Uurrgh!\n"
+  },
+  {
+    "input": "[throbs] Uurrgh!\n",
+    "output": "And that's our report, I guess.\n"
+  },
+  {
+    "input": "And that's our report, I guess.\n",
+    "output": "Well, boys, it's obvious you didn't even--\n"
+  },
+  {
+    "input": "Well, boys, it's obvious you didn't even--\n",
+    "output": "Great job!\n"
+  },
+  {
+    "input": "Great job!\n",
+    "output": "[falling in] Yes, great job.\n"
+  },
+  {
+    "input": "[falling in] Yes, great job.\n",
+    "output": "Boys, you have really opened our eyes. We didn't even know this was happening.\n"
+  },
+  {
+    "input": "Boys, you have really opened our eyes. We didn't even know this was happening.\n",
+    "output": "Neither did we.\n"
+  },
+  {
+    "input": "Neither did we.\n",
+    "output": "Well, Mr. Garrison, it looks like we were wrong about you. You really are teaching these kids something.\n"
+  },
+  {
+    "input": "Well, Mr. Garrison, it looks like we were wrong about you. You really are teaching these kids something.\n",
+    "output": "Yeah, well, I don't want to sound like a dickhole, but I told you so.\n"
+  },
+  {
+    "input": "Yeah, well, I don't want to sound like a dickhole, but I told you so.\n",
+    "output": "Aw, I am really moved. I say we follow these boys's cause. Let's join them in the fight against corporate takeovers! [the members stand] Lead the way, boys!\n"
+  },
+  {
+    "input": "Aw, I am really moved. I say we follow these boys's cause. Let's join them in the fight against corporate takeovers! [the members stand] Lead the way, boys!\n",
+    "output": "Huh??\n"
+  },
+  {
+    "input": "Huh??\n",
+    "output": "Uunh, it's too much pressure!\n[Harbucks is going up.]\n"
+  },
+  {
+    "input": "Uunh, it's too much pressure!\n[Harbucks is going up.]\n",
+    "output": "[directing] Good! Good! Now, make sure that sign is really bright and flashy now.\n"
+  },
+  {
+    "input": "[directing] Good! Good! Now, make sure that sign is really bright and flashy now.\n",
+    "output": "My goodness. That's going to be a huge coffee house, honey.\n"
+  },
+  {
+    "input": "My goodness. That's going to be a huge coffee house, honey.\n",
+    "output": "Yes, it is. [places his hand over his groin] They really have my balls in a juice maker. [removes it as the boys stop by] Oh, hello, son, uh. How did your report go?\n"
+  },
+  {
+    "input": "Yes, it is. [places his hand over his groin] They really have my balls in a juice maker. [removes it as the boys stop by] Oh, hello, son, uh. How did your report go?\n",
+    "output": "Waagh!\n"
+  },
+  {
+    "input": "Waagh!\n",
+    "output": "I think it went really good. Those people really got into it.\n"
+  },
+  {
+    "input": "I think it went really good. Those people really got into it.\n",
+    "output": "Really?? Well, son, you might have just saved the family business. What do you have to say about that?\n"
+  },
+  {
+    "input": "Really?? Well, son, you might have just saved the family business. What do you have to say about that?\n",
+    "output": "I need coffee.\n"
+  },
+  {
+    "input": "I need coffee.\n",
+    "output": "I know how you boys feel. [walks to a cup on a stump] Sometimes a hot cup of French Roast Amaretto is just what a man needs to get him through the day. That smooth aroma and mild taste is what make Tweek coffee... [picks up the cup and places his left foot on the stump, right hand on his hip] uh very special. Special, like an Arizona sunrise or a juniper wet with dew. A light rain in the middle of a dusty afternoon or a hug from your dear old aunt-- [a chorus is heard].\n"
+  },
+  {
+    "input": "I know how you boys feel. [walks to a cup on a stump] Sometimes a hot cup of French Roast Amaretto is just what a man needs to get him through the day. That smooth aroma and mild taste is what make Tweek coffee... [picks up the cup and places his left foot on the stump, right hand on his hip] uh very special. Special, like an Arizona sunrise or a juniper wet with dew. A light rain in the middle of a dusty afternoon or a hug from your dear old aunt-- [a chorus is heard].\n",
+    "output": "Dad!\n"
+  },
+  {
+    "input": "Dad!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "The metaphors, man!\n"
+  },
+  {
+    "input": "The metaphors, man!\n",
+    "output": "Oh, sorry. Here you go. [hands him the cup]\n"
+  },
+  {
+    "input": "Oh, sorry. Here you go. [hands him the cup]\n",
+    "output": "Hey. Do you ever think maybe you shouldn't give your son coffee?\n"
+  },
+  {
+    "input": "Hey. Do you ever think maybe you shouldn't give your son coffee?\n",
+    "output": "Liike, how do you mean?\n"
+  },
+  {
+    "input": "Liike, how do you mean?\n",
+    "output": "Like look at him. He's always shaking and nervous.\n"
+  },
+  {
+    "input": "Like look at him. He's always shaking and nervous.\n",
+    "output": "Agghh!\n"
+  },
+  {
+    "input": "Agghh!\n",
+    "output": "[holding a bag of Tweekers BLEND] Oh, that. He has ADD, attention deficit disorder. That's why he's so jittery all the time.\n[The town commitee arrives.]\n"
+  },
+  {
+    "input": "[holding a bag of Tweekers BLEND] Oh, that. He has ADD, attention deficit disorder. That's why he's so jittery all the time.\n[The town commitee arrives.]\n",
+    "output": "Mr. Tweek, we've only just heard.\n"
+  },
+  {
+    "input": "Mr. Tweek, we've only just heard.\n",
+    "output": "Oh, hello committee members. What a surprise.\n"
+  },
+  {
+    "input": "Oh, hello committee members. What a surprise.\n",
+    "output": "So, this is the corporate bulldozer trying to push you off the map. [Harbucks, with four tables on the roof]\n"
+  },
+  {
+    "input": "So, this is the corporate bulldozer trying to push you off the map. [Harbucks, with four tables on the roof]\n",
+    "output": "Yes. How did you hear?\n"
+  },
+  {
+    "input": "Yes. How did you hear?\n",
+    "output": "These boys did an excellent report for us this morning. They're so upset by this whole thing.\n"
+  },
+  {
+    "input": "These boys did an excellent report for us this morning. They're so upset by this whole thing.\n",
+    "output": "My butt hurts.\n"
+  },
+  {
+    "input": "My butt hurts.\n",
+    "output": "Don't worry, Mr. Tweek. This committee is not going to let you be run out of business by these bastards! Do you hear that? You're not gonna get away with this, you whore!\n"
+  },
+  {
+    "input": "Don't worry, Mr. Tweek. This committee is not going to let you be run out of business by these bastards! Do you hear that? You're not gonna get away with this, you whore!\n",
+    "output": "Excuse me?!\n"
+  },
+  {
+    "input": "Excuse me?!\n",
+    "output": "Boys, we've talked it over, and we want you to take your case to the mayor!\n"
+  },
+  {
+    "input": "Boys, we've talked it over, and we want you to take your case to the mayor!\n",
+    "output": "Our case?\n"
+  },
+  {
+    "input": "Our case?\n",
+    "output": "Uuhhh, no way, man! That is way too much pressure!\n"
+  },
+  {
+    "input": "Uuhhh, no way, man! That is way too much pressure!\n",
+    "output": "[dismissing his son's apprehension] Oh, you'll do fine, son.\n"
+  },
+  {
+    "input": "[dismissing his son's apprehension] Oh, you'll do fine, son.\n",
+    "output": "Come on, boys! Let's go!\n"
+  },
+  {
+    "input": "Come on, boys! Let's go!\n",
+    "output": "[pissed] Aw, man, this sucks!\n[The boys begin to walk with the town committee.]\n"
+  },
+  {
+    "input": "[pissed] Aw, man, this sucks!\n[The boys begin to walk with the town committee.]\n",
+    "output": "[fretting] Aaarrrnnn!\n[City Hall. Mr. Garrison is present with the boys and the town committee.]\n"
+  },
+  {
+    "input": "[fretting] Aaarrrnnn!\n[City Hall. Mr. Garrison is present with the boys and the town committee.]\n",
+    "output": "...And we would have never even known that this was happening if not for these boys' excellent report.\n"
+  },
+  {
+    "input": "...And we would have never even known that this was happening if not for these boys' excellent report.\n",
+    "output": "You're telling me that students from Mr. Garrison's class actually did something that had some kind of relevance to the world?\n"
+  },
+  {
+    "input": "You're telling me that students from Mr. Garrison's class actually did something that had some kind of relevance to the world?\n",
+    "output": "That's right.\n[Garrison is shown.]\n"
+  },
+  {
+    "input": "That's right.\n[Garrison is shown.]\n",
+    "output": "Mr. Garrison, the guy with the puppet?\n"
+  },
+  {
+    "input": "Mr. Garrison, the guy with the puppet?\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "Well, I must say, Garrison, perhaps you're not as stupid and crazy as I always tell people you are.\n"
+  },
+  {
+    "input": "Well, I must say, Garrison, perhaps you're not as stupid and crazy as I always tell people you are.\n",
+    "output": "Thank you, Mayor. I don't wanna sound like a dickhole, but I-\n"
+  },
+  {
+    "input": "Thank you, Mayor. I don't wanna sound like a dickhole, but I-\n",
+    "output": "Mayor, these boys want that Harbucks coffee shut down right now!\n"
+  },
+  {
+    "input": "Mayor, these boys want that Harbucks coffee shut down right now!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "Well, I can't just shut them down, this is a free country.\n"
+  },
+  {
+    "input": "Well, I can't just shut them down, this is a free country.\n",
+    "output": "But they're ruining our city!\n"
+  },
+  {
+    "input": "But they're ruining our city!\n",
+    "output": "Look, the best I can do is create a proposition. We'll call it Prop. 10. The town can vote on it, and if it passes, we'll see what we can do.\n"
+  },
+  {
+    "input": "Look, the best I can do is create a proposition. We'll call it Prop. 10. The town can vote on it, and if it passes, we'll see what we can do.\n",
+    "output": "Hooray!\n"
+  },
+  {
+    "input": "Hooray!\n",
+    "output": "Hooray!\n"
+  },
+  {
+    "input": "Hooray!\n",
+    "output": "[ecstatic] What do you say, boys? We're gonna pass a law!\n"
+  },
+  {
+    "input": "[ecstatic] What do you say, boys? We're gonna pass a law!\n",
+    "output": "Uh... Hooray.\n"
+  },
+  {
+    "input": "Uh... Hooray.\n",
+    "output": "So I guess you wanna do some campaigning. [Tweek hears the gnomes coming] You can do commercials and things like that, and then we'll have a vote in the middle of town. And obviously, if more than 50% of the people even show up...\n[\"Time to go to work, work all night\nSearch for underpants, hey!\nWe won't stop until we have underpants\nYum tum yummy tum day\nTime to go to work, work all night\" The gnomes go up to Johnson and pull his underpants out]\n"
+  },
+  {
+    "input": "So I guess you wanna do some campaigning. [Tweek hears the gnomes coming] You can do commercials and things like that, and then we'll have a vote in the middle of town. And obviously, if more than 50% of the people even show up...\n[\"Time to go to work, work all night\nSearch for underpants, hey!\nWe won't stop until we have underpants\nYum tum yummy tum day\nTime to go to work, work all night\" The gnomes go up to Johnson and pull his underpants out]\n",
+    "output": "Wagh!\n"
+  },
+  {
+    "input": "Wagh!\n",
+    "output": "[\"Search for underpants, hey\nWe won't stop until we have...\" A gnome tosses the underpants to two others, who carry it away over their heads. They all leave]\n...and care enough to want Harbucks out, then, they're out. So, good luck to you. [the town committee leaves]\n"
+  },
+  {
+    "input": "[\"Search for underpants, hey\nWe won't stop until we have...\" A gnome tosses the underpants to two others, who carry it away over their heads. They all leave]\n...and care enough to want Harbucks out, then, they're out. So, good luck to you. [the town committee leaves]\n",
+    "output": "Didn't you see them!?\n"
+  },
+  {
+    "input": "Didn't you see them!?\n",
+    "output": "Alright, what's next.\n"
+  },
+  {
+    "input": "Alright, what's next.\n",
+    "output": "Next is issue 37D, missing underpants. [hands the issue to her]\n"
+  },
+  {
+    "input": "Next is issue 37D, missing underpants. [hands the issue to her]\n",
+    "output": "Is it cold in here?\n"
+  },
+  {
+    "input": "Is it cold in here?\n",
+    "output": "Uh, boys, can I have a quick this and that with you? Boys, I don't know who wrote that report, but now that you've convinced everybody, you'd better stick with it. 'Cause if these people find out you didn't really write that paper, and I actually do get fired, then Mr. Hat is gonna do horrible things to you. [pretends Mr. Hat is saying something to him] Oh, not that, Mr. Hat! That's really horrible! Anyway, good luck passing your new law, boys.\n"
+  },
+  {
+    "input": "Uh, boys, can I have a quick this and that with you? Boys, I don't know who wrote that report, but now that you've convinced everybody, you'd better stick with it. 'Cause if these people find out you didn't really write that paper, and I actually do get fired, then Mr. Hat is gonna do horrible things to you. [pretends Mr. Hat is saying something to him] Oh, not that, Mr. Hat! That's really horrible! Anyway, good luck passing your new law, boys.\n",
+    "output": "Jesus, man, Jesus! What are we gonna do, huh?!\n[South Park Town Hall Meeting.]\n"
+  },
+  {
+    "input": "Jesus, man, Jesus! What are we gonna do, huh?!\n[South Park Town Hall Meeting.]\n",
+    "output": "Live, it's the South Park Town Hall Meeting on Public Access. Tonight's topic: Prop. 10.\n[The audience claps.]\n"
+  },
+  {
+    "input": "Live, it's the South Park Town Hall Meeting on Public Access. Tonight's topic: Prop. 10.\n[The audience claps.]\n",
+    "output": "Should Harbucks be allowed to open a store in South Park? That's tonight's topic. On my left, five innocent, starry-eyed boys from Middle America. [shot of the boys] On my right, a big, fat, smelly corporate guy from New York.\n"
+  },
+  {
+    "input": "Should Harbucks be allowed to open a store in South Park? That's tonight's topic. On my left, five innocent, starry-eyed boys from Middle America. [shot of the boys] On my right, a big, fat, smelly corporate guy from New York.\n",
+    "output": "Boo!\n"
+  },
+  {
+    "input": "Boo!\n",
+    "output": "Hey, I'm not fat or smelly!\n"
+  },
+  {
+    "input": "Hey, I'm not fat or smelly!\n",
+    "output": "All right, Mr. Douchebag.\n"
+  },
+  {
+    "input": "All right, Mr. Douchebag.\n",
+    "output": "Postum!\n"
+  },
+  {
+    "input": "Postum!\n",
+    "output": "Oh. Pardon me, Mr. Assface. Anyway, let's hear your side of the argument.\n"
+  },
+  {
+    "input": "Oh. Pardon me, Mr. Assface. Anyway, let's hear your side of the argument.\n",
+    "output": "Boo!\n"
+  },
+  {
+    "input": "Boo!\n",
+    "output": "My argument is simple. This country's founded on free enterprise. Harbucks is an organization that-\n"
+  },
+  {
+    "input": "My argument is simple. This country's founded on free enterprise. Harbucks is an organization that-\n",
+    "output": "Hhssssssss!\n"
+  },
+  {
+    "input": "Hhssssssss!\n",
+    "output": "An organization that prides itself on great coffee! We simply want tuh-- Oh, to hell with you!\n"
+  },
+  {
+    "input": "An organization that prides itself on great coffee! We simply want tuh-- Oh, to hell with you!\n",
+    "output": "[the hissing stops] Okay, ucka-fay. Now for the other side of the argument we turn to our young, handsome lads. [the boys stay silent] Boys, your thoughts. [Tweek twitches] Come on, boys, don't be shy. What's your principal argument?\n[Nothing. A stern Mr. Garrison crosses his arms.]\n"
+  },
+  {
+    "input": "[the hissing stops] Okay, ucka-fay. Now for the other side of the argument we turn to our young, handsome lads. [the boys stay silent] Boys, your thoughts. [Tweek twitches] Come on, boys, don't be shy. What's your principal argument?\n[Nothing. A stern Mr. Garrison crosses his arms.]\n",
+    "output": "Uh...\n"
+  },
+  {
+    "input": "Uh...\n",
+    "output": "Uh...\n"
+  },
+  {
+    "input": "Uh...\n",
+    "output": "This guy sucks ass!\n"
+  },
+  {
+    "input": "This guy sucks ass!\n",
+    "output": "Yeah! Yeah! Woo!\n"
+  },
+  {
+    "input": "Yeah! Yeah! Woo!\n",
+    "output": "Great argument! You win, boys!\n"
+  },
+  {
+    "input": "Great argument! You win, boys!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "[softly, relieved] That was close, Mr. Hat.\n[The boys' first commercial, beginning with an American flag waving, filling the screen.]\n"
+  },
+  {
+    "input": "[softly, relieved] That was close, Mr. Hat.\n[The boys' first commercial, beginning with an American flag waving, filling the screen.]\n",
+    "output": "What is the future of America? Is it the money we make? [a $1 bill] The quests we conquer? [the Moon shot] No, it's children. [head shots of Tweek and the boys] So what do children have to say about Prop. 10?\n"
+  },
+  {
+    "input": "What is the future of America? Is it the money we make? [a $1 bill] The quests we conquer? [the Moon shot] No, it's children. [head shots of Tweek and the boys] So what do children have to say about Prop. 10?\n",
+    "output": "[screen right to screen left] I don't like big corporations.\n"
+  },
+  {
+    "input": "[screen right to screen left] I don't like big corporations.\n",
+    "output": "[rising from the bottom] I like small businesses.\n"
+  },
+  {
+    "input": "[rising from the bottom] I like small businesses.\n",
+    "output": "[screen left to screen right] I believe in the family-owned enterprise.\n"
+  },
+  {
+    "input": "[screen left to screen right] I believe in the family-owned enterprise.\n",
+    "output": "[dropping from the top] (In my family, it's a silly enterprise.)\n"
+  },
+  {
+    "input": "[dropping from the top] (In my family, it's a silly enterprise.)\n",
+    "output": "[screen right to screen left] Aarrgghh!\n"
+  },
+  {
+    "input": "[screen right to screen left] Aarrgghh!\n",
+    "output": "It's time to stop large corporations. Prop. 10 is about children. Vote Yes on Prop. 10, or else, you hate children. You don't hate... children... do you? Remember, keep American business small, or else. [the kids' heads combust and only their skulls are left in flames, with charred caps.] Paid for by Citizens for a Fair and Equal way to get Harbucks Coffee kicked out of town forever.\n[The TV clicks off, and everyone is in the studio.]\n"
+  },
+  {
+    "input": "It's time to stop large corporations. Prop. 10 is about children. Vote Yes on Prop. 10, or else, you hate children. You don't hate... children... do you? Remember, keep American business small, or else. [the kids' heads combust and only their skulls are left in flames, with charred caps.] Paid for by Citizens for a Fair and Equal way to get Harbucks Coffee kicked out of town forever.\n[The TV clicks off, and everyone is in the studio.]\n",
+    "output": "Well, what do you think?\n"
+  },
+  {
+    "input": "Well, what do you think?\n",
+    "output": "Wow, it it's great!\n"
+  },
+  {
+    "input": "Wow, it it's great!\n",
+    "output": "[confidently] Yes, it is. We'll put it on the air immediately.\n"
+  },
+  {
+    "input": "[confidently] Yes, it is. We'll put it on the air immediately.\n",
+    "output": "What do you think, hon? [she crosses her arms and moves away him. He follows] Hon? What's the matter?\n[Mrs. Tweak turns to him.]\n"
+  },
+  {
+    "input": "What do you think, hon? [she crosses her arms and moves away him. He follows] Hon? What's the matter?\n[Mrs. Tweak turns to him.]\n",
+    "output": "I have a big problem with this.\n"
+  },
+  {
+    "input": "I have a big problem with this.\n",
+    "output": "What do you mean?\n"
+  },
+  {
+    "input": "What do you mean?\n",
+    "output": "We are just using those boys for our benefit. They have no idea what they're saying.\n"
+  },
+  {
+    "input": "We are just using those boys for our benefit. They have no idea what they're saying.\n",
+    "output": "But, kids are great to get people on our side.\n"
+  },
+  {
+    "input": "But, kids are great to get people on our side.\n",
+    "output": "You don't just throw a child in a political commercial to sell your beliefs. I won't be a part of this anymore. [walks out the door]\n"
+  },
+  {
+    "input": "You don't just throw a child in a political commercial to sell your beliefs. I won't be a part of this anymore. [walks out the door]\n",
+    "output": "Honey, all's fair in love and war. [softly] And coffee. Hon? Hu-hon?\n[Harbucks' grand opening. Protesters arrive.]\n"
+  },
+  {
+    "input": "Honey, all's fair in love and war. [softly] And coffee. Hon? Hu-hon?\n[Harbucks' grand opening. Protesters arrive.]\n",
+    "output": "Take your corporate coffee and go back to New York City!\n"
+  },
+  {
+    "input": "Take your corporate coffee and go back to New York City!\n",
+    "output": "Yeah!!\n"
+  },
+  {
+    "input": "Yeah!!\n",
+    "output": "It's people like you who are ruining Main Street, USA!\n[Postum looks out through the window.]\n"
+  },
+  {
+    "input": "It's people like you who are ruining Main Street, USA!\n[Postum looks out through the window.]\n",
+    "output": "That's right! Yeah!\n"
+  },
+  {
+    "input": "That's right! Yeah!\n",
+    "output": "How many Native Americans did you slaughter to make that coffee, huh?!\n"
+  },
+  {
+    "input": "How many Native Americans did you slaughter to make that coffee, huh?!\n",
+    "output": "[after a pause] Yeah!!\n"
+  },
+  {
+    "input": "[after a pause] Yeah!!\n",
+    "output": "[inside] Damn, these people aren't buying any coffee! I'll have to try and appeal to the younger crowd.\n[Later. The crowd now marches in front of Harbucks. To the right, Harbucks' mascot, wearing a fez, holds a tray of coffee cups topped with whipped cream before a boy.]\n"
+  },
+  {
+    "input": "[inside] Damn, these people aren't buying any coffee! I'll have to try and appeal to the younger crowd.\n[Later. The crowd now marches in front of Harbucks. To the right, Harbucks' mascot, wearing a fez, holds a tray of coffee cups topped with whipped cream before a boy.]\n",
+    "output": "[the man in the camel] Hey, kids. I'm Camel Joe and I love a fresh cup of coffee. It's yum diddly-icious, and it makes you feel super! [a small boy is listening] I have a surprise for you: the new Kiddicino from Harbucks; more sugar and all the other goodies kids like with all the caffeine of a normal double latte.\n[The kid reaches for one.]\n"
+  },
+  {
+    "input": "[the man in the camel] Hey, kids. I'm Camel Joe and I love a fresh cup of coffee. It's yum diddly-icious, and it makes you feel super! [a small boy is listening] I have a surprise for you: the new Kiddicino from Harbucks; more sugar and all the other goodies kids like with all the caffeine of a normal double latte.\n[The kid reaches for one.]\n",
+    "output": "[rushing up] No Billy, no coffee for you. [to Camel Joe] You should be ashamed of yourself, using cartoons to push caffeine on children!\n"
+  },
+  {
+    "input": "[rushing up] No Billy, no coffee for you. [to Camel Joe] You should be ashamed of yourself, using cartoons to push caffeine on children!\n",
+    "output": "[rips off the helmet] Why don't you go back to the hole you crawled out from, lady?!\n"
+  },
+  {
+    "input": "[rips off the helmet] Why don't you go back to the hole you crawled out from, lady?!\n",
+    "output": "[intervening] Uh, Mr. Postum, I'm afraid you've got a lot to learn about making coffee.\n"
+  },
+  {
+    "input": "[intervening] Uh, Mr. Postum, I'm afraid you've got a lot to learn about making coffee.\n",
+    "output": "Oh, and you don't? Your coffee tastes like three-day-old moldy diarrhea!\n"
+  },
+  {
+    "input": "Oh, and you don't? Your coffee tastes like three-day-old moldy diarrhea!\n",
+    "output": "Uh, I'm sorry to inform you that this town is having a vote tomorrow, and if the law passes, you're gonna be thrown out of town.\n"
+  },
+  {
+    "input": "Uh, I'm sorry to inform you that this town is having a vote tomorrow, and if the law passes, you're gonna be thrown out of town.\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "At five o'clock, the best coffee wins. Either your coffee, or a fresh, warm cup of... Tweek's coffee. [brings out a bag of Tweekers BLEND, then hugs it] Like an old sweater that keeps getting warmer with age, you can count on Tweek's coffee to start your day. [turns and walks away]\n"
+  },
+  {
+    "input": "At five o'clock, the best coffee wins. Either your coffee, or a fresh, warm cup of... Tweek's coffee. [brings out a bag of Tweekers BLEND, then hugs it] Like an old sweater that keeps getting warmer with age, you can count on Tweek's coffee to start your day. [turns and walks away]\n",
+    "output": "[arriving with her aides] Tomorrow, for the Prop. 10 vote, we'll set up ballot booths... here. [between the two coffee shops] All right, men, we'll throw up the stage here. Before the vote we'll get a band everyone likes, like uhhhh, like...\n"
+  },
+  {
+    "input": "[arriving with her aides] Tomorrow, for the Prop. 10 vote, we'll set up ballot booths... here. [between the two coffee shops] All right, men, we'll throw up the stage here. Before the vote we'll get a band everyone likes, like uhhhh, like...\n",
+    "output": "Toto.\n"
+  },
+  {
+    "input": "Toto.\n",
+    "output": "Like Toto. And then the Harbucks guy will have five minutes to speak and the boys will have five minutes to speak, and then the town votes.\n"
+  },
+  {
+    "input": "Like Toto. And then the Harbucks guy will have five minutes to speak and the boys will have five minutes to speak, and then the town votes.\n",
+    "output": "[standing with the boys in front of Tweek Bros.] Uh, boys, you better get your asses to work.\n"
+  },
+  {
+    "input": "[standing with the boys in front of Tweek Bros.] Uh, boys, you better get your asses to work.\n",
+    "output": "What now?\n"
+  },
+  {
+    "input": "What now?\n",
+    "output": "They're expecting you to give a big speech on corporate takeovers, and this time it has to last five minutes.\n"
+  },
+  {
+    "input": "They're expecting you to give a big speech on corporate takeovers, and this time it has to last five minutes.\n",
+    "output": "Oh, God, when is this gonna end?\n"
+  },
+  {
+    "input": "Oh, God, when is this gonna end?\n",
+    "output": "Your dad really screwed us, Tweek!\n"
+  },
+  {
+    "input": "Your dad really screwed us, Tweek!\n",
+    "output": "Jesus, dude! I'm to blame for all this! I'm to blame for everything!\n[Tweek's house that night, Tweek's room. Tweek is on the floor and the others are on his bed.]\n"
+  },
+  {
+    "input": "Jesus, dude! I'm to blame for all this! I'm to blame for everything!\n[Tweek's house that night, Tweek's room. Tweek is on the floor and the others are on his bed.]\n",
+    "output": "So what are we gonna say?\n"
+  },
+  {
+    "input": "So what are we gonna say?\n",
+    "output": "Why can't we just read the paper we wrote last time?\n"
+  },
+  {
+    "input": "Why can't we just read the paper we wrote last time?\n",
+    "output": "'Cause then they'll know we didn't write it, dummy! We have to be original!\n"
+  },
+  {
+    "input": "'Cause then they'll know we didn't write it, dummy! We have to be original!\n",
+    "output": "Does anybody know anything about corporations? [the gnomes return, and Tweek gasps. The door opens and the gnomes enter, singing their theme:\n\"Time to go to work, work all night\nSearch for underpants, hey\"]\n"
+  },
+  {
+    "input": "Does anybody know anything about corporations? [the gnomes return, and Tweek gasps. The door opens and the gnomes enter, singing their theme:\n\"Time to go to work, work all night\nSearch for underpants, hey\"]\n",
+    "output": "[\"We won't stop\"] Waagh!\n"
+  },
+  {
+    "input": "[\"We won't stop\"] Waagh!\n",
+    "output": "[\"until we have underpants\"] I think my mom is a corporation.\n"
+  },
+  {
+    "input": "[\"until we have underpants\"] I think my mom is a corporation.\n",
+    "output": "[\"Yum tum yummy tum day!\"] Yeah, that makes sense.\n"
+  },
+  {
+    "input": "[\"Yum tum yummy tum day!\"] Yeah, that makes sense.\n",
+    "output": "You guys! Sshhhh! [\"Time to go to work\"]\n"
+  },
+  {
+    "input": "You guys! Sshhhh! [\"Time to go to work\"]\n",
+    "output": "Well, how about we just say, \"corporates should be stopped\"?\n[\"work all night\nSearch for underpants, hey\"]\n"
+  },
+  {
+    "input": "Well, how about we just say, \"corporates should be stopped\"?\n[\"work all night\nSearch for underpants, hey\"]\n",
+    "output": "How do we stretch that into five minutes?\n"
+  },
+  {
+    "input": "How do we stretch that into five minutes?\n",
+    "output": "They're taking my underpants!\n[\"We won't stop until we have underpants\nYum tum yummy tum day\"]\n"
+  },
+  {
+    "input": "They're taking my underpants!\n[\"We won't stop until we have underpants\nYum tum yummy tum day\"]\n",
+    "output": "[looking down] Will you stop with the underpants gnomes, Tweek?! We have to work here! [\"Time to go to work\"]\n"
+  },
+  {
+    "input": "[looking down] Will you stop with the underpants gnomes, Tweek?! We have to work here! [\"Time to go to work\"]\n",
+    "output": "[points at the gnomes] Aaaggghhh! [\"work all night\nSearch for underpants, hey\"\nThey open the bottom drawer and go for the underpants]\n"
+  },
+  {
+    "input": "[points at the gnomes] Aaaggghhh! [\"work all night\nSearch for underpants, hey\"\nThey open the bottom drawer and go for the underpants]\n",
+    "output": "What the hell? [\"We won't stop\"]\n"
+  },
+  {
+    "input": "What the hell? [\"We won't stop\"]\n",
+    "output": "[\"until we have underpants\"] Well, I'll be damned.\n"
+  },
+  {
+    "input": "[\"until we have underpants\"] Well, I'll be damned.\n",
+    "output": "[\"Yum tum yummy tum day!\"] That's my last pair of underpants!\n[\"Time to go to work, work all night\nSearch for underpants, hey...\" The gnomes go for the door, and the boys hop off the bed to follow. One gnome stops and faces the boys]\n"
+  },
+  {
+    "input": "[\"Yum tum yummy tum day!\"] That's my last pair of underpants!\n[\"Time to go to work, work all night\nSearch for underpants, hey...\" The gnomes go for the door, and the boys hop off the bed to follow. One gnome stops and faces the boys]\n",
+    "output": "Sshh, don't scare him.\n"
+  },
+  {
+    "input": "Sshh, don't scare him.\n",
+    "output": "Hey there, little guy.\n"
+  },
+  {
+    "input": "Hey there, little guy.\n",
+    "output": "Bad! [whacks the gnome with a stick]\n"
+  },
+  {
+    "input": "Bad! [whacks the gnome with a stick]\n",
+    "output": "Cartman!\n"
+  },
+  {
+    "input": "Cartman!\n",
+    "output": "What?!\n"
+  },
+  {
+    "input": "What?!\n",
+    "output": "Why do you always have to hit stuff with a stick?!\n"
+  },
+  {
+    "input": "Why do you always have to hit stuff with a stick?!\n",
+    "output": "Well, look at him. He's all, you know, uh l-look at him. [whacks him again]\n"
+  },
+  {
+    "input": "Well, look at him. He's all, you know, uh l-look at him. [whacks him again]\n",
+    "output": "Is that all you've got, pussy?\n"
+  },
+  {
+    "input": "Is that all you've got, pussy?\n",
+    "output": "What?! [advances]\n"
+  },
+  {
+    "input": "What?! [advances]\n",
+    "output": "Hey, he talks!\n"
+  },
+  {
+    "input": "Hey, he talks!\n",
+    "output": "Yeah, he called me a pussy! I'm not a pussy, you're a pussy!\n"
+  },
+  {
+    "input": "Yeah, he called me a pussy! I'm not a pussy, you're a pussy!\n",
+    "output": "You're a pussy, pussy!\n"
+  },
+  {
+    "input": "You're a pussy, pussy!\n",
+    "output": "Ey!\n"
+  },
+  {
+    "input": "Ey!\n",
+    "output": "Dude, why are you taking Tweek's underpants?\n"
+  },
+  {
+    "input": "Dude, why are you taking Tweek's underpants?\n",
+    "output": "Yeah, look what you're doing to this poor kid.\n"
+  },
+  {
+    "input": "Yeah, look what you're doing to this poor kid.\n",
+    "output": "Waggh.\n"
+  },
+  {
+    "input": "Waggh.\n",
+    "output": "Stealing underpants big business.\n"
+  },
+  {
+    "input": "Stealing underpants big business.\n",
+    "output": "Business? Wait, do you know anything about business?\n"
+  },
+  {
+    "input": "Business? Wait, do you know anything about business?\n",
+    "output": "Sure, that's what gnomes do.\n"
+  },
+  {
+    "input": "Sure, that's what gnomes do.\n",
+    "output": "Show us.\n"
+  },
+  {
+    "input": "Show us.\n",
+    "output": "O-kay. Follow me. [goes for the door]\n"
+  },
+  {
+    "input": "O-kay. Follow me. [goes for the door]\n",
+    "output": "[muttering] Little pussy gnome. Don't call me a pussy, pussy gnome.\n[The woods. The gnome leads them on to his cave.]\n"
+  },
+  {
+    "input": "[muttering] Little pussy gnome. Don't call me a pussy, pussy gnome.\n[The woods. The gnome leads them on to his cave.]\n",
+    "output": "Not much longer now.\n"
+  },
+  {
+    "input": "Not much longer now.\n",
+    "output": "Oh, are you gonna take us to your little pussy house?\n"
+  },
+  {
+    "input": "Oh, are you gonna take us to your little pussy house?\n",
+    "output": "No, pussy, I'm taking you to my village.\n"
+  },
+  {
+    "input": "No, pussy, I'm taking you to my village.\n",
+    "output": "Oh, your pussy village?\n"
+  },
+  {
+    "input": "Oh, your pussy village?\n",
+    "output": "Cartman, will you just shut up and let him show us?\n"
+  },
+  {
+    "input": "Cartman, will you just shut up and let him show us?\n",
+    "output": "[reaches a tree, knocks on its base and a door opens] Follow me.\n"
+  },
+  {
+    "input": "[reaches a tree, knocks on its base and a door opens] Follow me.\n",
+    "output": "[the boys look at him] I hope we're not wasting our time with this little pecker.\n[Starbucks, early morn. Workers put on the finishing touches to the coffee store.]\n"
+  },
+  {
+    "input": "[the boys look at him] I hope we're not wasting our time with this little pecker.\n[Starbucks, early morn. Workers put on the finishing touches to the coffee store.]\n",
+    "output": "Well, it looks like Harbucks will never make it in this town. [turns around] All right, boys, that's it. Pack it up, we're movin' out of town.\n"
+  },
+  {
+    "input": "Well, it looks like Harbucks will never make it in this town. [turns around] All right, boys, that's it. Pack it up, we're movin' out of town.\n",
+    "output": "Aw, but we just finished.\n"
+  },
+  {
+    "input": "Aw, but we just finished.\n",
+    "output": "I know, but these folks obviously don't want us here.\n"
+  },
+  {
+    "input": "I know, but these folks obviously don't want us here.\n",
+    "output": "But what will become of us?\n"
+  },
+  {
+    "input": "But what will become of us?\n",
+    "output": "Oh, quit being so melodramatic, Sanchez. Jesus Christ!\n[Underground. The boys are still following the gnome.]\n"
+  },
+  {
+    "input": "Oh, quit being so melodramatic, Sanchez. Jesus Christ!\n[Underground. The boys are still following the gnome.]\n",
+    "output": "Damn, dude, this place is huge!\n[Before them is a pile of underpants as tall as a man. Some of them are colored.]\n"
+  },
+  {
+    "input": "Damn, dude, this place is huge!\n[Before them is a pile of underpants as tall as a man. Some of them are colored.]\n",
+    "output": "Yeah. It's almost as big as Cartman's ass.\n"
+  },
+  {
+    "input": "Yeah. It's almost as big as Cartman's ass.\n",
+    "output": "[exhales] No it isn't, you guys!\n"
+  },
+  {
+    "input": "[exhales] No it isn't, you guys!\n",
+    "output": "This is where all our work is done.\n"
+  },
+  {
+    "input": "This is where all our work is done.\n",
+    "output": "So what are you gonna do with all these underpants that you steal?\n"
+  },
+  {
+    "input": "So what are you gonna do with all these underpants that you steal?\n",
+    "output": "Collecting underpants is just phase 1. Phase 1: collect underpants.\n"
+  },
+  {
+    "input": "Collecting underpants is just phase 1. Phase 1: collect underpants.\n",
+    "output": "Sooo, what's phase 2?\n"
+  },
+  {
+    "input": "Sooo, what's phase 2?\n",
+    "output": "[has no response. Looks around, then calls out to the other gnomes on the underpants mound] Hey, what's phase 2?\n"
+  },
+  {
+    "input": "[has no response. Looks around, then calls out to the other gnomes on the underpants mound] Hey, what's phase 2?\n",
+    "output": "Phase 1: we collect underpants.\n"
+  },
+  {
+    "input": "Phase 1: we collect underpants.\n",
+    "output": "Yeah yeah yeah, but, what about phase 2?\n"
+  },
+  {
+    "input": "Yeah yeah yeah, but, what about phase 2?\n",
+    "output": "[says nothing, then] Well, phase 3 is profit. Get it?\n"
+  },
+  {
+    "input": "[says nothing, then] Well, phase 3 is profit. Get it?\n",
+    "output": "I don't get it.\n"
+  },
+  {
+    "input": "I don't get it.\n",
+    "output": "[walks up to a large chart] You see,\nPhase 1: collect underpants. Phase 2: ... Phase 3: Profit.\n"
+  },
+  {
+    "input": "[walks up to a large chart] You see,\nPhase 1: collect underpants. Phase 2: ... Phase 3: Profit.\n",
+    "output": "Oh, I get it.\n"
+  },
+  {
+    "input": "Oh, I get it.\n",
+    "output": "No you don't, fatass!\n"
+  },
+  {
+    "input": "No you don't, fatass!\n",
+    "output": "Do you guys know anything about corporations?\n"
+  },
+  {
+    "input": "Do you guys know anything about corporations?\n",
+    "output": "You bet we do!\n"
+  },
+  {
+    "input": "You bet we do!\n",
+    "output": "Us gnomes are geniuses at corporations.\n"
+  },
+  {
+    "input": "Us gnomes are geniuses at corporations.\n",
+    "output": "[three of them move a cart up a track]\nTime to go to work, work all night\nSe--\n"
+  },
+  {
+    "input": "[three of them move a cart up a track]\nTime to go to work, work all night\nSe--\n",
+    "output": "[the cart falls off the track and on down] Jesus Christ, look out!\n[The cart lands on Kenny.]\n"
+  },
+  {
+    "input": "[the cart falls off the track and on down] Jesus Christ, look out!\n[The cart lands on Kenny.]\n",
+    "output": "Oh my God, they killed Kenny.\n"
+  },
+  {
+    "input": "Oh my God, they killed Kenny.\n",
+    "output": "You bastards. Listen, we have to give a huge speech tomorrow about corporate takeovers.\n"
+  },
+  {
+    "input": "You bastards. Listen, we have to give a huge speech tomorrow about corporate takeovers.\n",
+    "output": "Holy shit! We've killed your friend!\n"
+  },
+  {
+    "input": "Holy shit! We've killed your friend!\n",
+    "output": "Yeahyeahyeah. Look. We've gotta know about corporate takeovers tomorrow or we're screwed.\n"
+  },
+  {
+    "input": "Yeahyeahyeah. Look. We've gotta know about corporate takeovers tomorrow or we're screwed.\n",
+    "output": "Christ, we squished him like a bug!\n"
+  },
+  {
+    "input": "Christ, we squished him like a bug!\n",
+    "output": "Do you know anything about corporate takeovers?\n"
+  },
+  {
+    "input": "Do you know anything about corporate takeovers?\n",
+    "output": "Well, we can explain that to you easily.\n"
+  },
+  {
+    "input": "Well, we can explain that to you easily.\n",
+    "output": "Yes, for a price.\n"
+  },
+  {
+    "input": "Yes, for a price.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "You know.\n"
+  },
+  {
+    "input": "You know.\n",
+    "output": "Underpants?\n"
+  },
+  {
+    "input": "Underpants?\n",
+    "output": "Underpants!\n[Harbucks, daytime. Prop. 10 supporters are out in force and Toto is performing.]\n"
+  },
+  {
+    "input": "Underpants!\n[Harbucks, daytime. Prop. 10 supporters are out in force and Toto is performing.]\n",
+    "output": "[taking the stage] Toto, ladies and gentlemen!\n[The band leaves.]\n"
+  },
+  {
+    "input": "[taking the stage] Toto, ladies and gentlemen!\n[The band leaves.]\n",
+    "output": "Yeah, Toto! Whoo, Toto! Woo!\n"
+  },
+  {
+    "input": "Yeah, Toto! Whoo, Toto! Woo!\n",
+    "output": "All right. And now, before we all vote yes on Prop. 10, here to remind us why are the lovable, innocent children.\n"
+  },
+  {
+    "input": "All right. And now, before we all vote yes on Prop. 10, here to remind us why are the lovable, innocent children.\n",
+    "output": "Uh. Since we are so concerned with the corporate takeovers, we went and asked our friends, the underpants gnomes, and they told us all about big corporations.\n"
+  },
+  {
+    "input": "Uh. Since we are so concerned with the corporate takeovers, we went and asked our friends, the underpants gnomes, and they told us all about big corporations.\n",
+    "output": "Underpants gnomes?\n"
+  },
+  {
+    "input": "Underpants gnomes?\n",
+    "output": "Big corporations are good!\n"
+  },
+  {
+    "input": "Big corporations are good!\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "What's this?\n"
+  },
+  {
+    "input": "What's this?\n",
+    "output": "Good? [the Lady Member is cross]\n"
+  },
+  {
+    "input": "Good? [the Lady Member is cross]\n",
+    "output": "Because without big corporations we wouldn't have things like cars and computers and canned soup.\n"
+  },
+  {
+    "input": "Because without big corporations we wouldn't have things like cars and computers and canned soup.\n",
+    "output": "Even Harbucks Coffee started off as a small, little business. But because it made such great coffee, and because they ran their business so well, they managed to grow and grow until it became the corporate powerhouse it is today. And that is why we should all let Harbucks stay!\n[The crowd is stunned.]\n"
+  },
+  {
+    "input": "Even Harbucks Coffee started off as a small, little business. But because it made such great coffee, and because they ran their business so well, they managed to grow and grow until it became the corporate powerhouse it is today. And that is why we should all let Harbucks stay!\n[The crowd is stunned.]\n",
+    "output": "Ogh.\n"
+  },
+  {
+    "input": "Ogh.\n",
+    "output": "That's not what you said last time.\n"
+  },
+  {
+    "input": "That's not what you said last time.\n",
+    "output": "Uuuh. Well, the truth is, we didn't write that paper last time.\n[Gasps from the crowd.]\n"
+  },
+  {
+    "input": "Uuuh. Well, the truth is, we didn't write that paper last time.\n[Gasps from the crowd.]\n",
+    "output": "You little turds!! You've ruined my life for the last time!!\n[Officer Barbrady and another man haul him off. Mrs. Tweek claps for the boys and goes onstage.]\n"
+  },
+  {
+    "input": "You little turds!! You've ruined my life for the last time!!\n[Officer Barbrady and another man haul him off. Mrs. Tweek claps for the boys and goes onstage.]\n",
+    "output": "These boys are absolutely right. We've been using these poor kids to pull at your heartstrings for our cause, and it's wrong. We're as low and despicable as Rob Reiner. You keep protesting and complaining, but did any of you ever even bother to taste Harbucks coffee? [shot of the town committee. The crowd blinks] Harbucks coffee got to where it is by being the best. Don't you think you should at least try it?\n[The crowd parts as Postum exits Harbucks with a tray of his coffee, then closes in to get the coffee. Some people taste it.]\n"
+  },
+  {
+    "input": "These boys are absolutely right. We've been using these poor kids to pull at your heartstrings for our cause, and it's wrong. We're as low and despicable as Rob Reiner. You keep protesting and complaining, but did any of you ever even bother to taste Harbucks coffee? [shot of the town committee. The crowd blinks] Harbucks coffee got to where it is by being the best. Don't you think you should at least try it?\n[The crowd parts as Postum exits Harbucks with a tray of his coffee, then closes in to get the coffee. Some people taste it.]\n",
+    "output": "Hey, this is pretty damn good.\n"
+  },
+  {
+    "input": "Hey, this is pretty damn good.\n",
+    "output": "Yeah, it doesn't have that bland, raw, sewage taste that Tweek's coffee has.\n"
+  },
+  {
+    "input": "Yeah, it doesn't have that bland, raw, sewage taste that Tweek's coffee has.\n",
+    "output": "[comes over for a taste] Hey. Hey, that is good.\n"
+  },
+  {
+    "input": "[comes over for a taste] Hey. Hey, that is good.\n",
+    "output": "It's a French roast.\n"
+  },
+  {
+    "input": "It's a French roast.\n",
+    "output": "It's subtle and mild. Mild, like that first splash of sun on an April morning. This coffee is coffee the way it should be.\n"
+  },
+  {
+    "input": "It's subtle and mild. Mild, like that first splash of sun on an April morning. This coffee is coffee the way it should be.\n",
+    "output": "Hehey, no hard feelings, Tweek. You know, we still need someone to run this Harbucks coffeehouse. I'm sure it will make a lot of money.\n"
+  },
+  {
+    "input": "Hehey, no hard feelings, Tweek. You know, we still need someone to run this Harbucks coffeehouse. I'm sure it will make a lot of money.\n",
+    "output": "Thank you, Mr. Postum, but I think we'll be happy with the money we make selling our son into slavery.\n"
+  },
+  {
+    "input": "Thank you, Mr. Postum, but I think we'll be happy with the money we make selling our son into slavery.\n",
+    "output": "Aggghhh!\n"
+  },
+  {
+    "input": "Aggghhh!\n",
+    "output": "Just kidding, son.\n[Everyone laughs. The gnomes come and remove the pants from a townsman behind Tweek's right shoulder.]\n"
+  }
+]

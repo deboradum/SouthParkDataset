@@ -1,0 +1,1262 @@
+[
+  {
+    "input": "",
+    "output": "Weight Gain 4000\n\n[Mr. Garrison's classroom.]\n"
+  },
+  {
+    "input": "Weight Gain 4000\n\n[Mr. Garrison's classroom.]\n",
+    "output": "Hey Stan, did you see that rainbow this morning?\n"
+  },
+  {
+    "input": "Hey Stan, did you see that rainbow this morning?\n",
+    "output": "Yeah, it was huge.\n"
+  },
+  {
+    "input": "Yeah, it was huge.\n",
+    "output": "Ugh, I hate those things.\n"
+  },
+  {
+    "input": "Ugh, I hate those things.\n",
+    "output": "Nobody hates rainbows.\n"
+  },
+  {
+    "input": "Nobody hates rainbows.\n",
+    "output": "Yeah, what's there to hate about rainbows?\n"
+  },
+  {
+    "input": "Yeah, what's there to hate about rainbows?\n",
+    "output": "Well, you know, you'll just be sitting there, minding your own business, and they'll come, marching in and crawl up your leg and start biting the inside of your ass, and you'll be all like: \"HEY! GET OUT OF MY ASS YOU STUPID RAINBOWS!\" [Silence.]\n"
+  },
+  {
+    "input": "Well, you know, you'll just be sitting there, minding your own business, and they'll come, marching in and crawl up your leg and start biting the inside of your ass, and you'll be all like: \"HEY! GET OUT OF MY ASS YOU STUPID RAINBOWS!\" [Silence.]\n",
+    "output": "Cartman, what the hell are you talking about?\n"
+  },
+  {
+    "input": "Cartman, what the hell are you talking about?\n",
+    "output": "I'm talking about rainbows, I hate those friggin' things!\n"
+  },
+  {
+    "input": "I'm talking about rainbows, I hate those friggin' things!\n",
+    "output": "Rainbows are those little arches of color that show up during a rainstorm.\n"
+  },
+  {
+    "input": "Rainbows are those little arches of color that show up during a rainstorm.\n",
+    "output": "Ohh, rainbows. Oh yeah, I like those, those are cool.\n"
+  },
+  {
+    "input": "Ohh, rainbows. Oh yeah, I like those, those are cool.\n",
+    "output": "What were you talking about?\n"
+  },
+  {
+    "input": "What were you talking about?\n",
+    "output": "Huh? Oh, nothing, forget it.\n"
+  },
+  {
+    "input": "Huh? Oh, nothing, forget it.\n",
+    "output": "No, what marches in, crawls up your leg and bites the inside of your ass?\n"
+  },
+  {
+    "input": "No, what marches in, crawls up your leg and bites the inside of your ass?\n",
+    "output": "Nothing..!\n"
+  },
+  {
+    "input": "Nothing..!\n",
+    "output": "Children, children. Remember the 'Save Our Fragile Planet' essay contest that you children worked so hard on last month? [Silence.] One of our very own South Park students has won the national prize.\n"
+  },
+  {
+    "input": "Children, children. Remember the 'Save Our Fragile Planet' essay contest that you children worked so hard on last month? [Silence.] One of our very own South Park students has won the national prize.\n",
+    "output": "[Softly.] Wow, I knew I would win.\n"
+  },
+  {
+    "input": "[Softly.] Wow, I knew I would win.\n",
+    "output": "Gosh Mr. Garrison, this sure is exciting.\n"
+  },
+  {
+    "input": "Gosh Mr. Garrison, this sure is exciting.\n",
+    "output": "That's right Mr. Hat, the winner of the national 'Save Our Fragile Planet' contest is... Eric Cartman.\n"
+  },
+  {
+    "input": "That's right Mr. Hat, the winner of the national 'Save Our Fragile Planet' contest is... Eric Cartman.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Congratulations Eric, on writing the award winning paper.\n"
+  },
+  {
+    "input": "Congratulations Eric, on writing the award winning paper.\n",
+    "output": "Kick ass!\n"
+  },
+  {
+    "input": "Kick ass!\n",
+    "output": "That's impossible, Cartman doesn't know a rain-forest from a Pop-Tart.\n"
+  },
+  {
+    "input": "That's impossible, Cartman doesn't know a rain-forest from a Pop-Tart.\n",
+    "output": "Yeah I do, Pop-Tarts are frosted.\n"
+  },
+  {
+    "input": "Yeah I do, Pop-Tarts are frosted.\n",
+    "output": "Out of over a million papers, Eric's was chosen as the grand prize winner.\n"
+  },
+  {
+    "input": "Out of over a million papers, Eric's was chosen as the grand prize winner.\n",
+    "output": "Wow, what did you write about Cartman?\n"
+  },
+  {
+    "input": "Wow, what did you write about Cartman?\n",
+    "output": "Oh, you know, this and that.\n"
+  },
+  {
+    "input": "Oh, you know, this and that.\n",
+    "output": "He doesn't even know what he wrote about!\n"
+  },
+  {
+    "input": "He doesn't even know what he wrote about!\n",
+    "output": "What was your paper about Wendy?\n"
+  },
+  {
+    "input": "What was your paper about Wendy?\n",
+    "output": "My paper was on the suffering of bottle-nose dolphins.\n"
+  },
+  {
+    "input": "My paper was on the suffering of bottle-nose dolphins.\n",
+    "output": "There you see, you shouldn't have written a paper about dolphins. Dolphins are stupid.\n"
+  },
+  {
+    "input": "There you see, you shouldn't have written a paper about dolphins. Dolphins are stupid.\n",
+    "output": "Dude, dolphins are like the second smartest animal on the planet.\n"
+  },
+  {
+    "input": "Dude, dolphins are like the second smartest animal on the planet.\n",
+    "output": "Buh, hah, right, if they're so damn smart, how come they get caught in those fishing nets all the time?\n"
+  },
+  {
+    "input": "Buh, hah, right, if they're so damn smart, how come they get caught in those fishing nets all the time?\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "Wait, wait, there's more. It says here that Eric's trophy will be presented to him by...Kathie Lee Gifford?\n"
+  },
+  {
+    "input": "Wait, wait, there's more. It says here that Eric's trophy will be presented to him by...Kathie Lee Gifford?\n",
+    "output": "Kathie Lee is coming to South Park?!\n"
+  },
+  {
+    "input": "Kathie Lee is coming to South Park?!\n",
+    "output": "And the presentation will be on national television.\n"
+  },
+  {
+    "input": "And the presentation will be on national television.\n",
+    "output": "Television!\n"
+  },
+  {
+    "input": "Television!\n",
+    "output": "[Thinking to himself.] Kathie Lee Gifford. I don't believe it.\n[City Hall. Mayor's Office.]\n"
+  },
+  {
+    "input": "[Thinking to himself.] Kathie Lee Gifford. I don't believe it.\n[City Hall. Mayor's Office.]\n",
+    "output": "Kathie Lee Gifford in South Park! Oh my God! This is our chance to make a name for ourselves; to show that we're not just some piss-ant white-bread mountain town.\n"
+  },
+  {
+    "input": "Kathie Lee Gifford in South Park! Oh my God! This is our chance to make a name for ourselves; to show that we're not just some piss-ant white-bread mountain town.\n",
+    "output": "Better yet, it's a chance for you to get some publicity.\n"
+  },
+  {
+    "input": "Better yet, it's a chance for you to get some publicity.\n",
+    "output": "Yes! If I can show just how much I turned South Park around, I could become a Senator.\n"
+  },
+  {
+    "input": "Yes! If I can show just how much I turned South Park around, I could become a Senator.\n",
+    "output": "Maybe even a State Senator.\n"
+  },
+  {
+    "input": "Maybe even a State Senator.\n",
+    "output": "Mayor, we should decorate the town square.\n"
+  },
+  {
+    "input": "Mayor, we should decorate the town square.\n",
+    "output": "Then we should have the chef of the school cafeteria sing a song, and play up the ethnic diversity of our town.\n"
+  },
+  {
+    "input": "Then we should have the chef of the school cafeteria sing a song, and play up the ethnic diversity of our town.\n",
+    "output": "That's right, he's a black guy isn't he?\n"
+  },
+  {
+    "input": "That's right, he's a black guy isn't he?\n",
+    "output": "Black as the night itself, Mayor.\n"
+  },
+  {
+    "input": "Black as the night itself, Mayor.\n",
+    "output": "Yes! And we can even have the children of South Park put on a little play. Kathie Lee loves children.\n"
+  },
+  {
+    "input": "Yes! And we can even have the children of South Park put on a little play. Kathie Lee loves children.\n",
+    "output": "If they're working in a sweat-shop that is.\n"
+  },
+  {
+    "input": "If they're working in a sweat-shop that is.\n",
+    "output": "Ohhh.\n"
+  },
+  {
+    "input": "Ohhh.\n",
+    "output": "Ouch. [Johnson Laughs.] Thank you.\n[South Park Elementary Cafeteria.]\n"
+  },
+  {
+    "input": "Ouch. [Johnson Laughs.] Thank you.\n[South Park Elementary Cafeteria.]\n",
+    "output": "You guys, guess what? After I'm on television, I'm gonna be totally famous.\n"
+  },
+  {
+    "input": "You guys, guess what? After I'm on television, I'm gonna be totally famous.\n",
+    "output": "[Passing by.] Hitler was famous too.\n"
+  },
+  {
+    "input": "[Passing by.] Hitler was famous too.\n",
+    "output": "[Stopping by.] Hello there children.\n"
+  },
+  {
+    "input": "[Stopping by.] Hello there children.\n",
+    "output": "Hey, Chef.\n"
+  },
+  {
+    "input": "Hey, Chef.\n",
+    "output": "How are my little crackers today?\n"
+  },
+  {
+    "input": "How are my little crackers today?\n",
+    "output": "Good.\n"
+  },
+  {
+    "input": "Good.\n",
+    "output": "Did you all hear about the news? Kathie Lee Gifford is coming to South Park.\n"
+  },
+  {
+    "input": "Did you all hear about the news? Kathie Lee Gifford is coming to South Park.\n",
+    "output": "Yeah, cause Cartman cheated and won the environmental essay contest.\n"
+  },
+  {
+    "input": "Yeah, cause Cartman cheated and won the environmental essay contest.\n",
+    "output": "Hey!\n"
+  },
+  {
+    "input": "Hey!\n",
+    "output": "Yeahyeh. Oh whatever. But the mayor just called and asked me to sing at the ceremony.\n"
+  },
+  {
+    "input": "Yeahyeh. Oh whatever. But the mayor just called and asked me to sing at the ceremony.\n",
+    "output": "Wow, are you gonna do it?\n"
+  },
+  {
+    "input": "Wow, are you gonna do it?\n",
+    "output": "Of course! Kathie Lee is a beautiful, sultry queen of sexual fantasy. And if I sing to her, maybe I can lure her into a night of exotic delectation.\n"
+  },
+  {
+    "input": "Of course! Kathie Lee is a beautiful, sultry queen of sexual fantasy. And if I sing to her, maybe I can lure her into a night of exotic delectation.\n",
+    "output": "Yeah, that'd be cool.\n"
+  },
+  {
+    "input": "Yeah, that'd be cool.\n",
+    "output": "(How big's your penis, Chef?)\n"
+  },
+  {
+    "input": "(How big's your penis, Chef?)\n",
+    "output": "Well, three times bigger than Frank Gifford's, anyway.\n[He giggles, somewhat embarrassed.]\n[Mr. Garrison's Classroom. Garrison is at his desk and Mr. Hat is across from him in a chair.]\n"
+  },
+  {
+    "input": "Well, three times bigger than Frank Gifford's, anyway.\n[He giggles, somewhat embarrassed.]\n[Mr. Garrison's Classroom. Garrison is at his desk and Mr. Hat is across from him in a chair.]\n",
+    "output": "Oh, I can't even concentrate on grading papers with all this excitement.\n[Notices Mr. Hat.]\n"
+  },
+  {
+    "input": "Oh, I can't even concentrate on grading papers with all this excitement.\n[Notices Mr. Hat.]\n",
+    "output": "Why are you looking at me like that Mr. Hat?\n"
+  },
+  {
+    "input": "Why are you looking at me like that Mr. Hat?\n",
+    "output": "[Now on Mr. Garrison's hand.] Have you forgotten about all the pain and suffering that Kathie Lee Gifford caused you?\n"
+  },
+  {
+    "input": "[Now on Mr. Garrison's hand.] Have you forgotten about all the pain and suffering that Kathie Lee Gifford caused you?\n",
+    "output": "Mmm, mmm, Mr. Hat, that was a long time ago, and, and I was only a child.\n"
+  },
+  {
+    "input": "Mmm, mmm, Mr. Hat, that was a long time ago, and, and I was only a child.\n",
+    "output": "We could have won that talent show, we could have been huge.\n[Flashback to the National Talents Show Finals.]\n"
+  },
+  {
+    "input": "We could have won that talent show, we could have been huge.\n[Flashback to the National Talents Show Finals.]\n",
+    "output": "Knock knock, Mr. Hat.\n"
+  },
+  {
+    "input": "Knock knock, Mr. Hat.\n",
+    "output": "Who's there?\n"
+  },
+  {
+    "input": "Who's there?\n",
+    "output": "Orange.\n"
+  },
+  {
+    "input": "Orange.\n",
+    "output": "Orange who?\n"
+  },
+  {
+    "input": "Orange who?\n",
+    "output": "Orange you glad I didn't say banana?\n[One person claps.]\n"
+  },
+  {
+    "input": "Orange you glad I didn't say banana?\n[One person claps.]\n",
+    "output": "Thank you.\n[Judges show scores of 8.9, 9, 7.8 and 9.2.]\n"
+  },
+  {
+    "input": "Thank you.\n[Judges show scores of 8.9, 9, 7.8 and 9.2.]\n",
+    "output": "Wow Mr. Hat, looks like we might win.\n"
+  },
+  {
+    "input": "Wow Mr. Hat, looks like we might win.\n",
+    "output": "And now our last talent show finalist, Kathie Lee Epstein.\n"
+  },
+  {
+    "input": "And now our last talent show finalist, Kathie Lee Epstein.\n",
+    "output": "If they could see me now, that little gang of mine.\nI'm eating fancy chow and drinking fancy wine.\nI'd like those stumble bums to see for a fact\nThe kind of top-drawer first-rate chums I attract\n[Mexican puppet] All I can say is, \"Wow-wee, look-a where I am.\"\n[Tourist puppet] Tonight I landed, Pow!, right in a pot of jam.\nWhat a setup! Holy Cow!\nThey'd never believe it, if my friends could see me now!\n[Crowd goes wild. Judges show all 10's. Little Garrison is shocked.]\n[In the present.]\n"
+  },
+  {
+    "input": "If they could see me now, that little gang of mine.\nI'm eating fancy chow and drinking fancy wine.\nI'd like those stumble bums to see for a fact\nThe kind of top-drawer first-rate chums I attract\n[Mexican puppet] All I can say is, \"Wow-wee, look-a where I am.\"\n[Tourist puppet] Tonight I landed, Pow!, right in a pot of jam.\nWhat a setup! Holy Cow!\nThey'd never believe it, if my friends could see me now!\n[Crowd goes wild. Judges show all 10's. Little Garrison is shocked.]\n[In the present.]\n",
+    "output": "It wasn't fair. She had choreography. How could we compete with that?\n"
+  },
+  {
+    "input": "It wasn't fair. She had choreography. How could we compete with that?\n",
+    "output": "But now she's coming to South Park, and I know a way to make it all better.\n"
+  },
+  {
+    "input": "But now she's coming to South Park, and I know a way to make it all better.\n",
+    "output": "How?\n[Mr. Hat whispers to Mr. Garrison.]\n"
+  },
+  {
+    "input": "How?\n[Mr. Hat whispers to Mr. Garrison.]\n",
+    "output": "No, Mr. Hat, I couldn't kill Kathie Lee Gifford!\n[Mr. Garrison's Classroom, later in the day. The Mayor is now there.]\n"
+  },
+  {
+    "input": "No, Mr. Hat, I couldn't kill Kathie Lee Gifford!\n[Mr. Garrison's Classroom, later in the day. The Mayor is now there.]\n",
+    "output": "Children, as you all know, Miss Kathie Lee Gifford will be in South Park to present the award to some kid for an essay.\n"
+  },
+  {
+    "input": "Children, as you all know, Miss Kathie Lee Gifford will be in South Park to present the award to some kid for an essay.\n",
+    "output": "That kid is me.\n"
+  },
+  {
+    "input": "That kid is me.\n",
+    "output": "Whatever. Now, I'm going to have you luscious little youngsters do a play about the history of South Park.\n"
+  },
+  {
+    "input": "Whatever. Now, I'm going to have you luscious little youngsters do a play about the history of South Park.\n",
+    "output": "That'll be wonderful, won't it Mr. Hat.\n"
+  },
+  {
+    "input": "That'll be wonderful, won't it Mr. Hat.\n",
+    "output": "[In a demonic voice.] Kill her.\n"
+  },
+  {
+    "input": "[In a demonic voice.] Kill her.\n",
+    "output": "[Whispers.] Mr. Hat!\n"
+  },
+  {
+    "input": "[Whispers.] Mr. Hat!\n",
+    "output": "Mr. Garrison, I'm asking you to direct our little play.\n"
+  },
+  {
+    "input": "Mr. Garrison, I'm asking you to direct our little play.\n",
+    "output": "Oh, that's perfect. You see Mr. Hat, we don't have to kill her. We can just upstage her.\n"
+  },
+  {
+    "input": "Oh, that's perfect. You see Mr. Hat, we don't have to kill her. We can just upstage her.\n",
+    "output": "Mrs. Mayor, you might want to review the essays. We think Cartman might have cheated.\n"
+  },
+  {
+    "input": "Mrs. Mayor, you might want to review the essays. We think Cartman might have cheated.\n",
+    "output": "Who cares? Now kids, what's say we give it our South Park best!\n[Silence.]\n"
+  },
+  {
+    "input": "Who cares? Now kids, what's say we give it our South Park best!\n[Silence.]\n",
+    "output": "And who's our little prize winner again?\n"
+  },
+  {
+    "input": "And who's our little prize winner again?\n",
+    "output": "Me! Eric Cartman!\n"
+  },
+  {
+    "input": "Me! Eric Cartman!\n",
+    "output": "How about we get in shape, huh? We want to look our best for the TV cameras don't we?\n"
+  },
+  {
+    "input": "How about we get in shape, huh? We want to look our best for the TV cameras don't we?\n",
+    "output": "Yes ma'am. [Sings.]\nI'm gonna be on television,\nI'm gonna be on television.\n[Bus Stop The kids have gotten off the bus and are going home.]\n"
+  },
+  {
+    "input": "Yes ma'am. [Sings.]\nI'm gonna be on television,\nI'm gonna be on television.\n[Bus Stop The kids have gotten off the bus and are going home.]\n",
+    "output": "[Still singing.]\n...I'm gonna be on television,\nI'm gonna be on television...\n"
+  },
+  {
+    "input": "[Still singing.]\n...I'm gonna be on television,\nI'm gonna be on television...\n",
+    "output": "[Turning to face Cartman.] We don't believe for a minute that you won that contest fairly, fat boy.\n"
+  },
+  {
+    "input": "[Turning to face Cartman.] We don't believe for a minute that you won that contest fairly, fat boy.\n",
+    "output": "Egh, stop defending your little girlfriend for writing about some stupid fish.\n"
+  },
+  {
+    "input": "Egh, stop defending your little girlfriend for writing about some stupid fish.\n",
+    "output": "Dude, dolphins are intelligent and friendly.\n"
+  },
+  {
+    "input": "Dude, dolphins are intelligent and friendly.\n",
+    "output": "Intelligent and friendly on rye bread with some mayonnaise.\n"
+  },
+  {
+    "input": "Intelligent and friendly on rye bread with some mayonnaise.\n",
+    "output": "Dolphins are way smarter than you!\n"
+  },
+  {
+    "input": "Dolphins are way smarter than you!\n",
+    "output": "If they're so smart, why do they live in igloos?\n"
+  },
+  {
+    "input": "If they're so smart, why do they live in igloos?\n",
+    "output": "Dolphins don't live in igloos, that's Eskimos!\n"
+  },
+  {
+    "input": "Dolphins don't live in igloos, that's Eskimos!\n",
+    "output": "Dolphins, Eskimos, who cares?! It's all a bunch of tree hugging hippie crap!\n"
+  },
+  {
+    "input": "Dolphins, Eskimos, who cares?! It's all a bunch of tree hugging hippie crap!\n",
+    "output": "Tell me what you wrote about!\n"
+  },
+  {
+    "input": "Tell me what you wrote about!\n",
+    "output": "I can't. I have to go home and get in shape.\n"
+  },
+  {
+    "input": "I can't. I have to go home and get in shape.\n",
+    "output": "Yeah, right! You'll go and sit in front of the TV and eat Cheesy Poofs, ass-master!\n"
+  },
+  {
+    "input": "Yeah, right! You'll go and sit in front of the TV and eat Cheesy Poofs, ass-master!\n",
+    "output": "Screw you, hippie!\n[Cartman's House. Cartman is sitting on the couch in front of the TV eating Cheesy Poofs.]\n"
+  },
+  {
+    "input": "Screw you, hippie!\n[Cartman's House. Cartman is sitting on the couch in front of the TV eating Cheesy Poofs.]\n",
+    "output": "We'll be right back to Jesus and Pals, after this.\n"
+  },
+  {
+    "input": "We'll be right back to Jesus and Pals, after this.\n",
+    "output": "Hey!! You need to get in shape fast?! Wanna look your best?! Tired of the other guys getting all the chicks?! Are you tired of being a 90 pound weakling?!\n"
+  },
+  {
+    "input": "Hey!! You need to get in shape fast?! Wanna look your best?! Tired of the other guys getting all the chicks?! Are you tired of being a 90 pound weakling?!\n",
+    "output": "Yeah, I only weigh 90 pounds.\n"
+  },
+  {
+    "input": "Yeah, I only weigh 90 pounds.\n",
+    "output": "Then bulk up quick, with Weight Gain 4000!!\n"
+  },
+  {
+    "input": "Then bulk up quick, with Weight Gain 4000!!\n",
+    "output": "Yes!\n"
+  },
+  {
+    "input": "Yes!\n",
+    "output": "With over 4,000 grams of saturated fat per serving, its patented formula is designed to enter the mouth, and go directly to the stomach where it is distributed to the bloodstream. Now available in stores everywhere. Get some today, and say with me: 'Beefcake!'\n"
+  },
+  {
+    "input": "With over 4,000 grams of saturated fat per serving, its patented formula is designed to enter the mouth, and go directly to the stomach where it is distributed to the bloodstream. Now available in stores everywhere. Get some today, and say with me: 'Beefcake!'\n",
+    "output": "Beefcake!\n"
+  },
+  {
+    "input": "Beefcake!\n",
+    "output": "Beefcake!\n"
+  },
+  {
+    "input": "Beefcake!\n",
+    "output": "Beefcake!\n"
+  },
+  {
+    "input": "Beefcake!\n",
+    "output": "Beefcake!\n"
+  },
+  {
+    "input": "Beefcake!\n",
+    "output": "[In unison] BEEFCAKE!\n"
+  },
+  {
+    "input": "[In unison] BEEFCAKE!\n",
+    "output": "May cause irreversible damage to the kidneys and liver...\n"
+  },
+  {
+    "input": "May cause irreversible damage to the kidneys and liver...\n",
+    "output": "Mom, can you get me some Weight Gain 4000?\n"
+  },
+  {
+    "input": "Mom, can you get me some Weight Gain 4000?\n",
+    "output": "Okay Eric, I'll get you some at the store tomorrow.\n"
+  },
+  {
+    "input": "Okay Eric, I'll get you some at the store tomorrow.\n",
+    "output": "But mom, I need it for tomorrow.\n"
+  },
+  {
+    "input": "But mom, I need it for tomorrow.\n",
+    "output": "But tomorrow is grocery day Eric.\n"
+  },
+  {
+    "input": "But tomorrow is grocery day Eric.\n",
+    "output": "[Shrieking.] Mm-mo-om, Ah-ee n\u00e9e-eed suh-ome Weight Gain Four Thousaaand! I need iiit!\n"
+  },
+  {
+    "input": "[Shrieking.] Mm-mo-om, Ah-ee n\u00e9e-eed suh-ome Weight Gain Four Thousaaand! I need iiit!\n",
+    "output": "Okay, okay, then. I guess I'll be going to the store now then.\n[Cartman smiles broadly.]\n[Mr. Garrison's bed. He hears Kathie Lee singing in his head: \"If they could see me now, that little gang of mine, and eating fancy chow...\" He wakes up startled.]\n"
+  },
+  {
+    "input": "Okay, okay, then. I guess I'll be going to the store now then.\n[Cartman smiles broadly.]\n[Mr. Garrison's bed. He hears Kathie Lee singing in his head: \"If they could see me now, that little gang of mine, and eating fancy chow...\" He wakes up startled.]\n",
+    "output": "No, no!\n"
+  },
+  {
+    "input": "No, no!\n",
+    "output": "[In a demonic voice.] Kill her.\n"
+  },
+  {
+    "input": "[In a demonic voice.] Kill her.\n",
+    "output": "No, Mr. Hat, I won't do it.\n[Mr. Hat's head starts spinning slowly, demonically, his pupils glow red.]\n"
+  },
+  {
+    "input": "No, Mr. Hat, I won't do it.\n[Mr. Hat's head starts spinning slowly, demonically, his pupils glow red.]\n",
+    "output": "Kill!\n"
+  },
+  {
+    "input": "Kill!\n",
+    "output": "That does it, you're going in the dresser drawer, Mr. Hat.\n"
+  },
+  {
+    "input": "That does it, you're going in the dresser drawer, Mr. Hat.\n",
+    "output": "She'll make a fool of you again.\n"
+  },
+  {
+    "input": "She'll make a fool of you again.\n",
+    "output": "Well, you can just stay in that drawer Negative Nancy.\n[Bus Stop, next morning.]\n[Cartman is a bit bigger and showing it off by wearing a Beefcake muscle shirt instead of layers of clothes.]\n"
+  },
+  {
+    "input": "Well, you can just stay in that drawer Negative Nancy.\n[Bus Stop, next morning.]\n[Cartman is a bit bigger and showing it off by wearing a Beefcake muscle shirt instead of layers of clothes.]\n",
+    "output": "Hey dudes.\n"
+  },
+  {
+    "input": "Hey dudes.\n",
+    "output": "What the hell is wrong with you, Cartman? Haven't you noticed the three feet of snow on the ground?\n"
+  },
+  {
+    "input": "What the hell is wrong with you, Cartman? Haven't you noticed the three feet of snow on the ground?\n",
+    "output": "Listen! I have a nice body and I want to show it off, you got that?\n"
+  },
+  {
+    "input": "Listen! I have a nice body and I want to show it off, you got that?\n",
+    "output": "What? You've got to weight 90 pounds.\n"
+  },
+  {
+    "input": "What? You've got to weight 90 pounds.\n",
+    "output": "I'm up to 94, thank you very much.\n"
+  },
+  {
+    "input": "I'm up to 94, thank you very much.\n",
+    "output": "(They're the biggest breasts that I've seen)\n"
+  },
+  {
+    "input": "(They're the biggest breasts that I've seen)\n",
+    "output": "Yeah, they're almost as big as his mom's.\n[The others laugh.]\n"
+  },
+  {
+    "input": "Yeah, they're almost as big as his mom's.\n[The others laugh.]\n",
+    "output": "Laugh all you want, I'm the one who's gonna be on TV, looking all buff.\n[He chugs the can of Weight Gain.]\n"
+  },
+  {
+    "input": "Laugh all you want, I'm the one who's gonna be on TV, looking all buff.\n[He chugs the can of Weight Gain.]\n",
+    "output": "What's that stuff?\n"
+  },
+  {
+    "input": "What's that stuff?\n",
+    "output": "Weight Gain 4000, it's helping me bulk up.\n"
+  },
+  {
+    "input": "Weight Gain 4000, it's helping me bulk up.\n",
+    "output": "Bulk up to what, fat-ass?\n"
+  },
+  {
+    "input": "Bulk up to what, fat-ass?\n",
+    "output": "Super fat-ass?\n"
+  },
+  {
+    "input": "Super fat-ass?\n",
+    "output": "Ey! I don't have to take that kind of crap from you scrawny weaklings!\n[The bus Arrives and the others go in ahead of him.]\n"
+  },
+  {
+    "input": "Ey! I don't have to take that kind of crap from you scrawny weaklings!\n[The bus Arrives and the others go in ahead of him.]\n",
+    "output": "Eh, eh. Sweet. Check me out, I'm such a beefcake I can't even get through the door. Eh.\n[Town Square. A flag goes up.]\n"
+  },
+  {
+    "input": "Eh, eh. Sweet. Check me out, I'm such a beefcake I can't even get through the door. Eh.\n[Town Square. A flag goes up.]\n",
+    "output": "Come on people. We've got to turn this place around. Hang up the lights, string up the banners, castrate the cows!\n"
+  },
+  {
+    "input": "Come on people. We've got to turn this place around. Hang up the lights, string up the banners, castrate the cows!\n",
+    "output": "[Out in a pasture.] Mooooo?\n[Outdoor stage. The class has moved there to practice a play.]\n"
+  },
+  {
+    "input": "[Out in a pasture.] Mooooo?\n[Outdoor stage. The class has moved there to practice a play.]\n",
+    "output": "Well Mr. Garrison, how is the little play going?\n"
+  },
+  {
+    "input": "Well Mr. Garrison, how is the little play going?\n",
+    "output": "Huh? Oh, fine. We were just about to run it from the top.\n"
+  },
+  {
+    "input": "Huh? Oh, fine. We were just about to run it from the top.\n",
+    "output": "Oh, please do. I'm dying to see it.\n"
+  },
+  {
+    "input": "Oh, please do. I'm dying to see it.\n",
+    "output": "Okay, all the little pioneers on this side of the stage.\n[Stan, Kyle, Butters, and Kevin Stoley go.]\n"
+  },
+  {
+    "input": "Okay, all the little pioneers on this side of the stage.\n[Stan, Kyle, Butters, and Kevin Stoley go.]\n",
+    "output": "Good. And all the little Indians go to the center of the stage.\n[Pip, Kenny, Red, and Tolkien go.]\n"
+  },
+  {
+    "input": "Good. And all the little Indians go to the center of the stage.\n[Pip, Kenny, Red, and Tolkien go.]\n",
+    "output": "Am I an Indian, or a pioneer?\n"
+  },
+  {
+    "input": "Am I an Indian, or a pioneer?\n",
+    "output": "Do you have a feather on your head?\n"
+  },
+  {
+    "input": "Do you have a feather on your head?\n",
+    "output": "Yes.\n"
+  },
+  {
+    "input": "Yes.\n",
+    "output": "Then you're an Indian.\n"
+  },
+  {
+    "input": "Then you're an Indian.\n",
+    "output": "Oh.\n"
+  },
+  {
+    "input": "Oh.\n",
+    "output": "Okay Bebe, this is your line.\n"
+  },
+  {
+    "input": "Okay Bebe, this is your line.\n",
+    "output": "[Haltingly.] This is the story of South Park. It begins over a hundred years ago. When the noble and hardy Ute Indians lived on the land.\n[The curtains part to reveal Clyde, Tolkien, Pip, Red, and Kenny, all dressed like Indians, sitting in a circle beneath a prop teepee.]\n"
+  },
+  {
+    "input": "[Haltingly.] This is the story of South Park. It begins over a hundred years ago. When the noble and hardy Ute Indians lived on the land.\n[The curtains part to reveal Clyde, Tolkien, Pip, Red, and Kenny, all dressed like Indians, sitting in a circle beneath a prop teepee.]\n",
+    "output": "Oh, don't they look adorable?\n"
+  },
+  {
+    "input": "Oh, don't they look adorable?\n",
+    "output": "Then, from the east, came the great white pioneers.\n[Pioneers come on stage and start beating the Indians and tossing them about. Screams are everywhere, and a tee-pee falls in front of Kenny.]\n"
+  },
+  {
+    "input": "Then, from the east, came the great white pioneers.\n[Pioneers come on stage and start beating the Indians and tossing them about. Screams are everywhere, and a tee-pee falls in front of Kenny.]\n",
+    "output": "Oh my God!\n"
+  },
+  {
+    "input": "Oh my God!\n",
+    "output": "They did it a lot better this morning, they had more energy.\n"
+  },
+  {
+    "input": "They did it a lot better this morning, they had more energy.\n",
+    "output": "The pioneers met with the Indians, and negotiated for their fertile lands.\n[Kevin the Indian lands by her, with blood oozing out of a gash on his head. She steps aside. Pioneer Butters punches Indian Pip repeatedly.]\n"
+  },
+  {
+    "input": "The pioneers met with the Indians, and negotiated for their fertile lands.\n[Kevin the Indian lands by her, with blood oozing out of a gash on his head. She steps aside. Pioneer Butters punches Indian Pip repeatedly.]\n",
+    "output": "Mr. Garrison, we can not have our children beating each other senseless in front of Kathie Lee Gifford.\n"
+  },
+  {
+    "input": "Mr. Garrison, we can not have our children beating each other senseless in front of Kathie Lee Gifford.\n",
+    "output": "Well, what do you want? This is how it happened in those days.\n"
+  },
+  {
+    "input": "Well, what do you want? This is how it happened in those days.\n",
+    "output": "Take that you stupid Indian!\n[Stan beats Clyde the Indian with the butt of his gun.]\n"
+  },
+  {
+    "input": "Take that you stupid Indian!\n[Stan beats Clyde the Indian with the butt of his gun.]\n",
+    "output": "Dow!\n"
+  },
+  {
+    "input": "Dow!\n",
+    "output": "Mr. Garrison, this is not appropriate. Do you actually think Kathie Lee Gifford would enjoy this?!?\n"
+  },
+  {
+    "input": "Mr. Garrison, this is not appropriate. Do you actually think Kathie Lee Gifford would enjoy this?!?\n",
+    "output": "To hell with Kathie Lee Gifford!\n[All stop and gasp.]\n"
+  },
+  {
+    "input": "To hell with Kathie Lee Gifford!\n[All stop and gasp.]\n",
+    "output": "Oh my God, what have I said?\n"
+  },
+  {
+    "input": "Oh my God, what have I said?\n",
+    "output": "He said, \"To hell with Kathie Lee Gifford!\"\n[Boos all around.]\n"
+  },
+  {
+    "input": "He said, \"To hell with Kathie Lee Gifford!\"\n[Boos all around.]\n",
+    "output": "Mr. Garrison, I am dismissing you from directing our play.\n[Garrison skulks away.]\n[Mr. Garrison's House.]\n"
+  },
+  {
+    "input": "Mr. Garrison, I am dismissing you from directing our play.\n[Garrison skulks away.]\n[Mr. Garrison's House.]\n",
+    "output": "[In his deep voice.] It happened again didn't it? Now we do things my way.\n"
+  },
+  {
+    "input": "[In his deep voice.] It happened again didn't it? Now we do things my way.\n",
+    "output": "I can't kill her Mr. Hat...you're gonna have to do it.\n[Mr. Hat laughs.]\n[Town Square Stage.]\n"
+  },
+  {
+    "input": "I can't kill her Mr. Hat...you're gonna have to do it.\n[Mr. Hat laughs.]\n[Town Square Stage.]\n",
+    "output": "Whoa, Cartman. Talk about wide load.\n[Cartman is much bigger now.]\n"
+  },
+  {
+    "input": "Whoa, Cartman. Talk about wide load.\n[Cartman is much bigger now.]\n",
+    "output": "Yeah, I'm really starting to fill out nicely.\n"
+  },
+  {
+    "input": "Yeah, I'm really starting to fill out nicely.\n",
+    "output": "You're not filling out nicely, you're fatter than ever!\n"
+  },
+  {
+    "input": "You're not filling out nicely, you're fatter than ever!\n",
+    "output": "I'm not fat! I'm getting in shape!\n"
+  },
+  {
+    "input": "I'm not fat! I'm getting in shape!\n",
+    "output": "Cartman, you're such a fat ass that when you walk down the street people go \"God damn it, that's a big fat ass!\"\n"
+  },
+  {
+    "input": "Cartman, you're such a fat ass that when you walk down the street people go \"God damn it, that's a big fat ass!\"\n",
+    "output": "No they don't, you jealous weakling!\n"
+  },
+  {
+    "input": "No they don't, you jealous weakling!\n",
+    "output": "God damn, that's a big fat ass!\n"
+  },
+  {
+    "input": "God damn, that's a big fat ass!\n",
+    "output": "Hey!\n"
+  },
+  {
+    "input": "Hey!\n",
+    "output": "Hi guys.\n"
+  },
+  {
+    "input": "Hi guys.\n",
+    "output": "Oh look, another hippie.\n[Cartman gives her the peace sign.]\n"
+  },
+  {
+    "input": "Oh look, another hippie.\n[Cartman gives her the peace sign.]\n",
+    "output": "Peace, Wendy.\n"
+  },
+  {
+    "input": "Peace, Wendy.\n",
+    "output": "Shut up Cartman!\n"
+  },
+  {
+    "input": "Shut up Cartman!\n",
+    "output": "Oooh,\nTwo little hippies sit'n' in a tree...\n[Wendy moves by Cartman and then whispers to Stan.]\n"
+  },
+  {
+    "input": "Oooh,\nTwo little hippies sit'n' in a tree...\n[Wendy moves by Cartman and then whispers to Stan.]\n",
+    "output": "I'm gonna find Cartman's paper and get to the bottom of this.\n"
+  },
+  {
+    "input": "I'm gonna find Cartman's paper and get to the bottom of this.\n",
+    "output": "...K I S S I N G. First comes the baby and...\n[Jimbo's Guns. There is a poster welcoming Kathie Lee on the left side of the store entrance.]\n"
+  },
+  {
+    "input": "...K I S S I N G. First comes the baby and...\n[Jimbo's Guns. There is a poster welcoming Kathie Lee on the left side of the store entrance.]\n",
+    "output": "Can I help you?\n"
+  },
+  {
+    "input": "Can I help you?\n",
+    "output": "Yes... I need a gun.\n"
+  },
+  {
+    "input": "Yes... I need a gun.\n",
+    "output": "Would this be for hunting, home protection, or other?\n"
+  },
+  {
+    "input": "Would this be for hunting, home protection, or other?\n",
+    "output": "Other.\n"
+  },
+  {
+    "input": "Other.\n",
+    "output": "Alrighty then! May I suggest a Stratford 12mm? Here, try it on!\n[Hands Mr. Garrison a gun.]\n"
+  },
+  {
+    "input": "Alrighty then! May I suggest a Stratford 12mm? Here, try it on!\n[Hands Mr. Garrison a gun.]\n",
+    "output": "That looks really nice on you. The lacquered black really matches your eyes.\n"
+  },
+  {
+    "input": "That looks really nice on you. The lacquered black really matches your eyes.\n",
+    "output": "[To Mirror.] You talkin' to me? You talkin' to me? [To Jimbo.] I don't know, it's a little small.\n"
+  },
+  {
+    "input": "[To Mirror.] You talkin' to me? You talkin' to me? [To Jimbo.] I don't know, it's a little small.\n",
+    "output": "Okay, how about this?\n"
+  },
+  {
+    "input": "Okay, how about this?\n",
+    "output": "[To Mirror.] You talkin' to me? [To Jimbo.] Hmm, no, I don't like this one either.\n"
+  },
+  {
+    "input": "[To Mirror.] You talkin' to me? [To Jimbo.] Hmm, no, I don't like this one either.\n",
+    "output": "Here's the same gun, with a wood finish.\n"
+  },
+  {
+    "input": "Here's the same gun, with a wood finish.\n",
+    "output": "[To Mirror.] You talkin' to me? I don't see anybody else around here, so you must be talkin' to me. [To Jimbo.] I'll take it!\n[Mr. Garrison's Classroom, lights out. Wendy enters.]\n"
+  },
+  {
+    "input": "[To Mirror.] You talkin' to me? I don't see anybody else around here, so you must be talkin' to me. [To Jimbo.] I'll take it!\n[Mr. Garrison's Classroom, lights out. Wendy enters.]\n",
+    "output": "Hello?\n[She sneaks over to file cabinet. Sees her paper first and is disgusted to find Cartman's question in writing: \"If dolphins are so smart, why do they live in igloos?\" Then she finds Cartman's paper.]\n"
+  },
+  {
+    "input": "Hello?\n[She sneaks over to file cabinet. Sees her paper first and is disgusted to find Cartman's question in writing: \"If dolphins are so smart, why do they live in igloos?\" Then she finds Cartman's paper.]\n",
+    "output": "My essay by Eric Cartman: \"When I wrote the following pages, or rather the bulk of them, I lived alone in the woods on the shore of...\"\n[Mr. Garrison enters. Wendy hides.]\n"
+  },
+  {
+    "input": "My essay by Eric Cartman: \"When I wrote the following pages, or rather the bulk of them, I lived alone in the woods on the shore of...\"\n[Mr. Garrison enters. Wendy hides.]\n",
+    "output": "Well, Mr. Hat, I guess ol' Kathie Lee really will be surprised when she gets here tomorrow. She beat us in the talent show all those years ago. And I think we owe her for that. Babang!\n"
+  },
+  {
+    "input": "Well, Mr. Hat, I guess ol' Kathie Lee really will be surprised when she gets here tomorrow. She beat us in the talent show all those years ago. And I think we owe her for that. Babang!\n",
+    "output": "[Hushed.] Oh my God.\n[Town Square. Mr. Garrison walks down the street with his rifle as if it's normal.]\n"
+  },
+  {
+    "input": "[Hushed.] Oh my God.\n[Town Square. Mr. Garrison walks down the street with his rifle as if it's normal.]\n",
+    "output": "Howdy Mr. Garrison, nice gun.\n"
+  },
+  {
+    "input": "Howdy Mr. Garrison, nice gun.\n",
+    "output": "Thank you.\n"
+  },
+  {
+    "input": "Thank you.\n",
+    "output": "Nice gun Mr. Garrison.\n"
+  },
+  {
+    "input": "Nice gun Mr. Garrison.\n",
+    "output": "Thanks.\n[He approaches Officer Barbrady.]\n"
+  },
+  {
+    "input": "Thanks.\n[He approaches Officer Barbrady.]\n",
+    "output": "Hello Officer Barbrady.\n"
+  },
+  {
+    "input": "Hello Officer Barbrady.\n",
+    "output": "Nice Gun.\n"
+  },
+  {
+    "input": "Nice Gun.\n",
+    "output": "Thanks. Is there somewhere in town where I can get a good, clear shot - er, view - of Kathie Lee.\n"
+  },
+  {
+    "input": "Thanks. Is there somewhere in town where I can get a good, clear shot - er, view - of Kathie Lee.\n",
+    "output": "Hmmmm. You know, I think the book depository would be a good bet.\n[They look up at it. Two vultures fly around it.]\n"
+  },
+  {
+    "input": "Hmmmm. You know, I think the book depository would be a good bet.\n[They look up at it. Two vultures fly around it.]\n",
+    "output": "Yes, that might do quite nicely. Thank you Officer Barbrady.\n"
+  },
+  {
+    "input": "Yes, that might do quite nicely. Thank you Officer Barbrady.\n",
+    "output": "No problem.\n[He turns to a fan walking by with a camera.]\n"
+  },
+  {
+    "input": "No problem.\n[He turns to a fan walking by with a camera.]\n",
+    "output": "Hah! Caught you red handed. No Pictures of Kathie Lee!\n"
+  },
+  {
+    "input": "Hah! Caught you red handed. No Pictures of Kathie Lee!\n",
+    "output": "[On stage.] Where is she?\n[Cartman, off stage, looming over his friends now.]\n"
+  },
+  {
+    "input": "[On stage.] Where is she?\n[Cartman, off stage, looming over his friends now.]\n",
+    "output": "This is sweet. Camera crews are setting up and I'm looking totally ripped. Beefcake. Beefcaaake!\n"
+  },
+  {
+    "input": "This is sweet. Camera crews are setting up and I'm looking totally ripped. Beefcake. Beefcaaake!\n",
+    "output": "I don't think they're going to be able to get all of you in frame Cartman.\n"
+  },
+  {
+    "input": "I don't think they're going to be able to get all of you in frame Cartman.\n",
+    "output": "[Rushing in.] You guys, we have to stop him!\n"
+  },
+  {
+    "input": "[Rushing in.] You guys, we have to stop him!\n",
+    "output": "Stop who?\n"
+  },
+  {
+    "input": "Stop who?\n",
+    "output": "Mr. Garrison! He's going to try to kill Kathie Lee Gifford!\n"
+  },
+  {
+    "input": "Mr. Garrison! He's going to try to kill Kathie Lee Gifford!\n",
+    "output": "Oh no you don't, you're not going to ruin my moment of fame.\n"
+  },
+  {
+    "input": "Oh no you don't, you're not going to ruin my moment of fame.\n",
+    "output": "He's got a gun!\n"
+  },
+  {
+    "input": "He's got a gun!\n",
+    "output": "You got to get over this whole jealousy thing. Eihh, seriously. Just face it, I wrote a better paper than you.\n"
+  },
+  {
+    "input": "You got to get over this whole jealousy thing. Eihh, seriously. Just face it, I wrote a better paper than you.\n",
+    "output": "It just so happens that I have your paper, and I know why you won! There's something more important right now. Let's go!\n"
+  },
+  {
+    "input": "It just so happens that I have your paper, and I know why you won! There's something more important right now. Let's go!\n",
+    "output": "Wendy, you got to prioritize. What's more important? Being on TV or some stupid assassination?\n"
+  },
+  {
+    "input": "Wendy, you got to prioritize. What's more important? Being on TV or some stupid assassination?\n",
+    "output": "[Sweetly.] Stan, I can't do it alone. Please?\n[Stan falters and looks down, unable to resist her.]\n"
+  },
+  {
+    "input": "[Sweetly.] Stan, I can't do it alone. Please?\n[Stan falters and looks down, unable to resist her.]\n",
+    "output": "Uh oh, we're losing him.\n[Cartman looks down at Stan.]\n"
+  },
+  {
+    "input": "Uh oh, we're losing him.\n[Cartman looks down at Stan.]\n",
+    "output": "Here she comes.\n[The band starts playing. Kathie Lee comes in riding in bullet proof 'bubble' on the back of a truck.]\n[Mr. Garrison, looking on from the book depository window.]\n"
+  },
+  {
+    "input": "Here she comes.\n[The band starts playing. Kathie Lee comes in riding in bullet proof 'bubble' on the back of a truck.]\n[Mr. Garrison, looking on from the book depository window.]\n",
+    "output": "Damn, I guess I'm not the only person in America who's thought of killing Kathie Lee Gifford.\n"
+  },
+  {
+    "input": "Damn, I guess I'm not the only person in America who's thought of killing Kathie Lee Gifford.\n",
+    "output": "We love you Kathie Lee, heh heh.\n"
+  },
+  {
+    "input": "We love you Kathie Lee, heh heh.\n",
+    "output": "I love you, too.\n"
+  },
+  {
+    "input": "I love you, too.\n",
+    "output": "Come on you little bitch. [Takes aim.] You got to come out of your precious bubble sooner or later, missy.\n"
+  },
+  {
+    "input": "Come on you little bitch. [Takes aim.] You got to come out of your precious bubble sooner or later, missy.\n",
+    "output": "[On stage.] It is with great pride and honor that I'd like to welcome Mrs. Kathie Lee Gifford to South Park.\n[Crowd cheers.]\n"
+  },
+  {
+    "input": "[On stage.] It is with great pride and honor that I'd like to welcome Mrs. Kathie Lee Gifford to South Park.\n[Crowd cheers.]\n",
+    "output": "...And now, our very own South Park Elementary chef will sing a special song in honor of Mrs. Lee Gifford.\n"
+  },
+  {
+    "input": "...And now, our very own South Park Elementary chef will sing a special song in honor of Mrs. Lee Gifford.\n",
+    "output": "Thank you Mr. Mayor. You know Kathie Lee, you are a very special woman. I don't mean special in a Mary Tyler Moore way. Or, or special in an Extra Value Meal at Happy Burger way. Noo nononono. I mean special. Like the song of uh, the humming bird as it gets ready to find that female hummingbird and make sweet love to it all night long. Just two humming birds moaning and, and groaning and, and their bodies caress and touch each other in ecstasy.\nOh, Kathie Lee, how I'd love to lay you dowwwwn.\nAnd lick every inch of your bodaay with my tongue.\n"
+  },
+  {
+    "input": "Thank you Mr. Mayor. You know Kathie Lee, you are a very special woman. I don't mean special in a Mary Tyler Moore way. Or, or special in an Extra Value Meal at Happy Burger way. Noo nononono. I mean special. Like the song of uh, the humming bird as it gets ready to find that female hummingbird and make sweet love to it all night long. Just two humming birds moaning and, and groaning and, and their bodies caress and touch each other in ecstasy.\nOh, Kathie Lee, how I'd love to lay you dowwwwn.\nAnd lick every inch of your bodaay with my tongue.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "Kathie Lee, you're my sexual fantasy.\n"
+  },
+  {
+    "input": "Kathie Lee, you're my sexual fantasy.\n",
+    "output": "What? Oh God!\n"
+  },
+  {
+    "input": "What? Oh God!\n",
+    "output": "How 'bout you and meee-\n[Quickly taking the mic from him.]\n"
+  },
+  {
+    "input": "How 'bout you and meee-\n[Quickly taking the mic from him.]\n",
+    "output": "Uh, Thank you Chef, for that heartwarming song.\n"
+  },
+  {
+    "input": "Uh, Thank you Chef, for that heartwarming song.\n",
+    "output": "-get together and make... sweet...\nlove?\n"
+  },
+  {
+    "input": "-get together and make... sweet...\nlove?\n",
+    "output": "Thank you Chef!\n[She grabs the mike and drags him off.]\n"
+  },
+  {
+    "input": "Thank you Chef!\n[She grabs the mike and drags him off.]\n",
+    "output": "Oh, oh. God bless you Kathie Lee!\n"
+  },
+  {
+    "input": "Oh, oh. God bless you Kathie Lee!\n",
+    "output": "[Wendy and Stan run up.] Officer Barbrady, Mr. Garrison is about to kill Kathie Lee! We have to find him!\n"
+  },
+  {
+    "input": "[Wendy and Stan run up.] Officer Barbrady, Mr. Garrison is about to kill Kathie Lee! We have to find him!\n",
+    "output": "What? You mean the teacher? Wait a minute. [Flashes back.]\n"
+  },
+  {
+    "input": "What? You mean the teacher? Wait a minute. [Flashes back.]\n",
+    "output": "Is there somewhere in town where I can get a good, clear shot - er, view - of Kathie Lee.\n"
+  },
+  {
+    "input": "Is there somewhere in town where I can get a good, clear shot - er, view - of Kathie Lee.\n",
+    "output": "Hmm, you know, I think the book depository would be a good bet\u2014I think the book depository would be a good bet\u2014book depository\u2014depository\u2014depository\u2014depository ...\n[His face gets bigger with every repetition. He snaps to.]\n"
+  },
+  {
+    "input": "Hmm, you know, I think the book depository would be a good bet\u2014I think the book depository would be a good bet\u2014book depository\u2014depository\u2014depository\u2014depository ...\n[His face gets bigger with every repetition. He snaps to.]\n",
+    "output": "Damn, he could be anywhere! I'll send out an APB!\n"
+  },
+  {
+    "input": "Damn, he could be anywhere! I'll send out an APB!\n",
+    "output": "Wendy, look!\n[Points to book depository.]\n[Back on stage.]\n"
+  },
+  {
+    "input": "Wendy, look!\n[Points to book depository.]\n[Back on stage.]\n",
+    "output": "And now, here to present the award for the environmental essay to our own, Eric Kauffman...\n"
+  },
+  {
+    "input": "And now, here to present the award for the environmental essay to our own, Eric Kauffman...\n",
+    "output": "Cartman, God damn it.\n"
+  },
+  {
+    "input": "Cartman, God damn it.\n",
+    "output": "...is your favorite celebrity, and mine, [Crowd cheers.] Kathie Lee Gifford!\n[Kathie Lee is thrust up on stage in her bubble by her security force. Cartman's mom hugs her heart.]\n"
+  },
+  {
+    "input": "...is your favorite celebrity, and mine, [Crowd cheers.] Kathie Lee Gifford!\n[Kathie Lee is thrust up on stage in her bubble by her security force. Cartman's mom hugs her heart.]\n",
+    "output": "Thank you. I love you all.\n[Stan and Wendy reach the Book Depository.]\n"
+  },
+  {
+    "input": "Thank you. I love you all.\n[Stan and Wendy reach the Book Depository.]\n",
+    "output": "Mr. Garrison, stop!\n"
+  },
+  {
+    "input": "Mr. Garrison, stop!\n",
+    "output": "Leave us. We must finish what we have begun.\n"
+  },
+  {
+    "input": "Leave us. We must finish what we have begun.\n",
+    "output": "I know that she's hurt you. She's hurt a lot of people.\n"
+  },
+  {
+    "input": "I know that she's hurt you. She's hurt a lot of people.\n",
+    "output": "You can't know.\n"
+  },
+  {
+    "input": "You can't know.\n",
+    "output": "You should have won that talent show.\n[On the stage.]\n"
+  },
+  {
+    "input": "You should have won that talent show.\n[On the stage.]\n",
+    "output": "It is with great honor and pride that I present the winner his trophy. Eric, would you please come up here?\n"
+  },
+  {
+    "input": "It is with great honor and pride that I present the winner his trophy. Eric, would you please come up here?\n",
+    "output": "Here it is, my big moment of fame.\n[Book Depository.]\n"
+  },
+  {
+    "input": "Here it is, my big moment of fame.\n[Book Depository.]\n",
+    "output": "...and then she finished it all by throwing her voice with two dummies at once.\n"
+  },
+  {
+    "input": "...and then she finished it all by throwing her voice with two dummies at once.\n",
+    "output": "I know that Mr. Garrison, but this isn't the answer.\n"
+  },
+  {
+    "input": "I know that Mr. Garrison, but this isn't the answer.\n",
+    "output": "It is... too late for me, young Wendy.\n[Cartman gets on stage, with help from Kyle and Kenny. Mr. Garrison takes aim.]\n"
+  },
+  {
+    "input": "It is... too late for me, young Wendy.\n[Cartman gets on stage, with help from Kyle and Kenny. Mr. Garrison takes aim.]\n",
+    "output": "You see, I've learned something today, you can't win all the time, and if you don't win, you certainly can't hold it against the person who did, because that's the only way you ever really lose.\n[Lowering his weapon.]\n"
+  },
+  {
+    "input": "You see, I've learned something today, you can't win all the time, and if you don't win, you certainly can't hold it against the person who did, because that's the only way you ever really lose.\n[Lowering his weapon.]\n",
+    "output": "You... you're right.\n"
+  },
+  {
+    "input": "You... you're right.\n",
+    "output": "Gooood.\n"
+  },
+  {
+    "input": "Gooood.\n",
+    "output": "Man, did she really throw her voice with two dummies at once?\n"
+  },
+  {
+    "input": "Man, did she really throw her voice with two dummies at once?\n",
+    "output": "[Snapping into position.] The bitch must die!\n[The stage. Cartman's weight breaks it.]\n"
+  },
+  {
+    "input": "[Snapping into position.] The bitch must die!\n[The stage. Cartman's weight breaks it.]\n",
+    "output": "[Muffled shrieking] Aaaooghhhh!\n[She flies through the air. Mr. Garrison fires at her, thinking she is still on stage. Kenny is hit.]\n"
+  },
+  {
+    "input": "[Muffled shrieking] Aaaooghhhh!\n[She flies through the air. Mr. Garrison fires at her, thinking she is still on stage. Kenny is hit.]\n",
+    "output": "(Oh no!)\n[He flies through the air and is impaled through the head by a flag pole. He slides on down.]\n"
+  },
+  {
+    "input": "(Oh no!)\n[He flies through the air and is impaled through the head by a flag pole. He slides on down.]\n",
+    "output": "[gasps] Oh my God, they killed Kenny! You bastards!\n[Kathie Lee's bubble lands on the truck.]\n"
+  },
+  {
+    "input": "[gasps] Oh my God, they killed Kenny! You bastards!\n[Kathie Lee's bubble lands on the truck.]\n",
+    "output": "Gun!\n"
+  },
+  {
+    "input": "Gun!\n",
+    "output": "Gun!\n"
+  },
+  {
+    "input": "Gun!\n",
+    "output": "Hey, come back! We didn't even get to do our play.\n[The entourage leaves and the crowd groans.]\n"
+  },
+  {
+    "input": "Hey, come back! We didn't even get to do our play.\n[The entourage leaves and the crowd groans.]\n",
+    "output": "I guess that's it, guys. Wrap it up.\n"
+  },
+  {
+    "input": "I guess that's it, guys. Wrap it up.\n",
+    "output": "Hey! Wait a minute! When do I get to be on television?\n"
+  },
+  {
+    "input": "Hey! Wait a minute! When do I get to be on television?\n",
+    "output": "Forget it kid. No Kathie Lee, no public interest.\n"
+  },
+  {
+    "input": "Forget it kid. No Kathie Lee, no public interest.\n",
+    "output": "[Whining.] But I won the environmental essay contest.\n"
+  },
+  {
+    "input": "[Whining.] But I won the environmental essay contest.\n",
+    "output": "You don't deserve to win Cartman. And you know it.\n[Into mic.]\n"
+  },
+  {
+    "input": "You don't deserve to win Cartman. And you know it.\n[Into mic.]\n",
+    "output": "I'm holding Cartman's award winning paper. It's actually nothing more than Walden, with Henry David Thoreau's name crossed out, and Cartman's name written in its place.\n"
+  },
+  {
+    "input": "I'm holding Cartman's award winning paper. It's actually nothing more than Walden, with Henry David Thoreau's name crossed out, and Cartman's name written in its place.\n",
+    "output": "Who cares?\n"
+  },
+  {
+    "input": "Who cares?\n",
+    "output": "Yeah, Kathie Lee Gifford's gone.\n"
+  },
+  {
+    "input": "Yeah, Kathie Lee Gifford's gone.\n",
+    "output": "What about, not holding anything against the person who wins?\n"
+  },
+  {
+    "input": "What about, not holding anything against the person who wins?\n",
+    "output": "Well, not if it's Cartman.\n[Into mic.]\n"
+  },
+  {
+    "input": "Well, not if it's Cartman.\n[Into mic.]\n",
+    "output": "Hey, where are you all going!\n[Aside.]\n"
+  },
+  {
+    "input": "Hey, where are you all going!\n[Aside.]\n",
+    "output": "They don't even know what Walden is.\n[Into mic.]\n"
+  },
+  {
+    "input": "They don't even know what Walden is.\n[Into mic.]\n",
+    "output": "I bet if Walden was a sitcom you'd all know what it was.\n"
+  },
+  {
+    "input": "I bet if Walden was a sitcom you'd all know what it was.\n",
+    "output": "Come on Wendy, Kyle's mom will make us tuna fish sandwiches.\n"
+  },
+  {
+    "input": "Come on Wendy, Kyle's mom will make us tuna fish sandwiches.\n",
+    "output": "Ah, what the hell.\n[Kids walk out.]\n"
+  },
+  {
+    "input": "Ah, what the hell.\n[Kids walk out.]\n",
+    "output": "Nohoho nooo. Now I'll be stuck in this Podunk town forever, with all these stupid hick, redneck, jobless, truck driving idiots!\n"
+  },
+  {
+    "input": "Nohoho nooo. Now I'll be stuck in this Podunk town forever, with all these stupid hick, redneck, jobless, truck driving idiots!\n",
+    "output": "Uh, Mayor, the mic is on.\n[In front of flag pole.]\n"
+  },
+  {
+    "input": "Uh, Mayor, the mic is on.\n[In front of flag pole.]\n",
+    "output": "[Arresting Mr. Hat.] Thought you could get away with it, eh Mr. Hat?\n"
+  },
+  {
+    "input": "[Arresting Mr. Hat.] Thought you could get away with it, eh Mr. Hat?\n",
+    "output": "Well, I would have gotten away with it if it weren't for those meddling kids.\n"
+  },
+  {
+    "input": "Well, I would have gotten away with it if it weren't for those meddling kids.\n",
+    "output": "You're lucky that you missed Kathie Lee Gifford and that nobody got hurt.\n[Apparently, he didn't see Kenny get impaled. Kenny's corpse slides down to base of flag pole.]\n[South Park Mental Home, Mr. Garrison's Hospital Room.]\n"
+  },
+  {
+    "input": "You're lucky that you missed Kathie Lee Gifford and that nobody got hurt.\n[Apparently, he didn't see Kenny get impaled. Kenny's corpse slides down to base of flag pole.]\n[South Park Mental Home, Mr. Garrison's Hospital Room.]\n",
+    "output": "We hope you can come back to school real soon Mr. Garrison.\n"
+  },
+  {
+    "input": "We hope you can come back to school real soon Mr. Garrison.\n",
+    "output": "Well children, I'd love to, but the doctors say that Mr. Hat needs more therapy.\n[Mr. Hat is in a straitjacket.]\n"
+  },
+  {
+    "input": "Well children, I'd love to, but the doctors say that Mr. Hat needs more therapy.\n[Mr. Hat is in a straitjacket.]\n",
+    "output": "We can still get her! Let mmm--\n"
+  },
+  {
+    "input": "We can still get her! Let mmm--\n",
+    "output": "I'm just so sorry that I ruined everyone's chances for being on TV.\n"
+  },
+  {
+    "input": "I'm just so sorry that I ruined everyone's chances for being on TV.\n",
+    "output": "Not Cartman, he gets to be on TV anyway.\n"
+  },
+  {
+    "input": "Not Cartman, he gets to be on TV anyway.\n",
+    "output": "Really, on what?\n[Geraldo.]\n"
+  },
+  {
+    "input": "Really, on what?\n[Geraldo.]\n",
+    "output": "Obesity, adiposity, corpulence... Whatever word you use, it represents one thing: Being a big fat-ass. We have with us today, live via satellite, Eric Cartman from South Park, who is now so obese he can't even get out of his house.\n"
+  },
+  {
+    "input": "Obesity, adiposity, corpulence... Whatever word you use, it represents one thing: Being a big fat-ass. We have with us today, live via satellite, Eric Cartman from South Park, who is now so obese he can't even get out of his house.\n",
+    "output": "When is this going to be on the air?\n"
+  },
+  {
+    "input": "When is this going to be on the air?\n",
+    "output": "Is there anything you'd like to say to people out there?\n"
+  },
+  {
+    "input": "Is there anything you'd like to say to people out there?\n",
+    "output": "Follow your dreams, you can reach your goals; I'm living proof. Beefcake. Beefcaaake!\n[Chef's Bedroom.]\n"
+  },
+  {
+    "input": "Follow your dreams, you can reach your goals; I'm living proof. Beefcake. Beefcaaake!\n[Chef's Bedroom.]\n",
+    "output": "He needs to run his ass around the block a few times.\n"
+  },
+  {
+    "input": "He needs to run his ass around the block a few times.\n",
+    "output": "Hmmm, how about a little more of that good lovin' Chef?\n"
+  }
+]

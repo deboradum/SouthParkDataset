@@ -1,0 +1,858 @@
+[
+  {
+    "input": "",
+    "output": "Time To Get Cereal\n\n[A meadow near town, day. A small bird chirps on a blade of grass when suddenly, it's shot to pieces. The camera pans left and we see Jimbo and Ned in the distance, Ned holding the rifle that shot the bird]\n"
+  },
+  {
+    "input": "Time To Get Cereal\n\n[A meadow near town, day. A small bird chirps on a blade of grass when suddenly, it's shot to pieces. The camera pans left and we see Jimbo and Ned in the distance, Ned holding the rifle that shot the bird]\n",
+    "output": "Yeah-heah! You got it, Ned! That was a nice shot!\n"
+  },
+  {
+    "input": "Yeah-heah! You got it, Ned! That was a nice shot!\n",
+    "output": "Mn-thanks. I thought so too.\n"
+  },
+  {
+    "input": "Mn-thanks. I thought so too.\n",
+    "output": "Come on, let's see what we got. [they walk to the bird's location and look down] Huh. Looks like you shot the shit out of it. There's nothin' left. [looks to his left] Hey. Lookie here. Jesus. You ever seen animal tracks that big? [the hoof prints of a large animal are shown - pig on the left, bear on the right]\n"
+  },
+  {
+    "input": "Come on, let's see what we got. [they walk to the bird's location and look down] Huh. Looks like you shot the shit out of it. There's nothin' left. [looks to his left] Hey. Lookie here. Jesus. You ever seen animal tracks that big? [the hoof prints of a large animal are shown - pig on the left, bear on the right]\n",
+    "output": "Mmm-no I have not, Jimbo.\n"
+  },
+  {
+    "input": "Mmm-no I have not, Jimbo.\n",
+    "output": "Looks like a bear. A huge one! Come on, the tracks go this way. [they walk away, then stop] Look at that. Looks like bear droppings. But with a man poop right next to it.\n"
+  },
+  {
+    "input": "Looks like a bear. A huge one! Come on, the tracks go this way. [they walk away, then stop] Look at that. Looks like bear droppings. But with a man poop right next to it.\n",
+    "output": "I'm scared. [they move forward]\n"
+  },
+  {
+    "input": "I'm scared. [they move forward]\n",
+    "output": "What the hell are we dealing with, Ned? Whatever it is, it was heard recently. [they walk through some hemp plants]\n[They've made their way to Tegridy Farms. Randy and Stan are on the porch]\n"
+  },
+  {
+    "input": "What the hell are we dealing with, Ned? Whatever it is, it was heard recently. [they walk through some hemp plants]\n[They've made their way to Tegridy Farms. Randy and Stan are on the porch]\n",
+    "output": "Hey! [Jimbo and Ned look up] What the hell are you guys doin' on my farm?\n"
+  },
+  {
+    "input": "Hey! [Jimbo and Ned look up] What the hell are you guys doin' on my farm?\n",
+    "output": "We're trackin' a bear, Randy.\n"
+  },
+  {
+    "input": "We're trackin' a bear, Randy.\n",
+    "output": "A bear? [a growling squeal is heard, Everyone looks around] That didn't sound like no bear. [Ned begins to run away]\n"
+  },
+  {
+    "input": "A bear? [a growling squeal is heard, Everyone looks around] That didn't sound like no bear. [Ned begins to run away]\n",
+    "output": "Where're you goin' Ned?\n"
+  },
+  {
+    "input": "Where're you goin' Ned?\n",
+    "output": "Mmm-I'm getting my white ass outta here. [stops. Manbearpig rises out of the field and squeal-growls at him]\n"
+  },
+  {
+    "input": "Mmm-I'm getting my white ass outta here. [stops. Manbearpig rises out of the field and squeal-growls at him]\n",
+    "output": "What the fuck?!\n"
+  },
+  {
+    "input": "What the fuck?!\n",
+    "output": "Jesus Christ! [fumbles to aim his gun at ManBearPig and finally gets a shot out. Ned runs away, and ManBearPig gives chase.] Whoa!\n"
+  },
+  {
+    "input": "Jesus Christ! [fumbles to aim his gun at ManBearPig and finally gets a shot out. Ned runs away, and ManBearPig gives chase.] Whoa!\n",
+    "output": "[slowly while running] Help me! [ManBearPig catches up to him and mauls him, then carries him away in its mouth.]\n"
+  },
+  {
+    "input": "[slowly while running] Help me! [ManBearPig catches up to him and mauls him, then carries him away in its mouth.]\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[Park County Police Station, day. Officers arrive to work.]\n"
+  },
+  {
+    "input": "[Park County Police Station, day. Officers arrive to work.]\n",
+    "output": "All right. We have some dead cows down at Milner's Ranch. I want Conners and Tiggs to check that out. And the two hikers are still missing. Let's have all units keep their ears to the ground. [tidies up his papers] All right, ladies, that's it. Second shift starts now. As for me, I'm finally heading home.\n"
+  },
+  {
+    "input": "All right. We have some dead cows down at Milner's Ranch. I want Conners and Tiggs to check that out. And the two hikers are still missing. Let's have all units keep their ears to the ground. [tidies up his papers] All right, ladies, that's it. Second shift starts now. As for me, I'm finally heading home.\n",
+    "output": "Gonna finally get some R&R, sir?\n"
+  },
+  {
+    "input": "Gonna finally get some R&R, sir?\n",
+    "output": "Yep. Gonna go home and play me some Red Dead Redemption 2. I got a train to rob in Valentine.\n"
+  },
+  {
+    "input": "Yep. Gonna go home and play me some Red Dead Redemption 2. I got a train to rob in Valentine.\n",
+    "output": "Detective! Got a call from the school. Another kid's been killed.\n"
+  },
+  {
+    "input": "Detective! Got a call from the school. Another kid's been killed.\n",
+    "output": "No, no not another school shooting! Can't they handle it themselves?\n"
+  },
+  {
+    "input": "No, no not another school shooting! Can't they handle it themselves?\n",
+    "output": "Said they need us right away.\n"
+  },
+  {
+    "input": "Said they need us right away.\n",
+    "output": "[makes fists] God damn it! [loosens them] Why the hell can't these kids stop being a pain in my ass? [takes off his coat and adjusts his tie]\n[South Park Elementary, day. Several police cars pull up. Yates and the others get out and enter the school. Strong Woman has the students huddled up on the playground.]\n"
+  },
+  {
+    "input": "[makes fists] God damn it! [loosens them] Why the hell can't these kids stop being a pain in my ass? [takes off his coat and adjusts his tie]\n[South Park Elementary, day. Several police cars pull up. Yates and the others get out and enter the school. Strong Woman has the students huddled up on the playground.]\n",
+    "output": "Children, everyone, just stay back, okay? The police are coming.\n"
+  },
+  {
+    "input": "Children, everyone, just stay back, okay? The police are coming.\n",
+    "output": "[arrives with Ofc. Brown.] All right, what happened? What grade was the shooter in?\n"
+  },
+  {
+    "input": "[arrives with Ofc. Brown.] All right, what happened? What grade was the shooter in?\n",
+    "output": "Oh thank God. Some kindergartners found the body. I-I don't think it was a shooting.\n"
+  },
+  {
+    "input": "Oh thank God. Some kindergartners found the body. I-I don't think it was a shooting.\n",
+    "output": "[takes a cigarette from a pack in his shirt pocket] Of course it's a school shooting. It's cut and dry. Let's just get this over with so I can go home. Where's the victim? [takes out a lighter and lights his cigarette]\n"
+  },
+  {
+    "input": "[takes a cigarette from a pack in his shirt pocket] Of course it's a school shooting. It's cut and dry. Let's just get this over with so I can go home. Where's the victim? [takes out a lighter and lights his cigarette]\n",
+    "output": "Over there. [points to her left, and the officers follow with their eyes]\n"
+  },
+  {
+    "input": "Over there. [points to her left, and the officers follow with their eyes]\n",
+    "output": "What the hell? [the body they reach is a kid's body which has been ripped to shreds]\n"
+  },
+  {
+    "input": "What the hell? [the body they reach is a kid's body which has been ripped to shreds]\n",
+    "output": "Jesus, it's a complete mauling.\n"
+  },
+  {
+    "input": "Jesus, it's a complete mauling.\n",
+    "output": "[kneels to take a closer look] Looks like part of him was eaten.\n"
+  },
+  {
+    "input": "[kneels to take a closer look] Looks like part of him was eaten.\n",
+    "output": "[returns to the students] All right, which one of you little shitheads did this? [the student body stays silent] Come on. I don't have time for these little games. Which of you peckers felt isolated and lashed out at society? If I have to stay here and do an investigation instead of go home and rob a train, there's gonna be serious hell to pay!\n[South Park Elementary hallway. Kyle is at his locker switching books. He closes the locker as Cartman and Kenny walk by, and joins them.]\n"
+  },
+  {
+    "input": "[returns to the students] All right, which one of you little shitheads did this? [the student body stays silent] Come on. I don't have time for these little games. Which of you peckers felt isolated and lashed out at society? If I have to stay here and do an investigation instead of go home and rob a train, there's gonna be serious hell to pay!\n[South Park Elementary hallway. Kyle is at his locker switching books. He closes the locker as Cartman and Kenny walk by, and joins them.]\n",
+    "output": "So what as he doing alone on the playground?\n"
+  },
+  {
+    "input": "So what as he doing alone on the playground?\n",
+    "output": "Staci Nakabw says he just wanted to run back out and get his football.\n"
+  },
+  {
+    "input": "Staci Nakabw says he just wanted to run back out and get his football.\n",
+    "output": "(What the fuckin' hell, dude?)\n"
+  },
+  {
+    "input": "(What the fuckin' hell, dude?)\n",
+    "output": "And there were bear prints in the snow?\n"
+  },
+  {
+    "input": "And there were bear prints in the snow?\n",
+    "output": "It wasn't a bear! [seen by his locker seated on the floor with his arms around his legs] I saw it. [the other boys walk up to him]\n"
+  },
+  {
+    "input": "It wasn't a bear! [seen by his locker seated on the floor with his arms around his legs] I saw it. [the other boys walk up to him]\n",
+    "output": "You saw what?\n"
+  },
+  {
+    "input": "You saw what?\n",
+    "output": "It was at my house. There was a... thing. It attacked my uncle and took his friend. It was like a bear, but a pig... thing.\n"
+  },
+  {
+    "input": "It was at my house. There was a... thing. It attacked my uncle and took his friend. It was like a bear, but a pig... thing.\n",
+    "output": "Jesus.\n"
+  },
+  {
+    "input": "Jesus.\n",
+    "output": "It was at my house, and then here at the school! Everyone says that kid and I looked alike. What if that thing is after me??\n"
+  },
+  {
+    "input": "It was at my house, and then here at the school! Everyone says that kid and I looked alike. What if that thing is after me??\n",
+    "output": "Dude, now you're just overreacting.\n"
+  },
+  {
+    "input": "Dude, now you're just overreacting.\n",
+    "output": "[over the P.A.] Attention, please. Will the following students report to the principal's office? Eric Cartman, Kenny McCormick. [both are surprised that they've been called.] Thank you, 'kay.\n"
+  },
+  {
+    "input": "[over the P.A.] Attention, please. Will the following students report to the principal's office? Eric Cartman, Kenny McCormick. [both are surprised that they've been called.] Thank you, 'kay.\n",
+    "output": "Aww, what did I do this time?\n[The principal's office, lobby. Cartman and Kenny arrive.]\n"
+  },
+  {
+    "input": "Aww, what did I do this time?\n[The principal's office, lobby. Cartman and Kenny arrive.]\n",
+    "output": "You go first, Kenny.\n"
+  },
+  {
+    "input": "You go first, Kenny.\n",
+    "output": "(Fuck that, you go first!)\n"
+  },
+  {
+    "input": "(Fuck that, you go first!)\n",
+    "output": "I didn't even do anything wrong!\n"
+  },
+  {
+    "input": "I didn't even do anything wrong!\n",
+    "output": "(Neither did I!)\n"
+  },
+  {
+    "input": "(Neither did I!)\n",
+    "output": "Just stop being a baby, Kenny, and go! [pulls Kenny to the door]\n[The principal's office, inside. Kenny goes in first, then Cartman. Yates is sitting at the desk, smoking a cigarette.]\n"
+  },
+  {
+    "input": "Just stop being a baby, Kenny, and go! [pulls Kenny to the door]\n[The principal's office, inside. Kenny goes in first, then Cartman. Yates is sitting at the desk, smoking a cigarette.]\n",
+    "output": "Take a seat, boys. Right there. [the boys sit and wait as Yates lights up a cigarette and takes a loooong puff] You know how shitty it is to be a cop? [sits up] There's real emergencies every day - real people who need real help - but then, every other minute, I gotta stop everything 'cause one of you little fuckwads decides to go and shoot up the school. [Kenny says something] Shut up! now, which one of you had a beef with Colin Brooks?!\n"
+  },
+  {
+    "input": "Take a seat, boys. Right there. [the boys sit and wait as Yates lights up a cigarette and takes a loooong puff] You know how shitty it is to be a cop? [sits up] There's real emergencies every day - real people who need real help - but then, every other minute, I gotta stop everything 'cause one of you little fuckwads decides to go and shoot up the school. [Kenny says something] Shut up! now, which one of you had a beef with Colin Brooks?!\n",
+    "output": "Nobody gives a shit about Colin Brooks.\n"
+  },
+  {
+    "input": "Nobody gives a shit about Colin Brooks.\n",
+    "output": "Oh yeah? I asked the kids in this school, \"Who are the biggest loners? Who's most likely to rage and be the next school shooter?\" You know what they said? The fat, ugly mean kid and the detached, loner poor kid.\n"
+  },
+  {
+    "input": "Oh yeah? I asked the kids in this school, \"Who are the biggest loners? Who's most likely to rage and be the next school shooter?\" You know what they said? The fat, ugly mean kid and the detached, loner poor kid.\n",
+    "output": "Hey, I'm not poor, all right?!\n"
+  },
+  {
+    "input": "Hey, I'm not poor, all right?!\n",
+    "output": "Or was it both of you? Fess up. I have people in Horseshoe Overlook who are depending on me to get provisions so we can head back east.\n"
+  },
+  {
+    "input": "Or was it both of you? Fess up. I have people in Horseshoe Overlook who are depending on me to get provisions so we can head back east.\n",
+    "output": "You're playing Red Dead Redemption 2?\n"
+  },
+  {
+    "input": "You're playing Red Dead Redemption 2?\n",
+    "output": "That's right. And I'm gonna make both of you school shooters pay for wasting my time. [Cartman and Kenny just look at each other]\n[Kyle's room, evening. Kyle is typing away at his computer as Stan looks on.]\n"
+  },
+  {
+    "input": "That's right. And I'm gonna make both of you school shooters pay for wasting my time. [Cartman and Kenny just look at each other]\n[Kyle's room, evening. Kyle is typing away at his computer as Stan looks on.]\n",
+    "output": "Keep looking. There's a lot of people saying they saw it, Kyle. It's not just me.\n"
+  },
+  {
+    "input": "Keep looking. There's a lot of people saying they saw it, Kyle. It's not just me.\n",
+    "output": "\"Evidence of the creature of South Park.\" This is like a conspiracy Web site.\n"
+  },
+  {
+    "input": "\"Evidence of the creature of South Park.\" This is like a conspiracy Web site.\n",
+    "output": "It's not a conspiracy, it's real. Keep going down. There's video. [Kyle scrolls down and stops at \"MAN-BEAR-PIG captured on VIDEO\"] There! Right there! [Kyle clicks on it and the video expands. ManBearPig is seen running off with another victim in its jaws.] That's it. That's what I saw. [walks away from the computer] I saw ManBearPig.\n"
+  },
+  {
+    "input": "It's not a conspiracy, it's real. Keep going down. There's video. [Kyle scrolls down and stops at \"MAN-BEAR-PIG captured on VIDEO\"] There! Right there! [Kyle clicks on it and the video expands. ManBearPig is seen running off with another victim in its jaws.] That's it. That's what I saw. [walks away from the computer] I saw ManBearPig.\n",
+    "output": "ManBearPig?\n"
+  },
+  {
+    "input": "ManBearPig?\n",
+    "output": "Don't you remember, dude? We were warned about this. That weirdo guy who came and told us this would happen? He was right. [Kenny and Cartman soon run in]\n"
+  },
+  {
+    "input": "Don't you remember, dude? We were warned about this. That weirdo guy who came and told us this would happen? He was right. [Kenny and Cartman soon run in]\n",
+    "output": "You guys! You guys! The police are trying to say me and Kenny killed that douchebag, Colin Brooks.\n"
+  },
+  {
+    "input": "You guys! You guys! The police are trying to say me and Kenny killed that douchebag, Colin Brooks.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "They questioned us for hours. They said they had enough to get warrants for our arrest.\n"
+  },
+  {
+    "input": "They questioned us for hours. They said they had enough to get warrants for our arrest.\n",
+    "output": "But it wasn't you guys.\n"
+  },
+  {
+    "input": "But it wasn't you guys.\n",
+    "output": "We know that! What the hell are we gonna do??\n"
+  },
+  {
+    "input": "We know that! What the hell are we gonna do??\n",
+    "output": "Who was that ex-President guy? The one who showed up and tried to convince everyone of a ManBearPig?\n"
+  },
+  {
+    "input": "Who was that ex-President guy? The one who showed up and tried to convince everyone of a ManBearPig?\n",
+    "output": "(You mean Al Gore?)\n"
+  },
+  {
+    "input": "(You mean Al Gore?)\n",
+    "output": "Al Gore.\n[Park County Police Station, day. Yates addresses everyone in the briefing room.]\n"
+  },
+  {
+    "input": "Al Gore.\n[Park County Police Station, day. Yates addresses everyone in the briefing room.]\n",
+    "output": "In my report, you'll see that Eric Cartman and Kenny McCormick are believed to have worked together. I've issued warrants for their arrests, and this case is now in the hands of the DA. [adjusts his papers and puts them away] And I... am finally going home. Keep McCormick and Cartman in separate holding cells, and don't wait on me to book 'em. I'm gonna be playing Red Dead Redemption for the next 18 hours. [gets to the entrance door]\n"
+  },
+  {
+    "input": "In my report, you'll see that Eric Cartman and Kenny McCormick are believed to have worked together. I've issued warrants for their arrests, and this case is now in the hands of the DA. [adjusts his papers and puts them away] And I... am finally going home. Keep McCormick and Cartman in separate holding cells, and don't wait on me to book 'em. I'm gonna be playing Red Dead Redemption for the next 18 hours. [gets to the entrance door]\n",
+    "output": "Detective!\n"
+  },
+  {
+    "input": "Detective!\n",
+    "output": "Whaaat?\n"
+  },
+  {
+    "input": "Whaaat?\n",
+    "output": "There's more dead kids. Out in the woods by Stark's Pond.\n"
+  },
+  {
+    "input": "There's more dead kids. Out in the woods by Stark's Pond.\n",
+    "output": "In the woods? There was a school shooting out in the woods? Outside of school is the one place kids are supposed to be safe.\n"
+  },
+  {
+    "input": "In the woods? There was a school shooting out in the woods? Outside of school is the one place kids are supposed to be safe.\n",
+    "output": "They're saying it's really bad, sir. Need all units.\n"
+  },
+  {
+    "input": "They're saying it's really bad, sir. Need all units.\n",
+    "output": "[frustrated, sighs] God damn it! [takes off his coat] If these kids don't stop killing each other, I'm gonna shoot 'em all myself.\n[Denver City Hall, day. The boys approach the receptionist.]\n"
+  },
+  {
+    "input": "[frustrated, sighs] God damn it! [takes off his coat] If these kids don't stop killing each other, I'm gonna shoot 'em all myself.\n[Denver City Hall, day. The boys approach the receptionist.]\n",
+    "output": "Hello, uh, we're looking for a government sort of guy named Al Gore?\n"
+  },
+  {
+    "input": "Hello, uh, we're looking for a government sort of guy named Al Gore?\n",
+    "output": "Al Gore... Al Gore... Sounds familiar.\n"
+  },
+  {
+    "input": "Al Gore... Al Gore... Sounds familiar.\n",
+    "output": "He said he was almost President once. He came to our town once to warn us about something, [hands her a photo] and we have to find him. [the photo is revealed to be a head shot of Al Gore signed \"To my Best Friends! - Al\".]\n"
+  },
+  {
+    "input": "He said he was almost President once. He came to our town once to warn us about something, [hands her a photo] and we have to find him. [the photo is revealed to be a head shot of Al Gore signed \"To my Best Friends! - Al\".]\n",
+    "output": "Ohhh yeahhh. This looks like Jim Turner\n"
+  },
+  {
+    "input": "Ohhh yeahhh. This looks like Jim Turner\n",
+    "output": "{Jim Turner?}\n"
+  },
+  {
+    "input": "{Jim Turner?}\n",
+    "output": "The state bowling champion five years in a row. You can always catch him practicing down at Gramercy Lanes.\n[Gramercy Lanes, later. \"Jim Turner\" is seen getting ready to bowl.]\n"
+  },
+  {
+    "input": "The state bowling champion five years in a row. You can always catch him practicing down at Gramercy Lanes.\n[Gramercy Lanes, later. \"Jim Turner\" is seen getting ready to bowl.]\n",
+    "output": "Focus. Calm. Center. [bowls. The ball takes out 9 of 10 pins] Yes! Die! Die, you pins! Oh, we've got a straggler, do we? You're gonna die just like the rest of 'em.\n"
+  },
+  {
+    "input": "Focus. Calm. Center. [bowls. The ball takes out 9 of 10 pins] Yes! Die! Die, you pins! Oh, we've got a straggler, do we? You're gonna die just like the rest of 'em.\n",
+    "output": "Mr. Gore?\n"
+  },
+  {
+    "input": "Mr. Gore?\n",
+    "output": "Focus. Calm.\n"
+  },
+  {
+    "input": "Focus. Calm.\n",
+    "output": "Al Gore?\n"
+  },
+  {
+    "input": "Al Gore?\n",
+    "output": "[faces them] That's a name I haven't heard in a long time.\n"
+  },
+  {
+    "input": "[faces them] That's a name I haven't heard in a long time.\n",
+    "output": "I don't know if you remember us, but we're the kids you got to help try and capture ManBearPig? Well uh, eh eh, you were right. Ha, you, you were totally right. ManBearPig is real and, uh, he's killing lots of people in our town.\n"
+  },
+  {
+    "input": "I don't know if you remember us, but we're the kids you got to help try and capture ManBearPig? Well uh, eh eh, you were right. Ha, you, you were totally right. ManBearPig is real and, uh, he's killing lots of people in our town.\n",
+    "output": "Oh. Sucks for you. [turns around and gets the spare.]\n"
+  },
+  {
+    "input": "Oh. Sucks for you. [turns around and gets the spare.]\n",
+    "output": "Please, Mr. Gore! We need your help! ManBearPig isn't going to stop!\n"
+  },
+  {
+    "input": "Please, Mr. Gore! We need your help! ManBearPig isn't going to stop!\n",
+    "output": "[gets a new ball and holds it] Oh, is it inconvenient now? I tried to warn you all, but no one took me cereal. You all just made fun of me, didn't you? Well, now you can just deal with it yourselves.\n"
+  },
+  {
+    "input": "[gets a new ball and holds it] Oh, is it inconvenient now? I tried to warn you all, but no one took me cereal. You all just made fun of me, didn't you? Well, now you can just deal with it yourselves.\n",
+    "output": "Please, just tell us. How do you stop it?\n"
+  },
+  {
+    "input": "Please, just tell us. How do you stop it?\n",
+    "output": "You stop it all those years ago when I freaking warned you and you still had time!\n"
+  },
+  {
+    "input": "You stop it all those years ago when I freaking warned you and you still had time!\n",
+    "output": "There has to be something we can still do. Please, Mr. Gore. You're the only person who knows anything about it.\n"
+  },
+  {
+    "input": "There has to be something we can still do. Please, Mr. Gore. You're the only person who knows anything about it.\n",
+    "output": "Say you're sorry for making fun of me.\n"
+  },
+  {
+    "input": "Say you're sorry for making fun of me.\n",
+    "output": "We, didn't, we didn't realize there were more than-\n"
+  },
+  {
+    "input": "We, didn't, we didn't realize there were more than-\n",
+    "output": "Say you're sorry for making fun of me.\n"
+  },
+  {
+    "input": "Say you're sorry for making fun of me.\n",
+    "output": "[sincerely] We're sorry for making fun of you.\n"
+  },
+  {
+    "input": "[sincerely] We're sorry for making fun of you.\n",
+    "output": "That... didn't sound cereal at all. [turns and bowls a strike]\n[Red Lobster, day. A family is seated at a booth. The mother and son sit against a wall while the father sits on the open side.]\n"
+  },
+  {
+    "input": "That... didn't sound cereal at all. [turns and bowls a strike]\n[Red Lobster, day. A family is seated at a booth. The mother and son sit against a wall while the father sits on the open side.]\n",
+    "output": "You can't just go along with what people are saying, Susan. Okay? There's no scientific proof, no real evidence of a Manbearpig.\n"
+  },
+  {
+    "input": "You can't just go along with what people are saying, Susan. Okay? There's no scientific proof, no real evidence of a Manbearpig.\n",
+    "output": "Well, there's a lot of smart people saying ManBearPig is real.\n"
+  },
+  {
+    "input": "Well, there's a lot of smart people saying ManBearPig is real.\n",
+    "output": "Yeah, and a lot of smarter people saying saying it isn't. Okay? What you need to understand, Susan, is that everyone has an agenda. Everyone wants to use the fear of a Manbearpig to get what they want. [ManBearPig breaks through the windows and begins killing diners left and right] So they throw around bad science, bad taxidermy. People comin' out of the woodwork are now experts on the subject. [ManBearPig grabs a blond diner by the head and slams him to the ground, grabs a female diner and decapitates her with a single bite, grabs another diner and kills him] But you have to use your own brain, sweetheart. You can't just let people tell you that if you don't believe in ManBearPig, then you don't care about the world.\n"
+  },
+  {
+    "input": "Yeah, and a lot of smarter people saying saying it isn't. Okay? What you need to understand, Susan, is that everyone has an agenda. Everyone wants to use the fear of a Manbearpig to get what they want. [ManBearPig breaks through the windows and begins killing diners left and right] So they throw around bad science, bad taxidermy. People comin' out of the woodwork are now experts on the subject. [ManBearPig grabs a blond diner by the head and slams him to the ground, grabs a female diner and decapitates her with a single bite, grabs another diner and kills him] But you have to use your own brain, sweetheart. You can't just let people tell you that if you don't believe in ManBearPig, then you don't care about the world.\n",
+    "output": "It is real!\n"
+  },
+  {
+    "input": "It is real!\n",
+    "output": "You wanna believe it's real? You go right on ahead, Susan.\n"
+  },
+  {
+    "input": "You wanna believe it's real? You go right on ahead, Susan.\n",
+    "output": "No, it's right there! It's right there behind you! [The father looks over his shoulder and sees ManBearPig grab another blond diner and rip his skull and spine from the rest of his body. Susan is terrified and screams]\n"
+  },
+  {
+    "input": "No, it's right there! It's right there behind you! [The father looks over his shoulder and sees ManBearPig grab another blond diner and rip his skull and spine from the rest of his body. Susan is terrified and screams]\n",
+    "output": "Okay, ManBearPig is real. [ManBearPig grabs another diner and bites him in the torso, tosses him around, and spits him out] What are we gonna do about it now, huh? [ManBearPig grabs another diner and tears him in two] What are we gonna do that's gonna make any difference now, Susan?\n"
+  },
+  {
+    "input": "Okay, ManBearPig is real. [ManBearPig grabs another diner and bites him in the torso, tosses him around, and spits him out] What are we gonna do about it now, huh? [ManBearPig grabs another diner and tears him in two] What are we gonna do that's gonna make any difference now, Susan?\n",
+    "output": "[grabs their son and shakes her head in disbelief] What?! We have to do something!\n"
+  },
+  {
+    "input": "[grabs their son and shakes her head in disbelief] What?! We have to do something!\n",
+    "output": "What can we do that everyone else will also do, Susan? [ManBearPig grabs a female diner and slams her into a pillar] Come on, use your brain. Even if we do something about it, what about the Chinese? [ManBearPig takes yet another dinner and slams him into the booth behind the family's] They're just gonna keep right on- Aaaghghg! [ManBearPig grabs the father and crushes his skull in its jaws, killing him]\n[Olive Garden, day. There's singing going on in there.]\n"
+  },
+  {
+    "input": "What can we do that everyone else will also do, Susan? [ManBearPig grabs a female diner and slams her into a pillar] Come on, use your brain. Even if we do something about it, what about the Chinese? [ManBearPig takes yet another dinner and slams him into the booth behind the family's] They're just gonna keep right on- Aaaghghg! [ManBearPig grabs the father and crushes his skull in its jaws, killing him]\n[Olive Garden, day. There's singing going on in there.]\n",
+    "output": "[singing to Al Gore, who's wearing a Special Boy crown]\nFor he's a jolly good fellow.\nFor he's a jolly good fellow.\nFor he's a jolly good fellow.\nThat should 've been President.\n"
+  },
+  {
+    "input": "[singing to Al Gore, who's wearing a Special Boy crown]\nFor he's a jolly good fellow.\nFor he's a jolly good fellow.\nFor he's a jolly good fellow.\nThat should 've been President.\n",
+    "output": "Aw, thanks, guys! You shouldn't have!\n"
+  },
+  {
+    "input": "Aw, thanks, guys! You shouldn't have!\n",
+    "output": "You told us to. [Stan elbows him] Ngh!\n"
+  },
+  {
+    "input": "You told us to. [Stan elbows him] Ngh!\n",
+    "output": "What did you guys get me? [opens the first gift] Oh wow. Look! [a small framed picture] It's a \"You were right about ManBearPig\" signed picture. [the picture does say that, with the four boys signing it at the bottom]\n"
+  },
+  {
+    "input": "What did you guys get me? [opens the first gift] Oh wow. Look! [a small framed picture] It's a \"You were right about ManBearPig\" signed picture. [the picture does say that, with the four boys signing it at the bottom]\n",
+    "output": "So, ahum, now maybe we can all work together, huh?\n"
+  },
+  {
+    "input": "So, ahum, now maybe we can all work together, huh?\n",
+    "output": "Hang on! [claps and sings] It's movie time! Go go! Start it up. [Kenny goes to start the projector] This is the best party ever. Oh, look, guys. It's me! There I am, campaigning to be President. [Al Gore talking to a crowd during his presidential campaign in 2000] That's me with Hillary! [An older looking Gore standing with Hillary Clinton at a rally during her presidential campaign in 2016] There's more of me on the campaign trail,[Al and his wife shaking hands with people outside during his campaign in 2000] so full of dreams! Oh, look! It's me when I found out I lost the election! [he and George W. Bush stand outside by the White House after the 2000 presidential election] Boo! [the boys have lost interest and their eyes are half closed] But then look! There's me getting an Academy Award! [Gore standing on the red carpet at the 2007 Academy Awards with his wife, son and daughter for his film \"An Inconvenient Truth\"]\n"
+  },
+  {
+    "input": "Hang on! [claps and sings] It's movie time! Go go! Start it up. [Kenny goes to start the projector] This is the best party ever. Oh, look, guys. It's me! There I am, campaigning to be President. [Al Gore talking to a crowd during his presidential campaign in 2000] That's me with Hillary! [An older looking Gore standing with Hillary Clinton at a rally during her presidential campaign in 2016] There's more of me on the campaign trail,[Al and his wife shaking hands with people outside during his campaign in 2000] so full of dreams! Oh, look! It's me when I found out I lost the election! [he and George W. Bush stand outside by the White House after the 2000 presidential election] Boo! [the boys have lost interest and their eyes are half closed] But then look! There's me getting an Academy Award! [Gore standing on the red carpet at the 2007 Academy Awards with his wife, son and daughter for his film \"An Inconvenient Truth\"]\n",
+    "output": "[fed up] Okay, can we stop ManBearPig now?!\n"
+  },
+  {
+    "input": "[fed up] Okay, can we stop ManBearPig now?!\n",
+    "output": "Who said anything about stopping MBP?[Gore, his wife and his running mate are shaking hands while leaving an event in 2000]\n"
+  },
+  {
+    "input": "Who said anything about stopping MBP?[Gore, his wife and his running mate are shaking hands while leaving an event in 2000]\n",
+    "output": "Yu-you told us to do all this.\n"
+  },
+  {
+    "input": "Yu-you told us to do all this.\n",
+    "output": "Yeah, to make up for ripping on me![Gore talking to reporters on a tarmac]\n"
+  },
+  {
+    "input": "Yeah, to make up for ripping on me![Gore talking to reporters on a tarmac]\n",
+    "output": "You're still not even gonna help us?!\n"
+  },
+  {
+    "input": "You're still not even gonna help us?!\n",
+    "output": "I've moved on from this life, okay?! I have a new life now! I'm a bowler![Gore addressing the United Nations]And when I'm not bowling, I help out my gang. [Gore on an airplane talking to a reporter]They're my family now! We're wanted in Blackwater, and we have to move our camp soon!\n"
+  },
+  {
+    "input": "I've moved on from this life, okay?! I have a new life now! I'm a bowler![Gore addressing the United Nations]And when I'm not bowling, I help out my gang. [Gore on an airplane talking to a reporter]They're my family now! We're wanted in Blackwater, and we have to move our camp soon!\n",
+    "output": "You're playing Red Dead Redemption 2?\n"
+  },
+  {
+    "input": "You're playing Red Dead Redemption 2?\n",
+    "output": "Yeah, it's amazing. Only thing is I have all these stolen items and I don't know how to sell them.[Gore and his wife greeting people outside an event at night]\n"
+  },
+  {
+    "input": "Yeah, it's amazing. Only thing is I have all these stolen items and I don't know how to sell them.[Gore and his wife greeting people outside an event at night]\n",
+    "output": "We know how.\n"
+  },
+  {
+    "input": "We know how.\n",
+    "output": "[softly] Oh, really? [Gore and his running mate at a rally in 2000]\n[Baskin Robbins, day. It is destroyed, with shattered windows and bodies torn apart and strewn everywhere. The police show up and document the massacre.]\n"
+  },
+  {
+    "input": "[softly] Oh, really? [Gore and his running mate at a rally in 2000]\n[Baskin Robbins, day. It is destroyed, with shattered windows and bodies torn apart and strewn everywhere. The police show up and document the massacre.]\n",
+    "output": "[with notepad] No witnesses to the attack were left alive. The same bear and pig droppings were found along with human excrement.\n"
+  },
+  {
+    "input": "[with notepad] No witnesses to the attack were left alive. The same bear and pig droppings were found along with human excrement.\n",
+    "output": "I don't believe it. A school shooting at an ice cream shop. Damn it! When children leave school they're supposed to be out of harm's way!\n"
+  },
+  {
+    "input": "I don't believe it. A school shooting at an ice cream shop. Damn it! When children leave school they're supposed to be out of harm's way!\n",
+    "output": "Detective! Sir, we got word on the two suspects. They appear to be on the run.\n"
+  },
+  {
+    "input": "Detective! Sir, we got word on the two suspects. They appear to be on the run.\n",
+    "output": "I would be too if I were guilty.\n"
+  },
+  {
+    "input": "I would be too if I were guilty.\n",
+    "output": "No one has seen them or their two closest friends, uh, Marsh and Broflovski.\n"
+  },
+  {
+    "input": "No one has seen them or their two closest friends, uh, Marsh and Broflovski.\n",
+    "output": "So we got us a gang of shooters, huh?! How the hell hard can it be to find four boys?!\n"
+  },
+  {
+    "input": "So we got us a gang of shooters, huh?! How the hell hard can it be to find four boys?!\n",
+    "output": "Sir. Why don't you take a break, sir?\n"
+  },
+  {
+    "input": "Sir. Why don't you take a break, sir?\n",
+    "output": "Erh.\n"
+  },
+  {
+    "input": "Erh.\n",
+    "output": "You've been hittin' it hard. We'll do all we can to catch these kids. Go home. Play some Red Dead Redemption.\n"
+  },
+  {
+    "input": "You've been hittin' it hard. We'll do all we can to catch these kids. Go home. Play some Red Dead Redemption.\n",
+    "output": "Huh. Gotta admit I've to love to see the sunrise over Citadel Rock again. And I got me a gal who claims she's got a side mission or two.\n"
+  },
+  {
+    "input": "Huh. Gotta admit I've to love to see the sunrise over Citadel Rock again. And I got me a gal who claims she's got a side mission or two.\n",
+    "output": "Go on home, sir. We'll take care of everything here.\n[Al Gore's storage unit. He opens the security shutters and leads the boys in. Lots of papers and electronics fill the unit]\n"
+  },
+  {
+    "input": "Go on home, sir. We'll take care of everything here.\n[Al Gore's storage unit. He opens the security shutters and leads the boys in. Lots of papers and electronics fill the unit]\n",
+    "output": "This is it. Every piece of information I ever gathered on ManBearPig.\n"
+  },
+  {
+    "input": "This is it. Every piece of information I ever gathered on ManBearPig.\n",
+    "output": "Where did ManBearPig come from?\n"
+  },
+  {
+    "input": "Where did ManBearPig come from?\n",
+    "output": "Is it some sort of genetic mutation?\n"
+  },
+  {
+    "input": "Is it some sort of genetic mutation?\n",
+    "output": "[uncovers a huge workstation with three screens] Hoho! I thought that once too. I wanted to find ManBearPig's origins. And so I created this - the Internet. With that, I was able to look everywhere for any bit of data, and what I learned is that ManBearPig... is a demon.\n"
+  },
+  {
+    "input": "[uncovers a huge workstation with three screens] Hoho! I thought that once too. I wanted to find ManBearPig's origins. And so I created this - the Internet. With that, I was able to look everywhere for any bit of data, and what I learned is that ManBearPig... is a demon.\n",
+    "output": "(A demon?!)\n"
+  },
+  {
+    "input": "(A demon?!)\n",
+    "output": "[brings up an image of an engraving] This is \"The Temptation of St. Anthony\" by Martin Schongauer. It depicts several demons. WolfMonekyGuy, ChickenFishWoman, and ElephantPorcupineMan, just to name a few. All of them sent by the Devil himself. [realizes something] Oh my God.\n"
+  },
+  {
+    "input": "[brings up an image of an engraving] This is \"The Temptation of St. Anthony\" by Martin Schongauer. It depicts several demons. WolfMonekyGuy, ChickenFishWoman, and ElephantPorcupineMan, just to name a few. All of them sent by the Devil himself. [realizes something] Oh my God.\n",
+    "output": "What?\n"
+  },
+  {
+    "input": "What?\n",
+    "output": "I should play Red Dead on this computer, with all three screens. That'd be so bitchin' sweet.\n"
+  },
+  {
+    "input": "I should play Red Dead on this computer, with all three screens. That'd be so bitchin' sweet.\n",
+    "output": "Why did the Devil send ManBearPig?!\n"
+  },
+  {
+    "input": "Why did the Devil send ManBearPig?!\n",
+    "output": "Why does the Devil do anything? He's the freakin' Devil. He's a dick. [opens a secret compartment in which his red cape and gold medallion rest, and puts on the cape and medallion] It's probably too late. By now, ManBearPig is so powerful that the only way to get rid of him is to send him back to hell. We're going to have to do... a demonic ritual. [goes to a mirror to make sure he's ready] All I can say is... you boys better get to the grocery store, 'cause it's time... to get cereal.\n[Yates' house, night. Yates parks his car outside the garage and goes to the front door. He opens it and goes in. Maggie comes out to greet him]\n"
+  },
+  {
+    "input": "Why does the Devil do anything? He's the freakin' Devil. He's a dick. [opens a secret compartment in which his red cape and gold medallion rest, and puts on the cape and medallion] It's probably too late. By now, ManBearPig is so powerful that the only way to get rid of him is to send him back to hell. We're going to have to do... a demonic ritual. [goes to a mirror to make sure he's ready] All I can say is... you boys better get to the grocery store, 'cause it's time... to get cereal.\n[Yates' house, night. Yates parks his car outside the garage and goes to the front door. He opens it and goes in. Maggie comes out to greet him]\n",
+    "output": "Harrison Yates, where have ya been?!\n"
+  },
+  {
+    "input": "Harrison Yates, where have ya been?!\n",
+    "output": "Another school shooting, Maggie. Down at Baskin-Robbins. [grabs his controller and presses Play. He waits for the game to appear onscreen]\n"
+  },
+  {
+    "input": "Another school shooting, Maggie. Down at Baskin-Robbins. [grabs his controller and presses Play. He waits for the game to appear onscreen]\n",
+    "output": "I haven't seen ya in days. I've missed you so much. Come have some supper with me.\n"
+  },
+  {
+    "input": "I haven't seen ya in days. I've missed you so much. Come have some supper with me.\n",
+    "output": "Maggie, I just need to relax a bit, all right? Please. I've been waiting for this a long time. Just give me a- Wait a minute. The house in Valentine is built? Where did I get a sniper rifle? Maggie! Did you play over my saved game?\n"
+  },
+  {
+    "input": "Maggie, I just need to relax a bit, all right? Please. I've been waiting for this a long time. Just give me a- Wait a minute. The house in Valentine is built? Where did I get a sniper rifle? Maggie! Did you play over my saved game?\n",
+    "output": "I just played a little bit.\n"
+  },
+  {
+    "input": "I just played a little bit.\n",
+    "output": "A little bit, you-? On my saved game?! Why didn't you start your own?!\n"
+  },
+  {
+    "input": "A little bit, you-? On my saved game?! Why didn't you start your own?!\n",
+    "output": "You're never home anymore! With all these school shootings! I need a life too, you know?! ISo I robbed a lumber mill in Monto's rest, upgraded my horse and got a sniper rifle.\n"
+  },
+  {
+    "input": "You're never home anymore! With all these school shootings! I need a life too, you know?! ISo I robbed a lumber mill in Monto's rest, upgraded my horse and got a sniper rifle.\n",
+    "output": "[stands up and confronts her] That's my life, Maggie! I was goin' for more honor points! God damn it!\n"
+  },
+  {
+    "input": "[stands up and confronts her] That's my life, Maggie! I was goin' for more honor points! God damn it!\n",
+    "output": "Why can't we have a life together?!\n"
+  },
+  {
+    "input": "Why can't we have a life together?!\n",
+    "output": "I haven't gotten to play in three days. You've done all this stuff without me! You got deputized?! [Maggie begins sobbing.] Oh God damn it! That does it!\n"
+  },
+  {
+    "input": "I haven't gotten to play in three days. You've done all this stuff without me! You got deputized?! [Maggie begins sobbing.] Oh God damn it! That does it!\n",
+    "output": "Where are ya going?!\n"
+  },
+  {
+    "input": "Where are ya going?!\n",
+    "output": "I'm starting a new life! [goes to the hat rack and puts on his coat and hat, then goes back to the armchair] I'm creating a new saved game.\n"
+  },
+  {
+    "input": "I'm starting a new life! [goes to the hat rack and puts on his coat and hat, then goes back to the armchair] I'm creating a new saved game.\n",
+    "output": "You can;t possibly go all the way back to the snow level again!\n"
+  },
+  {
+    "input": "You can;t possibly go all the way back to the snow level again!\n",
+    "output": "What choice do I have now?! [Maggie sobs and heads towards the kitchen as he starts a new game] Fuckin' bitch.\n[The woods, night. The camera aims at the night sky, then pans down, resting on the sacrificial circumscribed pentagram, drawn in blood. A goat is tied to a stake in the center, and a candle rests on each of the five points of the pentagram. Gore appears with a crown of twigs and holding a chicken by its feet]\n"
+  },
+  {
+    "input": "What choice do I have now?! [Maggie sobs and heads towards the kitchen as he starts a new game] Fuckin' bitch.\n[The woods, night. The camera aims at the night sky, then pans down, resting on the sacrificial circumscribed pentagram, drawn in blood. A goat is tied to a stake in the center, and a candle rests on each of the five points of the pentagram. Gore appears with a crown of twigs and holding a chicken by its feet]\n",
+    "output": "Abuul abash mayah. What Satan has put forth upon this earth, may it be summoned and banished forever. [the boys stand by with two other dead chickens. They each hold a candle. Kenny takes one of them to Gore]\n"
+  },
+  {
+    "input": "Abuul abash mayah. What Satan has put forth upon this earth, may it be summoned and banished forever. [the boys stand by with two other dead chickens. They each hold a candle. Kenny takes one of them to Gore]\n",
+    "output": "Dude, come on. What are we doing?\n"
+  },
+  {
+    "input": "Dude, come on. What are we doing?\n",
+    "output": "This is stupid.\n"
+  },
+  {
+    "input": "This is stupid.\n",
+    "output": "He was right before.\n"
+  },
+  {
+    "input": "He was right before.\n",
+    "output": "We call upon the powers of darkness. Come on, guys. We call upon the powers of darkness.\n"
+  },
+  {
+    "input": "We call upon the powers of darkness. Come on, guys. We call upon the powers of darkness.\n",
+    "output": "We call upon the powers of darkness.\n"
+  },
+  {
+    "input": "We call upon the powers of darkness.\n",
+    "output": "Al Gore was right. Al Gore was right all along.\n"
+  },
+  {
+    "input": "Al Gore was right. Al Gore was right all along.\n",
+    "output": "Al Gore was right all along.\n"
+  },
+  {
+    "input": "Al Gore was right all along.\n",
+    "output": "We should have listened to Al Gore.\n"
+  },
+  {
+    "input": "We should have listened to Al Gore.\n",
+    "output": "We should have all listened to Al Gore.\n"
+  },
+  {
+    "input": "We should have all listened to Al Gore.\n",
+    "output": "Wait. Wait, are you videoing us?\n"
+  },
+  {
+    "input": "Wait. Wait, are you videoing us?\n",
+    "output": "It's Instagram Live. Keep going! We should have taken Al Gore more cereal.\n"
+  },
+  {
+    "input": "It's Instagram Live. Keep going! We should have taken Al Gore more cereal.\n",
+    "output": "All right all right, that's enough! [puts down his candle] You need to stop wasting our time, dude. People are dying! You don't have a fucking clue what you're doing! [the pentagram brightens up, winds whip around in it, flames appear on the bloody markings. The goat is consumed and the flames get stronger.]\n"
+  },
+  {
+    "input": "All right all right, that's enough! [puts down his candle] You need to stop wasting our time, dude. People are dying! You don't have a fucking clue what you're doing! [the pentagram brightens up, winds whip around in it, flames appear on the bloody markings. The goat is consumed and the flames get stronger.]\n",
+    "output": "[faces the boys] You were saying?\n"
+  },
+  {
+    "input": "[faces the boys] You were saying?\n",
+    "output": "Oh shit! [facepalm] God damn it! Nothing! I'm sorry! I'm sorry!\n[The SPPD briefing room. The police officers await Yates. An officer coughs. The door opens and Yates storms in, also the door, puts his coat on the coat rack, kicks the wastebasket and walks to the lectern]\n"
+  },
+  {
+    "input": "Oh shit! [facepalm] God damn it! Nothing! I'm sorry! I'm sorry!\n[The SPPD briefing room. The police officers await Yates. An officer coughs. The door opens and Yates storms in, also the door, puts his coat on the coat rack, kicks the wastebasket and walks to the lectern]\n",
+    "output": "Do you all have any idea what it's like to start over?! You walk four hours through the snow relearning everything, all because your bitch wife went and spent all your hard-earned money on upgrades you didn't want! I get one little break from work - one little break - and I didn't even get back to the first brawl at the saloon!\n"
+  },
+  {
+    "input": "Do you all have any idea what it's like to start over?! You walk four hours through the snow relearning everything, all because your bitch wife went and spent all your hard-earned money on upgrades you didn't want! I get one little break from work - one little break - and I didn't even get back to the first brawl at the saloon!\n",
+    "output": "[raises his hand] You can actually bypass that fight if you go hunting with Dutch.\n"
+  },
+  {
+    "input": "[raises his hand] You can actually bypass that fight if you go hunting with Dutch.\n",
+    "output": "[slams his fist on the lectern] SHUT UP!! These school shootings are done, you hear me?! I want this case closed by the end of the night, one way or another! Now let's MOVE OUT!\n[The woods, night. The pentagram is quite hot now as Gore and the boys wait for Satan]\n"
+  },
+  {
+    "input": "[slams his fist on the lectern] SHUT UP!! These school shootings are done, you hear me?! I want this case closed by the end of the night, one way or another! Now let's MOVE OUT!\n[The woods, night. The pentagram is quite hot now as Gore and the boys wait for Satan]\n",
+    "output": "Here he comes, boys! Prepare yourselves! [the pentagram ones up and a giant hand rises out of it and grips the ground. The rest of the figure rises up, growling. It's Satan.]\n"
+  },
+  {
+    "input": "Here he comes, boys! Prepare yourselves! [the pentagram ones up and a giant hand rises out of it and grips the ground. The rest of the figure rises up, growling. It's Satan.]\n",
+    "output": "Who hath summoned me to this realm?!\n"
+  },
+  {
+    "input": "Who hath summoned me to this realm?!\n",
+    "output": "Dude! You summoned Satan!\n"
+  },
+  {
+    "input": "Dude! You summoned Satan!\n",
+    "output": "Yeah, no doi! What'd ya think we were doing?! [turns to Satan] Prince of Darkness! It is I, Al Gore! I was almost President!\n"
+  },
+  {
+    "input": "Yeah, no doi! What'd ya think we were doing?! [turns to Satan] Prince of Darkness! It is I, Al Gore! I was almost President!\n",
+    "output": "What do you wish of me, Al Gore?!\n"
+  },
+  {
+    "input": "What do you wish of me, Al Gore?!\n",
+    "output": "A demon from Hell has been unleashed upon our world! We demand to know its nature! We demand to know its reason for coming!\n"
+  },
+  {
+    "input": "A demon from Hell has been unleashed upon our world! We demand to know its nature! We demand to know its reason for coming!\n",
+    "output": "There is only one place you can find the answers you seek! It is the place where all knowledge becomes known. Your local library.\n"
+  },
+  {
+    "input": "There is only one place you can find the answers you seek! It is the place where all knowledge becomes known. Your local library.\n",
+    "output": "Ah! You are correct. [to the boys] Your local library is an excellent resource for whatever you wish to learn.\n"
+  },
+  {
+    "input": "Ah! You are correct. [to the boys] Your local library is an excellent resource for whatever you wish to learn.\n",
+    "output": "Yes it is.\n"
+  },
+  {
+    "input": "Yes it is.\n",
+    "output": "Then I command ye, Satan, to come with us to the local library! And I am cereal!\n"
+  },
+  {
+    "input": "Then I command ye, Satan, to come with us to the local library! And I am cereal!\n",
+    "output": "Dude, Satan's not gonna go with us to the-\n"
+  },
+  {
+    "input": "Dude, Satan's not gonna go with us to the-\n",
+    "output": "Very well, Al Gore. Let us go!\n[South Park Public Library, night. The boys and Gore are inside browsing the stacks]\n"
+  },
+  {
+    "input": "Very well, Al Gore. Let us go!\n[South Park Public Library, night. The boys and Gore are inside browsing the stacks]\n",
+    "output": "Yeah, guys! Guys, over here! I think I found it. What you're dealing with is a Sifter of Fate.\n"
+  },
+  {
+    "input": "Yeah, guys! Guys, over here! I think I found it. What you're dealing with is a Sifter of Fate.\n",
+    "output": "(Well what's that mean?)\n"
+  },
+  {
+    "input": "(Well what's that mean?)\n",
+    "output": "So there's these demons that, um, actually come once every few generations. They're all about making deals.\n"
+  },
+  {
+    "input": "So there's these demons that, um, actually come once every few generations. They're all about making deals.\n",
+    "output": "Making deals?\n"
+  },
+  {
+    "input": "Making deals?\n",
+    "output": "Yeah, check it out: \"The Sifter of Fate thrives on tempting mankind. It will always offer a deal in exchange for mercy, but the carnage will be a thousand times worse when the debt comes due.\"\n"
+  },
+  {
+    "input": "Yeah, check it out: \"The Sifter of Fate thrives on tempting mankind. It will always offer a deal in exchange for mercy, but the carnage will be a thousand times worse when the debt comes due.\"\n",
+    "output": "Okay, so wait. Now you're saying that someone in our town made a deal with that thing?\n"
+  },
+  {
+    "input": "Okay, so wait. Now you're saying that someone in our town made a deal with that thing?\n",
+    "output": "Now it's here to claim its part of the bargain. It's sort of like when you're part of a gang feuding with a rival gang, you know? You ride around on your horse thinking it won't all catch up with you, but... it always does.\n"
+  },
+  {
+    "input": "Now it's here to claim its part of the bargain. It's sort of like when you're part of a gang feuding with a rival gang, you know? You ride around on your horse thinking it won't all catch up with you, but... it always does.\n",
+    "output": "You're playing Red Dead Redemption 2?\n"
+  },
+  {
+    "input": "You're playing Red Dead Redemption 2?\n",
+    "output": "So good, right? [police sirens draw near and stop]\n[South Park Public Library exterior, night. Yates speaks through a bullhorn while numerous police cars and armed SPPD officers are behind him and a few townspeople observe.]\n"
+  },
+  {
+    "input": "So good, right? [police sirens draw near and stop]\n[South Park Public Library exterior, night. Yates speaks through a bullhorn while numerous police cars and armed SPPD officers are behind him and a few townspeople observe.]\n",
+    "output": "Attention school shooters! We have you surrounded! Come out with your hands up!\n[South Park Public Library interior. The boys look out the window before turning around and walk away from the window.]\n"
+  },
+  {
+    "input": "Attention school shooters! We have you surrounded! Come out with your hands up!\n[South Park Public Library interior. The boys look out the window before turning around and walk away from the window.]\n",
+    "output": "Oh Jesus. You gotta tell them, Mr. Gore! Tell them it wasn't us!\n"
+  },
+  {
+    "input": "Oh Jesus. You gotta tell them, Mr. Gore! Tell them it wasn't us!\n",
+    "output": "No. They don't listen to me, kids. [walks up to them and genuflects] It's up to you young people now. [takes off his medallion...] You have to find a way to get people to take this cereal. [...and puts it on Kyle. He then puts his cape on Stan] You must convince people there's a ManBearPig, which Satan told you is a Fate Sifter demon that made a deal with someone in this town!\n"
+  },
+  {
+    "input": "No. They don't listen to me, kids. [walks up to them and genuflects] It's up to you young people now. [takes off his medallion...] You have to find a way to get people to take this cereal. [...and puts it on Kyle. He then puts his cape on Stan] You must convince people there's a ManBearPig, which Satan told you is a Fate Sifter demon that made a deal with someone in this town!\n",
+    "output": "That's gonna be impossible!\n"
+  },
+  {
+    "input": "That's gonna be impossible!\n",
+    "output": "Yeah, sounds really hard, doesn't it? People might not believe you and like, make fun of you and stuff. Poor you guys, huh? [the boys turn and walk out, heads down.]\n[South Park Public Library exterior, night. The boys walk out to the steps of the library and stop in place with their hands up.]\n"
+  },
+  {
+    "input": "Yeah, sounds really hard, doesn't it? People might not believe you and like, make fun of you and stuff. Poor you guys, huh? [the boys turn and walk out, heads down.]\n[South Park Public Library exterior, night. The boys walk out to the steps of the library and stop in place with their hands up.]\n",
+    "output": "They're coming out!\n"
+  },
+  {
+    "input": "They're coming out!\n",
+    "output": "Hands where we can see 'em!\n"
+  },
+  {
+    "input": "Hands where we can see 'em!\n",
+    "output": "Everyone, listen! ManBearPig is real! It's a demon that thrives on making deals to exploit mankind's weaknesses. I am super-duper cereal.[a few of the townspeople move in closer behind the officers to listen] We all have to work together, you guys. This one time. We have to all put our pride aside and be willing to say, maybe we were wrong.\n"
+  },
+  {
+    "input": "Everyone, listen! ManBearPig is real! It's a demon that thrives on making deals to exploit mankind's weaknesses. I am super-duper cereal.[a few of the townspeople move in closer behind the officers to listen] We all have to work together, you guys. This one time. We have to all put our pride aside and be willing to say, maybe we were wrong.\n",
+    "output": "[Approaches from the side behind the boys] All right, lock these little fuckers up! [four officers, one for each boy, come up from the other side and cuff them]\n"
+  },
+  {
+    "input": "[Approaches from the side behind the boys] All right, lock these little fuckers up! [four officers, one for each boy, come up from the other side and cuff them]\n",
+    "output": "No! You can't! [other officers come in and deal with the boys]\n"
+  },
+  {
+    "input": "No! You can't! [other officers come in and deal with the boys]\n",
+    "output": "[leaving] That's it, gentlemen! Case closed. Now I've got a Goddamned stagecoach to rob in Scarlett Meadows!\n"
+  },
+  {
+    "input": "[leaving] That's it, gentlemen! Case closed. Now I've got a Goddamned stagecoach to rob in Scarlett Meadows!\n",
+    "output": "Well done, sir! [he and Yates high-five each other in passing]\n"
+  },
+  {
+    "input": "Well done, sir! [he and Yates high-five each other in passing]\n",
+    "output": "No! Nooo!\n[The arrest is aired on News 4. Kyle and Stan are put into the back seat]\n"
+  },
+  {
+    "input": "No! Nooo!\n[The arrest is aired on News 4. Kyle and Stan are put into the back seat]\n",
+    "output": "Please! Somebody made a deal with ManBearPig! We have to find out who!\n[Shady Acres Retirement Community. Commons area. Marvin Marsh and other residents are watching the events unfold on TV.]\n"
+  }
+]

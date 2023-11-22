@@ -1,0 +1,1082 @@
+[
+  {
+    "input": "",
+    "output": "Grey Dawn\n\n[South Park Farmer's Market, Day. A crowd is gathered under this banner and listens to Father Maxi as he delivers a service.]\n"
+  },
+  {
+    "input": "Grey Dawn\n\n[South Park Farmer's Market, Day. A crowd is gathered under this banner and listens to Father Maxi as he delivers a service.]\n",
+    "output": "Friends, we gather in this place to mourn the victims of yesterday's tragedy: nine good people who were run over in the street by an elderly woman driver. [the four boys are shown in their funeral best]\n"
+  },
+  {
+    "input": "Friends, we gather in this place to mourn the victims of yesterday's tragedy: nine good people who were run over in the street by an elderly woman driver. [the four boys are shown in their funeral best]\n",
+    "output": "[yawns] Oh God, memorial services are sooo boring.\n"
+  },
+  {
+    "input": "[yawns] Oh God, memorial services are sooo boring.\n",
+    "output": "[jabs Cartman and says in hushed tones] You insensitive asshole, Cartman! Nine people died!\n"
+  },
+  {
+    "input": "[jabs Cartman and says in hushed tones] You insensitive asshole, Cartman! Nine people died!\n",
+    "output": "Yeah, but like, eight of them were hippies. Mostly hippies go to farmer's markets. Mostly.\n"
+  },
+  {
+    "input": "Yeah, but like, eight of them were hippies. Mostly hippies go to farmer's markets. Mostly.\n",
+    "output": "It is sometimes hard, in times like these, to understand God's way. Why would he allow nine innocent people to be run down in the prime of their lives by a senior citizen who, perhaps, shouldn't be driving? It is then that we must understand, God's sense of humor is very different from our own. He does not laugh at the simple \"man walks into a bar\" joke. No, God needs complex irony and subtle farcical twists that seem macabre to you and me. All that we can hope for is that God got his good laugh and a tragedy such as this will never happen again. [screeching tires are heard]\n"
+  },
+  {
+    "input": "It is sometimes hard, in times like these, to understand God's way. Why would he allow nine innocent people to be run down in the prime of their lives by a senior citizen who, perhaps, shouldn't be driving? It is then that we must understand, God's sense of humor is very different from our own. He does not laugh at the simple \"man walks into a bar\" joke. No, God needs complex irony and subtle farcical twists that seem macabre to you and me. All that we can hope for is that God got his good laugh and a tragedy such as this will never happen again. [screeching tires are heard]\n",
+    "output": "[rushing into the crowd] Look out!! [everyone turns to see. An elderly driver approaches them]\n"
+  },
+  {
+    "input": "[rushing into the crowd] Look out!! [everyone turns to see. An elderly driver approaches them]\n",
+    "output": "[somewhat short, nearsighted] Huh? Was that a stop sign back there? [the banner recedes behind him. Everyone screams and the driver begins mowing people down. He crashes into a light standard at the other end of the market] Ooooh, I think I hit a pothole.\n[Stan's house, night. The family is eating dinner.]\n"
+  },
+  {
+    "input": "[somewhat short, nearsighted] Huh? Was that a stop sign back there? [the banner recedes behind him. Everyone screams and the driver begins mowing people down. He crashes into a light standard at the other end of the market] Ooooh, I think I hit a pothole.\n[Stan's house, night. The family is eating dinner.]\n",
+    "output": "Hey Dad, how come they let old people drive?\n"
+  },
+  {
+    "input": "Hey Dad, how come they let old people drive?\n",
+    "output": "Well, Stan, it's a very fragile issue.\n"
+  },
+  {
+    "input": "Well, Stan, it's a very fragile issue.\n",
+    "output": "But they kill people.\n"
+  },
+  {
+    "input": "But they kill people.\n",
+    "output": "Sometimes, yes, but senior citizens have to be dealt with very gingerly, Stan. We can't just take their licenses away.\n"
+  },
+  {
+    "input": "Sometimes, yes, but senior citizens have to be dealt with very gingerly, Stan. We can't just take their licenses away.\n",
+    "output": "[enters in his motorized wheelchair] I'll be Goddamned if they think they can take my license away! [stops at his place at table]\n"
+  },
+  {
+    "input": "[enters in his motorized wheelchair] I'll be Goddamned if they think they can take my license away! [stops at his place at table]\n",
+    "output": "Oooh, Hi Dad.\n"
+  },
+  {
+    "input": "Oooh, Hi Dad.\n",
+    "output": "[to Randy] I heard what you said! You wanna take drivin' privileges away from seniors! Well let me tell you something, peckerface! I worked fifty five years in the steel mill!\n"
+  },
+  {
+    "input": "[to Randy] I heard what you said! You wanna take drivin' privileges away from seniors! Well let me tell you something, peckerface! I worked fifty five years in the steel mill!\n",
+    "output": "Yes Dad.\n"
+  },
+  {
+    "input": "Yes Dad.\n",
+    "output": "And I flew Spitfires over Germany in World War II!\n"
+  },
+  {
+    "input": "And I flew Spitfires over Germany in World War II!\n",
+    "output": "Yes I know.\n"
+  },
+  {
+    "input": "Yes I know.\n",
+    "output": "And I will be God-damned if the government thinks it can step in and take away my right to drive!\n"
+  },
+  {
+    "input": "And I will be God-damned if the government thinks it can step in and take away my right to drive!\n",
+    "output": "I think old people should have rights, Grandpa. I just don't wanna die.\n[Stark's Pond, night. A lone man is fishing in the middle of the pond. He senses something ominous and looks around. On the road nearby, a brown Buick drives by slowly. A short old woman is at the wheel.]\n"
+  },
+  {
+    "input": "I think old people should have rights, Grandpa. I just don't wanna die.\n[Stark's Pond, night. A lone man is fishing in the middle of the pond. He senses something ominous and looks around. On the road nearby, a brown Buick drives by slowly. A short old woman is at the wheel.]\n",
+    "output": "Damnit Mona, this isn't the fastest way to Country Kitchen Buffet!\n"
+  },
+  {
+    "input": "Damnit Mona, this isn't the fastest way to Country Kitchen Buffet!\n",
+    "output": "No, but it's the shortest. I save the most gas that way. [back at the pond the fisherman casts his line and looks back at the car]\n"
+  },
+  {
+    "input": "No, but it's the shortest. I save the most gas that way. [back at the pond the fisherman casts his line and looks back at the car]\n",
+    "output": "You save the most gas if you take the highway to Country Kitchen Buffet!\n"
+  },
+  {
+    "input": "You save the most gas if you take the highway to Country Kitchen Buffet!\n",
+    "output": "Less miles means less gas, you old fool. [back at the pond the fisherman catches something and is reeling it in, but looks at the car in doing so]\n"
+  },
+  {
+    "input": "Less miles means less gas, you old fool. [back at the pond the fisherman catches something and is reeling it in, but looks at the car in doing so]\n",
+    "output": "There's Country Kitchen right there!\n"
+  },
+  {
+    "input": "There's Country Kitchen right there!\n",
+    "output": "Where?\n"
+  },
+  {
+    "input": "Where?\n",
+    "output": "Right there! You're gonna miss it! [the woman steps hard on the brake and spins the car out of control. The fisherman is about to put his catch into his little boat. The car smashes through the guard rail over a bridge and lands directly on the fisherman, killing him.]\n"
+  },
+  {
+    "input": "Right there! You're gonna miss it! [the woman steps hard on the brake and spins the car out of control. The fisherman is about to put his catch into his little boat. The car smashes through the guard rail over a bridge and lands directly on the fisherman, killing him.]\n",
+    "output": "Is this the parking lot?\n"
+  },
+  {
+    "input": "Is this the parking lot?\n",
+    "output": "I think so.\n[News 4. A splash screen shows various correspondents and anchors, and a globe spins in front of the Montage.]\n"
+  },
+  {
+    "input": "I think so.\n[News 4. A splash screen shows various correspondents and anchors, and a globe spins in front of the Montage.]\n",
+    "output": "Another death tonight by a senior citizen motorist. Carl Zorn of Pine Junction was killed instantly when struck by a vehicle driven by Pete and Lydia Malman, who were trying to find Country Kitchen Buffet. This latest tragedy comes only two days after the accident in Deer Creek, where three construction workers and a bulldozer [shown] were run down by senior citizen Paul Thom [shown, irate], who was trying to find Country Kitchen Buffet. Public outcry is forcing the DMV to consider suspending the licenses of all seniors over seventy, though no decision has yet to be made.\n[Park County Community Center, day. The seniors have gathered there for a meeting.]\n"
+  },
+  {
+    "input": "Another death tonight by a senior citizen motorist. Carl Zorn of Pine Junction was killed instantly when struck by a vehicle driven by Pete and Lydia Malman, who were trying to find Country Kitchen Buffet. This latest tragedy comes only two days after the accident in Deer Creek, where three construction workers and a bulldozer [shown] were run down by senior citizen Paul Thom [shown, irate], who was trying to find Country Kitchen Buffet. Public outcry is forcing the DMV to consider suspending the licenses of all seniors over seventy, though no decision has yet to be made.\n[Park County Community Center, day. The seniors have gathered there for a meeting.]\n",
+    "output": "Seniors of South Park, I don't know about you, but I am mad as hell!\n"
+  },
+  {
+    "input": "Seniors of South Park, I don't know about you, but I am mad as hell!\n",
+    "output": "[randomly] Yeah!\n"
+  },
+  {
+    "input": "[randomly] Yeah!\n",
+    "output": "[rises] I'm sick of having my mental condition come into question!\n"
+  },
+  {
+    "input": "[rises] I'm sick of having my mental condition come into question!\n",
+    "output": "[waving his cane] We need to let everyone know we're pissed off, and we're not gonna take it anymore!\n"
+  },
+  {
+    "input": "[waving his cane] We need to let everyone know we're pissed off, and we're not gonna take it anymore!\n",
+    "output": "[randomly] Yeah! Yeah! That's right, Pete!\n"
+  },
+  {
+    "input": "[randomly] Yeah! Yeah! That's right, Pete!\n",
+    "output": "That's right! Now, ...can anybody remember what we're pissed off about? [everyone seems to have lost a clue] Now, remember we're all pissed about something and uh... that's why we had this meeting, but I... can't for the life of me re-\n"
+  },
+  {
+    "input": "That's right! Now, ...can anybody remember what we're pissed off about? [everyone seems to have lost a clue] Now, remember we're all pissed about something and uh... that's why we had this meeting, but I... can't for the life of me re-\n",
+    "output": "[rises] Oooo. Was it the kids skateboarding on the sidewalks? No? [sits down]\n"
+  },
+  {
+    "input": "[rises] Oooo. Was it the kids skateboarding on the sidewalks? No? [sits down]\n",
+    "output": "[seated behind a walker] Oh, I remember! They're gonna take our licenses away!\n"
+  },
+  {
+    "input": "[seated behind a walker] Oh, I remember! They're gonna take our licenses away!\n",
+    "output": "[randomly, suddenly animated] Yeah! Yeah! That's right!\n"
+  },
+  {
+    "input": "[randomly, suddenly animated] Yeah! Yeah! That's right!\n",
+    "output": "That's right! They're gonna try and take our licenses away! And I, for one, am mad as hell!\n"
+  },
+  {
+    "input": "That's right! They're gonna try and take our licenses away! And I, for one, am mad as hell!\n",
+    "output": "[randomly] Me too! Yeah, that's right! And mine too!\n"
+  },
+  {
+    "input": "[randomly] Me too! Yeah, that's right! And mine too!\n",
+    "output": "I'm sick of having my mental condition come into question!\n"
+  },
+  {
+    "input": "I'm sick of having my mental condition come into question!\n",
+    "output": "So now, what are we gonna do about it?\n"
+  },
+  {
+    "input": "So now, what are we gonna do about it?\n",
+    "output": "Do about what?\n"
+  },
+  {
+    "input": "Do about what?\n",
+    "output": "They're gonna take our licenses away.\n"
+  },
+  {
+    "input": "They're gonna take our licenses away.\n",
+    "output": "They are?? They can't do that! [brief argument ensues]\n"
+  },
+  {
+    "input": "They are?? They can't do that! [brief argument ensues]\n",
+    "output": "That's right. So you know what I think we should do? I think we should have a senior citizens' meeting! Get all the seniors together at the community center and unite!\n"
+  },
+  {
+    "input": "That's right. So you know what I think we should do? I think we should have a senior citizens' meeting! Get all the seniors together at the community center and unite!\n",
+    "output": "Great idea, Marvin!\n"
+  },
+  {
+    "input": "Great idea, Marvin!\n",
+    "output": "Wait, ah I think we're having that meeting right now.\n"
+  },
+  {
+    "input": "Wait, ah I think we're having that meeting right now.\n",
+    "output": "...Oh, right, this is the meeting.\n"
+  },
+  {
+    "input": "...Oh, right, this is the meeting.\n",
+    "output": "Right. To get those damn kids to stop skateboarding on the sidewalks!\n"
+  },
+  {
+    "input": "Right. To get those damn kids to stop skateboarding on the sidewalks!\n",
+    "output": "[randomly] Yeah! Yeah! That's right! Someone's gotta stop them!\n[The Marsh house, day. Sharon and Shelly are making construction paper cutouts in the kitchen. Shelly has finished some eyes.]\n"
+  },
+  {
+    "input": "[randomly] Yeah! Yeah! That's right! Someone's gotta stop them!\n[The Marsh house, day. Sharon and Shelly are making construction paper cutouts in the kitchen. Shelly has finished some eyes.]\n",
+    "output": "[steps into the kitchen] Sharon, have you seen Dad?\n"
+  },
+  {
+    "input": "[steps into the kitchen] Sharon, have you seen Dad?\n",
+    "output": "He's not here, hon. He's having a meeting with all the seniors in town at the community center.\n"
+  },
+  {
+    "input": "He's not here, hon. He's having a meeting with all the seniors in town at the community center.\n",
+    "output": "Oh. [steps back out] Wait a minute. If all the seniors in town are at a meeting, that means that when the meeting gets out...\n"
+  },
+  {
+    "input": "Oh. [steps back out] Wait a minute. If all the seniors in town are at a meeting, that means that when the meeting gets out...\n",
+    "output": "Every senior in town will be driving home...\n"
+  },
+  {
+    "input": "Every senior in town will be driving home...\n",
+    "output": "[with rising alarm] At the same time. [closeup] Oh My God!\n[Downtown South Park. People are milling around. Randy runs into the scene.]\n"
+  },
+  {
+    "input": "[with rising alarm] At the same time. [closeup] Oh My God!\n[Downtown South Park. People are milling around. Randy runs into the scene.]\n",
+    "output": "Get inside! Get inside! [people begin taking heed] Seniors' meeting getting out! Get off the streets! [everyone moves off the streets in panic]\n"
+  },
+  {
+    "input": "Get inside! Get inside! [people begin taking heed] Seniors' meeting getting out! Get off the streets! [everyone moves off the streets in panic]\n",
+    "output": "Oh my Goddd!\n[Park County Community Center, day. The seniors exit the center and head for their cars.]\n"
+  },
+  {
+    "input": "Oh my Goddd!\n[Park County Community Center, day. The seniors exit the center and head for their cars.]\n",
+    "output": "[amid the crowd] All right, great meeting everyone. Let's do it again sometime.\n"
+  },
+  {
+    "input": "[amid the crowd] All right, great meeting everyone. Let's do it again sometime.\n",
+    "output": "So long, everybody.\n"
+  },
+  {
+    "input": "So long, everybody.\n",
+    "output": "Goodbye, Missy. [other seniors say their goodbyes. They drive off slowly, some bumping into other cars on their way out]\n[Downtown South Park, at the farmer's market. Randy runs in.]\n"
+  },
+  {
+    "input": "Goodbye, Missy. [other seniors say their goodbyes. They drive off slowly, some bumping into other cars on their way out]\n[Downtown South Park, at the farmer's market. Randy runs in.]\n",
+    "output": "Get off the streets! Get off the streets! Old people are driving! [everyone runs off in a panic. Randy finds Gerald and grabs him] Gerald! Where are the boys?!\n"
+  },
+  {
+    "input": "Get off the streets! Get off the streets! Old people are driving! [everyone runs off in a panic. Randy finds Gerald and grabs him] Gerald! Where are the boys?!\n",
+    "output": "We've gotta get out of here!\n"
+  },
+  {
+    "input": "We've gotta get out of here!\n",
+    "output": "The boys, Gerald! Where are they?!\n"
+  },
+  {
+    "input": "The boys, Gerald! Where are they?!\n",
+    "output": "They, they're... they're playing street hockey!\n"
+  },
+  {
+    "input": "They, they're... they're playing street hockey!\n",
+    "output": "[closeup] Oh My God!! [lets Gerald go and runs off]\n[The neighborhood. Stan and the boys are playing street hockey. Cartman is the goalie, a trashcan his goal.]\n"
+  },
+  {
+    "input": "[closeup] Oh My God!! [lets Gerald go and runs off]\n[The neighborhood. Stan and the boys are playing street hockey. Cartman is the goalie, a trashcan his goal.]\n",
+    "output": "[providing his own play-by-play] With just ten seconds to go, the offense makes its move. Marsh heads for the goal and passes the ball to the poor kid. The poor kid hands it out to the Jew! The Jew shoots. Awww, and the shot is blocked again [the ball bounces off Cartman's girth], proving once and for all that Jews cannot play hockey!\n"
+  },
+  {
+    "input": "[providing his own play-by-play] With just ten seconds to go, the offense makes its move. Marsh heads for the goal and passes the ball to the poor kid. The poor kid hands it out to the Jew! The Jew shoots. Awww, and the shot is blocked again [the ball bounces off Cartman's girth], proving once and for all that Jews cannot play hockey!\n",
+    "output": "It isn't fair. Cartman's fatter than the goal.\n"
+  },
+  {
+    "input": "It isn't fair. Cartman's fatter than the goal.\n",
+    "output": "I'm not fat. I just have a sweet hockey body.\n"
+  },
+  {
+    "input": "I'm not fat. I just have a sweet hockey body.\n",
+    "output": "[in the distance] GET OFF THE STREETS! [Cartman perks up a bit] GET OFF THE STREETS! [the other boys listen, then turn to face the source of the sound]\n"
+  },
+  {
+    "input": "[in the distance] GET OFF THE STREETS! [Cartman perks up a bit] GET OFF THE STREETS! [the other boys listen, then turn to face the source of the sound]\n",
+    "output": "Dude, look!\n"
+  },
+  {
+    "input": "Dude, look!\n",
+    "output": "[running across empty fields] GET OFF... THE STREETS! GET OFF THE STREETS!\n"
+  },
+  {
+    "input": "[running across empty fields] GET OFF... THE STREETS! GET OFF THE STREETS!\n",
+    "output": "What is that?\n"
+  },
+  {
+    "input": "What is that?\n",
+    "output": "I don't know.\n"
+  },
+  {
+    "input": "I don't know.\n",
+    "output": "[coming closer] GET OFF... GET OFF THE STREET!\n"
+  },
+  {
+    "input": "[coming closer] GET OFF... GET OFF THE STREET!\n",
+    "output": "Dude, is that your dad?\n"
+  },
+  {
+    "input": "Dude, is that your dad?\n",
+    "output": "I think so.\n"
+  },
+  {
+    "input": "I think so.\n",
+    "output": "Looks like Stan's dad's been hittin' the bottle again.\n"
+  },
+  {
+    "input": "Looks like Stan's dad's been hittin' the bottle again.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "What is he saying?\n"
+  },
+  {
+    "input": "What is he saying?\n",
+    "output": "I can't understand him.\n"
+  },
+  {
+    "input": "I can't understand him.\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[slowly] Calm down! We cannot understand you!\n"
+  },
+  {
+    "input": "[slowly] Calm down! We cannot understand you!\n",
+    "output": "[Looks to his right] (Ohhhhh, look!) [a phalanx of slow-moving cars cruises down the street towards them] (You guys!)\n"
+  },
+  {
+    "input": "[Looks to his right] (Ohhhhh, look!) [a phalanx of slow-moving cars cruises down the street towards them] (You guys!)\n",
+    "output": "Oh! [drops his hockey stick and holds his hands to his face]\n"
+  },
+  {
+    "input": "Oh! [drops his hockey stick and holds his hands to his face]\n",
+    "output": "Old people!\n"
+  },
+  {
+    "input": "Old people!\n",
+    "output": "[scoops them up and away] Come on! [the cars get closer, Randy and the boys head for a an abandoned lodge]\n"
+  },
+  {
+    "input": "[scoops them up and away] Come on! [the cars get closer, Randy and the boys head for a an abandoned lodge]\n",
+    "output": "Oh God, they're coming! [the other boys mutter other things]\n[The Lodge. The group enters, Randy shuts and blocks the doors.]\n"
+  },
+  {
+    "input": "Oh God, they're coming! [the other boys mutter other things]\n[The Lodge. The group enters, Randy shuts and blocks the doors.]\n",
+    "output": "Get over there! Stay low! [the boys go to the far wall and turn around]\n"
+  },
+  {
+    "input": "Get over there! Stay low! [the boys go to the far wall and turn around]\n",
+    "output": "Why are they all out driving at the same time?\n"
+  },
+  {
+    "input": "Why are they all out driving at the same time?\n",
+    "output": "Shhhh! [lowers the blinds, closed them, and peeks out. Seeing nothing, he closes the blinds and sighs in relief] It's okay, boys. They're gone. Let's just lay low for a minute until we can find- [a blue car crashes through the large picture window the blinds were covering and stops. Randy jumps in alarm] AWWWW!!\n"
+  },
+  {
+    "input": "Shhhh! [lowers the blinds, closed them, and peeks out. Seeing nothing, he closes the blinds and sighs in relief] It's okay, boys. They're gone. Let's just lay low for a minute until we can find- [a blue car crashes through the large picture window the blinds were covering and stops. Randy jumps in alarm] AWWWW!!\n",
+    "output": "[a man] I don't remember there being a building here.\n"
+  },
+  {
+    "input": "[a man] I don't remember there being a building here.\n",
+    "output": "RUN! [they all gather at a corner, but another car crashes through the wall]\n"
+  },
+  {
+    "input": "RUN! [they all gather at a corner, but another car crashes through the wall]\n",
+    "output": "[a woman] I told you to turn left, Larry.\n"
+  },
+  {
+    "input": "[a woman] I told you to turn left, Larry.\n",
+    "output": "Get up the stairs! Up the stairs! Come on! Come on!! [he and the boys run up the stairs]\n"
+  },
+  {
+    "input": "Get up the stairs! Up the stairs! Come on! Come on!! [he and the boys run up the stairs]\n",
+    "output": "Aah! There's another one!\n"
+  },
+  {
+    "input": "Aah! There's another one!\n",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": ""
+  },
+  {
+    "input": "",
+    "output": "[follows them up the stair in her car] Excuse me, is this Costello Avenue? [Randy and the boys reach the second floor]\n"
+  },
+  {
+    "input": "[follows them up the stair in her car] Excuse me, is this Costello Avenue? [Randy and the boys reach the second floor]\n",
+    "output": "In here! [Randy opens a door and a bloody body drops down, dangling by its feet. They move on to the next room and close the door]\n"
+  },
+  {
+    "input": "In here! [Randy opens a door and a bloody body drops down, dangling by its feet. They move on to the next room and close the door]\n",
+    "output": "They're not gonna stop until we're all dead!\n"
+  },
+  {
+    "input": "They're not gonna stop until we're all dead!\n",
+    "output": "Quiet! Keep quiet! [a few seconds of silence pass]\n"
+  },
+  {
+    "input": "Quiet! Keep quiet! [a few seconds of silence pass]\n",
+    "output": "Dad, I'm scared.\n"
+  },
+  {
+    "input": "Dad, I'm scared.\n",
+    "output": "Just, keep your voices down. We'll stay the night in here. We'll stay the whole winter if we have to. [looks for a light switch to flip on]\n"
+  },
+  {
+    "input": "Just, keep your voices down. We'll stay the night in here. We'll stay the whole winter if we have to. [looks for a light switch to flip on]\n",
+    "output": "I'm not staying the winter in this room! We just need to tell old people they can't drive anymore!\n"
+  },
+  {
+    "input": "I'm not staying the winter in this room! We just need to tell old people they can't drive anymore!\n",
+    "output": "Awgh. Stan, it's not that simple! Just relax while I find the lights. Here we go. [finds the switch and flips them on, revealing a car]\n"
+  },
+  {
+    "input": "Awgh. Stan, it's not that simple! Just relax while I find the lights. Here we go. [finds the switch and flips them on, revealing a car]\n",
+    "output": "How the hell did we get up here?\n"
+  },
+  {
+    "input": "How the hell did we get up here?\n",
+    "output": "AAAAAAAHH!! [quickly exit the room]\n"
+  },
+  {
+    "input": "AAAAAAAHH!! [quickly exit the room]\n",
+    "output": "I told you this was the wrong way!\n[News 4. A splash screen shows various correspondents and anchors, and a globe spins in front of the montage.]\n"
+  },
+  {
+    "input": "I told you this was the wrong way!\n[News 4. A splash screen shows various correspondents and anchors, and a globe spins in front of the montage.]\n",
+    "output": "Tom, I'm standing outside of the Department of Motor Vehicles, where senior citizens have until three p.m. to hand over their driver's licenses. The new law was passed just three days after the Night of Horror, in which all seniors were out driving at the same time, causing fourteen deaths and three million dollars in damage.\n[DMV, inside. A poster on the wall says \"Drive 65 MPH. Stay alive.\" Two men and a woman sit at a table taking the licenses seniors standing in line give them.]\n"
+  },
+  {
+    "input": "Tom, I'm standing outside of the Department of Motor Vehicles, where senior citizens have until three p.m. to hand over their driver's licenses. The new law was passed just three days after the Night of Horror, in which all seniors were out driving at the same time, causing fourteen deaths and three million dollars in damage.\n[DMV, inside. A poster on the wall says \"Drive 65 MPH. Stay alive.\" Two men and a woman sit at a table taking the licenses seniors standing in line give them.]\n",
+    "output": "[seated in the middle, takes a license from an elderly man] Alrighty. [cuts it in two and drops the halves into a box] There we go. Next? [a fat elderly lady approaches, then the elderly man with the walker]\n"
+  },
+  {
+    "input": "[seated in the middle, takes a license from an elderly man] Alrighty. [cuts it in two and drops the halves into a box] There we go. Next? [a fat elderly lady approaches, then the elderly man with the walker]\n",
+    "output": "It ain't right what you're doin'! I never had an accident in my life!\n"
+  },
+  {
+    "input": "It ain't right what you're doin'! I never had an accident in my life!\n",
+    "output": "That's right. You shouldn't punish all of us. [the senior with the walker leaves the table]\n"
+  },
+  {
+    "input": "That's right. You shouldn't punish all of us. [the senior with the walker leaves the table]\n",
+    "output": "We're sorry, but this is the only way to be sure. Next please. [cuts up another license] There we go.\n"
+  },
+  {
+    "input": "We're sorry, but this is the only way to be sure. Next please. [cuts up another license] There we go.\n",
+    "output": "But how am I supposed to get to the grocery store? Or the pharmacy to buy medicine?\n"
+  },
+  {
+    "input": "But how am I supposed to get to the grocery store? Or the pharmacy to buy medicine?\n",
+    "output": "Well, maybe you should be in a nursing home. Hmmm?\n"
+  },
+  {
+    "input": "Well, maybe you should be in a nursing home. Hmmm?\n",
+    "output": "Some of us would rather die!\n"
+  },
+  {
+    "input": "Some of us would rather die!\n",
+    "output": "Well, we can certainly help you with that, too.\n"
+  },
+  {
+    "input": "Well, we can certainly help you with that, too.\n",
+    "output": "We aren't second-class citizens!\n"
+  },
+  {
+    "input": "We aren't second-class citizens!\n",
+    "output": "That's right! You can take our licenses, but you'll never take our pride!\n"
+  },
+  {
+    "input": "That's right! You can take our licenses, but you'll never take our pride!\n",
+    "output": "Yeah...\n[Stan's house, day. The boys leave the house.]\n"
+  },
+  {
+    "input": "Yeah...\n[Stan's house, day. The boys leave the house.]\n",
+    "output": "Ooooh, isn't this great you guys? Being able to walk the streets now that old people are confined to their homes where they belong?\n"
+  },
+  {
+    "input": "Ooooh, isn't this great you guys? Being able to walk the streets now that old people are confined to their homes where they belong?\n",
+    "output": "Billy, get in the car! I need you boys to help me pick up my new Hov-Around.\n"
+  },
+  {
+    "input": "Billy, get in the car! I need you boys to help me pick up my new Hov-Around.\n",
+    "output": "Uh, Grandpa, I don't think you should be driving.\n"
+  },
+  {
+    "input": "Uh, Grandpa, I don't think you should be driving.\n",
+    "output": "God-damnit Billy! You're supposed to listen to your dad, right?! Well I'm your dad's dad, and that means you get in this car before I tan all your hides!\n"
+  },
+  {
+    "input": "God-damnit Billy! You're supposed to listen to your dad, right?! Well I'm your dad's dad, and that means you get in this car before I tan all your hides!\n",
+    "output": "[to the other boys] Well, look at it this way: statistically speaking, we're safer inside a car with an old person driving than outside.\n"
+  },
+  {
+    "input": "[to the other boys] Well, look at it this way: statistically speaking, we're safer inside a car with an old person driving than outside.\n",
+    "output": "My God, he's right. [the boys climb in, strap themselves in, and Cartman offers a quick prayer] Hail Mary, full of grace, the Lord is with thee, even though I walk through the valley of death. [Marvin starts up the car and groans a bit] Guys, I don't know if I ever told you this, but, well, I love you guys. [a few moments later] Except for you, Kyle.\n"
+  },
+  {
+    "input": "My God, he's right. [the boys climb in, strap themselves in, and Cartman offers a quick prayer] Hail Mary, full of grace, the Lord is with thee, even though I walk through the valley of death. [Marvin starts up the car and groans a bit] Guys, I don't know if I ever told you this, but, well, I love you guys. [a few moments later] Except for you, Kyle.\n",
+    "output": "Okay, all set? [he backs out of the a driveway, and an oncoming car honks at him. The driver screams something at him. Pretty soon, other cars and trucks are doing their best to avoid him. Cars begin crashing and flying through the air. The boys wince at every accident]\n"
+  },
+  {
+    "input": "Okay, all set? [he backs out of the a driveway, and an oncoming car honks at him. The driver screams something at him. Pretty soon, other cars and trucks are doing their best to avoid him. Cars begin crashing and flying through the air. The boys wince at every accident]\n",
+    "output": "(Oooooo my God!) [a police cruiser catches up to them]\n"
+  },
+  {
+    "input": "(Oooooo my God!) [a police cruiser catches up to them]\n",
+    "output": "Ah, I think there's a police car behind you, Grandpa.\n"
+  },
+  {
+    "input": "Ah, I think there's a police car behind you, Grandpa.\n",
+    "output": "Eh? [signals to the officer] Go around. Go around, you moron!\n"
+  },
+  {
+    "input": "Eh? [signals to the officer] Go around. Go around, you moron!\n",
+    "output": "Blue Impala, pull your vehicle over!\n"
+  },
+  {
+    "input": "Blue Impala, pull your vehicle over!\n",
+    "output": "I believe that's us... thank God. [Marvin pulls over to the side and stops. Barbrady stops as well and approaches the driver side.]\n"
+  },
+  {
+    "input": "I believe that's us... thank God. [Marvin pulls over to the side and stops. Barbrady stops as well and approaches the driver side.]\n",
+    "output": "Could I see your license, please?\n"
+  },
+  {
+    "input": "Could I see your license, please?\n",
+    "output": "I ain't got one! You peckers took it!\n"
+  },
+  {
+    "input": "I ain't got one! You peckers took it!\n",
+    "output": "Well then, I have to take you to jail.\n"
+  },
+  {
+    "input": "Well then, I have to take you to jail.\n",
+    "output": "You just try taking me to jail, scrotum-head! You just try!\n[The police jail. Marvin sits behind bars with a cane.]\n"
+  },
+  {
+    "input": "You just try taking me to jail, scrotum-head! You just try!\n[The police jail. Marvin sits behind bars with a cane.]\n",
+    "output": "Stupid son of a- God damnit!\n"
+  },
+  {
+    "input": "Stupid son of a- God damnit!\n",
+    "output": "I just got him right here, Mr. Marsh.\n"
+  },
+  {
+    "input": "I just got him right here, Mr. Marsh.\n",
+    "output": "Oh brother. Well, good job, dad! Look at you now!\n"
+  },
+  {
+    "input": "Oh brother. Well, good job, dad! Look at you now!\n",
+    "output": "Oh God damnit, don't you lecture me you son of a bitch!\n"
+  },
+  {
+    "input": "Oh God damnit, don't you lecture me you son of a bitch!\n",
+    "output": "You just had to be so damn stubborn, didn't you?!\n"
+  },
+  {
+    "input": "You just had to be so damn stubborn, didn't you?!\n",
+    "output": "Now my son is gonna talk to me like I'm twelve.\n"
+  },
+  {
+    "input": "Now my son is gonna talk to me like I'm twelve.\n",
+    "output": "We're not treating you like children, Dad. All right? Now I think you owe Mr. Police Officer an apology. Who needs to apologize, hm? [wags his left index finger at Marvin] Who's the sorry-sorry?\n"
+  },
+  {
+    "input": "We're not treating you like children, Dad. All right? Now I think you owe Mr. Police Officer an apology. Who needs to apologize, hm? [wags his left index finger at Marvin] Who's the sorry-sorry?\n",
+    "output": "Kiss my sagging ass!\n"
+  },
+  {
+    "input": "Kiss my sagging ass!\n",
+    "output": "Well fine. I was gonna bail you out, but maybe you can just sit here for a bit and think about what you did!\n"
+  },
+  {
+    "input": "Well fine. I was gonna bail you out, but maybe you can just sit here for a bit and think about what you did!\n",
+    "output": "Well I won't be sitting here long! I've already called the AARP!\n"
+  },
+  {
+    "input": "Well I won't be sitting here long! I've already called the AARP!\n",
+    "output": "What's that?\n"
+  },
+  {
+    "input": "What's that?\n",
+    "output": "The American Association of Retired Persons! The largest political group in the country! When seniors like me are bein' discriminated against, the AARP comes and sets it right! [points to Randy] And you're gonna be sorry when they get here!\n[Mr. garrison's Classroom, day. He is giving a history lesson to the class.]\n"
+  },
+  {
+    "input": "The American Association of Retired Persons! The largest political group in the country! When seniors like me are bein' discriminated against, the AARP comes and sets it right! [points to Randy] And you're gonna be sorry when they get here!\n[Mr. garrison's Classroom, day. He is giving a history lesson to the class.]\n",
+    "output": "And so you see, children, Genghis Khan was a \"Mongol,\" not to be confused with a \"mongoloid\" like the actor, Nicolas Cage. Okay now, who can tell me in what [notices something outside and goes to the window, his voice fading off] the ...first ...film by a... mongoloid...\n"
+  },
+  {
+    "input": "And so you see, children, Genghis Khan was a \"Mongol,\" not to be confused with a \"mongoloid\" like the actor, Nicolas Cage. Okay now, who can tell me in what [notices something outside and goes to the window, his voice fading off] the ...first ...film by a... mongoloid...\n",
+    "output": "[What he sees is elderly paratroopers drifting down onto the school grounds. The kids' eyes follow him and then the kids gather at the window with him] That's odd. [the AARP has landed] Those ROTC guys are way off course. [the paratroopers open their cargo boxes and unload some firearms]\n"
+  },
+  {
+    "input": "[What he sees is elderly paratroopers drifting down onto the school grounds. The kids' eyes follow him and then the kids gather at the window with him] That's odd. [the AARP has landed] Those ROTC guys are way off course. [the paratroopers open their cargo boxes and unload some firearms]\n",
+    "output": "More old people!\n"
+  },
+  {
+    "input": "More old people!\n",
+    "output": "The American Association of Retired Persons.\n"
+  },
+  {
+    "input": "The American Association of Retired Persons.\n",
+    "output": "Stay in your seats, children. I'll be right back.\n"
+  },
+  {
+    "input": "Stay in your seats, children. I'll be right back.\n",
+    "output": "Set up a perimeter! Bring Bravo Team to Point Delta!\n"
+  },
+  {
+    "input": "Set up a perimeter! Bring Bravo Team to Point Delta!\n",
+    "output": "[a heavyset woman] Bravo Team is go.\n"
+  },
+  {
+    "input": "[a heavyset woman] Bravo Team is go.\n",
+    "output": "[a light-skinned black man] Move! Move! Move!\n"
+  },
+  {
+    "input": "[a light-skinned black man] Move! Move! Move!\n",
+    "output": "[a woman in purple dress] Let's go! Let's go! [Mr. Garrison comes out to meet them.]\n"
+  },
+  {
+    "input": "[a woman in purple dress] Let's go! Let's go! [Mr. Garrison comes out to meet them.]\n",
+    "output": "Uh, can I help you folks find something? [the woman smacks him across the face with the butt of her semi-automatic.] Oowww! [goes down in pain on one knee. The seniors begin firing away, with rifles, semi-automatics, whatever. The kids look on and gasp]\n"
+  },
+  {
+    "input": "Uh, can I help you folks find something? [the woman smacks him across the face with the butt of her semi-automatic.] Oowww! [goes down in pain on one knee. The seniors begin firing away, with rifles, semi-automatics, whatever. The kids look on and gasp]\n",
+    "output": "Old people gone mad!\n[U.S. Geological Service. Randy sits at his desk making notes when he hears the soft rustling of tarp on snow. He spins around in his chair to see more AARP paratroopers. He rises in disbelief. A gas canister flies through the window and unleashes its fumes. Randy starts coughing. The door flies open and some AARP paratroopers walk in wearing gas masks.]\n"
+  },
+  {
+    "input": "Old people gone mad!\n[U.S. Geological Service. Randy sits at his desk making notes when he hears the soft rustling of tarp on snow. He spins around in his chair to see more AARP paratroopers. He rises in disbelief. A gas canister flies through the window and unleashes its fumes. Randy starts coughing. The door flies open and some AARP paratroopers walk in wearing gas masks.]\n",
+    "output": "[woman wearing a flower-design dress] Contact. [quickly aims her machine gun at Randy] Put your hands up, young man!\n[South Park Jail. Marvin is looking out his small cell window when the AARP enters the jail and approach the cell.]\n"
+  },
+  {
+    "input": "[woman wearing a flower-design dress] Contact. [quickly aims her machine gun at Randy] Put your hands up, young man!\n[South Park Jail. Marvin is looking out his small cell window when the AARP enters the jail and approach the cell.]\n",
+    "output": "Marvin Marsh?\n"
+  },
+  {
+    "input": "Marvin Marsh?\n",
+    "output": "[turns around] Yes?\n"
+  },
+  {
+    "input": "[turns around] Yes?\n",
+    "output": "I'm Bill Stewart, President of the AARP. Hu-we've come to help the seniors in this town fight back.\n"
+  },
+  {
+    "input": "I'm Bill Stewart, President of the AARP. Hu-we've come to help the seniors in this town fight back.\n",
+    "output": "Oh, it's nice to meet ya, Bill.\n"
+  },
+  {
+    "input": "Oh, it's nice to meet ya, Bill.\n",
+    "output": "Huh?? We came as fast as we could. We just had to stop by Country Kitchen Buffet first.\n[Shady Acres, a Retirement Community. The AARP has arrived.]\n"
+  },
+  {
+    "input": "Huh?? We came as fast as we could. We just had to stop by Country Kitchen Buffet first.\n[Shady Acres, a Retirement Community. The AARP has arrived.]\n",
+    "output": "[a black man] It's the nursing home! Liberate our comrades!\n[Shady Acres, inside]\n"
+  },
+  {
+    "input": "[a black man] It's the nursing home! Liberate our comrades!\n[Shady Acres, inside]\n",
+    "output": "There now, Mr. Johnson. [wheels a senior across the room] We can go to the cafeteria and get you some creamed corn and toast. [the front doors swing open and the nurse stops in his tracks. The AARP members swarm in] Can I help you?\n"
+  },
+  {
+    "input": "There now, Mr. Johnson. [wheels a senior across the room] We can go to the cafeteria and get you some creamed corn and toast. [the front doors swing open and the nurse stops in his tracks. The AARP members swarm in] Can I help you?\n",
+    "output": "Help this! [jams the butt of his gun into the nurse, and the nurse falls.] The revolution is on, brother! [hands Mr. Johnson a semi-automatic] We're taking control of the town!\n"
+  },
+  {
+    "input": "Help this! [jams the butt of his gun into the nurse, and the nurse falls.] The revolution is on, brother! [hands Mr. Johnson a semi-automatic] We're taking control of the town!\n",
+    "output": "Well, alright, well it's about damn time! [addresses the nursing home residents] Hey everyone, we're taking the town. [other seniors look at him and express their approval]\n[The television room. More seniors there are watching TV.]\n"
+  },
+  {
+    "input": "Well, alright, well it's about damn time! [addresses the nursing home residents] Hey everyone, we're taking the town. [other seniors look at him and express their approval]\n[The television room. More seniors there are watching TV.]\n",
+    "output": "[enters with the black leader] Seniors, we're taking the town over.\n"
+  },
+  {
+    "input": "[enters with the black leader] Seniors, we're taking the town over.\n",
+    "output": "The revolution is on! [walks away]\n"
+  },
+  {
+    "input": "The revolution is on! [walks away]\n",
+    "output": "The revolution?\n"
+  },
+  {
+    "input": "The revolution?\n",
+    "output": "Oh, I'd better get my other sweater. [goes to change while the others leave the room]\n[A convalescent room.]\n"
+  },
+  {
+    "input": "Oh, I'd better get my other sweater. [goes to change while the others leave the room]\n[A convalescent room.]\n",
+    "output": "[distributing weapons] Mrs. Wyland, seniors are taking over the town. Would you like a gun?\n"
+  },
+  {
+    "input": "[distributing weapons] Mrs. Wyland, seniors are taking over the town. Would you like a gun?\n",
+    "output": "Oh, I suppose so.\n[Downtown South Park, day. One of the members brings Randy forward.]\n"
+  },
+  {
+    "input": "Oh, I suppose so.\n[Downtown South Park, day. One of the members brings Randy forward.]\n",
+    "output": "What the hell is going on?!\n"
+  },
+  {
+    "input": "What the hell is going on?!\n",
+    "output": "Shut your piehole and get over there! [Randy joins Gerald and other adult hostages]\n"
+  },
+  {
+    "input": "Shut your piehole and get over there! [Randy joins Gerald and other adult hostages]\n",
+    "output": "Randy, what is this?\n"
+  },
+  {
+    "input": "Randy, what is this?\n",
+    "output": "Hey! You are now under the authority of the AARP!\n"
+  },
+  {
+    "input": "Hey! You are now under the authority of the AARP!\n",
+    "output": "Ha! There you go, Mr. Smartmouth! Look at you now!\n"
+  },
+  {
+    "input": "Ha! There you go, Mr. Smartmouth! Look at you now!\n",
+    "output": "Dad, what are you doing??\n"
+  },
+  {
+    "input": "Dad, what are you doing??\n",
+    "output": "The AARP is gonna help us take this town until we get our licenses back!\n"
+  },
+  {
+    "input": "The AARP is gonna help us take this town until we get our licenses back!\n",
+    "output": "[in dark-blue dress] Yeah, and we're gonna ask for more money in Medi-Care, too!\n"
+  },
+  {
+    "input": "[in dark-blue dress] Yeah, and we're gonna ask for more money in Medi-Care, too!\n",
+    "output": "[black] That's right.\n"
+  },
+  {
+    "input": "[black] That's right.\n",
+    "output": "Yeah.\n"
+  },
+  {
+    "input": "Yeah.\n",
+    "output": "[handcuffed in front] Have you all got Alzheimer's? The-they're not gonna listen to a bunch of whacked out senior citizens.\n"
+  },
+  {
+    "input": "[handcuffed in front] Have you all got Alzheimer's? The-they're not gonna listen to a bunch of whacked out senior citizens.\n",
+    "output": "[puts hand to ear] Heh?? [lowers his hand] We'll tell them if they don't give us our demands, we'll start killin' hostages!\n"
+  },
+  {
+    "input": "[puts hand to ear] Heh?? [lowers his hand] We'll tell them if they don't give us our demands, we'll start killin' hostages!\n",
+    "output": "Huh, right. They're gonna really believe that. [the elderly woman next to him simply lifts her gun and fires at the man point blank. The man falls down dead]\n"
+  },
+  {
+    "input": "Huh, right. They're gonna really believe that. [the elderly woman next to him simply lifts her gun and fires at the man point blank. The man falls down dead]\n",
+    "output": "Isn't that a little extreme, Bill?\n"
+  },
+  {
+    "input": "Isn't that a little extreme, Bill?\n",
+    "output": "[puts hand to ear] Heh?? [lowers his hand] No, we gotta be tough! Just like with those damned Japs!\n"
+  },
+  {
+    "input": "[puts hand to ear] Heh?? [lowers his hand] No, we gotta be tough! Just like with those damned Japs!\n",
+    "output": "This is insane, Dad! You all need to stop right now before more people get hurt!\n"
+  },
+  {
+    "input": "This is insane, Dad! You all need to stop right now before more people get hurt!\n",
+    "output": "The time when you can tell me what to do is over, pucky-boy! We're in charge now!\n[South Park, day. The town is now an encampment, protected by barbed wire, sandbags, and metal shields. Mrs. Wyland stands behind some sandbags with her IV unit.]\n"
+  },
+  {
+    "input": "The time when you can tell me what to do is over, pucky-boy! We're in charge now!\n[South Park, day. The town is now an encampment, protected by barbed wire, sandbags, and metal shields. Mrs. Wyland stands behind some sandbags with her IV unit.]\n",
+    "output": "All right, we've got control of the Mayor's office and the fire station.\n"
+  },
+  {
+    "input": "All right, we've got control of the Mayor's office and the fire station.\n",
+    "output": "Reinforcements have arrived from the nursing home in Conifer.\n"
+  },
+  {
+    "input": "Reinforcements have arrived from the nursing home in Conifer.\n",
+    "output": "Good! Hell, us senior citizens could take over the entire country!\n"
+  },
+  {
+    "input": "Good! Hell, us senior citizens could take over the entire country!\n",
+    "output": "[a black woman] We've got company! [the military arrives]\n"
+  },
+  {
+    "input": "[a black woman] We've got company! [the military arrives]\n",
+    "output": "[over a PA system] Attention seniors: lay down your weapons and turns yourselves over!\n"
+  },
+  {
+    "input": "[over a PA system] Attention seniors: lay down your weapons and turns yourselves over!\n",
+    "output": "Mrs. Applegate, show 'em we mean business.\n"
+  },
+  {
+    "input": "Mrs. Applegate, show 'em we mean business.\n",
+    "output": "[holding an RPG launcher] All right. [fires the rocket and falls back from the recoil. The rocket heads for a Jeep full of troops. The troops scramble off. The rocket strikes and demolishes the Jeep, killing one of the soldiers]\n"
+  },
+  {
+    "input": "[holding an RPG launcher] All right. [fires the rocket and falls back from the recoil. The rocket heads for a Jeep full of troops. The troops scramble off. The rocket strikes and demolishes the Jeep, killing one of the soldiers]\n",
+    "output": "What do you want?\n"
+  },
+  {
+    "input": "What do you want?\n",
+    "output": "[puts hand to ear] Heh??\n"
+  },
+  {
+    "input": "[puts hand to ear] Heh??\n",
+    "output": "We want our licenses back!\n"
+  },
+  {
+    "input": "We want our licenses back!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "That's right. And we want more money in Medi-Care!\n"
+  },
+  {
+    "input": "That's right. And we want more money in Medi-Care!\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "And we want those damned kids to stop skateboardin' on the sidewalk!\n"
+  },
+  {
+    "input": "And we want those damned kids to stop skateboardin' on the sidewalk!\n",
+    "output": "Yeah!\n[Nighttime, the drive-in. All adults who are not senior citizens have been gathered into an enclosure around the massive screen. Two seniors stand guard at the gates, other seniors keep the adults in line. The adults are cold. Some cough, some try to keep warm by burning tires inside empty gas drums. Randy is one of those warming his hands over a fire. He moans. The boys arrive, having not been arrested.]\n"
+  },
+  {
+    "input": "Yeah!\n[Nighttime, the drive-in. All adults who are not senior citizens have been gathered into an enclosure around the massive screen. Two seniors stand guard at the gates, other seniors keep the adults in line. The adults are cold. Some cough, some try to keep warm by burning tires inside empty gas drums. Randy is one of those warming his hands over a fire. He moans. The boys arrive, having not been arrested.]\n",
+    "output": "Hey Dad.\n"
+  },
+  {
+    "input": "Hey Dad.\n",
+    "output": "[runs to the fence] Stan! Boys! You're safe!\n"
+  },
+  {
+    "input": "[runs to the fence] Stan! Boys! You're safe!\n",
+    "output": "Dad, why is everyone letting old people do this? Why doesn't somebody stop them?\n"
+  },
+  {
+    "input": "Dad, why is everyone letting old people do this? Why doesn't somebody stop them?\n",
+    "output": "They've tried to stop them, son, but... the seniors get up so early in the morning they... get everything done before everyone else is even awake!\n"
+  },
+  {
+    "input": "They've tried to stop them, son, but... the seniors get up so early in the morning they... get everything done before everyone else is even awake!\n",
+    "output": "They're saying something about taking over the entire country.\n"
+  },
+  {
+    "input": "They're saying something about taking over the entire country.\n",
+    "output": "[exasperated] Yes. And now seeing how early they get up, I don't see how anyone can stop them. Wait a minute. You boys! You get up almost as early as they do! You can fight them!\n"
+  },
+  {
+    "input": "[exasperated] Yes. And now seeing how early they get up, I don't see how anyone can stop them. Wait a minute. You boys! You get up almost as early as they do! You can fight them!\n",
+    "output": "No. Come on, Dad. Can't you guys do it?\n"
+  },
+  {
+    "input": "No. Come on, Dad. Can't you guys do it?\n",
+    "output": "No, son. We... like to sleep in.\n"
+  },
+  {
+    "input": "No, son. We... like to sleep in.\n",
+    "output": "Two hostages come front and center! [Randy looks back, alarmed].\n"
+  },
+  {
+    "input": "Two hostages come front and center! [Randy looks back, alarmed].\n",
+    "output": "They're coming!! Get out of here before they see you! Run to the hills and find a way to fight them! Go!! [the boys turn and leave] Boys, avenger me! AVENGE ME!!\n[The woods. The boys have set up a little camp there for the night.]\n"
+  },
+  {
+    "input": "They're coming!! Get out of here before they see you! Run to the hills and find a way to fight them! Go!! [the boys turn and leave] Boys, avenger me! AVENGE ME!!\n[The woods. The boys have set up a little camp there for the night.]\n",
+    "output": "All right, check it out. Kenny did reconnaissance on the town. The old people have blockades here [south entrance] and here [west entrance]. The old ladies are keeping watch in towers around the perimeter, and the leaders along with my grandpa are most likely in the Mayor's office.\n"
+  },
+  {
+    "input": "All right, check it out. Kenny did reconnaissance on the town. The old people have blockades here [south entrance] and here [west entrance]. The old ladies are keeping watch in towers around the perimeter, and the leaders along with my grandpa are most likely in the Mayor's office.\n",
+    "output": "So our only solution is to cut off their life force.\n"
+  },
+  {
+    "input": "So our only solution is to cut off their life force.\n",
+    "output": "We can't fight them, Cartman.\n"
+  },
+  {
+    "input": "We can't fight them, Cartman.\n",
+    "output": "No. But we can sneak into town and shut down their food supply. [runs his finger along the map to its destination] Here.\n"
+  },
+  {
+    "input": "No. But we can sneak into town and shut down their food supply. [runs his finger along the map to its destination] Here.\n",
+    "output": "Country Kitchen Buffet?\n"
+  },
+  {
+    "input": "Country Kitchen Buffet?\n",
+    "output": "Yeah. You take out Country Kitchen Buffet, and old people won't know what to do.\n"
+  },
+  {
+    "input": "Yeah. You take out Country Kitchen Buffet, and old people won't know what to do.\n",
+    "output": "That's a retarded idea, Cartman!\n"
+  },
+  {
+    "input": "That's a retarded idea, Cartman!\n",
+    "output": "Is it? Two years ago they closed the Country Kitchen Buffet in Steamboat Springs. And all the old people died of starvation in less than a week.\n"
+  },
+  {
+    "input": "Is it? Two years ago they closed the Country Kitchen Buffet in Steamboat Springs. And all the old people died of starvation in less than a week.\n",
+    "output": "Yeah, I remember hearing about that.\n"
+  },
+  {
+    "input": "Yeah, I remember hearing about that.\n",
+    "output": "Even if it could work, how would we go about shutting it down?\n"
+  },
+  {
+    "input": "Even if it could work, how would we go about shutting it down?\n",
+    "output": "I think I have a plan, though we'll have to do it tonight.\n"
+  },
+  {
+    "input": "I think I have a plan, though we'll have to do it tonight.\n",
+    "output": "We'll start by sneaking into town, cleverly disguised as black people. [they appear from the sides of buildings dressed in black and then gather in front of one of them] At 5:45 Kenny and Kyle split off and set a diversion on the east end of town. [they head for a train at the South Park Train Station and climb into a caboose. Kenny pulls on the horn] Meanwhile, Stan and I sneak into the Mayor's office[the elderly guards sleep standing up and fail to take notice of any sound] and steal some of the explosives the old people have stashed.\n"
+  },
+  {
+    "input": "We'll start by sneaking into town, cleverly disguised as black people. [they appear from the sides of buildings dressed in black and then gather in front of one of them] At 5:45 Kenny and Kyle split off and set a diversion on the east end of town. [they head for a train at the South Park Train Station and climb into a caboose. Kenny pulls on the horn] Meanwhile, Stan and I sneak into the Mayor's office[the elderly guards sleep standing up and fail to take notice of any sound] and steal some of the explosives the old people have stashed.\n",
+    "output": "Nine o'clock: we rendezvous at the Country Kitchen Buffet, where we strap the explosives and the timer to Kyle's chest. We say our tearful goodbyes to Kyle, and then we send him inside.\n[Cartman does all the strapping, and he brings out a remote-control trigger as Kyle approaches the restaurant's front door. He presses the button and the buffet blows up. Kyle's charred hat drops back in front of the boys. The boys cheer.]\n"
+  },
+  {
+    "input": "Nine o'clock: we rendezvous at the Country Kitchen Buffet, where we strap the explosives and the timer to Kyle's chest. We say our tearful goodbyes to Kyle, and then we send him inside.\n[Cartman does all the strapping, and he brings out a remote-control trigger as Kyle approaches the restaurant's front door. He presses the button and the buffet blows up. Kyle's charred hat drops back in front of the boys. The boys cheer.]\n",
+    "output": "Yeah!\n"
+  },
+  {
+    "input": "Yeah!\n",
+    "output": "All right!\n"
+  },
+  {
+    "input": "All right!\n",
+    "output": "(Woohoo!)\n"
+  },
+  {
+    "input": "(Woohoo!)\n",
+    "output": "Aw yeah!\n"
+  },
+  {
+    "input": "Aw yeah!\n",
+    "output": "We did it! [Cartman is finished and the others look at him like he's crazy]\n"
+  },
+  {
+    "input": "We did it! [Cartman is finished and the others look at him like he's crazy]\n",
+    "output": "...Yeah, or we just go to Country Kitchen Buffet and lock it from the inside so the seniors can't get in.\n"
+  },
+  {
+    "input": "...Yeah, or we just go to Country Kitchen Buffet and lock it from the inside so the seniors can't get in.\n",
+    "output": "Well, right, or we could always do that.\n[South Park, day. The old people have the run of the town, and they're bringing in heavier artillery.]\n"
+  },
+  {
+    "input": "Well, right, or we could always do that.\n[South Park, day. The old people have the run of the town, and they're bringing in heavier artillery.]\n",
+    "output": "All right everyone, round up your ammunition and get ready to move! We're takin' this war further out!\n"
+  },
+  {
+    "input": "All right everyone, round up your ammunition and get ready to move! We're takin' this war further out!\n",
+    "output": "[amid other cheers] All right!\n"
+  },
+  {
+    "input": "[amid other cheers] All right!\n",
+    "output": "Uh, I appreciate what the AARP is tryin' to do for us, but uh, all we want is our licenses back.\n"
+  },
+  {
+    "input": "Uh, I appreciate what the AARP is tryin' to do for us, but uh, all we want is our licenses back.\n",
+    "output": "[puts hand to ear] Huh?? [lowers his hand] Heck no! This is goin' too well. We're gonna take the whole country back. Wipe out everyone below the age of sixty five!\n"
+  },
+  {
+    "input": "[puts hand to ear] Huh?? [lowers his hand] Heck no! This is goin' too well. We're gonna take the whole country back. Wipe out everyone below the age of sixty five!\n",
+    "output": "Wipe 'em out?? What are you? Senile?\n"
+  },
+  {
+    "input": "Wipe 'em out?? What are you? Senile?\n",
+    "output": "[approaches the front door of Country Kitchen Buffet] Come on, everyone! It's time to plan for Phase 2! [tries to get the doors open, but finds they're locked. He scratches his head] What the heck? [checks again, but the doors remain locked] Huh? What is this?! It's 6 a.m. C-Country Kitchen should be open!\n"
+  },
+  {
+    "input": "[approaches the front door of Country Kitchen Buffet] Come on, everyone! It's time to plan for Phase 2! [tries to get the doors open, but finds they're locked. He scratches his head] What the heck? [checks again, but the doors remain locked] Huh? What is this?! It's 6 a.m. C-Country Kitchen should be open!\n",
+    "output": "It's not open? It has to be! [each man takes a door and tries to open it, but the doors won't budge]\n"
+  },
+  {
+    "input": "It's not open? It has to be! [each man takes a door and tries to open it, but the doors won't budge]\n",
+    "output": "Try a window.\n"
+  },
+  {
+    "input": "Try a window.\n",
+    "output": "[bangs on a window, to no avail] They're blocked from the inside.\n"
+  },
+  {
+    "input": "[bangs on a window, to no avail] They're blocked from the inside.\n",
+    "output": "No... [bangs frantically on the double doors] Let us in! Let us in!\n"
+  },
+  {
+    "input": "No... [bangs frantically on the double doors] Let us in! Let us in!\n",
+    "output": "Open the door! It's six a.m. [the other seniors come up and bang on the windows]\n"
+  },
+  {
+    "input": "Open the door! It's six a.m. [the other seniors come up and bang on the windows]\n",
+    "output": "Open the Country Kitchen Buffet for us!\n"
+  },
+  {
+    "input": "Open the Country Kitchen Buffet for us!\n",
+    "output": "You have to let us in! [a few hours later and all the seniors are sprawled out on the snow. One of them is still trying to crawl. A few more hours and all movement has stopped]\n"
+  },
+  {
+    "input": "You have to let us in! [a few hours later and all the seniors are sprawled out on the snow. One of them is still trying to crawl. A few more hours and all movement has stopped]\n",
+    "output": "All right everyone, area secure. Collect their weapons and free the hostages. [walks up to the boys] That was a great strategy, boys. You may very well have saved this entire country. [Randy and Sharon arrive rubbing their eyes. Gerald and Sheila arrive also]\n"
+  },
+  {
+    "input": "All right everyone, area secure. Collect their weapons and free the hostages. [walks up to the boys] That was a great strategy, boys. You may very well have saved this entire country. [Randy and Sharon arrive rubbing their eyes. Gerald and Sheila arrive also]\n",
+    "output": "Whoa-ho-ho-ooh, what happened? Is it over?\n"
+  },
+  {
+    "input": "Whoa-ho-ho-ooh, what happened? Is it over?\n",
+    "output": "Everything is fine. Control of the town is back to you folks.\n"
+  },
+  {
+    "input": "Everything is fine. Control of the town is back to you folks.\n",
+    "output": "[two soldiers escort his fatigued self away] Country Kitchen... wha-what happened?\n"
+  },
+  {
+    "input": "[two soldiers escort his fatigued self away] Country Kitchen... wha-what happened?\n",
+    "output": "[one of two escorting Marvin] Sir, what should we do with this one?\n"
+  },
+  {
+    "input": "[one of two escorting Marvin] Sir, what should we do with this one?\n",
+    "output": "It's up to the townspeople.\n"
+  },
+  {
+    "input": "It's up to the townspeople.\n",
+    "output": "Well, I think he learned his lesson. Huh? Don't you feel silly now, Dad? I think somebody owes us all an apology. Yes he does.\n"
+  },
+  {
+    "input": "Well, I think he learned his lesson. Huh? Don't you feel silly now, Dad? I think somebody owes us all an apology. Yes he does.\n",
+    "output": "Oh, stop it, Dad! This is partly your fault!\n"
+  },
+  {
+    "input": "Oh, stop it, Dad! This is partly your fault!\n",
+    "output": "Huh?\n"
+  },
+  {
+    "input": "Huh?\n",
+    "output": "Look, all Grandpa wants is not to be talked to like a child. I think half of what he was angry about wasn't what you were doing, but how you were doing it.\n"
+  },
+  {
+    "input": "Look, all Grandpa wants is not to be talked to like a child. I think half of what he was angry about wasn't what you were doing, but how you were doing it.\n",
+    "output": "That's right.\n"
+  },
+  {
+    "input": "That's right.\n",
+    "output": "And Grandpa, you should be proud that you made it through life to be a senior, but you should also realize that, when you're behind the wheel, you're a killing machine.\n"
+  },
+  {
+    "input": "And Grandpa, you should be proud that you made it through life to be a senior, but you should also realize that, when you're behind the wheel, you're a killing machine.\n",
+    "output": "I know. I guess sometimes us seniors need to know when to stop driving so we don't put the responsibility on our families.\n"
+  },
+  {
+    "input": "I know. I guess sometimes us seniors need to know when to stop driving so we don't put the responsibility on our families.\n",
+    "output": "Well, I think this has been a real learning experience for the Marsh family. People died, but we all grew a little. Let's just go home.\n"
+  },
+  {
+    "input": "Well, I think this has been a real learning experience for the Marsh family. People died, but we all grew a little. Let's just go home.\n",
+    "output": "Sure. I'll drive.\n"
+  },
+  {
+    "input": "Sure. I'll drive.\n",
+    "output": "[laughs and goes to wheel Marvin off] That's our Grandpa. [both men and Sharon laugh]\n"
+  }
+]
