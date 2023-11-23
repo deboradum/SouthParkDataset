@@ -1,6 +1,9 @@
 import os
 import json
+
+dataAll = []
 for season in range(1,27):
+    dataSeason = []
     for episode in range(1, 27):
         data = []
         try:
@@ -12,6 +15,8 @@ for season in range(1,27):
                 for line in f:
                     if line.isupper():
                         data.append(currItem.copy())
+                        dataSeason.append(currItem.copy())
+                        dataAll.append(currItem.copy())
                         currItem["input"] = currItem["output"]
                         currItem["output"] = ""
                     else:
@@ -21,3 +26,9 @@ for season in range(1,27):
                 f.write(json.dumps(data, indent=2))
         except Exception as e:
             print(f"Error converting season {season} - Episode {episode}")
+
+        with open(f"parsed/S{season:02}/S{season:02}.json", "w+") as f:
+                f.write(json.dumps(dataSeason, indent=2))
+
+with open(f"parsed/all.json", "w+") as f:
+        f.write(json.dumps(dataAll, indent=2))
