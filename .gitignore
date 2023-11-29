@@ -1,2 +1,5 @@
 *.log
+*.txt
 .DS_Store
+
+parsed_context_full
