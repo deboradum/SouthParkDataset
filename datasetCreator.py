@@ -1,7 +1,10 @@
 import os
 import json
 
-def append_context(context, new_item, max_context=10):
+OUTPUT_FOLDER_NAME = "parsed_context_full"
+MAX_CONTEXT = 1000
+
+def append_context(context, new_item, max_context):
     if len(context) >= max_context:
         del context[0]
     context.append(new_item)
@@ -37,19 +40,19 @@ for season in range(1,27):
                         currItem["context"] = context_to_string(append_context(
                                                                     context, 
                                                                     currItem["output"], 
-                                                                    max_context=30)
+                                                                    max_context=MAX_CONTEXT)
                                                                 )
-                        currItem["output"] = ""
+                        currItem["output"] = line
                     else:
                         currItem["output"] += line
 
-            with open(f"parsed_context_30/S{season:02}/S{season:02}E{episode:02}.json", "w+") as f:
+            with open(f"{OUTPUT_FOLDER_NAME}/S{season:02}/S{season:02}E{episode:02}.json", "w+") as f:
                 f.write(json.dumps(data, indent=2))
         except Exception as e:
             print(f"Error converting season {season} - Episode {episode}", e)
 
-        with open(f"parsed_context_30/S{season:02}/S{season:02}.json", "w+") as f:
+        with open(f"{OUTPUT_FOLDER_NAME}/S{season:02}/S{season:02}.json", "w+") as f:
                 f.write(json.dumps(dataSeason, indent=2))
 
-with open(f"parsed_context_30/all.json", "w+") as f:
+with open(f"{OUTPUT_FOLDER_NAME}/all.json", "w+") as f:
         f.write(json.dumps(dataAll, indent=2))
