@@ -1,4 +1,3 @@
-import os
 import json
 
 OUTPUT_FOLDER_NAME = "parsed_context_full"
@@ -40,8 +39,7 @@ for season in range(1,27):
                         currItem["context"] = context_to_string(append_context(
                                                                     context, 
                                                                     currItem["output"], 
-                                                                    max_context=MAX_CONTEXT)
-                                                                )
+                                                                    max_context=MAX_CONTEXT))
                         currItem["output"] = line
                     else:
                         currItem["output"] += line

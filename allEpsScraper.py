@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
@@ -21,7 +20,7 @@ for sn, s in enumerate(season):
     try:
         accept_cookies = driver.find_element(By.XPATH, '/html/body/div[6]/div/div/div[2]/div[2]')
         accept_cookies.click()
-    except Exception as e:
+    except Exception:
         print("No cookies to accepts")
 
     # Find list of episodes.
@@ -41,7 +40,7 @@ for sn, s in enumerate(season):
         ep_script = ""
         try:
             table = driver.find_element(By.XPATH, table_xpath)
-        except Exception as e:
+        except Exception:
             print(f"Season {s} episode {i} failed")
             continue
         for row in table.find_elements(By.TAG_NAME, 'tr'):
