@@ -3,6 +3,8 @@
 *.jsonl
 .DS_Store
 
+*__pycache__
+
 parsed_context_full
 
 finetune
