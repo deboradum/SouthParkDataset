@@ -25,7 +25,7 @@ for season in range(1,27):
         try:
             with open(f"scripts/S{season:02}/S{season:02}E{episode:02}.txt", "r") as f:
                 currItem = {
-                    "input": "", 
+                    "input": "",
                     "output": "",
                     "context": "",
                 }
@@ -37,8 +37,8 @@ for season in range(1,27):
                         dataAll.append(currItem.copy())
                         currItem["input"] = currItem["output"]
                         currItem["context"] = context_to_string(append_context(
-                                                                    context, 
-                                                                    currItem["output"], 
+                                                                    context,
+                                                                    currItem["output"],
                                                                     max_context=MAX_CONTEXT))
                         currItem["output"] = line
                     else:
