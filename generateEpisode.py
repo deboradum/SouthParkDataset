@@ -34,7 +34,7 @@ def build_parser():
         "--temp", type=float, default=0.8, help="The sampling temperature"
     )
     parser.add_argument(
-        "--eos-token", type=str, default="<|=====|>", help="EOS token on which to stop generating"
+        "--eos-token", type=str, default="<|ENDOFTEXT|>", help="EOS token on which to stop generating"
     )
     parser.add_argument(
         "--prompt",
@@ -132,6 +132,8 @@ def generate(model, prompt, tokenizer, args):
     print(args.prompt, end="", flush=True)
     prompt = mx.array(tokenizer.encode(args.prompt))
 
+    # print("token:", tokenizer.encode("<|EOT|>"))
+
     def generate_step():
         temp = args.temp
 
@@ -207,6 +209,5 @@ if __name__ == "__main__":
     if args.prompt is None:
         print("Generating")
         exit()
-
 
     generate(model, args.prompt, tokenizer, args)

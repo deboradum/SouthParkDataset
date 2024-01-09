@@ -13,7 +13,7 @@ def convertNoContext(contexts, outputFolder):
                     for e in data:
                         inputText = e['input']
                         outputText = e['output']
-                        string = f"<|INPUT|>\n\n{inputText}\n\n<|OUTPUT|>\n\n{outputText}\n\n<|=====|>"
+                        string = f"<|INPUT|>\n{inputText}\n<|OUTPUT|>\n{outputText}\n<|ENDOFTEXT|>"
                         elementJson = {"text": string}
                         # Episode convert
                         with open(f"{outputFolder}/S{season:02}/S{season:02}E{episode:02}.jsonl", "a+") as f:
@@ -41,7 +41,7 @@ def convertContext(contexts):
                         inputText = e['input']
                         outputText = e['output']
                         contextText = e["context"]
-                        string = f"<|INPUT|>\n\n{inputText}\n\n<|OUTPUT|>\n\n{outputText}\n\n<|CONTEXT|>\n\n{contextText}<|=====|>"
+                        string = f"<|INPUT|>\n{inputText}\n<|OUTPUT|>\n{outputText}\n<|CONTEXT|>\n{contextText}<|ENDOFTEXT|>"
                         elementJson = {"text": string}
                         # Episode convert
                         with open(f"parsed_context_{context}_rewrite/S{season:02}/S{season:02}E{episode:02}.jsonl", "a+") as f:
