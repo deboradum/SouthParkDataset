@@ -1,15 +1,9 @@
 *.log
 *.txt
 *.jsonl
-.DS_Store
+*.safetensors
 
 *__pycache__
 
+.DS_Store
 parsed_context_full
-
-finetune
-*_0
-*_5
-*_10
-*_20
-*_30
