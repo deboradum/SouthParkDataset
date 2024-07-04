@@ -1,3 +1,4 @@
+import json
 import re
 
 from mlx_lm import generate, load
@@ -18,18 +19,11 @@ def dialog_to_prompt(dialog):
 
 
 def response_to_monolog(text):
-    print("----------")
-    print("parsing:", text)
-    pattern = re.compile(
-        r"<|start_header_id|>(.*?)<|end_header_id|>\n(.*?)(<|eot_id|>\n)?",
-        re.DOTALL,
-    )
+    pattern = re.compile(r'<\|start_header_id\|>(.*?)<\|end_header_id\|>\n(.*?)(?:<\|eot_id\|>\n)?$', re.DOTALL)
     match = pattern.search(text)
     if match:
         speaker = match.group(1)
         text = match.group(2)
-
-        print("speaker:", speaker, "text:", text)
 
         return {"speaker": speaker, "text": text}
 
@@ -41,7 +35,7 @@ class EpisodeGenerator:
         self.model, self.tokenizer = load(model, adapter_path=adapter_path)
         self.script = []
 
-    def generate_next_dialog(self, dialog, max_tokens=1000, temp=0):
+    def generate_next_dialog(self, dialog, max_tokens=200, temp=0.0):
         return generate(
             self.model,
             self.tokenizer,
@@ -49,6 +43,7 @@ class EpisodeGenerator:
             max_tokens,
             verbose=True,
             temp=temp,
+            repetition_penalty=2.0,
         )
 
     # initial_dialog = [{"speaker": <speaker>, "text": <text>}, ...]
@@ -71,6 +66,11 @@ class EpisodeGenerator:
                 self.script.append(monolog)
 
 
+    def write_to_file(self, filepath):
+        with open(filepath, "w") as f:
+            json.dump(self.script, f)
+
+
 if __name__ == "__main__":
     generator = EpisodeGenerator("meta-llama/Meta-Llama-3-8B-Instruct", "adapters")
     title = "Michael Jackson loves little boys"
@@ -78,4 +78,5 @@ if __name__ == "__main__":
         {"speaker": "CARTMAN", "text": "Holy shit guys! I just got a text message from Michael jackson. He wants to see me!"},
         {"speaker": "STAN", "text": "He probably just wants to rape you cartman, don't do it"},
     ]
-    generator.generate_start_episode(title, initial_dialog)
+    generator.generate_start_episode(title, initial_dialog=initial_dialog, episode_length=69)
+    generator.write_to_file("testScript.json")
