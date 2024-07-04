@@ -14,7 +14,7 @@ seed: 0
 lora_layers: 32
 
 # Minibatch size.
-batch_size: 1
+batch_size: 2
 
 # Iterations to train for.
 iters: 6000
@@ -38,7 +38,7 @@ resume_adapter_file: null
 adapter_path: "adapters"
 
 # Save the model every N iterations.
-save_every: 10
+save_every: 100
 
 # Evaluate on the test set after training
 test: true
